@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Sinal para delimitar fronteiras em terras",
+      "answer": "MARCO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Tratamento dos escravos para a patroa",
+      "answer": "SINHA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Pano de mesa",
+      "answer": "ATOALHADO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Refratário a doença contagiosa",
+      "answer": "IMUNE",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "Chover em flocos congelados",
+      "answer": "NEVAR",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Companheiro de negócios",
+      "answer": "SOCIO",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "O sambista carioca Nogueira",
+      "answer": "DIOGO",
+      "row": 3,
+      "col": 6
+    },
+    "16": {
+      "clue": "O centro do nosso sistema planetário",
+      "answer": "SOL",
+      "row": 4,
+      "col": 1
+    },
+    "17": {
+      "clue": "País que faz fronteira com a Venezuela e com o Uruguai",
+      "answer": "BRASIL",
+      "row": 4,
+      "col": 5
+    },
+    "18": {
+      "clue": "Autofoco",
+      "answer": "AF",
+      "row": 5,
+      "col": 0
+    },
+    "19": {
+      "clue": "Fruto em drupas amareladas",
+      "answer": "JUA",
+      "row": 5,
+      "col": 4
+    },
+    "20": {
+      "clue": "Bolo de farinha e ovos, muito fino",
+      "answer": "LO",
+      "row": 5,
+      "col": 9
+    },
+    "21": {
+      "clue": "Fontes usadas como terapia",
+      "answer": "TERMAS",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "O K das cartas",
+      "answer": "REI",
+      "row": 6,
+      "col": 7
+    },
+    "26": {
+      "clue": "Que tem prazer em derramar sangue, causar dor",
+      "answer": "CRUEL",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Fio que gera som num violão",
+      "answer": "CORDA",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "Pau de bandeira",
+      "answer": "HASTE",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Concorrente",
+      "answer": "RIVAL",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Fartura",
+      "answer": "SACIEDADE",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "(mole) Maluco, caduco",
+      "answer": "MIOLO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Famosa marca de relógios",
+      "answer": "ROLEX",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Conjunção que indica adição",
+      "answer": "MAIS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Fig.) Ambiente",
+      "answer": "ATMOSFERA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Quase sem voz",
+      "answer": "ROUCO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Lugar de criação de galgos, terriers e pointers",
+      "answer": "CANIL",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A substância gordurosa que elimina rangidos",
+      "answer": "OLEO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "A jornalista e apresentadora Annenberg",
+      "answer": "SANDRA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Opinião, modo de pensar",
+      "answer": "IDEIA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Baianos) A banda com Pepeu Gomes, Baby Consuelo e Moraes Moreira, dentre outros",
+      "answer": "NOVOS",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Canto para adormecer crianças",
+      "answer": "ARROLO",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Presteza de movimentos",
+      "answer": "AGILIDADE",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Ônibus, em inglês",
+      "answer": "BUS",
+      "row": 4,
+      "col": 5
+    },
+    "18": {
+      "clue": "Um dos anões da história infantil de Branca de Neve",
+      "answer": "ATCHIM",
+      "row": 5,
+      "col": 0
+    },
+    "19": {
+      "clue": "Casaco curto",
+      "answer": "JALECO",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "Do maior país da Terra",
+      "answer": "RUSSO",
+      "row": 6,
+      "col": 2
+    },
+    "23": {
+      "clue": "Um material como o estanho ou o chumbo",
+      "answer": "METAL",
+      "row": 6,
+      "col": 3
+    },
+    "24": {
+      "clue": "Cortado com os dentes",
+      "answer": "ROIDO",
+      "row": 6,
+      "col": 7
+    },
+    "25": {
+      "clue": "Plantação de mate",
+      "answer": "ERVAL",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Ter confiança",
+      "answer": "CRER",
+      "row": 7,
+      "col": 6
+    },
+    "28": {
+      "clue": "O Escobar jornalista esportivo",
+      "answer": "ALEX",
+      "row": 7,
+      "col": 10
+    }
+  }
+}

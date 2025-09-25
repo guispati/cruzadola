@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "A capital da Turquia",
+      "answer": "ANCARA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Pop.) Porcaria",
+      "answer": "CACA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "No handebol, o ponto obtido",
+      "answer": "GOL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Tornar fanhoso um som",
+      "answer": "NASALAR",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Frutos que viram suco",
+      "answer": "UVAS",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "O Caldas (1823-1878), do famoso dicionário",
+      "answer": "AULETE",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Trabalho manual",
+      "answer": "LAVOR",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Cidade do RJ, no vale do Paraíba",
+      "answer": "PIRAI",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "O ponto culminante do nosso planeta",
+      "answer": "EVEREST",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Adélia Prado, poetisa",
+      "answer": "AP",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Ancorar num porto",
+      "answer": "APORTAR",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Serviço de Atendimento ao Consumidor",
+      "answer": "SAC",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Uma planta aquática primitiva",
+      "answer": "ALGA",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "Alexander Fleming (1881-1955), cientista",
+      "answer": "AF",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "Dona, proprietária",
+      "answer": "PATROA",
+      "row": 7,
+      "col": 1
+    },
+    "32": {
+      "clue": "A 6ª letra do nosso alfabeto",
+      "answer": "EFE",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "O marido da filha",
+      "answer": "GENRO",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Um tipo de eclipse",
+      "answer": "LUNAR",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "Um lance que finaliza um jogo de xadrez",
+      "answer": "MATE",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "A atriz norte-americana Jodie, de \"Elysium\"",
+      "answer": "FOSTER",
+      "row": 9,
+      "col": 5
+    },
+    "38": {
+      "clue": "(-d'água) Um fenômeno meteorológico marítimo",
+      "answer": "TROMBA",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "(Horizonte) A capital mineira",
+      "answer": "BELO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Negras) Um dos picos mais altos do Brasil",
+      "answer": "AGULHAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Zelândia) O país de Hobart, Auckland e Wellington",
+      "answer": "NOVA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sinal musical",
+      "answer": "CLAVE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Recém-nascido",
+      "answer": "RN",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Um tamanho de pilha",
+      "answer": "AAA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Pedicuro",
+      "answer": "CALISTA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Com vigilância",
+      "answer": "ALERTA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Escolha dos grãos do café",
+      "answer": "CATA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Um material utilizado para a higiene dos gatos",
+      "answer": "AREIA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Um peso das lutas",
+      "answer": "SUPERGALO",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Surra",
+      "answer": "SOVA",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "Exame atento",
+      "answer": "REPARO",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "(Bolo de) Confeito semelhante ao rocambole",
+      "answer": "ROLO",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Prosear",
+      "answer": "PAPEAR",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "O Nadal tenista",
+      "answer": "RAFAEL",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Som emitido pelas aves",
+      "answer": "CANTO",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "(Quím.) O Fe",
+      "answer": "FERRO",
+      "row": 6,
+      "col": 10
+    },
+    "31": {
+      "clue": "(das Onze) Um sucesso de Adoniran Barbosa",
+      "answer": "TREM",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "Pessoa, indivíduo",
+      "answer": "ENTE",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "Greenwich mean time, padrão internacional de tempo",
+      "answer": "GMT",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "Uma conexão de PC",
+      "answer": "USB",
+      "row": 8,
+      "col": 7
+    },
+    "37": {
+      "clue": "Dó, ré, mi, (?)...",
+      "answer": "FA",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

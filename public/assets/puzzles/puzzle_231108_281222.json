@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "A atriz mineira Débora, do cinema, teatro e TV",
+      "answer": "BLOCH",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Um doce cremoso",
+      "answer": "MUSSE",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "O cineasta Besson, de \"Joana D'Arc\"",
+      "answer": "LUC",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Uma ciência como a cabala",
+      "answer": "OCULTA",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Banhado levemente",
+      "answer": "UMECTADO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Sigla do estado de Picos e Teresina",
+      "answer": "PI",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Emilio Estevez, ator norte-americano",
+      "answer": "EE",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Uma tintura para cabelo",
+      "answer": "HENA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "(Vegas) A cidade com os mais famosos cassinos",
+      "answer": "LAS",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Dispositivo que permite obter imagem fixa do céu no campo de observação de uma luneta",
+      "answer": "CELOSTATO",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Fábrica alemã de automóveis",
+      "answer": "OPEL",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "O tempo passado",
+      "answer": "IDOS",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "Corpo humano",
+      "answer": "ORGANISMO",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Elemento de composição: Deus",
+      "answer": "TEO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Grande calor",
+      "answer": "ESTO",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "A abreviatura do xenônio, elemento químico",
+      "answer": "XE",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Abreviatura de hectograma, massa equivalente a 1/10 do quilo",
+      "answer": "HG",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "(Inform.) Explicativo para uso de um programa",
+      "answer": "TUTORIAL",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "O rio cearense que banha Sobral",
+      "answer": "ACARAU",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "Prefixo de anterioridade",
+      "answer": "PRE",
+      "row": 9,
+      "col": 8
+    },
+    "36": {
+      "clue": "A atriz paulistana Lombardi",
+      "answer": "BRUNA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "O Antônio Gonzaga (1744-1810), de \"Marília de Dirceu\"",
+      "answer": "TOMAS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Uma tecnologia de comunicação sem fio",
+      "answer": "BLUETOOTH",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Clarão",
+      "answer": "LUME",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Pop.) Você",
+      "answer": "OCE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O Copacabana Pálace é um dos mais famosos do Brasil",
+      "answer": "HOTEL",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Plantas tiradas do viveiro para plantação definitiva",
+      "answer": "MUDAS",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Grito de sofrimento",
+      "answer": "ULO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Substituição Tributária",
+      "answer": "ST",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Um calçado",
+      "answer": "SAPATO",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Que é especialista nas regras eclesiásticas",
+      "answer": "CANONISTA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Um tecido de algodão semelhante à chita",
+      "answer": "CHELA",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Um triângulo regular",
+      "answer": "ISOSCELES",
+      "row": 2,
+      "col": 10
+    },
+    "18": {
+      "clue": "Área próxima de uma pessoa",
+      "answer": "LADO",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Não vê",
+      "answer": "CEGO",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Ilha onde se localiza o único país asiático que tem o português como língua oficial",
+      "answer": "TIMOR",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "(Pop.) Ficar muito cansado",
+      "answer": "PREGAR",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "(Pop.) Nervosismo",
+      "answer": "NEURA",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Um tipo de cerveja preta, mais amarga",
+      "answer": "STOUT",
+      "row": 6,
+      "col": 6
+    },
+    "29": {
+      "clue": "Pessoa que tem o mesmo nome que outra",
+      "answer": "XARA",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Transporte Aéreo Nacional",
+      "answer": "TAN",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Inquérito Policial Militar",
+      "answer": "IPM",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "(Quím.) O cobre",
+      "answer": "CU",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

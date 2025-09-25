@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "Peça que guia e freia a cavalgadura",
+      "answer": "REDEA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Colinas de areia características das praias nordestinas",
+      "answer": "DUNAS",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Meio... bípede",
+      "answer": "EDE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Benquisto, estimado",
+      "answer": "QUERIDO",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Peixe encontrado por todo o Brasil",
+      "answer": "DUNDU",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Obséquio",
+      "answer": "FAVOR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Adolescente, em inglês",
+      "answer": "TEEN",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "A filha do filho",
+      "answer": "NETA",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Voltar a aprazar pagamento de (dívida, compromisso etc.)",
+      "answer": "REESCALONAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "A voz masculina mais aguda",
+      "answer": "TENOR",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Que bate a ferradura para ajustá-la ao pé do animal",
+      "answer": "ATARRACADOR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Material usado como cobertura de circos e baracas",
+      "answer": "LONA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Divisão",
+      "answer": "RAMO",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "(Fr.) Íntimo, particular, reservado",
+      "answer": "PRIVE",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "A capital do Senegal",
+      "answer": "DACAR",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "(de Sá) Grande escola de samba do Rio de Janeiro",
+      "answer": "ESTACIO",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Uma grande ave que não voa",
+      "answer": "EMA",
+      "row": 9,
+      "col": 8
+    },
+    "34": {
+      "clue": "Colheita",
+      "answer": "SEARA",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Um canteiro de flores de muitos espinhos",
+      "answer": "ROSAL",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Vizinhança",
+      "answer": "REDOR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um apelido para Eduardo",
+      "answer": "EDU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Pode ser incisivo",
+      "answer": "DENTE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Tornar quente",
+      "answer": "AQUECER",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Leppard) A banda de rock do sucesso \"Rock of Ages\"",
+      "answer": "DEF",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Paisagem celeste",
+      "answer": "URANORAMA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O ator inglês David (1910-1983), de \"Morte sobre o Nilo\"",
+      "answer": "NIVEN",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Aceito legalmente como filho",
+      "answer": "ADOTADO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Privar o sangue ou o leite de sua parte aquosa",
+      "answer": "SORAR",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Soltar, liberar",
+      "answer": "DESTRAVAR",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Dormir (o bebê)",
+      "answer": "NANAR",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "(Med.) Distensão brusca de uma articulação",
+      "answer": "ENTORSE",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Aquele que aluga",
+      "answer": "LOCADOR",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Importante sistema montanhoso europeu",
+      "answer": "ALPES",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "A pintora paulistana Malfatti (1896-1964)",
+      "answer": "ANITA",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Quindins, brigadeiros e sorvetes",
+      "answer": "DOCES",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "Do campo",
+      "answer": "RURAL",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Interjeição que exprime aversão, desprazer",
+      "answer": "ECA",
+      "row": 8,
+      "col": 4
+    },
+    "31": {
+      "clue": "Criada de companhia",
+      "answer": "AMA",
+      "row": 8,
+      "col": 9
+    }
+  }
+}

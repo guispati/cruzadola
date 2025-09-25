@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "Grupo indígena norte-americano",
+      "answer": "APACHES",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "(Ben) Famoso sino britânico",
+      "answer": "BIG",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Diz-se da energia proveniente da estrela central do nosso sistema planetário",
+      "answer": "SOLAR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Que tem o sabor picante característico do limão",
+      "answer": "ACIDO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "3",
+      "answer": "TRES",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Esp.) Escore",
+      "answer": "PLACAR",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Aspergir água em plantas",
+      "answer": "REGAR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Gosto",
+      "answer": "GRADO",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "(Fig.) Desistir, por medo de enfrentar situação difícil",
+      "answer": "AMARELAR",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Que gira",
+      "answer": "ROTADOR",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Importante cidade histórica paulista",
+      "answer": "SOROCABA",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Resfriar",
+      "answer": "GELAR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Conservar alguma coisa",
+      "answer": "RETER",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "Levar a crer no fundamento de falsas esperanças",
+      "answer": "ILUDIR",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Forte moeda do mercado econômico internacional",
+      "answer": "IENE",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "O poeta Olavo (1865-1918), de \"Ora (direis) Ouvir Estrelas\"",
+      "answer": "BILAC",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Pop.) Dinheiro",
+      "answer": "PRATA",
+      "row": 9,
+      "col": 6
+    },
+    "33": {
+      "clue": "A cantora do sucesso \"Pesadão\"",
+      "answer": "IZA",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Comandar um telejornal, como apresentador e narrador",
+      "answer": "ANCORAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Alto-) Diz-se de ocasião que favorável, positiva",
+      "answer": "ASTRAL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Mas",
+      "answer": "POREM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Dizer como desculpa",
+      "answer": "ALEGAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A sede do governo argentino, em Buenos Aires",
+      "answer": "CASAROSADA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "As iniciais do ator Herval",
+      "answer": "HR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Aquele que tempera com cloreto de sódio",
+      "answer": "SALGADOR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Qualquer orifício por onde escorre um líquido",
+      "answer": "BICA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Cada um dos períodos em que convencionalmente se subdivide a vida humana",
+      "answer": "IDADE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Pop.) Aguardente de cana, cachaça",
+      "answer": "GORO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Indivíduo que faz fretes com determinado veículo de tração animal",
+      "answer": "CARROCEIRO",
+      "row": 1,
+      "col": 7
+    },
+    "16": {
+      "clue": "Arte de falar bem e com elegância",
+      "answer": "RETORICA",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "A vida familiar",
+      "answer": "LAR",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Falhar (motor de veículo)",
+      "answer": "RATEAR",
+      "row": 5,
+      "col": 8
+    },
+    "22": {
+      "clue": "Formar par",
+      "answer": "PAREAR",
+      "row": 5,
+      "col": 10
+    },
+    "23": {
+      "clue": "Próspero",
+      "answer": "FELIZ",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "(Dona) A avó de Narizinho e Pedrinho",
+      "answer": "BENTA",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Revista em quadrinhos",
+      "answer": "GIBI",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Molusco marinho de carne apreciada",
+      "answer": "LULA",
+      "row": 7,
+      "col": 2
+    },
+    "32": {
+      "clue": "Paulo Coelho, escritor",
+      "answer": "PC",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

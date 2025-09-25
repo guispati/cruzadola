@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Que some ou desaparece facilmente",
+      "answer": "SUMIDIÇO",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Iberê Camargo (1914-1994), pintor, gravador e desenhista",
+      "answer": "IC",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Mamífero carnívoro da América do Norte",
+      "answer": "RACUM",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "(Pop.) Branco, claro",
+      "answer": "PANE",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Latido",
+      "answer": "ACOO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Homem do povo",
+      "answer": "PLEBEU",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Riscos Ambientais do Trabalho",
+      "answer": "RAT",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Cobrir de estofo",
+      "answer": "FORRAR",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "(Ingl.) Estrela",
+      "answer": "STAR",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Aquele que é",
+      "answer": "ENTE",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Ave parecida com um pequeno ganso",
+      "answer": "IRERE",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Madame de) Escritora francesa (1766-1817)",
+      "answer": "STAEL",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Combate corpo a corpo",
+      "answer": "LUTA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "O Stoker autor de \"Drácula\"",
+      "answer": "BRAM",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Abrigo muito protegido",
+      "answer": "BUNKER",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Letra do alfabeto grego",
+      "answer": "ETA",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Pode ser freático",
+      "answer": "LENÇOL",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "A amante de Dom Pedro que, depois de morta, foi coroada rainha",
+      "answer": "INES",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Costume, uso",
+      "answer": "ENGA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Depressão úmida em uma encosta",
+      "answer": "GROTA",
+      "row": 9,
+      "col": 5
+    },
+    "36": {
+      "clue": "(Open) Importantes torneio de tênis de NY",
+      "answer": "US",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Uma universidade norte-americana da Califórnia",
+      "answer": "STANFORD",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Morro e bairro do Rio de Janeiro",
+      "answer": "URCA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O líder da \"longa marcha\" (1893-1976), fundador da China popular",
+      "answer": "MAOTSETUNG",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Sufixo diminutivo masculino",
+      "answer": "ICO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Um apelido para Eduardo",
+      "answer": "DU",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Mandar com autoridade",
+      "answer": "IMPOR",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Comédia musical",
+      "answer": "OPERETA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Sem atividade ou movimento próprios",
+      "answer": "INERTE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O espaço onde Marte fica",
+      "answer": "CEU",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Agitação do ar com leque",
+      "answer": "ABANAMENTO",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Ação que visa iludir uma pessoa",
+      "answer": "ARDIL",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Quím.) Laurêncio",
+      "answer": "LR",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Fundação de Assistência ao Estudante",
+      "answer": "FAE",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "O penteado de Rapunzel",
+      "answer": "TRANÇAS",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "(Bíblia) Um dos grandes profetas do período antigo",
+      "answer": "ELIAS",
+      "row": 4,
+      "col": 10
+    },
+    "23": {
+      "clue": "O piloto Barrichello",
+      "answer": "RUBENS",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "As consoantes de surra",
+      "answer": "SRR",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "Nascido em Bruges ou Bruxelas",
+      "answer": "BELGA",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Nocaute",
+      "answer": "KO",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Aparelho para tecer",
+      "answer": "TEAR",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "(Pop.) Vadiagem",
+      "answer": "LEU",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Imposto sobre Operações Financeiras",
+      "answer": "IOF",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "A UF de Currais Novos e Mossoró",
+      "answer": "RN",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Limpeza, desobstrução",
+      "answer": "DRAGAGEM",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "O símbolo químico da prata",
+      "answer": "AG",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Zona rural",
+      "answer": "ROÇA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "De sabor áspero, geralmente desagradável",
+      "answer": "AMARGO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "A ave-símbolo da Portela, escola de samba do Rio de Janeiro",
+      "answer": "AGUIA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O estado nordestino com o Parque Nacional de Sete Cidades",
+      "answer": "PIAUI",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Roedor semelhante à preá",
+      "answer": "MOCO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Outro nome da erva-se-santa-rosa",
+      "answer": "PEONIA",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "O Woody, do filme \"Poderosa Afrodite\"",
+      "answer": "ALLEN",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Contração de uma preposição com um artigo feminino plural",
+      "answer": "DAS",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "Contrabandista",
+      "answer": "FRAUDADOR",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Choradeira de criança",
+      "answer": "BUE",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Mogi) Cidade próxima a Campinas, em SP",
+      "answer": "MIRIM",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "Mandar para dentro",
+      "answer": "IMITIR",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Revista em quadrinhos",
+      "answer": "GIBI",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "A Sophia atriz italiana",
+      "answer": "LOREN",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Às) Em algumas ocasiões",
+      "answer": "VEZES",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "(Pop.) Deixar esquecido",
+      "answer": "ISOLAR",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Pop.) Chatice",
+      "answer": "SACO",
+      "row": 9,
+      "col": 7
+    },
+    "34": {
+      "clue": "Excluído de toda relação de proximidade com outros",
+      "answer": "SO",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Servir de juiz",
+      "answer": "ARBITRAR",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Série de episódios complicados",
+      "answer": "DRAMA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Súplica",
+      "answer": "ROGO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um recipiente de mesa para o café",
+      "answer": "AÇUCAREIRO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Gír.) Imóvel malconservado",
+      "answer": "GAIOLA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Gálio, elemento químico",
+      "answer": "GA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Sair da linha de prumo",
+      "answer": "EMPENAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O mês em que é comemorado o dia do trabalhador",
+      "answer": "MAIO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O músico popular Frank",
+      "answer": "AGUIAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O estado com a sigla GO",
+      "answer": "GOIAS",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Introduzir elemento aleatório em um cálculo",
+      "answer": "RANDOMIZAR",
+      "row": 1,
+      "col": 8
+    },
+    "16": {
+      "clue": "Querer, desejar",
+      "answer": "PEDIR",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Que espalha luz",
+      "answer": "LUMINAR",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Enfumaçado",
+      "answer": "FUMOSO",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "(Reader's) Uma revista de variadades",
+      "answer": "DIGEST",
+      "row": 5,
+      "col": 7
+    },
+    "22": {
+      "clue": "Substância que age na digestão dos alimentos",
+      "answer": "BILIS",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Mostrador de câmeras",
+      "answer": "VISOR",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Quadro, pintura",
+      "answer": "TELA",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Toga",
+      "answer": "BECA",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Rolando Boldrin, cantor sertanejo e apresentador paulista",
+      "answer": "RB",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

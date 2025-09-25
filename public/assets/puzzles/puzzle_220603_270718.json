@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "A descendência direta",
+      "answer": "PROLE",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Pelo saliente nos tecidos",
+      "answer": "FELPA",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Inflamação crônica da pele, com ulcerações ou manchas",
+      "answer": "LUPUS",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Frequente",
+      "answer": "USUAL",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Sigla do estado nortista que faz divisa com RO e RR",
+      "answer": "AM",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Estabelecer-se sob barracas, ao ar livre",
+      "answer": "ACAMPAR",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Um socorro de urgência",
+      "answer": "SAMU",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Brasil, Somália e Mianmar",
+      "answer": "PAISES",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Equipe campeã pela terceira vez",
+      "answer": "TRI",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Flor) Uma personagem de Jorge Amado",
+      "answer": "DONA",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Oceano Ártico",
+      "answer": "OA",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Regente de orquestra",
+      "answer": "MAESTRO",
+      "row": 5,
+      "col": 2
+    },
+    "26": {
+      "clue": "O cálcio, para os químicos",
+      "answer": "CA",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Recipiente para pomadas",
+      "answer": "POTE",
+      "row": 6,
+      "col": 3
+    },
+    "29": {
+      "clue": "São três em paralelepípedo",
+      "answer": "PES",
+      "row": 6,
+      "col": 8
+    },
+    "31": {
+      "clue": "Conseguida, alcançada",
+      "answer": "OBTIDA",
+      "row": 7,
+      "col": 0
+    },
+    "33": {
+      "clue": "A atriz Regina, de \"Que Horas Ela Volta?\"",
+      "answer": "CASE",
+      "row": 7,
+      "col": 7
+    },
+    "34": {
+      "clue": "Regresso, volta",
+      "answer": "RETORNO",
+      "row": 8,
+      "col": 1
+    },
+    "36": {
+      "clue": "O titânio, para os químicos",
+      "answer": "TI",
+      "row": 8,
+      "col": 9
+    },
+    "37": {
+      "clue": "(Pop.) Pedir um cigarro",
+      "answer": "FILAR",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Embelezar",
+      "answer": "ORNAR",
+      "row": 9,
+      "col": 6
+    },
+    "40": {
+      "clue": "Cl",
+      "answer": "CLORO",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "(Gír.) Desordem, deus-nos-acuda",
+      "answer": "ZORRA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Matéria-prima para ferramentas, brinquedos etc.",
+      "answer": "PLASTICO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Dirigir-se",
+      "answer": "RUMAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Osmar Prado, ator",
+      "answer": "OP",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Festa típica de algumas ilhas do Pacífico",
+      "answer": "LUAU",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A tecla do extremo superior esquerdo do teclado",
+      "answer": "ESC",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Um consumidor de charutos",
+      "answer": "FUMANTE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Observar às escondidas",
+      "answer": "ESPIAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Astros como o nosso satélite natural",
+      "answer": "LUAS",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Corrida de cavalos",
+      "answer": "PAREO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "O símbolo do alumínio",
+      "answer": "AL",
+      "row": 0,
+      "col": 10
+    },
+    "15": {
+      "clue": "Arriscar, jogar",
+      "answer": "APOSTAR",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "(Por) Na minha opinião",
+      "answer": "MIM",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Vasilha em que se servem molhos",
+      "answer": "SALSEIRA",
+      "row": 3,
+      "col": 10
+    },
+    "21": {
+      "clue": "(Marechal) Cidade histórica alagoana, a primeira capital do estado",
+      "answer": "DEODORO",
+      "row": 4,
+      "col": 4
+    },
+    "24": {
+      "clue": "A função do juiz de futebol",
+      "answer": "APITAR",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Interjeição que designa admiração, espanto",
+      "answer": "OPA",
+      "row": 5,
+      "col": 8
+    },
+    "27": {
+      "clue": "O quarto mês do ano",
+      "answer": "ABRIL",
+      "row": 6,
+      "col": 1
+    },
+    "30": {
+      "clue": "Achar-se presente",
+      "answer": "ESTAR",
+      "row": 6,
+      "col": 9
+    },
+    "32": {
+      "clue": "O Michel cantor",
+      "answer": "TELO",
+      "row": 7,
+      "col": 2
+    },
+    "33": {
+      "clue": "Grupo musical somente de canto",
+      "answer": "CORO",
+      "row": 7,
+      "col": 7
+    },
+    "35": {
+      "clue": "(-moscada) Um condimento",
+      "answer": "NOZ",
+      "row": 8,
+      "col": 6
+    },
+    "37": {
+      "clue": "Frédéric Chopin (1810-1849), compositor clássico",
+      "answer": "FC",
+      "row": 9,
+      "col": 0
+    },
+    "39": {
+      "clue": "(Sigla) Nota da Redação",
+      "answer": "NR",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

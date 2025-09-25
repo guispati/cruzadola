@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "A membrana que separa as narinas",
+      "answer": "SEPTO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Livro de papel encorpado próprio para colagem de fotografias, selos etc.",
+      "answer": "ALBUM",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Grave pena corporal",
+      "answer": "SUPLICIO",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Muito bom",
+      "answer": "OTIMO",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "(Para) Expressão que indica extrema urgência",
+      "answer": "ONTEM",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Portugal",
+      "answer": "POR",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Apreensiva, temerosa",
+      "answer": "RECEOSA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "(Greco) Pseudônimo de um famoso pintor nascido na ilha de Creta",
+      "answer": "EL",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "(Pop.) Tarefa muito fácil de cumprir",
+      "answer": "MANHA",
+      "row": 4,
+      "col": 3
+    },
+    "19": {
+      "clue": "Chico Science, músico",
+      "answer": "CS",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "(Fig.) Bravata",
+      "answer": "RONCARIA",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Ancorar num porto",
+      "answer": "APORTAR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Um estilo musical",
+      "answer": "MPB",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Desprezo arrogante",
+      "answer": "DESDEM",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Vender para ser pago posteriormente",
+      "answer": "FIAR",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Substância gordurosa em estado líquido",
+      "answer": "OLEO",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Ave que se alimenta de carniça",
+      "answer": "ABUTRE",
+      "row": 8,
+      "col": 5
+    },
+    "31": {
+      "clue": "Ronnie Von, cantor",
+      "answer": "RV",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "A Monte, da canção \"Verdade, uma Ilusão\"",
+      "answer": "MARISA",
+      "row": 9,
+      "col": 3
+    },
+    "34": {
+      "clue": "As vogais",
+      "answer": "AEIOU",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Terra da) Um apelido para SP",
+      "answer": "GAROA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Acrobacia de avião",
+      "answer": "ESTOL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Friccionar um objeto com pano para dar-lhe brilho",
+      "answer": "PUIR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Abreviatura da síndrome que atinge as mulheres mensalmente",
+      "answer": "TPM",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Que tem cheiro agradável",
+      "answer": "OLORANTE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Apertar muito",
+      "answer": "ACOCHAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Feito com linhas geométricas",
+      "answer": "LINEAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Outro nome do animal toninha",
+      "answer": "BOTO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Seios, peitos",
+      "answer": "MAMAS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Empresa que vende pacotes turísticos",
+      "answer": "OPERADORA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Ser dito por distração",
+      "answer": "ESCAPAR",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Ficar deitado, adoecido, de forma prolongada",
+      "answer": "ENCAMAR",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "O chefe da criadagem",
+      "answer": "MORDOMO",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Vinho mais escuro que o branco",
+      "answer": "ROSE",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "Arremedar",
+      "answer": "IMITAR",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Em anatomia, a parte inferior da bacia",
+      "answer": "PELVE",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "(Pop.) Cafona",
+      "answer": "BREGA",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Sinal musical igual à metade da semicolcheia",
+      "answer": "FUSA",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "(Mac) Um dos sanduíches mais famosos",
+      "answer": "BIG",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "O som do latido de um cão",
+      "answer": "AU",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

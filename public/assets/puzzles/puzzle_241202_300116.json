@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Confeccionada com fios",
+      "answer": "TECIDA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Animais como o pelicano e o colibri",
+      "answer": "AVES",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "O Musk do X e da Tesla",
+      "answer": "ELON",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Som que imita a buzina dos carros",
+      "answer": "BIBI",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Amontoar",
+      "answer": "CONGLOMERAR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Depósito de cereais",
+      "answer": "GRANEL",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Caetano Veloso, músico de \"Outras Palavras\"",
+      "answer": "CV",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Diretor de universidade",
+      "answer": "REITOR",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "(Guevara) Guerrilheiro participante da revolução cubana",
+      "answer": "CHE",
+      "row": 4,
+      "col": 8
+    },
+    "19": {
+      "clue": "Que revela sofrimento",
+      "answer": "DOIDO",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Mover em torno de um eixo",
+      "answer": "GIRAR",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Exclamação de alegria",
+      "answer": "EBA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Publicar, divulgar",
+      "answer": "EMITIR",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "O que muda de malha para manilha",
+      "answer": "NI",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Pequenos lucros",
+      "answer": "MIUDAS",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Impedir a continuidade de",
+      "answer": "INTERROMPER",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Que excede outro em más qualidades",
+      "answer": "PIOR",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "Dança coreográfica",
+      "answer": "BALE",
+      "row": 9,
+      "col": 7
+    },
+    "33": {
+      "clue": "Excelentíssimo",
+      "answer": "EXMO",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Submeter a intervenção cirúrgica",
+      "answer": "OPERAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Gír.) Tiro de arma de fogo",
+      "answer": "TECO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Conexão",
+      "answer": "ELO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Planta trepadeira nativa da Ásia, ornamental",
+      "answer": "CONGEIA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A Guimarães atriz de \"De Pernas pro Ar\"",
+      "answer": "INGRID",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Garantia, fiança",
+      "answer": "ABONO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O Ferreira treinador de futebol do Palmeiras",
+      "answer": "ABEL",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Chegar",
+      "answer": "VIR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Beber aspirando, fazendo ruído",
+      "answer": "SORVER",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Afundado (em líquido)",
+      "answer": "IMERGIDO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Funileiro",
+      "answer": "LATOEIRO",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Supor, julgar",
+      "answer": "ACHAR",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "O Hood, lendário herói da Idade Média inglesa",
+      "answer": "ROBIN",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "Enrugar",
+      "answer": "CRISPAR",
+      "row": 4,
+      "col": 8
+    },
+    "19": {
+      "clue": "A atriz e humorista Fraga",
+      "answer": "DENISE",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Uma marca de produtos de laticínios",
+      "answer": "ITAMBE",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "Pancada com a mão fechada",
+      "answer": "MURRO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Habitat",
+      "answer": "MEIO",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "Ter confiança",
+      "answer": "CRER",
+      "row": 7,
+      "col": 10
+    },
+    "29": {
+      "clue": "Síndrome que atinge somente as mulheres",
+      "answer": "TPM",
+      "row": 8,
+      "col": 2
+    },
+    "30": {
+      "clue": "Pronome que indica a mulher da qual se fala",
+      "answer": "ELA",
+      "row": 8,
+      "col": 9
+    }
+  }
+}

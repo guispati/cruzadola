@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "O tenista russo Daniil, um dos melhores da atualidade",
+      "answer": "MEDVEDEV",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Oceano Pacífico",
+      "answer": "OP",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Cipó",
+      "answer": "LIANA",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Personagem de lenda amazônica",
+      "answer": "IARA",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Bom acolhimento, indulgência",
+      "answer": "MERCE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Movimentar o caiaque com a pá própria para isso",
+      "answer": "REMAR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Um mar que banha a Grécia",
+      "answer": "EGEU",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Ira",
+      "answer": "COLERA",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Um acessório dos automóveis",
+      "answer": "TETOSOLAR",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Argola",
+      "answer": "ARO",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Árvore ornamental de bela floração",
+      "answer": "IPE",
+      "row": 5,
+      "col": 4
+    },
+    "21": {
+      "clue": "O que muda de Capri para Capivari",
+      "answer": "IVA",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Versão modificada de uma música já gravada",
+      "answer": "REMIXAGEM",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Um nome de mulher",
+      "answer": "AMALIA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Que pertence àquela mulher",
+      "answer": "DELA",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Um aparelho para ouvir músicas e notícias",
+      "answer": "RADIO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Produzem som nas igrejas",
+      "answer": "SINOS",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Uma extremidade do navio",
+      "answer": "PROA",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Nome de dois músculos abdominais",
+      "answer": "PSOAS",
+      "row": 9,
+      "col": 5
+    },
+    "33": {
+      "clue": "Tudo bem!",
+      "answer": "OK",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Herdeiro",
+      "answer": "SUCESSOR",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Escolher entre dois ou mais",
+      "answer": "ELEGER",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Funções da pessoa responsável pelo organização de uma empresa",
+      "answer": "DIRETORADO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Espaço desprovido de ar",
+      "answer": "VACUO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "N",
+      "answer": "ENE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Daquela",
+      "answer": "DA",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Rua estreita",
+      "answer": "VIELA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Rezar um Pai-Nosso",
+      "answer": "ORAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O conjunto de rock do Sucesso",
+      "answer": "PARALAMAS",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Os aborígines do Novo Mundo",
+      "answer": "AMERIGENAS",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Um grupo de ossos da mão",
+      "answer": "METACARPO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Famosa marca de relógios",
+      "answer": "ROLEX",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Reprodução de um original",
+      "answer": "COPIA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Macaco",
+      "answer": "SIMIO",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "O músico Caetano, de \"Qualquer Coisa\"",
+      "answer": "VELOSO",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "(Fausto) Cidade paulista próxima a Capivari",
+      "answer": "ELIAS",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Uma palavra espanhola de despedida",
+      "answer": "ADIOS",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "O Zuckerberg empresário criador do Facebook",
+      "answer": "MARK",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Su-sueste",
+      "answer": "SSE",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Computador",
+      "answer": "PC",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

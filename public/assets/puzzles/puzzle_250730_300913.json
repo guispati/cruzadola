@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O que protege o fruto",
+      "answer": "CASCA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Gerenciar",
+      "answer": "GERIR",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Famosas grutas pré-históricas da Espanha",
+      "answer": "ALTAMIRA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Transforma malha em manilha",
+      "answer": "NI",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Apelido de Juliano",
+      "answer": "JU",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Imitado grotescamente",
+      "answer": "REMEDADO",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Aquele que apresenta desenvolvimento defeituoso",
+      "answer": "ANORMAL",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Programa de Integração Social",
+      "answer": "PIS",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Quantidade prescrita",
+      "answer": "DOSE",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Planta de brejos e margens de rios",
+      "answer": "TABOA",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Membro dos guerreiros no antgo Japão",
+      "answer": "SAMURAI",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Cavar",
+      "answer": "FURAR",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Estágio, etapa",
+      "answer": "FASE",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "(Abelha) Grupo musical de pop rock",
+      "answer": "KID",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Capacidade de conservar e lembrar de fatos passados",
+      "answer": "MEMORIA",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Usar de sarcasmo",
+      "answer": "IRONIZAR",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Rubídio, elemento químico",
+      "answer": "RB",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "Ney Matogrosso, cantor da MPB",
+      "answer": "NM",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Venerador",
+      "answer": "ACATADOR",
+      "row": 9,
+      "col": 3
+    },
+    "37": {
+      "clue": "Peça usada para abrir fechaduras",
+      "answer": "GAZUA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "A tenista bielorussa Sabalenka, a melhor do mundo atualmente",
+      "answer": "ARYNA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Vara usada por pastores, para controlar os animais",
+      "answer": "CAJADO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um frequentador do colégio",
+      "answer": "ALUNO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Substituição Tributária",
+      "answer": "ST",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Juntar",
+      "answer": "CARREAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O fim da reza",
+      "answer": "AMEM",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Olhar insistente e indiscretamente (uma mulher)",
+      "answer": "GRELAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Educação a Distância",
+      "answer": "EAD",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O país do Taj Mahal e do porto de Calicute",
+      "answer": "INDIA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Cursos d'água formadores de bacia hidrográfica",
+      "answer": "RIOS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Falta de experiência ou de prática",
+      "answer": "IMATUREZA",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Patrocinar",
+      "answer": "APOIAR",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Diz-se de indivíduo muito magro",
+      "answer": "OSSUDO",
+      "row": 3,
+      "col": 2
+    },
+    "21": {
+      "clue": "Expelir o hálito",
+      "answer": "BAFORAR",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "(Pop.) Pequeno seio",
+      "answer": "MAMICA",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Cidade baiana, a \"Capital da Chapada Diamantina\"",
+      "answer": "SEABRA",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Assinatura",
+      "answer": "FIRMA",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "O pintor, desenhista e gravador Franco",
+      "answer": "SIRON",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "O Kong, grande macaco do cinema",
+      "answer": "KING",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Vanessa da) A cantora de \"Boa Sorte\"",
+      "answer": "MATA",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Uma antiga embarcação mercante",
+      "answer": "NAU",
+      "row": 8,
+      "col": 3
+    },
+    "36": {
+      "clue": "(Quím.) O disprósio",
+      "answer": "DY",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

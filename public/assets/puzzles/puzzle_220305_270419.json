@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Outro nome da maconha",
+      "answer": "CANABIS",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Um dos lemas hippie",
+      "answer": "PAZ",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Um parasito intestinal",
+      "answer": "AMEBA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Chamamento, invocação",
+      "answer": "APELO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Data comemorada por todos os cristãos em 25 de dezembro",
+      "answer": "NATAL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Três mais dois",
+      "answer": "CINCO",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Depressão de terreno úmida e sombria",
+      "answer": "GROTA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Esta coisa",
+      "answer": "ISTO",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "O número de cordas do banjo",
+      "answer": "SEIS",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Percentagem numa solução",
+      "answer": "TEOR",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Rênio",
+      "answer": "RE",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Que sabe muito",
+      "answer": "DOUTO",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "(Cordon Bleu) Escola francesa de culinária",
+      "answer": "LE",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Banha ou gordura de porco",
+      "answer": "UNTO",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Pequeno molusco de carne apreciada",
+      "answer": "LULA",
+      "row": 6,
+      "col": 5
+    },
+    "30": {
+      "clue": "Palavra francesa que designa passeio",
+      "answer": "TOUR",
+      "row": 7,
+      "col": 1
+    },
+    "32": {
+      "clue": "Metal semelhante à platina, muito duro",
+      "answer": "RENIO",
+      "row": 7,
+      "col": 6
+    },
+    "34": {
+      "clue": "Uma proteção para a cabeça em dias frios",
+      "answer": "GORRO",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "Fundamental",
+      "answer": "VITAL",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "(de Minas) Cidade próxima a Araxá, em MG",
+      "answer": "PATOS",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Substância usada na argamassa",
+      "answer": "AREIA",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "A abreviatura que segue Exma.",
+      "answer": "SRA",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Aquecer em extremo",
+      "answer": "ABRASAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Mamífero que se locomove e corre dando grandes saltos",
+      "answer": "CANGURU",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Sentir grande paixão por alguém",
+      "answer": "AMAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Parentes descendentes",
+      "answer": "NETOS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Lugar onde se matam reses para o consumo",
+      "answer": "ABATEDOURO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Cesto de cipó, palha ou taquara",
+      "answer": "BALAIO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Um mito do nosso folclore",
+      "answer": "SACI",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Utensílio dispensável aos carecas",
+      "answer": "PENTE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Um ingrediente da cachaça",
+      "answer": "ALCOOL",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Red.) Parque onde são expostos animais de espécies variadas",
+      "answer": "ZOO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Matadora profissional",
+      "answer": "PISTOLEIRA",
+      "row": 1,
+      "col": 7
+    },
+    "18": {
+      "clue": "Um ponto cardeal",
+      "answer": "SUL",
+      "row": 4,
+      "col": 5
+    },
+    "20": {
+      "clue": "Saracotear",
+      "answer": "REBOLAR",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Cantar dando a cada nota o devido tom",
+      "answer": "ENTOAR",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Tornar opaco",
+      "answer": "TURVAR",
+      "row": 5,
+      "col": 6
+    },
+    "27": {
+      "clue": "Bolo em camadas, recheado e geralmente com cobertura cremosa",
+      "answer": "TORTA",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "O oposto de depois",
+      "answer": "ANTES",
+      "row": 6,
+      "col": 8
+    },
+    "31": {
+      "clue": "O ator Murilo",
+      "answer": "ROSA",
+      "row": 7,
+      "col": 4
+    },
+    "33": {
+      "clue": "Antigo tratamento dado a meninas",
+      "answer": "IAIA",
+      "row": 7,
+      "col": 9
+    },
+    "34": {
+      "clue": "Guia da Previdência Social",
+      "answer": "GPS",
+      "row": 8,
+      "col": 0
+    }
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Inform.) Conectividade sem fio",
+      "answer": "WIFI",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Uma pimenta muito ardida",
+      "answer": "CUMARI",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Fruto muito consumido nas festas de final de ano",
+      "answer": "AMENDOA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "A Oscar Freire é uma área de lojas de grifes em SP",
+      "answer": "RUA",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Fernando Pessoa (1888-1935), poeta português",
+      "answer": "FP",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Ler uma mensagem secreta",
+      "answer": "DECIFRAR",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "O F do CPF",
+      "answer": "FISICA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "O campo",
+      "answer": "ROÇA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Indivíduo que perdeu o uso da razão",
+      "answer": "LOUCO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Uma exclamação de admiração",
+      "answer": "PUXA",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Um tapete usado como revestimento",
+      "answer": "CARPETE",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Conjunto de bois",
+      "answer": "GADO",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Supremo espírito do mal e inimigo de Deus",
+      "answer": "DIABO",
+      "row": 6,
+      "col": 6
+    },
+    "26": {
+      "clue": "Um dos cinco sentidos do ser humano",
+      "answer": "TATO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Tirar de apuros",
+      "answer": "LIVRAR",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "Que revela irritação",
+      "answer": "ENERVADO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Quím.) O bismuto",
+      "answer": "BI",
+      "row": 8,
+      "col": 9
+    },
+    "31": {
+      "clue": "Uma filha da avó",
+      "answer": "TIA",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Eterno",
+      "answer": "IMORTAL",
+      "row": 9,
+      "col": 4
+    },
+    "34": {
+      "clue": "Um peixe que parece voar na água",
+      "answer": "ARRAIA",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Reforma",
+      "answer": "OBRA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um prato típico do café da manhã americano",
+      "answer": "WAFFLE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Que não tem piedade",
+      "answer": "IMPIO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O elemento principal de todas as religiões",
+      "answer": "FE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Sinal, sintoma",
+      "answer": "INDICADOR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Uma substância narcótica",
+      "answer": "COCA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Típica exclamação do caipira",
+      "answer": "UAI",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "A tendência da pele ao tomar uma pancada",
+      "answer": "ARROXEAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Motim de rua",
+      "answer": "RUAÇA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Amaz.) Sereia dos rios e lagos",
+      "answer": "IARA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Decência",
+      "answer": "DECORO",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Que se alimenta de frutos",
+      "answer": "FRUTIVORO",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Estragar, tornar imprestável",
+      "answer": "SUCATEAR",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "Ordem de compra",
+      "answer": "PEDIDO",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "O maior e o mais forte dos macacos",
+      "answer": "GORILA",
+      "row": 5,
+      "col": 10
+    },
+    "23": {
+      "clue": "Soltar um grito (cão)",
+      "answer": "GANIR",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Salivar",
+      "answer": "BABAR",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Seio, mama",
+      "answer": "TETA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Terra empapada em água",
+      "answer": "LAMA",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "Sete, em romanos",
+      "answer": "VII",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Também, na net",
+      "answer": "TB",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

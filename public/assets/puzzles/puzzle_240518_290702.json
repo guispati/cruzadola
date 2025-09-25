@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Mover-se de cima para baixo",
+      "answer": "DESCER",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Culto de origem africana, parecido com a macumba",
+      "answer": "VODU",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Produzir determinada irritação epidérmica em",
+      "answer": "URTICAR",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Um pedido de silêncio",
+      "answer": "PSIU",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Uma árvore dos cerrados",
+      "answer": "MURICI",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Tchau de matuto",
+      "answer": "INTE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Suprimir com borracha o texto que não está correto",
+      "answer": "APAGAR",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "O Papai personagem das festas natalinas",
+      "answer": "NOEL",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "De pouco valor",
+      "answer": "RELES",
+      "row": 4,
+      "col": 5
+    },
+    "19": {
+      "clue": "Guimarães Rosa (1908-1967), escritor de \"Grande Sertão: Veredas\"",
+      "answer": "GR",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "O mês entre out e dez",
+      "answer": "NOV",
+      "row": 5,
+      "col": 8
+    },
+    "22": {
+      "clue": "A marca dos carros Soul e Picanto",
+      "answer": "KIA",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Planta muito usada na cobertura de choupanas",
+      "answer": "SAPE",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "A moeda chilena",
+      "answer": "PESO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Repercutir, soando ou ressoando",
+      "answer": "PULSAR",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "Sobressaltada, posta em apreensão",
+      "answer": "ALARMADA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Roberto Dinamite, ídolo do Vasco da Gama",
+      "answer": "RD",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "(Mús.) Sem tema definido",
+      "answer": "ATEMATICO",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Diz-se da anestesia restrita a determinada área do corpo",
+      "answer": "LOCAL",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Administrar com empenho, diligência",
+      "answer": "ZELAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Uso de drogas para estimular o desempenho em competições esportivas",
+      "answer": "DOPING",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Série de trechos musicais sinfônicos interligados",
+      "answer": "SUITE",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Horrível, hediondo",
+      "answer": "CRUEL",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Alienígena",
+      "answer": "ET",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Combinar mandante com arrogante",
+      "answer": "RIMAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Armação para secar roupas",
+      "answer": "VARAL",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O escritor e jornalista paulista Lessa (1903-1986)",
+      "answer": "ORIGENES",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Juntar duas ou mais coisas afastadas",
+      "answer": "UNIR",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Um modelo de carro",
+      "answer": "CUPE",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "(Ing.) Um equipamento de mergulho",
+      "answer": "SNORKEL",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Rixa",
+      "answer": "CASO",
+      "row": 2,
+      "col": 9
+    },
+    "21": {
+      "clue": "Qualidade do que ainda não está maduro",
+      "answer": "VERDOR",
+      "row": 5,
+      "col": 10
+    },
+    "23": {
+      "clue": "O gênio inglês Newton (1642-1727)",
+      "answer": "ISAAC",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "A principal artéria do homem",
+      "answer": "AORTA",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Mensagem eletrônica não solicitada, enviada em massa",
+      "answer": "SPAM",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Um que não teme o perigo",
+      "answer": "AUDAZ",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "O River, time argentino",
+      "answer": "PLATE",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "O músico McCartney, ex-integrante dos Beatles",
+      "answer": "PAUL",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Bíbl.) A nau do dilúvio",
+      "answer": "ARCA",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Substância açucarada produzida pelas abelhas",
+      "answer": "MEL",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "Ivone Lara (1921-2018), sambista de \"Sonho Meu\"",
+      "answer": "IL",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

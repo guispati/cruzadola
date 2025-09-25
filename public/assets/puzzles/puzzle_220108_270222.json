@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Piloto) Luz usada para indicar que um equipamento está em operação",
+      "answer": "LAMPADA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Abreviatura de um exame do coração",
+      "answer": "ECG",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Situação delicada",
+      "answer": "APURO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Planta cultivada pelas fibras, usadas na confecção de tecidos",
+      "answer": "LINHO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Em + ele",
+      "answer": "NELE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "A ato de aplicar um colírio",
+      "answer": "PINGAR",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Sala de aula",
+      "answer": "CLASSE",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Animal de rabo cortado",
+      "answer": "COTO",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "O símbolo do elemento químico hólmio",
+      "answer": "HO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Colorido",
+      "answer": "TINGIDO",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Cercado por tropas militares",
+      "answer": "SITIADO",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Que está em atividade",
+      "answer": "VIGENTE",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Samuel Rosa, músico do \"Skank\"",
+      "answer": "SR",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Uma saia muito curta",
+      "answer": "MINI",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Galpão",
+      "answer": "HANGAR",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "Um lagarto dos trópicos",
+      "answer": "IGUANA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Um deficiente visual",
+      "answer": "CEGO",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "O osso que constitui a última parte da coluna vertebral",
+      "answer": "SACRO",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "O estado nordestino PI",
+      "answer": "PIAUI",
+      "row": 9,
+      "col": 6
+    },
+    "33": {
+      "clue": "Abreviatura de senhora",
+      "answer": "SRA",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Pagamento por serviço prestado",
+      "answer": "SALARIO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um barco motorizado",
+      "answer": "LANCHA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Invocação",
+      "answer": "APELO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Filho de cavalo com jumenta",
+      "answer": "MULA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Valorizar com sua presença",
+      "answer": "PRESTIGIAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Carlos sem consoantes",
+      "answer": "AO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Um pouco mais adiante",
+      "answer": "ALI",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Manobra usada para enganar pessoas",
+      "answer": "ENGODO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Inseto também conhecido como piolho-das-virilhas",
+      "answer": "CHATO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Pop.) Bebida alcoólica",
+      "answer": "GORO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Repercussão",
+      "answer": "INCIDENCIA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Um primo do Pato Donald",
+      "answer": "PENINHA",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "(Pal. ingl.) Página da internet",
+      "answer": "SITE",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Felina",
+      "answer": "GATA",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Bilhar inglês",
+      "answer": "SINUCA",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Riozinho",
+      "answer": "ARROIO",
+      "row": 5,
+      "col": 10
+    },
+    "23": {
+      "clue": "Colocar traves em",
+      "answer": "VIGAR",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Macaco de cauda felpuda e comprida",
+      "answer": "SAGUI",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Uma participante de concurso de beleza",
+      "answer": "MISS",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Reduzir a gelo",
+      "answer": "GEAR",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Laços apertados",
+      "answer": "NOS",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Abreviatura de plural",
+      "answer": "PL",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

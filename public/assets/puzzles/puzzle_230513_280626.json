@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "O lado oposto à coroa",
+      "answer": "CARA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Por favor, em inglês",
+      "answer": "PLEASE",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Inseto que parasita a cabeça humana, alimentando-se de sangue",
+      "answer": "PIOLHO",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Ônibus, em inglês",
+      "answer": "BUS",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Modo de marchar",
+      "answer": "PASSO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Vermelho) A banda de Frejat e Cazuza",
+      "answer": "BARÃO",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Período entre Jul e Set",
+      "answer": "AGO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Aeronave não pilotada, controlada à distância",
+      "answer": "DRONE",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Indivíduo negligente, desleixado",
+      "answer": "RASCÃO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Monte de areia móvel formado pela ação do vento",
+      "answer": "DUNA",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Pref.: aproximação",
+      "answer": "AD",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Princípio ético que leva alguém a ter uma conduta virtuosa",
+      "answer": "HONRA",
+      "row": 5,
+      "col": 3
+    },
+    "26": {
+      "clue": "Ailton Graça, ator",
+      "answer": "AG",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Animal marinho polar",
+      "answer": "FOCA",
+      "row": 6,
+      "col": 0
+    },
+    "29": {
+      "clue": "A região de Crato e Juazeiro do Norte (CE)",
+      "answer": "CARIRI",
+      "row": 6,
+      "col": 5
+    },
+    "31": {
+      "clue": "Povo bárbaro da Ásia Central",
+      "answer": "HUNOS",
+      "row": 7,
+      "col": 2
+    },
+    "33": {
+      "clue": "(Abrev.) Dicionário",
+      "answer": "DIC",
+      "row": 7,
+      "col": 8
+    },
+    "34": {
+      "clue": "O mais rápido meio de transporte",
+      "answer": "AVIÃO",
+      "row": 8,
+      "col": 0
+    },
+    "36": {
+      "clue": "Arranjo geral de uma obra",
+      "answer": "PLANO",
+      "row": 8,
+      "col": 6
+    },
+    "38": {
+      "clue": "Astro que é o centro do nosso sistema planetário",
+      "answer": "SOL",
+      "row": 9,
+      "col": 0
+    },
+    "39": {
+      "clue": "Enganada",
+      "answer": "TRAIDA",
+      "row": 9,
+      "col": 4
+    },
+    "41": {
+      "clue": "Afastar da pátria por motivos políticos",
+      "answer": "EXILAR",
+      "row": 10,
+      "col": 0
+    },
+    "42": {
+      "clue": "Móvel de cozinha",
+      "answer": "MESA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Que deixou de arder",
+      "answer": "APAGADO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Rs",
+      "answer": "RISOS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Àqueles",
+      "answer": "AOS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Um índice químico",
+      "answer": "PH",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O Edu da bossa nova",
+      "answer": "LOBO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Zequinha de) O compositor (1880-1935) de \"Tico-Tico no Fubá\"",
+      "answer": "ABREU",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Vértebra de suíno, usada na alimentação",
+      "answer": "SUÃ",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "De uma parte do sistema digestório",
+      "answer": "ESOFAGICO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Outro nome da planta lótus",
+      "answer": "LODÃO",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Frase sinônima de outra",
+      "answer": "PARAFRASE",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "No basquete, mover o pé de apoio, sem quicar a bola",
+      "answer": "ANDAR",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "Ruído durante o sono",
+      "answer": "RONCO",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Papagaio do Brasil, ameaçado de extinção",
+      "answer": "CHAUÃ",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Os furinhos do nariz",
+      "answer": "NARINAS",
+      "row": 4,
+      "col": 9
+    },
+    "25": {
+      "clue": "Apara",
+      "answer": "RASPA",
+      "row": 5,
+      "col": 6
+    },
+    "28": {
+      "clue": "Pimenta da cozinha mexicana",
+      "answer": "CHILI",
+      "row": 6,
+      "col": 2
+    },
+    "30": {
+      "clue": "Pode ser da pedra, do bronze etc.",
+      "answer": "IDADE",
+      "row": 6,
+      "col": 8
+    },
+    "32": {
+      "clue": "Notícia breve sobre um fato qualquer",
+      "answer": "NOTA",
+      "row": 7,
+      "col": 4
+    },
+    "35": {
+      "clue": "O cantor irlandês Bono, vocalista do grupo U2",
+      "answer": "VOX",
+      "row": 8,
+      "col": 1
+    },
+    "37": {
+      "clue": "Símbolo de limite, em matemática",
+      "answer": "LIM",
+      "row": 8,
+      "col": 7
+    },
+    "40": {
+      "clue": "Renato Russo (1960-1996), músico",
+      "answer": "RR",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

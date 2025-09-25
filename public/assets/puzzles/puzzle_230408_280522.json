@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "A capital dos Países Baixos",
+      "answer": "AMSTERDÃ",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Walter Franco, músico de \"Coração Tranquilo\"",
+      "answer": "WF",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "(Pop.) Fracasso, malogro",
+      "answer": "BELELEU",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Parceiro",
+      "answer": "PAR",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "Recém-nascido",
+      "answer": "RN",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Um palito com algodão nas pontas",
+      "answer": "COTONETE",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "(Fig.) Pessoa emblemática do seu tempo",
+      "answer": "ICONE",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "Pintura",
+      "answer": "ARTE",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Que constitui um todo",
+      "answer": "UNO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "A ativista Thunberg",
+      "answer": "GRETA",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Isca artificial para pesca, que imita um inseto",
+      "answer": "MOSCA",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Um ingrediente da cerveja",
+      "answer": "MALTE",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "O esporte de Kelly Slater",
+      "answer": "SURFE",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Dar nascimento a filho",
+      "answer": "TER",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Acreditar",
+      "answer": "CRER",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Respirar com dificuldade",
+      "answer": "ARFAR",
+      "row": 7,
+      "col": 5
+    },
+    "32": {
+      "clue": "Um clube de futebol da capital paraense",
+      "answer": "TUNALUSO",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Apelido de Geraldo",
+      "answer": "GE",
+      "row": 8,
+      "col": 9
+    },
+    "36": {
+      "clue": "Precede Set",
+      "answer": "AGO",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Irregular",
+      "answer": "ANORMAL",
+      "row": 9,
+      "col": 4
+    },
+    "39": {
+      "clue": "Marcha para trás",
+      "answer": "RE",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Suporte para lâmpada, na parede",
+      "answer": "ARANDELA",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Uma forma de abreviar o nome do quarto mês",
+      "answer": "ABR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Garoto",
+      "answer": "MENINO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "As consoantes de salão",
+      "answer": "SL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Choque de duas bolinhas, no jogo do gude",
+      "answer": "TECO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Estender o comprimento de",
+      "answer": "ELONGAR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Conservar",
+      "answer": "RETER",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Dupla de instrumentistas",
+      "answer": "DUO",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Unidade de medida elétrica de símbolo W",
+      "answer": "WATT",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Máquina que mantém os alimentos congelados",
+      "answer": "FREEZER",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Criança travessa",
+      "answer": "PERALTA",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "A parte do leite com que se faz a manteiga",
+      "answer": "NATA",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "(Matem.) Uma função trigonométrica",
+      "answer": "COSSENO",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Umedecer superficialmente",
+      "answer": "UMECTAR",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "O Fittipaldi campeão mundial de F1 e Fórmula Indy",
+      "answer": "EMERSON",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Restabelecimento de saúde",
+      "answer": "CURA",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Fibra sintética de poliéster",
+      "answer": "TERGAL",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "O reino das hienas, dos tubarões etc.",
+      "answer": "FAUNA",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "Pó colorido usado em maquiagem",
+      "answer": "RUGE",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "Fabricava o Ecosport",
+      "answer": "FORD",
+      "row": 7,
+      "col": 7
+    },
+    "33": {
+      "clue": "Casa",
+      "answer": "LAR",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "Pronome pessoal feminino",
+      "answer": "ELA",
+      "row": 8,
+      "col": 10
+    },
+    "38": {
+      "clue": "Voz imitativa do balido da ovelha",
+      "answer": "ME",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

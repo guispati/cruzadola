@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Planta aquática primitiva",
+      "answer": "ALGA",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "Andar sem rumo",
+      "answer": "FLANAR",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "(Pop.) Surra",
+      "answer": "PAU",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Interjeição que expressa vários sentimentos e sensações",
+      "answer": "VIXE",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Indivíduo de tribo à qual pertencem muitos índios tapuias",
+      "answer": "JE",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Cidade paulista próxima a Osasco",
+      "answer": "ITAPEVI",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "De + um",
+      "answer": "DUM",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Penteado feito com tranças e tecidos, enfeites etc.",
+      "answer": "TERERE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Antes da ocasião própria",
+      "answer": "CEDO",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "O nitroso é outro nome do gás hilariante",
+      "answer": "OXIDO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Habitações",
+      "answer": "CASAS",
+      "row": 4,
+      "col": 6
+    },
+    "19": {
+      "clue": "Uma jogada do basquete",
+      "answer": "BANDEJA",
+      "row": 5,
+      "col": 2
+    },
+    "20": {
+      "clue": "Fruto que parece uma goiaba pequena",
+      "answer": "ARAÇA",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "Soprar (o vento) com muita força",
+      "answer": "LUFAR",
+      "row": 6,
+      "col": 6
+    },
+    "25": {
+      "clue": "Série de movimentos que permitem um deslocamento na água",
+      "answer": "NADO",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Profundo conhecedor",
+      "answer": "PERITO",
+      "row": 7,
+      "col": 5
+    },
+    "27": {
+      "clue": "Teste genético",
+      "answer": "DNA",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Cidade pernambucana com uma famosa feira popular",
+      "answer": "CARUARU",
+      "row": 8,
+      "col": 4
+    },
+    "29": {
+      "clue": "Egberto Gismonti, músico fluminense",
+      "answer": "EG",
+      "row": 9,
+      "col": 0
+    },
+    "30": {
+      "clue": "Que tem açúcar em sua composição",
+      "answer": "DOCE",
+      "row": 9,
+      "col": 3
+    },
+    "31": {
+      "clue": "Dicionário",
+      "answer": "DIC",
+      "row": 9,
+      "col": 8
+    },
+    "32": {
+      "clue": "Período mais quente do verão",
+      "answer": "SOLAMA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Prazer, fruição",
+      "answer": "GOZO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Instrumento usado por árbitros esportivos",
+      "answer": "APITO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Líquido extraído de folhas ou troncos de certas árvores",
+      "answer": "LATEX",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ato de ajeitar, arrumar ou acomodar de maneira apressada e superficial",
+      "answer": "GUARIBADA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O 5 inglês",
+      "answer": "FIVE",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "61, em romanos",
+      "answer": "LXI",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Albert Einstein (1879-1955), autor da Teoria da Relatividade",
+      "answer": "AE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Ação de auxiliar, de socorrer",
+      "answer": "AJUDA",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Os propulsores da canoa",
+      "answer": "REMOS",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Um antigo carro da Ford",
+      "answer": "VERONA",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Fragmento, bocado, porção",
+      "answer": "PEDAÇO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Aquele que foi chamado a duelo, à luta",
+      "answer": "DESAFIADO",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Cidade paulista, na microrregião de Batatais",
+      "answer": "CAJURU",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Ligeiro, veloz",
+      "answer": "CELERE",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "A cordilheira do lago Titicaca e do pico Aconcágua",
+      "answer": "ANDES",
+      "row": 6,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Gír.) Comida",
+      "answer": "RANGO",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Mulher do teatro",
+      "answer": "ATRIZ",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "Quase áfono",
+      "answer": "ROUCO",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Roedor de hábitos noturnos, semelhante a uma cutia",
+      "answer": "PACA",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "O sufixo da net para empresas comerciais",
+      "answer": "COM",
+      "row": 8,
+      "col": 4
+    },
+    "30": {
+      "clue": "Diretório Acadêmico",
+      "answer": "DA",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

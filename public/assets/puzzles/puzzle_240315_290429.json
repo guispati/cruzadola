@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Sopa de galinha com arroz",
+      "answer": "CANJA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Até a vista!",
+      "answer": "TCHAU",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Amplamente conhecido",
+      "answer": "NOTORIO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Interj.: admiração, espanto",
+      "answer": "OH",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Absolvição de culpa",
+      "answer": "VENIA",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Sódio, elemento químico",
+      "answer": "NA",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Transcrito fielmente",
+      "answer": "COPIADO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Abreviatura de uma relação entre ângulos e lados de um triângulo",
+      "answer": "SEN",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Que se repartiu pela metade",
+      "answer": "AMEADO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Gaiola para criação de galinhas",
+      "answer": "COVO",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Especialista no registro descritivo da cultura material de um determinado povo",
+      "answer": "ETNOGRAFO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "(Fig.) Sem afeto, sem calor humano",
+      "answer": "FRIO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Lançar raios de luz",
+      "answer": "RADIAR",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "(Dar à) Parir um filho",
+      "answer": "LUZ",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Que corre paralelo a",
+      "answer": "LADEADO",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "O contrário de off",
+      "answer": "ON",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Associação secreta siciliana",
+      "answer": "MAFIA",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "(Sigla) Ondas Curtas",
+      "answer": "OC",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Bando de aves em voo",
+      "answer": "REVOADA",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "Evidente, lógica",
+      "answer": "OBVIA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "O músico de \"Vida Bandida\"",
+      "answer": "LOBÃO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Galinha que está incubando",
+      "answer": "CHOCA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Nick Nolte, ator de \"Adoro Problemas\"",
+      "answer": "NN",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Relativo ao planeta Júpiter",
+      "answer": "JOVIANO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Atiçado",
+      "answer": "ATEADO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Virgulino) Banda de forró",
+      "answer": "TRIO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Sigla de uma agência governamental estadunidense, de grande poder e influência",
+      "answer": "CIA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Hólmio, elemento químico",
+      "answer": "HO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O planeta entre Saturno e Netuno",
+      "answer": "URANO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Dispositivo que mede a altura e a frequência das ondas do mar",
+      "answer": "ONDOGRAFO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "(Ingl.) No beisebol, uma rebatida indefensável",
+      "answer": "HOMERUN",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Nublado",
+      "answer": "NEVOADO",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Garoto",
+      "answer": "PETIZ",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "A capital da Bulgária, nação europeia",
+      "answer": "SOFIA",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Fechadura móvel",
+      "answer": "CADEADO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "De um osso do antebraço",
+      "answer": "RADIAL",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Pedacinho de neve",
+      "answer": "FLOCO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Orvalho",
+      "answer": "ROCIO",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Magma expelido por vulcões",
+      "answer": "LAVA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Microempreendedor Individual",
+      "answer": "MEI",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Ronnie Von, cantor",
+      "answer": "RV",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "As letras que antecedem o C",
+      "answer": "AB",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

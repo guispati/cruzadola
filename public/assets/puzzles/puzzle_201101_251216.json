@@ -1,0 +1,246 @@
+{
+  "across": {
+    "2": {
+      "clue": "Ganchinho de metal para prender uma parte do vestido em outra",
+      "answer": "COLCHETE",
+      "row": 0,
+      "col": 2
+    },
+    "9": {
+      "clue": "Qualidade do que é feito com apuro",
+      "answer": "ALINHO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O grande rio que banha Colônia e Düsseldorf, na Alemanha",
+      "answer": "RENO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Dar cambalhotas",
+      "answer": "PIRUETAR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Cobre",
+      "answer": "CU",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "A atriz Valverde",
+      "answer": "ISIS",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Tornar o vinho fraco e suave",
+      "answer": "ADAMAR",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "(Mús.) A nota G",
+      "answer": "SOL",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Diz-se de vinho jovem, com sabor e aroma das uvas que lhe deram origem",
+      "answer": "FRUTADO",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Tecido fino e transparente",
+      "answer": "FILO",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Parte essencial de alguma coisa",
+      "answer": "BASE",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "(Cul.) Brigadeiro, cajuzinho, olho de sogra etc.",
+      "answer": "DOCINHO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Bíbl.) O tronco da raça negra",
+      "answer": "CAM",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Sarcasmo velado ofensivo",
+      "answer": "IRONIA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Uma Maria da MPB",
+      "answer": "GADU",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Sigla do Amazonas",
+      "answer": "AM",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Aquele que arranca ervas daninhas",
+      "answer": "CARPIDOR",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Destino",
+      "answer": "SINA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Claridade que antecede o nascimento do sol",
+      "answer": "AURORA",
+      "row": 9,
+      "col": 5
+    },
+    "36": {
+      "clue": "Tirano, ditador",
+      "answer": "OPRESSOR",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Peça usada para escrever ou desenhar",
+      "answer": "LAPIS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O alfabeto que deu origem ao alfabeto russo",
+      "answer": "CIRILICO",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Encargo, obrigação",
+      "answer": "ONUS",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "A ele ou a ela",
+      "answer": "LHE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Determinar um preço",
+      "answer": "COTAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Ressalva",
+      "answer": "ERRATA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "T",
+      "answer": "TE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Que liga",
+      "answer": "ENCADEADOR",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "(Quím.) Solução usada como desinfetante e detergente",
+      "answer": "LISOFORMIO",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "O verde é o café, como riqueza agrícola",
+      "answer": "OURO",
+      "row": 1,
+      "col": 10
+    },
+    "14": {
+      "clue": "Fertilizante",
+      "answer": "ADUBO",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "Aquele que rumina sem engolir",
+      "answer": "MASCADOR",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Som da voz",
+      "answer": "FONIA",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "(Inform.) Vincular um arquivo ou página eletrônica a um endereço",
+      "answer": "LINCAR",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "O Gonçalves (1823-1864), poeta de \"Segundos Cantos\"",
+      "answer": "DIAS",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Local de criação de cavalos",
+      "answer": "HARAS",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Emparedar",
+      "answer": "MURAR",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "O d'Italia é uma tradicional prova de ciclismo",
+      "answer": "GIRO",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Líquido que se forma numa ferida infeccionada",
+      "answer": "PUS",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "As letras separadas pelo O",
+      "answer": "NP",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

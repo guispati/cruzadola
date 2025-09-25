@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "O trompetista de jazz Davis (1926-1991)",
+      "answer": "MILES",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Venda a crédito",
+      "answer": "FIADO",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Aliado",
+      "answer": "AMIGO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "(Ao) Ao contrário",
+      "answer": "INVES",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Vermelho, em Londres",
+      "answer": "RED",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Cavalo veloz",
+      "answer": "CORCEL",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Aguardente de uva",
+      "answer": "GRAPA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "São dois em cada bimestre",
+      "answer": "MESES",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "As iniciais da cantora Sangalo, de \"Na Base do Beijo\"",
+      "answer": "IS",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Prescrições",
+      "answer": "ORDENS",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "O músico Rosa (1910-1937), o \"Poeta da Vila\"",
+      "answer": "NOEL",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Sofrer",
+      "answer": "DOER",
+      "row": 5,
+      "col": 7
+    },
+    "26": {
+      "clue": "Aquele que nasceu no Brasil, de pais japoneses",
+      "answer": "NISSEI",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "Xenônio, elemento químico",
+      "answer": "XE",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "Linha, traço",
+      "answer": "RISCA",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Nome que identifica um usuário em um sistema de computadores",
+      "answer": "LOGIN",
+      "row": 7,
+      "col": 6
+    },
+    "34": {
+      "clue": "(Chuan) Uma das artes marciais chinesas",
+      "answer": "TAICHI",
+      "row": 8,
+      "col": 1
+    },
+    "35": {
+      "clue": "Exclamação para demonstrar alegria, surpresa",
+      "answer": "EBA",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "Tornar visíveis quaisquer vasos sanguíneos de um corpo",
+      "answer": "VEIAR",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "(Banana) Uma sobremesa com sorvete, caldas, frutas, castanhas moídas etc.",
+      "answer": "SPLIT",
+      "row": 9,
+      "col": 6
+    },
+    "39": {
+      "clue": "Uma frutinha vermelha-escura",
+      "answer": "AMORA",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Neste momento",
+      "answer": "AGORA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Fixar o espaço da borda de uma folha a ser impressa",
+      "answer": "MARGINAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Mergulhado",
+      "answer": "IMERSO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Luta árdua",
+      "answer": "LIDA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "As letras separadas pelo F",
+      "answer": "EG",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Pisar no pilão",
+      "answer": "SOCAR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Estável, sólido",
+      "answer": "FIRME",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Grande fogo que causa prejuízos materiais",
+      "answer": "INCENDIO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O oposto ao lado correto",
+      "answer": "AVESSO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Pertencente àquele homem",
+      "answer": "DELE",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Artigo para mais de um",
+      "answer": "OS",
+      "row": 0,
+      "col": 10
+    },
+    "16": {
+      "clue": "Zelar, vigiar com atenção",
+      "answer": "POLICIAR",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Pequeno concerto noturno",
+      "answer": "SERENATA",
+      "row": 3,
+      "col": 10
+    },
+    "21": {
+      "clue": "De + os",
+      "answer": "DOS",
+      "row": 4,
+      "col": 5
+    },
+    "23": {
+      "clue": "Treinamento",
+      "answer": "ENSAIO",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Mostrar",
+      "answer": "EXIBIR",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "A arte feita por Manuel da Costa Athayde e Aleijadinho",
+      "answer": "SACRA",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "Um nome de mulher",
+      "answer": "ELISA",
+      "row": 6,
+      "col": 6
+    },
+    "31": {
+      "clue": "Mercadoria",
+      "answer": "ITEM",
+      "row": 7,
+      "col": 1
+    },
+    "33": {
+      "clue": "Água solidificada a baixíssima temperatura",
+      "answer": "GELO",
+      "row": 7,
+      "col": 8
+    },
+    "36": {
+      "clue": "(Elet.) Volt-ampère",
+      "answer": "VA",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Paul Gauguin (1848-1903), pintor francês",
+      "answer": "PG",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

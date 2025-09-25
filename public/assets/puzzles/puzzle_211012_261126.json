@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Índio selvagem, bravio",
+      "answer": "BUGRE",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Erva forrageira",
+      "answer": "CAPIM",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Perigoso e incerto",
+      "answer": "ARRISCADO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Fusão de duas vogais iguais",
+      "answer": "CRASE",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "Nome científico do terremoto",
+      "answer": "SISMO",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Elemento químico usado em medicina como germicida",
+      "answer": "IODO",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Lat.) Posição de um indivíduo numa estrutura social",
+      "answer": "STATUS",
+      "row": 3,
+      "col": 5
+    },
+    "16": {
+      "clue": "Separar o macarrão da água de seu cozimento",
+      "answer": "ESCORRER",
+      "row": 4,
+      "col": 2
+    },
+    "18": {
+      "clue": "(Quím.) Terminação dos álcoois",
+      "answer": "OL",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "O rebordo do chapéu que produz a sombra no rosto",
+      "answer": "ABA",
+      "row": 5,
+      "col": 4
+    },
+    "21": {
+      "clue": "Omar Sharif (1932-2015), ator egípcio de \"Lawrence da Arábia\"",
+      "answer": "OS",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Sentir aversão",
+      "answer": "EMBIRRAR",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Ação feita para intimidar",
+      "answer": "AMEAÇA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Crina de leão",
+      "answer": "JUBA",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Muito ampla",
+      "answer": "VASTA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Reduzir a nada",
+      "answer": "SUMIR",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Qualidade do que merece consideração especial",
+      "answer": "SERIEDADE",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Ave parecida com o sanhaço",
+      "answer": "SAIRA",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Movimentações das águas oceânicas",
+      "answer": "MARES",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um veículo de infecção",
+      "answer": "BACILO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Fig.) Berro",
+      "answer": "URRO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Estrutura metálica usada como proteção de janelas",
+      "answer": "GRADE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Rs",
+      "answer": "RISOS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Ponto oposto ao WNW",
+      "answer": "ESE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Privar dos órgãos da reprodução",
+      "answer": "CASTRAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Remarcar um compromisso para outra data",
+      "answer": "ADIAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Fig.) Pessoa muito alta",
+      "answer": "POSTE",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "As extremidades dos membros superiores",
+      "answer": "MÃOS",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "O das Lamentações é um local sagrado para os judeus",
+      "answer": "MURO",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Resíduo ou resto",
+      "answer": "SOBRA",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Caboclo do litoral paulista",
+      "answer": "CAIÇARA",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Dito proverbial",
+      "answer": "LEMA",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "O sobrenome das cantoras Claudette e Elza",
+      "answer": "SOARES",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "Um dos melhores jogadores da história do futebol",
+      "answer": "MESSI",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Fechar a porta, tampa etc. com violência",
+      "answer": "BATER",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Auxílio",
+      "answer": "AJUDA",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Dirigir",
+      "answer": "RUMAR",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Animais como a cegonha e o socó",
+      "answer": "AVES",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Um dos vasos do banheiro",
+      "answer": "BIDE",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "O oposto de com",
+      "answer": "SEM",
+      "row": 8,
+      "col": 6
+    }
+  }
+}

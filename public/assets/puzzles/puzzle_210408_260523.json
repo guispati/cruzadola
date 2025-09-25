@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Interjeição que marca o desfecho de uma ação",
+      "answer": "PIMBA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Fig.) Muito interessado, ansioso",
+      "answer": "MORTO",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Dispositivo que permite ligar e desligar um circuito elétrico",
+      "answer": "INTERRUPTOR",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Uma forma de abreviar o nome do mês 2",
+      "answer": "FEV",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Cor vermelho-clara",
+      "answer": "ROSA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Pago",
+      "answer": "PG",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Alain Delon, ator francês",
+      "answer": "AD",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "O mestre da culinária",
+      "answer": "CUCA",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Desabafo de bom humor",
+      "answer": "RISADA",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "O B dos químicos",
+      "answer": "BORO",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "No futebol, chute forte",
+      "answer": "TIRAMBAÇO",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Região",
+      "answer": "ZONA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "A capital colombiana",
+      "answer": "BOGOTA",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Tonta, tola",
+      "answer": "BOBA",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "(Mús.) O antigo nome da nota C",
+      "answer": "UT",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Luiza Tomé, atriz",
+      "answer": "LT",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Prefixo: dez elevado a menos três",
+      "answer": "MILI",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "O maior dos antílopes",
+      "answer": "GNU",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "(Madalena) Pessoa que procura mostrar o seu pesar por haver agido mal com outra",
+      "answer": "ARREPENDIDA",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Carabina de cano longo",
+      "answer": "RIFLE",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "O gancho que fisga o peixe",
+      "answer": "ANZOL",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Quebrar",
+      "answer": "PIFAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Que ainda não foi publicado",
+      "answer": "INEDITO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um canal de tevê especializado em música",
+      "answer": "MTV",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Abreviatura de boreste",
+      "answer": "BE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Planta de odor forte e uso medicinal",
+      "answer": "ARRUDA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Mulher fonte de inspiração de um artista",
+      "answer": "MUSA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Interjeição de espanto",
+      "answer": "OPA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "As letras que cercam o S",
+      "answer": "RT",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Aviso usado para atrair a atenção dos telespectadores para o início de um programa",
+      "answer": "TOP",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "O conjunto das instituições responsáveis pelo governo do Estado",
+      "answer": "ORGÃO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Doce enrolado em espiral com recheio de geleia, chocolate etc.",
+      "answer": "ROCAMBOLE",
+      "row": 1,
+      "col": 5
+    },
+    "17": {
+      "clue": "Planta comestível, também chamada inhame-da-china",
+      "answer": "CARA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Homem maduro, mas não idoso",
+      "answer": "MOÇO",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Instrumento que badala",
+      "answer": "SINO",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Pequeno fruto carnudo e arredondado",
+      "answer": "BAGA",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Que tem forma curva, arredondada",
+      "answer": "ROTUNDO",
+      "row": 4,
+      "col": 9
+    },
+    "24": {
+      "clue": "Cilindro sobre o qual se enrolam fios, cabos etc.",
+      "answer": "BOBINA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Cuidar",
+      "answer": "ZELAR",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "De hoje",
+      "answer": "ATUAL",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "Sinal sonoro breve produzido por aparelho eletrônico",
+      "answer": "BIPE",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Precede tetra",
+      "answer": "TRI",
+      "row": 8,
+      "col": 1
+    },
+    "32": {
+      "clue": "Produto açucarado feito pelas abelhas a partir do néctar das flores",
+      "answer": "MEL",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Bastonete usado por professores",
+      "answer": "GIZ",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "Abreviatura de radiofrequência",
+      "answer": "RF",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Defesa Nacional",
+      "answer": "DN",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Tornar fino ou delgado",
+      "answer": "AFILAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Mestre espiritual",
+      "answer": "GURU",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "A atriz fluminense Leila (1945-1972)",
+      "answer": "DINIZ",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "(Ingl.) Sete",
+      "answer": "SEVEN",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Prender em uma grande gaiola",
+      "answer": "ENJAULAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Ministério da Saúde",
+      "answer": "MS",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Oculto",
+      "answer": "ENLAPADO",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "A parte do leite com que se faz a manteiga",
+      "answer": "NATA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Semente de vários frutos",
+      "answer": "CAROÇO",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "A Marcela Cunha medalhista olímpica da natação",
+      "answer": "ANA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Substância que tem ação na digestão das gorduras",
+      "answer": "FEL",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Precede Leñas, na estação de esqui argentina",
+      "answer": "LAS",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Andar em volta de",
+      "answer": "RODEAR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Lauderdale) Cidade da Flórida, nos EUA",
+      "answer": "FORT",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "No teatro, o mesmo que encenação",
+      "answer": "MONTAGEM",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "A UF de Trancoso e do Pelourinho",
+      "answer": "BA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Que dirige, que dá orientação",
+      "answer": "DIRETIVO",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "O oposto de escura",
+      "answer": "CLARA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Língua falada pelos antigos romanos",
+      "answer": "LATIM",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Pedaço de mexerica",
+      "answer": "GOMO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Orelha de livro",
+      "answer": "SOLAPA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Inclinar-se (o navio) submergindo de um lado",
+      "answer": "ADERNAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Finlândia",
+      "answer": "FIN",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Diz-se do líquido que se introduziu em alguma parte",
+      "answer": "INJETADO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Cipó",
+      "answer": "LIANA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Uma das cores da bandeira da França",
+      "answer": "AZUL",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Procriar",
+      "answer": "GERAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Abreviatura do raio que pode provocar o câncer de pele",
+      "answer": "UV",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Fazer parecer mais jovem",
+      "answer": "REMOÇAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Aproximadamente",
+      "answer": "UNS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Paul, brejo",
+      "answer": "SAPAL",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Rasgar em pedaços",
+      "answer": "LACERAR",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Mineral branco, semelhante ao mármore carrara",
+      "answer": "DOLOMITA",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Que tem irregularidade",
+      "answer": "ANOMALO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Tumor benigno do tecido ósseo",
+      "answer": "OSTEOMA",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Pedaço de queijo cortado em de lâmina",
+      "answer": "FATIA",
+      "row": 5,
+      "col": 4
+    },
+    "25": {
+      "clue": "Planta semelhante ao funcho",
+      "answer": "ENDRO",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Relativo ao feto",
+      "answer": "FETAL",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Água sólida usada para resfriar bebidas",
+      "answer": "GELO",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "Abreviatura da vacina usada contra a tuberculose",
+      "answer": "BCG",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "(Sigla inglesa) Pessoa muito importante",
+      "answer": "VIP",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "(Rád.) Amplitude Modulada",
+      "answer": "AM",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

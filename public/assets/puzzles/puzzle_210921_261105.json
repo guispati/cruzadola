@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Fig.) Perder o interesse",
+      "answer": "ESFRIAR",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Sabor muito amargo",
+      "answer": "FEL",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "(Gír.) Confusão, barulho, desordem",
+      "answer": "MELE",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Um famoso técnico de futebol",
+      "answer": "CUCA",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Do presente",
+      "answer": "ATUAL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Revolta em penitenciária",
+      "answer": "MOTIM",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Em + estas",
+      "answer": "NESTAS",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Peça das armas de fogo para auxiliar a dirigir a pontaria",
+      "answer": "MIRA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Adquirir costumes",
+      "answer": "HABITUAR",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Sigla do estado de Cariacica e Vila Velha",
+      "answer": "ES",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "O escultor francês Auguste (1840-1917), de \"O Beijo\"",
+      "answer": "RODIN",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Igreja Católica",
+      "answer": "IC",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Compreender o significado das palavras",
+      "answer": "LER",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Novo depósito de tinta em cartucho de impressão",
+      "answer": "RECARGA",
+      "row": 6,
+      "col": 4
+    },
+    "30": {
+      "clue": "Conserto",
+      "answer": "REPARO",
+      "row": 7,
+      "col": 1
+    },
+    "32": {
+      "clue": "Educação a Distância",
+      "answer": "EAD",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "Muito pobre (fem.)",
+      "answer": "MISERA",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Vaso de banheiro",
+      "answer": "BIDE",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "Diabo, capeta",
+      "answer": "SATÃ",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Franco e sincero",
+      "answer": "LHANO",
+      "row": 9,
+      "col": 5
+    },
+    "38": {
+      "clue": "Gás usado como fluidos de refrigeração",
+      "answer": "FREON",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Já",
+      "answer": "AGORA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Nome bíblico que se refere a Jesus Cristo",
+      "answer": "EMANUEL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O número de jogadores de uma equipe de polo aquático",
+      "answer": "SETE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Uma combinação de cartas do pôquer",
+      "answer": "FLUSH",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Retomar o que se tinha rompido",
+      "answer": "REATAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Adriana Calcanhotto, cantora gaúcha",
+      "answer": "AC",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Bebida alcoólica ingrediente do drinque daiquiri",
+      "answer": "RUM",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Porção mais ou menos considerável de algo",
+      "answer": "FATIA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A capital do país sul-americano com Machu Picchu",
+      "answer": "LIMA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Subdivisão territorial de vários países europeus",
+      "answer": "COMUNA",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Lidar, trabalhar",
+      "answer": "LABORAR",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Que leva águas necessárias às plantações",
+      "answer": "IRRIGADOR",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Relativo a astros e estrelas",
+      "answer": "SIDERAL",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Um esquilo das histórias da Disney",
+      "answer": "TICO",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Classificar",
+      "answer": "SERIAR",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "(Pop.) Onde está?",
+      "answer": "CADE",
+      "row": 5,
+      "col": 10
+    },
+    "27": {
+      "clue": "Na sinuca, taco usado como guia",
+      "answer": "RESTE",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "(Pimenta-do-) Uma especiaria",
+      "answer": "REINO",
+      "row": 6,
+      "col": 8
+    },
+    "31": {
+      "clue": "A peça mais numerosa do xadrez",
+      "answer": "PEÃO",
+      "row": 7,
+      "col": 3
+    },
+    "33": {
+      "clue": "Médicos Sem Fronteiras",
+      "answer": "MSF",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Ingl.) Bolsa",
+      "answer": "BAG",
+      "row": 8,
+      "col": 7
+    },
+    "37": {
+      "clue": "Hânio, para os químicos",
+      "answer": "HA",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

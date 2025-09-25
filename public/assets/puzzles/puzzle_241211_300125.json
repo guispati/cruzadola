@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um aparelho para exercícios físicos",
+      "answer": "HALTERE",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Tailandesa",
+      "answer": "SIAMESA",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Sem demora",
+      "answer": "JA",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "O sertanista português (1507-1592) fundador da cidade de Santos",
+      "answer": "BRASCUBAS",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Bala que se dispara num rifle",
+      "answer": "TIRO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Pop.) Padaria",
+      "answer": "PADOCA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Uma interjeição de espanto",
+      "answer": "OPA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Gênero de caracóis como o escargot",
+      "answer": "HELIX",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Abreviatura de Sudeste",
+      "answer": "SE",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Bot.) Sempre-viva",
+      "answer": "SAIÃO",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Elemento de composição: duas vezes",
+      "answer": "BI",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Medo causado por um fato ameaçadore e inesperado",
+      "answer": "SUSTO",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Claridade da lâmpada",
+      "answer": "LUZ",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "Proposta de compra",
+      "answer": "OFERTA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Slogan",
+      "answer": "LEMA",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Nascidos na ilha de Marajó",
+      "answer": "PARAENSES",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "O triplo de III",
+      "answer": "IX",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Do lado",
+      "answer": "LATERAL",
+      "row": 9,
+      "col": 3
+    },
+    "33": {
+      "clue": "Sentimento doloroso e profundo de culpa",
+      "answer": "REMORSO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "A primeira carta de cada naipe",
+      "answer": "AS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O signo que vai de 23/9 a 22/10",
+      "answer": "LIBRA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Adivinhação que usa um baralho ilustrado",
+      "answer": "TARO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Grande ave, semelhante ao avestruz",
+      "answer": "EMA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Referente",
+      "answer": "RESPEITANTE",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "(Fig.) Escala hierárquica",
+      "answer": "ESCALÃO",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Tornar fanhoso um som",
+      "answer": "NASALIZAR",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Parte sonora de um filme",
+      "answer": "AUDIO",
+      "row": 1,
+      "col": 7
+    },
+    "11": {
+      "clue": "Marca de carros",
+      "answer": "JAC",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Instrumento para examinar o canal do ouvido",
+      "answer": "OTOSCOPIO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Compartimento para banho",
+      "answer": "BOX",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "(O Tronco do) Livro",
+      "answer": "IPE",
+      "row": 3,
+      "col": 1
+    },
+    "19": {
+      "clue": "Elevar ao topo de um mastro",
+      "answer": "HASTEAR",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "(Anat.) Relativo à barriga da perna",
+      "answer": "SURAL",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "O som de uma batida, nas HQs",
+      "answer": "BUM",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "O que é ou existe",
+      "answer": "SER",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Machucar",
+      "answer": "LESAR",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Aparelho de comunicação, atualmente pouco utilizado",
+      "answer": "FAX",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "(Gír.) Conversa-mole",
+      "answer": "LERO",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "(-terra) Uma característica dos trabalhadores do MST",
+      "answer": "SEM",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Linguagem de Sinais",
+      "answer": "LS",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

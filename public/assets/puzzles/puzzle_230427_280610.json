@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um equipamento usado pelo lutador de boxe",
+      "answer": "LUVA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O Fernando (1946-2015), parceiro de Milton Nascimento",
+      "answer": "BRANDT",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Praia",
+      "answer": "ARENAL",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Bloqueio no basquete",
+      "answer": "TOCO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Campestre, agrícola",
+      "answer": "RURAL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Técnica de estampagem manual de tecido",
+      "answer": "BATIK",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Você, na net",
+      "answer": "VC",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "(Pop.) Empenho, determinação em uma atividade",
+      "answer": "PEGADA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "(Biol.) Produzido sem influência externa",
+      "answer": "AUTOGENO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Pablo Neruda, escritor chileno",
+      "answer": "PN",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Ficar ocioso",
+      "answer": "MALANDRAR",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Prefixo: 10.000 vezes maior",
+      "answer": "MIRIA",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Dezenove, em algarismos romanos",
+      "answer": "XIX",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Regras criadas pelo poder legislativo",
+      "answer": "LEIS",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Ave semelhante a um periquito",
+      "answer": "TIRIVA",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "Programa de Integração Social",
+      "answer": "PIS",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Formar, a partir algum material, uma figura",
+      "answer": "MODELAR",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Desprender perfume",
+      "answer": "EXALAR",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Pop.) Quede?",
+      "answer": "CADE",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "Sem auxílio, apoio ou ajuda",
+      "answer": "SO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Que não é novo",
+      "answer": "USADO",
+      "row": 10,
+      "col": 3
+    },
+    "38": {
+      "clue": "O símbolo químico do metal das alianças de casamento",
+      "answer": "AU",
+      "row": 10,
+      "col": 9
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Forma primitiva de alguns insetos",
+      "answer": "LARVA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Tinta usada por povos originários",
+      "answer": "URUCUM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Perceber com os olhos a realidade concreta",
+      "answer": "VER",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Cidade goiana, uma das maiores do estado",
+      "answer": "ANAPOLIS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Bolo sem ós",
+      "answer": "BL",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Aquele que prende, atrela",
+      "answer": "ATADOR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Papel-moeda",
+      "answer": "NOTA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "601, em algarismos romanos",
+      "answer": "DCI",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Dispositivo gerador de senhas, usado por bancos",
+      "answer": "TOKEN",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Dar como pretexto",
+      "answer": "ALEGAR",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Um curativo",
+      "answer": "BANDAID",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Mãe",
+      "answer": "GENITORA",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "O rio que banha Oxford e Londres, na Inglaterra",
+      "answer": "TAMISA",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Vaso sanitário",
+      "answer": "PRIVADA",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Ponto do corpo muito sensível às cócegas",
+      "answer": "AXILA",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Os montes com o Matterhorn",
+      "answer": "ALPES",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Peixe do Atlântico, capturado em pesca esportiva",
+      "answer": "XAREU",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "(Matem.) Reta orientada",
+      "answer": "EIXO",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Recruta",
+      "answer": "RECO",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Senão",
+      "answer": "MAS",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "Apelido para Luciana",
+      "answer": "LU",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

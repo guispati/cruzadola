@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Falta de ar",
+      "answer": "ABAFAMENTO",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "(Abrev.) Paralisia infantil",
+      "answer": "POLIO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Flexão do pronome eu",
+      "answer": "MIM",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "(Bot.) Ponto da planta onde esta vai desabrochar",
+      "answer": "OLHO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Ingl.) Caneta",
+      "answer": "PEN",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Duas letras que ficam juntas no lado direito do teclado",
+      "answer": "OP",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "O S de SP",
+      "answer": "SÃO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "(Pop.) Mão esquerda",
+      "answer": "CANHOTA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Cleo sem consoantes",
+      "answer": "EO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Diz-se de corpo que tem a propriedade de se unir a outros",
+      "answer": "SOLDAVEL",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Cortado",
+      "answer": "TALHADO",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "Pancada com pedaço de terra endurecido",
+      "answer": "TORROADA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Getúlio Vargas (1883-1954), presidente do país",
+      "answer": "GV",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "Marca o casamento",
+      "answer": "ALIANÇA",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "A família",
+      "answer": "LAR",
+      "row": 7,
+      "col": 8
+    },
+    "26": {
+      "clue": "Diretoria Administrativa",
+      "answer": "DA",
+      "row": 8,
+      "col": 0
+    },
+    "27": {
+      "clue": "Um pouco de... cádmio",
+      "answer": "MIO",
+      "row": 8,
+      "col": 3
+    },
+    "28": {
+      "clue": "Glândula mamária",
+      "answer": "TETA",
+      "row": 8,
+      "col": 7
+    },
+    "29": {
+      "clue": "Clínica para tratamento da saúde e da beleza",
+      "answer": "SPA",
+      "row": 9,
+      "col": 2
+    },
+    "30": {
+      "clue": "A sigla para a doença responsável pela atual pandemia",
+      "answer": "COVID",
+      "row": 9,
+      "col": 6
+    },
+    "31": {
+      "clue": "Instrumento de arco e cordas friccionáveis, executado entre as pernas e apoiado num espigão",
+      "answer": "VIOLONCELO",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Afastado do serviço ativo por invalidez, tempo de serviço etc.",
+      "answer": "APOSENTADO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Pop.) Aposta conjunta de diversas pessoas",
+      "answer": "BOLÃO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um dente usado na alimentação",
+      "answer": "ALHO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Maravilha) Famoso atacante do futebol",
+      "answer": "FIO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Vogais em caso",
+      "answer": "AO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Corrigida, alterada, modificada",
+      "answer": "EMENDADA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Os pássaros de uma mesma cria",
+      "answer": "NINHADA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Thomas Mann (1875-1955), escritor alemão",
+      "answer": "TM",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "Que se combinou, ajustou de viva voz",
+      "answer": "APALAVRADO",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "Um artista do circo",
+      "answer": "PALHAÇO",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "O meio do... hotel",
+      "answer": "OTE",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Típico de um território ocupado e administrado por um país diferente daquele que o povoa",
+      "answer": "COLONIAL",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "O de Páscoa é um doce dado como presente naquela data",
+      "answer": "OVO",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Doença muito contagiosa, própria das crianças",
+      "answer": "SARAMPO",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Entre bi e quadri",
+      "answer": "TRI",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Saudação jovial ao se encontrar alguém",
+      "answer": "OLA",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Lugar onde se criam certos mamíferos domesticáveis",
+      "answer": "GATIL",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "De pouco peso",
+      "answer": "LEVE",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "(Psiq.) A sigla de Transtorno Obsessivo-Compulsivo",
+      "answer": "TOC",
+      "row": 8,
+      "col": 7
+    },
+    "29": {
+      "clue": "(Mús.) O B dos músicos",
+      "answer": "SI",
+      "row": 9,
+      "col": 2
+    },
+    "30": {
+      "clue": "Chuck Norris, ator de \"Comando Delta\"",
+      "answer": "CN",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

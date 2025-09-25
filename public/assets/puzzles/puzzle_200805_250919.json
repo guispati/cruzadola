@@ -1,0 +1,120 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Funda) Bairro onde fica o Memorial da América Latina, além de estações de trem e ônibus",
+      "answer": "BARRA",
+      "row": 0,
+      "col": 0
+    },
+    "3": {
+      "clue": "Prato típico da cozinha italiana que é uma identidade de SP",
+      "answer": "PIZZA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "O distrito onde ocorre a Feira da Madrugada; é um centro de compra de roupas e acessórios",
+      "answer": "BRAS",
+      "row": 2,
+      "col": 3
+    },
+    "7": {
+      "clue": "Um dos rios que banha a capital",
+      "answer": "TIETE",
+      "row": 3,
+      "col": 6
+    },
+    "8": {
+      "clue": "O bairro da Zona Leste onde se localiza um dos mais tradicionais clubes paulistanos",
+      "answer": "TATUAPE",
+      "row": 4,
+      "col": 0
+    },
+    "9": {
+      "clue": "(Estação da) Construção tombada pelo patrimônio, localizada no Bom Retiro, uma das mais imponentes da cidade",
+      "answer": "LUZ",
+      "row": 5,
+      "col": 6
+    },
+    "11": {
+      "clue": "Emblemático edifício paulistano, projetado por Oscar Niemeyer",
+      "answer": "COPAN",
+      "row": 6,
+      "col": 0
+    },
+    "12": {
+      "clue": "Sociedade Esportiva Palmeiras, um dos mais tradicionais times de futebol do Brasil",
+      "answer": "SEP",
+      "row": 7,
+      "col": 5
+    },
+    "14": {
+      "clue": "(Paulista) Prato típíco, preparada com fariha de milho, ovos, sardinha, tomate etc.",
+      "answer": "CUSCUZ",
+      "row": 9,
+      "col": 5
+    },
+    "16": {
+      "clue": "Museu de Arte de São Paulo, fundado em 1947, por Assis Chateuabriand (1892-1968); reúne mais de 11.000 obras",
+      "answer": "MASP",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Importante avenida que liga a Zona Oeste ao centro da cidade",
+      "answer": "REBOUÇAS",
+      "row": 0,
+      "col": 3
+    },
+    "3": {
+      "clue": "Petisco frito, feito de massa de farinha de trigo, com recheio salgado ou doce, tradicionalmente comido nas feiras livres de SP",
+      "answer": "PASTEL",
+      "row": 0,
+      "col": 6
+    },
+    "4": {
+      "clue": "Grande complexo para feiras e eventos, além de ser o local onde se realiza o desfile das escolas de samba",
+      "answer": "ANHEMBI",
+      "row": 0,
+      "col": 10
+    },
+    "5": {
+      "clue": "A Augusta é uma das mais famosas da cidade",
+      "answer": "RUA",
+      "row": 2,
+      "col": 1
+    },
+    "8": {
+      "clue": "Teatro Brasileiro de Comédia, fundado em 1948, foi palco para artistas como Cacilda Becker e Paulo Autran",
+      "answer": "TBC",
+      "row": 4,
+      "col": 0
+    },
+    "10": {
+      "clue": "Uma das maiores universidades brasileiras; um de seus campi se localiza na região do Butantã",
+      "answer": "USP",
+      "row": 5,
+      "col": 7
+    },
+    "12": {
+      "clue": "Sport Club Corinthians Paulista",
+      "answer": "SCCP",
+      "row": 7,
+      "col": 5
+    },
+    "13": {
+      "clue": "Museu de Arte Moderna, localizado no Parque do ibirapuera, onde se realiza a Bienal de SP",
+      "answer": "MAM",
+      "row": 8,
+      "col": 2
+    },
+    "15": {
+      "clue": "A praça onde se localiza o Marco Zero da cidade",
+      "answer": "SE",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

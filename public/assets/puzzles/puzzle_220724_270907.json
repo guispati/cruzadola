@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Aceito legalmente como filho",
+      "answer": "ADOTADO",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Um pó branco usado em construções",
+      "answer": "CAL",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Elemento químico de símbolo Th",
+      "answer": "TORIO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Molusco que vive no costado dos navios",
+      "answer": "CRACA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Sem delicadeza",
+      "answer": "RUDE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O cantor e compositor mineiro Beto",
+      "answer": "GUEDES",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "(Adv.) No máximo",
+      "answer": "ATE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "A família de árvores à qual pertencem os coqueiros",
+      "answer": "PALMAS",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Reunião dos bispos da Igreja Católica",
+      "answer": "CONCILIO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Duas letras vizinhas à direita do teclado",
+      "answer": "OP",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Do Paraná, Rio Grande do Sul ou Santa Catarina",
+      "answer": "SULISTA",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "As iniciais da apresentadora Casé",
+      "answer": "RC",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Que produz leite",
+      "answer": "LACTANTE",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "(Med.) Perda total da voz",
+      "answer": "AFONIA",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "A model que desfila no mundo da alta moda",
+      "answer": "TOP",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "A cantora de \"Vai Malandra\"",
+      "answer": "ANITTA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Amor com dor",
+      "answer": "RIMA",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Fazer jus a, ser digno de, merecer",
+      "answer": "VALER",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Fazer perder a vista",
+      "answer": "CEGAR",
+      "row": 9,
+      "col": 6
+    },
+    "34": {
+      "clue": "O sujeito de mente ou manda",
+      "answer": "ELE",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Inquieto devido à espera",
+      "answer": "ANSIOSO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Amarrar à terra (uma embarcação)",
+      "answer": "ATRACAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Que sabe muito",
+      "answer": "DOUTO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Disposições dadas por superior",
+      "answer": "ORDENS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Black) Um traje para ocasiões formais",
+      "answer": "TIE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Prazo sem consoantes",
+      "answer": "AO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Oftalmologista",
+      "answer": "OCULISTA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Todo, qualquer",
+      "answer": "CADA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Que está pegando fogo",
+      "answer": "ACESO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Leñas) Estação argentina de esqui",
+      "answer": "LAS",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Que vai muito além do tempo (antiguidade, causa, recordação)",
+      "answer": "REMOTA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "A região espanhola com Santiago de Compostela",
+      "answer": "GALICIA",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Pessoa de mau caráter, desonesta",
+      "answer": "PILANTRA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Gordura localizada do quadril",
+      "answer": "CULOTE",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Instrução para o desempenho de uma tarefa",
+      "answer": "PREPARO",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Que precedeu o atual detentor de um cargo, de uma posição",
+      "answer": "ANTIGO",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Um curso d'água como o de Suez",
+      "answer": "CANAL",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "O poeta Antônio Gonzaga (1744-1810), de \"Marília de Dirceu\"",
+      "answer": "TOMAS",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Fatia de carne",
+      "answer": "FILE",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Um animal como o falcão",
+      "answer": "AVE",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "O Momo é um folião eleito na época do carnaval",
+      "answer": "REI",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Carlos Saldanha, cineasta de \"Rio\"",
+      "answer": "CS",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

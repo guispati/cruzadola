@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Livrar de suspeitas",
+      "answer": "ILIBAR",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Amarelo do ovo",
+      "answer": "GEMA",
+      "row": 0,
+      "col": 7
+    },
+    "11": {
+      "clue": "(Med.) Ausência de oxigenação dos tecidos",
+      "answer": "ANOXIA",
+      "row": 1,
+      "col": 1
+    },
+    "13": {
+      "clue": "X",
+      "answer": "XIS",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Uma afecção do ouvido",
+      "answer": "OTITE",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Objeto usado para desenhar, escrever etc",
+      "answer": "LAPIS",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Pequena enseada",
+      "answer": "SACO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Um sobrenome do escritor José (1901-1957), de \"Fogo Morto\"",
+      "answer": "REGO",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Do momento inicial de um fato social importante",
+      "answer": "INAUGURAL",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Criada de companhia",
+      "answer": "AMA",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Pop.) Agente de polícia",
+      "answer": "TIRA",
+      "row": 5,
+      "col": 4
+    },
+    "25": {
+      "clue": "Ferramenta que ajuda a fazer e desfazer montes de areia",
+      "answer": "PA",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Arrancada inicial de uma corrida",
+      "answer": "LARGADA",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Transferir a outrem o que está em nosso poder",
+      "answer": "DAR",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Depois de Cristo",
+      "answer": "DC",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Provocar o sono",
+      "answer": "ADORMIR",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "Nome dado à matéria orgânica em decomposição",
+      "answer": "HUMUS",
+      "row": 8,
+      "col": 1
+    },
+    "34": {
+      "clue": "Coisa, ser, objeto",
+      "answer": "ENTE",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "Residir, morar",
+      "answer": "VIVER",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "O mítico rei que tinha o poder de transformar em ouro tudo o que tocasse",
+      "answer": "MIDAS",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "Marca alemã de automóveis e motocicletas de luxo",
+      "answer": "BMW",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "(Fr.) Caso de amor",
+      "answer": "AFFAIRE",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Embalagem feita de folha de flandres",
+      "answer": "LATA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Começar",
+      "answer": "INICIAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Espécie de broche que indica a adesão a alguma causa",
+      "answer": "BOTON",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Saudação de felicidade afro-brasileira",
+      "answer": "AXE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Sigla) Regimento de Infantaria",
+      "answer": "RI",
+      "row": 0,
+      "col": 5
+    },
+    "8": {
+      "clue": "Colocar à vista ou à mostra",
+      "answer": "EXPOR",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "1.002, em romanos",
+      "answer": "MII",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Destruir (por saqueio, doença, cataclismo)",
+      "answer": "ASSOLAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Divertir, sorrir",
+      "answer": "ALEGRAR",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "O escritor paulista de Andrade (1890-1954), do Modernismo",
+      "answer": "OSWALD",
+      "row": 2,
+      "col": 0
+    },
+    "16": {
+      "clue": "Dois átomos de hidrogênio com um átomo de oxigênio",
+      "answer": "AGUA",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "Barulhos",
+      "answer": "RUIDOS",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Tira de gaze que mantém curativos no lugar",
+      "answer": "ATADURA",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Afastar dos demais",
+      "answer": "APARTAR",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "(Mús.) Outro nome do cavaquinho",
+      "answer": "MACHIM",
+      "row": 5,
+      "col": 1
+    },
+    "27": {
+      "clue": "(Pal. ingl.) Subdivisão de uma partida, no tênis",
+      "answer": "GAME",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "Um sucesso de Tom Jobim",
+      "answer": "DINDI",
+      "row": 6,
+      "col": 8
+    },
+    "31": {
+      "clue": "Roupa que separa o pé do sapato",
+      "answer": "MEIA",
+      "row": 7,
+      "col": 7
+    },
+    "33": {
+      "clue": "Isolam T e X",
+      "answer": "UVW",
+      "row": 8,
+      "col": 2
+    },
+    "35": {
+      "clue": "Abreviatura de lés-sudeste",
+      "answer": "ESE",
+      "row": 8,
+      "col": 10
+    },
+    "36": {
+      "clue": "Verbo",
+      "answer": "VB",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Microfarad",
+      "answer": "MF",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Conecta o computador à rede de telefonia",
+      "answer": "MODEM",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Capital de uma nação africana, antiga colônia francesa",
+      "answer": "TUNIS",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "(Ingl.) Arrendamento de bens de produção",
+      "answer": "LEASING",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Nelson Dantas (1927-2006), ator carioca",
+      "answer": "ND",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Agradecido",
+      "answer": "GRATO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Um quinto de XXX",
+      "answer": "VI",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Portar",
+      "answer": "TER",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Um setor do hospital",
+      "answer": "CTI",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "(Red.) Instrumento de sopro muito utilizado no jazz",
+      "answer": "SAX",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Conto de fadas, um clássico da Disney",
+      "answer": "ABELAEAFERA",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Corpo d’água cercado de terra",
+      "answer": "LAGO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "O cineasta espanhol Buñuel (1900-1983), de \"O Cão Andaluz\"",
+      "answer": "LUIS",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "Uma contratura na musculatura do pescoço",
+      "answer": "TORCICOLO",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Igreja central",
+      "answer": "SE",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Conservar em seu poder",
+      "answer": "DETER",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "Sigla do estado de Caraguatatuba e Pindamonhangaba",
+      "answer": "SP",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Pode ser de ocorrência",
+      "answer": "BOLETIM",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "O lampejo da máquina fotográfica",
+      "answer": "FLASH",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "A soma dos anos de um indivíduo",
+      "answer": "IDADE",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "A lei que libertou os escravos",
+      "answer": "AUREA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Espécie de isca artificial para pesca, que imita um inseto",
+      "answer": "MOSCA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Que se faz de cor",
+      "answer": "MENTAL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Abrev.: decilitro",
+      "answer": "DL",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Abrev.: eletrencefalograma",
+      "answer": "EEG",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Sinal que se imprime em alguma coisa",
+      "answer": "MARCA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "A mãe dos primos",
+      "answer": "TITIA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Automóvel fabricado pela Fiat",
+      "answer": "UNO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Nelson Gonçalves, cantor",
+      "answer": "NG",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O cantor e compositor Raul (1945-1989), de \"Ouro de Tolo\"",
+      "answer": "SEIXAS",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Corpo celeste secundário",
+      "answer": "SATELITE",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Discussão pública",
+      "answer": "DEBATE",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Muitos",
+      "answer": "VARIOS",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Pequeno curso de águas",
+      "answer": "REGO",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "A capital de uma das Coreias",
+      "answer": "SEUL",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Um desvio da coluna vertebral",
+      "answer": "LORDOSE",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Cheio de rosas, violetas e tulipas",
+      "answer": "FLORIDO",
+      "row": 4,
+      "col": 7
+    },
+    "25": {
+      "clue": "O mesmo que cílio",
+      "answer": "CELHA",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Tecido para fantasias carnavalescas",
+      "answer": "CETIM",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Móvel ideal para assistir TV",
+      "answer": "SOFA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Roedor semelhante ao porquinho-da-índia",
+      "answer": "PREA",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Botequim",
+      "answer": "BAR",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "Conjunção que equivale a porém, todavia",
+      "answer": "MAS",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Apelido do Luciana",
+      "answer": "LU",
+      "row": 9,
+      "col": 1
+    },
+    "36": {
+      "clue": "Dennis Carvalho, ator e diretor",
+      "answer": "DC",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

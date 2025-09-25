@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Parceiros de negócios",
+      "answer": "SOCIOS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Pal. fr.) Cozinheiro principal de um restaurante",
+      "answer": "CHEF",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Contestar",
+      "answer": "OPOR",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Extensão de terra fértil num deserto",
+      "answer": "OASIS",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Um biscoito wafer com chocolate",
+      "answer": "BIS",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "A Ramalho, cantora paraibana de \"Forró do Xenhenhém\"",
+      "answer": "ELBA",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Prato Feito",
+      "answer": "PF",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Que tem forma curva, arredondada",
+      "answer": "ROTUNDO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Um tempero de galheteiro",
+      "answer": "SAL",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Expelido pela boca",
+      "answer": "ESCARRADO",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Silenciar",
+      "answer": "CALAR",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Resistir ao uso",
+      "answer": "DURAR",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Enfeitado, ornado, geralmente com luxo",
+      "answer": "APARATADO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "As extremidades dos membros inferiores",
+      "answer": "PES",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Pessoa que prevê o que irá acontecer",
+      "answer": "VIDENTE",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Arsênio, elemento químico",
+      "answer": "AS",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Móvel usado para dormir e descansar",
+      "answer": "CAMA",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Tento, no futebol e no handebol",
+      "answer": "GOL",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "(Fig.) Ator de muita fama",
+      "answer": "ASTRO",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "Comissão julgadora",
+      "answer": "JURI",
+      "row": 9,
+      "col": 7
+    },
+    "35": {
+      "clue": "Membro de ordem religiosa",
+      "answer": "FREI",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Correias presas aos freios do animal montaria",
+      "answer": "REDEAS",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Cobertura para proteção e ornamento de trabalho impresso",
+      "answer": "SOBRECAPA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Narcótico extraído da papoula",
+      "answer": "OPIO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ossos que formam a caixa torácica",
+      "answer": "COSTELAS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O verbo mais curto",
+      "answer": "IR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Junção de elementos metálicos",
+      "answer": "SOLDA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Um clube de futebol de Alagoas",
+      "answer": "CSA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Saudação informal inglesa",
+      "answer": "HI",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Uma das armas da esgrima",
+      "answer": "ESPADA",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Qualquer tipo de aproximação",
+      "answer": "ABORDADA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Fixar (prego)",
+      "answer": "ENCRAVAR",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Outro nome do lírio-roxo",
+      "answer": "FLORDELIS",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Servir-se habitualmente de",
+      "answer": "USAR",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Roupa típica da Indonésia",
+      "answer": "SARONGUE",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Sem sensibilidade, sem delicadeza",
+      "answer": "RUDE",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "A despeito de",
+      "answer": "APESAR",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Ilha asiática com um país que tem o português como língua oficial",
+      "answer": "TIMOR",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Tronco de árvore serrado",
+      "answer": "TORA",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Centro de Terapia Intensiva",
+      "answer": "CTI",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Domo",
+      "answer": "SE",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "James Dean (1931-1955), ator de \"Assim Caminha a Humanidade\"",
+      "answer": "JD",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

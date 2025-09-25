@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "A carta mais importante no jogo do truco",
+      "answer": "ZAPE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Cão que caça lebres",
+      "answer": "LEBREL",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Fibra sintética para tecidos elásticos",
+      "answer": "ELASTANO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "As iniciais do cantor espanhol Iglesias",
+      "answer": "JI",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "As iniciais do ator carioca Gagliasso",
+      "answer": "BG",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Redução de televisão",
+      "answer": "TEVE",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "O valor do C, em algarismos romanos",
+      "answer": "CEM",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Ser tomado por sentimento de raiva",
+      "answer": "RABIAR",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Dois ao cubo",
+      "answer": "OITO",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Poliedro de oito faces",
+      "answer": "OCTAEDRO",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Girar como uma bola",
+      "answer": "ROLAR",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Valeta que margeia uma estrada ou caminho",
+      "answer": "MARRA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Criminoso que abusa de crianças para realizar seus desejos sexuais",
+      "answer": "PEDOFILO",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Que sofreu estrago",
+      "answer": "ROTO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Desencaracolar o cabelo",
+      "answer": "ALISAR",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "Sigla inglesa do país de Kamala Harris",
+      "answer": "USA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Um nome de Camões, poeta português",
+      "answer": "LUIS",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Excluído da presença de outras pessoas",
+      "answer": "SO",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Encanto pessoal",
+      "answer": "IT",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Qualquer coisa que se acredite que possa remediar os males",
+      "answer": "PANACEIA",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "Exposição de mercadorias e produtos variados",
+      "answer": "MOSTRA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Levantar",
+      "answer": "ALAR",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Listrar",
+      "answer": "ZEBRAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Planta usada em pratos orientais",
+      "answer": "ALGA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sigla do estado de Santarém",
+      "answer": "PA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Retesado",
+      "answer": "ESTICADO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O preparo e o cultivo da terra",
+      "answer": "LAVRA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "N",
+      "answer": "ENE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Bolinha sem linha",
+      "answer": "BO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Peça que regula a saída de gases",
+      "answer": "EJETOR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Barro pegajoso",
+      "answer": "LIMO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Local onde se passa algum acontecimento notável",
+      "answer": "TEATRO",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Nuvens altas, esparsas, leves",
+      "answer": "CIRROS",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Formulário utilizado para pagamento na rede bancária",
+      "answer": "BOLETA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Escrava que ficava a serviço das mulheres de um sultão",
+      "answer": "ODALISCA",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "A personagem de Monteiro Lobato que é uma boneca falante",
+      "answer": "EMILIA",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Uma posição de jogadores de vôlei",
+      "answer": "OPOSTO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Dirigir a embarcação para alguma direção",
+      "answer": "APROAR",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "O reino das hienas, dos tubarões etc.",
+      "answer": "FAUNA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Podre, estragado",
+      "answer": "RUIM",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "O continente do Butão e da Mongólia",
+      "answer": "ASIA",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "A família",
+      "answer": "LAR",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "Polícia Técnica",
+      "answer": "PT",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "(Greco) Pintor nascido em Creta (1541-1614)",
+      "answer": "EL",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

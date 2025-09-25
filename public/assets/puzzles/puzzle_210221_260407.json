@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Do mesmo modo",
+      "answer": "TAMBEM",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "A mulher do Tarzan",
+      "answer": "JANE",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Os santos são usados na Igreja Católica",
+      "answer": "OLEOS",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Eu e vocês",
+      "answer": "NOS",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "Que adora a divindade",
+      "answer": "DEISTA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O que as luvas cobrem",
+      "answer": "MÃOS",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Ocimar Versolato, estilista",
+      "answer": "OV",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Associação entre seres vivos na qual ambos são beneficiados",
+      "answer": "SIMBIOSE",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Um cartão de identificação do celular",
+      "answer": "SIM",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "(Pop.) Chorar baixinho",
+      "answer": "MIAR",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Fernando Sabino (1923-2004), escritor de \"A Chave do Enigma\"",
+      "answer": "FS",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Fato caracterizado por intervenções sobre-humanas na realidade",
+      "answer": "MILAGRICE",
+      "row": 5,
+      "col": 1
+    },
+    "26": {
+      "clue": "Coisa nenhuma",
+      "answer": "NADA",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "O das Lamentações é um local sagrado para os judeus",
+      "answer": "MURO",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "O conteúdo (quando cheio) do utensílio em que se come a refeição",
+      "answer": "PRATADA",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Perverso, ruim",
+      "answer": "MAU",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "A formação dos jogadores para uma exibição de capoeira",
+      "answer": "RODA",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "A oscilação das águas do mar onde se pratica o surfe",
+      "answer": "ONDA",
+      "row": 8,
+      "col": 5
+    },
+    "36": {
+      "clue": "Precede Set",
+      "answer": "AGO",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Copiar, extrair",
+      "answer": "TIRAR",
+      "row": 9,
+      "col": 6
+    },
+    "39": {
+      "clue": "(Nova) A \"big apple\" dos EUA",
+      "answer": "YORK",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Quitação",
+      "answer": "RECIBO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Uma coletividade em seu conjunto",
+      "answer": "TODOS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Filhote de peixe",
+      "answer": "ALEVIM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Microempreendedor Individual",
+      "answer": "MEI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Hugo) Marca alemã de roupas, perfumes e produtos da moda",
+      "answer": "BOSS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Que goza de admiração",
+      "answer": "ESTIMADA",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "De estatura muito abaixo da média",
+      "answer": "ANÃO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Parte da biosfera mais influenciada pelo universo do pensamento humano, pela atividade mental consciente",
+      "answer": "NOOSFERA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "São quatro em possesso",
+      "answer": "ESSES",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Amancebado",
+      "answer": "AMIGADO",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Pequeno",
+      "answer": "MIRIM",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Balcão de bebidas",
+      "answer": "BAR",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Trabalhador de jazidas subterrâneas",
+      "answer": "MINADOR",
+      "row": 4,
+      "col": 2
+    },
+    "23": {
+      "clue": "Recipiente para massa de tomate",
+      "answer": "LATA",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Pimenta pequena e muito ardida",
+      "answer": "CUMARI",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "(Ingl.) Nebulizador para loções",
+      "answer": "SPRAY",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Nem este nem aquele",
+      "answer": "OUTRO",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Súplica",
+      "answer": "ROGO",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "Em vista de",
+      "answer": "ANTE",
+      "row": 7,
+      "col": 6
+    },
+    "35": {
+      "clue": "Dicionário",
+      "answer": "DIC",
+      "row": 8,
+      "col": 7
+    },
+    "38": {
+      "clue": "Um grupo sanguíneo",
+      "answer": "AB",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

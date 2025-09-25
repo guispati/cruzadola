@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Carta geográfica",
+      "answer": "MAPA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Conjunto de pessoas que declamam trechos literários",
+      "answer": "JOGRAL",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "A ascendência familiar ou a proveniência de um grupo",
+      "answer": "ORIGEM",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Trajeto",
+      "answer": "ROTA",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "São necessários 100 para fazer a água ferver",
+      "answer": "GRAUS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "A pele do rosto",
+      "answer": "CUTIS",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "O Monteiro (1882-1948), do Jeca Tatu",
+      "answer": "LOBATO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "9",
+      "answer": "NOVE",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Cantora pop carioca",
+      "answer": "IZA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Entrar (num país estranho) para nele viver",
+      "answer": "IMIGRAR",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "A cantora baiana Sangalo",
+      "answer": "IVETE",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Um pão alongado",
+      "answer": "BISNAGA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Um canal de música da tevê",
+      "answer": "MTV",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Aversão intensa contra alguém",
+      "answer": "ODIO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Unidade elétrica de símbolo A",
+      "answer": "AMPERE",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "Camada de erva fina e rasteira",
+      "answer": "RELVA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Criador",
+      "answer": "AUTOR",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Massa resultante de uma erupção vulcânica",
+      "answer": "LAVA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Correção",
+      "answer": "ERRATA",
+      "row": 9,
+      "col": 5
+    },
+    "35": {
+      "clue": "Pompa, ostentação",
+      "answer": "ALARDE",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "São dois em pílula",
+      "answer": "ELES",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O menino criado por lobos, dos desenhos infantis",
+      "answer": "MOGLI",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O cereal que o rizicultor planta",
+      "answer": "ARROZ",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Pequeno lambari",
+      "answer": "PIABA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O hábitat do undícola",
+      "answer": "AGUA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Joan Miró, artista espanhol",
+      "answer": "JM",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Tipo de música e moda descuidada, popular nos anos 90",
+      "answer": "GRUNGE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Mecanismo giratório dos helicópteros",
+      "answer": "ROTOR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Sempre em movimento, dinâmico (fem.)",
+      "answer": "ATIVA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Pequeno veleiro para lazer e regata, com casco de fibra de vidro e um único mastro",
+      "answer": "LASER",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "O subsolo do navio",
+      "answer": "ESTIVA",
+      "row": 1,
+      "col": 4
+    },
+    "16": {
+      "clue": "O símbolo de Ohm",
+      "answer": "OMEGA",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "O Franco (1930-2011) ex-presidente da República",
+      "answer": "ITAMAR",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Criar",
+      "answer": "INOVAR",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Disco ornamental no topo de paus de bandeiras",
+      "answer": "BORLA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Que é o modelo de perfeição",
+      "answer": "IDEAL",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "(Bezerra da) Sambista pernambucano",
+      "answer": "SILVA",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Um material como o ferro, o estanho ou o chumbo",
+      "answer": "METAL",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Zombaria feita ao telefone",
+      "answer": "TROTE",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "O Marcos ator carioca",
+      "answer": "VERAS",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Pode ser feito com batatas",
+      "answer": "PURE",
+      "row": 7,
+      "col": 7
+    },
+    "34": {
+      "clue": "Editores",
+      "answer": "EE",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

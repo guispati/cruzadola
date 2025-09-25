@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Faixas resultantes da hiperextensão da pele e da atrofia da derme",
+      "answer": "ESTRIAS",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Ressonância Magnética Nuclear",
+      "answer": "RMN",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "(Pop.) Dançar numa escola de samba",
+      "answer": "SAIR",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Aplicar",
+      "answer": "METER",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "(Abrev.) Síndrome que atinge as mulheres",
+      "answer": "TPM",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Cachaceiro",
+      "answer": "BEBUM",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "As duas primeiras vogais",
+      "answer": "AE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Diz-se de comida agradável ao paladar",
+      "answer": "SABOROSA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Variedade de bambu também chamado taquara",
+      "answer": "TABOCA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "O latido de dor dos cães",
+      "answer": "CAIM",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "O oposto de novo",
+      "answer": "IDOSO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "(Carta) Constituição",
+      "answer": "MAGNA",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "O local onde atraca o navio",
+      "answer": "CAIS",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Abrir e pontear casas para os botões do vestuário",
+      "answer": "CASEAR",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Privar do sentido da vista",
+      "answer": "CEGAR",
+      "row": 7,
+      "col": 2
+    },
+    "27": {
+      "clue": "O dobro de DI, nos números romanos",
+      "answer": "MII",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Material inflamável que se acende para iluminar um lugar",
+      "answer": "FOGAREU",
+      "row": 8,
+      "col": 1
+    },
+    "30": {
+      "clue": "O símbolo químico do estanho",
+      "answer": "SN",
+      "row": 8,
+      "col": 9
+    },
+    "31": {
+      "clue": "Do país europeu de Riga",
+      "answer": "LETONIANO",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "A letra que vale 1000, em romanos",
+      "answer": "EME",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Microrganismo que não vive sem oxigênio",
+      "answer": "AEROBIO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Parado, sem movimento",
+      "answer": "ESTATICO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Pop.) Ato de ficar olhando de fora, sem tomar parte",
+      "answer": "SAPEADA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O Burton cineasta de \"A Fantástica Fábrica de Chocolate\"",
+      "answer": "TIM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Roraima",
+      "answer": "RR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Microrganismo unicelular, parasita intestinal",
+      "answer": "AMEBA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Estabelecimento onde se vendem livros usados",
+      "answer": "SEBO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Ato de triturar novamente até reduzir a pó",
+      "answer": "REMOAGEM",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Mário Reis (1907-1981), cantor",
+      "answer": "MR",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Nascidas no país que tem Ancara como capital",
+      "answer": "TURCAS",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Deus do vinho e da fertilidade, na mitologia romana",
+      "answer": "BACO",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Fruto de polpa escura, ácida, usado em sorvetes e doces",
+      "answer": "TAMARINDO",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Paz de espírito",
+      "answer": "SOSSEGO",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Breve descrição de uma pessoa",
+      "answer": "SINAIS",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Um ato de represália",
+      "answer": "BOICOTE",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Enjoar (a bordo)",
+      "answer": "MAREAR",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Uma ameaça à saúde dos dentes",
+      "answer": "CARIE",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Desejo ardente e intenso",
+      "answer": "GANA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Abreviatura de feminino",
+      "answer": "FEM",
+      "row": 8,
+      "col": 1
+    },
+    "29": {
+      "clue": "Que constitui um todo",
+      "answer": "UNO",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "(Mans) Cidade francesa com famoso autódromo",
+      "answer": "LE",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Olavo Bilac (1865-1918), poeta carioca",
+      "answer": "OB",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

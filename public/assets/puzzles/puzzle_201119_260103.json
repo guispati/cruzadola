@@ -1,0 +1,222 @@
+{
+  "across": {
+    "1": {
+      "clue": "Fazer tremer",
+      "answer": "ABALAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Pop.) Pessoa enjoada, convencida, antipática",
+      "answer": "SEBO",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Lugar onde se criam os felinos mais comuns",
+      "answer": "GATIL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O skatista carioca Burnquist",
+      "answer": "BOB",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "A namorada de Popeye",
+      "answer": "OLIVIA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Cinema, teatro etc.",
+      "answer": "ARTE",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Andar com as mãos pelo chão",
+      "answer": "GATEAR",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Cursos d'água que formam uma bacia",
+      "answer": "RIOS",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Conciliador",
+      "answer": "ORDEIRO",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "O de gasolina é o local para abastecimento de veículos",
+      "answer": "POSTO",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "Volta ou sinuosidade de um rio",
+      "answer": "COSTADA",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Espécie de alçapão para apanhar pequenas caças",
+      "answer": "ICHO",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Fazer súplicas a",
+      "answer": "APELAR",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "Que tem base concreta",
+      "answer": "REAL",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Refinaria do tempero mais usado na cozinha",
+      "answer": "SALINA",
+      "row": 8,
+      "col": 5
+    },
+    "30": {
+      "clue": "Advocacia Geral da União",
+      "answer": "AGU",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "(Pop.) Aquele que pasma de tudo",
+      "answer": "BABÃO",
+      "row": 9,
+      "col": 6
+    },
+    "32": {
+      "clue": "Tradicional brinquedo infantil",
+      "answer": "IOIO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Muitos",
+      "answer": "VARIOS",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Instrumento de percussão do samba e do pagode",
+      "answer": "AGOGO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um doce que serve de troco",
+      "answer": "BALA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Pio",
+      "answer": "ATITO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A cidade inglesa berço dos Beatles",
+      "answer": "LIVERPOOL",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Partidários",
+      "answer": "ALIADOS",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Beberrão",
+      "answer": "EBRIO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Outro nome do golfinho",
+      "answer": "BOTO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Indivíduo que tem gordura supérflua",
+      "answer": "OBESO",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Saliências, quinas",
+      "answer": "ARESTAS",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Cobrir com escudo redondo",
+      "answer": "ARRODELAR",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "Outro nome da jangada",
+      "answer": "ITAPABA",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "Cidade do RJ, no vale do Paraíba",
+      "answer": "PIRAI",
+      "row": 6,
+      "col": 0
+    },
+    "21": {
+      "clue": "A filósofa e educadora Marilena",
+      "answer": "CHAUI",
+      "row": 6,
+      "col": 2
+    },
+    "22": {
+      "clue": "Uma justificativa para o acusado",
+      "answer": "ALIBI",
+      "row": 6,
+      "col": 8
+    },
+    "23": {
+      "clue": "Grupo indígena que habita o Tocantins",
+      "answer": "CRAOS",
+      "row": 6,
+      "col": 10
+    },
+    "25": {
+      "clue": "Aquele que não enxerga",
+      "answer": "CEGO",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Muito pequeno em relação ao normal",
+      "answer": "ANÃO",
+      "row": 7,
+      "col": 9
+    }
+  }
+}

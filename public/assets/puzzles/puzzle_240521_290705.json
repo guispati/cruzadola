@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "O cineasta e cronista Arnaldo (1940-2022)",
+      "answer": "JABOR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Plano inclinado",
+      "answer": "RAMPA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Complexo hidrelétrico com as usinas de Ilha Solteira e Jupiá",
+      "answer": "URUBUPUNGA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Tira de pano que, na cintura, remata peças do vestuário",
+      "answer": "COS",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Pedra fragmentada",
+      "answer": "BRITA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Cidade baiana próxima a Porto Seguro, com lindas praias",
+      "answer": "CARAVELAS",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Virar, emborcar (um carro, em acidente)",
+      "answer": "CAPOTAR",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Paola Carosella, chef argentina",
+      "answer": "PC",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "Pode ser alta e baixa",
+      "answer": "MARE",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Med.) Ataque súbito",
+      "answer": "ICTO",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "Unidade Federativa",
+      "answer": "UF",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Um brinquedo com cordel e carretel",
+      "answer": "DIABOLO",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Ato de suspender e fixar alguma coisa",
+      "answer": "DEPENDURA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Em direito, parte acusadora numa ação",
+      "answer": "AUTOR",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "Uma rede de TV",
+      "answer": "SBT",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Conjunto de informações contidas na primeira página do livro",
+      "answer": "ANTERROSTO",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "(Fig.) Inflamar",
+      "answer": "ATEAR",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Não creem em Deus",
+      "answer": "ATEUS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O ator de Oliveira, do teatro, cinema e TV",
+      "answer": "JUCA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Suporte de lente",
+      "answer": "ARO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Procurar",
+      "answer": "BUSCAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Olívia Byington, cantora",
+      "answer": "OB",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Vermelho vivo",
+      "answer": "RUBRO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Nem loira nem morena",
+      "answer": "RUIVA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Que está na frente",
+      "answer": "ANTERIOR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Geol.) O símbolo de miligal",
+      "answer": "MGAL",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Complementa o trabalho da picareta",
+      "answer": "PA",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Aplicador de Ag",
+      "answer": "PRATEADOR",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Nojo, enjoo",
+      "answer": "ASCO",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Pessoa ignorante, sem instrução",
+      "answer": "APEDEUTA",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Que é capaz de fazer",
+      "answer": "APTO",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Bar, botequim",
+      "answer": "CAFE",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Fato, roupa",
+      "answer": "MUDA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Conjunto de pessoas que exercem a mesma profissão",
+      "answer": "CLASSE",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "Prefixo latino: entre, no meio de",
+      "answer": "INTER",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "A mãe de um asno",
+      "answer": "BURRA",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "Falha no funcionamento de um motor",
+      "answer": "PANE",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "O dos Apóstolos é um livro da Bíblia",
+      "answer": "ATOS",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "Unidade de medida correspondente 1.055,06 joules",
+      "answer": "BTU",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Antigo Testamento",
+      "answer": "AT",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "Ondas Tropicais",
+      "answer": "OT",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

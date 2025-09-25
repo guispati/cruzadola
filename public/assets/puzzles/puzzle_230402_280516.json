@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Nervo essencial à fala, deglutição, respiração etc.",
+      "answer": "VAGO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Manter a opinião com obstinação",
+      "answer": "TEIMAR",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Evitar a passagem de calor",
+      "answer": "ISOLAR",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Que existe há pouco tempo",
+      "answer": "NOVO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "São dois na Abissínia",
+      "answer": "ESSES",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Novato",
+      "answer": "NOVEL",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Lamacento",
+      "answer": "LIMOSO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "A última refeição em cada dia",
+      "answer": "CEIA",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Senhora, patroa",
+      "answer": "AMA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Tremular levemente",
+      "answer": "ONDULAR",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Que tem boa saúde",
+      "answer": "SADIO",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Olhar com prazer",
+      "answer": "ADMIRAR",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Clube Atlético Mineiro",
+      "answer": "CAM",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Chegar ao meio",
+      "answer": "MEAR",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Preso, fixo",
+      "answer": "SEGURO",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "Pinguço",
+      "answer": "EBRIO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Pó usado em fotocopiadoras",
+      "answer": "TONER",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "O do tucano é bem grande",
+      "answer": "BICO",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "A parte verde da copa da árvore",
+      "answer": "FOLHAS",
+      "row": 9,
+      "col": 5
+    },
+    "35": {
+      "clue": "O estado dos EUA com Juneau",
+      "answer": "ALASCA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Parte de baixo do tênis",
+      "answer": "SOLA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Travessa estreita",
+      "answer": "VIELA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Desta altura",
+      "answer": "ASSIM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Baba pegajosa",
+      "answer": "GOSMA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Substância gordurosa em estado líquido",
+      "answer": "OLEO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Tony Ramos, ator",
+      "answer": "TR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Que não causa dano material, físico, orgânico",
+      "answer": "INOCUO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Peça de mobília",
+      "answer": "MOVEL",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Cereal usado para fazer mingau",
+      "answer": "AVEIA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Imprimir movimento de rotação a",
+      "answer": "ROLAR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Limpar o nariz sujo",
+      "answer": "ASSOAR",
+      "row": 1,
+      "col": 4
+    },
+    "16": {
+      "clue": "Elevações dos mares, onde os surfistas atuam",
+      "answer": "ONDAS",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Sem intermediários",
+      "answer": "DIRETO",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Nascidos em Aleppo e Damasco",
+      "answer": "SIRIOS",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Microrganismo parasita intestinal do homem",
+      "answer": "AMEBA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Desanimado, frouxo",
+      "answer": "DEBIL",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Símbolo identificador de uma empresa, produto ou serviço",
+      "answer": "MARCA",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Traço peculiar de qualquer coisa",
+      "answer": "CUNHO",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Área com muita areia",
+      "answer": "AREAL",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Animal marinho encontrado na região ártica",
+      "answer": "MORSA",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Marca muitos o artilheiro",
+      "answer": "GOLS",
+      "row": 7,
+      "col": 7
+    },
+    "34": {
+      "clue": "(Mús.) F",
+      "answer": "FA",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

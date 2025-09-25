@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Língua de fogo",
+      "answer": "CHAMA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Pode ser de uvas",
+      "answer": "CACHO",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Um grande curso d'água que banha MG e ES",
+      "answer": "RIODOCE",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Relativo à glândula genital feminina",
+      "answer": "OVARIANO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Conselho Tutelar",
+      "answer": "CT",
+      "row": 2,
+      "col": 9
+    },
+    "14": {
+      "clue": "1003, em algarismos romanos",
+      "answer": "MIII",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Transgredir leis",
+      "answer": "VIOLAR",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Gameta feminino de répteis, insetos e aves",
+      "answer": "OVO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "O apresentador e jornalista Moreira",
+      "answer": "CID",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Um sufixo diminutivo",
+      "answer": "OTA",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "Pessoa que exerce liderança política com sabedoria e sem limitações partidárias",
+      "answer": "ESTADISTA",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Calcário usado em produtos de limpeza",
+      "answer": "CRE",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "(Gír.) Conversa",
+      "answer": "PLA",
+      "row": 6,
+      "col": 4
+    },
+    "23": {
+      "clue": "A atual é neozóica",
+      "answer": "ERA",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "O ator Nielsen, da comédia \"Corra que a Polícia Vem Aí\"",
+      "answer": "LESLIE",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Estação de estrada de ferro",
+      "answer": "GARE",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Uma metade do... osso",
+      "answer": "OS",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Que gasta em excesso",
+      "answer": "ALAGADOR",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Proveniente",
+      "answer": "EMANADO",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "Apresentar (certa condição física, emocional etc., não permanente)",
+      "answer": "ESTAR",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Planta cujas folhas servem de forragem",
+      "answer": "SORGO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Quím.) O Cr",
+      "answer": "CROMO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Município do estado do Maranhão, na divisa com o Piauí",
+      "answer": "ARAIOSES",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Árvore grande, de madeira resistente, nativa das Américas",
+      "answer": "MIRI",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "As vogais de Amorim",
+      "answer": "AOI",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Uma célula responsável pela reprodução de fungos",
+      "answer": "CONIDIA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Latido",
+      "answer": "ACOO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "A 3ª letra do alfabeto",
+      "answer": "CE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Nem esta nem aquela",
+      "answer": "OUTRA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "O cineasta de \"Doutor Jivago\" e \"Lawrence da Arábia\"",
+      "answer": "DAVIDLEAN",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Mantimentos",
+      "answer": "VIVERES",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "Secreção comum na gripe",
+      "answer": "CATARRO",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Aquele que divide uma área de terreno destinada à construção",
+      "answer": "LOTEADOR",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Do cabelo",
+      "answer": "CAPILAR",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "(Fig.) Cópia de um original",
+      "answer": "CLONE",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Transporte feito através de aviões",
+      "answer": "AEREO",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "O hábitat do animal limícola",
+      "answer": "LAMA",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "Conjunto de cavalos, bois etc.",
+      "answer": "GADO",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Pode ser carbônico, hilariante etc.",
+      "answer": "GAS",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Alienígena",
+      "answer": "ET",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

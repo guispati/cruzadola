@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Jogo de adivinhação de palavras",
+      "answer": "FORCA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Obstinação na própria opinião",
+      "answer": "TEIMA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Ficar mutilado",
+      "answer": "ALEIJAR",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Habilidade especial para algo",
+      "answer": "DOM",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "O dos Cisnes é um balé composto por Tchaikovsky",
+      "answer": "LAGO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Que causa sensação de frio",
+      "answer": "GELADO",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Senhora",
+      "answer": "SRA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Aquele que se dedica e cuida de animais",
+      "answer": "CRIADOR",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Uma grande empresa aérea",
+      "answer": "AIRFRANCE",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Conduzir de um lugar para outro",
+      "answer": "LEVAR",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Foice de cortar a rama inútil das árvores",
+      "answer": "PODADEIRA",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Apegado",
+      "answer": "ADERIDO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "A da neve é branca",
+      "answer": "COR",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Criança que nasceu pela operação cesariana",
+      "answer": "NONATO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "(James) O agente 007, dos filmes de aventura",
+      "answer": "BOND",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "Outro nome da fruta-do-conde",
+      "answer": "ATA",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Movimento inicial impetuoso para partir",
+      "answer": "ARRANCO",
+      "row": 9,
+      "col": 4
+    },
+    "34": {
+      "clue": "Dar prejuízo a alguém",
+      "answer": "LESAR",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Brecar, parar um veículo",
+      "answer": "FREAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Mentirosa, fingida",
+      "answer": "FALSA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Fábrica de material de construção",
+      "answer": "OLARIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Aspergir",
+      "answer": "REGAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Época da cria",
+      "answer": "CIO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Angelina Jolie, atriz de \"Salt\"",
+      "answer": "AJ",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Adestrado",
+      "answer": "TREINADO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "A da pedra lascada também é chamada paleolítico",
+      "answer": "IDADE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Situação, condição, circunstância",
+      "answer": "MODO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Fruto vermelho-escuro quase negro, muito usado em geleias",
+      "answer": "AMORA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Responsável pela piora de uma situação",
+      "answer": "AGRAVADOR",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Material plástico para vedar garrafas",
+      "answer": "LACRE",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Constituir como credor de determinada quantia",
+      "answer": "CREDITAR",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "A cantora carioca Purim",
+      "answer": "FLORA",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "(Gír.) Repreensão, censura",
+      "answer": "BRONCA",
+      "row": 5,
+      "col": 9
+    },
+    "22": {
+      "clue": "Sem importância",
+      "answer": "BANAL",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Estruturas que envolvem os pássaros",
+      "answer": "PENAS",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "(Fig.) Pessoa emblemática do seu tempo",
+      "answer": "ICONE",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "Entusiasmo",
+      "answer": "ARDOR",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Qualidade apreciável, mérito de uma pessoa",
+      "answer": "DOTE",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Local em que o cliente geralmente é servido no balcão",
+      "answer": "BAR",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Rubem Fonseca (1925-2020), escritor de \"O Seminarista\"",
+      "answer": "RF",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

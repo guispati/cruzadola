@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Castigo, penitência",
+      "answer": "MULTA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Pop.) Até logo!",
+      "answer": "TCHAU",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Sufixo diminutivo feminino",
+      "answer": "ICHA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Peça do jogo de xadrez",
+      "answer": "PEÃO",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Cilindro que se move em vaivém no interior de seringas, bombas etc.",
+      "answer": "EMBOLO",
+      "row": 2,
+      "col": 2
+    },
+    "13": {
+      "clue": "As letras que cercam o H",
+      "answer": "GI",
+      "row": 2,
+      "col": 9
+    },
+    "14": {
+      "clue": "Serginho Groisman, apresentador",
+      "answer": "SG",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Roedor que vive geralmente próximo a rios",
+      "answer": "PACA",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "(Matem.) O símbolo de secante",
+      "answer": "SEC",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "(Anat.) Osso da lateral da bacia",
+      "answer": "ILIACO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Pedaço mais ou menos grande de tecido",
+      "answer": "PANO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Precede Angeles no nome da cidade norte-americana",
+      "answer": "LOS",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "O ator mineiro Antônio",
+      "answer": "ANGELO",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Que proporciona distração e divertimento",
+      "answer": "RECREATIVO",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Tratamento dos escravos para a patroa",
+      "answer": "SINHA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Cair das nuvens a água congelada, em flocos",
+      "answer": "NEVAR",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "Um animal como Rémy, do desenho \"Ratatouille\"",
+      "answer": "RATO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "O d'Italia é uma tradicional prova de ciclismo",
+      "answer": "GIRO",
+      "row": 8,
+      "col": 5
+    },
+    "31": {
+      "clue": "Encontrar o que se procurava",
+      "answer": "ACHAR",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Um prato com partes do porco",
+      "answer": "SUÃ",
+      "row": 9,
+      "col": 8
+    },
+    "35": {
+      "clue": "O G de MG",
+      "answer": "GERAIS",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Multidão de gente",
+      "answer": "POVO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Foguete teleguiado",
+      "answer": "MISSIL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Unidade de Conservação",
+      "answer": "UC",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A ele",
+      "answer": "LHE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Uma parte da panela",
+      "answer": "TAMPA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Parte onde se formam as imagens da TV",
+      "answer": "TELA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "A constelação da grande estrela Sírio",
+      "answer": "CÃO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Quím.) Hólmio",
+      "answer": "HO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Que não tem outro igual",
+      "answer": "UNICO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Cidade do Mato Grosso, entrada para o Pantanal Norte",
+      "answer": "POCONE",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Cristal finíssimo da França",
+      "answer": "BACARA",
+      "row": 2,
+      "col": 4
+    },
+    "13": {
+      "clue": "Grande cidade italiana da Ligúria",
+      "answer": "GENOVA",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "O nome da atriz Menezes",
+      "answer": "GLORIA",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "Que é cheio do líquido que facilita a mastigação",
+      "answer": "SALIVOSO",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Dispensar de uma obrigação",
+      "answer": "ISENTAR",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "O Tosh do reggae",
+      "answer": "PETER",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Soltar (o cachorro) um grito lamentoso",
+      "answer": "GANIR",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Diz-se da galinha que está incubando",
+      "answer": "CHOCA",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Rim, pâncreas ou útero",
+      "answer": "ORGÃO",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Síndrome Respiratória Aguda Grave",
+      "answer": "SRAG",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "He ou Ne",
+      "answer": "GAS",
+      "row": 8,
+      "col": 5
+    },
+    "32": {
+      "clue": "(Pop.) Oi, olá, em inglês",
+      "answer": "HI",
+      "row": 9,
+      "col": 4
+    },
+    "34": {
+      "clue": "Raio que pode provocar câncer",
+      "answer": "UV",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "O apóstolo que, segundo os Evangelhos, traiu a confiança de Jesus Cristo",
+      "answer": "JUDAS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Presente",
+      "answer": "ATUAL",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Obstruir (fígado)",
+      "answer": "OPILAR",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Que não tem curvatura",
+      "answer": "RETO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "(Pop.) Dinheiro miúdo",
+      "answer": "PIXULE",
+      "row": 2,
+      "col": 2
+    },
+    "16": {
+      "clue": "Ronald Golias (1929-2005), humorista paulistano",
+      "answer": "RG",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Combinação de preposição com pronome pessoal feminino",
+      "answer": "NELA",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Gerencia negócio de outrem",
+      "answer": "GESTOR",
+      "row": 3,
+      "col": 5
+    },
+    "21": {
+      "clue": "O escritor e jornalista Fernando, de \"Olga\"",
+      "answer": "MORAIS",
+      "row": 4,
+      "col": 1
+    },
+    "23": {
+      "clue": "Insumo para vacinas",
+      "answer": "IFA",
+      "row": 4,
+      "col": 8
+    },
+    "24": {
+      "clue": "De boa vontade",
+      "answer": "BEM",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Gritar com voz desagradável como a do pato",
+      "answer": "GRASNIR",
+      "row": 5,
+      "col": 4
+    },
+    "27": {
+      "clue": "A língua falada no Egito e no Iraque",
+      "answer": "ARABE",
+      "row": 6,
+      "col": 0
+    },
+    "29": {
+      "clue": "Um dia no calendário",
+      "answer": "DATA",
+      "row": 6,
+      "col": 6
+    },
+    "30": {
+      "clue": "As iniciais do roteirista e cineasta Spielberg, de \"ET\" e \"Indiana Jones\"",
+      "answer": "SS",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Caráter, gênio",
+      "answer": "INDOLE",
+      "row": 7,
+      "col": 3
+    },
+    "34": {
+      "clue": "Composição poética de catorze versos",
+      "answer": "SONETO",
+      "row": 8,
+      "col": 0
+    },
+    "36": {
+      "clue": "Modelo, padrão",
+      "answer": "TIPO",
+      "row": 8,
+      "col": 7
+    },
+    "38": {
+      "clue": "Relativo ao direito de escolher por votação",
+      "answer": "ELEITORAL",
+      "row": 9,
+      "col": 2
+    },
+    "40": {
+      "clue": "Ideia principal",
+      "answer": "TEMA",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "Harmonicamente vibrante",
+      "answer": "SONORO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O Fitzgerald Kennedy presidente assassinado dos EUA",
+      "answer": "JOHN",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Utilidade Pública",
+      "answer": "UP",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Atestado dado por escola",
+      "answer": "DIPLOMA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Estabelecer união ou ligação",
+      "answer": "ALIAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Red.) Instrumento de sopro muito utilizado no jazz",
+      "answer": "SAX",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Os minutos de um round",
+      "answer": "TRES",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "União Europeia",
+      "answer": "UE",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Um resultado da falta de nutrição",
+      "answer": "ATROFIA",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Enganar com ardil",
+      "answer": "LOGRAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Soltar (o leão) a sua voz",
+      "answer": "RUGIR",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Ferido, física ou moralmente",
+      "answer": "LESADO",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "Situado acima da superfície ou do nível das águas",
+      "answer": "EMERSO",
+      "row": 3,
+      "col": 1
+    },
+    "20": {
+      "clue": "Pequeno vidro, obsoleto, em que se depositava tinta para escrever",
+      "answer": "TINTEIRO",
+      "row": 3,
+      "col": 8
+    },
+    "22": {
+      "clue": "O 86 foi uma série de filmes cômicos",
+      "answer": "AGENTE",
+      "row": 4,
+      "col": 4
+    },
+    "24": {
+      "clue": "(Fr.) Cão de caça, de orelhas compridas e corpo longo",
+      "answer": "BASSET",
+      "row": 5,
+      "col": 0
+    },
+    "26": {
+      "clue": "Uma marca brasileira de vinhos",
+      "answer": "SALTON",
+      "row": 5,
+      "col": 7
+    },
+    "28": {
+      "clue": "(Mecân.) A haste do pistão",
+      "answer": "BIELA",
+      "row": 6,
+      "col": 3
+    },
+    "32": {
+      "clue": "Dezoito dividido por nove",
+      "answer": "DOIS",
+      "row": 7,
+      "col": 5
+    },
+    "33": {
+      "clue": "O de rolo é típico de Pernambuco",
+      "answer": "BOLO",
+      "row": 7,
+      "col": 10
+    },
+    "35": {
+      "clue": "Conjunção: e nunca",
+      "answer": "NEM",
+      "row": 8,
+      "col": 2
+    },
+    "37": {
+      "clue": "Um número como 6 ou 84",
+      "answer": "PAR",
+      "row": 8,
+      "col": 9
+    },
+    "39": {
+      "clue": "A UF de Araguaína e Palmas",
+      "answer": "TO",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

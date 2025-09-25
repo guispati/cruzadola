@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uniformizado (diz-se de policial)",
+      "answer": "FARDADO",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Um biscoito wafer muito consumido",
+      "answer": "BIS",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Líquido",
+      "answer": "AQUOSO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Mulher aristocrata",
+      "answer": "DAMA",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Som semelhante ao toque do tambor",
+      "answer": "RUFO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Um combustível derivado do petróleo",
+      "answer": "DIESEL",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "250+750",
+      "answer": "MIL",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "O bruxo Harry, dos livros e filmes",
+      "answer": "POTTER",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Sustentar, firmar",
+      "answer": "APOIAR",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "A UF de Taubaté",
+      "answer": "SP",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Corrosão dos dentes",
+      "answer": "CARIE",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Cidade litorânea do sul da Bahia, destino turístico",
+      "answer": "MARAU",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Terminação dos álcoois",
+      "answer": "OL",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Nação com capital Beirute",
+      "answer": "LIBANO",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "Amar com muita devoção",
+      "answer": "ADORAR",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Uma conjunção de objeção",
+      "answer": "MAS",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Publicar",
+      "answer": "EDITAR",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Planície ou depressão entre montes",
+      "answer": "VALE",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Um dente postiço",
+      "answer": "PIVO",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Fé",
+      "answer": "CRENÇA",
+      "row": 9,
+      "col": 5
+    },
+    "37": {
+      "clue": "(Fig.) Coisa atraente",
+      "answer": "IMÃ",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Roubar",
+      "answer": "LADROAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Substância usada como medicamento",
+      "answer": "FARMACO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Especialmente próximo (no espaço)",
+      "answer": "AQUI",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Fazer tremular",
+      "answer": "RUFLAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Scooby-) Um cão da Hanna-Barbera",
+      "answer": "DOO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A carta A, do baralho",
+      "answer": "AS",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Inf.) Dor, doença",
+      "answer": "DODOI",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "(Jumping) Um esporte radical",
+      "answer": "BASE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Coberta de água",
+      "answer": "IMERSA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O composto usado com azeite e vinagre para temperar saladas",
+      "answer": "SAL",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Departamento Estadual de Trânsito",
+      "answer": "DETRAN",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "O ex-presidente da República Franco (1930-2011)",
+      "answer": "ITAMAR",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Terra seca reduzida a fino pó",
+      "answer": "POEIRA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "O \"motorista\" de um Boeing",
+      "answer": "PILOTO",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Dominar com vigor",
+      "answer": "PULSEAR",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Personagem das \"Mil e uma Noites\"",
+      "answer": "ALADIM",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Nascido na cidade onde está encravado o Vaticano",
+      "answer": "ROMANO",
+      "row": 5,
+      "col": 8
+    },
+    "27": {
+      "clue": "A de São Pedro é um sinônimo para a Igreja Católica",
+      "answer": "BARCA",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "Um sofá sem braços",
+      "answer": "DIVÃ",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "(Mala sem) Pessoa inconveniente",
+      "answer": "ALÇA",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Protegem o operário",
+      "answer": "EPI",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Assistir",
+      "answer": "VER",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "Roberto Drummond, escritor de \"Hilda Furacão\"",
+      "answer": "RD",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Las) Cidade dos EUA",
+      "answer": "VEGAS",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Objeto com que se desenha",
+      "answer": "LAPIS",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Veículo para transporte coletivo de pessoas",
+      "answer": "ONIBUS",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "O sujeito de torço ou rezo",
+      "answer": "EU",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Uma firma que fabrica tevês, celulares etc.",
+      "answer": "LG",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Pôr em plano superior",
+      "answer": "ELEVAR",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Uma garrafa para café",
+      "answer": "TERMICA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Red.: apartamento",
+      "answer": "APE",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Que não pertence ao clero",
+      "answer": "LAICO",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Vender a crédito",
+      "answer": "FIAR",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Técnica de fisgar peixes",
+      "answer": "PESCA",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Gír.) Comida",
+      "answer": "RANGO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "8",
+      "answer": "OITO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Que designa o mais antigo, de dois ou mais",
+      "answer": "VELHO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "O lugar de paz e de afetos familiares",
+      "answer": "LAR",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Gír.) Cigarro de maconha",
+      "answer": "BASEADO",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Pode ser de grau, de sol etc.",
+      "answer": "OCULOS",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "(Niño) Fenômeno do clima",
+      "answer": "EL",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Decilitro",
+      "answer": "DL",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Fábrica de telhas",
+      "answer": "OLARIA",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "Muito boa",
+      "answer": "OTIMA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Superfície de uma mesa",
+      "answer": "TAMPO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Unidade de medida da energia elétrica, de símbolo V",
+      "answer": "VOLT",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A UF de Pirenópolis e Anápolis",
+      "answer": "GO",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Com o sangue empobrecido",
+      "answer": "ANEMICO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Substância que compõe o vidro",
+      "answer": "SILICA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Veste usada para cobrir as mãos",
+      "answer": "LUVA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Parte da xícara por onde pode ser pega",
+      "answer": "ASA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Inscrição Estadual",
+      "answer": "IE",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Que está mais alto",
+      "answer": "SUPERO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Ruazinha sem saída",
+      "answer": "BECO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Doce de frutas cozidas, de consistência gelatinosa",
+      "answer": "GELEIA",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Iemanjá é a do mar",
+      "answer": "RAINHA",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Vestígio deixado por animal no seu caminho",
+      "answer": "RASTRO",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Ritmo popular brasileiro, espécie de samba",
+      "answer": "PAGODE",
+      "row": 3,
+      "col": 9
+    },
+    "21": {
+      "clue": "Escarpa íngreme sobre litoral",
+      "answer": "FALESIA",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Brilhante, envernizado",
+      "answer": "POLIDO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Ingl.) Um tipo de hotel",
+      "answer": "RESORT",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Cova comum",
+      "answer": "VALA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Impresso com instruções de uso de um medicamento",
+      "answer": "BULA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "O de sogra é um docinho",
+      "answer": "OLHO",
+      "row": 7,
+      "col": 10
+    },
+    "30": {
+      "clue": "O contrário de sem",
+      "answer": "COM",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Leon Tolstói (1828-1910), romancista e filósofo russo",
+      "answer": "LT",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "(Rád.) Amplitude Modulada",
+      "answer": "AM",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

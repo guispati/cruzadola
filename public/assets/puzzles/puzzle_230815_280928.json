@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "Usa-se para disfarçar a calvície",
+      "answer": "PERUCA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Nervo essencial à fala, deglutição, digestão etc.",
+      "answer": "VAGO",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "(Geom.) Sem ângulos",
+      "answer": "AGONO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Diz-se da anestesia restrita a uma área do corpo",
+      "answer": "LOCAL",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Faixa em tecido, diferente da cor deste",
+      "answer": "LISTRA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "A peça que imprime a um barco a direção da rota",
+      "answer": "LEME",
+      "row": 2,
+      "col": 7
+    },
+    "14": {
+      "clue": "Colocar (fogo)",
+      "answer": "ATEAR",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Partida esportiva de grande destaque, entre rivais tradicionais",
+      "answer": "DERBI",
+      "row": 3,
+      "col": 6
+    },
+    "16": {
+      "clue": "Não aceitar",
+      "answer": "REJEITAR",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Contração de preposição e artigo indefinido",
+      "answer": "DUM",
+      "row": 5,
+      "col": 4
+    },
+    "21": {
+      "clue": "A atual Ásia Menor",
+      "answer": "ANATOLIA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Máquina usada para determinar a velocidade de um objeto",
+      "answer": "RADAR",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Cidade italiana do Piemonte, a primeira capital do país",
+      "answer": "TURIM",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "O guitarrista Clapton",
+      "answer": "ERIC",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Uma área como Botucatu ou Oeiras",
+      "answer": "CIDADE",
+      "row": 8,
+      "col": 5
+    },
+    "32": {
+      "clue": "Sobrar, restar",
+      "answer": "FICAR",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Marcar DD/MM/AA",
+      "answer": "DATAR",
+      "row": 9,
+      "col": 6
+    },
+    "34": {
+      "clue": "Infelicidade, infortúnio",
+      "answer": "AZAR",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Figura bíblica que foi ressuscitada por Jesus",
+      "answer": "LAZARO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Aba frontal dos bonés",
+      "answer": "PALA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O país das mais famosas pirâmides",
+      "answer": "EGITO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O Axl roqueiro",
+      "answer": "ROSE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Aplicar manteiga, azeite etc. a uma forma",
+      "answer": "UNTAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Passagem estreita e alongada",
+      "answer": "CORREDOR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "O esporte de Xandó e Bernard",
+      "answer": "VOLEI",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O ato de ajustar, endireitar",
+      "answer": "ACERTO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Bicho que exala um odor intenso para sua defesa",
+      "answer": "GAMBA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Aquele que trabalha em fábrica de tijolos, telhas etc.",
+      "answer": "OLEIRO",
+      "row": 0,
+      "col": 10
+    },
+    "15": {
+      "clue": "Despedida",
+      "answer": "DEMITIDA",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "O período entre Jun e Ago",
+      "answer": "JUL",
+      "row": 4,
+      "col": 5
+    },
+    "18": {
+      "clue": "Trabalho a ser cumprido em determinado tempo",
+      "answer": "TAREFA",
+      "row": 5,
+      "col": 0
+    },
+    "19": {
+      "clue": "(Pop.) Coisa nenhuma",
+      "answer": "NADICA",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Parte dianteira da fuselagem de um avião",
+      "answer": "NARIZ",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Lançar com ímpeto e força",
+      "answer": "TACAR",
+      "row": 6,
+      "col": 3
+    },
+    "24": {
+      "clue": "Aquele que não teme o perigo",
+      "answer": "AUDAZ",
+      "row": 6,
+      "col": 7
+    },
+    "25": {
+      "clue": "Batalhar, pelejar",
+      "answer": "LIDAR",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Fiasco",
+      "answer": "RATA",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Puro e simples",
+      "answer": "MERO",
+      "row": 7,
+      "col": 10
+    }
+  }
+}

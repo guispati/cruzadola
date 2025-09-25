@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Contar o número de habitantes",
+      "answer": "RECENSEAR",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Provas para a avaliar os conhecimentos dos alunos",
+      "answer": "EXAMES",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O feio é uma palavra obscena, ofensiva",
+      "answer": "NOME",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "O primeiro colocado",
+      "answer": "LIDER",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O ex-presidente americano Joe",
+      "answer": "BIDEN",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Preposição que expressa um limite posterior de tempo",
+      "answer": "ATE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Competente em determinada disciplina",
+      "answer": "VERSADO",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Interjeição para espantar galinhas",
+      "answer": "XO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Um vício",
+      "answer": "GULA",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Resposta afirmativa",
+      "answer": "SIM",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Passagem estreita",
+      "answer": "VEREDA",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Sigla do estado de Ubajara",
+      "answer": "CE",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "A cantora estadunidense Ross",
+      "answer": "DIANA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Gír.) Prazer provocado por droga",
+      "answer": "ONDA",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "O Au dos químicos",
+      "answer": "OURO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Fig.) Intervenção, interferência",
+      "answer": "DEDO",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Furor, ira",
+      "answer": "RAIVA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Ciúmes",
+      "answer": "ZELOS",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "O músico conhecido como \"Poeta da Vila\"",
+      "answer": "NOELROSA",
+      "row": 9,
+      "col": 1
+    },
+    "36": {
+      "clue": "O pior possível",
+      "answer": "PESSIMO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Curado",
+      "answer": "SÃO",
+      "row": 10,
+      "col": 8
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Afrouxador",
+      "answer": "RELAXADOR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Resultado feliz",
+      "answer": "EXITO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Quede?",
+      "answer": "CADE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A letra que separa o ele e o ene",
+      "answer": "EME",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Bot.) Veia",
+      "answer": "NERVURA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Steven Spielberg, cineasta de \"ET\" e \"Amor, Sublime Amor\"",
+      "answer": "SS",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Essência usada em balas e licores",
+      "answer": "ANIS",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Os triciclos possuem três",
+      "answer": "RODAS",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Fama",
+      "answer": "RENOME",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Que foi tratado, curado com remédios",
+      "answer": "MEDICADO",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Voz forte e enérgica",
+      "answer": "BRADO",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Segue tu",
+      "answer": "ELE",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "De importante cidade italiana da Ligúria",
+      "answer": "GENOVES",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Muitos",
+      "answer": "VARIOS",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "A grande cordilheira sul-americana",
+      "answer": "ANDES",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "A unidade monetária da China",
+      "answer": "IUANE",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Daquelas mulheres",
+      "answer": "DELAS",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "Costela, esterno ou hamato",
+      "answer": "OSSO",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "Um pouco mais adiante",
+      "answer": "ALI",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "(Red.) Parque de animais",
+      "answer": "ZOO",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Rosamaria Murtinho, atriz",
+      "answer": "RM",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

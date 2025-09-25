@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O lance decisivo do xadrez",
+      "answer": "MATE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Filhos de pais irmãos",
+      "answer": "PRIMOS",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "1º",
+      "answer": "PRIMEIRO",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Em anatomia, conjunto alongado de fibras nervosas",
+      "answer": "FEIXE",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Cômoda, armário ou mesa de centro",
+      "answer": "MOVEL",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Anel metálico",
+      "answer": "ARGOLA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Nadica",
+      "answer": "NECA",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Época da cria",
+      "answer": "CIO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Indivíduo que trabalha em fábrica de telhas",
+      "answer": "OLEIRO",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Emma Thompson, atriz inglesa de \"Vestígios do Dia\"",
+      "answer": "ET",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Balaio",
+      "answer": "PATUA",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Nota do Tradutor",
+      "answer": "NT",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Oferecer como vítima a uma divindade",
+      "answer": "IMOLAR",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Animal grande, criado para alimentação",
+      "answer": "BOI",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "(Matem.) Uma palavra usada em frações (pl.)",
+      "answer": "AVOS",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Carrinho montado sobre rolamentos",
+      "answer": "ROLIMÃ",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "O oposto de azar",
+      "answer": "SORTE",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Abrev.) Paralisia infantil",
+      "answer": "POLIO",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "(Med.) Enjoo de mar",
+      "answer": "NAUPATIA",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Segurar algo que cai ou que foi atirado",
+      "answer": "APARAR",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "A letra que sucede o erre",
+      "answer": "ESSE",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Bebida que estimula o apetite",
+      "answer": "APERITIVO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O alimento do sitófago",
+      "answer": "TRIGO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Fig.) Ideia principal",
+      "answer": "EIXO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Unidade de medida equivalente a 30,48 cm",
+      "answer": "PE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O órgão que mantém o equilíbrio hídrico do corpo",
+      "answer": "RIM",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Palavra que exprime o contrário do que parece exprimir",
+      "answer": "IRONIA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Mexer",
+      "answer": "MOVER",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "No tênis, a parte que pisa o chão",
+      "answer": "SOLA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Plantação de melões",
+      "answer": "MELOAL",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Lado da frente de qualquer coisa",
+      "answer": "FACE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Dinheiro, bens amealhados por poupança",
+      "answer": "ECONOMIAS",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "A mesa sagrada da igreja",
+      "answer": "ALTAR",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "O continente com o Coliseu e a torre Eiffel",
+      "answer": "EUROPA",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Dispor",
+      "answer": "POSTAR",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "O Carreiro (1934-1993) violeiro e cantor sertanejo",
+      "answer": "TIÃO",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Nem quente nem fria",
+      "answer": "MORNA",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Produto de secreção das células hepáticas",
+      "answer": "BILIS",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "O continente mais populoso",
+      "answer": "ASIA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Grupo de bens colocados à venda em leilão",
+      "answer": "LOTE",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Sigla de uma grande potência mundial",
+      "answer": "EUA",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "Paulo Ricardo, músico",
+      "answer": "PR",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

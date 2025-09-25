@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Grupo de cem unidades",
+      "answer": "CENTO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Em informática, diretório que contém um ou mais arquivos",
+      "answer": "PASTA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Saudação ao se encontrar alguém",
+      "answer": "OLA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Descer voando de motor desligado",
+      "answer": "PLANAR",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Uma raça de cães de orelhas grandes",
+      "answer": "BASSE",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Inf.) Comer",
+      "answer": "PAPAR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Um formato padrão de papel",
+      "answer": "CARTA",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "O nome da letra que é o símbolo de minuto",
+      "answer": "EME",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Cada conta menor de um rosário ou terço",
+      "answer": "AVEMARIA",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "4, em algarismos romanos",
+      "answer": "IV",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Querido",
+      "answer": "CARO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Jogo de azar",
+      "answer": "LOTO",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "(Salvador) País centro-americano",
+      "answer": "EL",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Conciliador",
+      "answer": "AMIGAVEL",
+      "row": 6,
+      "col": 3
+    },
+    "29": {
+      "clue": "Bastonete usado para escrever em quadros-negros",
+      "answer": "GIZ",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Ferramenta para abrir sulcos na terra",
+      "answer": "ARADO",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Voo curto sem direção certa",
+      "answer": "ADEJO",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Homem que está para casar",
+      "answer": "NOIVO",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "As mulheres nascidas em Berlim ou Frankfurt",
+      "answer": "ALEMÃS",
+      "row": 9,
+      "col": 1
+    },
+    "37": {
+      "clue": "(Inform.) Sistema operacional, atualmente pouco usado",
+      "answer": "DOS",
+      "row": 9,
+      "col": 8
+    },
+    "38": {
+      "clue": "(Pop.) Gozação de veteranos sobre calouros nas faculdades",
+      "answer": "TROTE",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Aquele que está acima do peso por excesso de gordura",
+      "answer": "OBESO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Outro nome do minhocão, animal semelhante a um verme",
+      "answer": "COBRACEGA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Segue tu (fem.)",
+      "answer": "ELA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Vir por geração, descender",
+      "answer": "NASCER",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Tragédia em música",
+      "answer": "OPERA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Tratamento íntimo que os filhos dão ao seu genitor",
+      "answer": "PAPAI",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "A Maria Braga da tevê",
+      "answer": "ANA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Planta muito usada na cobertura de quiosques",
+      "answer": "SAPE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Caminho ao atalho determinado",
+      "answer": "TRAMITE",
+      "row": 0,
+      "col": 9
+    },
+    "12": {
+      "clue": "País da Polinésia com capital Ápia",
+      "answer": "SAMOA",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Insurreto, rebelde",
+      "answer": "REVOLTOSO",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Ser infiel",
+      "answer": "TRAIR",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Tornar legítimo",
+      "answer": "VALIDAR",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Com asas, como a ave",
+      "answer": "ALADO",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "De forma semelhante à de um ovo",
+      "answer": "OVOIDE",
+      "row": 5,
+      "col": 8
+    },
+    "27": {
+      "clue": "(Rel.) O profeta de Alá",
+      "answer": "MAOME",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "Ave cujo fígado é comido como patê",
+      "answer": "GANSO",
+      "row": 6,
+      "col": 6
+    },
+    "30": {
+      "clue": "Fervor, empenho, diligência em fazer as coisas",
+      "answer": "ZELO",
+      "row": 7,
+      "col": 2
+    },
+    "33": {
+      "clue": "(ski) Moto aquática",
+      "answer": "JET",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Tu e eles",
+      "answer": "VOS",
+      "row": 8,
+      "col": 9
+    }
+  }
+}

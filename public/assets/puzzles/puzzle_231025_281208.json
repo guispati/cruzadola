@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cereal de müsli",
+      "answer": "AVEIA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Soltar (o lobo, o cão) a sua voz",
+      "answer": "UIVAR",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "O número de pinos no boliche",
+      "answer": "DEZ",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Que deixa de comparecer",
+      "answer": "FALTOSO",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Nova Zelândia",
+      "answer": "NZ",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Ave com pescoço em forma de S",
+      "answer": "CISNE",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Tesouro Direto",
+      "answer": "TD",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Outro nome da brincadeira esconde-esconde",
+      "answer": "TANTANGUE",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Queimar muito",
+      "answer": "TORRAR",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Entidade popular do nosso folclore",
+      "answer": "SACI",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "O desenhista carioca Fernandes (1923-2012)",
+      "answer": "MILLOR",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "O Barnabé personagem do \"Sítio do Pica-Pau Amarelo\"",
+      "answer": "TIO",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Homem que presta serviço militar",
+      "answer": "RECO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Natural de uma região próxima ao polo Norte",
+      "answer": "LAPÃO",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Eu, em latim",
+      "answer": "EGO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Farto, numeroso",
+      "answer": "COPIOSO",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Tornar mais intenso, vivo, denso etc.",
+      "answer": "CARREGAR",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Uma saudação muito usada",
+      "answer": "OI",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Desembaraçar",
+      "answer": "DENODAR",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "O objeto metálico que se guarda no cofrinho",
+      "answer": "MOEDA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Instrumento musical comum em igrejas",
+      "answer": "ORGÃO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O Marcelo humorista",
+      "answer": "ADNET",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Oportunidade reservada a alguém",
+      "answer": "VEZ",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sufixo de qualidade ou estado",
+      "answer": "EZ",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Por fim",
+      "answer": "AFINAL",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Anat.) Outro nome do cúbito, osso do antebraço",
+      "answer": "ULNA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Artigos",
+      "answer": "ITENS",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Mãe do pai",
+      "answer": "VO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Que denota engenhosidade",
+      "answer": "ASTUCIOSO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Giro em redor de algo",
+      "answer": "RODEIO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Um especialista em horóscopos",
+      "answer": "ASTROLOGO",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "(Monte) Famoso distrito de Mônaco",
+      "answer": "CARLO",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Que tem três cordas (diz-se de instrumentos musicais)",
+      "answer": "TRICORDE",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "(Fig.) Homem muito atraente",
+      "answer": "GATÃO",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Letra do alfabeto grego que é símbolo de fim, termo",
+      "answer": "OMEGA",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Cortado rente",
+      "answer": "RAPADO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "(-casado) Que acabou de contrair núpcias",
+      "answer": "RECEM",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Pop.) Endoidar",
+      "answer": "PIRAR",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Uma parte da peça de teatro",
+      "answer": "CENA",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Duas vezes quatro",
+      "answer": "OITO",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Vermelho, em inglês",
+      "answer": "RED",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Um dado da cédula de identidade",
+      "answer": "RG",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

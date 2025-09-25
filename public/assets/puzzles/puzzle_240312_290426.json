@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Diz-se de bote que se pode encher com ar",
+      "answer": "INFLAVEL",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "As letras separadas pelo C",
+      "answer": "BD",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "O órgão do olfato",
+      "answer": "NARIZ",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Retirar da conta do banco",
+      "answer": "SACAR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Pequeno periquito",
+      "answer": "TUIM",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Um animal que fornece leite",
+      "answer": "VACA",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Encontrão",
+      "answer": "TOPETADA",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Ministério da Pesca e Aquicultura",
+      "answer": "MPA",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "A massa de gelo que causou o naufrágio do Titanic",
+      "answer": "ICEBERG",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "UF vizinha de SE",
+      "answer": "AL",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "É normal na eutocia",
+      "answer": "PARTO",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "(Pop.) Discussão de Relacionamento",
+      "answer": "DR",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Utensílio usado para crivar queijo",
+      "answer": "RALADOR",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Um dispositivo contraceptivo",
+      "answer": "DIU",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "A cidade japonesa destruída pela segunda bomba atômica (1945)",
+      "answer": "NAGASAKI",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "Mistura de gases produzidos pela combustão do tabaco",
+      "answer": "FUMO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Forte moeda internacional",
+      "answer": "IENE",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Importante museu espanhol",
+      "answer": "PRADO",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "(Red.) Tradicional equipe do futebol gaúcho",
+      "answer": "INTER",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "Sociedade Anônima",
+      "answer": "SA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Réstia de alho, de cebola etc.",
+      "answer": "ESPIGAME",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ordenar de maneira definitiva",
+      "answer": "INTIMAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Uma antiga embarcação mercante de alto bordo",
+      "answer": "NAU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Uma maneira de se preparar a batata",
+      "answer": "FRITA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Lodo",
+      "answer": "LIMO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Arthur Zanetti, ginasta",
+      "answer": "AZ",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Sigla do estado de Guarapari e Marataízes",
+      "answer": "ES",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Lavatório",
+      "answer": "LAVABO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Famosa marca de bebidas",
+      "answer": "BACARDI",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A abreviatura que precede o nome da médica",
+      "answer": "DRA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Onde está?",
+      "answer": "CADE",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Morte de tecido orgânico",
+      "answer": "NECROSE",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Anedota",
+      "answer": "PIADA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "(Red.) Campeão por quarta vez consecutivas",
+      "answer": "TETRA",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "Grande extensão de terreno sem desigualdades de nível",
+      "answer": "PLANURA",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Queijo de leite de vaca, originário da cidade homônima suíça",
+      "answer": "GRUYERE",
+      "row": 4,
+      "col": 10
+    },
+    "24": {
+      "clue": "Ritmo popular brasileiro, espécie de samba",
+      "answer": "PAGODE",
+      "row": 5,
+      "col": 3
+    },
+    "27": {
+      "clue": "(Dalai-) Sumo sacerdote budista",
+      "answer": "LAMA",
+      "row": 6,
+      "col": 2
+    },
+    "28": {
+      "clue": "Ração alimentar equilibrada e personalizada",
+      "answer": "DIETA",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "O Martin Luther (1929-1968) pastor e ativista",
+      "answer": "KING",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Fator de Proteção Solar",
+      "answer": "FPS",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "E não, e ninguém, e nunca",
+      "answer": "NEM",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "O símbolo do ósmio, elemento químico",
+      "answer": "OS",
+      "row": 9,
+      "col": 4
+    },
+    "36": {
+      "clue": "O Dom Pedro sob cujo reinado foi sancionada a lei Áurea",
+      "answer": "II",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um doce com recheio cremoso",
+      "answer": "BOMBA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Inform.) Página, site",
+      "answer": "SITIO",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Importante cidade da Índia, na foz do rio Ganges",
+      "answer": "CALCUTA",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Ivon Curi (1928-1995), ator e cantor de \"Assim Era a Atlântida\"",
+      "answer": "IC",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Bolo de massa de tapioca, alimento típico dos indígenas",
+      "answer": "BEIJU",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "(-Paraná) Grande cidade de Rondônia",
+      "answer": "JI",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Restaurante barato",
+      "answer": "TAVERNA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Marca chinesa fabricante de carros",
+      "answer": "JAC",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Provocação",
+      "answer": "ACINTE",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "O da Compadecida é uma obra de Suassuna",
+      "answer": "AUTO",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Da capital da Turquia",
+      "answer": "ANCARENSE",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "O líquido do limão",
+      "answer": "SUCO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Fig.) Metamorfose",
+      "answer": "AVATAR",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "O dos burros é um sinônimo para dicionário",
+      "answer": "PAI",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "O conteúdo (quando cheio) do utensílio em que se come a refeição",
+      "answer": "PRATADA",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Lya Luft (1938-2021), escritora de \"A Sentinela\"",
+      "answer": "LL",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "(Fig.) Solução, recurso",
+      "answer": "SAIDA",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "A sigla de Ondas Curtas, nos rádios",
+      "answer": "OC",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Que perdeu qualidade",
+      "answer": "DECAIDO",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "Biquíni muito pequeno",
+      "answer": "TANGA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Apropriação indébita de bem alheio",
+      "answer": "ROUBO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Uma pedra usada em construções",
+      "answer": "BRITA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "As iniciais do ator americano Culkin, de \"Esqueceram de Mim\"",
+      "answer": "MC",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "O Héctor cineasta de \"Meu Amigo Hindu\"",
+      "answer": "BABENCO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Sinal para estar vigilante",
+      "answer": "ALERTA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Não limpa",
+      "answer": "SUJA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Cidade paulista, \"a capital do exagero\"",
+      "answer": "ITU",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O tântalo, para os químicos",
+      "answer": "TA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Próprio da vista",
+      "answer": "OTICO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Planta ornamental também chamada centáurea",
+      "answer": "CINERARIA",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Terreno de árvores voltadas para a produção de chocolate",
+      "answer": "CACAUAL",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Diz-se de certo acabamento feito em vidros, com areia",
+      "answer": "JATEADO",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Cidade italiana, berço de um famoso Leonardo",
+      "answer": "VINCI",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "(causa) Atitude válida e legítima por fundamentar-se em uma lei, contrato etc.",
+      "answer": "JUSTA",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Cremoso",
+      "answer": "ANATADO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Fugir da prisão",
+      "answer": "EVADIR",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "(Banana) Sobremesa gelada",
+      "answer": "SPLIT",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Fenda",
+      "answer": "RACHO",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Animal semelhante a uma cutia",
+      "answer": "PACA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Abreviatura para o dia que antecede a terça-feira",
+      "answer": "SEG",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Defesa Nacional",
+      "answer": "DN",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "Conjunção que dá ideia de opção",
+      "answer": "OU",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

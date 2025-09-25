@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Pop.) Carne bovina, salgada e prensada, em mantas",
+      "answer": "JABA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "A torre mais famosa do mundo, localizada em Paris",
+      "answer": "EIFFEL",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "(Anat.) Cristalino",
+      "answer": "LENTE",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "59, em algarismos romanos",
+      "answer": "LIX",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "(Fig.) Apagado",
+      "answer": "CINZA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "A atriz Braga, de \"O Beijo da Mulher Aranha\"",
+      "answer": "SONIA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Reconhecer a inocência de",
+      "answer": "ABSOLVER",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "As consoantes de leque",
+      "answer": "LQ",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Interjeição de surpresa, espanto etc.",
+      "answer": "XI",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "O primeiro nome de Camões, poeta português (1524-1580)",
+      "answer": "LUIS",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "(-d'água) Bêbado, ébrio",
+      "answer": "PAU",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Falta de vergonha",
+      "answer": "DESCARO",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Monteiro Lobato, escritor",
+      "answer": "ML",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Esp.) Derrotar por larga margem de tentos",
+      "answer": "GOLEAR",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Biscoito enrolado",
+      "answer": "BIJU",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Velho, arcaico",
+      "answer": "ANTIGO",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "(de Março) Um dos maiores sucessos da MPB",
+      "answer": "AGUAS",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "História em quadrinhos apresentada em uma única faixa horizontal",
+      "answer": "TIRA",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Afastar",
+      "answer": "ARREDAR",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "O pelo que cobre a ovelha",
+      "answer": "LÃ",
+      "row": 9,
+      "col": 9
+    },
+    "37": {
+      "clue": "(Gír.) Abaixamento repentino da temperatura",
+      "answer": "FRIACA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "O contrário de inércia, de inoperância",
+      "answer": "AÇÃO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Uma prova que inocenta de um crime",
+      "answer": "ALIBI",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Itens de um patrimônio",
+      "answer": "BENS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Gancho terminado em farpa, usado para apanhar peixes",
+      "answer": "ANZOL",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Emilio Estevez, ator norte-americano",
+      "answer": "EE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Parte da planta, precede o fruto",
+      "answer": "FLOR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Abreviatura (em português) da Finlândia",
+      "answer": "FIN",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Expatriar",
+      "answer": "EXILAR",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Diz-se de indivíduo corpulento, grande",
+      "answer": "TALUDO",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Inflamação infecciosa e contagiosa das parótidas",
+      "answer": "CAXUMBA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Cento e trinta menos setenta",
+      "answer": "SESSENTA",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Líquido",
+      "answer": "AQUOSO",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Rua ou travessa estreita",
+      "answer": "VIELA",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Expulsar do útero (feto e secundinas)",
+      "answer": "PARIR",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Certa dança rural",
+      "answer": "CATIRA",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "Vincular, relacionar",
+      "answer": "LIGAR",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Ave de penas vermelhas e bico recurvado",
+      "answer": "GUARA",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Comissão julgadora",
+      "answer": "JURI",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Homem bonitão, elegante",
+      "answer": "GALÃ",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "(Matem.) Secante",
+      "answer": "SEC",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "Dante Alighieri (1265-1321), poeta italiano",
+      "answer": "DA",
+      "row": 9,
+      "col": 5
+    },
+    "36": {
+      "clue": "Um sufixo aumentativo",
+      "answer": "ÃO",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

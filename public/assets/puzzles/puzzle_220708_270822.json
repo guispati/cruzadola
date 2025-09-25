@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Ingl.) Cinema onde o freguês entra e é servido dentro do próprio carro",
+      "answer": "DRIVEIN",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Um dado do endereço",
+      "answer": "CEP",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Bolinho típico da culinária italiana",
+      "answer": "POLPETA",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Satisfação perfeita",
+      "answer": "IDEAL",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "O ciático controla as articulações e musculatura do quadril e dos membros inferiores",
+      "answer": "NERVO",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Interjeição que expressa admiração, espanto",
+      "answer": "XI",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Espargir odor forte e penetrante",
+      "answer": "RECENDER",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "(Sigla) Acidente Vascular Cerebral",
+      "answer": "AVC",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Repensar sobre algo",
+      "answer": "REMOER",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Cursos d'água que formam uma bacia",
+      "answer": "RIOS",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "A folhagem das plantas",
+      "answer": "RAMA",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "Comprimido",
+      "answer": "DRAGEA",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "(Fig.) Ideia que ilumina a mente",
+      "answer": "LUZ",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "A loja onde se compra \"O Tronco do Ipê\", \"Vidas Secas\" etc.",
+      "answer": "LIVRARIA",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "As letras entre o S e o V",
+      "answer": "TU",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Lustrar (as panelas)",
+      "answer": "AREAR",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "O cantor fluminense de \"Casas\"",
+      "answer": "RUBEL",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Que anda com dificuldade",
+      "answer": "TROPEGO",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "A sigla do país de LA e NY",
+      "answer": "EUA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Limpo",
+      "answer": "ASSEADO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Sair, retirar-se de",
+      "answer": "DEIXAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Árvore de linda floração",
+      "answer": "IPE",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "(Fig.) Correr",
+      "answer": "VOAR",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "A cantora de pop rock Cássia (1962-2001)",
+      "answer": "ELLER",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Instituto de Psiquiatria",
+      "answer": "IP",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Fam.) Criancinha de colo",
+      "answer": "NENEM",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Um ponto como o Leste",
+      "answer": "CARDEAL",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Aquilo que é inferior a tudo o mais",
+      "answer": "PIOR",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "No canto, a voz de homem adulto mais alta",
+      "answer": "TENOR",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Causar desacordo ou desentendimento entre",
+      "answer": "DIVIDIR",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Vinho tomado como aperitivo",
+      "answer": "VERMUTE",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Transferir possessão",
+      "answer": "CEDER",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Navio usado na caça de submarinos",
+      "answer": "CORVETA",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Recobrar a saúde",
+      "answer": "SARAR",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Outro nome do pássaro chupim",
+      "answer": "AZULÃO",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Nevoeiro fino",
+      "answer": "GAROA",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "A capital Buenos",
+      "answer": "AIRES",
+      "row": 6,
+      "col": 6
+    },
+    "29": {
+      "clue": "Placa de concreto que separa pavimentos",
+      "answer": "LAJE",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Apogeu",
+      "answer": "AUGE",
+      "row": 7,
+      "col": 7
+    },
+    "34": {
+      "clue": "Feminino de bom",
+      "answer": "BOA",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "PlayStation",
+      "answer": "PS",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

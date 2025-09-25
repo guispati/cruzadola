@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Fruta, parece uma pequena goiaba",
+      "answer": "ARAÇA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Gordura industrializada prejudicial à saúde",
+      "answer": "TRANS",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Conjunção: e nunca",
+      "answer": "NEM",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Organismos que representa a mais simples forma de vida que se conhece",
+      "answer": "VIRUS",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "A música típica do Paraguai",
+      "answer": "GUARANIA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Vanderlei Luxemburgo, técnico de futebol",
+      "answer": "VL",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Briga de galos",
+      "answer": "RINHA",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Um combustível para veículos",
+      "answer": "GAS",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Instrumento de percussão popular na Espanha",
+      "answer": "CASTANHOLA",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Uma prega para ajustar a roupa ao corpo",
+      "answer": "PENCE",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Conjunto de ornamentos ricos, preciosos",
+      "answer": "GALA",
+      "row": 5,
+      "col": 6
+    },
+    "21": {
+      "clue": "Treze menos cinco",
+      "answer": "OITO",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "(Fut.) Ato de errar o chute",
+      "answer": "FURADA",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "F",
+      "answer": "EFE",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Nas penitenciárias, compartimento de prisioneiro",
+      "answer": "CELA",
+      "row": 7,
+      "col": 4
+    },
+    "26": {
+      "clue": "Associated Press",
+      "answer": "AP",
+      "row": 7,
+      "col": 9
+    },
+    "27": {
+      "clue": "O sódio na fórmula do sal",
+      "answer": "NA",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "O C do CNPJ",
+      "answer": "CADASTRO",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Nutrir-se",
+      "answer": "COMER",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "A peça principal do xadrez",
+      "answer": "REI",
+      "row": 9,
+      "col": 8
+    },
+    "32": {
+      "clue": "Desenterrar um cadáver",
+      "answer": "EXUMAR",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Demonstração de alegria externada pelo rosto",
+      "answer": "RISO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Massa de fubá cozido em água e sal",
+      "answer": "ANGU",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Condenado",
+      "answer": "REU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Cidade do Piauí, na divisa com o Maranhão",
+      "answer": "AMARANTE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Interjeição de incitamento para que se vá para frente",
+      "answer": "AVANTE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Que tem três ângulos",
+      "answer": "TRIANGULAR",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Um dado do endereço",
+      "answer": "RUA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Fig.) Indivíduo que se sobressai pelo que faz",
+      "answer": "AS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Gênero de música cubana que lembra o mambo",
+      "answer": "SALSA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Sufixo diminutivo feminino",
+      "answer": "INHA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Delineamento",
+      "answer": "RISCO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "(Governador) Importante cidade mineira",
+      "answer": "VALADARES",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Parte da roupa que circunda o pescoço",
+      "answer": "GOLA",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Época da colheita de cereais",
+      "answer": "CEIFA",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "Estância de criação de cavalos",
+      "answer": "HARAS",
+      "row": 4,
+      "col": 7
+    },
+    "19": {
+      "clue": "Ocidente",
+      "answer": "POENTE",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Cheirar mal",
+      "answer": "FEDER",
+      "row": 6,
+      "col": 5
+    },
+    "23": {
+      "clue": "Auxílio, ajuda",
+      "answer": "APOIO",
+      "row": 6,
+      "col": 10
+    },
+    "25": {
+      "clue": "Leito",
+      "answer": "CAMA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Junto a",
+      "answer": "COM",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "Campeão pela terceira vez em competição",
+      "answer": "TRI",
+      "row": 8,
+      "col": 8
+    },
+    "30": {
+      "clue": "Cobre, elemento químico",
+      "answer": "CU",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

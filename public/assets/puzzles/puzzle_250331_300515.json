@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Coisa sem importância",
+      "answer": "BOBAGEM",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Um tipo de pudim",
+      "answer": "FLÃ",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Fita metálica",
+      "answer": "FIO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Desenterrar um cadáver",
+      "answer": "EXUMAR",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Uma valorizada profissional da moda",
+      "answer": "TOPMODEL",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "O Oliver chef britânico",
+      "answer": "JAMIE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Comportamento decente",
+      "answer": "ETICA",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Abreviatura de ultravioleta",
+      "answer": "UV",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Um navio de guerra de grande porte",
+      "answer": "CRUZADOR",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "(Pop.) Cachaça",
+      "answer": "RAMA",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Elemento de composição: som, voz",
+      "answer": "FONO",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "Ajustado ao meio em que vive",
+      "answer": "ADAPTADO",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Francisco Cuoco, ator",
+      "answer": "FC",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "A unidade monetária da Austrália",
+      "answer": "DOLAR",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Elemento químico de símbolo Er",
+      "answer": "ERBIO",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Um grande rio brasileiro",
+      "answer": "ARAGUAIA",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "Gêmeo que nasceu ligado a outro",
+      "answer": "SIAMES",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "Um investimento",
+      "answer": "RDB",
+      "row": 9,
+      "col": 8
+    },
+    "36": {
+      "clue": "Em tal quantidade",
+      "answer": "TÃO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "A UF AL",
+      "answer": "ALAGOAS",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Betty Faria, atriz carioca de \"Bye Bye Brasil\"",
+      "answer": "BF",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Que tem oito faces ou lados",
+      "answer": "OITAVADO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Crescimento",
+      "answer": "BOOM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Exprimir a dor com voz lamentosa e não articulada",
+      "answer": "GEMER",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Elemento de composição: para fora",
+      "answer": "EXO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Estado de quem não tem o dom da fala",
+      "answer": "MUDEZ",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Quebrado (comercialmente)",
+      "answer": "FALIDO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O laurêncio, em química",
+      "answer": "LR",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Referência vaga ou indireta",
+      "answer": "METAFORA",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Ave aquática também chamada ipequi",
+      "answer": "PICAPARA",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Vigário",
+      "answer": "PAROCO",
+      "row": 2,
+      "col": 10
+    },
+    "15": {
+      "clue": "Indivíduo intimado a julgar um réu",
+      "answer": "JURADO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Atrevida, abusada",
+      "answer": "CONFIADA",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "Até que enfim!",
+      "answer": "UFA",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "A língua comercial do sudeste asiático",
+      "answer": "MALAIO",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Sucessão de acontecimentos de uma novela",
+      "answer": "TRAMA",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Mulher muito admirada",
+      "answer": "DEUSA",
+      "row": 6,
+      "col": 6
+    },
+    "30": {
+      "clue": "Repartição, agência",
+      "answer": "BIRO",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Preparado semi-sólido usado em produtos cosméticos",
+      "answer": "GEL",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Sem males (fem.)",
+      "answer": "SÃ",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "Ben Stiller, ator estadunidense",
+      "answer": "BS",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

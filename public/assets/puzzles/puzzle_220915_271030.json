@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ser do sexo feminino",
+      "answer": "FEMEA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O conteúdo de um livro ou manuscrito",
+      "answer": "TEXTO",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Esterco, fertilizante",
+      "answer": "ESTRUME",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Salvador Dalí, artista espanhol",
+      "answer": "SD",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Pop.) Prato feito",
+      "answer": "PEEFE",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "(Pop.) Perda total",
+      "answer": "PT",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Aquele que tem necessidade de água",
+      "answer": "SEDENTO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Mitzvah) Uma cerimônia judaica",
+      "answer": "BAR",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Não fechada",
+      "answer": "ABERTA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Parte extrema e mais fina de uma garrafa",
+      "answer": "COLO",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Longa península montanhosa situada nos confins da América do Sul",
+      "answer": "ANTARTICA",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Lenda",
+      "answer": "MITO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Pop.) Travesso",
+      "answer": "DANADO",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "(Interj.) Boa sorte, felicidades",
+      "answer": "AXE",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Fazer troca de passes entre dois jogadores, no futebol",
+      "answer": "TABELAR",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Sigla de um estado que faz divisa com Tocantins e Bahia",
+      "answer": "GO",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "(Pop.) Passar mal por causa de bebida ou tóxico",
+      "answer": "BODAR",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "Ralph Fiennes, ator de \"O Paciente Inglês\"",
+      "answer": "RF",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Pôr ou dispor no lugar apropriado",
+      "answer": "COLOCAR",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "Fácil de entender",
+      "answer": "OBVIO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Rim, pâncreas ou útero",
+      "answer": "ORGÃO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Buraco, cova",
+      "answer": "FOSSA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Forma átona do pronome eu",
+      "answer": "ME",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Ativo, ligeiro",
+      "answer": "ESPERTO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Meticulosa, cuidadosa",
+      "answer": "ATENTA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Porção de pelos ou penas, quando juntas",
+      "answer": "TUFO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Letra que pode valer 1.000",
+      "answer": "EME",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "A abreviatura do xenônio, elemento químico",
+      "answer": "XE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Mais um",
+      "answer": "OUTRO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Que é mentalmente pouco desenvolvido em relação à sua idade",
+      "answer": "RETARDADO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Sob",
+      "answer": "DEBAIXO",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Sabor",
+      "answer": "PALADAR",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Peça como um molar ou um incisivo",
+      "answer": "DENTE",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "A abertura do pistom por onde se sopra para produzir o som",
+      "answer": "BOCAL",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Queimar até reduzir a cinzas",
+      "answer": "CINERAR",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Matéria-prima para fumantes",
+      "answer": "TABACO",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "O antônimo de gordo",
+      "answer": "MAGRO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "O menor que perdeu um ou ambos os pais",
+      "answer": "ORFÃO",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Estúpido, otário",
+      "answer": "TOLO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "(Pé de) Trabalhador esforçado e assíduo ao serviço",
+      "answer": "BOI",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Curriculum vitae",
+      "answer": "CV",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "Ronald Golias (1929-2005), humorista",
+      "answer": "RG",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

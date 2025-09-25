@@ -1,0 +1,258 @@
+{
+  "across": {
+    "2": {
+      "clue": "Espécie de pandeiro",
+      "answer": "TAMBORETE",
+      "row": 0,
+      "col": 2
+    },
+    "11": {
+      "clue": "Ariana Grande, atriz e cantora",
+      "answer": "AG",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Chicória, alface, espinafre etc.",
+      "answer": "VERDURAS",
+      "row": 1,
+      "col": 3
+    },
+    "14": {
+      "clue": "O ator Gibson, de \"O Que as Mulheres Querem\"",
+      "answer": "MEL",
+      "row": 2,
+      "col": 0
+    },
+    "16": {
+      "clue": "Espécie, categoria (geralmente em tom depreciativo)",
+      "answer": "LAIA",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "As iniciais da atriz carioca Pires",
+      "answer": "GP",
+      "row": 2,
+      "col": 9
+    },
+    "18": {
+      "clue": "Que se cobriu de água",
+      "answer": "ALAGADO",
+      "row": 3,
+      "col": 0
+    },
+    "20": {
+      "clue": "Ligante que se mistura ao cimento",
+      "answer": "CAL",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Listrado",
+      "answer": "RAJADO",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Fenômeno marítimo de movimento de alta e baixa das águas",
+      "answer": "MARE",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "O de urânio é o mais pesado",
+      "answer": "ATOMO",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Elemento de fecundação das plantas",
+      "answer": "POLEN",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Boa sorte",
+      "answer": "DITA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Óleo das sementes da colza, usado em culinária",
+      "answer": "CANOLA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "A jornalista e apresentadora de TV Paula Padrão",
+      "answer": "ANA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Que se evapora facilmente",
+      "answer": "VOLATIL",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Sigla do estado de Goiás",
+      "answer": "GO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Equipe de futebol, vôlei etc.",
+      "answer": "TIME",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Abrev.: Eletrocardiograma",
+      "answer": "ECG",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "(Fig.) Pessoa irrequieta, agitada",
+      "answer": "ESPOLETA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Estão no meio do... meio",
+      "answer": "EI",
+      "row": 9,
+      "col": 9
+    },
+    "36": {
+      "clue": "Disfarçada, camuflada",
+      "answer": "MASCARADA",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Coleguismo, amizade",
+      "answer": "CAMARADAGEM",
+      "row": 0,
+      "col": 0
+    },
+    "3": {
+      "clue": "O que transforma cheiro em chaveiro",
+      "answer": "AV",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Calda grossa feita com rapadura derretida e que é servida como sobremesa",
+      "answer": "MELADO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "É retumbante no hino nacional brasileiro",
+      "answer": "BRADO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Sentimento de intolerância a alguma coisa",
+      "answer": "ODIO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Um item fundamental no endereço",
+      "answer": "RUA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Quím.) O símbolo do érbio",
+      "answer": "ER",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Conversa frívola, insistente e fastidiosa",
+      "answer": "TAGARELICE",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Dor no baço",
+      "answer": "ESPLENALGIA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Pegajosa, viscosa",
+      "answer": "GELATINOSA",
+      "row": 1,
+      "col": 1
+    },
+    "15": {
+      "clue": "Tijolo de grandes dimensões",
+      "answer": "LAJOTA",
+      "row": 2,
+      "col": 2
+    },
+    "19": {
+      "clue": "(Vasco da) Um clube do futebol carioca",
+      "answer": "GAMA",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Ato de não pagar",
+      "answer": "CALOTE",
+      "row": 3,
+      "col": 8
+    },
+    "22": {
+      "clue": "Macaca",
+      "answer": "MONA",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "Placa onde os pintores põem e misturam as tintas",
+      "answer": "PALETA",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "Matar a fome",
+      "answer": "COMER",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "A Sésamo foi uma série infantil da TV",
+      "answer": "VILA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Onomatopeia de uma batida à porta",
+      "answer": "TOC",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Abreviatura do que se acrescenta em uma carta depois da assinatura",
+      "answer": "PS",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Alexandre Dumas (1802-1870), autor de \"Os Três Mosqueteiros\"",
+      "answer": "AD",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

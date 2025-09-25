@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Suede) Ator e cantor capixaba",
+      "answer": "CHAY",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Cidade baiana, a mais ao sul do estado",
+      "answer": "MUCURI",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Peixe de água doce, também chamado papa-terra",
+      "answer": "ACARAI",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "O guarda que representa o fisco a bordo dos navios",
+      "answer": "MOR",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Prova de esqui feita em percurso sinuoso entre obstáculos",
+      "answer": "SLALOM",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Revista infantil de quadrinhos",
+      "answer": "GIBI",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Um alojamento para turistas",
+      "answer": "HOTEL",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "O aegypti é o transmissor da febre amarela urbana",
+      "answer": "AEDES",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "Elem. pref.: ombro, espádua",
+      "answer": "OMO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Na parte posterior",
+      "answer": "DETRAS",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Nós, em inglês",
+      "answer": "WE",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Cama de lona, para viagem",
+      "answer": "CATRE",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Polícia Militar",
+      "answer": "PM",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Proteção contra arrombamentos",
+      "answer": "TRANCA",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Interjeição exortativa",
+      "answer": "EIA",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Máquina de desbastar metais",
+      "answer": "FRESA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Cidade paraense da divisa com o Maranhão",
+      "answer": "VISEU",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "Questão",
+      "answer": "LIDE",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Um carro fabricado pela Nissan",
+      "answer": "SENTRA",
+      "row": 8,
+      "col": 5
+    },
+    "32": {
+      "clue": "(Pal. ingl.) No tênis, saque que o oponente não consegue rebater",
+      "answer": "ACE",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Mover-se de cima para baixo",
+      "answer": "DESCER",
+      "row": 9,
+      "col": 4
+    },
+    "34": {
+      "clue": "Tosquiada",
+      "answer": "TOSADA",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "São quatro em um maço de baralho",
+      "answer": "ASES",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Relativo ao processo químico para determinar a qualidade das soluções salinas",
+      "answer": "HALOMETRICO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Submissão e respeito",
+      "answer": "ACATO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Universidade dos EUA, em Connecticut, fundada em 1701",
+      "answer": "YALE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Museu de Arte Moderna",
+      "answer": "MAM",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Farm.) Unidades Internacionais",
+      "answer": "UI",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Pouco molhada",
+      "answer": "UMIDA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Revolucionário francês (1758-1794)",
+      "answer": "ROBESPIERRE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Arco-) Um conjunto de cores no céu",
+      "answer": "IRIS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Máquina simples para levantar pesos",
+      "answer": "ROLDANA",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "(Ingl.) Programa de variedades",
+      "answer": "SHOW",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O ator Richard, de \"Sempre ao seu Lado\"",
+      "answer": "GERE",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Transversalmente",
+      "answer": "ATRAVES",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "E assim por diante",
+      "answer": "ETC",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "A atriz carioca Regina",
+      "answer": "CASE",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Cidade paulista, próxima à capital",
+      "answer": "MAUA",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "As malhas que envolvem as traves no futebol",
+      "answer": "REDES",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Os aqui presentes",
+      "answer": "ESTES",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "(Pal. ingl.) Um tipo de apartamento para moradia",
+      "answer": "FLAT",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Um povo dos Andes",
+      "answer": "INCA",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "O mar dos ingleses",
+      "answer": "SEA",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Denis Diderot (1713-1784), filósofo francês",
+      "answer": "DD",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

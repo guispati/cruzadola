@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cidade do leste do Maranhão",
+      "answer": "ANAPURUS",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Luiz Melodia, músico de \"Pérola Negra\"",
+      "answer": "LM",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "(Farm.) Preparado gelatinoso feito com sumo de frutas e suco de carne",
+      "answer": "MIVA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O conjunto dos fenômenos da digestão",
+      "answer": "PEPSIA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Indecisão",
+      "answer": "AGONIA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "A atriz austríaca Schneider (1938-1982), de \"A Piscina\"",
+      "answer": "ROMY",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Bebê",
+      "answer": "NENEM",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Pelo saliente nos tecidos",
+      "answer": "FELPA",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "(Abrev.) Hectolitro, medida de capacidade igual a 100 litros",
+      "answer": "HL",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Varanda",
+      "answer": "EIRADO",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "O meio consumidor",
+      "answer": "MERCADO",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Estado central dos EUA, com capital Topeka",
+      "answer": "KANSAS",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Bárbara Paz, atriz e cineasta",
+      "answer": "BP",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Progresso, prosperidade",
+      "answer": "MEDRA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Cama de lona, para viagem",
+      "answer": "CATRE",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "Outro nome da cachaça",
+      "answer": "ABRE",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Cidade do RN, destino turístico",
+      "answer": "TOUROS",
+      "row": 8,
+      "col": 5
+    },
+    "32": {
+      "clue": "Aquele que deixa um local",
+      "answer": "SAIDOR",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Pop.) Indicação boa",
+      "answer": "DICA",
+      "row": 9,
+      "col": 7
+    },
+    "35": {
+      "clue": "O símbolo químico do colômbio",
+      "answer": "CB",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Antipatizar com",
+      "answer": "OJERIZAR",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Em época futura indeterminada",
+      "answer": "AMANHÃ",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O ex-piloto inglês de F1 Mansell",
+      "answer": "NIGEL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Famosa marca de cosméticos",
+      "answer": "AVON",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Parada de um motor por avaria",
+      "answer": "PANE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Recibo de Pagamento a Autônomo",
+      "answer": "RPA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "União Europeia",
+      "answer": "UE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Ingl.) Um termo usado em economia",
+      "answer": "SPREAD",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Não sujo",
+      "answer": "LIMPO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A Gabeira surfista de ondas gigantes",
+      "answer": "MAYA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Salário",
+      "answer": "SOLDO",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Coberta de água",
+      "answer": "IMERSA",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "Vidro para remédios, perfumes etc.",
+      "answer": "FRASCO",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "Palmeira de flores acinzentadas",
+      "answer": "ICA",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "A capital dos aragoneses e andaluzes",
+      "answer": "MADRI",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "O samba que é um quesito de julgamento nos desfiles de carnaval",
+      "answer": "ENREDO",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "(de Você) Um sucesso de Chico Buarque",
+      "answer": "APESAR",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "Espetinho de carne típico da Turquia",
+      "answer": "KEBAB",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Ferramenta que abre orifícios circulares",
+      "answer": "BROCA",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "O oposto de Fem",
+      "answer": "MASC",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Uma fábrica alemã de carros",
+      "answer": "AUDI",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Um quase nada",
+      "answer": "TRIZ",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Tribunal Regional Eleitoral",
+      "answer": "TRE",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Odair José, cantor",
+      "answer": "OJ",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

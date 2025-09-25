@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "O assento da moto",
+      "answer": "SELIM",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O fiscal é um comprovante de compra",
+      "answer": "CUPOM",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Tomar apontamentos",
+      "answer": "ANOTAR",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Gigante mitológico",
+      "answer": "TITÃ",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Pingo de líquido",
+      "answer": "GOTA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Trabalho, ocupação",
+      "answer": "OFICIO",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Peça em que se adapta o pneu da bike",
+      "answer": "ARO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Prova de esqui, em percurso sinuoso",
+      "answer": "SLALOM",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Zezé Motta, atriz",
+      "answer": "ZM",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "O cachorro do Franjinha, amigo da Mônica e do Cebolinha",
+      "answer": "BIDU",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Desse jeito",
+      "answer": "TAL",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Vestido com bom gosto",
+      "answer": "ELEGANTE",
+      "row": 5,
+      "col": 1
+    },
+    "27": {
+      "clue": "Chegar à conclusão",
+      "answer": "ATINAR",
+      "row": 6,
+      "col": 2
+    },
+    "28": {
+      "clue": "Torben Grael, iatista fluminense",
+      "answer": "TG",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "(Anat.) Pequena bexiga de paredes finas, preenchida por líquido",
+      "answer": "EMPOLA",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Ímpio, que não crê em Deus",
+      "answer": "ATEU",
+      "row": 7,
+      "col": 7
+    },
+    "33": {
+      "clue": "(Pimenta-do-) Uma especiaria muito usada na culinária",
+      "answer": "REINO",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Nação com capital Damasco",
+      "answer": "SIRIA",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "(Red.) Uma maneira de chamar a mãe do pai da mãe",
+      "answer": "BISA",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Equipamento que conecta computador e linha telefônica",
+      "answer": "MODEM",
+      "row": 9,
+      "col": 5
+    },
+    "37": {
+      "clue": "Sufixo feminino de ão",
+      "answer": "OA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Protestar contra ato considerado injusto",
+      "answer": "RECLAMAR",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Perspicaz",
+      "answer": "SAGAZ",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "De proporções gigantescas",
+      "answer": "ENORME",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Jogo que usa cartelas numeradas de 1 a 90",
+      "answer": "LOTO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Pedra, em tupi-guarani; forma o nome de várias cidades",
+      "answer": "ITA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Sigla do estado de Imperatriz",
+      "answer": "MA",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Que se pode aproveitar",
+      "answer": "UTIL",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Perfurações feitas no papel para permitir que sejam destacadas",
+      "answer": "PICOTE",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Muito boa",
+      "answer": "OTIMA",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "(Fig.) Promessa de casamento",
+      "answer": "MÃO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Máquina para levantar pesos",
+      "answer": "ROLDANA",
+      "row": 1,
+      "col": 5
+    },
+    "16": {
+      "clue": "O reino animal",
+      "answer": "FAUNA",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "Segredo",
+      "answer": "SIGILO",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Revestir (uma construção) com concreto",
+      "answer": "BETONAR",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "6.600 m",
+      "answer": "LEGUA",
+      "row": 4,
+      "col": 10
+    },
+    "24": {
+      "clue": "Objeto com que se desenha",
+      "answer": "LAPIS",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Enganada",
+      "answer": "TRAIDA",
+      "row": 5,
+      "col": 7
+    },
+    "26": {
+      "clue": "Uma palavra como iludir ou cumprir",
+      "answer": "VERBO",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Obstinação em algo",
+      "answer": "TEIMA",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "1/2 (fem.)",
+      "answer": "MEIA",
+      "row": 7,
+      "col": 1
+    },
+    "32": {
+      "clue": "Meio de transporte coletivo",
+      "answer": "TREM",
+      "row": 7,
+      "col": 8
+    },
+    "34": {
+      "clue": "A nota musical simbolizada pelo G",
+      "answer": "SOL",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "Mestre de Cerimônias (do nome de músicos de hip-hop, funk etc.)",
+      "answer": "MC",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

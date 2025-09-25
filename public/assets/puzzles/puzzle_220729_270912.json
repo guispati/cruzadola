@@ -1,0 +1,258 @@
+{
+  "across": {
+    "2": {
+      "clue": "Que não é límpido ou transparente",
+      "answer": "TURVO",
+      "row": 0,
+      "col": 2
+    },
+    "6": {
+      "clue": "Sigla de Global Positioning System",
+      "answer": "GPS",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Dama, no baralho",
+      "answer": "RAINHA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "(Pop.) Pessoa desconhecida ou cujo nome não se quer dizer, por alguma razão",
+      "answer": "CARA",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Meio",
+      "answer": "ALGO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Ingl.) Aposento onde se guardam roupas e apetrechos pessoais",
+      "answer": "CLOSET",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Avistar",
+      "answer": "VER",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "(Fig.) Anarquia",
+      "answer": "CAOS",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Cabelo branco",
+      "answer": "CÃ",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "O posto do oficial imediatamente inferior ao do comandante de um navio",
+      "answer": "IMEDIATICE",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Ato de tomar assento por pouco tempo",
+      "answer": "SENTADA",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Bebida alucinógena também chamada ayahuasca",
+      "answer": "SANTODAIME",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Juliana Alves, atriz carioca",
+      "answer": "JA",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Corpo vegetativo de algas e fungos",
+      "answer": "TALO",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "Ridicularizar, zombar",
+      "answer": "RIR",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Uma ferida na parede interna do estômago",
+      "answer": "ULCERA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "O esporte de Popó, Maguila e Éder Jofre",
+      "answer": "BOXE",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "Corujas, águias e cambacicas",
+      "answer": "AVES",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Dr.",
+      "answer": "DOUTOR",
+      "row": 9,
+      "col": 5
+    },
+    "34": {
+      "clue": "Uma palavra para frases negativas",
+      "answer": "NEM",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Cidade italiana famosa por seu queijo e presunto",
+      "answer": "PARMA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Bruto",
+      "answer": "BRAVIO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A fêmea de um grande felino asiático que tem o corpo listrado de negro",
+      "answer": "TIGRESA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Um carro da Fiat",
+      "answer": "UNO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Rodrigo Hilbert, modelo e apresentador",
+      "answer": "RH",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Prato típico mineiro, bastante difundido pelo Brasil",
+      "answer": "VACAATOLADA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Combustível para fogão",
+      "answer": "GAS",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Pedido de graça a Deus",
+      "answer": "PRECE",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "O príncipe dos demônios",
+      "answer": "SATÃ",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Mais adiante",
+      "answer": "ALEM",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Costurada com pontos de agulha",
+      "answer": "COSIDA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Totalmente cheio",
+      "answer": "LOTADO",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Cingir, orlar",
+      "answer": "CINTAR",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Molares, caninos e sisos",
+      "answer": "DENTES",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Nascido na capital do Egito",
+      "answer": "CAIROTA",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "(Saci) Uma entidade das nossas lendas",
+      "answer": "PERERE",
+      "row": 5,
+      "col": 10
+    },
+    "23": {
+      "clue": "Interjeição de saudação",
+      "answer": "SALVE",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Sem valor",
+      "answer": "MIXO",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "O piloto argentino Manuel Fangio (1911-1995)",
+      "answer": "JUAN",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Noventa e oito mais dois",
+      "answer": "CEM",
+      "row": 8,
+      "col": 2
+    },
+    "30": {
+      "clue": "Som de tambor",
+      "answer": "BUM",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "(Suf.) Autor",
+      "answer": "OR",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

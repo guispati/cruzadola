@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um antônimo para macho",
+      "answer": "FEMEA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Gelo, em inglês",
+      "answer": "ICE",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "H",
+      "answer": "AGA",
+      "row": 1,
+      "col": 0
+    },
+    "9": {
+      "clue": "507 em romanos",
+      "answer": "DVII",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "O hélio, para os químicos",
+      "answer": "HE",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Da região tcheca de Brno, na fronteira com a Áustria e com a Eslováquia",
+      "answer": "MORAVIO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Balcão de bebidas",
+      "answer": "BAR",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "A capital da Ucrânia",
+      "answer": "KIEV",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "A estrutura onde as abelhas depositam o mel",
+      "answer": "FAVO",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Argila modelada e cozida em forno",
+      "answer": "TERRACOTA",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "(Gregório de) Famoso poeta baiano (1623-1696)",
+      "answer": "MATOS",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "A atriz Ravache das novelas",
+      "answer": "IRENE",
+      "row": 5,
+      "col": 6
+    },
+    "21": {
+      "clue": "Calcado com os pés",
+      "answer": "PISOTEADO",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Passagem de uma representação teatral",
+      "answer": "CENA",
+      "row": 7,
+      "col": 0
+    },
+    "24": {
+      "clue": "Coisa",
+      "answer": "ENTE",
+      "row": 7,
+      "col": 5
+    },
+    "26": {
+      "clue": "Unidade física de medida de energia ou de trabalho",
+      "answer": "ERG",
+      "row": 8,
+      "col": 0
+    },
+    "27": {
+      "clue": "Pó branco tóxico",
+      "answer": "COCAINA",
+      "row": 8,
+      "col": 4
+    },
+    "29": {
+      "clue": "Giovanna Antonelli, atriz",
+      "answer": "GA",
+      "row": 9,
+      "col": 0
+    },
+    "30": {
+      "clue": "Xale feminino indiano",
+      "answer": "SARI",
+      "row": 9,
+      "col": 3
+    },
+    "31": {
+      "clue": "(Inform.) Um tipo de memória dos PCs",
+      "answer": "RAM",
+      "row": 9,
+      "col": 8
+    },
+    "32": {
+      "clue": "(Rel.) O de santo é o mesmo que babalorixá",
+      "answer": "PAI",
+      "row": 10,
+      "col": 2
+    },
+    "33": {
+      "clue": "Uma tábua para cálculos",
+      "answer": "ABACO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Alta reputação no meio em que vive",
+      "answer": "FAMA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O rabo do... morcego",
+      "answer": "EGO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Conjunto de operações que envolvem a venda de um produto",
+      "answer": "MARKETING",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Que se opõe",
+      "answer": "ADVERSO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "As vogais de vício",
+      "answer": "IIO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "(Fís.) O símbolo de Curie, unidade de atividade radiativa",
+      "answer": "CI",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O número redondo de 340",
+      "answer": "ZERO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Interjeição que indica felicitação",
+      "answer": "VIVA",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Da capital cubana",
+      "answer": "HAVANO",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Graciosa",
+      "answer": "AIROSA",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Um eletrodoméstico que se usa para fazer bolos",
+      "answer": "BATEDEIRA",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "O utensílio para retirar azeite das azeitonas",
+      "answer": "FORATA",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Casa em ruínas, tomada pelo mato",
+      "answer": "TAPERA",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "Conjunto lógico e orgânico de conhecimentos",
+      "answer": "CIENCIA",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Porcentagem de determinada substância numa mistura",
+      "answer": "TEOR",
+      "row": 6,
+      "col": 5
+    },
+    "23": {
+      "clue": "Que não vê",
+      "answer": "CEGO",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Animal parecido com o veado",
+      "answer": "GAMO",
+      "row": 7,
+      "col": 10
+    },
+    "27": {
+      "clue": "Macaco pequeno",
+      "answer": "CAI",
+      "row": 8,
+      "col": 4
+    },
+    "28": {
+      "clue": "Nacional",
+      "answer": "NAC",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Sociedade Anônima",
+      "answer": "SA",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Rajada de vento",
+      "answer": "LUFADA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Jogo de azar, com cartelas numeradas",
+      "answer": "LOTO",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "O planeta entre Saturno e Netuno",
+      "answer": "URANO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "(Pal. ingl.) Pessoa fanática por um ídolo, a quem procura imitar",
+      "answer": "COVER",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Região industrial próxima à capital paulista",
+      "answer": "ABCD",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "País com capital Bandar Seri Begauan",
+      "answer": "BRUNEI",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Peça de roupa mais usada por mulheres do que por homens",
+      "answer": "SAIA",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Fut.) Time argentino",
+      "answer": "RACING",
+      "row": 3,
+      "col": 5
+    },
+    "16": {
+      "clue": "Flor perfumada, cultivada como ornamental",
+      "answer": "NARCISO",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "O que transforma estado em escoltado",
+      "answer": "COL",
+      "row": 5,
+      "col": 0
+    },
+    "19": {
+      "clue": "Pouco mais ou menos",
+      "answer": "UNS",
+      "row": 5,
+      "col": 4
+    },
+    "20": {
+      "clue": "Uma bebida alcoólica perfumada com ingredientes aromáticos",
+      "answer": "GIM",
+      "row": 5,
+      "col": 8
+    },
+    "22": {
+      "clue": "Ruminar",
+      "answer": "RECOMER",
+      "row": 6,
+      "col": 3
+    },
+    "24": {
+      "clue": "Antigo povo mexicano",
+      "answer": "ASTECA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Em seguida a",
+      "answer": "APOS",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Narrar com os mínimos detalhes",
+      "answer": "MIUDAR",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Lista dos pratos nos restaurantes",
+      "answer": "MENU",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "O oposto de depois",
+      "answer": "ANTES",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Grande saguão",
+      "answer": "PATIO",
+      "row": 9,
+      "col": 6
+    },
+    "33": {
+      "clue": "Um macaco",
+      "answer": "SAUA",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Pôr o barco no rumo",
+      "answer": "APROAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Astros como o nosso satélite natural",
+      "answer": "LUAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Próprio da cidade",
+      "answer": "URBANO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Relativo ao rosto, à cara",
+      "answer": "FACIAL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Dar passos para diante, sem objetivo definido",
+      "answer": "ANDAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Compaixão, pena",
+      "answer": "DO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Que gosta demasiadamente ou tem forte predileção por",
+      "answer": "LOUCO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Objeto Voador Não Identificado",
+      "answer": "OVNI",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Red., ingl.) Adolescente",
+      "answer": "TEEN",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Ponto inicial",
+      "answer": "ORIGEM",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Grosseiro, como um grande erro",
+      "answer": "CRASSO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Fazer graça",
+      "answer": "BRINCAR",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Peça íntima do vestuário masculino",
+      "answer": "CUECAS",
+      "row": 4,
+      "col": 4
+    },
+    "18": {
+      "clue": "Labaredas",
+      "answer": "CHAMAS",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "O \"pai\" do Pinóquio",
+      "answer": "GEPETO",
+      "row": 5,
+      "col": 8
+    },
+    "21": {
+      "clue": "Comentário ou afirmação sarcástica",
+      "answer": "IRONIA",
+      "row": 5,
+      "col": 9
+    },
+    "22": {
+      "clue": "A peça que guia a cavalgadura",
+      "answer": "REDEA",
+      "row": 6,
+      "col": 3
+    },
+    "23": {
+      "clue": "(Pop.) Encher a cara, beber muito",
+      "answer": "MAMAR",
+      "row": 6,
+      "col": 7
+    },
+    "25": {
+      "clue": "Destino, sorte",
+      "answer": "SINA",
+      "row": 7,
+      "col": 1
+    },
+    "26": {
+      "clue": "Prato muito apreciado à mineira",
+      "answer": "TUTU",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "(Fig.) Resultado de grandes esforços",
+      "answer": "SUOR",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "Vitamina contida no lêvedo, no trigo, na carne etc.",
+      "answer": "PP",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

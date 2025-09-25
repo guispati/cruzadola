@@ -1,0 +1,240 @@
+{
+  "across": {
+    "1": {
+      "clue": "Saída de banho",
+      "answer": "CANGA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O cineasta George, de \"Guerra nas Estrelas\" e \"Indiana Jones\"",
+      "answer": "LUCAS",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Eco cujo som é repetido sete vezes",
+      "answer": "HEPTAFONE",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Conjunto de folhas ou tábuas finas, que formam revestimento de madeira",
+      "answer": "BOANA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Um secador doméstico",
+      "answer": "VARAL",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Renunciar a",
+      "answer": "ABNEGAR",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Um clube de futebol holandês",
+      "answer": "PSV",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Um alucinógeno perigoso",
+      "answer": "LSD",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Fécula muito usada em alimentação",
+      "answer": "ARARUTA",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Atenciosa, zelosa",
+      "answer": "CUIDADOSA",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "A mim",
+      "answer": "ME",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Pontos onde se queimam as chamas no fogão",
+      "answer": "BOCAS",
+      "row": 6,
+      "col": 3
+    },
+    "24": {
+      "clue": "As consoantes de caju",
+      "answer": "CJ",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "A parte da flor que contém os grãos de pólen",
+      "answer": "ANTERA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Vasilha própria para tomar o mate",
+      "answer": "CUIA",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Porta, em Washington",
+      "answer": "DOOR",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Insistir, mesmo sem razão",
+      "answer": "TEIMAR",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Misturada com água",
+      "answer": "DILUIDA",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "O Asimov (1920-1992) de \"Eu, Robô\"",
+      "answer": "ISAAC",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Pessoa muito parecida a outra",
+      "answer": "SOSIA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Pleno",
+      "answer": "CABAL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Outro nome da ema",
+      "answer": "NHANDU",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Unidade fundamental que transmite os caracteres hereditários",
+      "answer": "GENE",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Limpa o giz do quadro-negro",
+      "answer": "APAGADOR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Lavoura",
+      "answer": "LAVRADA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Até que enfim!",
+      "answer": "UFA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Christi) Uma data religiosa",
+      "answer": "CORPUS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Desenho de animação (1997) baseado na vida de uma princesa russa",
+      "answer": "ANASTACIA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Floresta virgem",
+      "answer": "SELVA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Que choca pela vulgaridade",
+      "answer": "OBSCENO",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Cidade baiana próxima a Vitória da Conquista",
+      "answer": "ARACATU",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Que tem a presença de orvalho",
+      "answer": "ROSCIDO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Uma companhia aérea espanhola",
+      "answer": "IBERIA",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Capital europeia onde se fala o espanhol",
+      "answer": "MADRI",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Medida inglesa de comprimento, equivalente a 0,914 m",
+      "answer": "JARDA",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Completa, total",
+      "answer": "TODA",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Pouco mais ou menos (fem.)",
+      "answer": "UMAS",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Aqui está!",
+      "answer": "EIS",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Letra de Câmbio",
+      "answer": "LC",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

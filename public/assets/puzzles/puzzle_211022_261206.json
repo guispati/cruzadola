@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Fazer alarde",
+      "answer": "OSTENTAR",
+      "row": 0,
+      "col": 1
+    },
+    "8": {
+      "clue": "Questão judicial",
+      "answer": "PLEITO",
+      "row": 1,
+      "col": 0
+    },
+    "9": {
+      "clue": "Segurança",
+      "answer": "SEG",
+      "row": 1,
+      "col": 7
+    },
+    "11": {
+      "clue": "O estado de Columbus, nos EUA",
+      "answer": "OHIO",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "(Pop.) Bater, surrar",
+      "answer": "TASCAR",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "O Verstappen piloto holandês da F1",
+      "answer": "MAX",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "O filho da baleia",
+      "answer": "BALEOTE",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Arte de falar em público",
+      "answer": "ORATORIA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Pontas de oeste",
+      "answer": "OE",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "Antecede Dom",
+      "answer": "SAB",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "Opção em prova de múltipla escolha",
+      "answer": "NDA",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Interjeição de surpresa",
+      "answer": "OH",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Calor sufocante somado a alta umidade e nebulosidade que ocorre geralmente no verão",
+      "answer": "BOCHORNO",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "(Quím.) O elemento Ru",
+      "answer": "RUTENIO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Dicionário",
+      "answer": "DIC",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Relativo à vista",
+      "answer": "OCULAR",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Não grossa",
+      "answer": "FINA",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Marca coreana de carros",
+      "answer": "KIA",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "Trabalhar pelos interesses de alguém",
+      "answer": "CUIDAR",
+      "row": 9,
+      "col": 5
+    },
+    "36": {
+      "clue": "(a asa) Paquerar",
+      "answer": "ARRASTAR",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Examinar, observar para poder depois julgar",
+      "answer": "OLHAR",
+      "row": 0,
+      "col": 1
+    },
+    "2": {
+      "clue": "O Raul (1945-1989), de \"Maluco Beleza\"",
+      "answer": "SEIXAS",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Um membro da família",
+      "answer": "TIO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Um famoso extraterrestre do cinema",
+      "answer": "ET",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Observar, considerar",
+      "answer": "NOTAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Limpo",
+      "answer": "ASSEADO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Recruta",
+      "answer": "RECO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Tomate, em italiano",
+      "answer": "POMODORO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Um bicho como Garfield",
+      "answer": "GATO",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Qualidade do que é feito com apuro",
+      "answer": "ALINHO",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Voltar, com saudade, coisas do passado",
+      "answer": "REEVOCAR",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Bobalhona",
+      "answer": "BOBONA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "No futebol, fazer troca de passes entre dois jogadores",
+      "answer": "TABELAR",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Diz-se da pimenta que queima",
+      "answer": "ARDIDA",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "O apresentador de TV Luciano",
+      "answer": "HUCK",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "(Adv. lat.) Aproximadamente, por volta de",
+      "answer": "CIRCA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Adormecer uma criança ao som de cantigas",
+      "answer": "NINAR",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Planta de cerca viva",
+      "answer": "TUIA",
+      "row": 7,
+      "col": 2
+    },
+    "32": {
+      "clue": "Um carro da Honda",
+      "answer": "FIT",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "(Open) Torneio de tênis realizado em NY",
+      "answer": "US",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

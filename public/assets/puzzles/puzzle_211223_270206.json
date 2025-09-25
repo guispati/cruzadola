@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "O bairro recifense do estádio de futebol do Náutico",
+      "answer": "AFLITOS",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Termo bancário",
+      "answer": "TED",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O Papai personagem das festas natalinas",
+      "answer": "NOEL",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Corte de ramos de plantas",
+      "answer": "PODA",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Um dos times de futebol do Grenal",
+      "answer": "INTER",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Pô, colocar",
+      "answer": "METER",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "O trabalho de triturar até reduzir a pó (café, por exemplo)",
+      "answer": "MOAGEM",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "(Pop.) Em uns",
+      "answer": "NUNS",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Bicho que anda pelas paredes à cata de insetos",
+      "answer": "LAGARTIXA",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Instituto de Cardiologia",
+      "answer": "IC",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "O tipo de cerveja mais consumido do mundo",
+      "answer": "LAGER",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "(Quím.) O símbolo do alumínio",
+      "answer": "AL",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "(Salvador) A capital de El Salvador",
+      "answer": "SAN",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Imergir em água fervida com cinzas, para lavagem de tecidos",
+      "answer": "DECOAR",
+      "row": 6,
+      "col": 4
+    },
+    "29": {
+      "clue": "Ato de separar de uma substância os elementos que lhe são estranhos",
+      "answer": "REFINO",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "(Ingl.) Abreviatura de uma forma de jazz",
+      "answer": "BOP",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "Uma uva para vinhos",
+      "answer": "MERLOT",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Um modelo de carro",
+      "answer": "CUPE",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "Doce de creme e bolachas",
+      "answer": "PAVE",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "(de Você) Um sucesso de Chico Buarque",
+      "answer": "APESAR",
+      "row": 9,
+      "col": 5
+    },
+    "38": {
+      "clue": "Pincel grande e grosso",
+      "answer": "BROXA",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "A cantora carioca Purim",
+      "answer": "FLORA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Baleias, camelos e lagartos",
+      "answer": "ANIMAIS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Red.) Terapeuta da voz e da fala",
+      "answer": "FONO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Mortal",
+      "answer": "LETAL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Proibido por lei",
+      "answer": "ILEGAL",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "As iniciais do ator Prado",
+      "answer": "OP",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Onda captada pela audição",
+      "answer": "SOM",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Animal das praias, onde cava pequenos buracos",
+      "answer": "TATUI",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Relativo às costas",
+      "answer": "DORSAL",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "No interior",
+      "answer": "DENTRO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Que se pode aguar, molhar, umedecer",
+      "answer": "REGADIO",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Tornar muito doce",
+      "answer": "ENXAROPAR",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Tom muito vivo de vermelho",
+      "answer": "MAGENTA",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Homem que presta serviço militar",
+      "answer": "RECO",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Ter atração, granjear",
+      "answer": "CAREAR",
+      "row": 5,
+      "col": 1
+    },
+    "26": {
+      "clue": "(Fig.) Ponto delicado ou sensível",
+      "answer": "NERVO",
+      "row": 6,
+      "col": 2
+    },
+    "28": {
+      "clue": "Excesso, na bebida, na comida, no poder",
+      "answer": "ABUSO",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "Diz-se do carro a álcool e/ou gasolina",
+      "answer": "FLEX",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "Interruptor elétrico em forma de pêndulo",
+      "answer": "PERA",
+      "row": 7,
+      "col": 10
+    },
+    "33": {
+      "clue": "Estilo musical",
+      "answer": "MPB",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Abrev.: coronel",
+      "answer": "CEL",
+      "row": 8,
+      "col": 7
+    },
+    "37": {
+      "clue": "Prato Feito",
+      "answer": "PF",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

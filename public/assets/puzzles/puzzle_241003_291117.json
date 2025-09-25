@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Trabalho, em inglês",
+      "answer": "WORK",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Tentos",
+      "answer": "GOLS",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "A movediça é uma massa mineral de pouca resistência a pressões",
+      "answer": "AREIA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Obstrução da laringe, que pode levar à asfixia",
+      "answer": "CRUPE",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Rachar-se em ziguezagues, como o andar de certo réptil",
+      "answer": "LAGARTEAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Pedra, em tupi-guarani",
+      "answer": "ITA",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Um time do futebol português",
+      "answer": "BENFICA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Terapia Ocupacional",
+      "answer": "TO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Fosco, sem brilho",
+      "answer": "MORTIÇO",
+      "row": 4,
+      "col": 3
+    },
+    "19": {
+      "clue": "Instalar (uma tenda, barraca etc.)",
+      "answer": "ARMAR",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Inform.) Imagem de um arquivo de programa executável",
+      "answer": "ICONE",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Prática de navegação em barcos a vela",
+      "answer": "IATISMO",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Campos Salles (1841-1913), presidente do Brasil",
+      "answer": "CS",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Sócio de empresa de responsabilidade limitada",
+      "answer": "COTISTA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Garrafa para refri",
+      "answer": "PET",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Vedado, parado",
+      "answer": "ESTANCADO",
+      "row": 8,
+      "col": 2
+    },
+    "30": {
+      "clue": "Quadro usado nas escolas",
+      "answer": "LOUSA",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "A véspera de hoje",
+      "answer": "ONTEM",
+      "row": 9,
+      "col": 6
+    },
+    "33": {
+      "clue": "Monografia",
+      "answer": "TESE",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Amaz.) Ninfa dos igarapés",
+      "answer": "IARA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Famosa marca de eletrodomésticos",
+      "answer": "WALITA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Objeto que guarda imagens religiosas",
+      "answer": "ORATORIO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Chuva",
+      "answer": "REGA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A marca dos carros Picanto e Soul",
+      "answer": "KIA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Profissional de oficina de jornais, livros e revistas",
+      "answer": "GRAFICO",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "(-do-mar) Invertebrado em forma de disco, também chamado pindá",
+      "answer": "OURIÇO",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Luana Piovani, atriz",
+      "answer": "LP",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Sinal em forma de flecha",
+      "answer": "SETA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Aquele que cultiva árvores",
+      "answer": "ARBORISTA",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Um gigante monstruoso da mitologia grega",
+      "answer": "CENTIMANO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Ser provido de",
+      "answer": "TER",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Permitir, facultar",
+      "answer": "CONCEDER",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "O pintor francês Henri (1869-1954), do fauvismo",
+      "answer": "MATISSE",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "O ator Solano",
+      "answer": "MATEUS",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "(Bot.) Abertura entre as células epidérmicas das folhas",
+      "answer": "ESTOMA",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "Santa",
+      "answer": "STA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "(Ingl.) Venerado nas artes",
+      "answer": "CULT",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Pé do gato",
+      "answer": "PATA",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Confederação Nacional da Indústria",
+      "answer": "CNI",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "Oersted",
+      "answer": "OE",
+      "row": 9,
+      "col": 1
+    }
+  }
+}

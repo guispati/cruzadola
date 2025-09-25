@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "Todavia",
+      "answer": "POREM",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Constituída por dois ou mais elementos diferentes",
+      "answer": "MISTA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Frondoso",
+      "answer": "RAMADO",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Estojo com conjunto de utensílios",
+      "answer": "KIT",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Monte de areia grossa de rio",
+      "answer": "SAIBRADA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Forma átona do pronome eu",
+      "answer": "ME",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "(Fig.) Pessoa a que o pensamento ou a ação é dirigida",
+      "answer": "ALVO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Ir de cima para baixo",
+      "answer": "DESCER",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Insuficiente às necessidades",
+      "answer": "ESCASSO",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "O ruído de quem dorme",
+      "answer": "RONCO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Recipiente para armazenar cereais",
+      "answer": "TULHA",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Semelhante a certo pó branco usado em cosmética",
+      "answer": "TALCOSO",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "O escritor russo Dostoievski (1821-1881)",
+      "answer": "FIODOR",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Juízo, siso",
+      "answer": "TINO",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Anselmo Duarte, ator e cineasta paulistano",
+      "answer": "AD",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Delator",
+      "answer": "ACUSADOR",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "O número das camisas de Maradona e Pelé",
+      "answer": "DEZ",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Coalhar (o leite)",
+      "answer": "AZEDAR",
+      "row": 9,
+      "col": 4
+    },
+    "35": {
+      "clue": "Que tem um tom entre o acastanhado e o amarelado",
+      "answer": "AMBAR",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Girar (como uma bola)",
+      "answer": "ROLAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Da boca, relativo à boca",
+      "answer": "ORAL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Muito irritado",
+      "answer": "RAIVENTO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Tocaia",
+      "answer": "EMBOSCADA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Extensão de água menor que o oceano",
+      "answer": "MAR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Isento de vaidade",
+      "answer": "MODESTO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Stanley Kubrick, cineasta de \"Laranja Mecânica\"",
+      "answer": "SK",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Quadro de futebol",
+      "answer": "TIME",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Que incute grande pavor",
+      "answer": "ATERRADOR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Maravilha) Um artilheiro do futebol brasileiro",
+      "answer": "DADA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Paulada",
+      "answer": "SARRAFADA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Que está com medo",
+      "answer": "ASSUSTADO",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "Gelatinoso",
+      "answer": "COLOIDAL",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Depositar, pôr",
+      "answer": "COLOCAR",
+      "row": 4,
+      "col": 4
+    },
+    "24": {
+      "clue": "O instrumento de tortura que remete a Jesus Cristo",
+      "answer": "CRUZ",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Termo usado para evitar repetições",
+      "answer": "IDEM",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "A esposa do filho",
+      "answer": "NORA",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "O que existe",
+      "answer": "SER",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Zeca Baleiro, músico",
+      "answer": "ZB",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

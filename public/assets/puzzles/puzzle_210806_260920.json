@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Decência",
+      "answer": "PUDOR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Índio selvagem, bravio",
+      "answer": "BUGRE",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Nascido no Novo Mundo",
+      "answer": "AMERICANO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Os símbolos usados nas operações matemáticas",
+      "answer": "SINAIS",
+      "row": 2,
+      "col": 2
+    },
+    "13": {
+      "clue": "As iniciais do ator Castro",
+      "answer": "CC",
+      "row": 2,
+      "col": 9
+    },
+    "14": {
+      "clue": "Peça para canja",
+      "answer": "SOPEIRA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Som de ave",
+      "answer": "PIO",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Qualquer tira que cinge alguma coisa",
+      "answer": "CINTA",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "Invólucro para azeite, sardinhas etc.",
+      "answer": "LATA",
+      "row": 4,
+      "col": 7
+    },
+    "19": {
+      "clue": "(Fig.) Perder a cabeça",
+      "answer": "DESTEMPERAR",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Embarcação de recreio",
+      "answer": "IATE",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "Pôr ovos",
+      "answer": "BOTAR",
+      "row": 6,
+      "col": 5
+    },
+    "23": {
+      "clue": "A letra do nitrogênio",
+      "answer": "ENE",
+      "row": 7,
+      "col": 0
+    },
+    "24": {
+      "clue": "Associar",
+      "answer": "COLIGAR",
+      "row": 7,
+      "col": 4
+    },
+    "26": {
+      "clue": "Abandonado, sem outra companhia",
+      "answer": "SO",
+      "row": 8,
+      "col": 0
+    },
+    "27": {
+      "clue": "Uma parte da flor",
+      "answer": "CALICE",
+      "row": 8,
+      "col": 3
+    },
+    "28": {
+      "clue": "Pequena quantidade de alguma coisa",
+      "answer": "BOCADINHO",
+      "row": 9,
+      "col": 2
+    },
+    "30": {
+      "clue": "Molusco encontrado em lugares úmidos",
+      "answer": "LESMA",
+      "row": 10,
+      "col": 0
+    },
+    "31": {
+      "clue": "O maior do mundo é o Tafilalet, e fica em Marrocos",
+      "answer": "OASIS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Naipe preto",
+      "answer": "PAUS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A soma de duas metades",
+      "answer": "UM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Disfarce, artifício",
+      "answer": "DESPISTE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O lado do globo onde ficam Mongólia e Laos",
+      "answer": "ORIENTE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Incômoda inflamação da mucosa nasal",
+      "answer": "RINITE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Ambiente separado por divisórias, em laboratórios de análises clínicas, escritórios etc.",
+      "answer": "BAIA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Certos",
+      "answer": "UNS",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Sigla do estado de Goiânia",
+      "answer": "GO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Fazer um líquido correr devagar",
+      "answer": "ESCOAR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Fruto alimentício de uma pequena árvore ornamental",
+      "answer": "CARAMBOLA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Antigo instrumento musical de cordas, símbolo da poesia",
+      "answer": "CITARA",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "O Atlântico banha Angola, Cuba e França",
+      "answer": "OCEANO",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Regiões nas cercanias do lugar em que se está",
+      "answer": "PARAGENS",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "A atriz carioca Spiller",
+      "answer": "LETICIA",
+      "row": 4,
+      "col": 7
+    },
+    "19": {
+      "clue": "Combustível para transporte pesado",
+      "answer": "DIESEL",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Brilhante, envernizado",
+      "answer": "POLIDO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "(Pop.) Porcaria, coisa ruim",
+      "answer": "CACA",
+      "row": 7,
+      "col": 4
+    },
+    "25": {
+      "clue": "O Sena e o Tâmisa cortam grandes cidades europeias",
+      "answer": "RIOS",
+      "row": 7,
+      "col": 10
+    },
+    "27": {
+      "clue": "(Net) Sufixo para empresas comerciais",
+      "answer": "COM",
+      "row": 8,
+      "col": 3
+    },
+    "28": {
+      "clue": "Bruno Soares, tenista",
+      "answer": "BS",
+      "row": 9,
+      "col": 2
+    },
+    "29": {
+      "clue": "O oi inglês",
+      "answer": "HI",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

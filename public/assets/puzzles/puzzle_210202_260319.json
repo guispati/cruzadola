@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Instituição que abriga pessoas desamparadas",
+      "answer": "ASILO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Machado de) O autor de \"Quincas Borba\"",
+      "answer": "ASSIS",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Um vizinho da Terra",
+      "answer": "VENUS",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Voz de muitas aves",
+      "answer": "PIADO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Aquela lá",
+      "answer": "ESSA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Um tipo de protetor",
+      "answer": "LABIAL",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Santo",
+      "answer": "STO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Diz-se do dente que precisa de obturação",
+      "answer": "CARIADO",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Que pode ter melhoradas as condições higiênicas (ambiente)",
+      "answer": "SANEAVEL",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Sacudir o pó de",
+      "answer": "ESPANAR",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Sentido contrário ao movimento que se inicia ou executa",
+      "answer": "CONTRAPE",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Dança ritual de origem africana, acompanhada por percussão",
+      "answer": "JEGUEDE",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "O silvestre é produzido no mato e não em colmeias preparadas",
+      "answer": "MEL",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Estado de insensibilidade às emoções",
+      "answer": "APATIA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "(de Deus) Famoso pico da serra dos Órgãos, no RJ",
+      "answer": "DEDO",
+      "row": 8,
+      "col": 7
+    },
+    "30": {
+      "clue": "Determinar um preço",
+      "answer": "COTAR",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Um líquido que age na digestão dos alimentos",
+      "answer": "BILIS",
+      "row": 9,
+      "col": 6
+    },
+    "32": {
+      "clue": "Armação para exposição de roupas em lojas",
+      "answer": "ARARA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "O maior deserto da Terra",
+      "answer": "SAARA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O oposto ao lado correto",
+      "answer": "AVESSO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Repouso após o almoço",
+      "answer": "SESTA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Que não consegue dormir",
+      "answer": "INSONE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "É moon para os ingleses",
+      "answer": "LUA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Artigo (plural)",
+      "answer": "OS",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Evidente, claro",
+      "answer": "APARENTE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Assobiar como as cobras",
+      "answer": "SIBILAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Vestuário feminino, da cintura para baixo",
+      "answer": "SAIA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "A soma dos anos de uma pessoa",
+      "answer": "IDADE",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "(Mús.) Executado por apenas uma pessoa",
+      "answer": "SOLO",
+      "row": 0,
+      "col": 10
+    },
+    "14": {
+      "clue": "Planta cuja essência é usada em cosmética",
+      "answer": "LAVANDA",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Espécie de luta ao som de cantigas e berimbau, pandeiro etc.",
+      "answer": "CAPOEIRA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Ouvir",
+      "answer": "ESCUTAR",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Humor viscoso dos olhos",
+      "answer": "RAMELA",
+      "row": 5,
+      "col": 8
+    },
+    "21": {
+      "clue": "(Fig. fem.) Sentimental demais, piegas",
+      "answer": "MELOSA",
+      "row": 5,
+      "col": 10
+    },
+    "22": {
+      "clue": "Testemunhar em âmbito jurídico",
+      "answer": "DEPOR",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Solicitar (prazo, informações, conselhos etc.)",
+      "answer": "PEDIR",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Uma fruta bem grande, em gomos",
+      "answer": "JACA",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "A borralheira é a heroína de um conto de Perrault",
+      "answer": "GATA",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "24 horas",
+      "answer": "DIA",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "Britney Spears, cantora",
+      "answer": "BS",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

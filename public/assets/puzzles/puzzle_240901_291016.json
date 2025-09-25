@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Formiga amazônica de picada muito dolorosa",
+      "answer": "TOCANDIRA",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Antonio Tabet, humorista do \"Porta dos Fundos\"",
+      "answer": "AT",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Atriz de \"Espanglês\" e \"Fale com Ela\"",
+      "answer": "PAZVEGA",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Dinheiro miúdo, quantia insignificante",
+      "answer": "BICOS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Parte da roupa que está junto ao pescoço",
+      "answer": "GOLA",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Juntar macho e fêmea para procriar",
+      "answer": "ACASALAR",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "G",
+      "answer": "GE",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "O pintor holandês Vermeer (1632-1675)",
+      "answer": "JAN",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Aquele que desbasta",
+      "answer": "LIMADOR",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "Cidade litorânea baiana próxima a Itabuna",
+      "answer": "ITACARE",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Utensílio para fragmentar queijo",
+      "answer": "RALADOR",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Cachorro, em inglês",
+      "answer": "DOG",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "(Quím.) Prata",
+      "answer": "AG",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Pop.) Distraído, desatento",
+      "answer": "FORADOAR",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "(Ingl.) Endereço na internet",
+      "answer": "SITE",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Senhora) Um sucesso de Roberto Carlos",
+      "answer": "NOSSA",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Muito carregado na cor",
+      "answer": "RETINTO",
+      "row": 9,
+      "col": 1
+    },
+    "38": {
+      "clue": "As iniciais da atriz Fillardis",
+      "answer": "IF",
+      "row": 9,
+      "col": 9
+    },
+    "39": {
+      "clue": "Que guarda ódio",
+      "answer": "RANCOROSO",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Povo indígena do Ceará e do Maranhão",
+      "answer": "TABAJARAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Loja que vende óculos",
+      "answer": "OTICA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O contrário de antes",
+      "answer": "APOS",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Fanhoso",
+      "answer": "NASALADO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Abreviatura de dúzia",
+      "answer": "DZ",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "4, em romanos",
+      "answer": "IV",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Regular, comedir",
+      "answer": "REGRAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Uma forma de abreviar o nome do oitavo mês do ano",
+      "answer": "AGO",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "Até certo ponto",
+      "answer": "ALGO",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Lugar de criação de pastores",
+      "answer": "CANIL",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Aparelho para espargir tinta sobre uma superfície",
+      "answer": "AEROGRAFO",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Uma bebida como o Amarula",
+      "answer": "LICOR",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Planta ornamental, de flores aveludadas",
+      "answer": "AMARANTO",
+      "row": 3,
+      "col": 6
+    },
+    "22": {
+      "clue": "(Cheio de) Diz-se de quem faz muitas cerimônias",
+      "answer": "DEDOS",
+      "row": 4,
+      "col": 8
+    },
+    "24": {
+      "clue": "Tecido leve de seda",
+      "answer": "TAFETA",
+      "row": 5,
+      "col": 3
+    },
+    "26": {
+      "clue": "Ter efeito",
+      "answer": "AGIR",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Região de terra fértil em um deserto",
+      "answer": "OASIS",
+      "row": 6,
+      "col": 9
+    },
+    "31": {
+      "clue": "(Ingl.) Porta",
+      "answer": "DOOR",
+      "row": 7,
+      "col": 7
+    },
+    "33": {
+      "clue": "Sentir",
+      "answer": "TER",
+      "row": 8,
+      "col": 2
+    },
+    "36": {
+      "clue": "Instituto de Neurologia",
+      "answer": "IN",
+      "row": 9,
+      "col": 4
+    },
+    "37": {
+      "clue": "Nana Caymmi, cantora",
+      "answer": "NC",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

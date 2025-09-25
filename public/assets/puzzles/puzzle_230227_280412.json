@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cada saliência dos flancos",
+      "answer": "ANCA",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "Um dos ritmos musicais mais difundidos no mundo",
+      "answer": "ROCK",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Interjeição de incredulidade e desprezo ou resignação",
+      "answer": "BAH",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Pacote promocional de produtos",
+      "answer": "COMBO",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Uma essência para balas e licores",
+      "answer": "ANIS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Mãe, nos EUA",
+      "answer": "MOTHER",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Espécime de árvore cultivada como ornamental",
+      "answer": "CONIFERA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Um apelido para Beatriz",
+      "answer": "BI",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Quebrar, financeiramente",
+      "answer": "FALIR",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Palavra que coordena duas proposições negativas",
+      "answer": "NEM",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "Sufixo aumentativo",
+      "answer": "ORRA",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Ave de bico muito longo e recurvo",
+      "answer": "IBIS",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Sigla da liga de basquete profissional dos EUA",
+      "answer": "NBA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Região da França, com grande produção de vinhos típicos",
+      "answer": "MEDOC",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "Símbolo de elétron-volt, unidade de energia",
+      "answer": "EV",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Quem sente ódio por estrangeiros",
+      "answer": "XENOFOBO",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Um óleo purgativo",
+      "answer": "RICINO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Bíbl.) Renunciou, por gulodice, à primogenitura",
+      "answer": "ESAU",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Uma antiga empresa aérea nacional",
+      "answer": "VARIG",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Indústria",
+      "answer": "IND",
+      "row": 9,
+      "col": 8
+    },
+    "35": {
+      "clue": "Fazem o transporte de dados",
+      "answer": "FIOS",
+      "row": 10,
+      "col": 2
+    },
+    "36": {
+      "clue": "Os beques",
+      "answer": "ZAGA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Uma tábua para cálculos",
+      "answer": "ABACO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Elemento de composição: muito pequeno",
+      "answer": "NANO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Pop.) Barato, curtição",
+      "answer": "CHINFRA",
+      "row": 0,
+      "col": 2
+    },
+    "5": {
+      "clue": "Acontecido por acaso",
+      "answer": "OCORRIDO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Número ou símbolo usado para classificar as peças de um processo",
+      "answer": "COTA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Quilômetros por hora",
+      "answer": "KMH",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Pano usado em roupa branca",
+      "answer": "MORIM",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Líquidos ingeridos em festas",
+      "answer": "BEBES",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Fechar as asas (a ave), para descer mais depressa",
+      "answer": "SIAR",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Tipo de firma",
+      "answer": "MEI",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Uma das três línguas oficiais da Bélgica",
+      "answer": "FLAMENGO",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "A capital do Chipre, ilha do Mediterrâneo",
+      "answer": "NICOSIA",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "Evidente, lógico (fem.)",
+      "answer": "OBVIA",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Uma gíria para homem bonito",
+      "answer": "BOFE",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "O óptico transporta para o cérebro as informações visuais da retina",
+      "answer": "NERVO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Prefixo: vinho",
+      "answer": "ENO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Um queijo holandês",
+      "answer": "GOUDA",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "Treze, em algarismos romanos",
+      "answer": "XIII",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "O barulho do disparo de um revólver",
+      "answer": "BANG",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Sigla do Flamengo",
+      "answer": "CRF",
+      "row": 8,
+      "col": 2
+    }
+  }
+}

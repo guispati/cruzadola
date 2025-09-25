@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Órgão da visão",
+      "answer": "OLHO",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "Um personagem dos quadrinhos que adora espinafre",
+      "answer": "POPEYE",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Dígitos que indicam um endereço postal",
+      "answer": "CEP",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Amassar ou moer em certa ferramenta para esse fim",
+      "answer": "PILAR",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Abreviatura de ultravioleta, raio solar",
+      "answer": "UV",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "Prender temporariamente para investigação",
+      "answer": "DETER",
+      "row": 2,
+      "col": 3
+    },
+    "13": {
+      "clue": "Uma multinacional do ramo automobilístico",
+      "answer": "GM",
+      "row": 2,
+      "col": 9
+    },
+    "14": {
+      "clue": "Fruto muito apreciado em saladas",
+      "answer": "PEPINO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Pode ser calculada em m², cm² etc.",
+      "answer": "AREA",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Poupança",
+      "answer": "ECONOMIA",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Têm muitas posses e dinheiro",
+      "answer": "RICOS",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "A doença produzida pelo bacilo de Hansen",
+      "answer": "LEPRA",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Diz-se de uma canção como \"Noite Feliz\"",
+      "answer": "NATALINA",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Solução administrada para hidratar um doente",
+      "answer": "SORO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "O oposto de sair",
+      "answer": "ENTRAR",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "Abreviatura de exemplo",
+      "answer": "EX",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "O Novo é o continente americano",
+      "answer": "MUNDO",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Quociente Intelectual",
+      "answer": "QI",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Com mais de um elemento diferente (fem.)",
+      "answer": "MISTA",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Vértebra de animal usada em culinária",
+      "answer": "SUÃ",
+      "row": 9,
+      "col": 8
+    },
+    "35": {
+      "clue": "Mão só tem uma",
+      "answer": "SILABA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Conjunto ou grupo de três pessoas",
+      "answer": "TRIO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Invadir, dominar",
+      "answer": "OCUPAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O oposto de pesado",
+      "answer": "LEVE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Ingl.) Abreviatura de cavalo-vapor, unidade de potência de motores",
+      "answer": "HP",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Grande serpente com até 8,5 m de comprimento",
+      "answer": "PITON",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "Certa dança espanhola e sua música",
+      "answer": "OLE",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Enfeite",
+      "answer": "PARAMENTO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "A 2ª desinência verbal",
+      "answer": "ER",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Abreviatura de excelentíssima",
+      "answer": "EXMA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "(Gír.) Galinha, especialmente magra",
+      "answer": "PENOSA",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Princípio que afirma a existência de dois elementos essenciais, o corpo e a alma, na constituição do ser humano",
+      "answer": "DICOTOMIA",
+      "row": 2,
+      "col": 3
+    },
+    "13": {
+      "clue": "Baixar excessivamente (a temperatura)",
+      "answer": "GEAR",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "(Rel.) Transgredir a ordem moral",
+      "answer": "PECAR",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "(Pop.) Espancar",
+      "answer": "RIPAR",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "A primeira capital pernambucana",
+      "answer": "OLINDA",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Aço que não oxida",
+      "answer": "INOX",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Folhas que se comem como salada",
+      "answer": "AGRIÃO",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Demorada como a tartaruga",
+      "answer": "LENTA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "13-7",
+      "answer": "SEIS",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Neste lugar",
+      "answer": "AQUI",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "(Inform., ingl.) Abreviatura de Universal Serial Bus",
+      "answer": "USB",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Abreviatura de mililitro",
+      "answer": "ML",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Samuel Rosa, músico do \"Skank\"",
+      "answer": "SR",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

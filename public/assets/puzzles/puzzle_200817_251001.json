@@ -1,0 +1,96 @@
+{
+  "across": {
+    "1": {
+      "clue": "O \"canhotinha de ouro\", ídolo do Fluminense",
+      "answer": "GERSON",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "O apelido do espanhol que é o técnico do Flamengo",
+      "answer": "DOME",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "O Lamartine (1904-1963), autor de vários hinos dos clubes do futebol carioca",
+      "answer": "BABO",
+      "row": 2,
+      "col": 0
+    },
+    "7": {
+      "clue": "(Del Cima) O estádio do Campo Grande Atlético Clube",
+      "answer": "ITALO",
+      "row": 4,
+      "col": 1
+    },
+    "8": {
+      "clue": "As iniciais do atacante Henrique, vice-artilheiro do Brasileirão 2019",
+      "answer": "BH",
+      "row": 4,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Rubro-) As cores do Mengão",
+      "answer": "NEGRO",
+      "row": 5,
+      "col": 5
+    },
+    "12": {
+      "clue": "(Vasco da) Navegador e explorador português que emprestou seu nome ao time fundado em 1898",
+      "answer": "GAMA",
+      "row": 7,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Red.) Time que disputa um tradicional derby do futebol carioca",
+      "answer": "FLU",
+      "row": 7,
+      "col": 5
+    },
+    "14": {
+      "clue": "Ex-lateral esquerdo, ídolo do Flamengo e da seleção brasileira, atual comentarista de TV",
+      "answer": "JUNIOR",
+      "row": 9,
+      "col": 0
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "O estádio do Vasco",
+      "answer": "SÃOJANUARIO",
+      "row": 0,
+      "col": 3
+    },
+    "3": {
+      "clue": "O Santos (1925-2013), a \"Enciclopédia\", ícone botafoguense; participou de quatro Copas do Mundo",
+      "answer": "NILTON",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "O estádio do Bangu, inaugurado em 1948, com uma vitória de 4 x 2 sobre o Flamengo",
+      "answer": "MOÇABONITA",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "O Renato, ídolo do futebol carioca e brasileiro, autor de um famoso gol de barriga",
+      "answer": "GAUCHO",
+      "row": 5,
+      "col": 7
+    },
+    "11": {
+      "clue": "As iniciais do Mané, craque botafoguense e bicampeão mundial com a seleção brasileira",
+      "answer": "MG",
+      "row": 6,
+      "col": 0
+    },
+    "15": {
+      "clue": "As iniciais do ídolo vascaíno Dinamite, o maior artilheiro do clube",
+      "answer": "RD",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

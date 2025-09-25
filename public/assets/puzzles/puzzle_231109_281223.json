@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Anúncio de rádio ou TV",
+      "answer": "COMERCIAL",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Interjeição de espanto, típica do NE",
+      "answer": "OXE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Um mês",
+      "answer": "OUTUBRO",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "(Fr.) Calcinha ou sutiã",
+      "answer": "LINGERIE",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Eduardo Bueno, jornalista e escritor",
+      "answer": "EB",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Festa noturna",
+      "answer": "SARAU",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "No tênis, saque que o oponente não consegue responder",
+      "answer": "ACE",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "(Fernão) A BR 381",
+      "answer": "DIAS",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Muito produtivo",
+      "answer": "UBERE",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "A capital de um país da África do Norte",
+      "answer": "ARGEL",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Equipar para a guerra",
+      "answer": "ARMAR",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "Reserva Extrativista",
+      "answer": "RESEX",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "A atriz Fischer",
+      "answer": "VERA",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Cinquenta + cinquenta",
+      "answer": "CEM",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Batalha) Jogo de estratégia",
+      "answer": "NAVAL",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "A última e a primeira letra do alfabeto",
+      "answer": "ZA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Diz-se de composto usado na fabricação de plásticos",
+      "answer": "VINILICO",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "A escritora chilena Isabel, de \"Paula\"",
+      "answer": "ALLENDE",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Dentro das",
+      "answer": "NAS",
+      "row": 9,
+      "col": 8
+    },
+    "38": {
+      "clue": "Curso que compreende o maternal e o jardim-de-infância",
+      "answer": "PREESCOLA",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Grudada, ligada",
+      "answer": "COLADA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Pref.: oxigênio",
+      "answer": "OXI",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Notícia enviada por escrito",
+      "answer": "MENSAGEM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um instinto dos ratos",
+      "answer": "ROER",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Uma comida à base de milho",
+      "answer": "CURAU",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Cidade baiana próxima a Senhor do Bonfim",
+      "answer": "ITIUBA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Pop.) Situação de grande alvoroço",
+      "answer": "AUE",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "As iniciais do político gaúcho Brizola (1922-2004)",
+      "answer": "LB",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O ídolo do basquete Bryant (1978-2020)",
+      "answer": "KOBE",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Esperar o pior",
+      "answer": "RECEAR",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "O hélio e o neônio são nobres",
+      "answer": "GASES",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "Outro nome do animal arminho",
+      "answer": "ARMELINO",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Fantástico",
+      "answer": "IRREAL",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Plantação de mate",
+      "answer": "ERVAL",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "O músico pernambucano de \"Na Pressão\"",
+      "answer": "LENINE",
+      "row": 5,
+      "col": 4
+    },
+    "25": {
+      "clue": "Animal símbolo do Cruzeiro",
+      "answer": "RAPOSA",
+      "row": 5,
+      "col": 10
+    },
+    "27": {
+      "clue": "(de Pilares) Cantor e compositor carioca",
+      "answer": "XANDE",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "Título imperial em uso na Rússia até a revolução",
+      "answer": "CZAR",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Direção oblíqua",
+      "answer": "VIES",
+      "row": 7,
+      "col": 6
+    },
+    "33": {
+      "clue": "Ficar na presença de",
+      "answer": "VER",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Pó usado em argamassa",
+      "answer": "CAL",
+      "row": 8,
+      "col": 9
+    },
+    "36": {
+      "clue": "As iniciais da atriz Piovani",
+      "answer": "LP",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

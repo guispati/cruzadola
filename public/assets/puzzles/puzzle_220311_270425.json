@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Não arredar do lugar",
+      "answer": "EMPACAR",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "(Pop.) Redução de apartamento",
+      "answer": "APE",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Queixo",
+      "answer": "MENTO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Material usado para escrever, imprimir, embrulhar etc.",
+      "answer": "PAPEL",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Pedro, em francês",
+      "answer": "PIERRE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Um antônimo de duro",
+      "answer": "MOLE",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Molhar a planta",
+      "answer": "AGUAR",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "A atriz Marília, do cinema, teatro e TV",
+      "answer": "PERA",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "(Quím.) O tântalo",
+      "answer": "TA",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Pessoa que anda a pé",
+      "answer": "PEDESTRE",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Que não tem",
+      "answer": "CARENTE",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Assinar como garantia",
+      "answer": "AVALIZAR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Carla Camurati, cineasta e atriz",
+      "answer": "CC",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "(Fem.) Sufixo diminutivo",
+      "answer": "INHA",
+      "row": 7,
+      "col": 1
+    },
+    "26": {
+      "clue": "O cano pelo qual defluem as águas da chuva",
+      "answer": "CALHA",
+      "row": 7,
+      "col": 6
+    },
+    "28": {
+      "clue": "Calçado usado para proteger as pernas",
+      "answer": "BOTA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Contornar",
+      "answer": "RODEAR",
+      "row": 8,
+      "col": 5
+    },
+    "30": {
+      "clue": "Uma substância usada para limpar a água de piscinas",
+      "answer": "CLORO",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Ação de fazer girar a chave na fechadura",
+      "answer": "VOLTA",
+      "row": 9,
+      "col": 6
+    },
+    "33": {
+      "clue": "Combustível para fogão",
+      "answer": "GAS",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Iluminar",
+      "answer": "CLAREAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Capacidade de se identificar com outra pessoa",
+      "answer": "EMPATIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Carinhosa, afetuosa",
+      "answer": "MEIGA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Cobre a roda da bike",
+      "answer": "PNEU",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Provocar confusão",
+      "answer": "ATRAPALHAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Fuga desordenada de muitas pessoas",
+      "answer": "CORRERIA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Robert Plant, roqueiro do \"Led Zeppelin\"",
+      "answer": "RP",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Contribuição (científica, financeira etc.) para determinado fim",
+      "answer": "APORTE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Fazer ficar sem a casca",
+      "answer": "PELAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Pronome pessoal masculino",
+      "answer": "ELE",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Aquele que domestica, amansa",
+      "answer": "AMESTRADOR",
+      "row": 1,
+      "col": 7
+    },
+    "16": {
+      "clue": "Locução que significa pessoa doente, acabada",
+      "answer": "PENACOVA",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Doze menos dois",
+      "answer": "DEZ",
+      "row": 4,
+      "col": 5
+    },
+    "20": {
+      "clue": "Olhar de frente",
+      "answer": "ENCARAR",
+      "row": 4,
+      "col": 10
+    },
+    "21": {
+      "clue": "Ângulos, quinas",
+      "answer": "CANTOS",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Um instrumento musical sertanejo",
+      "answer": "VIOLA",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Barco cargueiro semelhante a uma balsa",
+      "answer": "CHATA",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "(Pop.) Desordem",
+      "answer": "LELE",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "A vacina contra a tuberculose",
+      "answer": "BCG",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Otaviano Costa, ator e apresentador",
+      "answer": "OC",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

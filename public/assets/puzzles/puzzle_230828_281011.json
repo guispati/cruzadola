@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "O masculino de mulher",
+      "answer": "HOMEM",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Biol.) Veículo de transmissão",
+      "answer": "VETOR",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Grande polo industrial do Brasil, em SP",
+      "answer": "ABC",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Que se processa de maneira agradável",
+      "answer": "AMENO",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Robert Redford, ator de \"Proposta Indecente\"",
+      "answer": "RR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Mulher que julga ou dá sentença",
+      "answer": "JUIZA",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Foco sem ós",
+      "answer": "FC",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Tranquilo, sossegado",
+      "answer": "PACATO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Pode ser alta e baixa",
+      "answer": "MARE",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Separam K e O",
+      "answer": "LMN",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Almofada que serve de assento ou encosto",
+      "answer": "COXIM",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Grande conhecimento",
+      "answer": "SABEDORIA",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Tingir",
+      "answer": "CORAR",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "De forma errada",
+      "answer": "MAL",
+      "row": 6,
+      "col": 6
+    },
+    "25": {
+      "clue": "Uma via para uso de remédios",
+      "answer": "ORAL",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Gír.) Aborrecido, entediado",
+      "answer": "BODADO",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "Uma forma do neto chamar a mãe do pai",
+      "answer": "VO",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Antônimo de inclusive",
+      "answer": "AFORA",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Ordem do Dia",
+      "answer": "OD",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Cegueta",
+      "answer": "MIOPE",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Um pronome pessoal feminino",
+      "answer": "ELA",
+      "row": 9,
+      "col": 8
+    },
+    "34": {
+      "clue": "Jovem",
+      "answer": "RAPAZ",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Paladar",
+      "answer": "SABOR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um instrumento musical",
+      "answer": "HARPA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O resultado de um trabalho literário",
+      "answer": "OBRA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Mestre de Cerimônias (acompanha o nome de músicos de hip-hop, funk etc.)",
+      "answer": "MC",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O escritor e músico Jorge, de \"Maracatu Atômico\"",
+      "answer": "MAUTNER",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Cada ocasião de um tempo que se repete",
+      "answer": "VEZ",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Que se apaixonou (fem.)",
+      "answer": "ENAMORADA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Sigla do estado de Araguaína e Palmas",
+      "answer": "TO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Há pouco tempo",
+      "answer": "RECEM",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Voz de gato",
+      "answer": "MIO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Prato da culinária da Louisiana, nos EUA, espécie de paella",
+      "answer": "JAMBALAIA",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "O oposto de quente (fem.)",
+      "answer": "FRIA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Matéria transparente do conteúdo do ovo",
+      "answer": "CLARA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Sovaco",
+      "answer": "AXILA",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "O país de Moroni",
+      "answer": "COMORES",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Solução que se emprega na hidratação de pessoa enferma",
+      "answer": "SORO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "(Pal. ingl.) Pessoa fanática por um ídolo, a quem procura imitar",
+      "answer": "COVER",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Aplicar I",
+      "answer": "IODAR",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "(Ingl.) Abreviatura de uma forma de jazz",
+      "answer": "BOP",
+      "row": 7,
+      "col": 5
+    },
+    "27": {
+      "clue": "Intenção de cometer um crime",
+      "answer": "DOLO",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Desaguadouro",
+      "answer": "FOZ",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Maria Padilha, atriz",
+      "answer": "MP",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Eduardo Bueno, jornalista e escritor",
+      "answer": "EB",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

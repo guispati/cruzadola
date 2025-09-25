@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um complemento do sundae",
+      "answer": "CALDA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Que não tem piedade",
+      "answer": "IMPIO",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "No esporte, o jogo final",
+      "answer": "DECISÃO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Sem Número",
+      "answer": "SN",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Grupo de cem unidades",
+      "answer": "CENTO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Rolando Boldrin (1936-2022), cantor e apresentador de TV",
+      "answer": "RB",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Um componente do concreto",
+      "answer": "CIMENTO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Ficar na presença de",
+      "answer": "VER",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Aguentar com paciência, resignação",
+      "answer": "ATURAR",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Multidão de gente",
+      "answer": "POVO",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Aquele que não pode mover-se",
+      "answer": "ENTREVADO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "(Virgulino) Grupo musical de forró",
+      "answer": "TRIO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Fechar e abrir rapidamente (os olhos)",
+      "answer": "PISCAR",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Uma característica como o verde ou o amarelo",
+      "answer": "COR",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Aglomeração de detritos e vegetais deixados pelas enchentes nas margens dos rios",
+      "answer": "CISCADA",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Oi, em Miami",
+      "answer": "HI",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Monotonia",
+      "answer": "TEDIO",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "O ditongo da palavra cais",
+      "answer": "AI",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Mentir",
+      "answer": "LOROTAR",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "Que não possui semelhante (fem.)",
+      "answer": "UNICA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Alameda",
+      "answer": "ALEIA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A proteção do fruto",
+      "answer": "CASCA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Leila Diniz (1945-1972), atriz de \"Mãos Vazias\"",
+      "answer": "LD",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Sem dúvida",
+      "answer": "DECERTO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Fazer sinal",
+      "answer": "ACENAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Pronome que indica algo que se acha mais perto de quem fala",
+      "answer": "ISTO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "(Fig.) Promessa de casamento",
+      "answer": "MÃO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O polônio, entre os químicos",
+      "answer": "PO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A região com a escápula",
+      "answer": "OMBRO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Que não tem medo",
+      "answer": "INTREPIDO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Grande cidade às margens da baía da Guanabara",
+      "answer": "NITEROI",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Bando de aves em voo",
+      "answer": "REVOADA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Fornecer, prover",
+      "answer": "MUNIR",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Bebida típica da Europa Oriental",
+      "answer": "VODCA",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "O monte avistado por Pedro Álvares Cabral",
+      "answer": "PASCOAL",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Ato de ir a algum lugar para estar com alguém",
+      "answer": "VISITA",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "(Pop.) Até logo!",
+      "answer": "TCHAU",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Acesso de fúria",
+      "answer": "RAIVA",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "(Esp.) Catimba",
+      "answer": "CERA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Onomatopeia de uma batida à porta",
+      "answer": "TOC",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "51, em algarismos romanos",
+      "answer": "LI",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "(Dir.) Mulher a ser julgada",
+      "answer": "RE",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

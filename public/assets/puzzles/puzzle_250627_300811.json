@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Que teve pronto socorro",
+      "answer": "ACUDIDO",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Sigla inglesa que indica o tempo universal de Greenwich",
+      "answer": "GMT",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Uma escola do budismo",
+      "answer": "ZEN",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Doentia",
+      "answer": "MORBIDA",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Clareza, transparência",
+      "answer": "LIMPIDEZ",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Designação do imperador na Alemanha, no século XIX",
+      "answer": "CAISER",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "O sódio",
+      "answer": "NA",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Tubo para água, fios etc.",
+      "answer": "CANO",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "Espreitar",
+      "answer": "MIRAR",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "Pico",
+      "answer": "CUME",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Roberta, para os íntimos",
+      "answer": "BETA",
+      "row": 5,
+      "col": 7
+    },
+    "22": {
+      "clue": "Outro nome da mandioca-doce",
+      "answer": "AIPIM",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Honesto",
+      "answer": "RETO",
+      "row": 6,
+      "col": 6
+    },
+    "25": {
+      "clue": "Chico Anysio (1931-2012), humorista cearense",
+      "answer": "CA",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Lugar afastado e sossegado",
+      "answer": "RETIRO",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Marca de requeijão",
+      "answer": "CATUPIRY",
+      "row": 8,
+      "col": 2
+    },
+    "30": {
+      "clue": "Importante cidade do Triângulo Mineiro",
+      "answer": "UBERABA",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Novo, em inglês",
+      "answer": "NEW",
+      "row": 9,
+      "col": 8
+    },
+    "34": {
+      "clue": "Um imposto bancário",
+      "answer": "IOF",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Uma acentuação excessiva da convexidade da coluna vertebral",
+      "answer": "LORDOSE",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "As letras extremas do alfabeto",
+      "answer": "AZ",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Abrev.: celular",
+      "answer": "CEL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Universidade Estadual de Campinas",
+      "answer": "UNICAMP",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Sem fé",
+      "answer": "IMPIO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Um número par",
+      "answer": "DOIS",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Mandado, determinação imperativa",
+      "answer": "ORDEM",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Bastonete usado para escrever em lousas",
+      "answer": "GIZ",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Quím.) O símbolo do mendelévio",
+      "answer": "MD",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Fruto rico em açúcar, de uma palmeira nativa da África e da Ásia",
+      "answer": "TAMARA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Mal causado por falta de vitamina B1",
+      "answer": "BERIBERI",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Agir com calma",
+      "answer": "MANEIRAR",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Que é de nascença",
+      "answer": "NATO",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Cabaça partida ao meio",
+      "answer": "CUIA",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Regresso, volta",
+      "answer": "RETORNO",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "Árvore que, das sementes, se faz chocolate",
+      "answer": "CACAUI",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Um material como o chumbo ou o zinco",
+      "answer": "METAL",
+      "row": 6,
+      "col": 4
+    },
+    "24": {
+      "clue": "(Pop.) Espancar",
+      "answer": "RIPAR",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Cano",
+      "answer": "TUBO",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "Um grande banco do Brasil",
+      "answer": "CEF",
+      "row": 8,
+      "col": 2
+    },
+    "29": {
+      "clue": "Banda inglesa de rock progressivo dos anos 70",
+      "answer": "YES",
+      "row": 8,
+      "col": 9
+    },
+    "31": {
+      "clue": "A sílaba que se repete em abóbora",
+      "answer": "BO",
+      "row": 9,
+      "col": 1
+    },
+    "33": {
+      "clue": "Nós, em inglês",
+      "answer": "WE",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

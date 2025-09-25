@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Satisfeito",
+      "answer": "FELIZ",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Cidade do RJ, no Vale do Paraíba",
+      "answer": "PIRAI",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "(Lat.) No mesmo lugar",
+      "answer": "IBIDEM",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Um famoso lago escocês",
+      "answer": "NESS",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "O Fernando (1923-2004), escritor mineiro",
+      "answer": "SABINO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Barril",
+      "answer": "PIPO",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Henri Nestlé (1814-1890), empresário suíço",
+      "answer": "HN",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Um tecido para agasalhos e roupas esportivas",
+      "answer": "TACTEL",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Não estes",
+      "answer": "OUTROS",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Sufixo feminino de ão",
+      "answer": "ONA",
+      "row": 4,
+      "col": 8
+    },
+    "24": {
+      "clue": "Conceder prêmio a",
+      "answer": "LAUREAR",
+      "row": 5,
+      "col": 2
+    },
+    "26": {
+      "clue": "As consoantes de santo",
+      "answer": "SNT",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Relacionar itens",
+      "answer": "LISTAR",
+      "row": 6,
+      "col": 4
+    },
+    "30": {
+      "clue": "Seios",
+      "answer": "PEITOS",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Emilinha Borba, cantora",
+      "answer": "EB",
+      "row": 7,
+      "col": 9
+    },
+    "34": {
+      "clue": "O antigo capacete dos guerreiros",
+      "answer": "ELMO",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "Crença numa divindade pessoal e única",
+      "answer": "TEISMO",
+      "row": 8,
+      "col": 5
+    },
+    "38": {
+      "clue": "Time, em inglês",
+      "answer": "TEAM",
+      "row": 9,
+      "col": 0
+    },
+    "39": {
+      "clue": "A jornalista e apresentadora de TV Fontenelle",
+      "answer": "ASTRID",
+      "row": 9,
+      "col": 5
+    },
+    "40": {
+      "clue": "São 8 no punho",
+      "answer": "OSSOS",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "Que exala mau cheiro",
+      "answer": "PODRE",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Peixe, em inglês",
+      "answer": "FISH",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A madeira da clarineta e do oboé",
+      "answer": "EBANO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Abrev.: Líbano",
+      "answer": "LIB",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Pateta, néscio",
+      "answer": "IDIOTA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Pop.) Tranquilo",
+      "answer": "ZEN",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Índice Nacional de Preços ao Consumidor",
+      "answer": "INPC",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Mulher que dirige certo estabelecimento de ensino superior",
+      "answer": "REITORA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Estação de esqui dos EUA",
+      "answer": "ASPEN",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Tirar do contato",
+      "answer": "ISOLAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Condutor de veículo",
+      "answer": "MOTORISTA",
+      "row": 1,
+      "col": 5
+    },
+    "18": {
+      "clue": "São quatro em um maço de baralho",
+      "answer": "ASES",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "A extrema miséria",
+      "answer": "ULTIMAS",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Um \"pio\" de rolas e pombos",
+      "answer": "RULO",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "Haste usada em churrascos",
+      "answer": "ESPETO",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Fig.) Desentendimento, divergência",
+      "answer": "ATRITO",
+      "row": 5,
+      "col": 7
+    },
+    "27": {
+      "clue": "Em + eles",
+      "answer": "NELES",
+      "row": 6,
+      "col": 1
+    },
+    "29": {
+      "clue": "Absolver, livrar",
+      "answer": "REMIR",
+      "row": 6,
+      "col": 9
+    },
+    "31": {
+      "clue": "Volume de obra literária",
+      "answer": "TOMO",
+      "row": 7,
+      "col": 3
+    },
+    "33": {
+      "clue": "O macho da cabra",
+      "answer": "BODE",
+      "row": 7,
+      "col": 10
+    },
+    "36": {
+      "clue": "Esporte",
+      "answer": "ESP",
+      "row": 8,
+      "col": 6
+    },
+    "37": {
+      "clue": "Sem Raça Definida (animal)",
+      "answer": "SRD",
+      "row": 8,
+      "col": 8
+    }
+  }
+}

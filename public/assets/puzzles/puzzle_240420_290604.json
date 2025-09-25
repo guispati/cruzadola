@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Feitiçaria, baixo espiritismo",
+      "answer": "CATIMBO",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Recibo de Depósito Bancário",
+      "answer": "RDB",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Reconsiderado",
+      "answer": "REPENSADO",
+      "row": 1,
+      "col": 2
+    },
+    "12": {
+      "clue": "Produtor de açúcar e álcool em grande escala",
+      "answer": "USINA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Lançar para longe",
+      "answer": "TACAR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Tabaco de cheiro em finíssimo pó",
+      "answer": "RAPE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "(Fís.) Unidade de medição da velocidade",
+      "answer": "MACH",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Abreviatura que precede o nome da advogada",
+      "answer": "DRA",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "(Paralelas) Um aparelho da ginástica artística masculina",
+      "answer": "BARRAS",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "(Dir.) Orientações Jurisprudenciais",
+      "answer": "OJ",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Soma dos salários da semana",
+      "answer": "FERIA",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Edson Celulari, ator paulista",
+      "answer": "EC",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Fruto parecido com o damasco",
+      "answer": "ABRICO",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Instituição que organiza corridas de carros",
+      "answer": "FIA",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Que possui pouca ou nenhuma flexibilidade",
+      "answer": "RIJO",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Aeronave dotada de turbinas",
+      "answer": "JATO",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Levemente molhado",
+      "answer": "UMIDO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Anat.) Relativo à barriga da perna",
+      "answer": "SURAL",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Aquele que usa artifício para iludir",
+      "answer": "NEGACEIRO",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Marca coreana de automóveis",
+      "answer": "KIA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Ato de acudir",
+      "answer": "AUXILIO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Aquele que é rude, grosseiro",
+      "answer": "CHURDO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Intestino animal, usado em culinária",
+      "answer": "TRIPA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "A unidade monetária do Japão",
+      "answer": "IENE",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Ministério da Pesca e Aquicultura",
+      "answer": "MPA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "B",
+      "answer": "BE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Uma província canadense",
+      "answer": "ONTARIO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Pop.) Corrida de carros ou motos",
+      "answer": "RACHA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Abrev.:) Uma operação bancária",
+      "answer": "DDA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O elemento químico B",
+      "answer": "BORO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Via-) Sacrifício, padecimento",
+      "answer": "SACRA",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Tecido de lã, seda ou algodão entrançado",
+      "answer": "SARJA",
+      "row": 2,
+      "col": 1
+    },
+    "16": {
+      "clue": "O ator pernambucano Nanini",
+      "answer": "MARCO",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Bicota",
+      "answer": "BEIJOCA",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Sociedade secreta",
+      "answer": "SEITA",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "A pintora mexicana Kahlo (1910-1954)",
+      "answer": "FRIDA",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Torto de uma das vistas",
+      "answer": "CAOLHO",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Conflito de interesses, discussão agressiva",
+      "answer": "BRIGA",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "A luz mais forte dos automóveis",
+      "answer": "FAROL",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Um estilo musical que tem uma vertente originária do RJ",
+      "answer": "FUNK",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Comissão julgadora",
+      "answer": "JURI",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Microempreendedor Individual",
+      "answer": "MEI",
+      "row": 8,
+      "col": 1
+    },
+    "32": {
+      "clue": "(Ingl.) Seis",
+      "answer": "SIX",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Em francês é je e em espanhol é yo",
+      "answer": "EU",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

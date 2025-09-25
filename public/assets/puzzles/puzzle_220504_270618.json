@@ -1,0 +1,246 @@
+{
+  "across": {
+    "2": {
+      "clue": "Transferir algo de uma embarcação para outra",
+      "answer": "BALDEAR",
+      "row": 0,
+      "col": 2
+    },
+    "8": {
+      "clue": "Dar maior altura",
+      "answer": "ELEVAR",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Doce produzido pelas abelhas",
+      "answer": "MEL",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "O contrário de começo",
+      "answer": "FIM",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Fúnebre, horrorosa",
+      "answer": "MACABRA",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "O símbolo do radônio, elemento químico",
+      "answer": "RN",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Um dos rios que formam o Madeira, no Norte do Brasil",
+      "answer": "MAMORE",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Um equino",
+      "answer": "EGUA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Um dia do futuro",
+      "answer": "AMANHÃ",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "O país de Berna e Genebra",
+      "answer": "SUIÇA",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Para) Expressão popular, indica extrema urgência",
+      "answer": "ONTEM",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Outro nome do peixe sarda",
+      "answer": "CAVALA",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Tronco de árvore serrado",
+      "answer": "TORA",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Árvore de madeira muito usada em marcenaria",
+      "answer": "ANGICO",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Sigla do estado de Londrina",
+      "answer": "PR",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "(Geom.) Unidade de medida de símbolo rad",
+      "answer": "RADIANO",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Modo de considerar",
+      "answer": "VER",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Uma sigla usada em transferência bancária de valores",
+      "answer": "DOC",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "Nocivo, prejudicial",
+      "answer": "DANOSO",
+      "row": 9,
+      "col": 5
+    },
+    "37": {
+      "clue": "Reza dedicada à Nossa Senhora",
+      "answer": "ROSARIO",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Aliviar, suavizar",
+      "answer": "REFRESCAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Com nitidez ou clareza",
+      "answer": "BEM",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Avenida",
+      "answer": "AV",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "A terra própria para praticar a ilutação",
+      "answer": "LAMA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Tragédia",
+      "answer": "DRAMA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Planta ornamental, de flores vermelhas, purpurinas, aveludadas",
+      "answer": "AMARANTO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Fam.) Filho, descendente",
+      "answer": "REBENTO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O órgão responsável pelo paladar",
+      "answer": "LINGUA",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Lázaro Ramos, ator de \"Madame Satã\"",
+      "answer": "LR",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Advérbio que aparece em reações de surpresa",
+      "answer": "COMO",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "(Astron.) Objeto considerado uma estrela fracassada",
+      "answer": "ANÃMARROM",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Uma dança folclórica paulista",
+      "answer": "MAÇANICO",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Diz-se de animal que solta a voz como o lobo",
+      "answer": "UIVADOR",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Afecção virótica da pele, que forma vesículas",
+      "answer": "HERPES",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Uma planta marinha",
+      "answer": "ALGA",
+      "row": 5,
+      "col": 4
+    },
+    "26": {
+      "clue": "Até este momento",
+      "answer": "AINDA",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "Fazer passar o café através do filtro",
+      "answer": "COAR",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Alexandre Dumas (1802-1870), escritor francês",
+      "answer": "AD",
+      "row": 8,
+      "col": 1
+    },
+    "33": {
+      "clue": "Passeio de planador",
+      "answer": "VOO",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "(Quím.) Níquel",
+      "answer": "NI",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

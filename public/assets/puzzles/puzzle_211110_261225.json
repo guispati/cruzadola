@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Festa onde se serve uma bebida fermentada",
+      "answer": "CERVEJADA",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Do lado de cá",
+      "answer": "AQUEM",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O signo que vai de 23/9 a 22/10",
+      "answer": "LIBRA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "O músico Melodia (1951-2017), de \"Pérola Negra\"",
+      "answer": "LUIZ",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Caetano Veloso, músico",
+      "answer": "CV",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "O primário pode ter a pena diminuída",
+      "answer": "REU",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Forma oblíqua tônica do pronome eu",
+      "answer": "MIM",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Fig.) Grande confusão",
+      "answer": "CAOS",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Pronto-socorro",
+      "answer": "PS",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "O símbolo do alumínio, metal reciclável",
+      "answer": "AL",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Planta com que se faziam coroas para heróis",
+      "answer": "LOUREIRO",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Alagador",
+      "answer": "INUNDANTE",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Quente, ardente",
+      "answer": "ABRASADO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "A UF de Marília e Jandira",
+      "answer": "SP",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Lupicínio Rodrigues (1914-1974), músico",
+      "answer": "LR",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Percurso de um avião",
+      "answer": "ROTA",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "De tanta importância",
+      "answer": "TAL",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "(Apple) O apelido de Nova York",
+      "answer": "BIG",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Certo tecido ralo e fino",
+      "answer": "LO",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "Mulher calada, taciturna",
+      "answer": "MUDA",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "As vogais do alfabeto, invertidas",
+      "answer": "UOIEA",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Grande serpente de até 8,5 m de comprimento",
+      "answer": "PITON",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "Mirante, belveder",
+      "answer": "MIRADOURO",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Sossego",
+      "answer": "CALMA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Paridade",
+      "answer": "EQUILIBRIO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Incompetente, incapaz",
+      "answer": "RUIM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Ocasião em que um fato acontece",
+      "answer": "VEZ",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Eddie Murphy, ator de \"As Mil Palavras\"",
+      "answer": "EM",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Crepúsculo matutino",
+      "answer": "ALVORADA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O músico sul-mato-grossense Ferrero",
+      "answer": "DI",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Tempo entre Mar e Mai",
+      "answer": "ABR",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "(Pop.) Acontecimento",
+      "answer": "CAUSO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Que detém (curso de águas) com dique, paredão etc.",
+      "answer": "REPRESADOR",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Que possui rabo",
+      "answer": "CAUDATO",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Confortar, principalmente com palavras",
+      "answer": "CONSOLAR",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "(Trig.) Num triângulo retângulo, razão entre o cateto oposto e a hipotenusa",
+      "answer": "SENO",
+      "row": 3,
+      "col": 7
+    },
+    "21": {
+      "clue": "O clarão do astro prateado",
+      "answer": "LUAR",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Atrativo que fascina",
+      "answer": "IT",
+      "row": 4,
+      "col": 8
+    },
+    "24": {
+      "clue": "Nereu Ramos (1888-1958), ex-presidente",
+      "answer": "NR",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Livro próprio para colecionar fotografias, selos etc.",
+      "answer": "ALBUM",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Cin. e TV) Ponto de vista enquadrado pela câmera",
+      "answer": "PLANO",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "(Fr.) A saia do balé clássico",
+      "answer": "TUTU",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Bebida alcoólica perfumada",
+      "answer": "GIM",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "Elemento de composição: músculo",
+      "answer": "MIO",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "Estado Islâmico",
+      "answer": "EI",
+      "row": 9,
+      "col": 3
+    },
+    "37": {
+      "clue": "(Quím.) O paládio",
+      "answer": "PD",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

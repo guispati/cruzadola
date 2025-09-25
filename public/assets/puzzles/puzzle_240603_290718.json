@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Pop.) Chorar baixinho",
+      "answer": "MIAR",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Mesa para servir iguarias em casamentos",
+      "answer": "BUFE",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Uma matéria-prima para editores",
+      "answer": "PAPEL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "(Med.) Neoplasma, maligno ou benigno",
+      "answer": "TUMOR",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "(Cul.) Guisado com pedaços de carne e cozido em molho",
+      "answer": "FRICASSE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Fátima Bernardes, apresentadora de TV e jornalista",
+      "answer": "FB",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Descortesia premeditada",
+      "answer": "ACINTE",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Mamífero usado para produção de carne, couro etc.",
+      "answer": "BOI",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Um grande mamífero felino do Brasil",
+      "answer": "ONÇA",
+      "row": 4,
+      "col": 2
+    },
+    "18": {
+      "clue": "Fragmento de ladrilho",
+      "answer": "CACO",
+      "row": 4,
+      "col": 7
+    },
+    "19": {
+      "clue": "O ator santista Ney",
+      "answer": "LATORRACA",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Prematuramente",
+      "answer": "CEDO",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "Madeira própria para marcenaria naval",
+      "answer": "TECA",
+      "row": 6,
+      "col": 5
+    },
+    "23": {
+      "clue": "O eu da psicanálise",
+      "answer": "EGO",
+      "row": 7,
+      "col": 0
+    },
+    "24": {
+      "clue": "Peças para impulsionar a bicicleta",
+      "answer": "PEDAIS",
+      "row": 7,
+      "col": 4
+    },
+    "26": {
+      "clue": "(Quím.) O símbolo do gálio, metal usado em termômetros de alta temperatura",
+      "answer": "GA",
+      "row": 8,
+      "col": 0
+    },
+    "27": {
+      "clue": "Mulher que mercadeja o corpo",
+      "answer": "MERETRIZ",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "A profissão de Marília Pêra ou Camila Pitanga",
+      "answer": "ATRIZ",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Coruja de plumagem branca com disco facial em forma de coração",
+      "answer": "SUINA",
+      "row": 9,
+      "col": 6
+    },
+    "32": {
+      "clue": "Um autômato como o R2D2",
+      "answer": "ROBO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "O colibri tem duas",
+      "answer": "ASAS",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ministério Público Federal",
+      "answer": "MPF",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Figura da mitologia amazônica, protetora das águas",
+      "answer": "IARA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Que é íngreme, empinado",
+      "answer": "APICOADO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Espaço delimitado no interior de um prédio",
+      "answer": "RECINTO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Berreiro ou choradeira de criança",
+      "answer": "BUE",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "O primeiro de uma série",
+      "answer": "UM",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Diz-que-diz-que",
+      "answer": "FOFOCA",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "(Quím.) Er",
+      "answer": "ERBIO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Arremesso",
+      "answer": "LANÇO",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Tribunal Superior Eleitoral",
+      "answer": "TSE",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "(Ingl.) Interruptor automático para lâmpadas",
+      "answer": "STARTER",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Grupo indígena que habita o centro do Mato Grosso",
+      "answer": "BACAIRIS",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Papagaio da Austrália e da Malásia",
+      "answer": "CACATUA",
+      "row": 4,
+      "col": 7
+    },
+    "19": {
+      "clue": "(Mús.) Ligado",
+      "answer": "LEGATO",
+      "row": 5,
+      "col": 1
+    },
+    "20": {
+      "clue": "As sociais são ótimos meios de se manter contato com amigos",
+      "answer": "REDES",
+      "row": 5,
+      "col": 6
+    },
+    "21": {
+      "clue": "Fazer perder a vista",
+      "answer": "CEGAR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Resíduo da destilação do alcatrão, também conhecido como piche",
+      "answer": "PEZ",
+      "row": 7,
+      "col": 4
+    },
+    "25": {
+      "clue": "Destino, sorte",
+      "answer": "SINA",
+      "row": 7,
+      "col": 9
+    },
+    "27": {
+      "clue": "Voz ou grito do gato",
+      "answer": "MIO",
+      "row": 8,
+      "col": 3
+    },
+    "28": {
+      "clue": "(Interj.) Voz que imita som de corte rápido e certeiro",
+      "answer": "ZAS",
+      "row": 8,
+      "col": 10
+    },
+    "30": {
+      "clue": "Roberto Benigni, ator italiano",
+      "answer": "RB",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

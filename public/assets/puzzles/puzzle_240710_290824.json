@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "O Fernando Veríssimo escritor",
+      "answer": "LUIS",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Maleável",
+      "answer": "DUCTIL",
+      "row": 0,
+      "col": 5
+    },
+    "11": {
+      "clue": "(Med.) Adenite, bubão",
+      "answer": "INGUA",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Tufo maciço de plantas arbustivas ou rasteiras, e densas",
+      "answer": "MOITA",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Um dispositivo contraceptivo",
+      "answer": "DIU",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Um angolano nascido na capital",
+      "answer": "LUANDES",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "(Esp.) Não profissional",
+      "answer": "AMADOR",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Polvilho de mandioca usado na feitura de mingaus",
+      "answer": "GOMA",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Uma forma de se cortar o cabelo",
+      "answer": "REPICADO",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Separar o que estava reunido num todo",
+      "answer": "DESANEXAR",
+      "row": 5,
+      "col": 1
+    },
+    "26": {
+      "clue": "Em zoologia, a ordem de homens e macacos",
+      "answer": "PRIMATAS",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "(Fig.) Habitante, pessoa",
+      "answer": "ALMA",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Que tem o pelo ou a lã cortada rente",
+      "answer": "TOSADO",
+      "row": 7,
+      "col": 5
+    },
+    "32": {
+      "clue": "Repor (o exército) em condições de combate",
+      "answer": "REARMAR",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Área destinada à autoridades e pessoas de prestígio",
+      "answer": "VIP",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "O Noel de 25 de dezembro",
+      "answer": "PAPAI",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Estabelecer união ou ligação",
+      "answer": "ALIAR",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "Sinal genérico de perigo",
+      "answer": "ALARME",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "(Anat.) Embocadura de algumas cavidades",
+      "answer": "COLO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Batalhar, pelejar",
+      "answer": "LIDAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um plano de saúde",
+      "answer": "UNIMED",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O maior município de SP",
+      "answer": "IGUAPE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Letras separadas pelo T",
+      "answer": "SU",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "A hora que segue o meio-dia",
+      "answer": "UMA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Cócegas que cavalos sentem no ventre ao se lhes apertarem as cilhas e que lhes dão aflição",
+      "answer": "CONGOXAS",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Possuído",
+      "answer": "TIDO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Artigo de exposição escrita",
+      "answer": "ITEM",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "O pintor e escultor Segall (1891-1957)",
+      "answer": "LASAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Colocar numa sequência de lugares",
+      "answer": "ALOCAR",
+      "row": 1,
+      "col": 4
+    },
+    "16": {
+      "clue": "Um mineral radioativo",
+      "answer": "URANITA",
+      "row": 2,
+      "col": 5
+    },
+    "18": {
+      "clue": "Descarregar a munição de uma arma de fogo",
+      "answer": "DISPARAR",
+      "row": 3,
+      "col": 3
+    },
+    "21": {
+      "clue": "Atraso, espera",
+      "answer": "DEMORA",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Enfeite",
+      "answer": "ATAVIO",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "De um osso do antebraço",
+      "answer": "RADIAL",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Peixe comum em pequenos lagos artificiais",
+      "answer": "CARPA",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Agitação atmosférica",
+      "answer": "SOPRO",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Franco e sincero",
+      "answer": "LEAL",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Desenho de uma região da superfície do globo terrestre",
+      "answer": "MAPA",
+      "row": 7,
+      "col": 2
+    },
+    "33": {
+      "clue": "(Por) De minha parte",
+      "answer": "MIM",
+      "row": 8,
+      "col": 4
+    },
+    "37": {
+      "clue": "Laura Cardoso, atriz",
+      "answer": "LC",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

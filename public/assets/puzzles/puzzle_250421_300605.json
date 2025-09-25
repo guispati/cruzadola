@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Plantação de certas palmeiras de fruto comestível",
+      "answer": "COCAL",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Primeiras noções de uma ciência",
+      "answer": "ABECE",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Que pertence ao domínio do sonho, da imaginação, do absurdo",
+      "answer": "SURREAL",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Bar tipicamente inglês",
+      "answer": "PUB",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Aquele que apara trabalhos gráficos",
+      "answer": "REFILADOR",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Ação de amansar (animal)",
+      "answer": "DOMA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Permutar",
+      "answer": "TROCAR",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "(Anat.) Que caminha com o corpo reto ou vertical",
+      "answer": "ORTOGRADO",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "(Trigon.) Símbolo de seno",
+      "answer": "SEN",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Correlativo de outras",
+      "answer": "UMAS",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Oscar Niemeyer (1907-2012), arquiteto carioca",
+      "answer": "ON",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Tranquilizador",
+      "answer": "ACALMADOR",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Noz sem miolo",
+      "answer": "NZ",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "A moeda da Polônia, Portugal e Dinamarca",
+      "answer": "EURO",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "Exclamação de alegria, surpresa",
+      "answer": "EBA",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Sem vigor ou força",
+      "answer": "DEBIL",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "A função do maestro",
+      "answer": "REGER",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Colegas, camaradas",
+      "answer": "AMIGOS",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Oposto de máxi",
+      "answer": "MINI",
+      "row": 9,
+      "col": 7
+    },
+    "38": {
+      "clue": "Pouco fundo",
+      "answer": "RASO",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Urgência",
+      "answer": "PRESSA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Quím.) O césio",
+      "answer": "CS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "As bodas de 50 anos de casamento",
+      "answer": "OURO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ferragem usada para trancar portas e janelas",
+      "answer": "CREMONA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Respirar mal",
+      "answer": "ARFAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Norma do poder legislativo",
+      "answer": "LEI",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Aquilo que dilata, amplia",
+      "answer": "ALARGADOR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Período de tempo ou da vida corrente",
+      "answer": "EPOCA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Que foi seco ao sol ou ao calor do fogo",
+      "answer": "CURADO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Eduardo Bueno, jornalista e escritor",
+      "answer": "EB",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Região marítima afastada do litoral",
+      "answer": "ALTOMAR",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Região posterior do tronco",
+      "answer": "DORSO",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Ter resultado negativo, descambar",
+      "answer": "DESANDAR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Fig.) Bravata",
+      "answer": "RONCARIA",
+      "row": 3,
+      "col": 10
+    },
+    "19": {
+      "clue": "Sepultura",
+      "answer": "TUMULO",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Uma doença da pele",
+      "answer": "ECZEMA",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Não eclesíastico",
+      "answer": "LEIGO",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "(Bittencourt) Importante rodovia brasileira",
+      "answer": "REGIS",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "O que compõe um patrimônio",
+      "answer": "BENS",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Um biscoito wafer de chocolate muito consumido",
+      "answer": "BIS",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "M",
+      "answer": "EME",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "Sean Penn, ator americano, Oscar em 2004",
+      "answer": "SP",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

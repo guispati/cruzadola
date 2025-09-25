@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Tornar quente",
+      "answer": "AQUECER",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "(Leñas) Uma estação argentina de esqui",
+      "answer": "LAS",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Um calção próprio para banho de mar",
+      "answer": "SUNGA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "A mítica inventora do alaúde e da lira",
+      "answer": "ERATO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Pedido de socorro",
+      "answer": "SOS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Fundador, pai",
+      "answer": "CRIADOR",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Desinência verbal",
+      "answer": "IR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "O compositor clássico Georg Friedrich (1685-1759)",
+      "answer": "HAENDEL",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Máximo",
+      "answer": "SUMO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Uma manifestação de insatisfação em jogos",
+      "answer": "VAIA",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Muita falsidade",
+      "answer": "MENTIRADA",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "(nos acuda) Locução que significa grande movimento",
+      "answer": "DEUS",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Cédula de papel-moeda",
+      "answer": "NOTA",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Enviado, expedido",
+      "answer": "POSTADO",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "André Trigueiro, jornalista carioca",
+      "answer": "AT",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Uma artista como Tarsila do Amaral",
+      "answer": "PINTORA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "O período entre Jun e Ago",
+      "answer": "JUL",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Encontrar coisa perdida ou escondida",
+      "answer": "ACHAR",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Peça de metal usada como dinheiro",
+      "answer": "MOEDA",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "(Red.) Parque para animais",
+      "answer": "ZOO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Um dos sobrenomes de Pelé",
+      "answer": "ARANTES",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O Chateaubriand (1891-1968), introdutor da tevê no Brasil",
+      "answer": "ASSIS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Quantidade necessária de pessoas",
+      "answer": "QUORUM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Certos",
+      "answer": "UNS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Isolam o F",
+      "answer": "EG",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O cineasta Diegues, de \"Xica da Silva\"",
+      "answer": "CACA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Dominar",
+      "answer": "REINAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Que corre paralelo a",
+      "answer": "LADEADO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O das Rocas é uma reserva biológica brasileira",
+      "answer": "ATOL",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Forma reduzida de senhor",
+      "answer": "SOR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Unidade de medida de ângulos",
+      "answer": "RADIANO",
+      "row": 1,
+      "col": 7
+    },
+    "15": {
+      "clue": "Fazer a inspeção ou averiguação de",
+      "answer": "REVISAR",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Aquela que não se deixa corromper",
+      "answer": "HONESTA",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Assustador, horrível",
+      "answer": "MEDONHO",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Aquela que protege",
+      "answer": "TUTORA",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Caixão de defunto, esquife",
+      "answer": "ATAUDE",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Um livro para estudar geografia",
+      "answer": "ATLAS",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "O do Everest fica a quase nove mil metros de altitude",
+      "answer": "PICO",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Uma carta do baralho",
+      "answer": "DAMA",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "O contrário de guerra",
+      "answer": "PAZ",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "(ski) Moto aquática",
+      "answer": "JET",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "O que muda de Vera para Verona",
+      "answer": "ON",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

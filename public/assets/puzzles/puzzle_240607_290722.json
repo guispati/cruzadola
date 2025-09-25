@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Famoso grupo indígena norte-americano",
+      "answer": "APACHES",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Mulher muito religiosa",
+      "answer": "PIA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "(Gír.) Coisa fácil de fazer",
+      "answer": "TETA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Peça de cera que se acende nas igrejas",
+      "answer": "VELA",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Palavra, gesto, sinal de despedida",
+      "answer": "ADEUS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Responsabilidade por dano ou mal causado a outrem",
+      "answer": "CULPA",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Emitir parecer técnico (médico)",
+      "answer": "LAUDAR",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Sentir grande paixão por alguém ou algo",
+      "answer": "AMAR",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Henri Nestlé (1814-1890), empresário suíço",
+      "answer": "HN",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "(Pop.) Tornar mais vivo pela ingestão de bebida alcoólica",
+      "answer": "ALEGRAR",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Um sufixo diminutivo",
+      "answer": "OTE",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Dispositivo Intrauterino",
+      "answer": "DIU",
+      "row": 5,
+      "col": 4
+    },
+    "25": {
+      "clue": "Um tempero branco",
+      "answer": "SAL",
+      "row": 5,
+      "col": 8
+    },
+    "27": {
+      "clue": "Erguer a fronte com altivez",
+      "answer": "ENTONAR",
+      "row": 6,
+      "col": 1
+    },
+    "30": {
+      "clue": "O símbolo químico do lítio",
+      "answer": "LI",
+      "row": 6,
+      "col": 9
+    },
+    "31": {
+      "clue": "Barco de recreio a vela ou a motor",
+      "answer": "IATE",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "A ascendência familiar",
+      "answer": "ORIGEM",
+      "row": 7,
+      "col": 5
+    },
+    "34": {
+      "clue": "Ser infiel",
+      "answer": "TRAIR",
+      "row": 8,
+      "col": 0
+    },
+    "36": {
+      "clue": "Parte acessória de uma estrutura principal",
+      "answer": "ANEXO",
+      "row": 8,
+      "col": 6
+    },
+    "37": {
+      "clue": "Terra misturada com água",
+      "answer": "LAMA",
+      "row": 9,
+      "col": 2
+    },
+    "39": {
+      "clue": "Roupa feminina",
+      "answer": "SAIA",
+      "row": 9,
+      "col": 7
+    },
+    "40": {
+      "clue": "Destreza para fazer certa coisa",
+      "answer": "MÃO",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "Palavra que indica uma quantidade determinada",
+      "answer": "NUMERAL",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Caminho pelo qual se encurtam distâncias",
+      "answer": "ATALHO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ostentar conhecimentos que não se possui",
+      "answer": "PEDANTEAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Descrente",
+      "answer": "ATEU",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Parte posterior de avião ou de aeronave",
+      "answer": "CAUDA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Símbolo de elétron-volt",
+      "answer": "EV",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Fr.) Um tipo de champanhe",
+      "answer": "SEC",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "A família de árvores à qual pertencem os coqueiros",
+      "answer": "PALMAS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O antônimo de sorte",
+      "answer": "AZAR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "O clarão do satélite natural da Terra",
+      "answer": "LUAR",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Ajuste de contas",
+      "answer": "SALDO",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "(Med.) Uma perturbação da capacidade de leitura",
+      "answer": "PARALEXIA",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "(Pimenta-do-) Uma especiaria muito usada na culinária",
+      "answer": "REINO",
+      "row": 3,
+      "col": 5
+    },
+    "21": {
+      "clue": "Ave de plumagem vermelha",
+      "answer": "GUARA",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Engasgo",
+      "answer": "ENTALO",
+      "row": 5,
+      "col": 2
+    },
+    "26": {
+      "clue": "Pomar de sicilianos e galegos",
+      "answer": "LIMOAL",
+      "row": 5,
+      "col": 10
+    },
+    "28": {
+      "clue": "Trama montada pela aranha",
+      "answer": "TEIA",
+      "row": 6,
+      "col": 3
+    },
+    "29": {
+      "clue": "Um tipo de xampú usado para tratar e amaciar o cabelo",
+      "answer": "RINSE",
+      "row": 6,
+      "col": 7
+    },
+    "31": {
+      "clue": "Objeto",
+      "answer": "ITEM",
+      "row": 7,
+      "col": 0
+    },
+    "33": {
+      "clue": "Congelar-se (o orvalho)",
+      "answer": "GEAR",
+      "row": 7,
+      "col": 8
+    },
+    "35": {
+      "clue": "(Med.) Ressonância Magnética Nuclear",
+      "answer": "RMN",
+      "row": 8,
+      "col": 4
+    },
+    "38": {
+      "clue": "Som de latido de cachorro nas HQs",
+      "answer": "AU",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

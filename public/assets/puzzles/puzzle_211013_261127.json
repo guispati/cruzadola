@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um carrinho de brinquedo dos parques de diversões",
+      "answer": "BATEBATE",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Separam o F do I",
+      "answer": "GH",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A mesma coisa de antes",
+      "answer": "IDEM",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Fazer perder a vista",
+      "answer": "CEGAR",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Onde passa o avião",
+      "answer": "CEU",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Vento brando, suave",
+      "answer": "FAVONIO",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "As iniciais da apresentadora de TV e modelo Galisteu",
+      "answer": "AG",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "A arte de Isadora Duncan",
+      "answer": "BALE",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Sigla de Global Positioning System, sistema de localização",
+      "answer": "GPS",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "A ponta do cone",
+      "answer": "APICE",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "O compositor, letrista e violonista Rosa (1910-1937)",
+      "answer": "NOEL",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Atingir com injúrias",
+      "answer": "OFENDER",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "O equipamento usado para coletar votos em uma eleição",
+      "answer": "URNA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Jogar",
+      "answer": "TACAR",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "(Psiq.) Transtorno Obsessivo-Compulsivo",
+      "answer": "TOC",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "(-de-açúcar) Planta da qual se produz álcool",
+      "answer": "CANA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Sigla de uma era muito remota",
+      "answer": "AC",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Amasiado, amancebado",
+      "answer": "AMIGADO",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "O de São Nunca nunca chegará",
+      "answer": "DIA",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "Planta usada na forma de chá contra males do fígado",
+      "answer": "BOLDO",
+      "row": 9,
+      "col": 1
+    },
+    "36": {
+      "clue": "Grande confusão",
+      "answer": "CAOS",
+      "row": 9,
+      "col": 7
+    },
+    "37": {
+      "clue": "(Mús.) O C dos músicos",
+      "answer": "DO",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Ruim",
+      "answer": "PERVERSO",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Fonte",
+      "answer": "BICA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Compartimento para vinhos, azeites etc.",
+      "answer": "ADEGA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Feito por ti",
+      "answer": "TEU",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Eddie Murphy, ator de \"As Mil Palavras\"",
+      "answer": "EM",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Aquele que embala uma criança para fazê-la dormir",
+      "answer": "ACALENTADOR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Aparelho eletrônico para entretenimento e informação",
+      "answer": "TEVE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O \"eu\" da psicanálise",
+      "answer": "EGO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Doença virótica muito comum",
+      "answer": "GRIPE",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Uma raça de gatos",
+      "answer": "ANGORA",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Cada parte do rosto que vai dos olhos ao queixo",
+      "answer": "FACE",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Capital da Noruega",
+      "answer": "OSLO",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Bofetada",
+      "answer": "BIFA",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "(Rel.) O nome de Pilatos",
+      "answer": "PONCIO",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "(Gír.) Coisa nenhuma",
+      "answer": "NECA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Matéria-prima para a confecção de sacos",
+      "answer": "JUTA",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Prejuízo moral ou material",
+      "answer": "DANO",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "(Fig.) Desfalque",
+      "answer": "ROMBO",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Descargas elétricas que ocorrem durante tempestades",
+      "answer": "RAIOS",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Conselho Administrativo de Defesa Econômica",
+      "answer": "CADE",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Situação particular de uma pessoa ou de uma coisa",
+      "answer": "CASO",
+      "row": 7,
+      "col": 10
+    },
+    "33": {
+      "clue": "Gás de cozinha",
+      "answer": "GLP",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Efetuar, executar, praticar (um movimento corporal)",
+      "answer": "DAR",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "Sigla do estado de Maranguape e Fortaleza",
+      "answer": "CE",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

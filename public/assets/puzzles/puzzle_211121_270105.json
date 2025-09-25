@@ -1,0 +1,246 @@
+{
+  "across": {
+    "2": {
+      "clue": "(Pop.) Ficar parado, não dar prosseguimento",
+      "answer": "EMPACAR",
+      "row": 0,
+      "col": 2
+    },
+    "8": {
+      "clue": "Instruído",
+      "answer": "LIDO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Xerox",
+      "answer": "COPIA",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Inflamação do ouvido",
+      "answer": "OTITE",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Ave da mesma ordem do jacu",
+      "answer": "MUTUM",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Uma presa do gato",
+      "answer": "RATO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Medicamento com água de rosas e óleo de amêndoas",
+      "answer": "CERATO",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Outro nome do macaco bugio",
+      "answer": "BARBADO",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Oscar Niemeyer (1907-2012), arquiteto carioca",
+      "answer": "ON",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "Um tempero do galheteiro",
+      "answer": "SAL",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Ferro com propriedade atraente",
+      "answer": "IMÃ",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "Patroa",
+      "answer": "AMA",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Som de dor",
+      "answer": "UI",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Mestiço de branco com índio",
+      "answer": "CABOCLO",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Vestido com apuro",
+      "answer": "JANOTA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Peça para ligar canos",
+      "answer": "LUVA",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Que acontece a cada 12 meses",
+      "answer": "ANUAL",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "O violonista Powell (1937-2000)",
+      "answer": "BADEN",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Palanque usado em procissões",
+      "answer": "ANDOR",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "Mulher desprezível e miserável",
+      "answer": "VILÃ",
+      "row": 9,
+      "col": 7
+    },
+    "35": {
+      "clue": "(Fig.) Extorquir dinheiro, impondo preços altos",
+      "answer": "SANGRAR",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Fig.) Elite, nata",
+      "answer": "FLOR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Aviso público de autoridade",
+      "answer": "EDITAL",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Pode ser de dois tempos e de quatro tempos",
+      "answer": "MOTOR",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Sigla do Acre",
+      "answer": "AC",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "Pequeno ponto preto da pele",
+      "answer": "COMEDÃO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Situação financeira delicada",
+      "answer": "APURO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "A santa dos milagres impossíveis",
+      "answer": "RITA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Nome de duas cidades, uma paraibana e outra sergipana",
+      "answer": "ITABAIANA",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Carro",
+      "answer": "AUTOMOVEL",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "(Lisa) A mais conhecida obra de Leonardo da Vinci",
+      "answer": "MONA",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Círculo externo de uma roda",
+      "answer": "CAMBA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Competição que reúne corrida rústica e tiro ao alvo com rifle",
+      "answer": "BIATLON",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Não limpa",
+      "answer": "SUJA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Fazer vaga referência a alguma coisa",
+      "answer": "ALUDIR",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Água filtrada para barrela",
+      "answer": "COADA",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Pau usado como arma",
+      "answer": "CLAVA",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "(Pop.) Em uns",
+      "answer": "NUNS",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "De estatura muito baixa",
+      "answer": "ANÃO",
+      "row": 7,
+      "col": 10
+    },
+    "33": {
+      "clue": "Ronald Golias (1929-2005), humorista paulistano",
+      "answer": "RG",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

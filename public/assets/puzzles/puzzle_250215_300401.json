@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Dar cores diversas a",
+      "answer": "MATIZAR",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "(Inform.) Tecla que limpa uma tela",
+      "answer": "ESC",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Sinal",
+      "answer": "ACENO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Uma acrobacia da \"Esquadrilha da Fumaça\"",
+      "answer": "ESTOL",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Grosseiro",
+      "answer": "TOSCO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Espécie de chaminé usada sobre os fogões a gás",
+      "answer": "COIFA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Cinema, teatro etc.",
+      "answer": "ARTE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Prensar",
+      "answer": "CALCAR",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "(Pop.) Dor-de-cotovelo",
+      "answer": "DESPEITO",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "C",
+      "answer": "CE",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "O antônimo de entrada",
+      "answer": "SAIDA",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "Carlos Moreno, ator paulistano",
+      "answer": "CM",
+      "row": 5,
+      "col": 9
+    },
+    "22": {
+      "clue": "Conjunto de instrumentos de metal e percussão no qual podem ser incluídos saxofones",
+      "answer": "FANFARRA",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Nação com capital Kampala",
+      "answer": "UGANDA",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Interruptor elétrico que tem o formato de uma fruta",
+      "answer": "PERA",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Epidemia",
+      "answer": "SURTO",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "O ditador cubano Castro (1926-2016)",
+      "answer": "FIDEL",
+      "row": 8,
+      "col": 6
+    },
+    "30": {
+      "clue": "Provocar sensação de calor",
+      "answer": "ARDER",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Momento histórico",
+      "answer": "EPOCA",
+      "row": 9,
+      "col": 6
+    },
+    "32": {
+      "clue": "Satélite natural de um planeta",
+      "answer": "LUA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Fig.) Pôr em pratos limpos",
+      "answer": "ACLARAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(de São João) A cidade baiana com a praia do Forte",
+      "answer": "MATA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Harmonioso",
+      "answer": "ACORDE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Prova",
+      "answer": "TESTE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Que não pára",
+      "answer": "INCESSANTE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Red.) Espaço para girafas e leões",
+      "answer": "ZOO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Nova queda",
+      "answer": "RECAIDA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Relativo ao perfil moral",
+      "answer": "ETICO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Um móvel da sala",
+      "answer": "SOFA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Mús.) Um instrumento de sopro",
+      "answer": "CLARIM",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Uma brincadeira infantil muito comum na periferia de grandes cidades",
+      "answer": "SOLTARPIPA",
+      "row": 1,
+      "col": 7
+    },
+    "16": {
+      "clue": "Época da colheita de cereais",
+      "answer": "CEIFA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "(Mit. gr.) Recebeu de Zeus a caixa que continha todos os males",
+      "answer": "PANDORA",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Origem",
+      "answer": "CAUSAL",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Sem cabelos",
+      "answer": "CARECA",
+      "row": 5,
+      "col": 9
+    },
+    "22": {
+      "clue": "Uniforme militar",
+      "answer": "FARDA",
+      "row": 6,
+      "col": 2
+    },
+    "23": {
+      "clue": "Vizinhança",
+      "answer": "REDOR",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "(Pop.) Guia, pessoa que orienta ou aconselha",
+      "answer": "GURU",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Prover de asas",
+      "answer": "ALAR",
+      "row": 7,
+      "col": 10
+    },
+    "29": {
+      "clue": "Substância elaborada pelo fígado",
+      "answer": "FEL",
+      "row": 8,
+      "col": 6
+    }
+  }
+}

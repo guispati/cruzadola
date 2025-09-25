@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "As ilhas da Oceania com Pago Pago",
+      "answer": "SAMOAS",
+      "row": 0,
+      "col": 1
+    },
+    "8": {
+      "clue": "Disfarçar, ocultar",
+      "answer": "CAPEAR",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "O som que imita a voz do carneiro",
+      "answer": "ME",
+      "row": 1,
+      "col": 9
+    },
+    "11": {
+      "clue": "(Pop.) Música simples, que pode ser decorada por qualquer um",
+      "answer": "MELO",
+      "row": 2,
+      "col": 1
+    },
+    "12": {
+      "clue": "Salivar",
+      "answer": "BABAR",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Relação dos feitos de um esportista",
+      "answer": "CARTEL",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "(A) Na vertical",
+      "answer": "PINO",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Prenome",
+      "answer": "ANTENOME",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "As iniciais da atriz Pires",
+      "answer": "GP",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "Som de ave",
+      "answer": "PIO",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Que te pertence (fem.)",
+      "answer": "TUA",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "Berreiro",
+      "answer": "BUE",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Instituto de Criminalística",
+      "answer": "IC",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Chicória, alface, espinafre etc.",
+      "answer": "VERDURAS",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "A primeira emissora de TV do Brasil",
+      "answer": "TUPI",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Um animal que tem o corpo coberto de espinhos",
+      "answer": "OURIÇO",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "Precede o progresso, na nossa bandeira",
+      "answer": "ORDEM",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Sulco na pele de pessoas maduras e idosas",
+      "answer": "RUGA",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Não é?",
+      "answer": "NE",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Parte do alicerce, sustenta as paredes",
+      "answer": "SAPATA",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Outro nome do mexilhão-das-pedras",
+      "answer": "SURURU",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Regulagem de máquina para obtenção de melhor desempenho",
+      "answer": "ACERTO",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Um ingrediente do uísque",
+      "answer": "MALTE",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Que é do contra",
+      "answer": "OPOENTE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Albert Einstein (1879-1955), cientista",
+      "answer": "AE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Fica entre Sex e Dom",
+      "answer": "SAB",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Mercado paraense, centro cultural e turístico",
+      "answer": "VEROPESO",
+      "row": 0,
+      "col": 10
+    },
+    "9": {
+      "clue": "Tabaco que faz espirrar",
+      "answer": "RAPE",
+      "row": 1,
+      "col": 7
+    },
+    "10": {
+      "clue": "(Gír.) Bebedeira, pileque",
+      "answer": "MANGUAÇA",
+      "row": 1,
+      "col": 9
+    },
+    "11": {
+      "clue": "A funcionária do salão de beleza que cuida das unhas",
+      "answer": "MANICURE",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "Campeonato vencido por duas vezes",
+      "answer": "BI",
+      "row": 2,
+      "col": 8
+    },
+    "14": {
+      "clue": "Estofamento acolchoado que forma desenhos",
+      "answer": "CAPITONE",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Arbusto de folhas aromáticas, utilizadas como condimento",
+      "answer": "LOURO",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "(Fig.) Adquirir prudência, juízo",
+      "answer": "MADURAR",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Engalfinhar-se aos tapas, murros, pontapés etc.",
+      "answer": "BRIGAR",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "(Fig.) Tendência determinada por forças externas",
+      "answer": "VIES",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Serpente venenosa também conhecida como coatiara",
+      "answer": "URUTU",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Pede Deferimento",
+      "answer": "PD",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Uma conjunção adversativa",
+      "answer": "MAS",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "O símbolo químico do plutônio",
+      "answer": "PU",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

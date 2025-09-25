@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Gesto afetado",
+      "answer": "ADEMÃ",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Ato de temperar com sal peixe ou carne",
+      "answer": "SALGA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Sinal para indicar rumo",
+      "answer": "SETA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Receptáculo para levar roupa ou objetos pessoais em viagens",
+      "answer": "MALA",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Elvis Presley (1935-1977), cantor de \"Hound Dog\"",
+      "answer": "EP",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "Orifício externo de canal",
+      "answer": "MEATO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "(Quím.) Tecnécio",
+      "answer": "TC",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Árvore de cujo látex se prepara a borracha",
+      "answer": "SERINGUEIRA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Líquido sugado das flores pelos insetos",
+      "answer": "NECTAR",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "(Ingl.) Dez",
+      "answer": "TEN",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "Convocar como testemunha",
+      "answer": "CITAR",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Zombaria, alcunha",
+      "answer": "APODO",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "(Pop.) Você",
+      "answer": "OCE",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Pessoa arrogante e pretensiosa",
+      "answer": "ESNOBE",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "(Matem.) Relativo a grandeza de qualquer maneira significativa",
+      "answer": "PARAMETRICO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Uma cidade bíblica",
+      "answer": "UR",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Figura da mitologia grega, pai de Aquiles",
+      "answer": "PELEU",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Abrev.: idem",
+      "answer": "ID",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Anel, colar etc. em metal precioso",
+      "answer": "JOIA",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Cume",
+      "answer": "CIMO",
+      "row": 9,
+      "col": 7
+    },
+    "35": {
+      "clue": "A região com a escápula",
+      "answer": "OMBRO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Água em estado gasoso",
+      "answer": "VAPOR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Os ás do baralho",
+      "answer": "ASES",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Desprender, aos poucos, penas ou pelos do corpo de",
+      "answer": "DEPENICAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um famoso alienígena do cinema",
+      "answer": "ET",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Pop.) Pequeno seio",
+      "answer": "MAMICA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Que impregna, embebe ao máximo",
+      "answer": "SATURANTE",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Gel extraído das folhas da babosa",
+      "answer": "ALOE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Nota musical de símbolo A",
+      "answer": "LA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Secreto",
+      "answer": "ARCANO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "A Patalógika, da Disney, que tenta roubar a moeda número 1 do Tio Patinhas",
+      "answer": "MAGA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Intermédio",
+      "answer": "ENTREMEIO",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "13º",
+      "answer": "TREDECIMO",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Segurar com firmeza na mão",
+      "answer": "RETER",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Cidade paulista próxima a São João da Boa Vista",
+      "answer": "ITOBI",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Convexo, enfunado",
+      "answer": "COPUDO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Peneira onde se escolhe o café em grão",
+      "answer": "PORUCA",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "Assento de cavaleiro",
+      "answer": "SELA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Colocar uma coisa próxima a outra",
+      "answer": "APOR",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Cheiro",
+      "answer": "ODOR",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "Joe Biden, presidente dos EUA",
+      "answer": "JB",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Imposto Predial",
+      "answer": "IP",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

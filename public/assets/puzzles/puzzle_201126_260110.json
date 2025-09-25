@@ -1,0 +1,228 @@
+{
+  "across": {
+    "1": {
+      "clue": "O estado AP",
+      "answer": "AMAPA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Mítico gigante representado carregando o globo terrestre",
+      "answer": "ATLAS",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Combinação de preposição com pronome pessoal feminino",
+      "answer": "NELA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Qualquer um dos elementos de um conjunto",
+      "answer": "CADA",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Mamífero de coloração amarelo-tostada com barras negras",
+      "answer": "TIGRE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Elemento germinal masculino",
+      "answer": "SEMEN",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "O maior e mais importante vaso do corpo humano",
+      "answer": "AORTA",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "(Pop.) Choradeira, berreiro",
+      "answer": "BUE",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Filha de rei",
+      "answer": "PRINCESA",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Ponderar, tomar em consideração",
+      "answer": "ATENTAR",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Pedra preciosa vermelha, facilmente imitável",
+      "answer": "RUBI",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Um pouco de... tinta",
+      "answer": "TIN",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Espécime da classe dos ácaros e escorpiões",
+      "answer": "ARACNIDEO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Que não está limpo",
+      "answer": "SUJO",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Centro de veraneio dos EUA, próximo a Los Angeles",
+      "answer": "MALIBU",
+      "row": 8,
+      "col": 5
+    },
+    "31": {
+      "clue": "Tribunal de Contas da União",
+      "answer": "TCU",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Tâmara",
+      "answer": "DATIL",
+      "row": 9,
+      "col": 6
+    },
+    "33": {
+      "clue": "A moeda da Alemanha, Polônia e Finlândia",
+      "answer": "EURO",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Uma membrana como a pleura",
+      "answer": "SEROSA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Preposição que indica prioridade no tempo",
+      "answer": "ANTE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Microempreendedor Individual",
+      "answer": "MEI",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Planta marinha que envolve o sushi",
+      "answer": "ALGA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Fora do alcance visual",
+      "answer": "PAROPTICO",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "Tribunal de Contas do Estado",
+      "answer": "TCE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Passar a língua sobre",
+      "answer": "LAMBER",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Palavra usada em despedidas",
+      "answer": "ADEUS",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Remediar",
+      "answer": "SANEAR",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "R",
+      "answer": "ERRE",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Qualidade de sagrado e inviolável",
+      "answer": "SANTIDADE",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Garoto protagonista de uma série de quadrinhos de aventura, do belga Hergé",
+      "answer": "TINTIM",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Estriar",
+      "answer": "CANELAR",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Pessoa de mau caráter, ou sem préstimo",
+      "answer": "TRASTE",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Iluminação que fica sobre o criado-mudo",
+      "answer": "ABAJUR",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Tinta vegetal usada pelos indígenas",
+      "answer": "URUCU",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "8",
+      "answer": "OITO",
+      "row": 7,
+      "col": 8
+    },
+    "27": {
+      "clue": "O quinto dos vícios capitais",
+      "answer": "GULA",
+      "row": 7,
+      "col": 10
+    },
+    "30": {
+      "clue": "Pedido da plateia para repetição de uma apresentação",
+      "answer": "BIS",
+      "row": 8,
+      "col": 9
+    }
+  }
+}

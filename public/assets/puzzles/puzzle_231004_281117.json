@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Famoso museu paulistano",
+      "answer": "MASP",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Processo de reprodução gráfica",
+      "answer": "OFFSET",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Planta aquática flutuante de flores violáceas ou azuis",
+      "answer": "AGUAPE",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Porção de pelos",
+      "answer": "TUFO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "(Maroto) Grupo carioca de pagode",
+      "answer": "SORRISO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Com talento e domínio das técnicas",
+      "answer": "BEM",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Na parte interna",
+      "answer": "DENTRO",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Taís Araújo, atriz",
+      "answer": "TA",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "O 86 foi uma série de filmes cômicos",
+      "answer": "AGENTE",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Fr.) Viagem, passeio",
+      "answer": "TOUR",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Invólucro para sardinhas",
+      "answer": "LATA",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Fédération Internationale de Football Association",
+      "answer": "FIFA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Placa de trânsito que exige a suspensão do movimento",
+      "answer": "PARE",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Máquina eletrônica para tomadas de televisão",
+      "answer": "CAMERA",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Instituto de Criminalística",
+      "answer": "IC",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Uma maneira de mostrar felicidade",
+      "answer": "SORRIR",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "Voz de gato",
+      "answer": "MIO",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Ingl.) Um estilo de moda, comportamento e cultura jovem",
+      "answer": "HIPSTER",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "Veste usada por grávidas",
+      "answer": "BATA",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Vantagem obtida sem esforço",
+      "answer": "MAMATA",
+      "row": 9,
+      "col": 5
+    },
+    "38": {
+      "clue": "(Porto) A capital gaúcha",
+      "answer": "ALEGRE",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Cidade, serra e grande açude do estado do Ceará",
+      "answer": "OROS",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Fig.) Conjunto das camadas mais numerosas da população",
+      "answer": "MASSA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Precede Set",
+      "answer": "AGO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Fingir que não está ouvindo",
+      "answer": "SURDEAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Indivíduos que pertencem à mesma família",
+      "answer": "PARENTES",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O ponto cardeal que se abrevia com a letra O",
+      "answer": "OESTE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Fernanda Takai, cantora e compositora mineira do \"Pato Fu\"",
+      "answer": "FT",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Prefixo: inferioridade",
+      "answer": "SUB",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Consumar",
+      "answer": "EFETUAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Adotar",
+      "answer": "TOMAR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Pop.) Aparência, fisionomia",
+      "answer": "PINTA",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Sufixo: agente",
+      "answer": "OR",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Confiança no porvir",
+      "answer": "OTIMISMO",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "De temperatura muito baixa",
+      "answer": "GLACIAL",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Fazer doação",
+      "answer": "OFERTAR",
+      "row": 4,
+      "col": 8
+    },
+    "24": {
+      "clue": "Lasca de madeira que fica presa na pele",
+      "answer": "FARPA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Interjeição que marca o desfecho de uma ação",
+      "answer": "PIMBA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Tráfico, roubo ou peculato",
+      "answer": "CRIME",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Em lugar posterior",
+      "answer": "ATRAS",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Uma exclamação de surpresa",
+      "answer": "OH",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Sufixo diminutivo",
+      "answer": "OTE",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "Um sufixo químico",
+      "answer": "ETO",
+      "row": 8,
+      "col": 9
+    },
+    "36": {
+      "clue": "Antoni Gaudí (1852-1926), arquiteto espanhol",
+      "answer": "AG",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

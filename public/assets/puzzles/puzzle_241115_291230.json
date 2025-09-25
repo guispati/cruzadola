@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Droga usada como antibiótico",
+      "answer": "SULFA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Zona, área",
+      "answer": "FAIXA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "O Francisco (1889-1986) compositor erudito",
+      "answer": "MIGNONE",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Ibidem (no mesmo lugar)",
+      "answer": "IB",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Grande cidade americana, na Flórida",
+      "answer": "MIAMI",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Sigla do estado com a Chapada Diamantina e a Costa do Sauípe",
+      "answer": "BA",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Antecede Dom, na folhinha",
+      "answer": "SAB",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Plantar em outro lugar",
+      "answer": "TRESPOR",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Ferir",
+      "answer": "LESAR",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Gigante da mitologia",
+      "answer": "TITÃ",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Que isenta de um compromisso",
+      "answer": "LIBERATORIO",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Uma das cores da bandeira da Ucrânia",
+      "answer": "AZUL",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Solvente usado em pintura",
+      "answer": "TINER",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Recinto onde o ator se prepara para o espetáculo",
+      "answer": "CAMARIM",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Que está saudável",
+      "answer": "SÃO",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Renato Russo, músico do \"Legião Urbana\"",
+      "answer": "RR",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Famosa obra do Renascimento, de Michelangelo",
+      "answer": "DAVID",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Uma exclamação de surpresa",
+      "answer": "OH",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "Italianos da capital",
+      "answer": "ROMANOS",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Modelo, exemplo",
+      "answer": "REGRA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "O de Bengala é a maior baía do mundo, e fica no oceano Índico",
+      "answer": "GOLFO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Dezenove menos treze",
+      "answer": "SEIS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Lionel Messi, ídolo do futebol",
+      "answer": "LM",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Cessação da duração de alguma coisa",
+      "answer": "FIM",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Sacudir",
+      "answer": "AGITAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Fig.) Necessidade intensa",
+      "answer": "FOME",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "A atriz Jennifer, de \"Esposa de Mentirinha\"",
+      "answer": "ANISTON",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Inscrição Estadual",
+      "answer": "IE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Zebra",
+      "answer": "AZARÃO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Conto",
+      "answer": "NARRATIVA",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Limitar, demarcar",
+      "answer": "BALIZAR",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Rede de vime para pesca",
+      "answer": "BOTIRÃO",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "(Pop.) Que se embriaga habitualmente",
+      "answer": "BEBUM",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Um apoio para a xícara",
+      "answer": "PIRES",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Aquele que põe o arreio no dorso da cavalgadura",
+      "answer": "SELADOR",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Vedar com certo verniz",
+      "answer": "LACRAR",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Ingl.) Cronometragem",
+      "answer": "TIMING",
+      "row": 5,
+      "col": 6
+    },
+    "27": {
+      "clue": "O conjunto de folhas da planta",
+      "answer": "RAMA",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "O estado de Columbus, nos EUA",
+      "answer": "OHIO",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "(Scooby-) Um cão da Hanna-Barbera",
+      "answer": "DOO",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Registro Geral",
+      "answer": "RG",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Sophia Loren, atriz de \"Quo Vadis?\"",
+      "answer": "SL",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

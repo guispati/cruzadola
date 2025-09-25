@@ -1,0 +1,246 @@
+{
+  "across": {
+    "2": {
+      "clue": "Coser a orla de um tecido, para que não desfie",
+      "answer": "CHULEAR",
+      "row": 0,
+      "col": 2
+    },
+    "9": {
+      "clue": "Festa, comemoração",
+      "answer": "OBAOBA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Músico baiano criador dos trios elétricos",
+      "answer": "DODO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "O Léo cantor",
+      "answer": "JAIME",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Grande rio da África ocidental",
+      "answer": "NIGER",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "O escritor francês Camus, de \"A Peste\"",
+      "answer": "ALBERT",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Fig.) Habitação pequena e pobre",
+      "answer": "TOCA",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Um móvel que pode ter sapateira, gavetas e cabideiro",
+      "answer": "ARMARIO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Albert Einstein (1879-1955), autor da Teoria da Relatividade",
+      "answer": "AE",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Que tem o miolo vazio",
+      "answer": "OCO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Imitação do som de um tambor",
+      "answer": "BUM",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Um sistema de unidades físicas",
+      "answer": "CGS",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Lya Luft, escritora de \"A Sentinela\"",
+      "answer": "LL",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Guarnecer com folhas delgadas",
+      "answer": "LAMELAR",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Vagem de uma planta hortense",
+      "answer": "FAVA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Tornar evidente",
+      "answer": "PROVAR",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "Que deseja com muita vontade",
+      "answer": "AVIDO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Um submúltiplo de quilo",
+      "answer": "GRAMA",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Um equipamento para o beisebol",
+      "answer": "TACO",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Transgredir leis",
+      "answer": "VIOLAR",
+      "row": 9,
+      "col": 5
+    },
+    "35": {
+      "clue": "Espalhado aqui e ali",
+      "answer": "ESPARSO",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Casa comercial",
+      "answer": "LOJA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Peça que sustenta as ripas dos telhados",
+      "answer": "CAIBRO",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "(-Aranha) Um super-herói do cinema",
+      "answer": "HOMEM",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Importante cidade do Triângulo Mineiro",
+      "answer": "UBERABA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "A nota entre o sol e o si",
+      "answer": "LA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Compartimento reservado",
+      "answer": "ADITO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Súplica",
+      "answer": "ROGO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O Moreira (1947-2020) músico baiano",
+      "answer": "MORAES",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Um gorro para frio extremo",
+      "answer": "BALACLAVA",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Peso que corresponde a 10g",
+      "answer": "DECAGRAMA",
+      "row": 1,
+      "col": 9
+    },
+    "16": {
+      "clue": "O ex-presidente dos EUA Donald",
+      "answer": "TRUMP",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Mergulhar",
+      "answer": "IMERGIR",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Faro",
+      "answer": "OLFATO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Peça do jogo de xadrez",
+      "answer": "CAVALO",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "Grupos opostos",
+      "answer": "LADOS",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Correias que sustentam o estribo",
+      "answer": "LOROS",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "(Red.) O cargo logo abaixo do presidente",
+      "answer": "VICE",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Que não se encontra facilmente",
+      "answer": "RARO",
+      "row": 7,
+      "col": 10
+    },
+    "34": {
+      "clue": "Intimação a ir a algum lugar",
+      "answer": "VA",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

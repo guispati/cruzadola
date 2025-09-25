@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Rel.) Nosso Senhor",
+      "answer": "JESUS",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "A partir de",
+      "answer": "DESDE",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Ulysses Guimarães (1916-1992), político",
+      "answer": "UG",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Um grande sucesso de Djavan",
+      "answer": "PETALA",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "(Pop.) Variante de não",
+      "answer": "NUM",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Jazida de minérios",
+      "answer": "MINA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Dráuzio Varella, médico e escritor",
+      "answer": "DV",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Confuso e desordenado",
+      "answer": "CAOTICO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "(Pop.) Pessoa gorda, pesada, corpulenta",
+      "answer": "BOI",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "O repórter esportivo Marcos",
+      "answer": "TINO",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Visto que",
+      "answer": "POIS",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "De Oslo ou Estavanger",
+      "answer": "NORUEGUES",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "O estilista Rabanne",
+      "answer": "PACO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Carro de aluguel",
+      "answer": "TAXI",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Unidade de Pronto Atendimento",
+      "answer": "UPA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "O pintor francês Paul (1839-1906), do impressionismo",
+      "answer": "CEZANNE",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Daquela",
+      "answer": "DA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Como a maria-mole ou o suspiro",
+      "answer": "DOCE",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "(Fut.) O retângulo que é o alvo para execução de um tento",
+      "answer": "GOL",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Brejeiro, travesso",
+      "answer": "MAROTO",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "V",
+      "answer": "VE",
+      "row": 9,
+      "col": 9
+    },
+    "35": {
+      "clue": "Não gordo",
+      "answer": "MAGRO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "A Juliana atriz carioca",
+      "answer": "ALVES",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Planta flexível, usada na fabricação de cestos, móveis etc.",
+      "answer": "JUNCO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um equino",
+      "answer": "EGUA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um carro da VW",
+      "answer": "UP",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Não completamente vestido",
+      "answer": "SEMINU",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Prejuízo que se causa a alguém ou a alguma coisa",
+      "answer": "DANO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Pronome pessoal (fem.)",
+      "answer": "ELA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O parceiro de Guarabyra, do sucesso \"Espanhola\"",
+      "answer": "SA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O cantor Presley (1935-1977), do rock",
+      "answer": "ELVIS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Dois famosos esquilos de Walt Disney",
+      "answer": "TICOETECO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "(Pop.) Um veículo de duas rodas",
+      "answer": "MOTOCA",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Dezoito menos dezesseis",
+      "answer": "DOIS",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Carga que se dispara de cada vez em uma arma de fogo",
+      "answer": "TIRO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Uma grande empresa de aviação",
+      "answer": "BOEING",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Uma exclamação de admiração",
+      "answer": "PUXA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Um tipo de pelica usada na confecção de luvas e bolsas",
+      "answer": "NAPA",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Publicação periódica, com notícias",
+      "answer": "GAZETA",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Um doce colorido e gelatinoso",
+      "answer": "PUDIM",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Em + eles",
+      "answer": "NELES",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Conjunto de canto",
+      "answer": "CORO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "A quantidade de meses de uma gestação normal",
+      "answer": "NOVE",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Transferir a outrem o que está em nosso poder",
+      "answer": "DAR",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Sigla do estado de Itajubá e Pirapora",
+      "answer": "MG",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Ondas Longas",
+      "answer": "OL",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

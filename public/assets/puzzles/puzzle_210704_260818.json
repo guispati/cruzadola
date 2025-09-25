@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Fig.)  Elevar a uma posição de destaque",
+      "answer": "ALAVANCAR",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Bonito",
+      "answer": "BELO",
+      "row": 1,
+      "col": 2
+    },
+    "9": {
+      "clue": "E não, e ninguém, e nunca",
+      "answer": "NEM",
+      "row": 1,
+      "col": 7
+    },
+    "11": {
+      "clue": "Logradouro público de uma cidade, destinado principalmente ao trânsito de veículos",
+      "answer": "RUA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Peixe de água doce também chamado Saint Peter",
+      "answer": "TILAPIA",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Preposição que exprime relações de lugar",
+      "answer": "EM",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Uma atração da TV",
+      "answer": "NOVELA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "(Gír.) Parte da pele cortada quando alguém faz as unhas",
+      "answer": "BIFE",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Descuidado, negligente",
+      "answer": "OMISSO",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Uma despedida",
+      "answer": "ADEUS",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Deste modo, portanto",
+      "answer": "ASSIM",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "A atriz Fernanda",
+      "answer": "TORRES",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "A estrutura onde é exibido um vídeo",
+      "answer": "TELA",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Diz-se de vela oferecida em cumprimento a promessa",
+      "answer": "VOTIVA",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Abreviatura de videoteipe",
+      "answer": "VT",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Tempo de governo de um soberano",
+      "answer": "REINADO",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Em consequência",
+      "answer": "DAI",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Resposta de prova",
+      "answer": "NDA",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "A parte do corpo com que a vaca espanta as moscas",
+      "answer": "RABO",
+      "row": 9,
+      "col": 5
+    },
+    "37": {
+      "clue": "Cada um dos números de zero a nove",
+      "answer": "ALGARISMO",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Tirar com violência",
+      "answer": "ARREBATAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Peça saliente, em certas obras de carpintaria, alvenaria e serralheria",
+      "answer": "ABA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "A letra que simboliza o número 5 em algarismos romanos",
+      "answer": "VE",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "O da Boa Vista é o bairro carioca onde fica o Cristo Redentor e a Vista Chinesa",
+      "answer": "ALTO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Homem que está para casar",
+      "answer": "NOIVO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Aquele que avalia e examina",
+      "answer": "ANALISTA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Transferência de cota de crédito orçamentário para uma unidade administrativa subordinada",
+      "answer": "REPASSE",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "A nota E, na música",
+      "answer": "MI",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Molhado superficialmente",
+      "answer": "UMIDO",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Norma de comportamento",
+      "answer": "LEMA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Que exala cheiro agradável",
+      "answer": "AROMATICO",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Relativo à célula nervosa com seus prolongamentos",
+      "answer": "NEURONAL",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Que se cozeu na água em ebulição (fem.)",
+      "answer": "FERVIDA",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "O lutador Anderson",
+      "answer": "SILVA",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Flecha",
+      "answer": "SETA",
+      "row": 5,
+      "col": 4
+    },
+    "26": {
+      "clue": "Espécie de vinho feito com o suco fermentado das maçãs",
+      "answer": "SIDRA",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "(Fig.) Ir com grande rapidez",
+      "answer": "VOAR",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Executivo Nacional",
+      "answer": "EN",
+      "row": 8,
+      "col": 1
+    },
+    "33": {
+      "clue": "De + os",
+      "answer": "DOS",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "O bismuto, entre os químicos",
+      "answer": "BI",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

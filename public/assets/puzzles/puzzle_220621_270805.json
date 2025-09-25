@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Chuan) Uma arte marciais chinesa",
+      "answer": "TAICHI",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Buraco com água de chuva",
+      "answer": "POÇA",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "O Copérnico (1473-1543) astrônomo e matemático polonês",
+      "answer": "NICOLAU",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "O crawl é o mais praticado nas piscinas",
+      "answer": "NADO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Agnus) Um cântico da missa",
+      "answer": "DEI",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Sigla que designa o primeiro computador da série PC",
+      "answer": "XT",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "O número de minutos de um round, no boxe",
+      "answer": "TRES",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "(Pop.) Incapacidade de tomar decisão",
+      "answer": "AGONIA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Barra em cujos pontos extremos são fixadas as rodas de um veículo",
+      "answer": "EIXO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Famosa marca de relógios",
+      "answer": "ROLEX",
+      "row": 4,
+      "col": 5
+    },
+    "20": {
+      "clue": "Sigla de uma UF do CO",
+      "answer": "MS",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Área (em evento) destinada à pessoas de prestígio",
+      "answer": "VIP",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Trezentos, em algarismos romanos",
+      "answer": "CCC",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "O M do MS",
+      "answer": "MATO",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "Fazer passar através de filtro",
+      "answer": "COAR",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Maluco",
+      "answer": "ALUADO",
+      "row": 7,
+      "col": 5
+    },
+    "32": {
+      "clue": "(Pop.) Coisa nenhuma",
+      "answer": "NADICA",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "Abreviatura de ultravioleta",
+      "answer": "UV",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "Substância doce que pode ser extraída da beterraba",
+      "answer": "GLICOSE",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "A abreviatura que precede o nome da advogada",
+      "answer": "DRA",
+      "row": 9,
+      "col": 8
+    },
+    "38": {
+      "clue": "Livro de geografia",
+      "answer": "ATLAS",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Arranhar a pele com a ponta dos dedos",
+      "answer": "UNHAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Planta também chamada erva-de-passarinho",
+      "answer": "TENTEM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Catálogo dos livros cuja leitura era proibida pela Igreja",
+      "answer": "INDEX",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Zeloso, cuidadoso",
+      "answer": "CIOSO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Hospital das Clínicas",
+      "answer": "HC",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Quím.) Misturar com o elemento I",
+      "answer": "IODAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Celeiro",
+      "answer": "PAIOL",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "As duas últimas vogais",
+      "answer": "OU",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Pequena ulceração da mucosa bucal",
+      "answer": "AFTA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Um brinquedo de encaixe de peças",
+      "answer": "LEGO",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Reservado, esquivo nas relações humanas",
+      "answer": "ARISCO",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "(Pop.) Urina",
+      "answer": "XIXI",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Neblina",
+      "answer": "NEVOA",
+      "row": 3,
+      "col": 8
+    },
+    "22": {
+      "clue": "Tentar, experimentar, testar",
+      "answer": "PROVAR",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "Lugar de criação de  boxers e labradores",
+      "answer": "CANIL",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Crustáceo marinho que vive fixado a rochas",
+      "answer": "CRACA",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Sinal de adição",
+      "answer": "MAIS",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "O cantor Valença, de \"Espelho Cristalino\"",
+      "answer": "ALCEU",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "Que te pertence (fem.)",
+      "answer": "TUA",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Um atributo que deveria ser praticado pela Justiça",
+      "answer": "CEGA",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Que não é mole ou tenra",
+      "answer": "DURA",
+      "row": 7,
+      "col": 9
+    },
+    "33": {
+      "clue": "(Inform.) Sistema operacional, atualmente pouco usado",
+      "answer": "DOS",
+      "row": 8,
+      "col": 4
+    },
+    "36": {
+      "clue": "Letra do Tesouro",
+      "answer": "LT",
+      "row": 9,
+      "col": 1
+    },
+    "37": {
+      "clue": "Direitos Humanos",
+      "answer": "DH",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

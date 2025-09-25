@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Gagá",
+      "answer": "CADUCO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Buraco para se plantar um vegetal",
+      "answer": "COVA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Lugar onde a areia é abundante",
+      "answer": "AREAL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "A doença da pandemia",
+      "answer": "COVID",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Inflamação ou inchação do gânglio linfático da virilha",
+      "answer": "INGUA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Choque psíquico",
+      "answer": "ABALO",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Manifestar alegria de maneira natural",
+      "answer": "RIR",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Pop.) Na brincadeira de bater figurinhas, ganhar todas as do adversário",
+      "answer": "RAPELAR",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Virar (um carro, em acidente)",
+      "answer": "CAPOTAR",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "O músico Seixas (1945-1989), de \"Aluga-se\"",
+      "answer": "RAUL",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Corpo vegetativo de algas e fungos",
+      "answer": "TALO",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "Finalizada",
+      "answer": "ACABADA",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Mix de cereais, passas, nozes etc.",
+      "answer": "GRANOLA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Inform., ingl.) Abreviatura de Universal Serial Bus",
+      "answer": "USB",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Repouso psíquico e físico",
+      "answer": "RELAX",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Que não é transparente",
+      "answer": "OPACO",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Áspera como o vinagre",
+      "answer": "AZEDA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Sem importância",
+      "answer": "BANAL",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Divisão, parte",
+      "answer": "RAMO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "O ator Ramos, do cinema e TV",
+      "answer": "LAZARO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ser vítima de golpe, de enganação",
+      "answer": "CAIR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Tintura usada em tratamento de contusões e edemas",
+      "answer": "ARNICA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Cada nível de uma escada",
+      "answer": "DEGRAU",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Nossa!",
+      "answer": "UAU",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Fig.) Diz-se de som nítido, puro, cristalino",
+      "answer": "CLARO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Oculta",
+      "answer": "COBERTA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "A forma do circuito de corrida de Indianápolis, nos EUA",
+      "answer": "OVAL",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Pequeno núcleo habitado",
+      "answer": "VILA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O que serve para embelezar",
+      "answer": "ADORNO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "A primeira folha da revista",
+      "answer": "CAPA",
+      "row": 1,
+      "col": 6
+    },
+    "16": {
+      "clue": "Dos tempos de hoje",
+      "answer": "ATUAL",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Diz-se do voo da ave quando para no ar",
+      "answer": "PLANADO",
+      "row": 4,
+      "col": 3
+    },
+    "19": {
+      "clue": "Uniformizar",
+      "answer": "REGRAR",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Alfândega",
+      "answer": "ADUANA",
+      "row": 5,
+      "col": 8
+    },
+    "22": {
+      "clue": "Quebrar em frações",
+      "answer": "LASCAR",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "O fêmur é o seu esqueleto",
+      "answer": "COXA",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "Árvore africana de grande porte, pode viver mais de dois mil anos",
+      "answer": "BAOBA",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Oração",
+      "answer": "REZA",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Em lugar longe ou bem longe",
+      "answer": "ALEM",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Pode ser de cenoura com cobertura de chocolate",
+      "answer": "BOLO",
+      "row": 7,
+      "col": 10
+    },
+    "33": {
+      "clue": "Um dos lemas hippie",
+      "answer": "PAZ",
+      "row": 8,
+      "col": 7
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um romance de José de Alencar (1865)",
+      "answer": "IRACEMA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Big Brother Brasil",
+      "answer": "BBB",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Criança de colo",
+      "answer": "NENEM",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Breque",
+      "answer": "FREIO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "A Maria cantora e compositora",
+      "answer": "GADU",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O canal que une o rim à bexiga",
+      "answer": "URETER",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Metade de 104, em romanos",
+      "answer": "LII",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Irregular, defeituoso",
+      "answer": "ANOMALO",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Som breve e seco, de pouca intensidade",
+      "answer": "ESTALIDO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "(Gír.) Um que avisa sobre a chegada da polícia",
+      "answer": "OLHEIRO",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Um refrigerante",
+      "answer": "FANTAUVA",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Ladrão",
+      "answer": "RAPANTE",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Considerar, examinar",
+      "answer": "VER",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "De forma semelhante à de um ovo",
+      "answer": "OVOIDE",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Imóvel, firme (fem.)",
+      "answer": "FIXA",
+      "row": 8,
+      "col": 7
+    },
+    "30": {
+      "clue": "Capturar ou matar animais selvagens",
+      "answer": "CAÇAR",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Batalhar",
+      "answer": "LIDAR",
+      "row": 9,
+      "col": 6
+    },
+    "32": {
+      "clue": "Marca coreana de automóveis",
+      "answer": "KIA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Instalação para condução das águas de uma fonte para um reservatório",
+      "answer": "ADUTORA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A língua das palavras love e okay",
+      "answer": "INGLES",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O padrão monetário brasileiro (pl.)",
+      "answer": "REAIS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Passagem estreita e elevada, ao longo de túneis, pontes ou ruas",
+      "answer": "ANDITO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Rel.) O paraíso cristão",
+      "answer": "CEU",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Evandro Mesquita, cantor e ator",
+      "answer": "EM",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Deusa grega da beleza e do amor",
+      "answer": "AFRODITE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Um apelido para Betânia",
+      "answer": "BETA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Mecân.) A haste do pistão",
+      "answer": "BIELA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O B dos químicos",
+      "answer": "BORO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Peixe que se alimenta dos resíduos da alimentação de tubarões",
+      "answer": "REMORA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Que liga",
+      "answer": "UNIENTE",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Cidade paraibana, próxima à capital do estado",
+      "answer": "ALHANDRA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Objeto de uso doméstico",
+      "answer": "ALFAIA",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "A orelha",
+      "answer": "OUVIDO",
+      "row": 5,
+      "col": 8
+    },
+    "21": {
+      "clue": "Mulato alourado",
+      "answer": "SARARA",
+      "row": 5,
+      "col": 10
+    },
+    "22": {
+      "clue": "As ilhas com as praias de Pipeline e Waimea",
+      "answer": "HAVAI",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Afligir, maltratar",
+      "answer": "VEXAR",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "O estilo musical do \"Deep Purple\" e do \"Titãs\"",
+      "answer": "ROCK",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Buraco com água de chuva",
+      "answer": "POÇA",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Carro da Honda brasileira",
+      "answer": "FIT",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "(Quím.) Lutécio",
+      "answer": "LU",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

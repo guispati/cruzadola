@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "A frente que provoca normalmente chuva e queda da temperatura",
+      "answer": "FRIA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Diz-se de uma raça de gatos de pelo curto e olhos azuis",
+      "answer": "SIAMES",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Dirigir galanteios",
+      "answer": "RENTAR",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Criancinha recém-nascida ou de poucos meses",
+      "answer": "NENE",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "O nome de Pelé",
+      "answer": "EDSON",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Marca suíça de chocolates",
+      "answer": "LINDT",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Relativo às primeiras semanas de vida",
+      "answer": "NEONATAL",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Gorila sem gola",
+      "answer": "RI",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Cortar ramos e galhos",
+      "answer": "ESNOCAR",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "O sufixo da net para empresas comerciais",
+      "answer": "COM",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "O oposto de passivo",
+      "answer": "ATIVO",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "Charme",
+      "answer": "IT",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "O conde vampiro da literatura e do cinema",
+      "answer": "DRACULA",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Recíproca",
+      "answer": "MUTUA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Pequena quantidade indeterminada",
+      "answer": "ALGUM",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "A doença produzida pelo bacilo de Hansen",
+      "answer": "LEPRA",
+      "row": 8,
+      "col": 1
+    },
+    "32": {
+      "clue": "O encarregado da limpeza urbana",
+      "answer": "GARI",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Aquele que mantém a promessa",
+      "answer": "FIEL",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Alojamento flutuante para quem trabalha em plataformas petrolíferas em alto-mar",
+      "answer": "FLOTEL",
+      "row": 9,
+      "col": 5
+    },
+    "36": {
+      "clue": "Fala",
+      "answer": "FONAÇÃO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Água, em francês",
+      "answer": "EAU",
+      "row": 10,
+      "col": 8
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Desvario, exaltação que põe um indivíduo fora de si",
+      "answer": "FRENESIM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "As sociais são ótimos meios de se manter contato com amigos",
+      "answer": "REDES",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Que não consegue dormir",
+      "answer": "INSONE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Diz-se da palavra, sílaba ou vogal sem acento de intensidade",
+      "answer": "ATONO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "As iniciais do cantor e compositor de música sertaneja Reis",
+      "answer": "SR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Substância para branquear roupa lavada",
+      "answer": "ANIL",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Homens, em inglês",
+      "answer": "MEN",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Condimento semelhante ao funcho",
+      "answer": "ENDRO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Aquele que segue o sexto",
+      "answer": "SETIMO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Ruborizar",
+      "answer": "ANACARAR",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "(Pop.) Fome",
+      "answer": "LARICA",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "A atriz, apresentadora e humorista Werneck",
+      "answer": "TATA",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Marca de produtos de higiene bucal",
+      "answer": "COLGATE",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Tornado conhecido",
+      "answer": "VULGO",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "Elemento químico de símbolo Tm",
+      "answer": "TULIO",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Uma formação como Batman e Robin",
+      "answer": "DUPLA",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "A lei que libertou os escravos",
+      "answer": "AUREA",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Adolescente, em inglês",
+      "answer": "TEEN",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "O cachorro do Tintim, personagem de HQs",
+      "answer": "MILU",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Sentimento de aflição, ansiedade, inquietação",
+      "answer": "AFÃ",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "(Mús.) Fortíssimo",
+      "answer": "FF",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "O Borges músico mineiro",
+      "answer": "LO",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

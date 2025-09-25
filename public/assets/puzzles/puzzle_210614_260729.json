@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Aquele que, privado de toda a sua liberdade e de seus direitos, é propriedade de um senhor",
+      "answer": "ESCRAVO",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Acidente vascular cerebral",
+      "answer": "AVC",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "O ponto obtido no futebol",
+      "answer": "GOL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Deslocar-se sobre calçados providos de lâminas metálicas ou rodas fixadas na sola",
+      "answer": "PATINAR",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Livrar de suspeitas",
+      "answer": "ILIBAR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Gír.) Transportador de drogas de um país para outro",
+      "answer": "MULA",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Extrair sons de instrumentos musicais",
+      "answer": "TOCAR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Em + elas",
+      "answer": "NELAS",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Grande deserto da região norte do Chile",
+      "answer": "ATACAMA",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Que se alimenta de frutos",
+      "answer": "FRUTIVORO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "A abreviatura da região com MS e MT",
+      "answer": "CO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Determinar um preço",
+      "answer": "COTAR",
+      "row": 6,
+      "col": 3
+    },
+    "24": {
+      "clue": "Nelson Cavaquinho, sambista",
+      "answer": "NC",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "A planta marinha que envolve o sushi",
+      "answer": "ALGA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Exibição",
+      "answer": "ALARDE",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "Coisa que amedronta",
+      "answer": "TERROR",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Direção oblíqua",
+      "answer": "VIES",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "A 8ª letra do alfabeto",
+      "answer": "AGA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "O fruto da fava",
+      "answer": "VAGEM",
+      "row": 9,
+      "col": 4
+    },
+    "36": {
+      "clue": "Peça de tecido usada como veste",
+      "answer": "ROUPA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Não montanhoso",
+      "answer": "PLANO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O país de Cairo",
+      "answer": "EGITO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Chão",
+      "answer": "SOLO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Apertar o botão do mouse do computador",
+      "answer": "CLICAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Preparativos solenes e grandiosos",
+      "answer": "APARATO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Fut.) Video Assistant Referee",
+      "answer": "VAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Abrev.) Sinais de rádio transmitidos nas frequências de 2.300 a 5.060 KHZ",
+      "answer": "OT",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Relativo a objeto de forma circular ou de aro",
+      "answer": "ANULAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Cova comum",
+      "answer": "VALA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Fusão de duas vogais iguais",
+      "answer": "CRASE",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Antiquíssimo",
+      "answer": "IMEMORAVEL",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Fazer ruído ritmado com pancadas",
+      "answer": "BATUCAR",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "(Batalha) Um jogo de estratégia",
+      "answer": "NAVAL",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Antigo instrumento musical de cordas, símbolo da poesia",
+      "answer": "CITARA",
+      "row": 4,
+      "col": 5
+    },
+    "20": {
+      "clue": "Capacidade física de resistência a um esforço",
+      "answer": "FOLEGO",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "No lugar em que",
+      "answer": "ONDE",
+      "row": 5,
+      "col": 9
+    },
+    "22": {
+      "clue": "Estado da Arábia, possui a maior renda per capita do mundo",
+      "answer": "CATAR",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Bola ao) Basquete",
+      "answer": "CESTO",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Divisão de escala de termômetro",
+      "answer": "GRAU",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Identidade de som de duas palavras, da vogal acentuada adiante",
+      "answer": "RIMA",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Conjunto dos óvulos de um peixe",
+      "answer": "OVA",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "Grande Prêmio",
+      "answer": "GP",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma indústria marítima",
+      "answer": "PESCA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Dirigir-se",
+      "answer": "RUMAR",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Ousada, corajosa",
+      "answer": "AUDACIOSA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "A sigla de Unidade Astronômica, a distância média entre a Terra e o Sol",
+      "answer": "UA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "O Rodrigo ator de \"O Olho e a Faca\"",
+      "answer": "LOMBARDI",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Parte física de pessoa ou animal",
+      "answer": "CORPO",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "O órgão que produz a urina",
+      "answer": "RIM",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Caixão para enterrar um morto",
+      "answer": "ATAUDE",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Cadeiras geralmente possuem quatro",
+      "answer": "PES",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Que diminui o calor de",
+      "answer": "REFRESCANTE",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "O músico Jaime",
+      "answer": "LEO",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "A atriz carioca Duda",
+      "answer": "SANTOS",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "(Guevara) Um articulador da revolução cubana",
+      "answer": "CHE",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Um tipo de vinho produzido na região portuguesa do Douro",
+      "answer": "PORTO",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Do país de Porto Príncipe, na América Central",
+      "answer": "HAITIANO",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "A nota que inicia a escala musical",
+      "answer": "DO",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Introduzir novamente uma muda de vegetal na terra, para que ali se desenvolva",
+      "answer": "REPLANTAR",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "Agravamento",
+      "answer": "PIORA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Roedor parecido com o coelho",
+      "answer": "LEBRE",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Interromper com oportunos intervalos",
+      "answer": "PAUSAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Sigla do país que é a maior potência mundial",
+      "answer": "EUA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Salvador Dalí (1904-1989), pintor surrealista espanhol",
+      "answer": "SD",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Gír.) Marinheiro de primeira viagem",
+      "answer": "CALOURO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Um complexo sonoro como o dó maior",
+      "answer": "ACORDE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Autômato mecânico e eletrônico",
+      "answer": "ROBO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Sigla inglesa dos Estados Unidos",
+      "answer": "USA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Cheio de coragem, ousadia",
+      "answer": "MARRENTO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Mau, perverso",
+      "answer": "RUIM",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Que não se refere a uma pessoa em particular",
+      "answer": "IMPESSOAL",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Desta coisa",
+      "answer": "DISTO",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Um planta fundamental para a produção do pingado",
+      "answer": "CAFEEIRO",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Peça usada na cobertura de edifícios",
+      "answer": "TELHA",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Sistema de cores usado em artes gráficas",
+      "answer": "PANTONE",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Exclusivo do corpo",
+      "answer": "CARNAL",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Placar, contagem",
+      "answer": "ESCORE",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "(Ingl.) Processador",
+      "answer": "CHIP",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Brinquedo que se empina ao vento",
+      "answer": "PIPA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Ser provido de",
+      "answer": "TER",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "Completar o número de",
+      "answer": "DAR",
+      "row": 8,
+      "col": 9
+    },
+    "31": {
+      "clue": "(Quím.) O térbio",
+      "answer": "TB",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

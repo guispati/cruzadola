@@ -1,0 +1,240 @@
+{
+  "across": {
+    "1": {
+      "clue": "Fio de metal flexível",
+      "answer": "ARAME",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Superar, suplantar",
+      "answer": "BATER",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Canal",
+      "answer": "DUTO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "O antônimo de maxi",
+      "answer": "MINI",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "A letra que precede o gê",
+      "answer": "EFE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Cidade pecuária do Mato Grosso, à margem do rio Paraguai",
+      "answer": "CACERES",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Nascida em João Pessoa ou Campina Grande",
+      "answer": "PARAIBANA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "(Pop.) Bando, multidão",
+      "answer": "TROPA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Um tipo de laranja com sabor agridoce",
+      "answer": "LIMA",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "Estado dos EUA com capital Helena",
+      "answer": "MONTANA",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Princípio ou base para se entrar no conhecimento de algum assunto",
+      "answer": "DADO",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Tranquilo, calmo",
+      "answer": "MANSO",
+      "row": 6,
+      "col": 6
+    },
+    "25": {
+      "clue": "O começo da... subida",
+      "answer": "SU",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Grande vaga ou onda formada por mar revolto",
+      "answer": "ESCARCEU",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Reprimir",
+      "answer": "ENFREAR",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Papilomavírus",
+      "answer": "HPV",
+      "row": 8,
+      "col": 8
+    },
+    "31": {
+      "clue": "(Formosa) Cidade do RN",
+      "answer": "BAIA",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Roupa",
+      "answer": "FATO",
+      "row": 9,
+      "col": 7
+    },
+    "33": {
+      "clue": "Molusco que produz pérolas",
+      "answer": "OSTRA",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Dispositivo de câmaras para enquadrar o objeto a ser fotografado",
+      "answer": "VISOR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Partidário",
+      "answer": "ADEPTO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Tocar (o tambor)",
+      "answer": "RUFAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Med.) Quisto sebáceo",
+      "answer": "ATEROMA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Pedra usada para amolar lâminas",
+      "answer": "MO",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "Remoçar",
+      "answer": "AMENINAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Substância para eliminar nódoas",
+      "answer": "TIRAMANCHAS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "N",
+      "answer": "ENE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Consequência de uma piada engraçada",
+      "answer": "RISO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "A entidade que representa os advogados",
+      "answer": "OAB",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Coloração azulada da pele, resultado de deficiência na oxigenação",
+      "answer": "CIANOSE",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Outro nome da lula",
+      "answer": "CALAMAR",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Dar posse ou domínio a",
+      "answer": "APODERAR",
+      "row": 3,
+      "col": 3
+    },
+    "21": {
+      "clue": "Palavras de elogio, de aprovação, de aplauso",
+      "answer": "LOUVOR",
+      "row": 5,
+      "col": 10
+    },
+    "22": {
+      "clue": "Colinas de areia características dos grandes desertos",
+      "answer": "DUNAS",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "A membrana que separa as narinas",
+      "answer": "SEPTO",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "(Pau de) Uma brincadeira de festas juninas",
+      "answer": "SEBO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Símbolo de caloria, unidade de medida de energia",
+      "answer": "CAL",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "Carro da Honda brasileira",
+      "answer": "FIT",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "Fundos de Investimento",
+      "answer": "FI",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

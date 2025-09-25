@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Parte do alicerce, sustenta as paredes",
+      "answer": "SAPATA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O continente de Mianmar e Macau",
+      "answer": "ASIA",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Substância corante para tingir de azul",
+      "answer": "ANIL",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Plantas não cultivadas, geralmente sem serventia",
+      "answer": "MATO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Forma ou desenho inverso do tipo que se pretende reproduzir",
+      "answer": "CONTRAMOLDE",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "O cantor e compositor Beto",
+      "answer": "GUEDES",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Uma UF do SE",
+      "answer": "ES",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Praticar o esporte de Gabriel Medina",
+      "answer": "SURFAR",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "Líquido amarelado numa infecção",
+      "answer": "PUS",
+      "row": 4,
+      "col": 8
+    },
+    "19": {
+      "clue": "Estúpido, ignorante",
+      "answer": "BOÇAL",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Senil",
+      "answer": "IDOSO",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "O de Páscoa é um doce de chocolate",
+      "answer": "OVO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Aprendizado, experiência",
+      "answer": "ESCOLA",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "(Marina) Um sucesso de Wilson Simonal",
+      "answer": "SA",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Árvore de frutos comestíveis e saborosos",
+      "answer": "ATEIRA",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Ridículo e dramático ao mesmo tempo",
+      "answer": "TRAGICOMICO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "(Fut.) O de canto também é chamado de escanteio",
+      "answer": "TIRO",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "Aço que não oxida",
+      "answer": "INOX",
+      "row": 9,
+      "col": 7
+    },
+    "33": {
+      "clue": "O Papai de 25 de dezembro",
+      "answer": "NOEL",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Diz-se de mulato alourado",
+      "answer": "SARARA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Unidade comercial para feijão, farinha etc.",
+      "answer": "SACO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "No de 1939 teve início a II Guerra Mundial",
+      "answer": "ANO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Cachaceiro",
+      "answer": "PINGUÇO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Fundura",
+      "answer": "ALTURA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Namorada, querida",
+      "answer": "AMADA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O dos Apóstolos é um livro bíblico",
+      "answer": "ATOS",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O centro do nosso sistema planetário",
+      "answer": "SOL",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Crise (como a epiléptica)",
+      "answer": "ACESSO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Elemento de símbolo Am",
+      "answer": "AMERICIO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Pensar",
+      "answer": "REFLETIR",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Cada uma das divindades femininas do politeísmo",
+      "answer": "DEUSA",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Bater a massa de pão, bolo etc.",
+      "answer": "SOVAR",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "Um tipo de meia que cobre o peito do pé e a parte inferior da perna",
+      "answer": "POLAINA",
+      "row": 4,
+      "col": 8
+    },
+    "19": {
+      "clue": "(Celtics) Um dos grandes times de basquetre dos EUA",
+      "answer": "BOSTON",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Descansar na cama",
+      "answer": "DORMIR",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "(e Molhados) A banda de \"Sangue Latino\"",
+      "answer": "SECOS",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Ligeiro, desenvolto",
+      "answer": "AGIL",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "(Fut.) Torcedor do Coritiba, do Paraná",
+      "answer": "COXA",
+      "row": 7,
+      "col": 10
+    },
+    "29": {
+      "clue": "Inclusive",
+      "answer": "ATE",
+      "row": 8,
+      "col": 2
+    },
+    "30": {
+      "clue": "A da abóbora é laranja",
+      "answer": "COR",
+      "row": 8,
+      "col": 9
+    }
+  }
+}

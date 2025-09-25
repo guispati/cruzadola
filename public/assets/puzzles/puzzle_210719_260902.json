@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "O continente do rio Nilo e do deserto de Kalahari",
+      "answer": "AFRICA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O ator Santana, de \"Tim Maia\"",
+      "answer": "BABU",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "O Edgar Allan (1809-1849) escritor",
+      "answer": "POE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Tornar imbecil",
+      "answer": "IDIOTAR",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Pequena cidade do Rio Grande do Norte",
+      "answer": "ITAU",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "A capital espanhola",
+      "answer": "MADRI",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "O período de tempo oposto ao dia",
+      "answer": "NOITE",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Antigo pingente de ouro",
+      "answer": "TEIXE",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "Pequeno macaco, de cauda felpuda e comprida",
+      "answer": "SAGUI",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Interjeição imitativa de ação rápida e decidida",
+      "answer": "ZAS",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "João Bosco, músico e compositor",
+      "answer": "JB",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "A escritora paulista Hilda (1930-2004)",
+      "answer": "HILST",
+      "row": 5,
+      "col": 3
+    },
+    "27": {
+      "clue": "Sigla do estado de Itaquaquecetuba e Caraguatatuba",
+      "answer": "SP",
+      "row": 5,
+      "col": 9
+    },
+    "28": {
+      "clue": "As vogais de pelota",
+      "answer": "EOA",
+      "row": 6,
+      "col": 0
+    },
+    "30": {
+      "clue": "São quatro nas hienas",
+      "answer": "PATAS",
+      "row": 6,
+      "col": 4
+    },
+    "32": {
+      "clue": "Grande bloco de gelo, fragmentado e com muitas gretas",
+      "answer": "SERAC",
+      "row": 7,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Red. ingl.) Prédio com serviços de hotelaria",
+      "answer": "APART",
+      "row": 7,
+      "col": 6
+    },
+    "36": {
+      "clue": "A cientista Curie, Nobel de 1903, junto com seu marido, Pierre",
+      "answer": "MARIE",
+      "row": 8,
+      "col": 1
+    },
+    "38": {
+      "clue": "(Jur.) Risco",
+      "answer": "ALEA",
+      "row": 8,
+      "col": 7
+    },
+    "39": {
+      "clue": "Contrário a certos preceitos ou regras",
+      "answer": "VICIOSO",
+      "row": 9,
+      "col": 0
+    },
+    "41": {
+      "clue": "Vetado sem vogais",
+      "answer": "VTD",
+      "row": 9,
+      "col": 8
+    },
+    "42": {
+      "clue": "A Gabeira surfista de ondas gigantes",
+      "answer": "MAYA",
+      "row": 10,
+      "col": 0
+    },
+    "43": {
+      "clue": "Índio de tribo que habitava o litoral do RJ",
+      "answer": "TAMOIO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Grupo indígena que habita a região do rio Araguaia e Tocantins",
+      "answer": "APINAJES",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A 3x4 é usada em documentos",
+      "answer": "FOTO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Padrão monetário brasileiro (pl.)",
+      "answer": "REAIS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "1/5 de 505, em romanos",
+      "answer": "CI",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Uma abreviatura para administração",
+      "answer": "ADM",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Fig.) Homem muito feio",
+      "answer": "BODE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "A profissão de Laura Cardoso",
+      "answer": "ATRIZ",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Perdas de combatentes",
+      "answer": "BAIXAS",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Antiga cidade-estado junto ao rio Eufrates",
+      "answer": "UR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Um desportista das águas",
+      "answer": "IATISTA",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "O estado dos EUA com Salt Lake City",
+      "answer": "UTAH",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "Do país das famosas pirâmides",
+      "answer": "EGIPCIO",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Atravessado com uma peça usada em churrasco",
+      "answer": "ESPETADO",
+      "row": 3,
+      "col": 10
+    },
+    "21": {
+      "clue": "Unidade Lógica e Aritmética",
+      "answer": "ULA",
+      "row": 4,
+      "col": 5
+    },
+    "24": {
+      "clue": "A vida de festas e noitadas de diversão",
+      "answer": "BOEMIA",
+      "row": 5,
+      "col": 1
+    },
+    "26": {
+      "clue": "Bofetão dado com a palma da mão",
+      "answer": "TAPA",
+      "row": 5,
+      "col": 7
+    },
+    "29": {
+      "clue": "A atriz Balabanian",
+      "answer": "ARACY",
+      "row": 6,
+      "col": 2
+    },
+    "31": {
+      "clue": "Livre de risco",
+      "answer": "SALVO",
+      "row": 6,
+      "col": 8
+    },
+    "33": {
+      "clue": "Trecho musical de ópera",
+      "answer": "ARIA",
+      "row": 7,
+      "col": 3
+    },
+    "35": {
+      "clue": "Prefixo: rede",
+      "answer": "RETI",
+      "row": 7,
+      "col": 9
+    },
+    "37": {
+      "clue": "Estônia",
+      "answer": "EST",
+      "row": 8,
+      "col": 5
+    },
+    "39": {
+      "clue": "Vera Magalhães, jornalista",
+      "answer": "VM",
+      "row": 9,
+      "col": 0
+    },
+    "40": {
+      "clue": "Oceano Atlântico",
+      "answer": "OA",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

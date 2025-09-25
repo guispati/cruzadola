@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Escondida",
+      "answer": "OCULTA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Comer a refeição da noite",
+      "answer": "CEAR",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Plantação de melancias, caquis e peras",
+      "answer": "POMAR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O Javier presidente argentino",
+      "answer": "MILEI",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Peças da sola da chuteira",
+      "answer": "TRAVAS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O contrário de bonito",
+      "answer": "FEIO",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Sigla do maior estado do Brasil",
+      "answer": "AM",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Lugar que produz mel, própolis etc.",
+      "answer": "APIARIO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Abrev.: o mês 11",
+      "answer": "NOV",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "A da Liberdade é um dos pontos mais visitados nos EUA",
+      "answer": "ESTATUA",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Não desenvolvido por completo",
+      "answer": "IMATURO",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Vir à luz, surgir",
+      "answer": "ECLODIR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Bebida alcoólica ingrediente do drinque daiquiri",
+      "answer": "RUM",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "(Pop.) Prender, encarcerar",
+      "answer": "ENCANAR",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Níquel",
+      "answer": "NI",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "O mês entre abril e junho",
+      "answer": "MAIO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "O ex-craque de futebol da Guia",
+      "answer": "ADEMIR",
+      "row": 8,
+      "col": 5
+    },
+    "34": {
+      "clue": "Peixe saboroso, de águas límpidas e frias",
+      "answer": "TRUTA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Loja que vende óculos",
+      "answer": "OTICA",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "(Red.) Recipiente próprio para as dejeções humanas",
+      "answer": "VASO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Defumar",
+      "answer": "AROMAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Quem manifesta preferência por algo",
+      "answer": "OPTANTE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Bot.) Raiz, caule e folhas das plantas superiores",
+      "answer": "CORMO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A primeira hora cheia",
+      "answer": "UMA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Substância expelida por vulcões",
+      "answer": "LAVA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Encontro violento da vela contra o mastro",
+      "answer": "TRAPEADA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Escrever em código",
+      "answer": "CIFRAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Aquele que escolhe ou pode escolher por votação",
+      "answer": "ELEITOR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "As vogais do alfabeto",
+      "answer": "AEIOU",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Corrente de água",
+      "answer": "RIO",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Uma famosa capela do Vaticano",
+      "answer": "SISTINA",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Sofredor",
+      "answer": "ATURADOR",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "A capital da Lituânia",
+      "answer": "VILNIUS",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Olhar com prazer",
+      "answer": "ADMIRAR",
+      "row": 4,
+      "col": 10
+    },
+    "23": {
+      "clue": "Matéria-prima para geleias e iguarias",
+      "answer": "MOCOTO",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "A UF CE",
+      "answer": "CEARA",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Que não é semelhante a nenhuma outra",
+      "answer": "UNICA",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Que não tem curva",
+      "answer": "RETO",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Music Television, canal de TV",
+      "answer": "MTV",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Forma oblíqua de eu",
+      "answer": "MIM",
+      "row": 8,
+      "col": 8
+    }
+  }
+}

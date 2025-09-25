@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Frieza afetiva",
+      "answer": "APATIA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Bloco de concreto armado",
+      "answer": "LAJE",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "(Fam.) Criancinha de colo",
+      "answer": "NENE",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Diz-se de carne usada para fazer almôndega",
+      "answer": "MOIDA",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Em tal quantidade",
+      "answer": "TÃO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Uma obra como \"Bacurau\"",
+      "answer": "FILME",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Igreja Ortodoxa",
+      "answer": "IO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "A religião do povo hebreu",
+      "answer": "JUDAISMO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Furinho por onde a pele respira",
+      "answer": "PORO",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "O músico sertanejo Carreiro",
+      "answer": "TIÃO",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Meio de transporte fabricado pela Boeing",
+      "answer": "AVIÃO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Serviço feito a alguém, sem cobrança",
+      "answer": "FAVOR",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "(A) Sem ter ingerido bebida",
+      "answer": "SECO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "O contrário de nada",
+      "answer": "TUDO",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "(Pop.) Abacaxi",
+      "answer": "PROBLEMA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Sigla do estado de Caruaru",
+      "answer": "PE",
+      "row": 7,
+      "col": 9
+    },
+    "28": {
+      "clue": "Boi que se usa como reprodutor",
+      "answer": "TOURO",
+      "row": 8,
+      "col": 2
+    },
+    "29": {
+      "clue": "(Drive) Dispositivo de informática",
+      "answer": "PEN",
+      "row": 8,
+      "col": 8
+    },
+    "30": {
+      "clue": "Salivar",
+      "answer": "BABAR",
+      "row": 9,
+      "col": 1
+    },
+    "31": {
+      "clue": "Tronco de árvore abatida, serrado e ainda com a casca",
+      "answer": "TORA",
+      "row": 9,
+      "col": 7
+    },
+    "32": {
+      "clue": "O d'Italia é uma prova de ciclismo",
+      "answer": "GIRO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Aguentar alguém com paciência",
+      "answer": "ATURAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Shampoo de combate às pequenas escamas que se surgem no couro cabeludo",
+      "answer": "ANTICASPA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A peça mais numerosa do jogo de xadrez",
+      "answer": "PEÃO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Período de tempo entre 1º de janeiro e 31 de dezembro",
+      "answer": "ANO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "T",
+      "answer": "TE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Uma substância vegetal nutritiva",
+      "answer": "AMIDO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Abrevia-se Ltda.",
+      "answer": "LIMITADA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Que cola",
+      "answer": "ADESIVO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "José Aldo, lutador de MMA",
+      "answer": "JA",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Um movimento da torcida nos estádios",
+      "answer": "OLA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Notícia importante, publicada com exclusividade",
+      "answer": "FURO",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Organizar",
+      "answer": "COORDENAR",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Brinquedo que sempre fica em pé devido à sua base arredondada",
+      "answer": "JOÃOBOBO",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Direção do trânsito nas ruas e estradas",
+      "answer": "MÃO",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Inutilizar ingresso, perfurando-o",
+      "answer": "PICOTAR",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Presenciar",
+      "answer": "VER",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "(Gír.) Maconha",
+      "answer": "FUMO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "A parte sólida da crosta do nosso planeta",
+      "answer": "TERRA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Moon, em português",
+      "answer": "LUA",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Um fruto de forma cônica",
+      "answer": "PERA",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Portugal",
+      "answer": "POR",
+      "row": 8,
+      "col": 8
+    },
+    "30": {
+      "clue": "Torneio vencido por duas vezes",
+      "answer": "BI",
+      "row": 9,
+      "col": 1
+    },
+    "31": {
+      "clue": "Pronome da segunda pessoa do singular",
+      "answer": "TU",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

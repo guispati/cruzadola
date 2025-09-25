@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Posição de quem está deitado",
+      "answer": "DECUBITO",
+      "row": 0,
+      "col": 1
+    },
+    "11": {
+      "clue": "Um escritor como Manoel Carlos",
+      "answer": "NOVELISTA",
+      "row": 1,
+      "col": 2
+    },
+    "13": {
+      "clue": "Esquisito, inusual",
+      "answer": "ESTRANHO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Roberto Carlos, cantor de \"O Portão\"",
+      "answer": "RC",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Ceder",
+      "answer": "DAR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Abreviatura de santo",
+      "answer": "STO",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Em consequência",
+      "answer": "DAI",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Mercadoria",
+      "answer": "ITEM",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "A profissão de Camila Queiroz",
+      "answer": "ATRIZ",
+      "row": 4,
+      "col": 5
+    },
+    "23": {
+      "clue": "(Bittencourt) Rodovia que liga S e SE do Brasil",
+      "answer": "REGIS",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Buenos) A capital da Argentina",
+      "answer": "AIRES",
+      "row": 5,
+      "col": 6
+    },
+    "27": {
+      "clue": "Afrouxar",
+      "answer": "LAXAR",
+      "row": 6,
+      "col": 1
+    },
+    "29": {
+      "clue": "Temor, pavor",
+      "answer": "MEDO",
+      "row": 6,
+      "col": 7
+    },
+    "30": {
+      "clue": "Chegar",
+      "answer": "VIR",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "(Ben) O sino do Parlamento britânico, em Londres",
+      "answer": "BIG",
+      "row": 7,
+      "col": 4
+    },
+    "33": {
+      "clue": "(Psiq.) Transtorno Obsessivo-Compulsivo",
+      "answer": "TOC",
+      "row": 7,
+      "col": 8
+    },
+    "34": {
+      "clue": "Olívia Torres, atriz paulista",
+      "answer": "OT",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "Máquina para limpar pratos",
+      "answer": "LAVADORA",
+      "row": 8,
+      "col": 3
+    },
+    "37": {
+      "clue": "Admirador, adorador",
+      "answer": "VENERADOR",
+      "row": 9,
+      "col": 0
+    },
+    "39": {
+      "clue": "Destinar novamente uma verba a um fim específico",
+      "answer": "REALOCAR",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Denunciar, delatar",
+      "answer": "ENTREGAR",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Amarelo ou rosa",
+      "answer": "COR",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Os frutos da parreira",
+      "answer": "UVAS",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Dona) A avó de Narizinho e Pedrinho",
+      "answer": "BENTA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Pequena extensão de terra cercada de água",
+      "answer": "ILHOTA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Um parente materno ou paterno",
+      "answer": "TIO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Quím.) Ósmio",
+      "answer": "OS",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O Pererê do nosso folclore",
+      "answer": "SACI",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Solicitar (informações, encomendas etc.)",
+      "answer": "PEDIR",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Que leva sob seu comando",
+      "answer": "TRAZEDOR",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Um corpo celeste como a Lua",
+      "answer": "SATELITE",
+      "row": 2,
+      "col": 1
+    },
+    "18": {
+      "clue": "A gestora de uma organização",
+      "answer": "DIRETORA",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Mistura",
+      "answer": "MIX",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "O órgão que elabora a urina",
+      "answer": "RIM",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "Histórica cidade mineira, às margens do rio das Velhas",
+      "answer": "SABARA",
+      "row": 5,
+      "col": 4
+    },
+    "26": {
+      "clue": "Esmurrar",
+      "answer": "SOCAR",
+      "row": 5,
+      "col": 10
+    },
+    "28": {
+      "clue": "Competidor, adversário",
+      "answer": "RIVAL",
+      "row": 6,
+      "col": 5
+    },
+    "30": {
+      "clue": "O pai da mãe, na linguagem infantil",
+      "answer": "VOVO",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Conjunto de bois e vacas",
+      "answer": "GADO",
+      "row": 7,
+      "col": 6
+    },
+    "35": {
+      "clue": "A cantora Rita, de \"Lança-perfume\"",
+      "answer": "LEE",
+      "row": 8,
+      "col": 3
+    },
+    "36": {
+      "clue": "Documento de Ordem de Crédito",
+      "answer": "DOC",
+      "row": 8,
+      "col": 7
+    },
+    "38": {
+      "clue": "Noel Rosa (1910-1937), sambista",
+      "answer": "NR",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

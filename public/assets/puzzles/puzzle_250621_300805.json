@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O ato de desflorestar",
+      "answer": "DESMATE",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Tribunal Penal Internacional",
+      "answer": "TPI",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Prefixo latino: entre, no meio de",
+      "answer": "INTER",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Mas",
+      "answer": "POREM",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Ficar preso na lama",
+      "answer": "ATOLAR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Bater) Estar em más condições, físicas ou mentais",
+      "answer": "PINO",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "(Abrev.) Senador",
+      "answer": "SEN",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Alternar o turno",
+      "answer": "REVEZAR",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Fazer conhecer coisa desconhecida ou secreta",
+      "answer": "REVELAR",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "A cantora potiguar Roberta",
+      "answer": "SA",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Pôr em evidência",
+      "answer": "SINALAR",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Emma Thompson, atriz de \"Nanny McPhee - A Babá Encantada\"",
+      "answer": "ET",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Balneário de Portugal, próximo a Lisboa",
+      "answer": "ESTORIL",
+      "row": 6,
+      "col": 3
+    },
+    "29": {
+      "clue": "(Fig.) Orientar, guiar",
+      "answer": "NORTEAR",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Cada um dos casos em que um fato se dá",
+      "answer": "VEZ",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "O Don sedutor e conquistador",
+      "answer": "JUAN",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Da capital italiana",
+      "answer": "ROMANO",
+      "row": 8,
+      "col": 5
+    },
+    "36": {
+      "clue": "Publicação que veicula a opinião de determinado grupo ou partido",
+      "answer": "ORGÃO",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "(Fig.) Solução, recurso",
+      "answer": "SAIDA",
+      "row": 9,
+      "col": 6
+    },
+    "39": {
+      "clue": "República Oriental do Uruguai",
+      "answer": "ROU",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Um serviço de vidraceiro",
+      "answer": "EMASSAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O dramaturgo Gomes (1923-1999), de \"Roque Santeiro\"",
+      "answer": "DIAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Uma tecla do PC",
+      "answer": "ENTER",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(The Rolling) Famosa banda britânica de rock",
+      "answer": "STONES",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Fluido açucarado, viscoso, produzido por certos insetos",
+      "answer": "MEL",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "De uma cidade paulista da região de Limeira",
+      "answer": "ARARENSE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Elvis Presley (1935-1977), cantor e ator",
+      "answer": "EP",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Quase nada",
+      "answer": "TRIZ",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Estruturas que envolvem os pássaros",
+      "answer": "PENAS",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Libertino",
+      "answer": "IMORAL",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Funcionar, abrir",
+      "answer": "OPERAR",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Narrar",
+      "answer": "RELATAR",
+      "row": 2,
+      "col": 5
+    },
+    "18": {
+      "clue": "Corajosa, destemida",
+      "answer": "VALOROSA",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "O país que tem Hanói como capital",
+      "answer": "VIETNÃ",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "O cantor Jorge, de \"Fio Maravilha\"",
+      "answer": "BENJOR",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Concorrentes",
+      "answer": "RIVAIS",
+      "row": 5,
+      "col": 8
+    },
+    "26": {
+      "clue": "Signo de 21/4 a 21/5",
+      "answer": "TOURO",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Tradição popular",
+      "answer": "LENDA",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "Carne guisada, com legumes e molho",
+      "answer": "RAGU",
+      "row": 7,
+      "col": 2
+    },
+    "32": {
+      "clue": "Emitir som forte e confuso",
+      "answer": "ZOAR",
+      "row": 7,
+      "col": 10
+    },
+    "35": {
+      "clue": "Porém",
+      "answer": "MAS",
+      "row": 8,
+      "col": 7
+    },
+    "37": {
+      "clue": "Você sem consoantes",
+      "answer": "OE",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

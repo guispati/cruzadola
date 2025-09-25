@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Ingl.) Em informática, cópia de um arquivo que se reserva para um caso de perda do original",
+      "answer": "BACKUP",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Folhagem da planta",
+      "answer": "RAMA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Unidade",
+      "answer": "ITEM",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Preferir entre dois ou mais",
+      "answer": "ELEGER",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "O mesmo que cílio",
+      "answer": "CELHA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Molhar plantas",
+      "answer": "AGUAR",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "A modelo Hickmann",
+      "answer": "ANA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Lugar de criação de plantas ou de peixes",
+      "answer": "VIVEIRO",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "As letras separadas pelo S",
+      "answer": "RT",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Frase longa que é o desenvolvimento ininterrupto de uma ideia",
+      "answer": "TIRADA",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Delatora",
+      "answer": "ACUSADORA",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "O que fala com eloquência",
+      "answer": "ORADOR",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "(Quím.) Platina",
+      "answer": "PT",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Instrumento para retirar a tampa de garrafas",
+      "answer": "ABRIDOR",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Ficar na presença de",
+      "answer": "VER",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Um motor equipado para um maior rendimento",
+      "answer": "TURBO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Conselho, advertência",
+      "answer": "AVISO",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Produtor de telhas",
+      "answer": "OLEIRO",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Creme de um fruto roxo-escuro, consumido com granola, frutas etc.",
+      "answer": "AÇAI",
+      "row": 9,
+      "col": 7
+    },
+    "37": {
+      "clue": "Um peixe caçado em pesca submarina",
+      "answer": "MERO",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "O clarão que se difunde ao amanhecer",
+      "answer": "AURORA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Comer ou beber (diz-se de ave)",
+      "answer": "BICAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Que está concentrada",
+      "answer": "ATENTA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Pequeno quarto de dormir",
+      "answer": "CELA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Quilômetros por hora",
+      "answer": "KMH",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(de serra) Forma como o forró tradicional também é conhecido",
+      "answer": "PE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Aquele que dirige, governa",
+      "answer": "REGEDOR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Souza) Grande hospital carioca",
+      "answer": "AGUIAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Partir ao meio",
+      "answer": "MEAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O cereal atirado nos recém-casados",
+      "answer": "ARROZ",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Máquina automática para limpar pratos ou roupas",
+      "answer": "LAVADORA",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Informante",
+      "answer": "AVISADOR",
+      "row": 2,
+      "col": 4
+    },
+    "18": {
+      "clue": "Irritado, nervoso",
+      "answer": "IRADO",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "O violonista Santos",
+      "answer": "TURIBIO",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Andar depressa",
+      "answer": "CORRER",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "(de) Não obstante",
+      "answer": "APESAR",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Um cosmético usado para colorir os lábios",
+      "answer": "BATOM",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Famoso filme estrelado por Brad Pitt (2004)",
+      "answer": "TROIA",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Um pote para chá",
+      "answer": "BULE",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Vigor das plantas",
+      "answer": "VIÇO",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "(Fut.) Video Assistant Referee, tecnologia que auxilia arbitragens",
+      "answer": "VAR",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "Olivier Anquier, chef e apresentador",
+      "answer": "OA",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

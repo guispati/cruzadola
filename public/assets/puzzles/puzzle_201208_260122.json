@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Quadro que se usa nas escolas para nele se escrever a giz",
+      "answer": "LOUSA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Vidas) Obra-prima de Graciliano Ramos",
+      "answer": "SECAS",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Vai de A a Z",
+      "answer": "ALFABETO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "O humorista Soares",
+      "answer": "JO",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Barco de fundo chato, fluvial, próprio para mercadorias",
+      "answer": "CHALANA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Uma abreviatura do nome do mês 6",
+      "answer": "JUN",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "A sigla do estado de Rondônia",
+      "answer": "RO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Sigla de uma importante universidade brasileira",
+      "answer": "PUC",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "O grupo canadense de rock progressivo dos álbuns \"Vapor Trails\" e \"Moving Pictures\"",
+      "answer": "RUSH",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Fio de pequeníssimo diâmetro",
+      "answer": "FILAMENTO",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "A capital romena",
+      "answer": "BUCARESTE",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "(Pop.) Insuportável, terrível",
+      "answer": "LAZARENTO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Não ficar inativo",
+      "answer": "AGIR",
+      "row": 7,
+      "col": 0
+    },
+    "24": {
+      "clue": "Sensação óptica variável conforme a extensão de onda da luz",
+      "answer": "COR",
+      "row": 7,
+      "col": 5
+    },
+    "25": {
+      "clue": "Justiça Eleitoral",
+      "answer": "JE",
+      "row": 7,
+      "col": 9
+    },
+    "26": {
+      "clue": "Igual, semelhante",
+      "answer": "TAL",
+      "row": 8,
+      "col": 0
+    },
+    "27": {
+      "clue": "(NE) Abóbora",
+      "answer": "JERIMUM",
+      "row": 8,
+      "col": 4
+    },
+    "29": {
+      "clue": "Ficam no centro de... Atenas",
+      "answer": "EN",
+      "row": 9,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Gír.) Conservadorismo",
+      "answer": "CARETICE",
+      "row": 9,
+      "col": 3
+    },
+    "31": {
+      "clue": "Preparado usado para lavar os cabelos",
+      "answer": "XAMPU",
+      "row": 10,
+      "col": 0
+    },
+    "32": {
+      "clue": "Juntar",
+      "answer": "SOMAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Mistura usada para vedar garrafas, selar e fechar cartas etc.",
+      "answer": "LACRE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O órgão com a esclera, a íris, a pupila, a retina e o corpo vítreo",
+      "answer": "OLHO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ainda bem!",
+      "answer": "UFA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Temperar, espalhando gotas ou pitadas ao acaso",
+      "answer": "SALPICAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Arquear",
+      "answer": "ABAULAR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Santa",
+      "answer": "STA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "As vogais de preto",
+      "answer": "EO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Acerto de contas",
+      "answer": "AJUSTE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Conjunto de imagens ou de fantasias que se apresentam surgem durante o sono",
+      "answer": "SONHO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Ficar mais caro",
+      "answer": "ENCARECER",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Ao lado",
+      "answer": "JUNTO",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Limitado",
+      "answer": "RESTRITO",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Arma de fogo portátil",
+      "answer": "FUZIL",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Detalhes, minúcias",
+      "answer": "MENORES",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "Ponta de cigarro, depois de fumado",
+      "answer": "BAGANA",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Substância extraída da seringueira",
+      "answer": "LATEX",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "Exprimir a dor com voz lamentosa",
+      "answer": "GEMER",
+      "row": 6,
+      "col": 10
+    },
+    "25": {
+      "clue": "O ator e diretor de Oliveira, do teatro, cinema e TV",
+      "answer": "JUCA",
+      "row": 7,
+      "col": 9
+    },
+    "27": {
+      "clue": "Cidade do estado de São Paulo",
+      "answer": "JAU",
+      "row": 8,
+      "col": 4
+    },
+    "28": {
+      "clue": "Forma oblíqua tônica do pronome pessoal reto da primeira pessoa do singular",
+      "answer": "MIM",
+      "row": 8,
+      "col": 8
+    },
+    "30": {
+      "clue": "As iniciais de Portinari",
+      "answer": "CP",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

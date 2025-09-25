@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Signo, vai de 23 de setembro a 22 de outubro",
+      "answer": "LIBRA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Instituição que abriga idosos desamparados",
+      "answer": "ASILO",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "O mágico é um tradicional quebra-cabeça",
+      "answer": "CUBO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Fita para medição de grandes áreas de terreno",
+      "answer": "TRENA",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Cá",
+      "answer": "AQUI",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "Conflito entre várias pessoas",
+      "answer": "RUAÇA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Biblioteca Nacional",
+      "answer": "BN",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "(sem saída) Locução que significa circunstância embaraçosa",
+      "answer": "BECO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Empresa aérea portuguesa",
+      "answer": "TAP",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "(Pop.) Chuva",
+      "answer": "REGA",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Nível de adiantamento, ponto de avanço",
+      "answer": "ALTURA",
+      "row": 4,
+      "col": 5
+    },
+    "23": {
+      "clue": "Tubulação para águas",
+      "answer": "ADUTORA",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Anel metálico",
+      "answer": "ARGOLA",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "A cantora de jazz Fitzgerald (1917-1996)",
+      "answer": "ELLA",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Onde fica Mercúrio",
+      "answer": "CEU",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Pequena diferença",
+      "answer": "TRIZ",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Helena Ranaldi, atriz paulistana",
+      "answer": "HR",
+      "row": 7,
+      "col": 9
+    },
+    "33": {
+      "clue": "Justificação aceitável",
+      "answer": "ALIBI",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "Rio parisiense",
+      "answer": "SENA",
+      "row": 8,
+      "col": 6
+    },
+    "37": {
+      "clue": "Na parte mais elevada",
+      "answer": "ACIMA",
+      "row": 9,
+      "col": 1
+    },
+    "38": {
+      "clue": "Em + uma",
+      "answer": "NUMA",
+      "row": 9,
+      "col": 7
+    },
+    "40": {
+      "clue": "(Pop.) Uma coisa qualquer",
+      "answer": "TRECO",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "Par",
+      "answer": "CASAL",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Lilia Cabral, atriz paulista",
+      "answer": "LC",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A unidade monetária da China",
+      "answer": "IUANE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Abrev. ingl.) Churrasco",
+      "answer": "BBQ",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Que foi vítima de um ladrão",
+      "answer": "ROUBADO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Canto para adormecer crianças",
+      "answer": "ARROLO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Que lhe cabe",
+      "answer": "SEU",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Antiquado",
+      "answer": "INATUAL",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Prender com nó corredio",
+      "answer": "LAÇAR",
+      "row": 0,
+      "col": 9
+    },
+    "12": {
+      "clue": "Instituto de Educação",
+      "answer": "IE",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "(Fig.) Extinguir, destruir",
+      "answer": "APAGAR",
+      "row": 2,
+      "col": 10
+    },
+    "15": {
+      "clue": "(Pop.) Mulher velha, feia, sem atrativos",
+      "answer": "BRUACA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Nação árabe que possui a maior renda per capita do mundo",
+      "answer": "CATAR",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Tartamudez",
+      "answer": "GAGUICE",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Período de 13 dias consecutivos",
+      "answer": "TREZENA",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "O mais afastado do primeiro colocado",
+      "answer": "ULTIMO",
+      "row": 5,
+      "col": 4
+    },
+    "26": {
+      "clue": "Tocar de leve",
+      "answer": "RELAR",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Animal andino, fornece lã",
+      "answer": "LHAMA",
+      "row": 6,
+      "col": 9
+    },
+    "31": {
+      "clue": "As iniciais da cantora baiana Sangalo",
+      "answer": "IS",
+      "row": 7,
+      "col": 6
+    },
+    "34": {
+      "clue": "Uma marca de canetas",
+      "answer": "BIC",
+      "row": 8,
+      "col": 3
+    },
+    "36": {
+      "clue": "Pelados",
+      "answer": "NUS",
+      "row": 8,
+      "col": 8
+    },
+    "39": {
+      "clue": "Alagoas",
+      "answer": "AL",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

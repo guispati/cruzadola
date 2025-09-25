@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Cabernet) Uma variedade de uva para vinhos",
+      "answer": "FRANC",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Um produto cosmético para a pele",
+      "answer": "SERUM",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Um sucesso de Jorge Ben Jor",
+      "answer": "QUEPENA",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Município paraense da região de Altamira, no Sudoeste do estado",
+      "answer": "URUARA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Pequena quantidade",
+      "answer": "TICO",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Um tipo de empresa",
+      "answer": "MEI",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Aquele que transforma os metais preciosos em joias",
+      "answer": "OURIVES",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "(Greco) Um famoso pintor nascido na ilha de Creta",
+      "answer": "EL",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Alameda",
+      "answer": "BULEVAR",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Uma consoante como o N ou o M",
+      "answer": "NASAL",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Movimentações das águas oceânicas",
+      "answer": "MARES",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Espetáculo circense de destreza, agilidade e habilidade com objetos",
+      "answer": "MALABAR",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Apelido de Juliano",
+      "answer": "JU",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Capturar",
+      "answer": "APRESAR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "O contrário de guerra",
+      "answer": "PAZ",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "A de departamentos é um comércio com grande variedade de itens",
+      "answer": "LOJA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Cada elemento do cálice da flor",
+      "answer": "SEPALA",
+      "row": 8,
+      "col": 5
+    },
+    "32": {
+      "clue": "O Ferreira da Silva, medalhista de ouro na Olimpíada de 1952",
+      "answer": "ADHEMAR",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "O ingrediente principal do risoto",
+      "answer": "ARROZ",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Lavoura",
+      "answer": "ARADA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Rio, curso de água, na linguagem formal",
+      "answer": "FLUMEN",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Especialmente próximo (no espaço)",
+      "answer": "AQUI",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Despida",
+      "answer": "NUA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Peça do vestuário masculino usada por baixo das calças",
+      "answer": "CEROULAS",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "A sigla do estado de Aracaju",
+      "answer": "SE",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Revestir de tábuas",
+      "answer": "ENTIVAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Esbravejar",
+      "answer": "RAIVAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "As partes do corpo que controlam a bola no handebol",
+      "answer": "MÃOS",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "O cantor e compositor inglês McCartney, ex-integrante dos Beatles",
+      "answer": "PAUL",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "(Pop.) O clarão do raio",
+      "answer": "RELAMPO",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "A plantação de um fruto muito usado para enfeitar bolos",
+      "answer": "CEREJAL",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Um brinquedo de parques infantis",
+      "answer": "REMAREMA",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Atingido com tiros",
+      "answer": "BALEADO",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Fazer incisões em",
+      "answer": "SARJAR",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "A atriz carioca Vieira",
+      "answer": "SUZANA",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Centro de abastecimento ou de operações militares",
+      "answer": "BASE",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Presilha usada para levantar, puxar ou carregar uma mala",
+      "answer": "ALÇA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "O segundo maior estado do Brasil",
+      "answer": "PARA",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Um número como 32 ou 96",
+      "answer": "PAR",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Abreviatura de hertz, unidade de frequência",
+      "answer": "HZ",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

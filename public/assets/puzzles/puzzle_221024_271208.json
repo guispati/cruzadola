@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Província meridional de Portugal, com lindas praias",
+      "answer": "ALGARVE",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Uma abreviatura do nome do mês 2",
+      "answer": "FEV",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Uma anedota impressa",
+      "answer": "CARTUM",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Que não tem préstimo",
+      "answer": "MIXO",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "A região do corpo onde se aplica o desodorante",
+      "answer": "AXILA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "6º",
+      "answer": "SEXTO",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Lance que finaliza um jogo de xadrez",
+      "answer": "MATE",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Campo de ação",
+      "answer": "SETOR",
+      "row": 3,
+      "col": 5
+    },
+    "16": {
+      "clue": "Argênteo",
+      "answer": "PRATEADO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Alanis Guillen, atriz paulista",
+      "answer": "AG",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "Bem cadenciado",
+      "answer": "RITMADO",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Reverendo Padre",
+      "answer": "RP",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Pop.) Mulher que participa dos desfiles de escola de samba",
+      "answer": "CABROCHA",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "A UF AP",
+      "answer": "AMAPA",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "O Buñuel (1900-1983), cineasta de \"A Bela da Tarde\"",
+      "answer": "LUIS",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "A cor do romã",
+      "answer": "GRENA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Pó que é o elemento de fecundação de certas plantas",
+      "answer": "POLEN",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Recompensado, remunerado",
+      "answer": "PAGO",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Ponta de cigarro, depois de fumado",
+      "answer": "BAGANA",
+      "row": 9,
+      "col": 5
+    },
+    "33": {
+      "clue": "Senhora",
+      "answer": "SRA",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Não saber",
+      "answer": "IGNORAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Usar barracas ao ar livre",
+      "answer": "ACAMPAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Afrouxar",
+      "answer": "LAXAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Falar em voz muito alta",
+      "answer": "GRITAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Torcedor do \"furacão\" paranaense",
+      "answer": "ATLETICANO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Via para carros",
+      "answer": "RUA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Vime sem vogais",
+      "answer": "VM",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Que não varia",
+      "answer": "FIXO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Edição especial de revista",
+      "answer": "EXTRA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Viagem aérea",
+      "answer": "VOO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Pessoa que estuda as técnicas de pesquisas próprias de determinado campo do saber",
+      "answer": "METODOLOGO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Remediar para suportar uma cirugia",
+      "answer": "SEDAR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "O gênero musical de Paulinho da Viola e Cartola",
+      "answer": "SAMBA",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Fase, estágio",
+      "answer": "ETAPA",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Soltar a voz (pato)",
+      "answer": "GRASNAR",
+      "row": 4,
+      "col": 10
+    },
+    "21": {
+      "clue": "Do olho ou da vista",
+      "answer": "OCULAR",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Não ir além, ficar",
+      "answer": "PARAR",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Mamífero voraz, de hábitos noturnos",
+      "answer": "HIENA",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Um milhão, indicando unidade de medida",
+      "answer": "MEGA",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Sigla de Global Positioning System, sistema de localização",
+      "answer": "GPS",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "O Peter da \"Terra do Nunca\"",
+      "answer": "PAN",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Bruno Gagliasso, ator carioca",
+      "answer": "BG",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

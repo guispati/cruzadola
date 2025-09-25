@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Tornar magro",
+      "answer": "DESCARNAR",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Em seguida",
+      "answer": "DEPOIS",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "Toró sem ós",
+      "answer": "TR",
+      "row": 1,
+      "col": 9
+    },
+    "11": {
+      "clue": "As iniciais do cantor Carlos, de \"Emoções\"",
+      "answer": "RC",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Do lago",
+      "answer": "LACUSTRE",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "(Vista) A capital roraimense",
+      "answer": "BOA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Aromas, perfumes, odores",
+      "answer": "CHEIROS",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Uma grande marca japonesa de motos",
+      "answer": "YAMAHA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Viciado em craque",
+      "answer": "NOIA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "(of Thrones) Seriado e jogo baseado nos livros de ficção George R. R. Martin",
+      "answer": "GAME",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "(-múndi) Desenho do globo terrestre",
+      "answer": "MAPA",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Peça do vestuário que se usa para cobrir as mãos",
+      "answer": "LUVA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Duradouro, incessante",
+      "answer": "PERENE",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "(José de) O romancista cearense (1829-1877) de \"Senhora\"",
+      "answer": "ALENCAR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Precede Angeles na cidade dos EUA",
+      "answer": "LOS",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Massa alimentícia em forma de tiras",
+      "answer": "TALHARIM",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Shirley Temple (1828-2014), atriz norte-americana",
+      "answer": "ST",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Estar (bem ou mal) de saúde",
+      "answer": "IR",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Pop.) Dar palpite",
+      "answer": "APITAR",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Outro nome do pau-brasil",
+      "answer": "BRASILETO",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Ingl.) Um clássico esportivo",
+      "answer": "DERBY",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Abreviatura de Sem Data, usada em bibliografias",
+      "answer": "SD",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Abrev.: Coronel",
+      "answer": "CEL",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "(Forte) Um brinquedo de faroeste",
+      "answer": "APACHE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Grande massa mineral compacta",
+      "answer": "ROCHA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Ilha do oceano Pacífico; sua capital é Alofi",
+      "answer": "NIUE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Escrever o próprio nome num documento, para assumir a responsabilidade do seu conteúdo",
+      "answer": "ASSINAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Garra de ave de rapina",
+      "answer": "PRESA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Os habitantes da antiga cidade da Frígia que foi tomada pelos gregos",
+      "answer": "TROIANOS",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Condensar uma coisa líquida",
+      "answer": "COAGULAR",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Agrupamento de pessoas a moverem-se em desordem",
+      "answer": "TROPEL",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Cortês, simpático",
+      "answer": "AMAVEL",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Lavrar, cultivar a terra",
+      "answer": "AMANHAR",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Um rio fluminense",
+      "answer": "MERITI",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Língua oficial da igreja católica romana",
+      "answer": "LATIM",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Uma capital europeia",
+      "answer": "PARIS",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Tempo quente e seco",
+      "answer": "ESTIO",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Uma característica da roupa do Super-Homem",
+      "answer": "CAPA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "(-educado) Que age com grosseria",
+      "answer": "MAL",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Se repetem em perereca",
+      "answer": "RE",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

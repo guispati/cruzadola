@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Correlativo de outros",
+      "answer": "UNS",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "A voz de muitos gatos",
+      "answer": "MIADA",
+      "row": 0,
+      "col": 4
+    },
+    "9": {
+      "clue": "(Culin.) Uma iguaria preparada com partes da galinha",
+      "answer": "MOELA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Regra a seguir",
+      "answer": "NORMA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "As letras cercadas pelo H e pelo K",
+      "answer": "IJ",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Nicho doméstico com imagem religiosa",
+      "answer": "ORATORIO",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Aquela que dá o que possui, por generosidade",
+      "answer": "DOADORA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "(Inform., ingl.) Abreviatura de Universal Serial Bus",
+      "answer": "USB",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Unidade de medida elétrica de símbolo V",
+      "answer": "VOLT",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Roupa de grávida",
+      "answer": "BATA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Golpe com um instrumento usado por costureiras",
+      "answer": "TESOURADA",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Diabo",
+      "answer": "DEMO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "O de saia é um sinônimo popular para mulher",
+      "answer": "RABO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "A primeira hora cheia",
+      "answer": "UMA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Animal de grande porte, também chamado baleia-corcunda",
+      "answer": "JUBARTE",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Organização comercial da América do Sul",
+      "answer": "MERCOSUL",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Relê sem és",
+      "answer": "RL",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Um signo",
+      "answer": "ARIES",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "A Roberts atriz de \"Comer Rezar Amar\"",
+      "answer": "JULIA",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Alameda",
+      "answer": "ALEIA",
+      "row": 10,
+      "col": 2
+    },
+    "36": {
+      "clue": "O Bono vocalista da banda de rock U2",
+      "answer": "VOX",
+      "row": 10,
+      "col": 8
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Molhado superficialmente",
+      "answer": "UMIDO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Náusea",
+      "answer": "NOJO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sigla do estado que fica entre Alagoas e Bahia",
+      "answer": "SE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Fruto também conhecido como araticum-cortiça",
+      "answer": "MAROLO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Um bicho do Brasil",
+      "answer": "ANTA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "(Scooby-) Um cão da Hanna-Barbera",
+      "answer": "DOO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Aquele que vagabundeia",
+      "answer": "ARRUADOR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Árvore africana que pode viver mais de dois mil anos",
+      "answer": "BAOBA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Lamacento",
+      "answer": "LODOSO",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Constituída por mais de um elemento diferente",
+      "answer": "MISTA",
+      "row": 1,
+      "col": 9
+    },
+    "15": {
+      "clue": "A quarta estrela mais brilhante do céu",
+      "answer": "ARTURUS",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "(Rel.) Cada uma das contas menores de um terço",
+      "answer": "AVEMARIA",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "O amigo de Pepe Legal, nos desenhos animados",
+      "answer": "BABALU",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Ter medo de algo",
+      "answer": "TEMER",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "(Pop.) Impertinente",
+      "answer": "RABUJA",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "De + umas",
+      "answer": "DUMAS",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Repouso psíquico e físico",
+      "answer": "RELAX",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "O ator Loreto",
+      "answer": "JOSE",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "O Irakitan foi um famoso grupo musical brasileiro",
+      "answer": "TRIO",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Abrev.: celular",
+      "answer": "CEL",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Luchino Visconti, cineasta italiano de \"Rocco e seus Irmãos\"",
+      "answer": "LV",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

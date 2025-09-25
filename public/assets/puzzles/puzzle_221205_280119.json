@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Produzir inflorescência (o milho, o trigo etc.)",
+      "answer": "ESPIGAR",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "A sigla de um programa de TV de reality show",
+      "answer": "BBB",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Uma capital europeia",
+      "answer": "VIENA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Escora",
+      "answer": "APOIO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "As formações de água que arrebentam nas praias",
+      "answer": "ONDAS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Um habitante de Bruges ou Bruxelas",
+      "answer": "BELGA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Que não pertence ao clero",
+      "answer": "LAICO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "(Anat.) Cada uma das peças do esqueleto",
+      "answer": "OSSO",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "Famoso grupo de rock progressivo",
+      "answer": "RUSH",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Conselho Administrativo de Defesa Econômica",
+      "answer": "CADE",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Inspetor Geral",
+      "answer": "IG",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Pássaro comum, de lindo canto",
+      "answer": "SABIA",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Sigla do estado de Guarapari e Marataízes",
+      "answer": "ES",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Chuva",
+      "answer": "REGA",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Em que lugar?",
+      "answer": "ONDE",
+      "row": 6,
+      "col": 5
+    },
+    "30": {
+      "clue": "Uma das luas",
+      "answer": "NOVA",
+      "row": 7,
+      "col": 1
+    },
+    "32": {
+      "clue": "Salário",
+      "answer": "SOLDO",
+      "row": 7,
+      "col": 6
+    },
+    "34": {
+      "clue": "Queixar-se",
+      "answer": "GEMER",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "Plantação de mate",
+      "answer": "ERVAL",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "Conjunto de pessoas que descendem de um casal",
+      "answer": "PROLE",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Obstinação em algo",
+      "answer": "TEIMA",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "(A) Sem companhia",
+      "answer": "SOS",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Invadir, dominar",
+      "answer": "APOSSAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Passar por uma série progressiva de transformações",
+      "answer": "EVOLUIR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Destino, geralmente mau, cheio de amarguras",
+      "answer": "SINA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Solicitar humilde e insistentemente",
+      "answer": "PEDIR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Isento de motivo de imputação ou denúncia",
+      "answer": "INACUSAVEL",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Limonada efervescente",
+      "answer": "GASOSA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Um apêndice dos animais",
+      "answer": "RABO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "A de valores é uma instituição econômica",
+      "answer": "BOLSA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Pelos que crescem acima do lábio",
+      "answer": "BIGODE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Oposto de má",
+      "answer": "BOA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Aqueles que apanham peixes na água",
+      "answer": "PESCADORES",
+      "row": 1,
+      "col": 7
+    },
+    "18": {
+      "clue": "Canal de filmes da TV paga",
+      "answer": "HBO",
+      "row": 4,
+      "col": 5
+    },
+    "20": {
+      "clue": "O transporte destinado a alunos de escolas e faculdades",
+      "answer": "ESCOLAR",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Categoria, classe",
+      "answer": "GENERO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Um artrópode como a barata",
+      "answer": "INSETO",
+      "row": 5,
+      "col": 6
+    },
+    "27": {
+      "clue": "As partes em que está dividida a tangerina",
+      "answer": "GOMOS",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "O cantor Presley (1935-1977), do rock",
+      "answer": "ELVIS",
+      "row": 6,
+      "col": 8
+    },
+    "31": {
+      "clue": "Calcula-se em metros quadrados",
+      "answer": "AREA",
+      "row": 7,
+      "col": 4
+    },
+    "33": {
+      "clue": "Rainha, no baralho",
+      "answer": "DAMA",
+      "row": 7,
+      "col": 9
+    },
+    "34": {
+      "clue": "Um sistema de localização global",
+      "answer": "GPS",
+      "row": 8,
+      "col": 0
+    }
+  }
+}

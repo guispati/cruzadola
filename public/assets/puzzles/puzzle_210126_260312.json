@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Mandar para fora o ar dos pulmões e dos brônquios",
+      "answer": "EXPIRAR",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Local onde o rei Artur se reunia com os cavaleiros da Távola Redonda",
+      "answer": "CAMELOT",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Quociente de Inteligência",
+      "answer": "QI",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Marcos Palmeira, ator carioca",
+      "answer": "MP",
+      "row": 2,
+      "col": 2
+    },
+    "14": {
+      "clue": "O princípio da vida racional",
+      "answer": "PSIQUE",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Sem paciência",
+      "answer": "IMPACIENTE",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "A música típica do Paraguai",
+      "answer": "GUARANIA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "O centro de... Capivari",
+      "answer": "IV",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Correlativo de outros",
+      "answer": "UNS",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Colocar algo em outra coisa ou numa pessoa",
+      "answer": "POR",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "(Sigla) Violenta modalidade esportiva de luta",
+      "answer": "MMA",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "Interjeição que expressa grande dor",
+      "answer": "AI",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Bater no chão com o salto dos calçados",
+      "answer": "SAPATEAR",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "Viciado no produto alimentar doce à base de cacau e açúcar",
+      "answer": "CHOCOLATRA",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Famosa torre localizada em Paris",
+      "answer": "EIFFEL",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "A cantora Ozzetti, da MPB",
+      "answer": "NA",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "O que muda mala para marola",
+      "answer": "RO",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Fig.) Exercer efeito maléfico ou pernicioso sobre",
+      "answer": "ATINGIR",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "Raro",
+      "answer": "ESCASSO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "90, em algarismos romanos",
+      "answer": "XC",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Região natural do sul da América do Sul",
+      "answer": "PAMPAS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um número como o 7 ou o 25",
+      "answer": "IMPAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Mús.) A nota D",
+      "answer": "RE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Cidade mineira da região de Passos",
+      "answer": "ALPINOPOLIS",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Canteiro de flores espinhosas",
+      "answer": "ROSEIRAL",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Pássaro de corpo vermelho e asas pretas",
+      "answer": "TIE",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Recipiente de madeira do vinhateiro",
+      "answer": "TINA",
+      "row": 1,
+      "col": 7
+    },
+    "11": {
+      "clue": "(Fig.) Dar cabo ou fim de",
+      "answer": "QUEIMAR",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Ave aquática de cauda, pescoço e bico alongados",
+      "answer": "BIGUA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "As iniciais do cineasta Tarantino, de \"Cães de Aluguel\"",
+      "answer": "QT",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "(Pop.) Pão de má qualidade que faz parte do rancho dos soldados",
+      "answer": "MUNICIO",
+      "row": 3,
+      "col": 1
+    },
+    "18": {
+      "clue": "Uma proteção para ciclistas",
+      "answer": "CAPACETE",
+      "row": 3,
+      "col": 4
+    },
+    "21": {
+      "clue": "Armação usada para secar roupas",
+      "answer": "VARAL",
+      "row": 4,
+      "col": 10
+    },
+    "24": {
+      "clue": "Utensílios de cozinha",
+      "answer": "METAIS",
+      "row": 5,
+      "col": 8
+    },
+    "26": {
+      "clue": "Um móvel para a sala de estar",
+      "answer": "SOFA",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Biquíni muito pequeno",
+      "answer": "TANGA",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Háfnio",
+      "answer": "HF",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Um ciclo histórico",
+      "answer": "ERA",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "As iniciais da cantora carioca Nana",
+      "answer": "NC",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Sigla do estado de Novo Hamburgo e Gramado",
+      "answer": "RS",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

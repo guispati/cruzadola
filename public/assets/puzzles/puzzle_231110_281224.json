@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Reunião, assembleia pré-eleitoral",
+      "answer": "COMICIO",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Ministério da Educação",
+      "answer": "MEC",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Fruto parecido com uma goiaba",
+      "answer": "ARAÇA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Madeira usada em instrumentos musicais",
+      "answer": "EBANO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Barco estreito e pequeno",
+      "answer": "PINAÇA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(NE) Interjeição de alegria e incitamento",
+      "answer": "EITA",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Nove, em algarismos romanos",
+      "answer": "IX",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Instrumento para reduzir o queijo a fragmentos",
+      "answer": "RALADOR",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Sacerdote",
+      "answer": "SAC",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Praça dos Três) Conjunto arquitetônico de Brasília",
+      "answer": "PODERES",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "Uma flor ornamental",
+      "answer": "AMAPOLA",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Tornar pior",
+      "answer": "AGRAVAR",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Um ácido alucinógeno",
+      "answer": "LSD",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Resguardar",
+      "answer": "RECATAR",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "As duas primeiras vogais",
+      "answer": "AE",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "(Bot.) Outro nome do cipreste",
+      "answer": "FAIA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Mandar recado, informar",
+      "answer": "AVISAR",
+      "row": 8,
+      "col": 5
+    },
+    "35": {
+      "clue": "Fita adesiva",
+      "answer": "DUREX",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Qualquer coisa mais que o necessário",
+      "answer": "EXTRA",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "Su-sudoeste",
+      "answer": "SSO",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Outro nome da lula",
+      "answer": "CALAMAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Profissional que desenha a parte exterior de um livro",
+      "answer": "CAPISTA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Divindade de cultos como o candomblé e a macumba",
+      "answer": "ORIXA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Homem, em Londres",
+      "answer": "MAN",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Levantar com cordas",
+      "answer": "IÇAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Uma cidade de SP",
+      "answer": "CAÇAPAVA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Em física: abreviatura de oersted",
+      "answer": "OE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Aquele a quem outros estão subordinados",
+      "answer": "MAIORAL",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Em posição intermediária",
+      "answer": "ENTRE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Porção de líquido filtrado",
+      "answer": "COA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Censor",
+      "answer": "BEDEL",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Médico que trata doenças mediante remédios contrários a elas",
+      "answer": "ALOPATA",
+      "row": 2,
+      "col": 5
+    },
+    "18": {
+      "clue": "Digno de culto, de veneração",
+      "answer": "ADORAVEL",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "Que pede muito dinheiro",
+      "answer": "CAREIRO",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Deixar sem ação, paralisar",
+      "answer": "SIDERAR",
+      "row": 4,
+      "col": 10
+    },
+    "24": {
+      "clue": "Cidade litorânea do Rio de Janeiro",
+      "answer": "MACAE",
+      "row": 5,
+      "col": 3
+    },
+    "26": {
+      "clue": "As divisões da escala de um termômetro",
+      "answer": "GRAUS",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Deserto cuja superfície é quase tão vasta quanto a do Brasil",
+      "answer": "SAARA",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "Disputa, competição",
+      "answer": "RIXA",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Fundo de Desenvolvimento Social",
+      "answer": "FDS",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Superior Tribunal Militar",
+      "answer": "STM",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "Duas consoantes que ficam juntas à esquerda do teclado",
+      "answer": "XC",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

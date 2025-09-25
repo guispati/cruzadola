@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Remunerado",
+      "answer": "PAGO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Ato que pode caracterizar uma afecção da garganta",
+      "answer": "TOSSIR",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "A cantora carioca de \"Envolver\"",
+      "answer": "ANITTA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Facção, grupo",
+      "answer": "LADO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Boato vago",
+      "answer": "RUMOR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "A, E, I, O ou U",
+      "answer": "VOGAL",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Ivan Lins, músico de \"Madalena\"",
+      "answer": "IL",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Medida de comprimento igual a 2,54 cm",
+      "answer": "POLEGADA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Golpe dado com um calçado",
+      "answer": "SAPATADA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Executivo Nacional",
+      "answer": "EN",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Roedor distribuído por todo o mundo, também chamado guabiru",
+      "answer": "RATAZANA",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Enlouquecer",
+      "answer": "PIRAR",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "A ele",
+      "answer": "LHE",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "O território de China e Japão",
+      "answer": "ASIA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Fig.) Desfalque",
+      "answer": "ROMBO",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "Fluido açucarado, viscoso, produzido pelas abelhas",
+      "answer": "MEL",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Arbusto espinhoso de jardim",
+      "answer": "ROSEIRA",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "Matança de aves para o consumo",
+      "answer": "ABATE",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "(Anat.) Ducto",
+      "answer": "CANAL",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "Que não tem companhia",
+      "answer": "SO",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Pequena flauta de sons estridentes",
+      "answer": "PIFARO",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A capital da França",
+      "answer": "PARIS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O dedo onde se usa aliança",
+      "answer": "ANULAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Uma bebida alcoólica transparente",
+      "answer": "GIM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Termo genérico para toda doença dos ouvidos",
+      "answer": "OTOPATIA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Pop.) Está combinado!",
+      "answer": "TA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Frase publicitária",
+      "answer": "SLOGAN",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Narrativa cheia de incidentes e perigos",
+      "answer": "SAGA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A do bronze se caracterizou pela utilização deste metal em utensílios, obras de arte etc.",
+      "answer": "IDADE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Tipo de escada com degraus que se movimentam",
+      "answer": "ROLANTE",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Dar uma carreira (a cavalo)",
+      "answer": "TROTAR",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Um tipo de fita usada por encanadores",
+      "answer": "VEDAROSCA",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "O ator Ramos, do cinema e TV",
+      "answer": "LAZARO",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Órgão sensível da língua",
+      "answer": "PAPILA",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Aquele que tem falta completa de pigmento cutâneo",
+      "answer": "ALBINO",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "O beliche possui duas",
+      "answer": "CAMAS",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Momento combinado",
+      "answer": "HORA",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "(Pau de) Poste besuntado em cujo topo se acham prendas",
+      "answer": "SEBO",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Chegar ao meio",
+      "answer": "MEAR",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "O K do baralho",
+      "answer": "REI",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Uma tecla do notebook",
+      "answer": "ALT",
+      "row": 8,
+      "col": 10
+    },
+    "35": {
+      "clue": "Tonico Pereira, ator",
+      "answer": "TP",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

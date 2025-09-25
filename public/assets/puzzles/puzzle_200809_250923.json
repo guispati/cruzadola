@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um famoso carro da VW",
+      "answer": "FUSCA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "De pouca força (fem.)",
+      "answer": "FRACA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Ato de derrapar nas rodas traseiras",
+      "answer": "RABEIO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "As iniciais do ator Lancaster (1913-1994), de \"A Um Passo da Eternidade\"",
+      "answer": "BL",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "As iniciais do ex-lutador de boxe Jofre",
+      "answer": "EJ",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Massa de um fruto vermelho, carnudo e liso",
+      "answer": "TOMATADA",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Máquina que reduz a espessura das peças de metal",
+      "answer": "LAMINADOR",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Sistema racional",
+      "answer": "METODO",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Código de Processo Civil",
+      "answer": "CPC",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Destino",
+      "answer": "SINA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Planta cuja semente é muito consumida atualmente por seu valor nutricional",
+      "answer": "CHIA",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "Mete-os pelas mãos quem pratica asneiras, tolices",
+      "answer": "PES",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Independentes",
+      "answer": "LIVRES",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Plantio de certos frutos silvestres",
+      "answer": "AMOREIRAL",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Esforçado, estudioso",
+      "answer": "APLICADO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Um apelido para Roberta",
+      "answer": "RO",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "O símbolo químico do rádio",
+      "answer": "RA",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Pessoa muito beata",
+      "answer": "CAROLA",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Presumir, julgar",
+      "answer": "SUPOR",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Furo",
+      "answer": "ROMBO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Exato, preciso",
+      "answer": "FIEL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Abrev.) Senhor",
+      "answer": "SR",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Bonito",
+      "answer": "CATITA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Complemento de salário",
+      "answer": "ABONO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "A crédito",
+      "answer": "FIADO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Mal vestido",
+      "answer": "ROTO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "As consoantes de cabide",
+      "answer": "CBD",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Península norte-americana no extremo noroeste do continente",
+      "answer": "ALASCA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Revestir com certo material de construção e de trabalho",
+      "answer": "EMADEIRAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "O chef britânico Oliver",
+      "answer": "JAMIE",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "A atriz Anne, de \"Atração Fatal\"",
+      "answer": "ARCHER",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Que se publica uma vez por mês",
+      "answer": "MENSAL",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "Pôr os pés sobre",
+      "answer": "PISAR",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "A cantora de música pop Britney",
+      "answer": "SPEARS",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "O rapper paulistano de \"Etérea\"",
+      "answer": "CRIOLO",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "Alugar",
+      "answer": "LOCAR",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "Fiscal, inspetor",
+      "answer": "VEDOR",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "(Gír.) Situação embaraçosa",
+      "answer": "MICO",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Rapidamente",
+      "answer": "LOGO",
+      "row": 7,
+      "col": 10
+    },
+    "30": {
+      "clue": "(a pique) Parede feita com ripas e barro",
+      "answer": "PAU",
+      "row": 8,
+      "col": 1
+    },
+    "34": {
+      "clue": "Em rádio, símbolo de Amplitude Modulada",
+      "answer": "AM",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

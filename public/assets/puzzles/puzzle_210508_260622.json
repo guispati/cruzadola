@@ -1,0 +1,246 @@
+{
+  "across": {
+    "2": {
+      "clue": "A fêmea de um grande bovídeo",
+      "answer": "BUFALA",
+      "row": 0,
+      "col": 2
+    },
+    "7": {
+      "clue": "Paulo Gustavo, ator e humorista",
+      "answer": "PG",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Inform.) Imagem na tela, representa um programa",
+      "answer": "ICONE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Um número como o 13 ou o 31",
+      "answer": "IMPAR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Lugar para animais como Garfield e Frajola",
+      "answer": "GATIL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "A cantora baiana Bethânia",
+      "answer": "MARIA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Com pouco açúcar",
+      "answer": "ADOCICADO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Marca de produtos de higiene pessoal",
+      "answer": "REXONA",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "O continente de Vietnã e Butão",
+      "answer": "ASIA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Manifestação de torcida no estádio",
+      "answer": "OLA",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "Pode ser de cristal líquido",
+      "answer": "TELA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Cutucão dado com o indicador",
+      "answer": "DEDADA",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "Tornar muito doce",
+      "answer": "ENXAROPAR",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "Um instrumento musical do samba",
+      "answer": "CUICA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Diz-se de chuva contaminada por poluentes",
+      "answer": "ACIDA",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Como o som do N ou do M",
+      "answer": "NASAL",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Dieta nutricional que ajudar o organismo a eliminar substâncias prejudiciais",
+      "answer": "DETOX",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Interjeição usada em chamamentos",
+      "answer": "OI",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Fino e agradável ao tato",
+      "answer": "SEDOSO",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Pôr um equipamento eletrônico para funcionar",
+      "answer": "LIGAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Medicamento utilizado no tratamento de rugas",
+      "answer": "BOTOX",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "De um só sentido ou fluxo",
+      "answer": "UNICO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Do gato ou do tigre",
+      "answer": "FELINO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "A capital do país de Machu Picchu",
+      "answer": "LIMA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Dileta, namorada",
+      "answer": "AMADA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Indivíduo que tem filhos",
+      "answer": "PAI",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Charme, elegância",
+      "answer": "GRAÇA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Aluno de Academia Militar",
+      "answer": "CADETE",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Vantagens, conveniências",
+      "answer": "PROS",
+      "row": 1,
+      "col": 8
+    },
+    "16": {
+      "clue": "Um complemento do sundae",
+      "answer": "CALDA",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "(Quím.) Com  I",
+      "answer": "IODADO",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Que tem ar no seu interior (diz-se de chocolate)",
+      "answer": "AERADO",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Elem. de comp.: arte, ofício, habilidade",
+      "answer": "TECNO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "O L do CLT",
+      "answer": "LEIS",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Quadris, cadeiras",
+      "answer": "ANCAS",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Pudim, gelatina e pé de moleque",
+      "answer": "DOCES",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Um objeto usado pelo árbitro de futebol",
+      "answer": "APITO",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Estância hidromineral mineira",
+      "answer": "ARAXA",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Cobertura para os ombros",
+      "answer": "XALE",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Ué!",
+      "answer": "UAI",
+      "row": 8,
+      "col": 1
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Propriedades que compõem um patrimônio",
+      "answer": "BENS",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "A amiga valentona de Cebolinha",
+      "answer": "MONICA",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Árvore brasileira de madeira muito apreciada",
+      "answer": "ANGICO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "O ano pode ter 365 ou 366",
+      "answer": "DIAS",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "A letra que sucede o esse",
+      "answer": "TE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Substância usada para unir peças de metal",
+      "answer": "SOLDA",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Sigla de um dos estados do CO do Brasil",
+      "answer": "MS",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Para que lugar?",
+      "answer": "AONDE",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Tribunal Penal Internacional",
+      "answer": "TPI",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Uma unidade de medida de energia da física nuclear",
+      "answer": "KEV",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Cidade do Mato Grosso, à margem esquerda do rio Paraguai",
+      "answer": "CACERES",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "Aumento anormal do apetite",
+      "answer": "LICOREXIA",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "(Pop.) Dirigente, mentor",
+      "answer": "LIDER",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Filhote de égua, do sexo feminino",
+      "answer": "POTRA",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "Meio tonto",
+      "answer": "ATORDOADO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Globo Esporte",
+      "answer": "GE",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Pessoa querida",
+      "answer": "CANDONGA",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "O mês entre fevereiro e abril",
+      "answer": "MARÇO",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "(Ingl.) Deus",
+      "answer": "GOD",
+      "row": 9,
+      "col": 8
+    },
+    "35": {
+      "clue": "Transpiração",
+      "answer": "SUOR",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Canto para ninar",
+      "answer": "ARROLO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Técnica de estampagem manual de tecido",
+      "answer": "BATIK",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Precede o ó e segue o eme",
+      "answer": "ENE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Nelson Gonçalves (1919-1998), cantor gaúcho",
+      "answer": "NG",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Juízo",
+      "answer": "SISO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Plasmar",
+      "answer": "MOLDAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Opção em prova",
+      "answer": "NDA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "2, em romanos",
+      "answer": "II",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Fig.) Procurar (algo que desapareceu)",
+      "answer": "CAMPEAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Machado de) O escritor de \"Dom Casmurro\"",
+      "answer": "ASSIS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Dizer sim",
+      "answer": "CONCORDAR",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Que corta, que amputa",
+      "answer": "DECEPADOR",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Desejoso",
+      "answer": "AVIDO",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Grupo de três vogais em uma única sílaba",
+      "answer": "TRITONGO",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "O oposto de ralé",
+      "answer": "ELITE",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Fuga em massa de uma população",
+      "answer": "EXODO",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "Proteger com muro ou aramado",
+      "answer": "CERCAR",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Cidade de SC",
+      "answer": "LAGES",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Dotado de membros como os dos pássaros",
+      "answer": "ALADO",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Um grande e feroz felino",
+      "answer": "ONÇA",
+      "row": 7,
+      "col": 5
+    },
+    "32": {
+      "clue": "(Pop.) Bola na rede",
+      "answer": "GOL",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "As letras separadas pelo N",
+      "answer": "MO",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

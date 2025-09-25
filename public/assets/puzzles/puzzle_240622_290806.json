@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Aqueles",
+      "answer": "ESSES",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Emporcalhar",
+      "answer": "SUJAR",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Uma substância como a cicuta ou a estricnina",
+      "answer": "VENENO",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Guia de Recolhimento da União",
+      "answer": "GRU",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Manobrar",
+      "answer": "MANEJAR",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Relativo à contagem geral da população",
+      "answer": "CENSUAL",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "As iniciais da Sangalo, de \"Abalou\"",
+      "answer": "IS",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Espécie de coqueiro",
+      "answer": "LANTOR",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Som que imita a buzina dos carros",
+      "answer": "BIBI",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Doença intestinal",
+      "answer": "ENTEROPATIA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "(Bee) Band pop dos anos 1980, do sucesso \"Stayin' Alive\"",
+      "answer": "GEES",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Estruturas que cobrem o corpo da galinha",
+      "answer": "PENAS",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "(Quím.) O símbolo do alumínio",
+      "answer": "AL",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Fugir da prisão",
+      "answer": "EVADIR",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "Claridade emitida pelo Sol",
+      "answer": "LUZ",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Fazer aproximar-se",
+      "answer": "ATRAIR",
+      "row": 8,
+      "col": 4
+    },
+    "31": {
+      "clue": "O ritmo musical de Bob Marley",
+      "answer": "REGGAE",
+      "row": 9,
+      "col": 1
+    },
+    "33": {
+      "clue": "O cantor inglês Stewart",
+      "answer": "ROD",
+      "row": 9,
+      "col": 8
+    },
+    "35": {
+      "clue": "Caldo de galinha com arroz",
+      "answer": "CANJA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "(Mús.) O ritmo próprio do jazz",
+      "answer": "SWING",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Sarah Vaughan (1924-1990), cantora de jazz",
+      "answer": "SV",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A origem da planta",
+      "answer": "SEMENTE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Med.) Erupção cutânea devida a doença interna",
+      "answer": "ENANTESE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Mecanismo apto a receber impressões externas",
+      "answer": "SENSOR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Planta, espécie de feijão muito nutritivo",
+      "answer": "SOJA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "João Guimarães Rosa (1908-1967), autor de \"Grande Sertão: Veredas\"",
+      "answer": "JGR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Aviso de Recebimento",
+      "answer": "AR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O país que invadiu a Ucrânia",
+      "answer": "RUSSIA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Que sofre de uma doença do sistema nervoso",
+      "answer": "NEUROPATA",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Nação balcânica, uma das mais pobres da Europa",
+      "answer": "ALBANIA",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "(Arquit.) Estria em vertical, nas colunas ou em outras partes da construção",
+      "answer": "CANELURA",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Uma conhecida rede de hotéis",
+      "answer": "IBIS",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Permitido, legítimo",
+      "answer": "LEGAL",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Cidade paulista da Zona da Baixada do Ribeira",
+      "answer": "ITARIRI",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Salpicado de preto e branco",
+      "answer": "PEDRES",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "Lugar não ocupado num estacionamento",
+      "answer": "VAGA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "(Pop.) Pessoa tranquila",
+      "answer": "ZEN",
+      "row": 8,
+      "col": 2
+    },
+    "30": {
+      "clue": "O músico de jazz Carter",
+      "answer": "RON",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Gabriel Jesus, atacante do futebol",
+      "answer": "GJ",
+      "row": 9,
+      "col": 3
+    },
+    "34": {
+      "clue": "A abreviatura de 0,0001 kg",
+      "answer": "DG",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

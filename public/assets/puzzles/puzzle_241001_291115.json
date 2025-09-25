@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Oferecer como homenagem",
+      "answer": "DEDICAR",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Greenwich mean time, padrão internacional de tempo",
+      "answer": "GMT",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Substância usada para fritar",
+      "answer": "OLEO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "De uma região da coluna vertebral",
+      "answer": "LOMBAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Sistema de PC",
+      "answer": "DOS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Porção de tiras delgadas e estreitas, de material flexível",
+      "answer": "FITARIA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Gerar medo de perder uma pessoa amada",
+      "answer": "ENCIUMAR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "O símbolo químico do térbio",
+      "answer": "TB",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Perante",
+      "answer": "ANTE",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Pura e simples",
+      "answer": "MERA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Que acontece por acaso",
+      "answer": "ACIDENTAVEL",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Menino, garoto",
+      "answer": "GURI",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Tronco serrado",
+      "answer": "TORA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Muda teia para teoria",
+      "answer": "OR",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Fut.) A posição de Roberto Dinamite ou Serginho Chulapa",
+      "answer": "ATACANTE",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Bem alimentada",
+      "answer": "NUTRIDA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Agnus) Um cântico da missa",
+      "answer": "DEI",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Do signo que vai de 21 de março a 19 de abril",
+      "answer": "ARIANO",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Estar convencido de que algo é verdadeiro",
+      "answer": "CRER",
+      "row": 9,
+      "col": 7
+    },
+    "35": {
+      "clue": "O único satélite natural da Terra",
+      "answer": "LUA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "O estado de Phoenix, nos EUA",
+      "answer": "ARIZONA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Relativo a polígono de 12 lados",
+      "answer": "DODECAGONAL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O Musk do X e da Tesla",
+      "answer": "ELON",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Deixar pender",
+      "answer": "DESCAIR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Igreja Ortodoxa",
+      "answer": "IO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Aquele que dá de comer",
+      "answer": "ALIMENTADOR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Percurso de navio no mar",
+      "answer": "ROTA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Abreviatura (em português) da Grã-Bretanha",
+      "answer": "GBR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Fr.) Chefe dos garçons",
+      "answer": "MAITRE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Pop.) Tarefa muito árdua",
+      "answer": "TRABALHEIRA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "O mar de Istambul, na Turquia",
+      "answer": "MARMARA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "O diabo",
+      "answer": "FUTE",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Cidade goiana do sul do estado",
+      "answer": "INDIARA",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "O Mesquita ator e cantor",
+      "answer": "EVANDRO",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Sapo grande, de pele enrugada",
+      "answer": "CURURU",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Buraco onde a caça se esconde",
+      "answer": "TOCA",
+      "row": 5,
+      "col": 6
+    },
+    "28": {
+      "clue": "Recipiente de madeira usado em vinícolas",
+      "answer": "TINA",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Adolescente, em inglês",
+      "answer": "TEEN",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "A mulher do irmão da mãe",
+      "answer": "TIA",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "(Econ.) Abreviatura do extinto cruzado",
+      "answer": "CZ",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "O ator estadunidense Norris, de \"Comando Delta\"",
+      "answer": "CHUCK",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Ingl.) Comando usado para impressão no PC",
+      "answer": "PRINT",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Que está fora",
+      "answer": "SAIDO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "(Pé de) Trabalhador esforçado e assíduo ao serviço",
+      "answer": "BOI",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "O maior antílope africano",
+      "answer": "ELANDE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Ser ainda no ventre materno",
+      "answer": "FETO",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Coral musical",
+      "answer": "CORO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Goma resinosa aromática",
+      "answer": "MIRRA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "(Sigla) Arquivo Nacional",
+      "answer": "AN",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Que é o mais antigo numa ordem cronológica",
+      "answer": "PRIMEIRO",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Um doce que as crianças adoram",
+      "answer": "GELATINA",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Falta de costume",
+      "answer": "DESABITO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Abreviatura de foot (medida inglesa de extensão)",
+      "answer": "FT",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "(Med.) Sigla para acidente vascular cerebral",
+      "answer": "AVC",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Pássaro de plumagem colorida e lindo canto",
+      "answer": "IRAPURU",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "A suja deveria ser lavada em casa",
+      "answer": "ROUPA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "O Nereu presidente da República entre 1955 e 1956",
+      "answer": "RAMOS",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Que não é mole ou tenra",
+      "answer": "DURA",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Procedimento cauteloso",
+      "answer": "TATO",
+      "row": 9,
+      "col": 7
+    },
+    "35": {
+      "clue": "Um dos maiores açudes do Nordeste, próximo a cidade homônima",
+      "answer": "OROS",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Coisa muito quente, escaldante",
+      "answer": "BRASA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Peça de roupa masculina",
+      "answer": "CUECA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Vestir, trajar",
+      "answer": "USAR",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Peça hidráulica",
+      "answer": "CANOPLA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "(Ingl.) Garoto",
+      "answer": "KID",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "O maior rio da Itália",
+      "answer": "PO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Uma grande companhia aérea espanhola",
+      "answer": "IBERIA",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Observar, chamar a atenção",
+      "answer": "NOTAR",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Parente que pode ser materno ou paterno",
+      "answer": "TIO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Exonerar",
+      "answer": "DEMITIR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Muito velho",
+      "answer": "LONGEVO",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Que sofre de doença mental",
+      "answer": "FRENOPATA",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Fazer como os outros",
+      "answer": "IMITAR",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "Ser tomado por sentimento de raiva",
+      "answer": "RABIAR",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Em matemática, diz-se do ângulo maior que 90° e menor que 180°",
+      "answer": "OBTUSO",
+      "row": 4,
+      "col": 10
+    },
+    "23": {
+      "clue": "Uma defesa para os antigos guerreiros",
+      "answer": "ESCUDO",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Pequena lança",
+      "answer": "DARDO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Marinha de guerra",
+      "answer": "FROTA",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "(Fem.) Pouco mais ou menos",
+      "answer": "UMAS",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Líquido que é consequência de uma infecção",
+      "answer": "PUS",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Um tipo de sangue",
+      "answer": "AB",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

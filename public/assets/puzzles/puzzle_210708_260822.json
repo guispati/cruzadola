@@ -1,0 +1,270 @@
+{
+  "across": {
+    "2": {
+      "clue": "Cabana, nas roças, para descanso dos trabalhadores",
+      "answer": "RANCHO",
+      "row": 0,
+      "col": 2
+    },
+    "7": {
+      "clue": "Paulo Coelho, escritor",
+      "answer": "PC",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Contrário à lei",
+      "answer": "ILEGAL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Cavalo de cor amarelo-torrado",
+      "answer": "BAIO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Doze, em romanos",
+      "answer": "XII",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Que desperta comoção",
+      "answer": "TOCANTE",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "A sigla de Ondas Curtas, nos rádios",
+      "answer": "OC",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Estrago",
+      "answer": "DANO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "O ponto no handebol",
+      "answer": "GOL",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Possuidor de grandes riquezas",
+      "answer": "OPULENTO",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Locação de um meio de transporte para envio de mercadoria",
+      "answer": "FRETE",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Salário",
+      "answer": "SOLDO",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Ronco de gato",
+      "answer": "RONRONAR",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "O nome da sexta letra do alfabeto",
+      "answer": "EFE",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "A cantora Miranda",
+      "answer": "SULA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Interjeição de espanto",
+      "answer": "OH",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Terra de fiordes, no norte da Europa",
+      "answer": "NORUEGA",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Assembleia Geral Ordinária",
+      "answer": "AGO",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "Um quarto de doze",
+      "answer": "TRES",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Estrumar (a terra)",
+      "answer": "ADUBAR",
+      "row": 9,
+      "col": 5
+    },
+    "38": {
+      "clue": "Europa Oriental",
+      "answer": "EO",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Limpar a sujeira do nariz",
+      "answer": "ASSOAR",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Pop.) Coisa ordinária, malfeita",
+      "answer": "LIXO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A peça mais importante do xadrez",
+      "answer": "REI",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Prata",
+      "answer": "AG",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Da capital potiguar",
+      "answer": "NATALENSE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Biol.) Réplica",
+      "answer": "CLONE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Interjeição de alegria",
+      "answer": "OBA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Repreensão",
+      "answer": "PITO",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "No jogo do bicho, o 10º grupo",
+      "answer": "COELHO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Bebida alcoólica adoçada e aromatizada",
+      "answer": "LICOR",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "O país de Luanda",
+      "answer": "ANGOLA",
+      "row": 1,
+      "col": 8
+    },
+    "15": {
+      "clue": "Aliviado de aflição ou sofrimento",
+      "answer": "CONSOLADO",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Canal no organismo animal",
+      "answer": "DUTO",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "(Saci) Entidade muito popular das nossas lendas",
+      "answer": "PERERE",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Flor da água",
+      "answer": "TONA",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Linha mais avançada de uma força militar",
+      "answer": "FRENTE",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Medicamento",
+      "answer": "DROGA",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Sulcos na pele",
+      "answer": "RUGAS",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Lugar onde se discutem os assuntos públicos",
+      "answer": "FORO",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "Tempo de 3.600s",
+      "answer": "HORA",
+      "row": 7,
+      "col": 10
+    },
+    "33": {
+      "clue": "Sigla inglesa do país de Joe Biden",
+      "answer": "USA",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Começo de abril",
+      "answer": "ABR",
+      "row": 8,
+      "col": 8
+    },
+    "37": {
+      "clue": "A sigla de Unidade Astronômica",
+      "answer": "UA",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

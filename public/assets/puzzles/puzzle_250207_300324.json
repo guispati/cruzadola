@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Compartimento onde se guardam vinhos",
+      "answer": "ADEGA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O atleta Djokovic, ícone do tênis",
+      "answer": "NOVAK",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Que não possui",
+      "answer": "SEM",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "A unidade monetária do Paraguai",
+      "answer": "GUARANI",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Ser infiel",
+      "answer": "TRAIR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Roda de transmissão",
+      "answer": "POLIA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Eudóxia de Barros, pianista paulista",
+      "answer": "EB",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Cerca",
+      "answer": "TAPAGEM",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Insídia predisposta",
+      "answer": "CILADA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "O Reno e o Danúbio ficam na Europa",
+      "answer": "RIOS",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Invadir, dominar",
+      "answer": "APOSSAR",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Descompostura violenta",
+      "answer": "SOVA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Bolorento",
+      "answer": "MOFADO",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "O Guglielmo (1874-1937) inventor do telégrafo sem fio",
+      "answer": "MARCONI",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Um quinto de X",
+      "answer": "II",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Fácil de entender",
+      "answer": "OBVIO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Uma marca chinesa de carros",
+      "answer": "HAVAL",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Ato de parar o movimento de um veículo com o freio",
+      "answer": "BRECADA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "N",
+      "answer": "ENE",
+      "row": 9,
+      "col": 8
+    },
+    "36": {
+      "clue": "Relativo ao Sol",
+      "answer": "SOLAR",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Dizer orações",
+      "answer": "REZAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Povo indígena mexicano",
+      "answer": "ASTECAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Fut.) Jogo entre equipes tradicionais",
+      "answer": "DERBI",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ave grande e pesada, também chamada guaripé",
+      "answer": "EMA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Satisfação",
+      "answer": "AGRADO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Uma pelica para luvas e bolsas",
+      "answer": "NAPA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Estudo das características dos relevos montanhosos",
+      "answer": "OROGRAFIA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Valeta",
+      "answer": "VALEIRA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Aquilo que falta ao preguiçoso",
+      "answer": "ANIMO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Marca de carros",
+      "answer": "KIA",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Famosa ilha da baía de Todos os Santos",
+      "answer": "ITAPARICA",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "Espantado",
+      "answer": "PASMO",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Que pode ser limpo",
+      "answer": "LAVAVEL",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "(Ingl.) Revelação do final de um filme antes de seu fim",
+      "answer": "SPOILER",
+      "row": 4,
+      "col": 10
+    },
+    "23": {
+      "clue": "Ter pesadelos",
+      "answer": "SONHAR",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Região da escápula",
+      "answer": "OMBRO",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "A Ross cantora estadunidense",
+      "answer": "DIANA",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Fazer descer em gotas lentamente",
+      "answer": "COAR",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Observação",
+      "answer": "OBS",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "(De uma) Conjuntamente",
+      "answer": "VEZ",
+      "row": 8,
+      "col": 8
+    }
+  }
+}

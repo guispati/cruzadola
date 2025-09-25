@@ -1,0 +1,222 @@
+{
+  "across": {
+    "1": {
+      "clue": "Feito com linhas geométricas",
+      "answer": "LINEAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Unidade elétrica",
+      "answer": "WATT",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Cláusulas de um documento",
+      "answer": "ITENS",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "(e vender) Em quantidade",
+      "answer": "DAR",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "Maleável",
+      "answer": "DUCTIL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Um técnico do futebol brasileiro",
+      "answer": "TITE",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Lição",
+      "answer": "AULA",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Grande e saboroso peixe do mar",
+      "answer": "ATUM",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "(Bico de) Um problema na coluna vertebral",
+      "answer": "PAPAGAIO",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Autenticar",
+      "answer": "LIDIMAR",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "Assistente que está às ordens de outra em um trabalho",
+      "answer": "AJUDADOR",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Pequeno veado",
+      "answer": "GAMO",
+      "row": 7,
+      "col": 0
+    },
+    "24": {
+      "clue": "Pode ser expressa em m²",
+      "answer": "AREA",
+      "row": 7,
+      "col": 5
+    },
+    "27": {
+      "clue": "Desmoronar, desabar",
+      "answer": "RUIR",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "O ato de se ler novamente",
+      "answer": "RELIDA",
+      "row": 8,
+      "col": 5
+    },
+    "30": {
+      "clue": "Cada uma das extremidades de uma formação militar",
+      "answer": "ALA",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "(Pop.) Dinheiro",
+      "answer": "CAPIM",
+      "row": 9,
+      "col": 6
+    },
+    "32": {
+      "clue": "Não frequente",
+      "answer": "RARO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Caduco, decrépito",
+      "answer": "COROCA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Que tem conhecimentos adquiridos pela leitura",
+      "answer": "LIDO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Árvore de madeira pesada e muito dura",
+      "answer": "ITU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Gír.) Coisa nenhuma, nada",
+      "answer": "NECA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Que obstrui, tapa",
+      "answer": "ENTUPIDOR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Mulher que recebeu refúgio político",
+      "answer": "ASILADA",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Tornar feliz",
+      "answer": "ADITAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Pequeno animal encontrado na areia das praias",
+      "answer": "TATUI",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Série de movimentos repetidos que agita algo",
+      "answer": "TREMOR",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Lavrar, polir pedras preciosas",
+      "answer": "LAPIDAR",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Falar demais, ser muito loquaz",
+      "answer": "TAGARELAR",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "(Pop.) Pessoa boazinha",
+      "answer": "AMORECO",
+      "row": 4,
+      "col": 6
+    },
+    "19": {
+      "clue": "Dedicar ao serviço de Deus",
+      "answer": "SAGRAR",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Fazer surgir a luz, acender",
+      "answer": "LUMIAR",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Grande gaiola para prender animais vivos",
+      "answer": "JAULA",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Outro nome da planta salsa-do-monte",
+      "answer": "AIPO",
+      "row": 7,
+      "col": 8
+    },
+    "26": {
+      "clue": "Móvel para dormir",
+      "answer": "CAMA",
+      "row": 7,
+      "col": 10
+    },
+    "29": {
+      "clue": "Abrev.: dicionário",
+      "answer": "DIC",
+      "row": 8,
+      "col": 9
+    }
+  }
+}

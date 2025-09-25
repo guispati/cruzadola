@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Doce feito de melaço e ovos",
+      "answer": "PRAJA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O cachorro de Mickey, da Disney",
+      "answer": "PLUTO",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Importante cidade canadense, na costa do Pacífico",
+      "answer": "VANCOUVER",
+      "row": 1,
+      "col": 2
+    },
+    "12": {
+      "clue": "Marília Pêra (1943-2015), atriz",
+      "answer": "MP",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Pop.) Cerveja",
+      "answer": "CERVA",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Uma variação de tu",
+      "answer": "TI",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Homem virtuoso",
+      "answer": "BOM",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Pref.: músculo",
+      "answer": "MIO",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "(Ingl.) Área para o banho",
+      "answer": "BOX",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "(Saudita) Nação do Oriente Médio",
+      "answer": "ARABIA",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "(Red.) Uma maneira de chamar a mãe do pai da mãe",
+      "answer": "BISA",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "(Mineiro) A região de Uberaba e Uberlândia",
+      "answer": "TRIANGULO",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Visto que",
+      "answer": "POIS",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "A Queiroz atriz",
+      "answer": "CAMILA",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Até que enfim!",
+      "answer": "UFA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "A última palavra de um filme",
+      "answer": "FIM",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Um tempero branco",
+      "answer": "SAL",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Interjeição que expressa admiração, espanto",
+      "answer": "XI",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Um tipo de anestesia",
+      "answer": "LOCAL",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Renato Borghetti, músico gaúcho",
+      "answer": "RB",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "Ser anterior",
+      "answer": "ANTECEDER",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Orvalho",
+      "answer": "ROCIO",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Obrigação dada por superior",
+      "answer": "ORDEM",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ave considerada praga em alguns centros urbanos",
+      "answer": "POMBA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Avenida",
+      "answer": "AV",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Uma marca de carros",
+      "answer": "JAC",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Carência de glóbulos vermelhos no sangue",
+      "answer": "ANEMIA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Multidão de gente",
+      "answer": "POVO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Pode ser minguante",
+      "answer": "LUA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Ultravioleta",
+      "answer": "UV",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Cobertura que permite a passagem da luz e ventilação (nos carros)",
+      "answer": "TETOSOLAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Divindade das religiões afro-brasileiras",
+      "answer": "ORIXA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Atitude infantil",
+      "answer": "CRIANCICE",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Cidade turística italiana, próxima a Gênova",
+      "answer": "PORTOFINO",
+      "row": 2,
+      "col": 1
+    },
+    "17": {
+      "clue": "O nome feminino mais comum",
+      "answer": "MARIA",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Um líquido que age na digestão dos alimentos",
+      "answer": "BILIS",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Pedido de repetição",
+      "answer": "BIS",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Som que imita um tambor",
+      "answer": "BUM",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "(Gír.) Apaixonado",
+      "answer": "GAMADO",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Mover para perto de si",
+      "answer": "PUXAR",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Volume composto pelo disco (ou discos) e folhetos informativos sobre a obra fonográfica",
+      "answer": "ALBUM",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Em patologia, centro primário de que uma infecção",
+      "answer": "FOCO",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Regra escrita de alcance geral, emanada pelo poder legislativo do Estado",
+      "answer": "LEI",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Lesão por Esforço Repetitivo",
+      "answer": "LER",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "As iniciais do músico sertanejo Carreiro (1934-1993)",
+      "answer": "TC",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "(Fís.) Símbolo de rutherford",
+      "answer": "RD",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

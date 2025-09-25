@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Vendar os olhos",
+      "answer": "TAPAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Bastonete para escrever",
+      "answer": "LAPIS",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "O contrário de fechada",
+      "answer": "ABERTA",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Pop.) Catimba, em um jogo",
+      "answer": "CERA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Delicadeza de quem sabe tratar com outras pessoas sem magoá-las",
+      "answer": "TATO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Depósito de cereais",
+      "answer": "GRANEL",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Insumo Farmacêutico Ativo",
+      "answer": "IFA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Arbusto da Amazônia, de que se fabricam refrigerantes",
+      "answer": "GUARANA",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Famosa marca de produtos cosméticos",
+      "answer": "COLORAMA",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Uma capital nordestina",
+      "answer": "ARACAJU",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Cabeleira comprida e desgrenhada",
+      "answer": "GUEDELHA",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Loucura, demência",
+      "answer": "INSANIA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Abrev.: Camarões",
+      "answer": "CAM",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Sinalizar",
+      "answer": "ACENAR",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "De pouco peso",
+      "answer": "LEVE",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "(Matem.) O número que é elevado a certa potência",
+      "answer": "RAIZ",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "A missão do cirurgião",
+      "answer": "OPERAR",
+      "row": 9,
+      "col": 5
+    },
+    "35": {
+      "clue": "Colocar no forno para cozinhar",
+      "answer": "ASSAR",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "(Grande) Cidade da Baixada Santista",
+      "answer": "PRAIA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Meio usado para alcançar uma finalidade qualquer",
+      "answer": "TATICA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ato de cobrir para conservar o calor",
+      "answer": "ABAFO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A folha que circunda a corola da flor",
+      "answer": "PETALA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Molde para queijo",
+      "answer": "ARO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Ricardo Tozzi, ator paulista",
+      "answer": "RT",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Um bolinho da culinária baiana",
+      "answer": "ACARAJE",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Cada uma das estruturas que revestem o corpo das aves",
+      "answer": "PENA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O atriz carioca Ravache",
+      "answer": "IRENE",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "A VIP é para clientes de prestígio e poder",
+      "answer": "SALA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Pé-d'água",
+      "answer": "AGUACEIRO",
+      "row": 1,
+      "col": 5
+    },
+    "16": {
+      "clue": "Abrigo para o gado",
+      "answer": "RAMADA",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "Ave notável pela plumagem preta e seu canto forte e melodioso",
+      "answer": "GRAUNA",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Tecido fino e transparente, de trama simples",
+      "answer": "ORGANZA",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Uma ferida que pode ser duodenal ou gástrica",
+      "answer": "ULCERA",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Um aparelho como a GoPro",
+      "answer": "CAMERA",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "Quadris, cadeiras",
+      "answer": "ANCAS",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "As ilhas com as praias de Pipeline e Waimea",
+      "answer": "HAVAI",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Figura da mitologia, protetora das águas",
+      "answer": "IARA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "O ponto máximo de um dado",
+      "answer": "SEIS",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "Interpretar (um texto)",
+      "answer": "LER",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Em música, a abreviatura de pianíssimo",
+      "answer": "PP",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

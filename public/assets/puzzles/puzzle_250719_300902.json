@@ -1,0 +1,246 @@
+{
+  "across": {
+    "2": {
+      "clue": "Local que oferece filmes, livros, jornais etc. para consulta",
+      "answer": "MEDIATECA",
+      "row": 0,
+      "col": 2
+    },
+    "10": {
+      "clue": "Nicolau Copérnico (1473-1543), astrônomo polonês",
+      "answer": "NC",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Aquilo que vem a calhar, que é oportuno e de grande ajuda",
+      "answer": "BENÇÃO",
+      "row": 1,
+      "col": 3
+    },
+    "13": {
+      "clue": "(de cabeça) Cefaleia",
+      "answer": "DOR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "O XIV atual papa",
+      "answer": "LEÃO",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "As consoantes de laquê",
+      "answer": "LQ",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Gás usado no amadurecimento de frutos",
+      "answer": "ETILENO",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Grande peixe dos rios Amazonas e Paraná",
+      "answer": "JAU",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Uma composição musical clássica",
+      "answer": "SONATA",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "O diabo, o demônio",
+      "answer": "FUTE",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Dia de anos",
+      "answer": "ANIVERSARIO",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Glândula mamária",
+      "answer": "TETA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Um dos mais tradicionais times de futebol da Argentina",
+      "answer": "RACING",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "No máximo",
+      "answer": "ATE",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Forrar piso com alfombra",
+      "answer": "TAPETAR",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Antecede o dáblio",
+      "answer": "VE",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Zelândia) País com capital Wellington",
+      "answer": "NOVA",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Partida",
+      "answer": "IDA",
+      "row": 8,
+      "col": 8
+    },
+    "31": {
+      "clue": "Uma proteção para pilotos de motocross",
+      "answer": "COLETE",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Aretha Franklin (1942-2018), cantora de jazz",
+      "answer": "AF",
+      "row": 9,
+      "col": 9
+    },
+    "34": {
+      "clue": "Geógrafo especializado no estudo dos lagos",
+      "answer": "LIMNOLOGO",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Diz-se do nó que não se desfaz",
+      "answer": "INDESATAVEL",
+      "row": 0,
+      "col": 0
+    },
+    "3": {
+      "clue": "(Náut.) Abreviatura do lado direito do navio, olhando da popa para a proa",
+      "answer": "EB",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "(Inform.) Nos computadores, tecla para apagar ou remover",
+      "answer": "DELETE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Que não pode ser contado, relatado",
+      "answer": "INENARRAVEL",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Trama (num enredo)",
+      "answer": "AÇÃO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Tanto",
+      "answer": "TÃO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Europa Oriental",
+      "answer": "EO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Cultor da ciência que descreve os monumentos antigos",
+      "answer": "ARQUEOGRAFO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Palito para a higiene dos ouvidos",
+      "answer": "COTONETE",
+      "row": 1,
+      "col": 1
+    },
+    "14": {
+      "clue": "Incômoda inflamação da mucosa nasal",
+      "answer": "RINITE",
+      "row": 2,
+      "col": 2
+    },
+    "16": {
+      "clue": "Palavras na língua-mãe da nossa língua",
+      "answer": "LATINADA",
+      "row": 2,
+      "col": 9
+    },
+    "18": {
+      "clue": "Substância expelida por vulcões",
+      "answer": "LAVA",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Espécie de pomba",
+      "answer": "JURITI",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Região delimitada pelo couro cabeludo, as orelhas e o pescoço",
+      "answer": "FACE",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Calçado que cobre o pé",
+      "answer": "SAPATO",
+      "row": 5,
+      "col": 6
+    },
+    "27": {
+      "clue": "Boboca",
+      "answer": "TOLO",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "(-stop) Sem interrupção",
+      "answer": "NON",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "900, em algarismos romanos",
+      "answer": "CM",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "Separam o F",
+      "answer": "EG",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

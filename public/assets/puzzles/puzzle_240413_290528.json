@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Pedra muito dura, esverdeada, semipreciosa",
+      "answer": "JADE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Por favor, em inglês",
+      "answer": "PLEASE",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Espécime da família de plantas a qual pertencem a oliveira e o jasmim",
+      "answer": "OLEACEA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Grupo de comunicação dos EUA",
+      "answer": "FOX",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Um tambor",
+      "answer": "SURDO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Maneira",
+      "answer": "GUISA",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Advérbio que significa aqui está!",
+      "answer": "EIS",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Um dos grandes bairros de NY (EUA)",
+      "answer": "BRONX",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Osso da parte mais baixa da coluna vertebral",
+      "answer": "SACRO",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Medida de quantidade usada em medicamentos líquidos",
+      "answer": "GOTA",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Atos Institucionais",
+      "answer": "AI",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Vareta usada na culinária japonesa",
+      "answer": "HASHI",
+      "row": 5,
+      "col": 3
+    },
+    "26": {
+      "clue": "Decorrer no tempo",
+      "answer": "IR",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Armazém de mercadorias em um porto",
+      "answer": "DOCA",
+      "row": 6,
+      "col": 0
+    },
+    "29": {
+      "clue": "Enrubescer",
+      "answer": "CORAR",
+      "row": 6,
+      "col": 5
+    },
+    "31": {
+      "clue": "Tocar o tambor",
+      "answer": "RUFAR",
+      "row": 7,
+      "col": 2
+    },
+    "33": {
+      "clue": "(Matem.) Limite",
+      "answer": "LIM",
+      "row": 7,
+      "col": 8
+    },
+    "35": {
+      "clue": "Meio de transporte que viaja pelo céu",
+      "answer": "AVIÃO",
+      "row": 8,
+      "col": 0
+    },
+    "37": {
+      "clue": "Compartimento reservado",
+      "answer": "ADITO",
+      "row": 8,
+      "col": 6
+    },
+    "39": {
+      "clue": "Conjunção: e ninguém",
+      "answer": "NEM",
+      "row": 9,
+      "col": 0
+    },
+    "40": {
+      "clue": "Espetáculo teatral cantado e dançado",
+      "answer": "MUSICAL",
+      "row": 9,
+      "col": 4
+    },
+    "42": {
+      "clue": "Planta forrageira de espigas eretas",
+      "answer": "AZEVEM",
+      "row": 10,
+      "col": 0
+    },
+    "43": {
+      "clue": "(Fut.) Catimba",
+      "answer": "CERA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O Padilha, diretor de \"Tropa de Elite\"",
+      "answer": "JOSE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O Azevedo (1856-1913) escritor membro fundador da ABL",
+      "answer": "ALUISIO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Órgão que administra rodovias em SP",
+      "answer": "DERSA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Educação a Distância",
+      "answer": "EAD",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A UF de Cabrobó",
+      "answer": "PE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O dos Cisnes é um balé",
+      "answer": "LAGO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Gram.) Partícula que, acrescentada a uma palavra, muda seu sentido",
+      "answer": "AFIXO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Sigla que significa salvem nossas almas",
+      "answer": "SOS",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Desprender perfume",
+      "answer": "EXALAR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Pop.) Perito em sua especialidade",
+      "answer": "COBRA",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Aplicar óleos consagrados a",
+      "answer": "UNGIR",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "Pão doce de massa retorcida",
+      "answer": "ROSCA",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Papagaio do Brasil, ameaçado de extinção",
+      "answer": "CHAUÃ",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Tremer com sensação de frio",
+      "answer": "TIRITAR",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Alfândega",
+      "answer": "ADUANA",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "São 168 em uma semana",
+      "answer": "HORAS",
+      "row": 5,
+      "col": 6
+    },
+    "28": {
+      "clue": "Todo e qualquer ato pessoalmente inaceitável",
+      "answer": "CRIME",
+      "row": 6,
+      "col": 2
+    },
+    "30": {
+      "clue": "(in Chains) Banda estadunidense de rock",
+      "answer": "ALICE",
+      "row": 6,
+      "col": 8
+    },
+    "32": {
+      "clue": "Desconforto pela falta de comida",
+      "answer": "FOME",
+      "row": 7,
+      "col": 4
+    },
+    "34": {
+      "clue": "A peça que amortece os solavancos dos carros",
+      "answer": "MOLA",
+      "row": 7,
+      "col": 10
+    },
+    "36": {
+      "clue": "Cada ocasião de um tempo que se repete",
+      "answer": "VEZ",
+      "row": 8,
+      "col": 1
+    },
+    "38": {
+      "clue": "Dicionário",
+      "answer": "DIC",
+      "row": 8,
+      "col": 7
+    },
+    "41": {
+      "clue": "1",
+      "answer": "UM",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

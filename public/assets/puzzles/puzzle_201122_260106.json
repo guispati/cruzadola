@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O país das mais famosas pirâmides",
+      "answer": "EGITO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Fase, estágio",
+      "answer": "ETAPA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Uma embalagem de cigarros",
+      "answer": "MAÇO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Espécie de boné sem pala",
+      "answer": "BOINA",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Da cor do leite (fem.)",
+      "answer": "BRANCA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Gír.) Sem dinheiro",
+      "answer": "LISO",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "O começo e o fim do... replay",
+      "answer": "RY",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Tocado, executado etc. por uma pessoa apenas",
+      "answer": "SOLO",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Secretaria de Segurança Pública",
+      "answer": "SSP",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "A hora cheia que segue uma",
+      "answer": "DUAS",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "(Gír.) Ingerir bebida alcoólica",
+      "answer": "PIAR",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Excitação",
+      "answer": "ACIRRAMENTO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "O mesmo que hanseníase",
+      "answer": "GAFA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Alvo",
+      "answer": "MIRA",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "As vogais de teiu",
+      "answer": "EIU",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "O cargo de quem substitui o titular",
+      "answer": "VICE",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Ceará",
+      "answer": "CE",
+      "row": 7,
+      "col": 9
+    },
+    "28": {
+      "clue": "Sigla de um importante museu paulistano",
+      "answer": "MASP",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Bens, propriedades",
+      "answer": "COISAS",
+      "row": 8,
+      "col": 5
+    },
+    "32": {
+      "clue": "Notícia vaga, sem confirmação",
+      "answer": "BOATO",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "O cantor sertanejo Sérgio",
+      "answer": "REIS",
+      "row": 9,
+      "col": 7
+    },
+    "35": {
+      "clue": "Grande cidade italiana do Piemonte, a primeira capital do país",
+      "answer": "TURIM",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "O de praça é um táxi",
+      "answer": "CARRO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um dos pedais do motorista",
+      "answer": "EMBREAGEM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O ator norte-americano Cooper (1901-1961), ganhador de dois Oscars",
+      "answer": "GARY",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Formiga de cabeça avermelhada",
+      "answer": "IÇA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O rito que simboliza a renúncia ao mundo do novo clérigo",
+      "answer": "TONSURA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Europa Oriental",
+      "answer": "EO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Sinal gráfico que nasala a vogal a que se sobrepõe",
+      "answer": "TIL",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Alcaloide que é o princípio estimulante do anis",
+      "answer": "ANISINA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Um automóvel da Volkswagen",
+      "answer": "PASSAT",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Que exala perfume",
+      "answer": "BALSAMICO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Passar o café",
+      "answer": "COAR",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Romance do escritor tcheco Franz Kafka",
+      "answer": "OPROCESSO",
+      "row": 2,
+      "col": 10
+    },
+    "18": {
+      "clue": "Propagador, distribuidor",
+      "answer": "DIFUSOR",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Árvore que produz deliciosos frutos",
+      "answer": "PEREIRA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Cidade paulista da região de Presidente Prudente",
+      "answer": "CAIABU",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "(Gír.) Coisa indesejável",
+      "answer": "MICO",
+      "row": 5,
+      "col": 6
+    },
+    "27": {
+      "clue": "Sofrer uma queda",
+      "answer": "CAIR",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Iniciador, fundador ou organizador de escola artística, literária, doutrina etc.",
+      "answer": "PAI",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Estar, encontrar-se, existir",
+      "answer": "SER",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Tim Maia, músico de \"Primavera\"",
+      "answer": "TM",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

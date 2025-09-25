@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um elemento químico como o enxofre",
+      "answer": "AMETAL",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Rover) Uma fábrica de carros",
+      "answer": "LAND",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Um estado da matéria",
+      "answer": "GAS",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Não criminal",
+      "answer": "CIVEL",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Transforma teia em teoria",
+      "answer": "OR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Que existe efetivamente",
+      "answer": "MATERIAL",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Tornar a mastigar",
+      "answer": "RECOMER",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Indivíduo campeão pela terceira vez",
+      "answer": "TRI",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Comover",
+      "answer": "ABALAR",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Planta trepadeira",
+      "answer": "HERA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Uma parte do eixo floral",
+      "answer": "ANDROFORO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Famoso técnico do futebol brasileiro",
+      "answer": "TITE",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Fortificado",
+      "answer": "MURADO",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Elemento de composição: para fora",
+      "answer": "EXO",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Raposo) Rodovia paulista, vai da capital à divisa com o MS",
+      "answer": "TAVARES",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "O elemento químico Mn",
+      "answer": "MANGANES",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Liv Tyler, atriz de \"O Senhor dos Anéis\"",
+      "answer": "LT",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "O cantor Presley (1935-1977), do rock",
+      "answer": "ELVIS",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "O contrário de ímpar",
+      "answer": "PAR",
+      "row": 9,
+      "col": 8
+    },
+    "32": {
+      "clue": "Diz-se de soldado sem graduação",
+      "answer": "RASO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Pé de nona",
+      "answer": "ATEIRA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Neste instante",
+      "answer": "AGORA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O período oposto à preamar",
+      "answer": "MAREBAIXA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A UF de Linhares",
+      "answer": "ES",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Fazer deitar",
+      "answer": "ACAMAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Obsessão por escrever",
+      "answer": "LITEROMANIA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Dedicar-se à leitura",
+      "answer": "LER",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Repetir as mesmas letras ou sílabas numa frase",
+      "answer": "ALITERAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Uma flor inodora",
+      "answer": "DALIA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Ter o sentido da visão",
+      "answer": "VER",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Modelo pelo qual se reproduz algo",
+      "answer": "MOLDE",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Cobrir com escudo redondo",
+      "answer": "ARRODELAR",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Um dos principais dialetos regionais da China",
+      "answer": "CANTONES",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "São 24 em um dia",
+      "answer": "HORAS",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Fundação Universitária para o Vestibular",
+      "answer": "FUVEST",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Ter medo de algo",
+      "answer": "TEMER",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Molusco",
+      "answer": "OSTRA",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Trem de Alta Velocidade",
+      "answer": "TAV",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Garantia da Lei e da Ordem",
+      "answer": "GLO",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Sigla do Piauí",
+      "answer": "PI",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

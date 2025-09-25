@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Recipiente com tampa, para guardar alimentos",
+      "answer": "POTE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Alterada, diferente",
+      "answer": "MUDADA",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "(Tecn.) Regulagem",
+      "answer": "AJUSTAGEM",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Peixe do mar, semelhante à cavala",
+      "answer": "ATUM",
+      "row": 2,
+      "col": 2
+    },
+    "13": {
+      "clue": "A dor pela morte",
+      "answer": "LUTO",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Unidade Astronômica",
+      "answer": "UA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Ganhar a cor da gema do ovo",
+      "answer": "AMARELAR",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Fino e agradável ao tato",
+      "answer": "SEDOSO",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Uma ave que não voa",
+      "answer": "EMA",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Ir ou mover-se depressa",
+      "answer": "ANDAR",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Pronunciar palavras para alguém escrevê-las",
+      "answer": "DITAR",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "O ponto extremo como limitação definitiva",
+      "answer": "FIM",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "A antônimo de profissional",
+      "answer": "AMADOR",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "Ligado fisicamente",
+      "answer": "ACOPLADO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Aretha Franklin (1942-2018), cantora de jazz",
+      "answer": "AF",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "A filha da filha",
+      "answer": "NETA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Um sólido geométrico",
+      "answer": "CONE",
+      "row": 8,
+      "col": 5
+    },
+    "35": {
+      "clue": "Cidade gaúcha próxima a Palmeira das Missões",
+      "answer": "TUPARENDI",
+      "row": 9,
+      "col": 2
+    },
+    "38": {
+      "clue": "Um famoso álbum de Gilberto Gil",
+      "answer": "REALCE",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Um ser como Shrek",
+      "answer": "OGRO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Peixe de água doce, de ótima carne",
+      "answer": "PACU",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Orientações Jurisprudenciais",
+      "answer": "OJ",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Feita por ti (fem.)",
+      "answer": "TUA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Permanência provisória",
+      "answer": "ESTADA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Seios, peitos",
+      "answer": "MAMAS",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Ulysses Guimarães (1916-1992), político",
+      "answer": "UG",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Pertencente àquele homem",
+      "answer": "DELE",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Talismã",
+      "answer": "AMULETO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Amar com muita devoção",
+      "answer": "ADORAR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Med.) Relativo ao crescimento mórbido de um tecido",
+      "answer": "TUMORAL",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Um alimento para os povos do Saara",
+      "answer": "TAMARA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Burrice, tolice",
+      "answer": "ASNICE",
+      "row": 3,
+      "col": 1
+    },
+    "18": {
+      "clue": "Que gira em volta",
+      "answer": "RODADOR",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "Músico carioca, sobrinho de Tim Maia",
+      "answer": "EDMOTTA",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "(Gír.) Passar a mão em",
+      "answer": "AFANAR",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Competente, capaz",
+      "answer": "IDONEO",
+      "row": 5,
+      "col": 7
+    },
+    "27": {
+      "clue": "Cidade litorânea do Rio de Janeiro",
+      "answer": "MACAE",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "O músico McCartney",
+      "answer": "PAUL",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "(Fig.) Sem calor humano",
+      "answer": "FRIO",
+      "row": 7,
+      "col": 10
+    },
+    "34": {
+      "clue": "Abrev.: engenharia",
+      "answer": "ENG",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "Paulo Caruso, cartunista paulistano",
+      "answer": "PC",
+      "row": 9,
+      "col": 4
+    },
+    "37": {
+      "clue": "(Pop.) Discussão de Relacionamento",
+      "answer": "DR",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

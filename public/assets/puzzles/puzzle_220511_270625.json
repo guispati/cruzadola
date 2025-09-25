@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Sentimento de menosprezo que se manifesta por palavras ou atos",
+      "answer": "DESDEM",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Sinal musical igual à metade da semicolcheia",
+      "answer": "FUSA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Em que lugar?",
+      "answer": "ONDE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Terreno onde azeitonas são cultivadas",
+      "answer": "OLIVAL",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Sigla do estado do Ceará",
+      "answer": "CE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Tecido fino e transparente",
+      "answer": "FILO",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "As três primeiras letras do alfabeto",
+      "answer": "ABC",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "O ator Solano",
+      "answer": "MATEUS",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Física: abreviatura de oersted",
+      "answer": "OE",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "Quadro usado em escolas",
+      "answer": "LOUSA",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Fruto que serve de base à fabricação do chocolate",
+      "answer": "CACAU",
+      "row": 4,
+      "col": 6
+    },
+    "24": {
+      "clue": "Dividir em partes",
+      "answer": "FRACIONAR",
+      "row": 5,
+      "col": 1
+    },
+    "26": {
+      "clue": "Vento que sopra para o mar",
+      "answer": "TERRAL",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Gír.) Situação difícil",
+      "answer": "FRIA",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Um automóvel fabricado pela Fiat",
+      "answer": "UNO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Alugar outra vez",
+      "answer": "RELOCAR",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "1.500, em algarismos romanos",
+      "answer": "MD",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "A cantora Elis, de \"Arrastão\"",
+      "answer": "REGINA",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Cor entre o marrom e o amarelo",
+      "answer": "BEGE",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "O que segura a âncora à embarcação",
+      "answer": "AMARRA",
+      "row": 9,
+      "col": 5
+    },
+    "38": {
+      "clue": "Peça que evita que a porca se desgaste",
+      "answer": "ARRUELA",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Segue Mar e antecede Mai",
+      "answer": "ABR",
+      "row": 10,
+      "col": 8
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Manso",
+      "answer": "DOCIL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A letra que precede o ó",
+      "answer": "ENE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Salvador Dalí (1904-1989), artista espanhol",
+      "answer": "SD",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Eletr.) Pôr fora de fase",
+      "answer": "DEFASAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O oposto de duro",
+      "answer": "MOLE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Fundos de Investimento",
+      "answer": "FI",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Pop.) Qualquer coisa muito bonita",
+      "answer": "UVA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A fábrica do mais comum dos detergentes",
+      "answer": "SABOARIA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O cantor Valença",
+      "answer": "ALCEU",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Que gosta demasiadamente ou tem forte predileção por",
+      "answer": "LOUCO",
+      "row": 1,
+      "col": 6
+    },
+    "15": {
+      "clue": "Cidade baiana, com lindas praias, na região de Ilhéus-Itabuna",
+      "answer": "ITACARE",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "Soco",
+      "answer": "MURRO",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Instrumento muito popular na música nordestina",
+      "answer": "SANFONA",
+      "row": 3,
+      "col": 7
+    },
+    "21": {
+      "clue": "Causar desrespeito, transgressões ou violações a",
+      "answer": "OFENDER",
+      "row": 4,
+      "col": 1
+    },
+    "23": {
+      "clue": "Ave da família dos falcões",
+      "answer": "CARCARA",
+      "row": 4,
+      "col": 8
+    },
+    "25": {
+      "clue": "Contrário à lei",
+      "answer": "ILEGAL",
+      "row": 5,
+      "col": 5
+    },
+    "26": {
+      "clue": "Túmulo, sepulcro",
+      "answer": "TUMBA",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Respirar com dificuldade",
+      "answer": "ARFAR",
+      "row": 6,
+      "col": 10
+    },
+    "31": {
+      "clue": "Um tipo de laranja agridoce",
+      "answer": "LIMA",
+      "row": 7,
+      "col": 6
+    },
+    "33": {
+      "clue": "Culpado, criminoso",
+      "answer": "REU",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Glauber Rocha, cineasta de \"Terra em Transe\"",
+      "answer": "GR",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "(Quím.) O rubídio",
+      "answer": "RB",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "O poeta Olavo (1865-1918), do \"Hino à Bandeira\"",
+      "answer": "BILAC",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Tema",
+      "answer": "IDEIA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Marcos sem consoantes",
+      "answer": "AO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Embolorado",
+      "answer": "MOFENTO",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Resposta de prova",
+      "answer": "NDA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Tecido grosseiro e forte",
+      "answer": "LONA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Nova Zelândia",
+      "answer": "NZ",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Peça de roupa que se ajusta ao peito",
+      "answer": "CORPETE",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "(Por um) Por um triz",
+      "answer": "FIO",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Fundamentalmente honesto",
+      "answer": "RETO",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Um pouquinho",
+      "answer": "TICO",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Da região entre o deserto da Síria, o Líbano e o Mediterrâneo",
+      "answer": "PALESTINO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "(Elétrico) Carro de som que desfila no carnaval",
+      "answer": "TRIO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Sigla da mais importante federação de futebol",
+      "answer": "FIFA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Pedra cavada utilizada como vaso para líquidos",
+      "answer": "PIA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Uma droga potente, derivada da morfina",
+      "answer": "HEROINA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Abreviatura de meritíssimo",
+      "answer": "MM",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "(Pop.) Cachaça",
+      "answer": "JURA",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "A parte oposta ao norte",
+      "answer": "SUL",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "De forma elíptica",
+      "answer": "OVALADO",
+      "row": 9,
+      "col": 1
+    },
+    "36": {
+      "clue": "A nota entre o sol e o si",
+      "answer": "LA",
+      "row": 9,
+      "col": 9
+    },
+    "37": {
+      "clue": "Indústria para produção de álcool em grande escala",
+      "answer": "USINA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Dar preferência a",
+      "answer": "OPTAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O B do BNDES",
+      "answer": "BANCO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Tintura usada em medicina como antisséptico",
+      "answer": "IODO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A sigla do estado de Parintins e Tefé",
+      "answer": "AM",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Uma peça do vestuário, sem mangas",
+      "answer": "COLETE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "A moeda asiática que vale cem sens",
+      "answer": "IENE",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Teste para reconhecimento de paternidade",
+      "answer": "DNA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Eva Todor (1919-2017), atriz",
+      "answer": "ET",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "De átomos, moléculas ou radicais eletricamente carregados",
+      "answer": "IONICO",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Superfície luminosa do Sol e das estrelas",
+      "answer": "FOTOSFERA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Um peixe que pode ser jamanta",
+      "answer": "ARRAIA",
+      "row": 2,
+      "col": 2
+    },
+    "16": {
+      "clue": "(Red.) Parque de animais",
+      "answer": "ZOO",
+      "row": 2,
+      "col": 10
+    },
+    "18": {
+      "clue": "Fio da sobrancelha",
+      "answer": "PELO",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "As últimas competições",
+      "answer": "FINAIS",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Uma doença infecciosa aguda",
+      "answer": "TIFO",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "(Matem.) Os números naturais divisíveis somente por si mesmos e pela unidade",
+      "answer": "PRIMOS",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Excluído",
+      "answer": "TIRADO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Síndrome que atinge as mulheres",
+      "answer": "TPM",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Emitir com a voz sons articulados",
+      "answer": "FALAR",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "Dança havaiana de movimento ritmado dos braços e dos quadris",
+      "answer": "HULA",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Que não tem valor (fem.)",
+      "answer": "NULA",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Abreviatura do mês 1",
+      "answer": "JAN",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "6, em romanos",
+      "answer": "VI",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Orçamento Participativo",
+      "answer": "OP",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Pelos que cobrem a cabeça",
+      "answer": "CABELO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Rancor",
+      "answer": "ODIO",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Henry Ford (1863-1947), pioneiro na indústria dos carros",
+      "answer": "HF",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Mandar (um empregado) para a rua",
+      "answer": "DEMITIR",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Os atletas que, em esportes coletivos, atuam pelas laterais do campo",
+      "answer": "ALAS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Aviso público de autoridade",
+      "answer": "EDITAL",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Doença infecciosa aguda",
+      "answer": "TIFO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Rebento vegetal",
+      "answer": "GOMO",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Disputa cultural, com problemas imprevistos, considerados difíceis",
+      "answer": "GINCANA",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "As consoantes de sexo",
+      "answer": "SX",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Termo",
+      "answer": "FIM",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Em tal grau",
+      "answer": "TÃO",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Lolita Rodrigues, atriz e apresentadora",
+      "answer": "LR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Da árvore",
+      "answer": "ARBOREO",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Agá dois ó",
+      "answer": "AGUA",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "Pronome demonstrativo feminino",
+      "answer": "ESTA",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Espuma de mar ou de rio",
+      "answer": "REBOJO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Elemento químico usado em iluminação",
+      "answer": "NEON",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "(Inform.) A unidade de medida Mb",
+      "answer": "MEGABIT",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "Marília Gabriela, atriz e apresentadora",
+      "answer": "MG",
+      "row": 9,
+      "col": 9
+    },
+    "36": {
+      "clue": "Por aquele",
+      "answer": "PELO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "(O) Romance de Raul Pompeia (1888), uma das obras-primas da literatura brasileira",
+      "answer": "ATENEU",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Inform.) Bate-papo",
+      "answer": "CHAT",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Deprimir com dor moral ou física",
+      "answer": "AFLIGIR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O ator paulista Celulari",
+      "answer": "EDSON",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "(Coq Sportif) Marca francesa de materiais esportivos",
+      "answer": "LE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Letra grega, símbolo de fim",
+      "answer": "OMEGA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Muito boa",
+      "answer": "OTIMA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Já citado",
+      "answer": "DITO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Raiva",
+      "answer": "IRA",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Competente, capaz",
+      "answer": "IDONEO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Qualitativamente semelhante",
+      "answer": "AFIM",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Droga, porcaria",
+      "answer": "LIXO",
+      "row": 2,
+      "col": 10
+    },
+    "19": {
+      "clue": "Uma ave como a buraqueira ou a murucututu",
+      "answer": "CORUJA",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "(das Letras) Cidade mística do sul de MG",
+      "answer": "SÃOTOME",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Violeta, girassol ou hortênsia",
+      "answer": "FLOR",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Proposição sustentada e defendida em público, nas escolas superiores",
+      "answer": "TESE",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Instrumento de percussão usado no candomblé",
+      "answer": "AGOGO",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Árvore africana com o tronco de grande porte e que pode viver mais de dois mil anos",
+      "answer": "BAOBA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Muito curto",
+      "answer": "RENTE",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Segundo a Bíblia, um dos filhos de Adão e Eva",
+      "answer": "ABEL",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Massa consistente de fubá cozido em água e sal",
+      "answer": "ANGU",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Uma letra que pode valer mil",
+      "answer": "EME",
+      "row": 8,
+      "col": 1
+    },
+    "34": {
+      "clue": "Magnetismo pessoal",
+      "answer": "IT",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

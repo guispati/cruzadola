@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "As substâncias alimentícias que têm alto teor nutritivo",
+      "answer": "PROTEINAS",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Literatura popular típica do Nordeste",
+      "answer": "CORDEL",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "O que fica atrás",
+      "answer": "RE",
+      "row": 1,
+      "col": 9
+    },
+    "11": {
+      "clue": "Disc Jockey",
+      "answer": "DJ",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Preservar do mal",
+      "answer": "PROTEGER",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Imposto sobre Operações Financeiras",
+      "answer": "IOF",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Clarear o cabelo",
+      "answer": "ALOIRAR",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Guarnecido com borda",
+      "answer": "ORLADO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Conjunto de habitações formado por diversas ocas",
+      "answer": "TABA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Rebento vegetal",
+      "answer": "GOMO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Superar ou suplantar em vantagem",
+      "answer": "BATER",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Porção de barba na ponta do queixo",
+      "answer": "PERA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Fig.) Criar algo novo",
+      "answer": "PARIR",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Próprio das grandes profundidades marinhas",
+      "answer": "ABISSAL",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Santa",
+      "answer": "STA",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Que tem múltiplas aptidões",
+      "answer": "VERSATIL",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Orígenes Lessa (1903-1986), escritor de \"O Evangelho de Lázaro\"",
+      "answer": "OL",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "As iniciais do matemático, físico e astrônomo inglês Newton (1642-1727)",
+      "answer": "IN",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "A qualidade de uma solução cujo pH é menor que 7",
+      "answer": "ACIDEZ",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Princípio",
+      "answer": "PRIMORDIO",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Esp.) Plataforma onde ficam os primeiros colocados numa competição",
+      "answer": "PODIO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Otaviano Costa, ator e apresentador",
+      "answer": "OC",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Outro nome do bustiê",
+      "answer": "TOP",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Que não é próprio ou adequado",
+      "answer": "ERRADO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Imagem que se adora como uma divindade",
+      "answer": "IDOLO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O filho do filho",
+      "answer": "NETO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Alimentar o recém-nascido com um dos tipos de amamentação",
+      "answer": "ALEITAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Cortar com lâmina dentada",
+      "answer": "SERRAR",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Recolocado em atividade (comércio)",
+      "answer": "REABERTO",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "O músico e compositor carioca de \"Mas Que Nada\"",
+      "answer": "JORGEBEN",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Sem pagar nada",
+      "answer": "GRATIS",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Tornar viçoso, cheio de frescor",
+      "answer": "FLORIR",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Amarrotar",
+      "answer": "AMASSAR",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "A voz da ovelha ou do cordeiro",
+      "answer": "BALIDO",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Mecha de vela",
+      "answer": "PAVIO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Calçado para hóquei no gelo",
+      "answer": "PATIM",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Uma entidade muito popular das nossas lendas",
+      "answer": "SACI",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Tempero usado para refogar alimentos",
+      "answer": "ALHO",
+      "row": 7,
+      "col": 10
+    },
+    "30": {
+      "clue": "Examinar com profundidade (o conteúdo de um texto escrito)",
+      "answer": "LER",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Zélia Duncan, cantora fluminense",
+      "answer": "ZD",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

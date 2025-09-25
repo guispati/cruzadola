@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Unidade de medida da potência elétrica, correspondente a um joule por segundo",
+      "answer": "WATT",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Vieira) Famosa avenida do Rio de Janeiro",
+      "answer": "SOUTO",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "O ator estadunidense de \"Um Dia de Cão\" e \"Serpico\"",
+      "answer": "ALPACINO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Vice-Presidente",
+      "answer": "VP",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Lima Duarte, ator",
+      "answer": "LD",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Alicerce",
+      "answer": "BASE",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Abreviatura (em português) do Peru",
+      "answer": "PER",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Peixe de água doce, de cabeça achatada e dentes fortes",
+      "answer": "TRAIRA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "A parte mais elevada",
+      "answer": "CIMA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Acusar, incriminar",
+      "answer": "INCULPAR",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Lâminas que recobrem parte dos dedos",
+      "answer": "UNHAS",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Indo-europeu",
+      "answer": "ARICO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Instrumento para medir a quantidade de chuva caída em determinado lugar e em determinado tempo",
+      "answer": "UDOMETRO",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Abreviatura de excelentíssima",
+      "answer": "EXMA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Um ingrediente dos sabões",
+      "answer": "OLEINA",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "Pronome possessivo feminino",
+      "answer": "SUA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "A capital do Timor Leste",
+      "answer": "DILI",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Tom Cruise, ator de \"Missão Impossível\"",
+      "answer": "TC",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Sigla do estado de Londrina e Paranágua",
+      "answer": "PR",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Tornar lento",
+      "answer": "RETARDAR",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "Nova Délhi é a capital deste país",
+      "answer": "INDIA",
+      "row": 10,
+      "col": 1
+    },
+    "37": {
+      "clue": "Sufixo aumentativo",
+      "answer": "ORRA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O Disney (1901-1966) do Pateta e da Margarida",
+      "answer": "WALT",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O astronauta Edwin; participou do primeiro voo à Lua",
+      "answer": "ALDRIN",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "As consoantes de tipo",
+      "answer": "TP",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Chicotada",
+      "answer": "TABICADA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Fibra vegetal áspera e resistente",
+      "answer": "SISAL",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O valor que está escrito nas notas de um dólar",
+      "answer": "ONE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "A última e a penúltima vogais",
+      "answer": "UO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Calabre que apoia mastros e mastaréus de um navio",
+      "answer": "OVEM",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "O cartunista paulistano Paulo",
+      "answer": "CARUSO",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Cada uma das iguarias de que se compõe uma refeição",
+      "answer": "PRATO",
+      "row": 1,
+      "col": 10
+    },
+    "15": {
+      "clue": "Diarreia",
+      "answer": "PIRIRI",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Grande ave herbívora, semelhante ao peru",
+      "answer": "ANHUMA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Um funcionário dos Correios",
+      "answer": "CARTEIRO",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Prato típico da culinária espanhola",
+      "answer": "PAELLA",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Universidade Estadual Paulista",
+      "answer": "UNESP",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Expor os fatos",
+      "answer": "CONTAR",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Tufo de plantas rasteiras ou arbustivas",
+      "answer": "MOITA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Outro nome da ema",
+      "answer": "XURI",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "A capital de Gana, na África",
+      "answer": "ACRA",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "(Agnus) Um cântico da missa",
+      "answer": "DEI",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "Roberto Drummond, autor de \"Hilda Furacão\"",
+      "answer": "RD",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Discussão de Relacionamento",
+      "answer": "DR",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Gratificação dada ao garçom",
+      "answer": "GORJETA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Ministério Público Federal",
+      "answer": "MPF",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Cobrir de águas",
+      "answer": "ALAGAR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O personagem hippie da Turma da Mônica",
+      "answer": "ROLO",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Banda inglesa de rock progressivo dos anos 70",
+      "answer": "YES",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Derreter (a neve)",
+      "answer": "DEGELAR",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Base de montanha",
+      "answer": "SOPE",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Religioso que trabalha na administração de uma igreja",
+      "answer": "CONEGO",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Anel metálico",
+      "answer": "ARGOLA",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Põe os pingos neles quem fala às claras",
+      "answer": "IS",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Ter confiança",
+      "answer": "CRER",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Mistura de gases produzidos pela combustão do tabaco",
+      "answer": "FUMO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Boletim de Ocorrência",
+      "answer": "BO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Certa erva medicinal",
+      "answer": "MACELA",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "A grande hidrelétrica da fronteira entre Brasil e Paraguai",
+      "answer": "ITAIPU",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Nove menos seis",
+      "answer": "TRES",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Exposição resumida",
+      "answer": "SINTESE",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "O único satélite natural da Terra",
+      "answer": "LUA",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "Um fruto tropical",
+      "answer": "CAJA",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "(Pop.) Um desarranjo da barriga",
+      "answer": "PIRIRI",
+      "row": 9,
+      "col": 5
+    },
+    "38": {
+      "clue": "Círculo metálico que envolve uma roda de bicicleta",
+      "answer": "ARO",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Desprezo",
+      "answer": "DESAMOR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O gê do LGBT",
+      "answer": "GAYS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um combustível",
+      "answer": "OLEO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Retirar resíduos agarrados em algo",
+      "answer": "RASPAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "As iniciais do cantor e violonista baiano Gilberto, da Bossa Nova",
+      "answer": "JG",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Educação a Distância",
+      "answer": "EAD",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Pop.) Coisa",
+      "answer": "TRECO",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Que cede facilmente à pressão",
+      "answer": "MOLE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Cópia de obra alheia",
+      "answer": "PLAGIO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Privilégios",
+      "answer": "FOROS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Famosa marca francesa de carros",
+      "answer": "RENAULT",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Um esporte que usa tacos",
+      "answer": "GOLFE",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Religioso que vive em isolamento",
+      "answer": "EREMITA",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Uva, em inglês",
+      "answer": "GRAPE",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Enfraquecer pelo uso (falando-se de um tecido)",
+      "answer": "COTIAR",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Lindo peixe oceânico, também chamado agulhão",
+      "answer": "MARLIM",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Um jogo de cartas para duas ou quatro pessoas",
+      "answer": "BISCA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Saliva",
+      "answer": "CUSPE",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "(Papo de) Um doce",
+      "answer": "ANJO",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "A moeda dos países da União Europeia",
+      "answer": "EURO",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Proceder, provir",
+      "answer": "SAIR",
+      "row": 7,
+      "col": 10
+    },
+    "33": {
+      "clue": "Advérbio que significa aqui está!",
+      "answer": "EIS",
+      "row": 8,
+      "col": 6
+    },
+    "37": {
+      "clue": "Renato Aragão, dos \"Trapalhões\"",
+      "answer": "RA",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

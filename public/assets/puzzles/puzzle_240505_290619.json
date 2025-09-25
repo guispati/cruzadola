@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "Respirar num ritmo curto e precipitado",
+      "answer": "OFEGAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Apogeu",
+      "answer": "AUGE",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Sérgio Loroza, ator",
+      "answer": "SL",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Parte de uma joia na qual está presa uma pedra preciosa",
+      "answer": "ENGASTE",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "(-Tropez) Cidade da Riviera Francesa, destino turístico",
+      "answer": "SAINT",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Produz energia",
+      "answer": "USINA",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Árvore de frutos escuros, muito saborosos",
+      "answer": "AMOREIRA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "A desinência verbal de esquecer",
+      "answer": "ER",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Polegar",
+      "answer": "DEDO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "(Gír.) Conversa-mole",
+      "answer": "LERO",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "A apresentadora de TV Maria Braga",
+      "answer": "ANA",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Que te pertence (fem.)",
+      "answer": "TUA",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "O cineasta Ang, Oscar com \"As Aventuras de Pi\"",
+      "answer": "LEE",
+      "row": 5,
+      "col": 8
+    },
+    "26": {
+      "clue": "São necessários 100 para fazer a água ferver",
+      "answer": "GRAUS",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Propriedades",
+      "answer": "BENS",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Pio sem pê",
+      "answer": "IO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Adiamento",
+      "answer": "PRORROGA",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "Um órgão de apoio às pequenas empresas",
+      "answer": "SEBRAE",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "Abreviatura inglesa de Nações Unidas",
+      "answer": "UN",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "Grosseiro",
+      "answer": "CHULO",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Fruto utilizado na fabricação de sucos",
+      "answer": "UVAIA",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "(Bíbl.) O primeiro homem",
+      "answer": "ADÃO",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Contrário à lei",
+      "answer": "ILEGAL",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Os restos de um cadáver",
+      "answer": "OSSADA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Uma das três línguas oficiais da Bélgica",
+      "answer": "FLAMENGO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O marido da filha",
+      "answer": "GENRO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Diante de",
+      "answer": "ANTE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Registro Geral",
+      "answer": "RG",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Fig.) Causar grande calor ou ardor a",
+      "answer": "ASSAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Lugar de doentes graves",
+      "answer": "UTI",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O músico de rockabilly Vincent (1935-1971), de \"Be-Bop-A-Lula\"",
+      "answer": "GENE",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "A lei que libertou os escravos",
+      "answer": "AUREA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Misturar quimicamente com I",
+      "answer": "IODAR",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Próprio da técnica do trabalho manual não industrializado",
+      "answer": "ARTESANAL",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Enganador",
+      "answer": "ILUSOR",
+      "row": 3,
+      "col": 5
+    },
+    "21": {
+      "clue": "Substância que elimina rangidos",
+      "answer": "OLEO",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Mecanismo que aumenta a potência de motores",
+      "answer": "TURBO",
+      "row": 5,
+      "col": 4
+    },
+    "25": {
+      "clue": "Peixe semelhante a uma cobra",
+      "answer": "ENGUIA",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Pedido de ajuda",
+      "answer": "APELO",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "Sucinto",
+      "answer": "BREVE",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Artifício usado para capturar peixes",
+      "answer": "ISCA",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "O Seixas roqueiro",
+      "answer": "RAUL",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Um prato com partes do porco",
+      "answer": "SUÃ",
+      "row": 8,
+      "col": 2
+    },
+    "35": {
+      "clue": "(Sigla ingl.) Alta Definção",
+      "answer": "HD",
+      "row": 9,
+      "col": 1
+    },
+    "37": {
+      "clue": "Anita Garibaldi (1821-1849), heroína catarinense",
+      "answer": "AG",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

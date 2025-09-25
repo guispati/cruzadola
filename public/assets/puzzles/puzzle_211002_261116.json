@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Comunidade indígena",
+      "answer": "TRIBO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Peças do vestuário que são usadas nos pés",
+      "answer": "MEIAS",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Que tem forma esférica ou circular",
+      "answer": "REDONDO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Sufixo diminutivo",
+      "answer": "ETO",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Antônio Fagundes, ator carioca",
+      "answer": "AF",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Perfeição irrealizável",
+      "answer": "IDEAL",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "A sigla de Unidade Astronômica",
+      "answer": "UA",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Dirigir-se (uma pessoa) de lá para cá",
+      "answer": "VIR",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Matar por sufocação",
+      "answer": "ESGANAR",
+      "row": 3,
+      "col": 4
+    },
+    "21": {
+      "clue": "Terceira pessoa feminina do plural",
+      "answer": "ELAS",
+      "row": 4,
+      "col": 0
+    },
+    "23": {
+      "clue": "Fazer um animal doméstico engordar",
+      "answer": "CEVAR",
+      "row": 4,
+      "col": 5
+    },
+    "24": {
+      "clue": "Molusco semelhante ao polvo",
+      "answer": "CALAMAR",
+      "row": 5,
+      "col": 2
+    },
+    "27": {
+      "clue": "Ranger por falta de óleo",
+      "answer": "CHIAR",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "A dançarina e atriz Cadillac",
+      "answer": "RITA",
+      "row": 6,
+      "col": 7
+    },
+    "30": {
+      "clue": "Gira em torno do Sol",
+      "answer": "PLANETA",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Pop.) Tranquilo",
+      "answer": "ZEN",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "2, em algarismos romanos",
+      "answer": "II",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Dispositivo para evitar o roubo de bicicletas",
+      "answer": "TRAVA",
+      "row": 8,
+      "col": 3
+    },
+    "36": {
+      "clue": "Luiza Tomé, atriz",
+      "answer": "LT",
+      "row": 8,
+      "col": 9
+    },
+    "37": {
+      "clue": "(Abrev.) Tensão Pré-Menstrual",
+      "answer": "TPM",
+      "row": 9,
+      "col": 0
+    },
+    "39": {
+      "clue": "A que se cortou um ramo ou membro",
+      "answer": "TRONCHO",
+      "row": 9,
+      "col": 4
+    },
+    "41": {
+      "clue": "Ponto cardeal cuja abreviatura é a letra O",
+      "answer": "OESTE",
+      "row": 10,
+      "col": 0
+    },
+    "42": {
+      "clue": "Amassar muito",
+      "answer": "SOCAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Náut.) Vento que sopra na direção perpendicular à quilha",
+      "answer": "TRAVES",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Produto que substitui o original que se gastou",
+      "answer": "REFIL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Isadora Duncan (1872-1927), bailarina norte-americana",
+      "answer": "ID",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Peixe-) Outro nome do manati",
+      "answer": "BOI",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "No lugar em que",
+      "answer": "ONDE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "O trabalho do moinho",
+      "answer": "MOAGEM",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Abreviatura de isto é",
+      "answer": "IE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Pôr em execução",
+      "answer": "ATUAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Fig.) Ter semelhança com, significar",
+      "answer": "SOAR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Rejeitar, no jogo de baralho, os naipes que não convêm",
+      "answer": "DESCARTAR",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Usar água e sabão",
+      "answer": "LAVAR",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "(Pop.) Corrida ilegal de carros em via pública",
+      "answer": "RACHA",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "Órgão do olfato",
+      "answer": "NARIZ",
+      "row": 3,
+      "col": 8
+    },
+    "22": {
+      "clue": "(Moritz) Cidade suíça que já foi palco de duas Olimpíadas de Inverno",
+      "answer": "SAINT",
+      "row": 4,
+      "col": 3
+    },
+    "25": {
+      "clue": "O cartunista de \"Piratas do Tietê\"",
+      "answer": "LAERTE",
+      "row": 5,
+      "col": 4
+    },
+    "26": {
+      "clue": "Um profissional como Luciano Pavarotti",
+      "answer": "CANTOR",
+      "row": 5,
+      "col": 10
+    },
+    "27": {
+      "clue": "Prendedor para papel",
+      "answer": "CLIPE",
+      "row": 6,
+      "col": 1
+    },
+    "29": {
+      "clue": "Peça usada na cobertura de casas",
+      "answer": "TELHA",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "Cigarro",
+      "answer": "PITO",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Os pais dos tios",
+      "answer": "AVOS",
+      "row": 7,
+      "col": 6
+    },
+    "35": {
+      "clue": "Um ciclo de 12 meses",
+      "answer": "ANO",
+      "row": 8,
+      "col": 7
+    },
+    "38": {
+      "clue": "Sigla do estado de Ponta Porã",
+      "answer": "MS",
+      "row": 9,
+      "col": 2
+    },
+    "40": {
+      "clue": "Carlos Chagas (1878-1934), descobridor da doença que leva seu nome",
+      "answer": "CC",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

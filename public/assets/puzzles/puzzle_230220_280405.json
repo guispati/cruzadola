@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "A capital do AM",
+      "answer": "MANAUS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Fr.) A saia usada por dançarinas de balé clássico",
+      "answer": "TUTU",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Morte (na linguagem estilística)",
+      "answer": "OBITO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O oposto de maior",
+      "answer": "MENOR",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Aparelho eletrônico para entretenimento",
+      "answer": "TEVE",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "O parceiro de Fumaça, no antigo desenho animado",
+      "answer": "FAISCA",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Relativo à cultura da azeitona",
+      "answer": "OLEICOLA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "(Econ.) Um tipo de ação",
+      "answer": "ON",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "A capital do Zimbábue",
+      "answer": "HARARE",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "Dó, ré, mi, (?)...",
+      "answer": "FA",
+      "row": 5,
+      "col": 0
+    },
+    "19": {
+      "clue": "O complemento do feijão no prato básico dos brasileiros",
+      "answer": "ARROZ",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "Nocaute",
+      "answer": "KO",
+      "row": 5,
+      "col": 9
+    },
+    "22": {
+      "clue": "(Gír.) Cédula de dinheiro",
+      "answer": "PELEGA",
+      "row": 6,
+      "col": 4
+    },
+    "24": {
+      "clue": "As iniciais da atriz Braga",
+      "answer": "SB",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Voltar a tapar",
+      "answer": "RECOBRIR",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Cobertura de automóveis",
+      "answer": "CAPOTA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Demonstração de alegria",
+      "answer": "RISO",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "Construção para represar águas",
+      "answer": "AÇUDE",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Líquido extraído do tronco de certas árvores",
+      "answer": "LATEX",
+      "row": 9,
+      "col": 6
+    },
+    "33": {
+      "clue": "O animal inimigo de Chapeuzinho Vermelho",
+      "answer": "LOBO",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Indígena de tribo do Mato Grosso, uma das maiores que o Brasil já teve",
+      "answer": "BORORO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Red.) Um veículo de duas rodas",
+      "answer": "MOTO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O inseto criado pelo apicultor",
+      "answer": "ABELHA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Firma de cosméticos",
+      "answer": "NIVEA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Pé de fruta-do-conde",
+      "answer": "ATEIRA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Econ.) Unidade Orçamentária",
+      "answer": "UO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "A trama da aranha, usada para apanhar comida",
+      "answer": "TEIA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Pouco mais ou menos",
+      "answer": "UNS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Resto de mastro desarvorado",
+      "answer": "TOCO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Quím.) O U",
+      "answer": "URANIO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Anat.) Saliência óssea do tornozelo",
+      "answer": "MALEOLO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Carro velho ou em mau estado",
+      "answer": "FORRECA",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Tipo de tapete que reveste inteiramente um cômodo",
+      "answer": "CARPETE",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Inspetor",
+      "answer": "FISCAL",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Listrar",
+      "answer": "ZEBRAR",
+      "row": 5,
+      "col": 7
+    },
+    "21": {
+      "clue": "Famosa marca de cerveja",
+      "answer": "KAISER",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Berro",
+      "answer": "GRITO",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "Víscera situada atrás do estômago e acima do rim esquerdo",
+      "answer": "BAÇO",
+      "row": 7,
+      "col": 1
+    },
+    "26": {
+      "clue": "Equipamento que puxa a água para o ralo",
+      "answer": "RODO",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "(Pop.) Diz-se de admirador fanático de um time de futebol",
+      "answer": "ROXO",
+      "row": 7,
+      "col": 10
+    },
+    "29": {
+      "clue": "O típico bar dos ingleses",
+      "answer": "PUB",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "O cantor Borges, de \"O Trem Azul\"",
+      "answer": "LO",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

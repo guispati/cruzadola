@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O meio de transporte usado pela Azul, Gol ou Latam",
+      "answer": "AVIÃO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O assento do ciclista",
+      "answer": "SELIM",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Prep.: falta",
+      "answer": "SEM",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Pez usado em adesivos, vernizes, isolantes, revestimentos etc.",
+      "answer": "BREU",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Sigla do estado onde fica o DF",
+      "answer": "GO",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Cláusula secundária de um documento",
+      "answer": "SUBITEM",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Reprimir a espontaneidade de outrem",
+      "answer": "INIBIR",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "O balido dos ovinos",
+      "answer": "ME",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Balcão",
+      "answer": "SACADA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Prova do MEC",
+      "answer": "ENEM",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Prejuízo causado intencionalmente",
+      "answer": "SABOTAGEM",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Animal que se parece com um caranguejo",
+      "answer": "SIRI",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "O que se vê na tela do computador",
+      "answer": "IMAGEM",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Paulo Autran (1922-2007), ator",
+      "answer": "PA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "(Gír. esp.) Vitória por larga margem de pontos",
+      "answer": "LAVADA",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Que se pode tapar, arrolhar",
+      "answer": "VEDAVEL",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "(Homem-) Mergulhador profissional que efetua explorações submarinas",
+      "answer": "RÃ",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "O bê de BH",
+      "answer": "BELO",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Pronome que representa a terceira pessoa gramatical (fem.)",
+      "answer": "ELA",
+      "row": 9,
+      "col": 8
+    },
+    "36": {
+      "clue": "O poeta Antônio Gonzaga (1744-1810), de \"Marília de Dirceu\"",
+      "answer": "TOMAS",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Repassar",
+      "answer": "RELER",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O Chateaubriand (1891-1968), introdutor da TV no Brasil",
+      "answer": "ASSIS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Tecido, muito leve e fino",
+      "answer": "VEU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Levar negócios a bom termo",
+      "answer": "IMBICAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Alcançado, conquistado",
+      "answer": "OBTIDO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Prefixo que tem o sentido de metade",
+      "answer": "SEMI",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "O sujeito de descanso ou corro",
+      "answer": "EU",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Ingrid Guimarães, atriz",
+      "answer": "IG",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Dispositivo de transmissão de dados via telefone",
+      "answer": "MODEM",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Como os bancos de certos carros",
+      "answer": "REBATIVEL",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Inapto",
+      "answer": "INABIL",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Propriedade no campo, banhada por curso de água",
+      "answer": "REGADA",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "(Neol.) Mensagem, post etc. que se multiplica facilmente e rapidamente",
+      "answer": "MEME",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "O continente onde está localizada a Mongólia e a Indonésia",
+      "answer": "ASIA",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Que pode ser recusado",
+      "answer": "NEGAVEL",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Não profissional",
+      "answer": "AMADOR",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Equipe pernambucana de futebol",
+      "answer": "SPORT",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Adoçar demais",
+      "answer": "MELAR",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Emas, pinguins e galos",
+      "answer": "AVES",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "O sujeito de ri ou chora",
+      "answer": "ELE",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Um sufixo aumentativo",
+      "answer": "ÃO",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "Sigla do estado das cidades de Itabuna e Senhor do Bonfim",
+      "answer": "BA",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

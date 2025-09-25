@@ -1,0 +1,246 @@
+{
+  "across": {
+    "2": {
+      "clue": "(de Castro) Artista plástico mineiro (1920-2002)",
+      "answer": "AMILCAR",
+      "row": 0,
+      "col": 2
+    },
+    "8": {
+      "clue": "Grande calor",
+      "answer": "ESTO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "O ator Rodrigo",
+      "answer": "SIMAS",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Local frequentado por minorias",
+      "answer": "GUETO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Lugar onde se criam siameses e persas",
+      "answer": "GATIL",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Animal parecido com o cavalo, mas geralmente menor",
+      "answer": "ASNO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Onda pequena",
+      "answer": "MAROLA",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Pé de peras",
+      "answer": "PEREIRA",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Vice-Presidente",
+      "answer": "VP",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "Que lhe cabe",
+      "answer": "SEU",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Diz-se do altar principal de uma igreja",
+      "answer": "MOR",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "Mar, em inglês",
+      "answer": "SEA",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Pablo Neruda, escritor chileno",
+      "answer": "PN",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Manifestação de tristeza por morte de alguém",
+      "answer": "PESAMES",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "(Patativa do) Poeta cearense (1909-2002)",
+      "answer": "ASSARE",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Uma das marés",
+      "answer": "ALTA",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "As estátuas da ilha de Páscoa, no Chile",
+      "answer": "MOAIS",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Ave parecida com um pequeno ganso",
+      "answer": "IRERE",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Cidade do MT com belas praias fluviais",
+      "answer": "SINOP",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "Deter",
+      "answer": "ATER",
+      "row": 9,
+      "col": 7
+    },
+    "35": {
+      "clue": "Diz-se de pessoa impertinente, rabugenta",
+      "answer": "RANHETA",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Inform.) Um milhão, usado como medida",
+      "answer": "MEGA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Uma academia de ensino",
+      "answer": "ATENEU",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "O mecanismo que faz o carro andar",
+      "answer": "MOTOR",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Linguagem de Sinais",
+      "answer": "LS",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "Inseto de canto repetitivo, ouvido em tempos de calor",
+      "answer": "CIGARRA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Azeda, não doce",
+      "answer": "AMARA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Um animal como Níquel Náusea, dos quadrinhos",
+      "answer": "RATO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Uma característica dos jardins da Babilônia",
+      "answer": "SUSPENSOS",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Próprio das matas",
+      "answer": "SILVESTRE",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Bairro do Rio de Janeiro, famoso por seus arcos",
+      "answer": "LAPA",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Contração das pupilas",
+      "answer": "MIOSE",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "O ex-piloto Fittipaldi",
+      "answer": "EMERSON",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Mensagem não solicitada",
+      "answer": "SPAM",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "De primeira qualidade (fem.)",
+      "answer": "SELETA",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Era usada como enchimento para travesseiros",
+      "answer": "PAINA",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Revolucionário francês (1743-1793)",
+      "answer": "MARAT",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "(Pop.) Desfilar numa escola de samba",
+      "answer": "SAIR",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "(Willys) Carro dos anos 1950",
+      "answer": "AERO",
+      "row": 7,
+      "col": 10
+    },
+    "33": {
+      "clue": "(Quím.) Potencial hidrogeniônico",
+      "answer": "PH",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

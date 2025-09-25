@@ -1,0 +1,222 @@
+{
+  "across": {
+    "1": {
+      "clue": "O de Freitas (1950-2018) técnico da seleção de vôlei",
+      "answer": "BEBETO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Nação com capital Havana",
+      "answer": "CUBA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Investigação, análise, inspeção ou pesquisa minuciosa",
+      "answer": "EXAME",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Forma oblíqua de eu",
+      "answer": "MIM",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "Outro nome da abóbora",
+      "answer": "JERIMU",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Destino",
+      "answer": "SINA",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Unir em matrimônio",
+      "answer": "ESPOSAR",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Capaz de dissolver",
+      "answer": "SOLUTIVO",
+      "row": 4,
+      "col": 3
+    },
+    "19": {
+      "clue": "Terminação de verbos da primeira conjugação",
+      "answer": "IAR",
+      "row": 5,
+      "col": 2
+    },
+    "20": {
+      "clue": "Última instância (de algo)",
+      "answer": "FIM",
+      "row": 5,
+      "col": 6
+    },
+    "21": {
+      "clue": "(TV) Locutor de programas, jogos etc.",
+      "answer": "NARRADOR",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Exército, tropa",
+      "answer": "MILICIA",
+      "row": 7,
+      "col": 2
+    },
+    "26": {
+      "clue": "(Pessoa) A capital paraibana",
+      "answer": "JOÃO",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Vazio por interrupção",
+      "answer": "LACUNA",
+      "row": 8,
+      "col": 5
+    },
+    "30": {
+      "clue": "Patrão, senhor",
+      "answer": "AMO",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "A unidade monetária da Austrália",
+      "answer": "DOLAR",
+      "row": 9,
+      "col": 6
+    },
+    "32": {
+      "clue": "Pouco fundo",
+      "answer": "RASO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Um principado europeu",
+      "answer": "MONACO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Dona) Personalidade histórica mineira (1800-1873), tornou-se tema de novela",
+      "answer": "BEJA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Parte da... mexerica",
+      "answer": "EXE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Relativo a Manaus (AM)",
+      "answer": "BARE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Mensageiro",
+      "answer": "EMISSARIO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Osso da parte lateral inferior do crânio",
+      "answer": "TEMPORAL",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Cidade cearense da região de Uruburetama",
+      "answer": "UMIRIM",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O meio do... tubinho",
+      "answer": "BIN",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O oposto de profissional",
+      "answer": "AMADOR",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Abreviatura de um famoso portal da internet",
+      "answer": "UOL",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Importante sátira de Petrônio, prosador da antiguidade",
+      "answer": "SATIRICON",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Com falta de ar",
+      "answer": "SUFOCADO",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Causar náuseas",
+      "answer": "ENOJAR",
+      "row": 5,
+      "col": 0
+    },
+    "19": {
+      "clue": "Membros de uma irmandade",
+      "answer": "IRMÃOS",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Parte da... cedilha",
+      "answer": "DIL",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "Lição",
+      "answer": "AULA",
+      "row": 7,
+      "col": 8
+    },
+    "25": {
+      "clue": "De preço alto",
+      "answer": "CARO",
+      "row": 7,
+      "col": 10
+    },
+    "27": {
+      "clue": "Sufixo que forma nomes de tumores",
+      "answer": "OMA",
+      "row": 8,
+      "col": 1
+    },
+    "29": {
+      "clue": "Nacional",
+      "answer": "NAC",
+      "row": 8,
+      "col": 9
+    }
+  }
+}

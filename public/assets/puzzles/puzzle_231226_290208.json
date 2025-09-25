@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Antigo calçado feminino",
+      "answer": "CHAPIM",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Um carro de duas portas",
+      "answer": "CUPE",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Que tem pés grandes",
+      "answer": "PEZUDO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "(Quím.) Alumínio",
+      "answer": "AL",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Salvo, exceto",
+      "answer": "AFORA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Que não é transparente",
+      "answer": "OPACO",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Macia",
+      "answer": "LISA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Ato de adversários baterem-se corpo a corpo",
+      "answer": "BRIGA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "L",
+      "answer": "ELE",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Apupar",
+      "answer": "VAIAR",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Erva também chamada amor-crescido",
+      "answer": "ONZEHORAS",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "O esporte de Rafale Nadal",
+      "answer": "TENIS",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Documento de Ordem de Crédito",
+      "answer": "DOC",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Mensagem num envelope",
+      "answer": "CARTA",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Corpo vegetativo rudimentar das algas e fungos",
+      "answer": "TALO",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "(Pop.) Não participar de",
+      "answer": "FURAR",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Conduzir de um lugar para outro",
+      "answer": "LEVAR",
+      "row": 8,
+      "col": 6
+    },
+    "30": {
+      "clue": "(Náut.) Abreviatura do lado direito do navio, olhando da popa para a proa",
+      "answer": "EB",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "(Inform.) Nos computadores, tecla para apagar ou remover",
+      "answer": "DELETE",
+      "row": 9,
+      "col": 3
+    },
+    "33": {
+      "clue": "Situação, condição",
+      "answer": "MODO",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Grade de churrasqueira",
+      "answer": "GRELHA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Casa rústica, cabana",
+      "answer": "CHALE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Deixar de trabalhar por invalidez ou tempo de serviço",
+      "answer": "APOSENTAR",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "(Eletr.) Interruptor que tem o formato de uma fruta",
+      "answer": "PERA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "A cantora do sucesso \"Pesadão\"",
+      "answer": "IZA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Outro nome do burro",
+      "answer": "MU",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Imitar",
+      "answer": "COPIAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Roedor noturno, que vive geralmente próximo a rios",
+      "answer": "PACA",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Argola de corrente",
+      "answer": "ELO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Povo que, no século XI a.C., se estabeleceu na Grécia",
+      "answer": "DORIOS",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Tecido fino e transparente",
+      "answer": "FILO",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Que transmite prazer, deleite",
+      "answer": "AGRADAVEL",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "O estado da Chapada Diamantina",
+      "answer": "BAHIA",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Barriga",
+      "answer": "VENTRE",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Quitado",
+      "answer": "ZERADO",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Parte inferior do calçado",
+      "answer": "SOLA",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Fio que dá o som ao violão",
+      "answer": "CORDA",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "A forma de um dado de seis lados",
+      "answer": "CUBO",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Um apelido para Teresa",
+      "answer": "TETE",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Abreviatura de feminino",
+      "answer": "FEM",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Dedicar-se à leitura",
+      "answer": "LER",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Luciana Gimenez, apresentadora de TV",
+      "answer": "LG",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

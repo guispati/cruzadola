@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Rei de um estado da Índia",
+      "answer": "RAJA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Um automóvel da Volkswagen",
+      "answer": "PASSAT",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "A língua oficial do Paquistão",
+      "answer": "URDU",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "No lugar em que",
+      "answer": "ONDE",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "O frâncio, para os químicos",
+      "answer": "FR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Fig.) Pessoa de características físicas ou morais extraordinárias",
+      "answer": "TITÃ",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Jogo de estratégia",
+      "answer": "RPG",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "País da África com capital Maseru",
+      "answer": "LESOTO",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Construção para atracação de barcos",
+      "answer": "PIER",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "O Barack, ex-presidente dos EUA",
+      "answer": "OBAMA",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Aquilo que serve para fechar",
+      "answer": "LACRE",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Nascidas em Veneza e Siena",
+      "answer": "ITALIANAS",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Submissão e respeito",
+      "answer": "ACATO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Cidade potiguar",
+      "answer": "TAIPU",
+      "row": 6,
+      "col": 6
+    },
+    "26": {
+      "clue": "(-henry) Unidade de medida da física",
+      "answer": "NANO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Estar em declínio",
+      "answer": "DECAIR",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "Clube campeão terceira vez",
+      "answer": "TRI",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Sem préstimo",
+      "answer": "MIXE",
+      "row": 8,
+      "col": 4
+    },
+    "30": {
+      "clue": "Carlos Gardel, cantor de tango",
+      "answer": "CG",
+      "row": 8,
+      "col": 9
+    },
+    "31": {
+      "clue": "O músico Baker (1929-1988), do jazz",
+      "answer": "CHET",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Cidade e rio do RS",
+      "answer": "IJUI",
+      "row": 9,
+      "col": 7
+    },
+    "35": {
+      "clue": "Gás para esterilizar a água",
+      "answer": "OZONIO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Juntar",
+      "answer": "APOR",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ato de fazer tremular, agitar",
+      "answer": "RUFLO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Enfeitar com exagero",
+      "answer": "ARREBICAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Jane Duboc, cantora",
+      "answer": "JD",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Máquina que se movimenta sozinha",
+      "answer": "AUTOMATO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Besouro também chamado bicho-de-fogo",
+      "answer": "POTO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Mulher de estatura muito abaixo do normal",
+      "answer": "ANÃ",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Salvador Dalí, artista espanhol",
+      "answer": "SD",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Lagarta do bicho-da-seda",
+      "answer": "SERICAIA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Tubarão comum no NE do Brasil, também chamado jaguara",
+      "answer": "TIGRE",
+      "row": 0,
+      "col": 10
+    },
+    "14": {
+      "clue": "O Ferreira, primeiro campeão olímpico do surfe",
+      "answer": "ITALO",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Evidente, compreensível",
+      "answer": "PERSPICUO",
+      "row": 2,
+      "col": 9
+    },
+    "18": {
+      "clue": "Mau e sinistro",
+      "answer": "SATANICO",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Remédio para todos os males (em sentido irônico)",
+      "answer": "PANACEIA",
+      "row": 3,
+      "col": 7
+    },
+    "21": {
+      "clue": "Uma matéria-prima para borracha",
+      "answer": "LATEX",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Buraco, serve de abrigo aos animais",
+      "answer": "ANTRO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Não admitir demora ou atraso",
+      "answer": "URGIR",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "(-cujo) Sujeito",
+      "answer": "DITO",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "Microempreendedor Individual",
+      "answer": "MEI",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Hemisfério Norte",
+      "answer": "HN",
+      "row": 9,
+      "col": 3
+    },
+    "34": {
+      "clue": "Juliana Paes, atriz carioca",
+      "answer": "JP",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

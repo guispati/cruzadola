@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "A formação para uma exibição de capoeira",
+      "answer": "RODA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Permanência",
+      "answer": "FICADA",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Inscrito no serviço militar",
+      "answer": "ALISTADO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Ulysses Guimarães (1916-1992), político das \"Diretas Já\"",
+      "answer": "UG",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Programa de Integração Social",
+      "answer": "PIS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O Mesquita ator e cantor",
+      "answer": "EVANDRO",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Ato de fitar os olhos em alguém",
+      "answer": "ENCARO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Os de ovos são um doce",
+      "answer": "FIOS",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Um açúcar amarelado",
+      "answer": "DEMERARA",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Reparar",
+      "answer": "SANAR",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Um grande sucesso de Gilberto Gil",
+      "answer": "PALCO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Aquele que incinera (cadáveres)",
+      "answer": "CREMADOR",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "O continente da Malásia e de Mianmar",
+      "answer": "ASIA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Estado dos EUA cuja capital é Salem",
+      "answer": "OREGON",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "A atriz Leal",
+      "answer": "LEANDRA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Mesmo",
+      "answer": "ATE",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "(Quím.) Terminação dos álcoois",
+      "answer": "OL",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Equipamento para tostar café",
+      "answer": "TORRADOR",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "Que anda com lentidão",
+      "answer": "MOROSO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "(Carlos Heitor) O autor do livro \"A Casa do Poeta Trágico\"",
+      "answer": "CONY",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Tabaco de cheiro em finíssimo pó",
+      "answer": "RAPE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Cidade de PE, a primeira capital do estado",
+      "answer": "OLINDA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ação de aprender",
+      "answer": "DISCENCIA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O \"A\" das cartas",
+      "answer": "AS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Obséquio",
+      "answer": "FAVOR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "A primeira metade de uma viagem",
+      "answer": "IDA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Colega, camarada",
+      "answer": "CONFRADE",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Sólido e firme de tocar",
+      "answer": "DURO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O mês 8",
+      "answer": "AGOSTO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Penteado com tranças e tecidos, enfeites etc.",
+      "answer": "TERERE",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Expresso em forma de conversa",
+      "answer": "DIALOGADO",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Planta ornamental, de flores aveludadas",
+      "answer": "AMARANTO",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Cortar as beiras de",
+      "answer": "APARAR",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "A tradicional saudação hebraica de paz",
+      "answer": "SHALOM",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Planta de folhas verdes e amarelas e estrias vermelhas",
+      "answer": "CROTON",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "O do Careca é um dos principais pontos turísticos de Natal (RN)",
+      "answer": "MORRO",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Papel adesivo, ilustrado, que se aplica em cartas",
+      "answer": "SELO",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "A poetisa Adalgisa",
+      "answer": "NERY",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "De + os",
+      "answer": "DOS",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "Sigla do Acre",
+      "answer": "AC",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

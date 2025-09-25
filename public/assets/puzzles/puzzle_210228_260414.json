@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma sereia das histórias da Disney",
+      "answer": "ARIEL",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Ingl.) Correio eletrônico",
+      "answer": "EMAIL",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Grande saguão",
+      "answer": "PATIO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Ser do sexo feminino",
+      "answer": "FEMEA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Documento autêntico de um contrato, feito por oficial público",
+      "answer": "ESCRITURA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Deslocar-se na água por impulso próprio",
+      "answer": "NADAR",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Medo causado por um fato ameaçador súbito e inesperado (ruído, visão etc.)",
+      "answer": "SUSTO",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "A atriz paulista Mafalda",
+      "answer": "ELOISA",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Loja de livros usados",
+      "answer": "SEBO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Macaca",
+      "answer": "MONA",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "Voz do cão e de alguns canídeos",
+      "answer": "LATIDO",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Um dispositivo de detecção, escuta e comunicação submarina",
+      "answer": "SONAR",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Empresa britânica de material esportivo",
+      "answer": "UMBRO",
+      "row": 7,
+      "col": 6
+    },
+    "33": {
+      "clue": "Cantar (o grilo)",
+      "answer": "CRICRILAR",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "A novelista Janete (1925-1983)",
+      "answer": "CLAIR",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Um cabo náutico",
+      "answer": "ALOTE",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "(Pop.) Ídolo",
+      "answer": "HEROI",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Sulcos que criam um franzido na pele de idosos",
+      "answer": "RUGAS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Somente",
+      "answer": "APENAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Não funda",
+      "answer": "RASA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Imposto sobre a Transmissão Causa Mortis e Doações",
+      "answer": "ITCD",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Espécie de gato do sertão",
+      "answer": "EIRA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O rio mais extenso da França",
+      "answer": "LOIRE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Derramado",
+      "answer": "EFUSO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Mosquito de terrenos pantanosos",
+      "answer": "MERUIM",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Agarramento",
+      "answer": "AMASSO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Instituto de Engenharia",
+      "answer": "IE",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "(Fig.) Aliança, pacto, compromisso",
+      "answer": "LAÇO",
+      "row": 0,
+      "col": 10
+    },
+    "16": {
+      "clue": "Tanzânia",
+      "answer": "TAN",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "(Ingl.) Uma tela de TV",
+      "answer": "LCD",
+      "row": 4,
+      "col": 5
+    },
+    "20": {
+      "clue": "Cada argola da corrente",
+      "answer": "ELO",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Fingir",
+      "answer": "BANCAR",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "(Gír.) Indivíduo tolo, fácil de ser enganado",
+      "answer": "OTARIO",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Arquipélago português localizado no Atlântico",
+      "answer": "AÇORES",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Grande rio do Pará, afluente do Xingu (1.135 km)",
+      "answer": "IRIRI",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "(Fig.) Perder o uso da razão",
+      "answer": "OURAR",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "Símbolo matemático de secante hiperbólica",
+      "answer": "SECH",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "O cachorro do Tintim, personagem de famosas HQs",
+      "answer": "MILU",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "(Inform.) Diário virtual, via internet",
+      "answer": "BLOG",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Ato inoportuno",
+      "answer": "RATA",
+      "row": 7,
+      "col": 9
+    },
+    "35": {
+      "clue": "(Mans) Cidade francesa com famoso autódromo",
+      "answer": "LE",
+      "row": 9,
+      "col": 1
+    }
+  }
+}

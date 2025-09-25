@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Planta usada como condimento",
+      "answer": "ENDRO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Pena de ave, usada como adorno de chapéus",
+      "answer": "PLUMA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Unidade de medida também chamada palmo",
+      "answer": "MÃO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Grupo de amigos",
+      "answer": "PATOTA",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "(do Paranapanema) Região paulista na divisa com MS e PR",
+      "answer": "PONTAL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Uma caravela usada por Cristóvão Colombo",
+      "answer": "NINA",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "(Fig.) Problema insolúvel",
+      "answer": "DILEMA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "As letras separadas pelo K",
+      "answer": "JL",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Parte do canal alimentar que une a faringe ao estômago",
+      "answer": "ESOFAGO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Cinquenta + cinquenta",
+      "answer": "CEM",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "(sem fundo) Pessoa que come demais",
+      "answer": "SACO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Paulada",
+      "answer": "RIPADA",
+      "row": 5,
+      "col": 5
+    },
+    "25": {
+      "clue": "Feita por ti (fem.)",
+      "answer": "TUA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Peça do vestuário mais usada em dias frios",
+      "answer": "CASACO",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "Abreviatura de idem",
+      "answer": "ID",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Uma fronteira natural entre a Espanha e França",
+      "answer": "PIRENEUS",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Roupas usadas nos pés",
+      "answer": "MEIAS",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "A da Mantiqueira se estende por SP, MG e RJ",
+      "answer": "SERRA",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Um estilo de rock",
+      "answer": "PUNK",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "A atriz carioca Leandra",
+      "answer": "LEAL",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "Economias",
+      "answer": "RESERVAS",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Aquilo que se cede temporariamente",
+      "answer": "EMPRESTIMO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um advérbio de negação",
+      "answer": "NÃO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Pop.) Mulher fútil e ociosa",
+      "answer": "DONDOCA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Uma pedra preciosa",
+      "answer": "OPALA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Polícia Técnica",
+      "answer": "PT",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "No jogo de palitinhos, zero ponto",
+      "answer": "LONA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Unidade hospitalar para doentes em estado grave",
+      "answer": "UTI",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Tabuleiro em que se deposita comida para vacas, cavalos etc. em estábulos",
+      "answer": "MANJEDOURA",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Divertir, sorrir",
+      "answer": "ALEGRAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Uma doença infectocontagiosa",
+      "answer": "TIFO",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "(Fig.) Peça fundamental",
+      "answer": "ALMA",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Cesta para carregar recém-nascidos",
+      "answer": "MOISES",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "Uma resposta para um atchim",
+      "answer": "SAUDE",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Cidade pecuária mato-grossense",
+      "answer": "CACERES",
+      "row": 4,
+      "col": 8
+    },
+    "24": {
+      "clue": "Um recipiente usado para cozinhar",
+      "answer": "PANELA",
+      "row": 5,
+      "col": 7
+    },
+    "26": {
+      "clue": "Ave branca",
+      "answer": "CISNE",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "Naipe preto das cartas de jogar",
+      "answer": "PAUS",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "Local onde são dadas aulas",
+      "answer": "SALA",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "A árvore que é um símbolo nacional",
+      "answer": "IPE",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "(Quím.) O criptônio",
+      "answer": "KR",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

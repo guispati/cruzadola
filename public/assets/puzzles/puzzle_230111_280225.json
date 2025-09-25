@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "Adquirir",
+      "answer": "OBTER",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "A parte da embalagem, usada para vedá-la",
+      "answer": "TAMPA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Tintura obtida de planta homônima, usada em contusões e edemas",
+      "answer": "ARNICA",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "O grosso é usado em churrascos, para temperar carnes",
+      "answer": "SAL",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Representação gráfica de fatos, fenômenos etc.",
+      "answer": "DIAGRAMA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "As letras que separam o F do I",
+      "answer": "GH",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Um barco de recreio",
+      "answer": "IATE",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Aquele que furta",
+      "answer": "LADRÃO",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "(Rel.) Um santo de Pádua, franciscano",
+      "answer": "ANTONIO",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Um dos apelidos de Antônio",
+      "answer": "TONHO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Vasilhame",
+      "answer": "CASCO",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Um doce em barra, à base de mel",
+      "answer": "TORRONE",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Canto, quina",
+      "answer": "ARESTA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Famoso técnico do futebol brasileiro",
+      "answer": "TITE",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Uma variação do pronome tu",
+      "answer": "TI",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Suplemento que se acrescenta a uma obra após publicada",
+      "answer": "AUTUARIO",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "(Pop.) Redução de apartamento",
+      "answer": "APE",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Vigiar",
+      "answer": "RONDAR",
+      "row": 9,
+      "col": 4
+    },
+    "35": {
+      "clue": "Sentimento de irritação, agressividade, rancor",
+      "answer": "RAIVA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Da estrela do nosso sistema planetário",
+      "answer": "SOLAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Compartimento onde cavalos ficam recolhidos",
+      "answer": "BAIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Aquele que promete e não cumpre",
+      "answer": "TRATANTE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Que é rico de imaginação, inventivo",
+      "answer": "ENGENHOSA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Apresentar um ar alegre",
+      "answer": "RIR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Calçado com sola e salto de madeira",
+      "answer": "TAMANCO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Ministério da Saúde",
+      "answer": "MS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Mulher que não foi batizada",
+      "answer": "PAGÃ",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Uma forma de comer o macarrão",
+      "answer": "ALHOEOLEO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Endurecimento epidérmico de certas partes do corpo",
+      "answer": "CALO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Anular um pacto",
+      "answer": "DISTRATAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Pago com antecipação",
+      "answer": "ADIANTADO",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "Um canteiro muito espinhoso",
+      "answer": "ROSEIRAL",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Sofrimento",
+      "answer": "TORTURA",
+      "row": 4,
+      "col": 4
+    },
+    "24": {
+      "clue": "Um animal como Ligeirinho, do antigo desenho animado",
+      "answer": "RATO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Um elemento do madeirame",
+      "answer": "RIPA",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "(Pop.) Investigador",
+      "answer": "TIRA",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Aproximadamente",
+      "answer": "UNS",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Psiu!",
+      "answer": "EI",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

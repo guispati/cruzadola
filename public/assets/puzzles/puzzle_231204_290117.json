@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ave que é praga em alguns centros urbanos",
+      "answer": "POMBA",
+      "row": 0,
+      "col": 1
+    },
+    "5": {
+      "clue": "De + um (pl.)",
+      "answer": "DUNS",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Grande animal ruminante do hemisfério norte",
+      "answer": "BISÃO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Um solvente para tinta",
+      "answer": "TINER",
+      "row": 1,
+      "col": 6
+    },
+    "11": {
+      "clue": "Um grande povo indígena mexicano",
+      "answer": "ASTECA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Conjunto de habitações em rua particular",
+      "answer": "VILA",
+      "row": 2,
+      "col": 7
+    },
+    "14": {
+      "clue": "A da vegetação geralmente é verde",
+      "answer": "COR",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Indivíduo que tem idade avançada",
+      "answer": "ANCIÃO",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Aquela que provoca perturbações políticas ou sociais",
+      "answer": "AGITADORA",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Universidade Católica",
+      "answer": "UC",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Conflito entre várias pessoas",
+      "answer": "RUAÇA",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "(Niño) Fenômeno climático de aquecimento do Oceano Pacífico",
+      "answer": "EL",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Falador",
+      "answer": "PALAVROSO",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "O Nadal tenista",
+      "answer": "RAFAEL",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Interj.: espanto",
+      "answer": "UPA",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "A Müller apresentadora da TV",
+      "answer": "TITI",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Cão elegante, de orelhas caídas e pelo sedoso",
+      "answer": "SETTER",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Reza, oração",
+      "answer": "PRECE",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Ato de tornar seco demais",
+      "answer": "TORRA",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Sem valor",
+      "answer": "MIXO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "O fruto do chocolate",
+      "answer": "CACAU",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Andar de um edifício",
+      "answer": "PISO",
+      "row": 0,
+      "col": 1
+    },
+    "2": {
+      "clue": "Molusco comestível, de sabor delicado",
+      "answer": "OSTRA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Uma irmã da tia",
+      "answer": "MÃE",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "O Quintino (1836-1912) escritor, jornalista e político",
+      "answer": "BOCAIUVA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Obrigações contraídas por favores ou bens recebidos",
+      "answer": "DIVIDAS",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "Cruzamento, acasalamento de animais",
+      "answer": "UNIÃO",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Uma raça de bois",
+      "answer": "NELORE",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "A abreviatura que segue Exma.",
+      "answer": "SRA",
+      "row": 0,
+      "col": 10
+    },
+    "9": {
+      "clue": "(Inform., ingl.) Cópia de segurança de um arquivo",
+      "answer": "BACKUP",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Grande estrela da constelação do Escorpião",
+      "answer": "ANTARES",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Cadinho usado em trabalhos de ourivesaria",
+      "answer": "CAÇOLETA",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Profissional de oficina de jornais, livros e revistas",
+      "answer": "GRAFICO",
+      "row": 4,
+      "col": 3
+    },
+    "19": {
+      "clue": "Licença oficial para realização de um evento",
+      "answer": "ALVARA",
+      "row": 4,
+      "col": 10
+    },
+    "21": {
+      "clue": "Região do Ceará, abrange Crato e Juazeiro do Norte",
+      "answer": "CARIRI",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "A matéria-prima para a borracha",
+      "answer": "LATEX",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Mais uma",
+      "answer": "OUTRA",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "A nação de Lima",
+      "answer": "PERU",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "(Abrev.) Tensão Pré-Menstrual",
+      "answer": "TPM",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Onomatopeia de uma batida à porta",
+      "answer": "TOC",
+      "row": 8,
+      "col": 7
+    }
+  }
+}

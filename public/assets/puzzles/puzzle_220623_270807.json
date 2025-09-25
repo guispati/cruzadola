@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Rito que simboliza a renúncia ao mundo do novo sacerdote cristão",
+      "answer": "TONSURA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "(Abrev. ingl.) Churrasco",
+      "answer": "BBQ",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Pedaço de tronco de árvore",
+      "answer": "CEPO",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Dar à luz",
+      "answer": "PARIR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "(Gír.) Pessoa que transporta droga clandestinamente",
+      "answer": "MULA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O vício no tabaco",
+      "answer": "FUMAR",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Unidade de Pronto Atendimento",
+      "answer": "UPA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Utensílio para fazer buraco em papel, couro etc.",
+      "answer": "FURADOR",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Que foi seguido através de pistas",
+      "answer": "RASTREADO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Cláudia Raia, atriz paulista",
+      "answer": "CR",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Letra redonda",
+      "answer": "RONDO",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Exclamação de surpresa",
+      "answer": "UE",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Arquipélago grego, centro turístico",
+      "answer": "SANTORINI",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Prejudicar",
+      "answer": "OFENDER",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Abrev.: Direito",
+      "answer": "DIR",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Que possuem bens além dos necessários",
+      "answer": "RICOS",
+      "row": 8,
+      "col": 1
+    },
+    "29": {
+      "clue": "Carinho especial que se tem por algo ou alguém",
+      "answer": "XODO",
+      "row": 8,
+      "col": 7
+    },
+    "30": {
+      "clue": "O estado dos EUA com Austine e San Antonio",
+      "answer": "TEXAS",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "(Qui nem) Um sucesso de Luiz Gonzaga",
+      "answer": "JILO",
+      "row": 9,
+      "col": 6
+    },
+    "32": {
+      "clue": "Pref.: músculo",
+      "answer": "MIO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Inquieto devido à espera",
+      "answer": "ANSIOSO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Utilizar, usar",
+      "answer": "OCUPAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Em + elas",
+      "answer": "NELAS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Uma clínica para tratamento de distúrbios de saúde",
+      "answer": "SPA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "As duas últimas vogais, ao contrário",
+      "answer": "UO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Aquele que conta os votos",
+      "answer": "APURADOR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Voz forte e enérgica",
+      "answer": "BRADO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Repartição, agência",
+      "answer": "BIRO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Code) Um código de barras bidimensional",
+      "answer": "QR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Clube não profissional",
+      "answer": "AMADOR",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Que se esvaziou (bola, balão)",
+      "answer": "MURCHO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O ator Gabriel",
+      "answer": "FUENTES",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Coberta de folhas",
+      "answer": "FRONDOSA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Que só fica passeando. que não para em casa",
+      "answer": "RUEIRO",
+      "row": 3,
+      "col": 10
+    },
+    "19": {
+      "clue": "Uma proteção contra arrombamentos",
+      "answer": "TRANCA",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "A da Tijuca é uma grande escola de samba carioca",
+      "answer": "UNIDOS",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Pedra pequena, solta, lisa",
+      "answer": "SEIXO",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Pessoa que é objeto de extrema admiração",
+      "answer": "IDOLO",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "O religioso Caneca (1779-1825)",
+      "answer": "FREI",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "12, em romanos",
+      "answer": "XII",
+      "row": 8,
+      "col": 7
+    },
+    "30": {
+      "clue": "O símbolo químico do túlio",
+      "answer": "TM",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Josef Stalin (1878-1953), político e revolucionário soviético",
+      "answer": "JS",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

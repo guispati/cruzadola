@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Terreno em subida",
+      "answer": "ACLIVE",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Pop.) No jogo do bicho, o vigésimo grupo",
+      "answer": "PERU",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "A parte achatada de um remo",
+      "answer": "PA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "(Pop.) Declarar em tom categórico",
+      "answer": "DECRETAR",
+      "row": 1,
+      "col": 3
+    },
+    "13": {
+      "clue": "Impressionar, prender a atenção",
+      "answer": "EMPOLGAR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Versus",
+      "answer": "VS",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "A peça que sustenta o peso do voo do avião",
+      "answer": "ASA",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Reserva hídrica",
+      "answer": "BACIA",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Aguçar (faca, canivete etc.)",
+      "answer": "AFIAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "O órgão da visão, no ser humano",
+      "answer": "OLHO",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "(Red.) Um instrumento de sopro",
+      "answer": "SAX",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "O Babá personagem das \"Mil e Uma Noites\"",
+      "answer": "ALI",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "Domínio, controle",
+      "answer": "MÃOS",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Cidade paulista do sudoeste do estado",
+      "answer": "ASSIS",
+      "row": 6,
+      "col": 6
+    },
+    "30": {
+      "clue": "Comunidades biológicas de certa região",
+      "answer": "BIOMA",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Prerrogativa legal (para impor a outrem alguma medida, procedimento etc.)",
+      "answer": "JUS",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "(Quím.) O radônio",
+      "answer": "RN",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Peixe do Atlântico ocidental, de carne de boa qualidade",
+      "answer": "BIJUPIRA",
+      "row": 8,
+      "col": 3
+    },
+    "36": {
+      "clue": "(Eletr.) Diz-se de circuito ligado ao solo",
+      "answer": "ATERRADO",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "União Europeia",
+      "answer": "UE",
+      "row": 9,
+      "col": 9
+    },
+    "39": {
+      "clue": "Catedral",
+      "answer": "DOMO",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Cetáceo do ártico, parecido com um delfim",
+      "answer": "NARVAL",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Somente",
+      "answer": "APENAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Clube Atlético Mineiro",
+      "answer": "CAM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Velha",
+      "answer": "IDOSA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Fazer vigília ao pé de um defunto",
+      "answer": "VELAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Abrev.: Eletrocardiograma",
+      "answer": "ECG",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Plantação de frutos de forma cônica",
+      "answer": "PERAL",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Eva Todor (1919-2017), atriz",
+      "answer": "ET",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Comida italiana, pastelzinho recheado cozido",
+      "answer": "RAVIOLI",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Nome de duas constelações (Maior e Menor)",
+      "answer": "URSA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "O de cavalo é um penteado",
+      "answer": "RABO",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "O objeto da predileção",
+      "answer": "PAIXÃO",
+      "row": 2,
+      "col": 2
+    },
+    "18": {
+      "clue": "Estrutura onde um carro é montado",
+      "answer": "CHASSI",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Que tem fome",
+      "answer": "FAMINTO",
+      "row": 4,
+      "col": 1
+    },
+    "24": {
+      "clue": "O Estado com Telaviv",
+      "answer": "ISRAEL",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "A parte mais alta do braço",
+      "answer": "OMBRO",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Afastar-se da rota",
+      "answer": "SAIR",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "Ação de socorrer",
+      "answer": "AJUDA",
+      "row": 6,
+      "col": 6
+    },
+    "29": {
+      "clue": "Fazer de conta que",
+      "answer": "SUPOR",
+      "row": 6,
+      "col": 7
+    },
+    "30": {
+      "clue": "O galã Pitt",
+      "answer": "BRAD",
+      "row": 7,
+      "col": 0
+    },
+    "34": {
+      "clue": "Segue Dez e precede Fev",
+      "answer": "JAN",
+      "row": 8,
+      "col": 5
+    },
+    "35": {
+      "clue": "O espaço para o trânsito de veículos",
+      "answer": "RUA",
+      "row": 8,
+      "col": 9
+    },
+    "37": {
+      "clue": "Evandro Mesquita, ator do seriado \"A Grande Família\"",
+      "answer": "EM",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

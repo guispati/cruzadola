@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Quieto, sossegado",
+      "answer": "CALMO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Momento histórico",
+      "answer": "EPOCA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Droga narcótica",
+      "answer": "OPIO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Cobrir",
+      "answer": "FORRAR",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "(Náut.) Altura do convés sobre o fundo",
+      "answer": "PONTAL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Delgada, não grossa",
+      "answer": "FINA",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Povo originário mexicano",
+      "answer": "ASTECAS",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Bebida alcoólica perfumada",
+      "answer": "GIM",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "História apresentada em capítulos na TV",
+      "answer": "TELENOVELA",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "(Fut.) Meta, baliza",
+      "answer": "GOL",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Aquele que fica em poder de outrem, como garantia de que alguma coisa será feita",
+      "answer": "REFEM",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "(Urso-) Grande urso branco das regiões árticas",
+      "answer": "POLAR",
+      "row": 6,
+      "col": 3
+    },
+    "23": {
+      "clue": "Faca sem ás",
+      "answer": "FC",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "A matéria-prima da cerâmica",
+      "answer": "ARGILA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Parede que se ergue como proteção",
+      "answer": "MURO",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "A palavra que acompanha cinco dias da semana",
+      "answer": "FEIRA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Comissão julgadora",
+      "answer": "JURI",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "A cabana de gelo dos esquimós",
+      "answer": "IGLU",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "A maratona tem 42.195 de distância",
+      "answer": "METROS",
+      "row": 9,
+      "col": 5
+    },
+    "34": {
+      "clue": "Uma contração",
+      "answer": "AO",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "O ápice de um acontecimento",
+      "answer": "APOTEOSE",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Torneio em que se disputa uma taça",
+      "answer": "COPA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Alinhado",
+      "answer": "APOSTO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Apoio para prateleiras",
+      "answer": "LINTEL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Estabelecimento que aluga quartos para encontros amororos",
+      "answer": "MOTEL",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "As vogais de peso",
+      "answer": "EO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Polícia Rodoviária Federal",
+      "answer": "PRF",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Princípio, começo",
+      "answer": "ORIGEM",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Lugar de criação de pastores e filas",
+      "answer": "CANIL",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A língua falada por Jesus",
+      "answer": "ARAMAICO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Tipo de tecido",
+      "answer": "FLANELA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Pequeno fruto tropical, semelhante à cereja, rico em vitamina C",
+      "answer": "ACEROLA",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Um móvel para a sala de estar",
+      "answer": "SOFA",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Vinho tomado como aperitivo",
+      "answer": "VERMUTE",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Maneira de escrever as palavras",
+      "answer": "GRAFIA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Sobra de pipoca",
+      "answer": "PIRUA",
+      "row": 6,
+      "col": 3
+    },
+    "23": {
+      "clue": "Carnes como presunto, salame etc.",
+      "answer": "FRIOS",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Pequeno curso d'água",
+      "answer": "REGO",
+      "row": 7,
+      "col": 1
+    },
+    "26": {
+      "clue": "O músico Gilberto, de \"Quanta\"",
+      "answer": "GIL",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "Bramido de feras",
+      "answer": "URRO",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "(lag) Desconforto que ocorre após mudança de fusos horários",
+      "answer": "JET",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Pedra usada para amolar tesouras",
+      "answer": "MO",
+      "row": 9,
+      "col": 5
+    },
+    "33": {
+      "clue": "No caso de",
+      "answer": "SE",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

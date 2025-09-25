@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Quím.) Tornar alcalino",
+      "answer": "BASIFICAR",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Equipamento de Proteção Individual",
+      "answer": "EPI",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Que não sente emoções ou paixões",
+      "answer": "APATICO",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Em + elas",
+      "answer": "NELAS",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Batata-) Tubérculo também chamado mandioquinha-salsa",
+      "answer": "BAROA",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "(de) Não obstante",
+      "answer": "APESAR",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "As consoantes de nona",
+      "answer": "NN",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Erva cultivada como forragem e alimento",
+      "answer": "NABO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Não certa",
+      "answer": "ERRADA",
+      "row": 4,
+      "col": 5
+    },
+    "23": {
+      "clue": "Que foi seguido através de pistas",
+      "answer": "RASTREADO",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Diminuir por atrito",
+      "answer": "GASTAR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "A escritora Coralina (1889-1985)",
+      "answer": "CORA",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "A primeira vogal e a primeira consoante",
+      "answer": "AB",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Reprovar duramente",
+      "answer": "ATACAR",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "O compositor Giuseppe (1813-1901), de \"Aída\"",
+      "answer": "VERDI",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Um caranguejo dos mangues",
+      "answer": "ARATU",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Estourar, pipocar",
+      "answer": "ESPOCAR",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "O ator e apresentador Stulbach",
+      "answer": "DAN",
+      "row": 9,
+      "col": 8
+    },
+    "38": {
+      "clue": "Empresa que registra sons para a produção de álbuns musicais",
+      "answer": "GRAVADORA",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Porto Novo é a sua capital",
+      "answer": "BENIN",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Pop.) Redução de apartamento",
+      "answer": "APE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Paralelepípedo possui sete",
+      "answer": "SILABAS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Período, época",
+      "answer": "FASE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Inquérito Policial",
+      "answer": "IP",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Casa noturna de espetáculos de variedades",
+      "answer": "CABARE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Apertar muito",
+      "answer": "ATARRACAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Um meio para demonstrar a própria alegria interior",
+      "answer": "RIR",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Variedade de pera pouco açucarada e muito suculenta",
+      "answer": "JOANA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "A maior ave de rapina que existe",
+      "answer": "CONDOR",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Um que joga nas bets",
+      "answer": "APOSTADOR",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "A da Mantiqueira corta SP, MG e RJ",
+      "answer": "SERRA",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Os povos que habitam uma importante península asiática",
+      "answer": "ARABES",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Reverenciado",
+      "answer": "ADORADO",
+      "row": 4,
+      "col": 8
+    },
+    "24": {
+      "clue": "Meio usado para alcançar uma finalidade qualquer",
+      "answer": "TATICA",
+      "row": 5,
+      "col": 4
+    },
+    "25": {
+      "clue": "Um bairro do Rio de Janeiro",
+      "answer": "GAVEA",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Frequentadora de um curso escolar",
+      "answer": "ALUNA",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "(Gír.) Indivíduo",
+      "answer": "CARA",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "(Fisiot.) Reeducação Postural Global",
+      "answer": "RPG",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "O que muda de praia para prataria",
+      "answer": "TAR",
+      "row": 8,
+      "col": 9
+    },
+    "36": {
+      "clue": "Alicia Vikander, atriz de \"A Garota Dinamarquesa\"",
+      "answer": "AV",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

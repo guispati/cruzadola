@@ -1,0 +1,276 @@
+{
+  "across": {
+    "2": {
+      "clue": "Reentrância marítima de grande porte, maior do que a baía",
+      "answer": "GOLFO",
+      "row": 0,
+      "col": 2
+    },
+    "6": {
+      "clue": "As consoantes de Macapá",
+      "answer": "MCP",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O Garcia ator e apresentador",
+      "answer": "MARCIO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Convivência conjugal",
+      "answer": "VIDA",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Arremedar",
+      "answer": "IMITAR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Uma carro da Chevrolet",
+      "answer": "ONIX",
+      "row": 2,
+      "col": 7
+    },
+    "14": {
+      "clue": "(Med.) Que tem a mão em forma de garra",
+      "answer": "GAFO",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Moby) A baleia do romance de Herman Melville",
+      "answer": "DICK",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Cerveja fabricada com malte pouco torrado",
+      "answer": "ALE",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Marca de carros off road",
+      "answer": "JEEP",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Raimundo Fagner, músico de \"Manera, Fru Fru, Manera\"",
+      "answer": "RF",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "São cinco nos carros de passeio, contando o estepe",
+      "answer": "PNEUS",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Instituto de Cardiologia",
+      "answer": "IC",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Espécie de pequena cegonha",
+      "answer": "IBIS",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Abrev.: decalitro",
+      "answer": "DAL",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Muito bem!",
+      "answer": "ISSO",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "A estrela mais brilhante do céu boreal",
+      "answer": "VEGA",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "O mundo muçulmano",
+      "answer": "ISLÃ",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Lat.) No mesmo lugar",
+      "answer": "IBIDEM",
+      "row": 8,
+      "col": 5
+    },
+    "36": {
+      "clue": "A moeda da Alemanha e da França",
+      "answer": "EURO",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Utensílio da máquina de costura",
+      "answer": "NAVETA",
+      "row": 9,
+      "col": 5
+    },
+    "38": {
+      "clue": "Que não tem ou não teve nenhuma utilidade",
+      "answer": "VÃO",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Até a vista!",
+      "answer": "TCHAU",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Unir pela amizade",
+      "answer": "AMIGAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Marca distintiva de um fabricante",
+      "answer": "GRIFE",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Elem. pref.: oito",
+      "answer": "OCTO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "(de Itamaracá) Cantora e compositora pernambucana de cirandas",
+      "answer": "LIA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "O Henry (1863-1947) pioneiro da indústria de carros",
+      "answer": "FORD",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Baleia comum no litoral brasileiro",
+      "answer": "MINKE",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "401, em algarismos romanos",
+      "answer": "CDI",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "(Fig.) Marajá",
+      "answer": "PAXA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Cidade turística italiana",
+      "answer": "AMALFI",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Vcs",
+      "answer": "VOCES",
+      "row": 1,
+      "col": 7
+    },
+    "16": {
+      "clue": "Cidade e rio do Rio Grande do Sul",
+      "answer": "IJUI",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Cuida da previdência",
+      "answer": "INSS",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "O psicólogo e filósofo suíço Jean (1896-1980)",
+      "answer": "PIAGET",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Golpe feito com a pressão do pé",
+      "answer": "PISÃO",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Proferir em altas vozes",
+      "answer": "CLAMAR",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Pequena peça de madeira com que se tecem rendas",
+      "answer": "BILRO",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "(Pra) Expressão popular que significa muito",
+      "answer": "DEDEU",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "A capital da Ucrânia",
+      "answer": "KIEV",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Som de porco nas HQs",
+      "answer": "OINC",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "(Água-) Urtiga-do-mar",
+      "answer": "VIVA",
+      "row": 7,
+      "col": 7
+    },
+    "33": {
+      "clue": "Prato feito com a parte inferior do lombo do porco",
+      "answer": "SUÃ",
+      "row": 8,
+      "col": 1
+    },
+    "35": {
+      "clue": "Interjeição de incredulidade e desprezo ou resignação",
+      "answer": "BAH",
+      "row": 8,
+      "col": 6
+    }
+  }
+}

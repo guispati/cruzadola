@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Túmulo, sepulcro",
+      "answer": "TUMBA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Nome genérico dos vermes do corpo",
+      "answer": "BICHA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "O economista e apresentador de TV Amorim",
+      "answer": "RICARDO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Beto, sem vogais",
+      "answer": "BT",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Uma técnica da pintura oriental",
+      "answer": "SUMIE",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Bismuto, elemento químico",
+      "answer": "BI",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Àqueles",
+      "answer": "AOS",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Uma publicação que sai a cada 7 dias",
+      "answer": "SEMANAL",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Juntar",
+      "answer": "GRUPAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Maneira de vender peixe, em leilão, por lotes",
+      "answer": "LOTA",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Período provisório",
+      "answer": "INTERIM",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Título britânico de nobreza",
+      "answer": "SIR",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "O ponto máximo do dado",
+      "answer": "SEIS",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "As palavras lidas em uma chamada escolar",
+      "answer": "NOMES",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Pessoa astuta até ser decididamente desonesta",
+      "answer": "MALANDRO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "A sigla do estado com o parque do Jalapão",
+      "answer": "TO",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "O que muda de Vera para Verona",
+      "answer": "ON",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Agir como louco",
+      "answer": "DOIDEJAR",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Grande estrondo",
+      "answer": "TROVOADA",
+      "row": 9,
+      "col": 1
+    },
+    "37": {
+      "clue": "Um sintoma da Covid",
+      "answer": "FEBRE",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Mau humor, amolação",
+      "answer": "ZANGA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Intoxicação provocada pelo abuso de cigarros",
+      "answer": "TABAGISMO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Mário sem vogais",
+      "answer": "MR",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Um biscoito wafer de chocolate muito consumido",
+      "answer": "BIS",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Processar judicialmente",
+      "answer": "ACUSAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Um tecido para calças",
+      "answer": "BRIM",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Perfeito",
+      "answer": "IDEAL",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "As iniciais da atriz Cristiana",
+      "answer": "CO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Relativo ao sovaco",
+      "answer": "AXILAR",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "O aborígine do Novo Mundo",
+      "answer": "AMERINDIO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Que dá forma arredondada, cilíndrica ou roliça a",
+      "answer": "TORNEANTE",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "(Rel.) O João que batizou Jesus",
+      "answer": "BATISTA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Feito com delicadeza",
+      "answer": "SUTIL",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Nariz, em inglês",
+      "answer": "NOSE",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Aquele que faz uso da balança",
+      "answer": "PESADOR",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Pungente, agressivo e malicioso",
+      "answer": "MORDAZ",
+      "row": 5,
+      "col": 6
+    },
+    "27": {
+      "clue": "Peça de metal, geralmente circular, usada como dinheiro",
+      "answer": "MOEDA",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Catorze menos cinco",
+      "answer": "NOVE",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Porção de terra estreita e longa",
+      "answer": "ORLA",
+      "row": 7,
+      "col": 10
+    },
+    "34": {
+      "clue": "Segue Dez",
+      "answer": "JAN",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "Rubídio, elemento químico",
+      "answer": "RB",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

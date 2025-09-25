@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Eliminação dos ramos de uma planta",
+      "answer": "PODA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Produzir uma música",
+      "answer": "COMPOR",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Ilhas do mar de Behring, no Pacífico",
+      "answer": "ALEUTAS",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "A letra 6",
+      "answer": "EFE",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Despojos mortais",
+      "answer": "RESTOS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O slick dá maior aderência em piso seco",
+      "answer": "PNEU",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Doença",
+      "answer": "MOLESTIA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Sigla do estado do extremo sul do Brasil",
+      "answer": "RS",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Que não se deixa subornar",
+      "answer": "INCORRUTO",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Blusa que se usa solta",
+      "answer": "BATA",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Ato completamente inoportuno",
+      "answer": "RATA",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Semelhante a gordura",
+      "answer": "LARINOIDE",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Helena Ranaldi, atriz",
+      "answer": "HR",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Linha que limita exteriormente um corpo",
+      "answer": "CONTORNO",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Pequeno molusco de água doce",
+      "answer": "ARUA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Preparar o avião para decolar",
+      "answer": "TAXIAR",
+      "row": 8,
+      "col": 5
+    },
+    "31": {
+      "clue": "Todavia",
+      "answer": "MAS",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Na presença de",
+      "answer": "PERANTE",
+      "row": 9,
+      "col": 4
+    },
+    "33": {
+      "clue": "Um das \"Mil e uma Noites\"",
+      "answer": "ALADIM",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "País da Indochina, com capital Vientiane",
+      "answer": "LAOS",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Cidade italiana, famosa por seu queijo e presunto",
+      "answer": "PARMA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Substância gordurosa, de origem mineral, animal ou vegetal",
+      "answer": "OLEO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Desatar",
+      "answer": "DESLIAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Não falsificada",
+      "answer": "AUTENTICA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Imaculado",
+      "answer": "CASTO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Quím.) O símbolo do ósmio",
+      "answer": "OS",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Drive) Dispositivo de informática",
+      "answer": "PEN",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Redução no preço de uma mercadoria",
+      "answer": "OFERTA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Nova utilização",
+      "answer": "REUSO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Nascido na região italiana de Florença e Pisa",
+      "answer": "TOSCANO",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Que contém contradição",
+      "answer": "PARADOXAL",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Fazer perder a calma",
+      "answer": "IRRITAR",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "De um órgão feminino (fem.)",
+      "answer": "UTERINA",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "Lugar de onde se extrai argila",
+      "answer": "BARRAL",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Um animal dos Andes",
+      "answer": "LHAMA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Um dia do passado",
+      "answer": "ONTEM",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "No tricolor são três",
+      "answer": "CORES",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Sigla em inglês da Organização do Tratado do Atlântico Norte",
+      "answer": "NATO",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Sigla inglesa do país de Barack Obama",
+      "answer": "USA",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "Sigla do estado de Picos",
+      "answer": "PI",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

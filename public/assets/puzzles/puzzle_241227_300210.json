@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O talher com dentes",
+      "answer": "GARFO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Desenho que representa um programa executável",
+      "answer": "ICONE",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "O pintor Di Cavalcanti (1897-1976)",
+      "answer": "EMILIANO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "O símbolo químico do hólmio",
+      "answer": "HO",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "(Gír.) Coisa nenhuma",
+      "answer": "NECA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Marca sueca de carros e caminhões",
+      "answer": "VOLVO",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "O Patinhas é o personagem milionário das HQs",
+      "answer": "TIO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "O Lama líder tibetano",
+      "answer": "DALAI",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Abreviatura de exemplo",
+      "answer": "EX",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Comer um lanche",
+      "answer": "MERENDAR",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Ator carioca de \"Tim Maia\"",
+      "answer": "BABUSANTANA",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Que tem cheiro agradável",
+      "answer": "OLORENTE",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Thiago Lacerda, ator carioca",
+      "answer": "TL",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "O período que precede a noite",
+      "answer": "TARDE",
+      "row": 7,
+      "col": 2
+    },
+    "27": {
+      "clue": "(Hot Chili Peppers) A banda de rock de \"By the Way\"",
+      "answer": "RED",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Composição usada para ligar peças metálicas",
+      "answer": "SOLDA",
+      "row": 8,
+      "col": 1
+    },
+    "29": {
+      "clue": "Parreira",
+      "answer": "VIDE",
+      "row": 8,
+      "col": 7
+    },
+    "30": {
+      "clue": "(Abrev. ingl.) Nocaute",
+      "answer": "KO",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Conformidade entre coisas ou pessoas",
+      "answer": "HARMONIA",
+      "row": 9,
+      "col": 3
+    },
+    "33": {
+      "clue": "Estar na companhia de",
+      "answer": "ANDAR",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Misturar nas devidas proporções",
+      "answer": "DOSAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Loc.) Meu amigo, meu chapa",
+      "answer": "GENTEBOA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Uma plantação de frutas",
+      "answer": "AMEIXAL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O José da dupla sertaneja com Milionário",
+      "answer": "RICO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Abreviatura do nome de um time carioca de futebol",
+      "answer": "FLA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Uma saudação muito usada",
+      "answer": "OI",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Que não tem cheiro",
+      "answer": "INOLENTE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Adesivo",
+      "answer": "COLANTE",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Redução popular de senhor",
+      "answer": "NHO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Extremo Oriente",
+      "answer": "EO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Prover (uma casa) de terraço coberto",
+      "answer": "AVARANDAR",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Período entre o nascimento de alguém e o momento presente",
+      "answer": "VIDA",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Excluir do testamento",
+      "answer": "DESERDAR",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Caminhar pela encosta de (monte, serra etc.)",
+      "answer": "FRALDEAR",
+      "row": 3,
+      "col": 10
+    },
+    "20": {
+      "clue": "A grande barreira da China",
+      "answer": "MURALHA",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Tempo anterior à saída do Sol",
+      "answer": "ANTEDIA",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Cuja inteligência é lerda e escassa",
+      "answer": "BOTO",
+      "row": 5,
+      "col": 2
+    },
+    "27": {
+      "clue": "Os órgãos afetados pela nefrite",
+      "answer": "RINS",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Filho, em Londres",
+      "answer": "SON",
+      "row": 8,
+      "col": 1
+    },
+    "29": {
+      "clue": "Viagem de teco-teco",
+      "answer": "VOO",
+      "row": 8,
+      "col": 7
+    },
+    "30": {
+      "clue": "Um carro da Ford",
+      "answer": "KA",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "1.500, em algarismos romanos",
+      "answer": "MD",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

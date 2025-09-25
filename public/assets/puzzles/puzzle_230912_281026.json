@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "Parte essencial de uma receita",
+      "answer": "BASE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Pano para limpreza pesada",
+      "answer": "ESTOPA",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Tornar mais marcante ou evidente",
+      "answer": "ACENTUAR",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "O símbolo químico do laurêncio",
+      "answer": "LR",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "(Mecan.) Peça que dosa a gasolina para a carburação",
+      "answer": "GICLE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Polir",
+      "answer": "LIMAR",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Anita Malfatti, artista",
+      "answer": "AM",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Nascido em Arapiraca ou Maceió",
+      "answer": "ALAGOANO",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "A capital da Turquia, Estado do Mediterrâneo",
+      "answer": "ANCARA",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Imediatamente após o instante em que",
+      "answer": "MAL",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Albert Einstein (1879-1955), cientista",
+      "answer": "AE",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Isenta de doenças",
+      "answer": "SÃ",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "Infecções Sexualmente Transmissíveis",
+      "answer": "IST",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Marca brasileira de material esportivo",
+      "answer": "TOPPER",
+      "row": 6,
+      "col": 4
+    },
+    "30": {
+      "clue": "Tornar menos áspero, mais brando",
+      "answer": "SUAVIZAR",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Unidade Federativa",
+      "answer": "UF",
+      "row": 7,
+      "col": 9
+    },
+    "34": {
+      "clue": "Estar muito quente",
+      "answer": "PELAR",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "Montante",
+      "answer": "CIFRA",
+      "row": 8,
+      "col": 6
+    },
+    "37": {
+      "clue": "Ondas Curtas",
+      "answer": "OC",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Atribuir a alguém culpas das quais não é reponsável",
+      "answer": "CALUNIAR",
+      "row": 9,
+      "col": 3
+    },
+    "40": {
+      "clue": "Expedição para caça de grandes animais",
+      "answer": "SAFARI",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "Abestalhado, otário",
+      "answer": "TOLO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Pequeno fruto carnudo e arredondado",
+      "answer": "BAGA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Na parte mais elevada",
+      "answer": "ACIMA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Matem.) Símbolo de secante",
+      "answer": "SEC",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Elo, ligação",
+      "answer": "ENLACE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O primeiro pronome pessoal",
+      "answer": "EU",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Ato de temperar com sal peixe ou carne",
+      "answer": "SALGA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O Parada Dura foi um grupo musical sertanejo",
+      "answer": "TRIO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Lisa",
+      "answer": "PLANA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Canto para ninar",
+      "answer": "ARROLO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Aramado para cercar ou proteger janelas, portas etc.",
+      "answer": "TELA",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "(Eu Quero) Famosa marchinha de carnaval",
+      "answer": "MAMÃE",
+      "row": 2,
+      "col": 8
+    },
+    "18": {
+      "clue": "Alimento cultivado há mais de 5.000 anos",
+      "answer": "ARROZ",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "O dia 25 de dezembro",
+      "answer": "NATAL",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "São 4 no jogo de xadrez",
+      "answer": "BISPOS",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Ingl.) Momento final de uma corrida, com a maior velocidade possível",
+      "answer": "SPRINT",
+      "row": 5,
+      "col": 7
+    },
+    "26": {
+      "clue": "Mulher nascida na nação de Estocolmo",
+      "answer": "SUECA",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Bater (foto)",
+      "answer": "TIRAR",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "Peixe parecido com a piranha",
+      "answer": "PACU",
+      "row": 6,
+      "col": 6
+    },
+    "29": {
+      "clue": "Relativo ao campo",
+      "answer": "RURAL",
+      "row": 6,
+      "col": 9
+    },
+    "31": {
+      "clue": "Fêmea de boi",
+      "answer": "VACA",
+      "row": 7,
+      "col": 3
+    },
+    "33": {
+      "clue": "O Rodrigo apresentador de TV",
+      "answer": "FARO",
+      "row": 7,
+      "col": 10
+    },
+    "36": {
+      "clue": "Linha fiada e torcida",
+      "answer": "FIO",
+      "row": 8,
+      "col": 8
+    },
+    "39": {
+      "clue": "A diferença entre avio e alívio",
+      "answer": "LI",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

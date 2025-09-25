@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Pop.) Bofetada, sopapo",
+      "answer": "BOLACHA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Correio Aéreo Nacional",
+      "answer": "CAN",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Usain Bolt, recordista mundial dos 100 e 200 m do atletismo",
+      "answer": "UB",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O Holmes detetive da literatura",
+      "answer": "SHERLOCK",
+      "row": 1,
+      "col": 3
+    },
+    "13": {
+      "clue": "(Cabernet) Uma variedade de uva para vinhos",
+      "answer": "FRANC",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Irmã",
+      "answer": "MANA",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "De espessura reduzida",
+      "answer": "FINO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Deles",
+      "answer": "SEUS",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Ovo, em inglês",
+      "answer": "EGG",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Ovo do piolho",
+      "answer": "LENDEA",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "(Ital.) Diminuindo gradativamente o andamento na execução da peça",
+      "answer": "RALLENTANDO",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Uma roupa para uso caseiro",
+      "answer": "ROUPÃO",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "São três em tentativa",
+      "answer": "TES",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Olfato",
+      "answer": "FARO",
+      "row": 7,
+      "col": 2
+    },
+    "27": {
+      "clue": "Glândula do tórax, involui a partir da puberdade",
+      "answer": "TIMO",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Peça cilíndrica que se insere em tomada",
+      "answer": "PINO",
+      "row": 8,
+      "col": 1
+    },
+    "29": {
+      "clue": "Partir (a madeira) em peças",
+      "answer": "TORAR",
+      "row": 8,
+      "col": 6
+    },
+    "30": {
+      "clue": "Coluna usada como adorno",
+      "answer": "PILASTRA",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Didi sem dês",
+      "answer": "II",
+      "row": 9,
+      "col": 9
+    },
+    "33": {
+      "clue": "Nor-Noroeste",
+      "answer": "NNO",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Que constitui um peso e uma obrigação",
+      "answer": "ONEROSO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Inform.) Uma área de memória temporária",
+      "answer": "BUFFER",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Colocar como imposição",
+      "answer": "OBRIGAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Animal menor que um cavalo, de orelhas mais longas",
+      "answer": "ASNO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Carlos Heitor Cony, escritor",
+      "answer": "CHC",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "O símbolo químico do hélio",
+      "answer": "HE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Rebanho de gado vacum ou cavalar",
+      "answer": "ARMENTO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Não pôr obstáculo",
+      "answer": "CONSENTIR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Cachaça de mau gosto",
+      "answer": "ACA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Nilson Klava, jornalista",
+      "answer": "NK",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "O austríaco Niki (1949-2019), tricampeão da F1",
+      "answer": "LAUDA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Que tem afinidade, amor pela Inglaterra, pelo seu povo e por sua cultura",
+      "answer": "ANGLOFILO",
+      "row": 2,
+      "col": 2
+    },
+    "17": {
+      "clue": "Do contrário",
+      "answer": "SENÃO",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Doente do mal de Hansen",
+      "answer": "LEPROSO",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Outrossim",
+      "answer": "ADEMAIS",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "A atriz e apresentadora Piovani",
+      "answer": "LUANA",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Cidade gaúcha próxima à capital do estado",
+      "answer": "OSORIO",
+      "row": 5,
+      "col": 10
+    },
+    "27": {
+      "clue": "Fazer estrondo",
+      "answer": "TOAR",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "(Abrev. ingl.) Uma senha para celulares",
+      "answer": "PIN",
+      "row": 8,
+      "col": 1
+    },
+    "29": {
+      "clue": "Sigla de um órgão da Justiça Eleitoral",
+      "answer": "TRE",
+      "row": 8,
+      "col": 6
+    },
+    "30": {
+      "clue": "(Econ.) Preferencial Nominativa",
+      "answer": "PN",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Tancredo Neves (1910-1985), político mineiro",
+      "answer": "TN",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

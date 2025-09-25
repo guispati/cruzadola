@@ -1,0 +1,258 @@
+{
+  "across": {
+    "2": {
+      "clue": "Um carro esportivo",
+      "answer": "PONTIAC",
+      "row": 0,
+      "col": 2
+    },
+    "9": {
+      "clue": "Fixo",
+      "answer": "IMOVEL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Peça usada para puxar água",
+      "answer": "RODO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "O tenista espanhol Rafael, ícone da modalidade",
+      "answer": "NADAL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "A capital banhada pelos rios Acará e Guamá",
+      "answer": "BELEM",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Nervosa, colérica",
+      "answer": "IRADA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "O u do SUS",
+      "answer": "UNICO",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "(Fut.) O de meta é uma reposição da bola em jogo",
+      "answer": "TIRO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Projeto elaborado para uma determinada finalidade",
+      "answer": "PLANO",
+      "row": 4,
+      "col": 5
+    },
+    "19": {
+      "clue": "As vogais de dreno",
+      "answer": "EO",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "(Bíbl.) O patriarca que salvou a fauna",
+      "answer": "NOE",
+      "row": 5,
+      "col": 4
+    },
+    "21": {
+      "clue": "Roger Moore (1927-2017), ator",
+      "answer": "RM",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "As filhas da filha",
+      "answer": "NETAS",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Erro grosseiro",
+      "answer": "FORA",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Um estado dos EUA, na fronteira com o México",
+      "answer": "TEXAS",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Calçado de cano curto",
+      "answer": "BOTIM",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "Comportamento decente",
+      "answer": "ETICA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Áspero como o limão",
+      "answer": "ACIDO",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Mamata",
+      "answer": "TETA",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Desinfetar com chamas rápidas",
+      "answer": "FLAMAR",
+      "row": 9,
+      "col": 5
+    },
+    "34": {
+      "clue": "Conciliador",
+      "answer": "ORDEIRO",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Inflamação crônica da mucosa nasal",
+      "answer": "RINITE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Cortar a rama inútil de árvores",
+      "answer": "PODAR",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Da forma da bola de rúgbi",
+      "answer": "OVADO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Combinação de preposição com pronome pessoal (fem.)",
+      "answer": "NELA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Tálio, elemento químico",
+      "answer": "TL",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Nome dado aos modernos estádios de futebol e praças de eventos",
+      "answer": "ARENA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O ator Firth, de \"O Discurso do Rei\"",
+      "answer": "COLIN",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "À medida que",
+      "answer": "COMO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Boneco de pau que se aciona por cordéis",
+      "answer": "MARIONETE",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Que passou (fem.)",
+      "answer": "DECORRIDA",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Vaso para chá",
+      "answer": "BULE",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "(Red.) Formação acadêmica oferecida depois da graduação",
+      "answer": "POS",
+      "row": 4,
+      "col": 5
+    },
+    "20": {
+      "clue": "Centro espacial e aeronáutico dos EUA",
+      "answer": "NASA",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "Rio que, junto com o Beni, formar o Madeira",
+      "answer": "MAMORE",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "Sucesso",
+      "answer": "EXITO",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Jogar",
+      "answer": "TACAR",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Direcionar uma luz",
+      "answer": "FOCAR",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Bom demais!",
+      "answer": "OTIMO",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Um apelido para Teresa",
+      "answer": "TETE",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Ilha da Indonésia, destino de surfistas",
+      "answer": "BALI",
+      "row": 7,
+      "col": 6
+    },
+    "33": {
+      "clue": "Crença, confiança",
+      "answer": "FE",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

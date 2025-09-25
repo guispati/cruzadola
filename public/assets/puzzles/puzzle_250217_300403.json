@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O feminino da terceira pessoa do plural",
+      "answer": "ELAS",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "Muco dos olhos",
+      "answer": "RAMELA",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "(Pop.) Variante de não",
+      "answer": "NUM",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "(João do) Ex-recordista mundial de salto triplo (1954-1999)",
+      "answer": "PULO",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "(Quím.) O símbolo do samário",
+      "answer": "SM",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Qualidade do que tem sabor ácido",
+      "answer": "AZEDUME",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Campânula para resguardar objetos delicados",
+      "answer": "REDOMA",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Olavo Bilac (1865-1918), poeta carioca",
+      "answer": "OB",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Isentar",
+      "answer": "EXIMIR",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Vagem, feijão",
+      "answer": "FAVA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Ataque repentino",
+      "answer": "ACOMETIDA",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Violeta, crisântemo ou onze-horas",
+      "answer": "FLOR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Vão na parede, proporciona iluminação e ventilação",
+      "answer": "JANELA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Isto é",
+      "answer": "IE",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Furtar",
+      "answer": "AFANAR",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "Coisa complicada, difícil de compreender",
+      "answer": "INTRICO",
+      "row": 8,
+      "col": 4
+    },
+    "31": {
+      "clue": "Angelina Jolie, de \"Tomb Raider\"",
+      "answer": "AJ",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Pequena ferida na mucosa bucal",
+      "answer": "AFTA",
+      "row": 9,
+      "col": 3
+    },
+    "34": {
+      "clue": "Talento",
+      "answer": "DOM",
+      "row": 9,
+      "col": 8
+    },
+    "35": {
+      "clue": "O ritmo musical de Bob Marley",
+      "answer": "REGGAE",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Advérbio que aparece em reações de surpresa",
+      "answer": "COMO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um exame do MEC",
+      "answer": "ENADE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Claridade",
+      "answer": "LUZ",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O navegador florentino Vespúcio (1454-1512)",
+      "answer": "AMERICO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Que produz ruído contínuo",
+      "answer": "RUMOREJANTE",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "(disso) Ademais",
+      "answer": "ALEM",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Pedra de amolar facas",
+      "answer": "MO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Luan Santana, cantor",
+      "answer": "LS",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Microrganismo que é parasita intestinal",
+      "answer": "AMEBA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Doce gelatinoso",
+      "answer": "PUDIM",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Delonga",
+      "answer": "DEMORA",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Harmonizar",
+      "answer": "AFINAR",
+      "row": 3,
+      "col": 7
+    },
+    "16": {
+      "clue": "A forma da bola de rúgbi",
+      "answer": "OVAL",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Manta de ombro",
+      "answer": "XALE",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Apegado",
+      "answer": "ADERIDO",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Tão numerosa",
+      "answer": "TANTA",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Cravar os olhos em",
+      "answer": "FITAR",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "O de urânio é o mais pesado",
+      "answer": "ATOMO",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "A mais alta federação internacional do futebol",
+      "answer": "FIFA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "(Net) Sufixo para empresas comerciais",
+      "answer": "COM",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Justiça Eleitoral",
+      "answer": "JE",
+      "row": 9,
+      "col": 1
+    },
+    "33": {
+      "clue": "Ailton Graça, ator",
+      "answer": "AG",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

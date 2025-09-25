@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Em anatomia, a parte inferior da bacia",
+      "answer": "PELVE",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Sinal luminoso de trânsito",
+      "answer": "FAROL",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Sem cerimônia",
+      "answer": "INFORMAL",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Ali",
+      "answer": "LA",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Nicolas Cage, ator de \"Despedida em Las Vegas\"",
+      "answer": "NC",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Diz-se de gêmeos unidos por uma parte do corpo",
+      "answer": "SIAMESES",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Sigla de uma companhia aérea lusitana",
+      "answer": "TAP",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "(Gír.) Qualquer soma de dinheiro",
+      "answer": "GRANA",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Deixar de mencionar, de dizer ou de escrever",
+      "answer": "OMITIR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Um molho da culinária maranhense",
+      "answer": "CUXA",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Cacetada",
+      "answer": "PORRETADA",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Manada de porcos",
+      "answer": "VARA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Aquele que trata com prepotência e dureza",
+      "answer": "TIRANO",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Fazer perder a calma",
+      "answer": "IRRITAR",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Um investimento",
+      "answer": "RDB",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Anular",
+      "answer": "ELIDIR",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "Elétron-volt",
+      "answer": "EV",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "Que pode ser transferido para outro dono",
+      "answer": "ALIENAVEL",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Campo cultivado",
+      "answer": "SEARA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Parte do filme",
+      "answer": "AUDIO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ave filhote da galinha",
+      "answer": "PINTO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Fig.) Adotar",
+      "answer": "ENCAMPAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Lady Francisco, atriz (1935-2019)",
+      "answer": "LF",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Segunda pessoa do plural",
+      "answer": "VOS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Erguer, construindo",
+      "answer": "ERIGIR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Prestígio, sucesso",
+      "answer": "FAMA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(José de) O escritor de \"Lucíola\" (1829-1877)",
+      "answer": "ALENCAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O grito dos espectadores que caracteriza as evoluções do toureiro",
+      "answer": "OLE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Fragmento de madeira que fere e fica preso no corpo",
+      "answer": "LASCA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Golpe dado com um instrumento usado em obras",
+      "answer": "MARRETADA",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Aclamar",
+      "answer": "SAUDAR",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "(Med.) Catarro purulento abundante",
+      "answer": "PIORREIA",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "(Ingl.) Carro de moradia rebocado por um automóvel",
+      "answer": "TRAILER",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "(de Pilares) Cantor e compositor carioca",
+      "answer": "XANDE",
+      "row": 4,
+      "col": 9
+    },
+    "24": {
+      "clue": "Outro nome do periquito-tapuia",
+      "answer": "TIRIVA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "(Secas) Obra-prima de Graciliano Ramos",
+      "answer": "VIDAS",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Muito fácil de entender",
+      "answer": "OBVIO",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Vasilha que lembra um barril cortado ao meio",
+      "answer": "TINA",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Aquele contra quem é movida ação em juízo",
+      "answer": "REU",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "(Coq Sportif) Marca de materiais esportivos",
+      "answer": "LE",
+      "row": 9,
+      "col": 1
+    },
+    "36": {
+      "clue": "Lima Duarte, ator mineiro",
+      "answer": "LD",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

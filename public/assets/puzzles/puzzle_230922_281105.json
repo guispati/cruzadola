@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ave de plumagem verde e cauda longa",
+      "answer": "TIRIVA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Veste de magistrado judicial",
+      "answer": "BECA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Bagatela",
+      "answer": "AVO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Irritar",
+      "answer": "ENFADAR",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Resumido",
+      "answer": "CONCISO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Índice de Preços ao Consumidor",
+      "answer": "IPC",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "(Bife) Corte nobre de carne, comum na Argentina",
+      "answer": "ANCHO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Indivíduo de princípios e costumes excessivamente rígidos e severos",
+      "answer": "CATÃO",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Mulher que presta serviços braçais",
+      "answer": "PEOA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "O mês 7",
+      "answer": "JULHO",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "(Ingl.) Uma jogada do tênis",
+      "answer": "SMASH",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Instituição como o Louvre ou o Hermitage",
+      "answer": "MUSEU",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "A cantora de James (1938-2012) do jazz",
+      "answer": "ETTA",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "A cantora Bastos, de MPB",
+      "answer": "VANIA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Região alpina austríaca",
+      "answer": "TIROL",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "(Pop.) Cachaça",
+      "answer": "OTI",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "A glândula do corpo humano rica de iodo",
+      "answer": "TIROIDE",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "Açúcar do leite",
+      "answer": "LACTOSE",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Símbolo de cotangente",
+      "answer": "COT",
+      "row": 9,
+      "col": 8
+    },
+    "37": {
+      "clue": "Ritmo musical de batida forte e pesada, subgênero do hip-hop",
+      "answer": "TRAP",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Sujo, imundo",
+      "answer": "SEBOSO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Arma de guerra dos indígenas",
+      "answer": "TACAPE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A sambista Lara (1921-2018), de \"Partido Alto\"",
+      "answer": "IVONE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ruído de motor",
+      "answer": "RONCO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Filão",
+      "answer": "VEIO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Agência Nacional de Saúde",
+      "answer": "ANS",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Sigla do estado de Ilhéus e Feira de Santana",
+      "answer": "BA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "A Piaf cantora",
+      "answer": "EDITH",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Animal castrado",
+      "answer": "CAPÃO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O do Triunfo é um monumento francês",
+      "answer": "ARCO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Automóvel fabricado pela Ford",
+      "answer": "FOCUS",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Base em que se monta um carro",
+      "answer": "CHASSI",
+      "row": 2,
+      "col": 3
+    },
+    "18": {
+      "clue": "Tudo aquilo que não nos pertence",
+      "answer": "ALHEIO",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Peixe, um dos maiores de água doce do Brasil",
+      "answer": "JAU",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Orifício externo de canal",
+      "answer": "MEATO",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Veste que cobre o torso",
+      "answer": "PALETO",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "Tirar a vida de alguém",
+      "answer": "MATAR",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Que não possui semelhante (fem.)",
+      "answer": "UNICA",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Tecido de malhas entrelaçadas",
+      "answer": "TRICO",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Todo mundo",
+      "answer": "TODOS",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Unidade de medida elétrica de símbolo V",
+      "answer": "VOLT",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Ingl.) Árvore",
+      "answer": "TREE",
+      "row": 7,
+      "col": 6
+    },
+    "33": {
+      "clue": "Imposto Sobre Serviços",
+      "answer": "ISS",
+      "row": 8,
+      "col": 5
+    },
+    "35": {
+      "clue": "Tyrone Power, o Zorro",
+      "answer": "TP",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

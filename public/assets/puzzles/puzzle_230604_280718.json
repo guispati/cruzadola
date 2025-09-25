@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Do lado de cá",
+      "answer": "AQUEM",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O assento das motos",
+      "answer": "SELIM",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Sem ornatos",
+      "answer": "NU",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Um clube de futebol da capital paraense",
+      "answer": "TUNALUSO",
+      "row": 1,
+      "col": 3
+    },
+    "13": {
+      "clue": "O primeiro número de três algarismos",
+      "answer": "CEM",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Monte de areia típico dos Lençóis Maranhenses",
+      "answer": "DUNA",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Tiro de Guerra",
+      "answer": "TG",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Uma fruta verde",
+      "answer": "ABACATE",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "O astro do dia",
+      "answer": "SOL",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Ponto escolhido para aí se dar algo",
+      "answer": "SEDE",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Cauda",
+      "answer": "RABO",
+      "row": 4,
+      "col": 5
+    },
+    "23": {
+      "clue": "Ingenuidade de roceiro",
+      "answer": "CAIPIRICE",
+      "row": 5,
+      "col": 1
+    },
+    "27": {
+      "clue": "(Gír.) Aquele que é pouco inteligente, fácil de enganar",
+      "answer": "MANE",
+      "row": 6,
+      "col": 2
+    },
+    "28": {
+      "clue": "O Kong, macaco do cinema",
+      "answer": "KING",
+      "row": 6,
+      "col": 7
+    },
+    "30": {
+      "clue": "A letra entre o e é o gê",
+      "answer": "EFE",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Um filho adquirido",
+      "answer": "ENTEADO",
+      "row": 7,
+      "col": 4
+    },
+    "34": {
+      "clue": "Narcóticos Anônimos",
+      "answer": "NA",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "Canal",
+      "answer": "DUTO",
+      "row": 8,
+      "col": 3
+    },
+    "36": {
+      "clue": "Claridade emitida pelo farol",
+      "answer": "LUZ",
+      "row": 8,
+      "col": 8
+    },
+    "37": {
+      "clue": "Imitação imperfeita",
+      "answer": "ARREMEDO",
+      "row": 9,
+      "col": 0
+    },
+    "40": {
+      "clue": "Rebeca Andrade, ginasta campeã mundial",
+      "answer": "RA",
+      "row": 9,
+      "col": 9
+    },
+    "41": {
+      "clue": "Tonto, atordoado",
+      "answer": "ZONZO",
+      "row": 10,
+      "col": 0
+    },
+    "42": {
+      "clue": "Calor forte e prolongado",
+      "answer": "ARDOR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Quadris",
+      "answer": "ANCAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A província do Canadá cuja principal cidade é Montreal",
+      "answer": "QUEBEC",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Marciano",
+      "answer": "ET",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Planta criada em viveiro para posterior plantação definitiva",
+      "answer": "MUDA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Remediar",
+      "answer": "SANEAR",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Pronome pessoal (fem.)",
+      "answer": "ELA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Apelido do Luís",
+      "answer": "LU",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Esta coisa",
+      "answer": "ISTO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O menino das selvas, dos livros de Rudyard Kipling",
+      "answer": "MOGLI",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Que tem a propriedade de alimentar, sustentar",
+      "answer": "NUTRIENTE",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "(Tussauds) O mais famoso museu de figuras de cera",
+      "answer": "MADAME",
+      "row": 2,
+      "col": 2
+    },
+    "18": {
+      "clue": "Refeição da noite",
+      "answer": "CEIA",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "O esse do PIS",
+      "answer": "SOCIAL",
+      "row": 3,
+      "col": 8
+    },
+    "22": {
+      "clue": "(Pop., ingl.) Bicicleta",
+      "answer": "BIKE",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "Elemento de composição: pulmão",
+      "answer": "PNEUMO",
+      "row": 5,
+      "col": 4
+    },
+    "25": {
+      "clue": "Uma prova de motociclismo em trilhas",
+      "answer": "ENDURO",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Ferramenta para agarrar pregos",
+      "answer": "TENAZ",
+      "row": 6,
+      "col": 0
+    },
+    "29": {
+      "clue": "Sentir prazer",
+      "answer": "GOZAR",
+      "row": 6,
+      "col": 10
+    },
+    "31": {
+      "clue": "O olfato dos cães",
+      "answer": "FARO",
+      "row": 7,
+      "col": 1
+    },
+    "33": {
+      "clue": "Completa",
+      "answer": "TODA",
+      "row": 7,
+      "col": 6
+    },
+    "35": {
+      "clue": "O número da camisa de Pelé",
+      "answer": "DEZ",
+      "row": 8,
+      "col": 3
+    },
+    "38": {
+      "clue": "A sigla do estado com Genipabu e Atol das Rocas",
+      "answer": "RN",
+      "row": 9,
+      "col": 2
+    },
+    "39": {
+      "clue": "Muda teia para teoria",
+      "answer": "OR",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

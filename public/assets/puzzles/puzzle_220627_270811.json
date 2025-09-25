@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Grande companhia aérea espanhola",
+      "answer": "IBERIA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Corte na pele que se dá ao fazer a barba",
+      "answer": "BIFE",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Surra",
+      "answer": "SOVA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Grande barco usado na Antiguidade",
+      "answer": "GALE",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Sociedade Anônima",
+      "answer": "SA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Sanduíche de pão, rosbife, tomate, picles, queijo e orégano",
+      "answer": "BAURU",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Grande Prêmio",
+      "answer": "GP",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Aparelho que mede a capacidade de ampliação dos telescópios",
+      "answer": "DINAMETRO",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "A atriz carioca Fraga",
+      "answer": "DENISE",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Àqueles",
+      "answer": "AOS",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "Salaminho, copa e pastrami",
+      "answer": "FRIOS",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Erro involuntário",
+      "answer": "LAPSO",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Cinquenta e nove, em algarismos romanos",
+      "answer": "LIX",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Passatempo de conhecimentos gerais",
+      "answer": "TRIVIA",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Aclamar com entusiasmo",
+      "answer": "OVACIONAR",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Multiplica o uso da tomada",
+      "answer": "TE",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Equipamento usado na fiscalização de velocidade de veículos",
+      "answer": "RADAR",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Carlos Lamarca (1937-1971), lutou contra a ditadura militar",
+      "answer": "CL",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Sem elementos estranhos (fem.)",
+      "answer": "PURA",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Um sufixo diminutivo",
+      "answer": "INHO",
+      "row": 9,
+      "col": 7
+    },
+    "35": {
+      "clue": "Abreviatura de limitada",
+      "answer": "LTDA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Ter novamente a posse",
+      "answer": "REAVER",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Muito bem!",
+      "answer": "ISSO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Misericordiosa, caridosa",
+      "answer": "BOA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Símbolo de elétron-volt",
+      "answer": "EV",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Ministro do culto da religião hebraica",
+      "answer": "RABINO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Grandes corpos aquosos (mares, rios etc.)",
+      "answer": "AGUAS",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Azul, em inglês",
+      "answer": "BLUE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Instituto de Educação",
+      "answer": "IE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Marido",
+      "answer": "ESPOSO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "A pele branca do arminho, mamífero carnívoro da tundra euro-asiática e norte-americana",
+      "answer": "ARMELINA",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Um meio de absolver os culpados",
+      "answer": "ANISTIAR",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Lima para desbastar ferro",
+      "answer": "GROSA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Palavra que indica o momento em que um ator deve começar a falar",
+      "answer": "DEIXA",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Outro nome da anta",
+      "answer": "TAPIR",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "(-in) Um cinema",
+      "answer": "DRIVE",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Alojamento para quem trabalha em alto-mar",
+      "answer": "FLOTEL",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Dano causado a um bem durante o seu transporte",
+      "answer": "AVARIA",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "Em cinema e TV, registrar em filme",
+      "answer": "RODAR",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "A forma como se compra carne no açougue",
+      "answer": "CRUA",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Girassol, amarílis ou hortênsia",
+      "answer": "FLOR",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "(Guevara) Um dos \"cabeças\" da revolução cubana",
+      "answer": "CHE",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "(Quím.) Paládio",
+      "answer": "PD",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Naná Vasconcelos, músico pernambucano",
+      "answer": "NV",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

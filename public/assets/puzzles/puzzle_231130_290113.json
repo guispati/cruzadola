@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Negras) Um dos picos mais altos do Brasil",
+      "answer": "AGULHAS",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Centro de Processamento de Dados",
+      "answer": "CPD",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "O que muda de arcado para demarcado",
+      "answer": "DEM",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O ator Mesquita, ex-integrante da banda \"Blitz\"",
+      "answer": "EVANDRO",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Um aparelho de som não mais produzido",
+      "answer": "ELETROLA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Interjeição de impressão de perigo próximo",
+      "answer": "IH",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Mulher que rouba",
+      "answer": "LADRA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Pau que se põe atravessado para trancar porta ou janela",
+      "answer": "TRAVA",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Um religioso como Caneca",
+      "answer": "FREI",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "(Pop.) Bebedeira",
+      "answer": "PORRE",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Extirpar ervas daninhas",
+      "answer": "CAPINAR",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Uma unidade de medida",
+      "answer": "METRO",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Peça de cera que ilumina",
+      "answer": "VELA",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "A atriz e humorista recifense Fabiana",
+      "answer": "KARLA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Cidade mineira próxima a BH",
+      "answer": "BETIM",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "As letras que cercam o X",
+      "answer": "WY",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Franzido",
+      "answer": "ONDULADO",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Dispensar de obrigação ou ônus",
+      "answer": "ISENTAR",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "O que muda de pente para pendente",
+      "answer": "DEN",
+      "row": 9,
+      "col": 8
+    },
+    "35": {
+      "clue": "Documento de Arrecadação do Simples",
+      "answer": "DAS",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Antigamente",
+      "answer": "OUTRORA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "De estames reunidos em feixes (flor etc.)",
+      "answer": "ADELFO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Tornar muito frio",
+      "answer": "GELAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Revestir de substância líquida",
+      "answer": "UMEDECER",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Planta trepadeira e rastejante, sempre verde",
+      "answer": "HERA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Mulher que tem netos",
+      "answer": "AVO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Uma marca brasileira de vinhos",
+      "answer": "SALTON",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O cádmio, para os químicos",
+      "answer": "CD",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Fr.) Particular, reservado",
+      "answer": "PRIVE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A capital do Catar",
+      "answer": "DOHA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Referível",
+      "answer": "NARRAVEL",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Competição que reúne provas de nado, ciclismo e corrida",
+      "answer": "TRIATLON",
+      "row": 2,
+      "col": 3
+    },
+    "18": {
+      "clue": "(Gír.) Bacana, legal",
+      "answer": "ARRETADO",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Voz dos pássaros",
+      "answer": "PIO",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Lágrimas",
+      "answer": "PRANTO",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Arbusto muito comum em terrenos baldios",
+      "answer": "MAMONA",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "Uma cantora da MPB",
+      "answer": "MAYSA",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "(Esp.) O primeiro colocado na classificação",
+      "answer": "LIDER",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Um carro",
+      "answer": "KWID",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "O músico Bacharach, famoso pianista",
+      "answer": "BURT",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Departamento de Arquitetura e Urbanismo",
+      "answer": "DAU",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Sigla do estado de Anchieta e Linhares",
+      "answer": "ES",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

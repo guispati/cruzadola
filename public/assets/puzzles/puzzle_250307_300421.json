@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "A atriz Jennifer, da série \"Friends\"",
+      "answer": "ANISTON",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "O som que imita um tambor",
+      "answer": "BUM",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "(Ingl.) Estilo característico, na moda",
+      "answer": "LOOK",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "A cantora baiana Buhr",
+      "answer": "KARINA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Cidade mineira do norte do estado",
+      "answer": "IBIAI",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "O navegador da Gama (1469-1524)",
+      "answer": "VASCO",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Pref.: moderno",
+      "answer": "NEO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Plantação de arvoretas que produzem avelã",
+      "answer": "AVELAL",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "(Abrev.) Decilitro",
+      "answer": "DL",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Claro e evidente",
+      "answer": "INEGAVEL",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Registrado",
+      "answer": "ANOTADO",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Bordado em relevo",
+      "answer": "RECAMADO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Pedro Novaes, ator carioca",
+      "answer": "PN",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Bandeira",
+      "answer": "LABARO",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "O Morita ator de \"Karatê Kid\"",
+      "answer": "PAT",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Pequeno",
+      "answer": "MIRIM",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Island) O menor estado dos EUA",
+      "answer": "RHODE",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "O ditador Joseph (1879-1953), sucessor de Lenin",
+      "answer": "STALIN",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Famosa música de Dorival Caymmi",
+      "answer": "DORA",
+      "row": 9,
+      "col": 7
+    },
+    "34": {
+      "clue": "Faculdade de Engenharia Industrial",
+      "answer": "FEI",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "A atriz Letícia, do cinema, teatro e TV",
+      "answer": "SPILLER",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Enfeitar, embelezar",
+      "answer": "ALINDAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O Alfred (1833-1896) químico sueco inventor da dinamite",
+      "answer": "NOBEL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Brinquedo que sobe e desce pendurado num fio",
+      "answer": "IOIO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Estilo musical surgido na década de 1950",
+      "answer": "SKA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "De acordo!",
+      "answer": "OK",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Perito na arte de viajar pelas águas",
+      "answer": "NAVEGADOR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Um parente em terceiro grau",
+      "answer": "BISAVO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Tio, em inglês",
+      "answer": "UNCLE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O Tsé-Tung (1893-1976), fundador da China popular",
+      "answer": "MAO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "O queijo para a macarronada",
+      "answer": "RALADO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Grande povo indígena da Amazônia",
+      "answer": "IANOMAMIS",
+      "row": 2,
+      "col": 4
+    },
+    "18": {
+      "clue": "Impedir que se faça",
+      "answer": "VETAR",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Sem os requisitos necessários",
+      "answer": "INABIL",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Tornar vagaroso",
+      "answer": "LENTEAR",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Peixe de água doce, também chamado papa-terra",
+      "answer": "ACARAI",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "A alta sociedade",
+      "answer": "ELITE",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Homem que recebeu ordenação sacerdotal",
+      "answer": "PADRE",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "(Ingl.) Rede, cadeia",
+      "answer": "POOL",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Médicos Sem Fronteiras",
+      "answer": "MSF",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Em bioquímica, lipoproteínas de alta densidade",
+      "answer": "HDL",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Niccolò Paganini (1782-1840), violinista e compositor italiano",
+      "answer": "NP",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

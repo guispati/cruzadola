@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "O de feijão é um prato típico mineiro",
+      "answer": "TUTU",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "Lapidar",
+      "answer": "LAVRAR",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Um oposto de chorar",
+      "answer": "RIR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Semelhante à folha",
+      "answer": "FILOIDE",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "A cantora baiana Sangalo",
+      "answer": "IVETE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Comércio de quartos para encontros amorosos",
+      "answer": "MOTEL",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Furo no telhado de uma casa, por onde entra água da chuva",
+      "answer": "GOTEIRA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Milhas por Hora",
+      "answer": "MPH",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "(Fig.) Criança quieta, tranquila",
+      "answer": "ANJO",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Jogo que usa cartelas numeradas de 1 a 90",
+      "answer": "LOTO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Equipamento para explorações científicas",
+      "answer": "SONDA",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Música popular portuguesa, melancólica",
+      "answer": "FADO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "De + um (pl.)",
+      "answer": "DUNS",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Astro noturno",
+      "answer": "LUA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Conjunto de políticos de mesmo partido",
+      "answer": "BANCADA",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Produtor de açúcar e álcool em grande escala",
+      "answer": "USINA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "As vogais do nosso alfabeto",
+      "answer": "AEIOU",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Indígenas que habitavam do Norte de SP ao RJ",
+      "answer": "TAMOIOS",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Divisão do Imposto de Renda",
+      "answer": "DIR",
+      "row": 9,
+      "col": 8
+    },
+    "37": {
+      "clue": "Tornar mais alto",
+      "answer": "ELEVAR",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Quadrícula do esquema de palavras cruzadas",
+      "answer": "CASA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O rei dos cereais",
+      "answer": "TRIGO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Som triste e agudo emitido por cães",
+      "answer": "UIVO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Lábia, tapeação",
+      "answer": "TRETA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Quím.) Lítio",
+      "answer": "LI",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "(Pop.) Assombração, fantasma",
+      "answer": "ALMA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Uma viagem de avião",
+      "answer": "VOO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Mús.) Balanço",
+      "answer": "RITMO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Discípulo",
+      "answer": "ADEPTO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Açoite feito de couro torcido",
+      "answer": "RELHO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Padre) Religioso e político brasileiro (1784-1843)",
+      "answer": "FEIJO",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Esticado com força",
+      "answer": "TENSO",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Patrulha de inspeção",
+      "answer": "RONDA",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Jogada, nos desportos",
+      "answer": "LANCE",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "(Gram.) Que exprime a razão do que se disse",
+      "answer": "CAUSAL",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Colinas de areia típicas dos grandes desertos",
+      "answer": "DUNAS",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "(Fr.) Uma taça para espumantes",
+      "answer": "FLUTE",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Bebida alucinógena preparada com plantas amazônicas",
+      "answer": "DAIME",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Partida",
+      "answer": "SAIDA",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Muito medo, pavor",
+      "answer": "PAURA",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "(Formosa) A cidade natal do campeão olímpico de surfe Ítalo Ferreira, no RN",
+      "answer": "BAIA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "O número de jogadores de uma equipe de vôlei de praia",
+      "answer": "DOIS",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Uma forma de abreviar o mês 11",
+      "answer": "NOV",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Sufixo: agente",
+      "answer": "OR",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

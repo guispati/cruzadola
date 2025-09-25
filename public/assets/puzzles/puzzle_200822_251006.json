@@ -1,0 +1,228 @@
+{
+  "across": {
+    "1": {
+      "clue": "Luz só tem uma",
+      "answer": "SILABA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "A humorista Calabresa",
+      "answer": "DANI",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Que não tem semelhante (fem.)",
+      "answer": "UNICA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "(Inf.) Ruído feito quando se soltam gases",
+      "answer": "PUM",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Suplicado",
+      "answer": "EXPOSTULADO",
+      "row": 2,
+      "col": 0
+    },
+    "16": {
+      "clue": "Charlie Sheen, ator",
+      "answer": "CS",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "A política britânica Thatcher",
+      "answer": "MARGARET",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Aquela que brinca no carnaval",
+      "answer": "FOLIONA",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Classificação Internacional de Doenças",
+      "answer": "CID",
+      "row": 5,
+      "col": 1
+    },
+    "20": {
+      "clue": "Um inseticida que foi proibido por sua alta toxicidade",
+      "answer": "DDT",
+      "row": 5,
+      "col": 7
+    },
+    "22": {
+      "clue": "A região espanhola com Santiago de Compostela",
+      "answer": "GALICIA",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Fazer calar",
+      "answer": "EMUDECER",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "O valor 3,1416, em matemática",
+      "answer": "PI",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Gerador eólico de energia",
+      "answer": "AEROGERADOR",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Despida",
+      "answer": "NUA",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "O violinista e maestro Rieu",
+      "answer": "ANDRE",
+      "row": 9,
+      "col": 6
+    },
+    "33": {
+      "clue": "Sigla inglesa da pneumonia asiática",
+      "answer": "SARS",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Cidade histórica mineira",
+      "answer": "PRADOS",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Nascido em Gotemburgo ou Estocolmo",
+      "answer": "SUECO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A banda australiana de \"New Sensation\"",
+      "answer": "INXS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O meio da... eclipse",
+      "answer": "LIP",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Bem instalado",
+      "answer": "ACOMODADO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Um tipo de metabolismo químico",
+      "answer": "BASAL",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Igualada na borda",
+      "answer": "APARADA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Ingl.) Envio, pela net, de fotos parcialmente ou sem roupas",
+      "answer": "NUDE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Impossibilitado de movimentar-se",
+      "answer": "IMOTO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Boss) Marca alemã de moda e acessórios de luxo",
+      "answer": "HUGO",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Que tem três fios",
+      "answer": "TRILICE",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Outro nome da árvore bacuri",
+      "answer": "LANDIRANA",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "Fazer parte de um conjunto",
+      "answer": "FIGURAR",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "(Pal. ingl.) Tecido muito usado em roupas",
+      "answer": "JEANS",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Um brinquedo de peças de encaixe",
+      "answer": "LEGO",
+      "row": 6,
+      "col": 4
+    },
+    "24": {
+      "clue": "Lacrar",
+      "answer": "CERAR",
+      "row": 6,
+      "col": 6
+    },
+    "25": {
+      "clue": "Peça que serve de suporte à xícara",
+      "answer": "PIRES",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Ave amazônica, também chamada biguatinga",
+      "answer": "MEUA",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "O furinho por onde a pele respira",
+      "answer": "PORO",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Discagem Direta a Distância",
+      "answer": "DDD",
+      "row": 8,
+      "col": 8
+    }
+  }
+}

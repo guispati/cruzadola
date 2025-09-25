@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Qualquer ser inanimado",
+      "answer": "COISA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Arma, pedaço de pau mais volumoso numa das pontas",
+      "answer": "CLAVA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "(Pop.) Conjunto de amigos",
+      "answer": "GALERA",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "60, em algarismos romanos",
+      "answer": "LX",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Ordem de Pagamento",
+      "answer": "OP",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Maciez",
+      "answer": "LISURA",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "O sócio de uma empresa de responsabilidade limitada",
+      "answer": "COTISTA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Um ligante usado com o cimento",
+      "answer": "CAL",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Entrar em crise psicótica",
+      "answer": "SURTAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Gír.) Transportador clandestino de drogas, de um país para outro",
+      "answer": "MULA",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Refeito",
+      "answer": "CORRIGIDO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Carência alimentar",
+      "answer": "FOME",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Medo geralmente sem fundamento",
+      "answer": "PANICO",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Conexão de PC",
+      "answer": "USB",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Aquele a quem outros estão subordinados",
+      "answer": "MAIORAL",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Não profissional",
+      "answer": "AMADOR",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "Rodrigo Hilbert, modelo e apresentador",
+      "answer": "RH",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Antônio Nóbrega, artista e músico pernambucano",
+      "answer": "AN",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Afundar-se na lama",
+      "answer": "ATOLAR",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "Plaqueta que serve de base à porca",
+      "answer": "RUELA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Levantar, instalar (uma barraca, um circo etc.)",
+      "answer": "ARMAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Famosa marca de calçados",
+      "answer": "CROCS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Isabela Garcia, atriz carioca",
+      "answer": "IG",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Substância usada como fertilizante",
+      "answer": "SALITRE",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Desencrespar o cabelo",
+      "answer": "ALISAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Não cozida",
+      "answer": "CRUA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Casa",
+      "answer": "LAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Vivien Leigh (1913-1967), atriz de \"... E o Vento Levou\"",
+      "answer": "VL",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Ponto do corpo muito sensível às cócegas",
+      "answer": "AXILA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Que tem o ventre rasgado, com as tripas expostas",
+      "answer": "ESTRIPADO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Não muitos",
+      "answer": "POUCOS",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Ir em socorro de",
+      "answer": "ACUDIR",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "O \"focinho\" do elefante",
+      "answer": "TROMBA",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Colocar (um ser) num lugar de uma sequência de lugares",
+      "answer": "ALOCAR",
+      "row": 3,
+      "col": 9
+    },
+    "21": {
+      "clue": "Abrandar, tornar menos intenso",
+      "answer": "MINORAR",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "(Pop.) Prisão, cadeia",
+      "answer": "GAIOLA",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Fazer buracos, causando estrago",
+      "answer": "FURAR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Forma de interpretar",
+      "answer": "OLHAR",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "(Vanessa da) A cantora de \"Boa Sorte\"",
+      "answer": "MATA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Cruelmente",
+      "answer": "MAL",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Sem enfeites",
+      "answer": "NU",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "Roberto Marinho (1904-2003), o fundador da Rede Globo",
+      "answer": "RM",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

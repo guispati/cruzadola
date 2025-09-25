@@ -1,0 +1,108 @@
+{
+  "across": {
+    "2": {
+      "clue": "O Marcelo especialista nos jogos de dupla, no tênis",
+      "answer": "MELO",
+      "row": 0,
+      "col": 4
+    },
+    "3": {
+      "clue": "O piloto holandês de F1 Verstappen",
+      "answer": "MAX",
+      "row": 1,
+      "col": 8
+    },
+    "5": {
+      "clue": "O Luís lateral esquerdo do time de futebol do Flamengo",
+      "answer": "FILIPE",
+      "row": 3,
+      "col": 1
+    },
+    "6": {
+      "clue": "(Salto em) A modalidade de Thiago Braz, campeão olímpico no Rio em 2016",
+      "answer": "ALTURA",
+      "row": 5,
+      "col": 4
+    },
+    "8": {
+      "clue": "A baiana Marcela, maratonista da natação brasileira e mundial",
+      "answer": "ANA",
+      "row": 6,
+      "col": 0
+    },
+    "9": {
+      "clue": "A liga de basquete profissional dos EUA",
+      "answer": "NBA",
+      "row": 7,
+      "col": 8
+    },
+    "12": {
+      "clue": "O paulista Filipe, um dos grandes nomes do surfe mundial",
+      "answer": "TOLEDO",
+      "row": 8,
+      "col": 2
+    },
+    "13": {
+      "clue": "A modalidade esportiva que foi embrião para a criação de clubes como o Vasco, o Flamengo e o Botafogo",
+      "answer": "REMO",
+      "row": 10,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Dias) O Mineirinho, ídolo do skate brasileiro",
+      "answer": "SANDRO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A Beltrame campeã mundial no skiff simples, em 2011",
+      "answer": "FABIANA",
+      "row": 0,
+      "col": 2
+    },
+    "2": {
+      "clue": "O Gabriel, surfista paulista bicampeão mundial, em 2014 e 2018",
+      "answer": "MEDINA",
+      "row": 0,
+      "col": 4
+    },
+    "3": {
+      "clue": "A equipe inglesa de F1 em que Senna e Fittipaldi foram campeões mundiais",
+      "answer": "MCLAREN",
+      "row": 1,
+      "col": 8
+    },
+    "4": {
+      "clue": "(Miami) O vice-campeão da NBA de 2020",
+      "answer": "HEAT",
+      "row": 2,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Los Angeles) Equipe californiana campeã da NBA 2020",
+      "answer": "LAKERS",
+      "row": 5,
+      "col": 5
+    },
+    "10": {
+      "clue": "O lutador amazonense de MMA José",
+      "answer": "ALDO",
+      "row": 7,
+      "col": 10
+    },
+    "11": {
+      "clue": "A equipe de F1 dos pilotos Gasly e Verstappen",
+      "answer": "RBR",
+      "row": 8,
+      "col": 0
+    },
+    "12": {
+      "clue": "O quarterback Brady, casado com Gisele Bündchen, atleta do futebol americano",
+      "answer": "TOM",
+      "row": 8,
+      "col": 2
+    }
+  }
+}

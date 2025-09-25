@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Resina fóssil amarela",
+      "answer": "AMBAR",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Fibra vegetal resistente, de excelente qualidade",
+      "answer": "SISAL",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "O apresentador de TV Pedro",
+      "answer": "BIAL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Da maior ilha das Grandes Antilhas",
+      "answer": "CUBANO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Que pode ser transferido para outro dia",
+      "answer": "ADIAVEL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Uma conhecida marca de canetas",
+      "answer": "BIC",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Ajuda de custo dada a funcionários itinerantes",
+      "answer": "DIARIA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Felídeo carnívoro, de pelagem marrom clara",
+      "answer": "PUMA",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Instituto Agronômico",
+      "answer": "IA",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Mamífero voador",
+      "answer": "MORCEGO",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "O escritor uruguaio Eduardo, de \"Vagamundo\"",
+      "answer": "GALEANO",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Remédio que diminui a excitabilidade do sistema nervoso",
+      "answer": "SEDANTE",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "A abreviatura da região com MS e MT",
+      "answer": "CO",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "O Rodrigo apresentador de TV",
+      "answer": "FARO",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Aquele que deixa um local",
+      "answer": "SAIDOR",
+      "row": 7,
+      "col": 5
+    },
+    "27": {
+      "clue": "O astro que ilumina a noite",
+      "answer": "LUA",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Uma das grandes equipes de Fórmula 1",
+      "answer": "FERRARI",
+      "row": 8,
+      "col": 4
+    },
+    "29": {
+      "clue": "Um veículo de transporte coletivo",
+      "answer": "ONIBUS",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Mira",
+      "answer": "ALVO",
+      "row": 9,
+      "col": 7
+    },
+    "32": {
+      "clue": "Fragmento",
+      "answer": "RASPA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Presunto, mortadela, salaminho etc.",
+      "answer": "FRIOS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Convento",
+      "answer": "ABADIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Veículo ou meio de divulgação da ação publicitária",
+      "answer": "MIDIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Pequeno golfo, de boca estreita",
+      "answer": "BAIA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Assustado",
+      "answer": "ALARMADO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Ponto cardeal que se abrevia S",
+      "answer": "SUL",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Inesita Barroso, cantora",
+      "answer": "IB",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Milho sem palha e sem grãos",
+      "answer": "SABUGO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O que falta ao indolente",
+      "answer": "ANIMO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Pequena gruta",
+      "answer": "LOCA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Nascidos em Fortaleza e Aquiraz",
+      "answer": "CEARENSES",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Outro nome do pássaro japacanim",
+      "answer": "VIOLA",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Fazer passar por seleção",
+      "answer": "PENEIRAR",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Apanhar algo que caiu das mãos",
+      "answer": "CATAR",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "(Minas) O estado com a represa de Furnas e a serra da Canastra",
+      "answer": "GERAIS",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "O último dos povos helênicos que se estabeleceu na Grécia",
+      "answer": "DORIOS",
+      "row": 5,
+      "col": 10
+    },
+    "22": {
+      "clue": "(Fig.) Recinto muito quente, abafado",
+      "answer": "SAUNA",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Ave famosa pela astúcia e inteligência",
+      "answer": "CORVO",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "A parte mais bela da planta",
+      "answer": "FLOR",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "O pintor espanhol Salvador (1904-1989)",
+      "answer": "DALI",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "(Pop.) Conflito, briga",
+      "answer": "FUA",
+      "row": 8,
+      "col": 4
+    },
+    "30": {
+      "clue": "Boris Pasternak (1890-1960), escritor russo de \"Doutor Jivago\"",
+      "answer": "BP",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

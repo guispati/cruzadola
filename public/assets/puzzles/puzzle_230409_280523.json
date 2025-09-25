@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma jogada do tênis",
+      "answer": "TOPSPIN",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Cantor de orquestra",
+      "answer": "CROONER",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Ruim, desonesta",
+      "answer": "MA",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Que não tem preço",
+      "answer": "IMPAGAVEL",
+      "row": 2,
+      "col": 2
+    },
+    "14": {
+      "clue": "Luta violenta",
+      "answer": "MMA",
+      "row": 3,
+      "col": 1
+    },
+    "15": {
+      "clue": "Um veículo de infecção",
+      "answer": "BACILO",
+      "row": 3,
+      "col": 5
+    },
+    "16": {
+      "clue": "Um animal doméstico bastante comum",
+      "answer": "CÃO",
+      "row": 4,
+      "col": 0
+    },
+    "17": {
+      "clue": "Distância marítima igual a 1.852 metros",
+      "answer": "MILHA",
+      "row": 4,
+      "col": 4
+    },
+    "18": {
+      "clue": "O símbolo do hólmio, elemento químico",
+      "answer": "HO",
+      "row": 5,
+      "col": 0
+    },
+    "19": {
+      "clue": "O mesmo que cílio",
+      "answer": "CELHA",
+      "row": 5,
+      "col": 3
+    },
+    "20": {
+      "clue": "(Pop.) O de chinelo é um zé-ninguém",
+      "answer": "PE",
+      "row": 5,
+      "col": 9
+    },
+    "21": {
+      "clue": "Nome dado à hipertrofia da tireoide",
+      "answer": "BOCIO",
+      "row": 6,
+      "col": 2
+    },
+    "22": {
+      "clue": "Um pedido de socorro",
+      "answer": "SOS",
+      "row": 6,
+      "col": 8
+    },
+    "23": {
+      "clue": "O aposento onde se guardam roupas e apetrechos pessoais",
+      "answer": "CLOSET",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Líquido que se forma numa infecção",
+      "answer": "PUS",
+      "row": 7,
+      "col": 7
+    },
+    "26": {
+      "clue": "Respeito reverencial público",
+      "answer": "HOMENAGEM",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "(Fig.) Esportista que sobressai pelo que faz",
+      "answer": "AS",
+      "row": 9,
+      "col": 0
+    },
+    "29": {
+      "clue": "O Rn dos químicos",
+      "answer": "RADONIO",
+      "row": 9,
+      "col": 3
+    },
+    "31": {
+      "clue": "Terraço reservado aos banhos de sol",
+      "answer": "SOLARIO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Osvaldo Cruz (1872-1917), médico e sanitarista",
+      "answer": "OC",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Pop.) Parente distante",
+      "answer": "PRIMO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Quantidade total",
+      "answer": "SOMA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Uma arte de vanguarda",
+      "answer": "POP",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Que não tem carteira de motorista",
+      "answer": "INABILITADO",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Pequeno novelo de linha para costurar",
+      "answer": "NEGALHO",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "O V da BV",
+      "answer": "VALORES",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "(Pop.) Corrida ilegal de automóveis",
+      "answer": "RACHA",
+      "row": 1,
+      "col": 7
+    },
+    "11": {
+      "clue": "O doce produzido pelas abelhas",
+      "answer": "MEL",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Modo através do qual se administra um medicamento",
+      "answer": "VIA",
+      "row": 2,
+      "col": 8
+    },
+    "14": {
+      "clue": "Unidade de medida igual a 10,2 cm",
+      "answer": "MÃO",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Cutucar",
+      "answer": "CHUCHAR",
+      "row": 4,
+      "col": 0
+    },
+    "17": {
+      "clue": "Protetor de artistas e sábios",
+      "answer": "MECENAS",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Unir com linha, dando pontos de agulha",
+      "answer": "COSER",
+      "row": 5,
+      "col": 3
+    },
+    "20": {
+      "clue": "(Red.) Uma formação acadêmica superior",
+      "answer": "POS",
+      "row": 5,
+      "col": 9
+    },
+    "21": {
+      "clue": "Vantajoso",
+      "answer": "BOM",
+      "row": 6,
+      "col": 2
+    },
+    "22": {
+      "clue": "Desaparecer",
+      "answer": "SUMIR",
+      "row": 6,
+      "col": 8
+    },
+    "24": {
+      "clue": "(Hermanos) Banda de pop rock nacional",
+      "answer": "LOS",
+      "row": 7,
+      "col": 1
+    },
+    "25": {
+      "clue": "Castigo por um crime",
+      "answer": "PENA",
+      "row": 7,
+      "col": 7
+    },
+    "27": {
+      "clue": "(Pop.) Bola na rede",
+      "answer": "GOL",
+      "row": 8,
+      "col": 6
+    },
+    "30": {
+      "clue": "Pois não!",
+      "answer": "OI",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

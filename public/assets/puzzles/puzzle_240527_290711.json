@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cidade baiana próxima a Salvador",
+      "answer": "MARAGOGIPE",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "A unidade monetária da China",
+      "answer": "IUANE",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "As letras que ficam entre o K e o O",
+      "answer": "LMN",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Sentimento de aversão e inimizade",
+      "answer": "ODIO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Ingl.) Abreviatura de uma forma de jazz",
+      "answer": "BOP",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Abrev.: Editores",
+      "answer": "EE",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "O de cera é para desenhar",
+      "answer": "GIZ",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Uma capital sul-americana",
+      "answer": "CARACAS",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Tecido leve e transparente",
+      "answer": "LO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Veneno para exterminar roedores",
+      "answer": "RATICIDA",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Tecido que recobre a raiz dos dentes",
+      "answer": "CEMENTO",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "Um formato de pizza",
+      "answer": "BROTINHO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Microempresa",
+      "answer": "ME",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "Uma atleta como Tamara Klink",
+      "answer": "IATISTA",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Hot) Um lanche de pão com salsicha",
+      "answer": "DOG",
+      "row": 7,
+      "col": 8
+    },
+    "26": {
+      "clue": "(Abrev.) Nova York",
+      "answer": "NY",
+      "row": 8,
+      "col": 0
+    },
+    "27": {
+      "clue": "Personagem bíblico, herói do dilúvio",
+      "answer": "NOE",
+      "row": 8,
+      "col": 3
+    },
+    "28": {
+      "clue": "Provocar dor física ou moral",
+      "answer": "DOER",
+      "row": 8,
+      "col": 7
+    },
+    "29": {
+      "clue": "O sinal ~",
+      "answer": "TIL",
+      "row": 9,
+      "col": 2
+    },
+    "30": {
+      "clue": "Mulher que apresenta sinais de insanidade",
+      "answer": "DOIDA",
+      "row": 9,
+      "col": 6
+    },
+    "31": {
+      "clue": "Passar para o lado de lá",
+      "answer": "ATRAVESSAR",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Proteína encontrada nos músculos",
+      "answer": "MIOGLOBINA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O canal sonoro de um filme",
+      "answer": "AUDIO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A parte da planta que de desenvolve debaixo da terra",
+      "answer": "RAIZ",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "No de 1914 teve início a Primeira Guerra Mundial",
+      "answer": "ANO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Giovanna Ewbank, atriz e modelo paulistana",
+      "answer": "GE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Cidade gaúcha próxima a Gravataí",
+      "answer": "GLORINHA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Fig.) Abalo, comoção",
+      "answer": "IMPACTO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Pablo Neruda, escritor chileno",
+      "answer": "PN",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "Deixar triste",
+      "answer": "DESALEGRAR",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "Rebaixo onde porta ou janela se encaixa ao fechar",
+      "answer": "BATENTE",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Educação a Distância",
+      "answer": "EAD",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Roupa ampla e longa que as mulheres usam para dormir",
+      "answer": "CAMISOLA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Período de excitabilidade sexual da fêmea",
+      "answer": "CIO",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Produzir som vibrante",
+      "answer": "RETINIR",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "(Matem.) Símbolo da função trigonométrica cotangente",
+      "answer": "COT",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "(Ban) Famosa marca de óculos",
+      "answer": "RAY",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Uma peça como a pataca",
+      "answer": "MOEDA",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "O número logo acima de um",
+      "answer": "DOIS",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Daqueles",
+      "answer": "DOS",
+      "row": 8,
+      "col": 7
+    },
+    "29": {
+      "clue": "As consoantes de titia",
+      "answer": "TT",
+      "row": 9,
+      "col": 2
+    },
+    "30": {
+      "clue": "Preposição própria ou essencial",
+      "answer": "DE",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Pop.) Confusão, rolo",
+      "answer": "SARAPATEL",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Eloísa Mafalda (1924-2018), atriz paulista",
+      "answer": "EM",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Unir dois a dois",
+      "answer": "GEMINAR",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Gargalhadas",
+      "answer": "RISOS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Indivíduo que não foi batizado",
+      "answer": "PAGÃO",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Aquele que procura acabar com um grupo étnico",
+      "answer": "GENOCIDA",
+      "row": 3,
+      "col": 1
+    },
+    "18": {
+      "clue": "(Pop.) Pessoa que, de fora de um jogo, emite seus palpites",
+      "answer": "SAPO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Em volta",
+      "answer": "ACERCA",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "O escritor português de Queirós",
+      "answer": "EÇA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "O Tâmisa corta Londres",
+      "answer": "RIO",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "O acento de divã",
+      "answer": "TIL",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "(Esp.) Apoiar um time",
+      "answer": "TORCER",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Gír.) Nada",
+      "answer": "NECA",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Plantação de algodão",
+      "answer": "ALGODOAL",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Posição do que contorna alguma coisa",
+      "answer": "REDOR",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "O mês da execução de Tiradentes",
+      "answer": "ABRIL",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Que retumba, ecoa",
+      "answer": "SONANTE",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "O símbolo químico do cobre",
+      "answer": "CU",
+      "row": 9,
+      "col": 9
+    },
+    "36": {
+      "clue": "A nação de Freetown, uma das mais pobres do mundo",
+      "answer": "SERRALEOA",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ente",
+      "answer": "SER",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Companheirão",
+      "answer": "AMIGAÇO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Geom.) Sem ângulos",
+      "answer": "AGONO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "(Fig.) Prestígio, influência, importância",
+      "answer": "PESO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Em música, lá menor",
+      "answer": "AM",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Próprio de determinada coisa",
+      "answer": "TIPICO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Um exame do MEC",
+      "answer": "ENADE",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Aquecer-se ao sol, como certo animal",
+      "answer": "LAGARTEAR",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "Anfíbio de pele lisa, que vive perto da água",
+      "answer": "RÃ",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Que romperam a união matrimonial",
+      "answer": "SEPARADOS",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Mineral usado como pedra preciosa de algum valor",
+      "answer": "OPALA",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "A capital às margens do Nilo",
+      "answer": "CAIRO",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Subdivisão de uma região",
+      "answer": "SETOR",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Que volta em intervalos regulares",
+      "answer": "CICLICO",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Alinhar, dispor em simetria",
+      "answer": "REGRAR",
+      "row": 5,
+      "col": 4
+    },
+    "25": {
+      "clue": "(Biol.) Ser que tem origem em outro, por reprodução assexuada",
+      "answer": "CLONE",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "O Alfred (1833-1896) químico sueco inventor da dinamite",
+      "answer": "NOBEL",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Um ponto fixo no tempo",
+      "answer": "DATA",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "Sigla do estado de Marataízes e Vila Velha",
+      "answer": "ES",
+      "row": 8,
+      "col": 1
+    },
+    "32": {
+      "clue": "É moon, na Califórnia",
+      "answer": "LUA",
+      "row": 8,
+      "col": 10
+    },
+    "34": {
+      "clue": "Nereu Ramos, presidente do Brasil",
+      "answer": "NR",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

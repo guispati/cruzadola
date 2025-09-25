@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "(-prima) O que é perfeito em seu gênero",
+      "answer": "OBRA",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "Local onde grande quantidade de aves põem seus ovos",
+      "answer": "NINHAL",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "A Souza medalhista olímpica do judô",
+      "answer": "BIA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Mulher que usa com mais habilidade a mão esquerda",
+      "answer": "CANHOTA",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Matriculado, registrado",
+      "answer": "INSCRITO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Eduardo Bueno, jornalista e escritor",
+      "answer": "EB",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Grande bairro da Zona Leste da capital paulista",
+      "answer": "TATUAPE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Fábio Júnior em relação a Fiuk",
+      "answer": "PAI",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Destinado",
+      "answer": "REVERTIDO",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Tempo com falta de chuvas",
+      "answer": "SECA",
+      "row": 5,
+      "col": 1
+    },
+    "20": {
+      "clue": "Roedor semelhante à preá",
+      "answer": "MOCO",
+      "row": 5,
+      "col": 6
+    },
+    "21": {
+      "clue": "Capataz de gado",
+      "answer": "BOIADEIRO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Nos Estados Unidos é egg",
+      "answer": "OVO",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Inaugurar",
+      "answer": "ESTREAR",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "O líder chinês Jinping",
+      "answer": "XI",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Proprietário de uma pequena propriedade rural",
+      "answer": "SITIANTE",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "Lustrar o assoalho",
+      "answer": "ENCERAR",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Um pedido de socorro",
+      "answer": "SOS",
+      "row": 9,
+      "col": 8
+    },
+    "32": {
+      "clue": "(Gír.) Comer",
+      "answer": "RANGAR",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Em + ela",
+      "answer": "NELA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Falecimento",
+      "answer": "OBITO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um aparelho eletrônico em desuso",
+      "answer": "BINA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ato de seguir a pista de",
+      "answer": "RASTREIO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Uma característica que distingue as cartas do baralho",
+      "answer": "NAIPE",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "Manifestar-se por acessos regulares",
+      "answer": "INTERMITIR",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "(Lau) Personagem da \"Turma da Mônica\"",
+      "answer": "NHO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O hólmio, entre os químicos",
+      "answer": "HO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Atiçado",
+      "answer": "ATEADO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Cada uma das partes do contorno da boca",
+      "answer": "LABIO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Ferramenta usada na fabricação e conserto de calçados",
+      "answer": "CRAVADEIRA",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Peça de roupa masculina",
+      "answer": "CUECA",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "De uma importante cidade piauiense",
+      "answer": "PICOENSE",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Ato de tornar muito seco",
+      "answer": "TORRA",
+      "row": 4,
+      "col": 7
+    },
+    "19": {
+      "clue": "Mesquinho",
+      "answer": "SOVINA",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Raça de cães de tamanho médio, robusto, com pelagem curta",
+      "answer": "BOXER",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "Ser num dado momento",
+      "answer": "ESTAR",
+      "row": 6,
+      "col": 5
+    },
+    "23": {
+      "clue": "Garra de ave de rapina",
+      "answer": "PRESA",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Pequena ilha em forma de anel",
+      "answer": "ATOL",
+      "row": 7,
+      "col": 9
+    },
+    "28": {
+      "clue": "O dia entre Dom e Ter",
+      "answer": "SEG",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Clara Nunes, cantora",
+      "answer": "CN",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

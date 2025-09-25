@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Aflição",
+      "answer": "ANSIA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Cheio de) Diz-se de quem fica com muitas frescuras",
+      "answer": "DEDOS",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Molécula-grama",
+      "answer": "MOL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O estádio de futebol do São Paulo",
+      "answer": "MORUMBI",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Elétron-volt",
+      "answer": "EV",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Sustentar-se na água, movendo braços e pernas",
+      "answer": "NADAR",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Ivone sem vogais",
+      "answer": "VN",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Rabicho",
+      "answer": "NAMORO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "A droga da papoula",
+      "answer": "OPIO",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Tratamento do aparelho auditivo",
+      "answer": "OTOTERAPIA",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Tornar pronunciado (por oposição a escrito)",
+      "answer": "ORALIZAR",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "13",
+      "answer": "TREZE",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Àqueles",
+      "answer": "AOS",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Conexão",
+      "answer": "ELO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Qualquer",
+      "answer": "CADA",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Duas consoantes que ficam juntas à esquerda do teclado",
+      "answer": "XC",
+      "row": 7,
+      "col": 9
+    },
+    "33": {
+      "clue": "Tu, em certos casos",
+      "answer": "TI",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Aires) Cidade gaúcha próxima à capital",
+      "answer": "VENANCIO",
+      "row": 8,
+      "col": 3
+    },
+    "36": {
+      "clue": "(Pal. ingl.) Indivíduo que domina uma arte",
+      "answer": "EXPERT",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Completa, total",
+      "answer": "TODA",
+      "row": 9,
+      "col": 7
+    },
+    "39": {
+      "clue": "Ensopado de carne com legumes, em molho abundante",
+      "answer": "RAGU",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Peça que regula a saída de líquidos ou gases",
+      "answer": "EJETOR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Suave, agradável",
+      "answer": "AMENO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Calouro",
+      "answer": "NOVATO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Spike Lee, cineasta de \"Faça a Coisa Certa\"",
+      "answer": "SL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Fazer descorar",
+      "answer": "AMARELECER",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Doutora",
+      "answer": "DRA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "O continente de Andorra e Luxemburgo",
+      "answer": "EUROPA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Mús.) Ré menor",
+      "answer": "DM",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Evidente, lógico (fem.)",
+      "answer": "OBVIA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O Big Ben é o mais famoso",
+      "answer": "SINO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Substância que deixa o ambiente perfumado",
+      "answer": "ODORIZANTE",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Observar, considerar",
+      "answer": "NOTAR",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "Que deixou de viver",
+      "answer": "MORTO",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Vaso onde fica o fogo olímpico",
+      "answer": "PIRA",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Áspera como o vinagre",
+      "answer": "AZEDA",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Escorrer",
+      "answer": "ESCOAR",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "Pôr, colocar",
+      "answer": "METER",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "O nitroso é o gás hilariante",
+      "answer": "OXIDO",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Um objeto usado para polir",
+      "answer": "LIXA",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "Em vista de",
+      "answer": "ANTE",
+      "row": 7,
+      "col": 7
+    },
+    "34": {
+      "clue": "Tecido usado em vestidos de casamento",
+      "answer": "VEU",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "O que muda de chiar para chicotar",
+      "answer": "COT",
+      "row": 8,
+      "col": 8
+    },
+    "37": {
+      "clue": "Abreviatura de pago",
+      "answer": "PG",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

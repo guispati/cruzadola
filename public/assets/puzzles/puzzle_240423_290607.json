@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Patada de gato",
+      "answer": "ZAPETRAPE",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "O que muda de Capri para Capivari",
+      "answer": "IVA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Morosidade",
+      "answer": "RETARDO",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Indivíduo que fala publicamente por outro",
+      "answer": "PORTAVOZ",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Palavrinha que expressa dor",
+      "answer": "UI",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Fazer perder a paciência",
+      "answer": "ENERVAR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Símbolo de megaparsec",
+      "answer": "MPC",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Líquido polidor de metal amarelo",
+      "answer": "CAOL",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Peça que abre e fecha um circuito elétrico",
+      "answer": "RELE",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Erva usada como repelente de insetos",
+      "answer": "CITRONELA",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Condição, jeito",
+      "answer": "MODO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Competição automobilística de regularidade",
+      "answer": "RALI",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "A sigla inglesa dos Objetos Voadores Não Identificados",
+      "answer": "UFO",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "O imperador romano Aulo",
+      "answer": "VITELIO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "As iniciais do sambista Rosa (1910-1937)",
+      "answer": "NR",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Mineral usado como pedra preciosa, de cor azul do alto-mar",
+      "answer": "LAZURITA",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Truncar geralmente de um só golpe",
+      "answer": "DECEPAR",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "As consoantes de tacada",
+      "answer": "TCD",
+      "row": 9,
+      "col": 8
+    },
+    "33": {
+      "clue": "Que se deteriorou",
+      "answer": "ESTRAGADO",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Fecho usado em mochilas",
+      "answer": "ZIPER",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Uma marca de cosméticos",
+      "answer": "AVON",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Semelhante",
+      "answer": "PARECIDO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Sabor amargo e adstringente de um alimento",
+      "answer": "TRAVOR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Econ.) Devolver na importância e no valor",
+      "answer": "REVALORIZAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "A profissão de Robert Redford",
+      "answer": "ATOR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Armistício",
+      "answer": "PAZ",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "A desinência verbal de corromper",
+      "answer": "ER",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Instrumento curvo, para ceifar ou segar",
+      "answer": "FOICE",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Par de jogadores que atuam juntos",
+      "answer": "DUPLA",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Acordo de cavalheiros",
+      "answer": "TRATO",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "Mineral encontrado em lavas vulcânicas",
+      "answer": "MELILITA",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Repassar o texto",
+      "answer": "RELER",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Caixa reforçada para guardar valores",
+      "answer": "COFRE",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Marca de produtos para higiene pessoal e cosméticos",
+      "answer": "NATURA",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "O Novo é o continente americano",
+      "answer": "MUNDO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Passado por crivo",
+      "answer": "COADO",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Som que imita golpe rápido",
+      "answer": "VAPT",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Imposto sobre a Transmissão Causa Mortis e Doações",
+      "answer": "ITCD",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "O músico Paul (1915-2009), criador da guitarra elétrica",
+      "answer": "LES",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "A letra que precede o dê",
+      "answer": "CE",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Osso da parte posterior do septo nasal",
+      "answer": "VOMER",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Em TV e cinema, cena muito rápida",
+      "answer": "FLASH",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "O Jacquin chef e apresentador",
+      "answer": "ERICK",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Molusco que deixa um rastro gosmento",
+      "answer": "LESMA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Elem. de comp.: pedra",
+      "answer": "LITO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Emitir (o cão) a sua voz ameaçadora",
+      "answer": "ROSNAR",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "(Pop.) Amor, querido",
+      "answer": "MOR",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Em estatística, o mesmo que achatamento",
+      "answer": "CURTOSE",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Relação de semelhança entre coisas ou fatos distintos",
+      "answer": "ANALOGIA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Abreviatura de hectômetro, medida de comprimento de 100 m",
+      "answer": "HM",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "Um dos extremos da corrida",
+      "answer": "LARGADA",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Maria Callas (1923-1977), cantora lírica grega",
+      "answer": "MC",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Escoamento das águas de terrenos com umidade excessiva",
+      "answer": "DRENAGEM",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Que apronta travessuras",
+      "answer": "ARTEIRO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Red.) Interjeição nordestina de surpresa",
+      "answer": "OXE",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Jumento",
+      "answer": "JERICO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Cidade da região de Dourados, no MS",
+      "answer": "JUTI",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "O gênero musical de \"Fidelio\", de Beethoven",
+      "answer": "OPERA",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Brado",
+      "answer": "BERRO",
+      "row": 9,
+      "col": 6
+    },
+    "34": {
+      "clue": "Fazer o caiaque se movimentar com a pá própria para isso",
+      "answer": "REMAR",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Nome de dois músculos abdominais",
+      "answer": "PSOAS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Uma das personagens do desenho Scooby-Doo",
+      "answer": "VELMA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Astron.) A constelação das Três Marias",
+      "answer": "ORION",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Anat.) Uma válvula do coração",
+      "answer": "MITRAL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Som refletido",
+      "answer": "ECO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Roberto Kovalick, jornalista",
+      "answer": "RK",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "O político Peixoto (1839-1895), ex-presidente da República",
+      "answer": "FLORIANO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Vento forte e persistente que sopra do E",
+      "answer": "LESTADA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Animal semelhante a um pequeno cavalo",
+      "answer": "ASNO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "(Ingl.) Uma jogada do tênis",
+      "answer": "SMASH",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Ambiente das mulheres nas casas muçulmanas",
+      "answer": "HAREM",
+      "row": 0,
+      "col": 10
+    },
+    "14": {
+      "clue": "O compositor italiano de óperas Leoncavallo (1858-1919)",
+      "answer": "RUGGERO",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Andar ligeiro",
+      "answer": "CORRICAR",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Terreno ou caminho em subida",
+      "answer": "LADEIRA",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Presságio, vaticínio",
+      "answer": "AGOURO",
+      "row": 5,
+      "col": 8
+    },
+    "22": {
+      "clue": "Oficial superior",
+      "answer": "MAJOR",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Uma panqueca recheada",
+      "answer": "CREPE",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Extraordinário",
+      "answer": "EXTRA",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "A soma de dois resulta em um",
+      "answer": "MEIOS",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "Um transporte de massa",
+      "answer": "TREM",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "Grupo ao qual pertencem muitas tribos tapuias",
+      "answer": "JES",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Baden Powell (1937-2000), violonista",
+      "answer": "BP",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

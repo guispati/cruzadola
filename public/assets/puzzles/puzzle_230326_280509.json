@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Estrangeiro, de maneira geral",
+      "answer": "EMBOABA",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Rio português em cujo vale se produz famosos vinhos",
+      "answer": "DÃO",
+      "row": 1,
+      "col": 0
+    },
+    "9": {
+      "clue": "(Pop.) Em uns",
+      "answer": "NUNS",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Gustavo, para os íntimos",
+      "answer": "GU",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Instituto de Educação",
+      "answer": "IE",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Transmitir",
+      "answer": "DIFUNDIR",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Nascida com irmã ou irmão no mesmo parto",
+      "answer": "GEMEA",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Peça do xadrez, vizinho da rainha",
+      "answer": "REI",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Instrumento de sopro usado por árbitros esportivos",
+      "answer": "APITO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Prescrições do poder legislativo",
+      "answer": "LEIS",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Agradável ao tato",
+      "answer": "LISO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "(Branco) Cidade paranaense",
+      "answer": "PATO",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "Conformação física que permite distinguir o homem e a mullher",
+      "answer": "SEXO",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Completas, inteiras",
+      "answer": "TODAS",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Um ligante usado para os cimentos",
+      "answer": "CAL",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Peça que faz furos para parafusos",
+      "answer": "BROCA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Irritada",
+      "answer": "ENERVADA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "O símbolo químico do elemento gálio",
+      "answer": "GA",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Daquilo",
+      "answer": "DO",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Elemento de composição: cavalo",
+      "answer": "HIPO",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Abreviatura inglesa para Doutor em Filosofia",
+      "answer": "PHD",
+      "row": 9,
+      "col": 8
+    },
+    "36": {
+      "clue": "Rota regular de aviões comerciais",
+      "answer": "AEROVIA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Aviso público da realização de ato administrativo",
+      "answer": "EDITAL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Mulher com pelo menos um filho",
+      "answer": "MÃE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O que transforma linha em bolinha",
+      "answer": "BO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Aquilo que falta ao preguiçoso",
+      "answer": "ANIMO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Mesa para servir iguarias em festas",
+      "answer": "BUFE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Acontece a cada 12 meses",
+      "answer": "ANUAL",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Comissão julgadora",
+      "answer": "JURI",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "(Quím.) Estanho",
+      "answer": "SN",
+      "row": 1,
+      "col": 7
+    },
+    "11": {
+      "clue": "Flor amarela e perfumada",
+      "answer": "GIESTA",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "(Alim.) Dieta para eliminar substâncias prejudiciais",
+      "answer": "DETOX",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Na mitologia greco-romana, ninfa das árvores, dos bosques e da selva",
+      "answer": "DRIADA",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "A modelo Bündchen",
+      "answer": "GISELE",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Da cidade italiana da famosa torre inclinada",
+      "answer": "PISANO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Período histórico",
+      "answer": "EPOCA",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Os restos de um cadáver",
+      "answer": "OSSADA",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Evidente, lógico (fem.)",
+      "answer": "OBVIA",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "A atriz Eva (1919-2017)",
+      "answer": "TODOR",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Ao alvorecer, de madrugada",
+      "answer": "CEDO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Tabaco de cheiro, em pó muito fino",
+      "answer": "RAPE",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "Rodrigo Hilbert, modelo e apresentador",
+      "answer": "RH",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "As letras que separam o F do J",
+      "answer": "GHI",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "Paulo Vieira, ator e humorista goiano",
+      "answer": "PV",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Começar a ferver",
+      "answer": "EBULIR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Edifício com a câmara municipal",
+      "answer": "PAÇO",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Serviço Social da Indústria",
+      "answer": "SESI",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Complexo industrial que produz energia",
+      "answer": "USINA",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Congregação Cristã no Brasil",
+      "answer": "CCB",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Peça de madeira com que se tecem rendas",
+      "answer": "BILRO",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Àquele",
+      "answer": "AO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Quem incumbe outra pessoa de realizar um ato mau",
+      "answer": "MANDANTE",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "(Fig.) Habitação pequena e pobre",
+      "answer": "TOCA",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Construção para atracação de embarcações",
+      "answer": "PIER",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Molhado superficialmente",
+      "answer": "UMIDO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Músico baiano, participou ativamente do Tropicalismo",
+      "answer": "TOMZE",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Pedra de superfície plana",
+      "answer": "LAJE",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Não poluído",
+      "answer": "PURO",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Ciência médica indiana que tem mais de 5 mil anos",
+      "answer": "AYURVEDA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Quím.) O titânio",
+      "answer": "TI",
+      "row": 7,
+      "col": 9
+    },
+    "28": {
+      "clue": "Derrubado",
+      "answer": "CAIDO",
+      "row": 8,
+      "col": 2
+    },
+    "29": {
+      "clue": "Antecede Mar",
+      "answer": "FEV",
+      "row": 8,
+      "col": 8
+    },
+    "30": {
+      "clue": "Deslocar-se na água com movimentos de braços e pernas",
+      "answer": "NADAR",
+      "row": 9,
+      "col": 1
+    },
+    "31": {
+      "clue": "(Pop.) Grupo de pessoas de características semelhantes",
+      "answer": "TIME",
+      "row": 9,
+      "col": 7
+    },
+    "32": {
+      "clue": "(Esp.) Categoria de lutas, como no boxe",
+      "answer": "PESO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Um elemento químico como o fósforo ou o enxofre",
+      "answer": "AMETAL",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Uma cintura do corpo humano",
+      "answer": "ESCAPULAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Rua estreita e curta, eventualmente sem saída",
+      "answer": "BECO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Inform., ingl.) Abreviatura de Universal Serial Bus",
+      "answer": "USB",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A diferença entre avio e alívio",
+      "answer": "LI",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Sobra de uma destruição",
+      "answer": "RUINA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Cidade mineira banhada pelo São Francisco",
+      "answer": "PIRAPORA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Feito sem identificação",
+      "answer": "ANONIMO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O meio da... caçapa",
+      "answer": "ÇA",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Solda sem vogais",
+      "answer": "SLD",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "O deus romano do vinho",
+      "answer": "BACO",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Que se pode estragar",
+      "answer": "PERECIVEL",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Equilibrado",
+      "answer": "MODERADO",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Pele do rosto",
+      "answer": "TEZ",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Cidade catarinense próxima a Bombinhas",
+      "answer": "TIJUCAS",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "O quinto mês, em inglês",
+      "answer": "MAY",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "O total das coisas",
+      "answer": "TUDO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Rocha dura",
+      "answer": "PEDRA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Exemplar de nota fiscal, pedido etc.",
+      "answer": "VIA",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Ideia central",
+      "answer": "TEMA",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Automóvel fabricado pela Honda",
+      "answer": "FIT",
+      "row": 8,
+      "col": 8
+    },
+    "30": {
+      "clue": "Nordeste",
+      "answer": "NE",
+      "row": 9,
+      "col": 1
+    },
+    "31": {
+      "clue": "T",
+      "answer": "TE",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

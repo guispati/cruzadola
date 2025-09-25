@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Língua de fogo",
+      "answer": "CHAMA",
+      "row": 0,
+      "col": 1
+    },
+    "6": {
+      "clue": "Tradicional marca brasileira de cachaça",
+      "answer": "PITU",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Dar o seu palpite",
+      "answer": "OPINAR",
+      "row": 1,
+      "col": 2
+    },
+    "12": {
+      "clue": "Prefixo: falta, privação",
+      "answer": "AN",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Unir por laços fraternos",
+      "answer": "IRMANAR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Uma tecla do PC",
+      "answer": "ALT",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "(Pop.) Mau humor",
+      "answer": "NEURA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Grande caminhada",
+      "answer": "TIRÃO",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Um sinal musical",
+      "answer": "FUSA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Ave filhote da galinha",
+      "answer": "PINTO",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "No futebol, acompanhar um jogador para limitar sua atuação",
+      "answer": "MARCAR",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Fenômeno comum nos países mais frios",
+      "answer": "NEVE",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Inútil, vão",
+      "answer": "FUTIL",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Artigos",
+      "answer": "ITENS",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Preencher, completar",
+      "answer": "LOTAR",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Peça de pano suspensa para adornar ou resguardar janela",
+      "answer": "CORTINA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Alter) Substituto perfeito",
+      "answer": "EGO",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "O nome das jornalistas Passarinho e Annenberg",
+      "answer": "SANDRA",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "O que muda de picar para picotar",
+      "answer": "OT",
+      "row": 9,
+      "col": 9
+    },
+    "37": {
+      "clue": "Na bicicleta, trabalha junto com a catraca",
+      "answer": "COROA",
+      "row": 10,
+      "col": 1
+    },
+    "38": {
+      "clue": "Abertura em que entram os botões de algumas roupas",
+      "answer": "CASA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Pasta de sementes de grão-de-bico, da cozinha sírio-libanesa",
+      "answer": "HOMUS",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Ataviar",
+      "answer": "APARAMENTAR",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "(Pop.) Garota",
+      "answer": "MINA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Equivalência, nas doses de remédios",
+      "answer": "ANA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "A UF de Londrina e Paranágua",
+      "answer": "PR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Pode ser de cheques",
+      "answer": "TALÃO",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Banha de porco",
+      "answer": "UNTO",
+      "row": 0,
+      "col": 10
+    },
+    "9": {
+      "clue": "Um tipo de orquestra",
+      "answer": "SINFONICA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Produzir os sons da fala",
+      "answer": "ARTICULAR",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Homem que pode ser condenado",
+      "answer": "REU",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Inflamação de uma articulação",
+      "answer": "ARTRITE",
+      "row": 2,
+      "col": 8
+    },
+    "18": {
+      "clue": "Que se tem desde o nascimento",
+      "answer": "INATO",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Polícia Rodoviária Federal",
+      "answer": "PRF",
+      "row": 4,
+      "col": 5
+    },
+    "23": {
+      "clue": "Sufixo diminutivo",
+      "answer": "ETO",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Cada uma das linhas de um poema",
+      "answer": "VERSO",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "(Grandes) Região entre o Canadá e os Estados Unidos",
+      "answer": "LAGOS",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "O instrumento sonoro usado nas torres das igrejas",
+      "answer": "SINO",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Itinerário aeronaval",
+      "answer": "ROTA",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "Nenhuma das Alternativas",
+      "answer": "NDA",
+      "row": 8,
+      "col": 5
+    },
+    "35": {
+      "clue": "Sigla do estado de Tarauacá",
+      "answer": "AC",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

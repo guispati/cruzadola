@@ -1,0 +1,258 @@
+{
+  "across": {
+    "2": {
+      "clue": "Fibra vegetal",
+      "answer": "EMBIRA",
+      "row": 0,
+      "col": 2
+    },
+    "7": {
+      "clue": "(Quím.) O mendelévio",
+      "answer": "MD",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Peça que equipa animais de montaria",
+      "answer": "ARREIO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Classe, tipo",
+      "answer": "LAIA",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Qualquer cantiga simples",
+      "answer": "TOADA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Um tempero da culinária oriental",
+      "answer": "CURRY",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Ilustríssimo",
+      "answer": "ILMO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "A mãe da esposa",
+      "answer": "SOGRA",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Intervenção de alguém em uma coisa",
+      "answer": "MÃO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Título de antigos reis egípcios",
+      "answer": "FARAO",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "De forma semelhante à uma peça como o fêmur ou a costela",
+      "answer": "OSSIFORME",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Pancadaria, sova",
+      "answer": "SURRA",
+      "row": 6,
+      "col": 2
+    },
+    "23": {
+      "clue": "(Apple) NY",
+      "answer": "BIG",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "Persistência irracional ou inoportuna",
+      "answer": "TEIMA",
+      "row": 7,
+      "col": 1
+    },
+    "26": {
+      "clue": "Tarifa",
+      "answer": "TAXA",
+      "row": 7,
+      "col": 7
+    },
+    "27": {
+      "clue": "Talvez, porventura",
+      "answer": "QUIÇA",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Mau cheiro",
+      "answer": "FEDOR",
+      "row": 8,
+      "col": 6
+    },
+    "29": {
+      "clue": "Demonstração de alegria externada pelo rosto",
+      "answer": "RISO",
+      "row": 9,
+      "col": 0
+    },
+    "30": {
+      "clue": "Com muitos pelos",
+      "answer": "PILOSO",
+      "row": 9,
+      "col": 5
+    },
+    "31": {
+      "clue": "Sociedade Anônima",
+      "answer": "SA",
+      "row": 10,
+      "col": 0
+    },
+    "32": {
+      "clue": "Peneirar",
+      "answer": "SESSAR",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Língua oficial da igreja católica romana",
+      "answer": "LATIM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Romance de Maria José Dupré várias vezes adaptado para a TV",
+      "answer": "ERAMOSSEIS",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Sentimento de tensão ante a possibilidade de perigo",
+      "answer": "MEDO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Um apelido para Beatriz",
+      "answer": "BIA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Instituto Oceanográfico",
+      "answer": "IO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Tomar em locação",
+      "answer": "ALUGAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "A finalidade a alcançar",
+      "answer": "MIRA",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "(Ingl.) Dia",
+      "answer": "DAY",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Outro nome do rocambole",
+      "answer": "ROLÃO",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Aquele que rompe, que abre com violência",
+      "answer": "ARROMBADOR",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Símbolo da autoridade do rei",
+      "answer": "COROA",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Colheita",
+      "answer": "SAFRA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Casa comercial",
+      "answer": "FIRMA",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Nascidos em Interlaken, Lugano e Lucerna",
+      "answer": "SUIÇOS",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "Diz-se que está fora deles o que não se encontra em seu estado normal",
+      "answer": "EIXOS",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "(Terra da) Um apelido para a capital paulista",
+      "answer": "GAROA",
+      "row": 6,
+      "col": 10
+    },
+    "25": {
+      "clue": "Planta utilizada como cerca viva",
+      "answer": "TUIA",
+      "row": 7,
+      "col": 1
+    },
+    "26": {
+      "clue": "Entrançado de arame, nylon ou outro material, próprio para cercados",
+      "answer": "TELA",
+      "row": 7,
+      "col": 7
+    },
+    "27": {
+      "clue": "As consoantes entre o P do T",
+      "answer": "QRS",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Abreviatura de física",
+      "answer": "FIS",
+      "row": 8,
+      "col": 6
+    },
+    "30": {
+      "clue": "Pete Sampras, um dos melhores tenistas da história",
+      "answer": "PS",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

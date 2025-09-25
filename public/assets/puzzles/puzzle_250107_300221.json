@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Fim",
+      "answer": "TERMINO",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Ministério Público do Trabalho",
+      "answer": "MPT",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Uma personagem de Jorge Amado",
+      "answer": "TIETA",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Parte da mina onde se acha o mineral",
+      "answer": "VEIO",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Da Índia",
+      "answer": "HINDU",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Considerar",
+      "answer": "PESAR",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "(Gordo) O mesmo que inveja",
+      "answer": "OLHO",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Nome latino do mítico rei da guerra",
+      "answer": "MARS",
+      "row": 3,
+      "col": 5
+    },
+    "16": {
+      "clue": "Um membro da família",
+      "answer": "TIA",
+      "row": 4,
+      "col": 0
+    },
+    "17": {
+      "clue": "Tocado, executado",
+      "answer": "TANGIDO",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "(Ingl.) Vaso sanitário e lavabo",
+      "answer": "WC",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Barraca em campo aberto para abrigo das intempéries",
+      "answer": "TENDA",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "Émile Zola (1840-1902), romancista francês",
+      "answer": "EZ",
+      "row": 5,
+      "col": 9
+    },
+    "22": {
+      "clue": "A média computada pelos cronometristas",
+      "answer": "HORARIA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Processo Judicial Eletrônico",
+      "answer": "PJE",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "Presilha usada para carregar uma mala",
+      "answer": "ALÇA",
+      "row": 7,
+      "col": 2
+    },
+    "26": {
+      "clue": "O treinador de futebol Santana",
+      "answer": "JOEL",
+      "row": 7,
+      "col": 7
+    },
+    "27": {
+      "clue": "Mulher que trabalha como agente secreto",
+      "answer": "ESPIÃ",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Aborrecido, sem mais vontade ou desejo",
+      "answer": "FARTO",
+      "row": 8,
+      "col": 6
+    },
+    "30": {
+      "clue": "A dor pela morte",
+      "answer": "LUTO",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Designação popular de várias palmeiras do Brasil",
+      "answer": "COCÃO",
+      "row": 9,
+      "col": 5
+    },
+    "32": {
+      "clue": "Que tem saúde",
+      "answer": "SÃO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Requintada, com elegância",
+      "answer": "LUXUOSA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Um tipo de álcool",
+      "answer": "ETILICO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Lugar onde se realizam as brigas de galo",
+      "answer": "RINHA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Receio",
+      "answer": "MEDO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Cidade paulista, \"a capital do exagero\"",
+      "answer": "ITU",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Nacional, em Funai",
+      "answer": "NA",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Jogador argentino de futebol",
+      "answer": "MESSI",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Mulher muito religiosa",
+      "answer": "PIA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Entre a perna e o pé",
+      "answer": "TORNOZELO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Vara flexível",
+      "answer": "VERGA",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Famosa marca de brinquedos (carrinhos e pistas)",
+      "answer": "HOTWHEELS",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Kung Fu) Famosa série de animação",
+      "answer": "PANDA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Ideia fixa",
+      "answer": "MANIA",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "(Med.) Diz-se de uma febre de origem malárica",
+      "answer": "TERÇÃ",
+      "row": 4,
+      "col": 4
+    },
+    "18": {
+      "clue": "Sobras de desassimilação eliminados pelo organismo",
+      "answer": "DEJETOS",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "Tl, elemento químico",
+      "answer": "TALIO",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "O roubo de uma pessoa",
+      "answer": "RAPTO",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "(Ratos de) Banda brasileira de punk rock",
+      "answer": "PORÃO",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "(Pop.) Caipira",
+      "answer": "JACU",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Parte inferior do lombo do porco, usada na alimentação",
+      "answer": "SUÃ",
+      "row": 8,
+      "col": 1
+    },
+    "29": {
+      "clue": "Um carro da VW",
+      "answer": "FOX",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "(Quím.) O cobre",
+      "answer": "CU",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

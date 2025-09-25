@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Substância inativa, do ponto de vista farmacológico",
+      "answer": "PLACEBO",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "O acento ~",
+      "answer": "TIL",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Ordinário, vulgar",
+      "answer": "RELES",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Comida como a picanha",
+      "answer": "CARNE",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Equipamento para esterilização de material cirúrgico",
+      "answer": "ESTUFA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Clara em) Base para doces",
+      "answer": "NEVE",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Tanto",
+      "answer": "TÃO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Sabor picante",
+      "answer": "ARDUME",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "A última e a penúltima vogais",
+      "answer": "UO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Cabo para deslizar",
+      "answer": "TIROLESA",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Guarnecer com folhas delgadas",
+      "answer": "LAMELAR",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Aquele que conta os votos",
+      "answer": "APURADOR",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Quím.) Molibdênio",
+      "answer": "MO",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Dar latidos (o cão)",
+      "answer": "LADRAR",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "(Matem.) Símbolo de limite",
+      "answer": "LIM",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Rio francês, banha Paris",
+      "answer": "SENA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Uma demonstração de alegria",
+      "answer": "RISADA",
+      "row": 8,
+      "col": 5
+    },
+    "31": {
+      "clue": "O violinista e maestro Rieu",
+      "answer": "ANDRE",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Pequena peça que protege o dedo da costureira",
+      "answer": "DEDAL",
+      "row": 9,
+      "col": 6
+    },
+    "34": {
+      "clue": "O oposto de má",
+      "answer": "BOA",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Que está angustiado, cheio de lágrimas",
+      "answer": "CHOROSO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Escuridão",
+      "answer": "PRETURA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Alteração traumática de um tecido",
+      "answer": "LESÃO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Gír.) Embriagado",
+      "answer": "ALTO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Paraíso",
+      "answer": "CEU",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Fazer escassear os mantimentos",
+      "answer": "ESFAIMAR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Osvaldo Cruz (1872-1917), médico e sanitarista",
+      "answer": "OC",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Sacudir, abalar",
+      "answer": "TREMER",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Lado oposto",
+      "answer": "INVES",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O artista Wesley Duke, do movimento \"Realismo Mágico\"",
+      "answer": "LEE",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "O dedo onde se usa a aliança",
+      "answer": "ANULAR",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Tirar do lugar",
+      "answer": "ARREDAR",
+      "row": 2,
+      "col": 5
+    },
+    "18": {
+      "clue": "Magoado, ressentido",
+      "answer": "DOLORIDO",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "Custar para chegar",
+      "answer": "TARDAR",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Irregular, defeituoso",
+      "answer": "ANOMALO",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "A capital de Angola",
+      "answer": "LUANDA",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Cheio, completo",
+      "answer": "PLENO",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "O rei que transformava em ouro tudo o que tocava",
+      "answer": "MIDAS",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Linha de descendência familiar",
+      "answer": "LADO",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Entre Sex e Dom",
+      "answer": "SAB",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Todo ente vivo e animado",
+      "answer": "SER",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Emenda Constitucional",
+      "answer": "EC",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "A cidade cearense onde nasceu Padre Cícero",
+      "answer": "CRATO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Pena de ave, usada como adorno de chapéus, roupa etc.",
+      "answer": "PLUMA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "(Med.) Emissão patológica de sangue pela urina",
+      "answer": "HEMATURIA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Os frutos da parreira",
+      "answer": "UVAS",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "A tendência de quem assistiu a uma cena engraçada",
+      "answer": "RIR",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "O de atleta é uma micose",
+      "answer": "PE",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Enxergar",
+      "answer": "VER",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Diz-se de cheque em que se declara o portador",
+      "answer": "NOMINAL",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Sigla do estado de Colatina e Marataízes",
+      "answer": "ES",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Coluna usada como adorno",
+      "answer": "PILASTRA",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Apoio",
+      "answer": "SUPORTE",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "Ciência que estuda a deformação dos corpos sob a ação de forças exteriores",
+      "answer": "REOLOGIA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Arnaldo Antunes, poeta e músico",
+      "answer": "AA",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "Loucura, demência",
+      "answer": "INSANIA",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Clube de Regatas Flamengo",
+      "answer": "CRF",
+      "row": 7,
+      "col": 8
+    },
+    "26": {
+      "clue": "Abreviatura de Nordeste",
+      "answer": "NE",
+      "row": 8,
+      "col": 0
+    },
+    "27": {
+      "clue": "Dicionário",
+      "answer": "DIC",
+      "row": 8,
+      "col": 3
+    },
+    "28": {
+      "clue": "(Fig.) Homem muito feio",
+      "answer": "BODE",
+      "row": 8,
+      "col": 7
+    },
+    "29": {
+      "clue": "Andar, caminhar",
+      "answer": "LOCOMOVER",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "Mais um",
+      "answer": "OUTRO",
+      "row": 10,
+      "col": 0
+    },
+    "32": {
+      "clue": "O grande mar de areia africano",
+      "answer": "SAARA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "No futebol, passe alto feito sobre a área adversária",
+      "answer": "CHUVEIRINHO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Derrota",
+      "answer": "REVES",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Querer muito bem a",
+      "answer": "AMAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O apresentador de TV Marcelo",
+      "answer": "TAS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O que muda de picar para picotar",
+      "answer": "OT",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Diz-se de uma escola fundamental",
+      "answer": "PRIMARIA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Tocador de instrumento de cordas dedilháveis, muito difundido na antiguidade",
+      "answer": "LIRISTA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Os extremos de... Uberaba",
+      "answer": "UA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Conto de fadas, um clássico da animação de Walt Disney",
+      "answer": "ABELAEAFERA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Do estudo das doenças dos rins, bexiga, próstata etc.",
+      "answer": "UROLOGICO",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Um número que é divisível por dois",
+      "answer": "PAR",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Japonês",
+      "answer": "NIPONICO",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "O fim da... gente",
+      "answer": "NTE",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Saltador",
+      "answer": "PULADOR",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Sigla usada para pedir socorro; significa salvem nossas almas",
+      "answer": "SOS",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "N",
+      "answer": "ENE",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Provocar sensação de queima",
+      "answer": "ARDER",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Abertura que se faz nos cemitérios para enterrar os mortos",
+      "answer": "COVA",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Feminino de bom",
+      "answer": "BOA",
+      "row": 8,
+      "col": 7
+    },
+    "29": {
+      "clue": "Letra do Tesouro",
+      "answer": "LT",
+      "row": 9,
+      "col": 2
+    },
+    "30": {
+      "clue": "Sigla do estado de Dourados e Campo Grande",
+      "answer": "MS",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

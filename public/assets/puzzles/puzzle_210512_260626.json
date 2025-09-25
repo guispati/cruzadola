@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "A cordilheira que se estende da Argentina à Venezuela",
+      "answer": "ANDES",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Transgredir regra religiosa",
+      "answer": "PECAR",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "O Ernesto (1908-1996), presidente do regime militar",
+      "answer": "GEISEL",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "A bala também chamada jujuba",
+      "answer": "GOMA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Sair (de uma praça de guerra)",
+      "answer": "EVACUAR",
+      "row": 2,
+      "col": 0
+    },
+    "16": {
+      "clue": "Música Popular Brasileira",
+      "answer": "MPB",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Coordena os programas espaciais dos EUA",
+      "answer": "NASA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Alegria extrema, grande contentamento",
+      "answer": "JUBILO",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Precede o nome do médico e do advogado",
+      "answer": "DR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Pop.) Muito cansado",
+      "answer": "PREGADO",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "(Pop.) Choradeira, berreiro",
+      "answer": "BUE",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Insumo Farmacêutico Ativo",
+      "answer": "IFA",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "Nascido no país de Sófia",
+      "answer": "BULGARO",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "O da água pura é 7",
+      "answer": "PH",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "O tenista Nadal",
+      "answer": "RAFAEL",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Que não é vulgar, comum",
+      "answer": "RARO",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "A apresentadora de TV Maria Braga",
+      "answer": "ANA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Reorganizar, reconstruir",
+      "answer": "REFAZER",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "Antigo tecido de lã, fino e lustroso",
+      "answer": "LILA",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Animal marinho gelatinoso e transparente",
+      "answer": "MEDUSA",
+      "row": 9,
+      "col": 5
+    },
+    "38": {
+      "clue": "Marinha de guerra",
+      "answer": "FROTA",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Preço",
+      "answer": "VALOR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O caderno onde são anotados os compromissos a serem cumpridos por alguém",
+      "answer": "AGENDA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Cair das nuvens a água congelada, em flocos",
+      "answer": "NEVAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "7 formam uma semana",
+      "answer": "DIAS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Osso também conhecido como omoplata",
+      "answer": "ESCAPULA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Dele",
+      "answer": "SEU",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Eliane Giardini, atriz paulista",
+      "answer": "EG",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Alimento",
+      "answer": "COMIDA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Que ocupa vasto espaço",
+      "answer": "AMPLO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "O de saia é um sinônimo popular para mulher",
+      "answer": "RABO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Pedra de superfície plana",
+      "answer": "LAJE",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Bramir, urrar",
+      "answer": "RUGIR",
+      "row": 2,
+      "col": 6
+    },
+    "19": {
+      "clue": "Expiração de mau hálito",
+      "answer": "BAFORADA",
+      "row": 3,
+      "col": 7
+    },
+    "22": {
+      "clue": "Governar",
+      "answer": "REGER",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "Animal bovino, símbolo de força e robustez",
+      "answer": "BUFALO",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Pechinchar o preço de algo",
+      "answer": "CHORAR",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Expulsar da pátria",
+      "answer": "BANIR",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "(Paraíba) Cidade mineira da divisa com o RJ",
+      "answer": "ALEM",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Encerrado em local fechado",
+      "answer": "PRESO",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "O ex-piloto alemão de F1 Schumacher",
+      "answer": "RALF",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "A cor do céu",
+      "answer": "AZUL",
+      "row": 7,
+      "col": 8
+    },
+    "34": {
+      "clue": "A abreviatura do mês 2",
+      "answer": "FEV",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "Antigo Testamento",
+      "answer": "AT",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

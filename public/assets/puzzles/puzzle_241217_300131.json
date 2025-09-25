@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Fogo) Diz-se de ataque que atinge as próprias tropas",
+      "answer": "AMIGO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "A capital do Tibete",
+      "answer": "LHASA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Auscultador do aparelho telefônico",
+      "answer": "FONE",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Porcentagem de uma substância numa mistura",
+      "answer": "TEOR",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Vender para ser pago posteriormente",
+      "answer": "FIAR",
+      "row": 2,
+      "col": 2
+    },
+    "13": {
+      "clue": "Autômato mecânico",
+      "answer": "ROBO",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Palavra formada pela transposição das letras de outra palavra",
+      "answer": "ANAGRAMA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Interjeição de dor",
+      "answer": "AI",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Pobreza de glóbulos vermelhos",
+      "answer": "ANEMIA",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "(Bull) Cão de grande força",
+      "answer": "PIT",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Forasteiro",
+      "answer": "ESTRANGEIRO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Você",
+      "answer": "OCE",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Não levar consigo",
+      "answer": "DEIXAR",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "A nota musical A",
+      "answer": "LA",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "(O Último dos) Famoso livro de James Fenimore",
+      "answer": "MOICANOS",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Título concedido às religiosas ou freiras",
+      "answer": "IRMÃ",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Pouco espesso",
+      "answer": "RALO",
+      "row": 8,
+      "col": 5
+    },
+    "31": {
+      "clue": "Eliminação de ramos de uma planta",
+      "answer": "PODA",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "A primeira letra do alfabeto grego",
+      "answer": "ALFA",
+      "row": 9,
+      "col": 7
+    },
+    "35": {
+      "clue": "Que tem muita gordura",
+      "answer": "OBESO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Faltar à fé jurada",
+      "answer": "TRAIR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ulceração da mucosa da boca",
+      "answer": "AFTA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Pedra de amolar facas",
+      "answer": "MO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Soldado de unidade treinada para o combate a pé",
+      "answer": "INFANTE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um contador de radiações",
+      "answer": "GEIGER",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Mans) Cidade francesa",
+      "answer": "LE",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Tempo do dia indicado pelo relógio",
+      "answer": "HORA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Argola",
+      "answer": "ARO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Extremamente ansioso",
+      "answer": "AFOITO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Barco usado na pesca da sardinha",
+      "answer": "TRAINEIRA",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Que porta revólver, faca etc.",
+      "answer": "ARMADO",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Uma área como a Tijuca para o Rio de Janeiro",
+      "answer": "BAIRRO",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Categoria de corridas muito popular nos EUA",
+      "answer": "NASCAR",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "A arte do ilusionista",
+      "answer": "MAGICA",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "Um instrumento musical",
+      "answer": "PIANOLA",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Relativo à ação do vento",
+      "answer": "EOLICO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Espalhar odores",
+      "answer": "EXALAR",
+      "row": 5,
+      "col": 7
+    },
+    "26": {
+      "clue": "(Pl.) Domínio, controle",
+      "answer": "MÃOS",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "Gotejar líquido pela pele devido ao calor",
+      "answer": "SUAR",
+      "row": 7,
+      "col": 10
+    },
+    "29": {
+      "clue": "Ministério Público Estadual",
+      "answer": "MPE",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "Pena",
+      "answer": "DO",
+      "row": 9,
+      "col": 4
+    },
+    "34": {
+      "clue": "Frequência Intermediária",
+      "answer": "FI",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

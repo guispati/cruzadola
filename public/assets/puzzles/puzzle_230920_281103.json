@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma fita colante",
+      "answer": "ADESIVA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Confederação Brasileira de Tênis",
+      "answer": "CBT",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Não densa",
+      "answer": "RALA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Pequena flauta de sons estridentes",
+      "answer": "PIFARO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Mulher de cabelo louro-avermelhado",
+      "answer": "RUIVA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Anat.) Cavidade interna que contém ou por onde passa algo",
+      "answer": "SINUS",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "(Lake City) A capital do Utah, nos EUA",
+      "answer": "SALT",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Comunicação oficial ou diplomática, curta e formal",
+      "answer": "NOTA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Que forma dois ângulos",
+      "answer": "BIANGULAR",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Precede Greco no pseudônimo de pintor nascido na ilha de Creta",
+      "answer": "EL",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "O conjunto de peças necessárias à montaria do cavalo",
+      "answer": "ARREIOS",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Megahertz",
+      "answer": "MHZ",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Uma essência para balas e licores",
+      "answer": "ANIS",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "Eliana Pittman, cantora carioca",
+      "answer": "EP",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "Torre francesa",
+      "answer": "EIFFEL",
+      "row": 7,
+      "col": 1
+    },
+    "32": {
+      "clue": "Fundação Nacional de Saúde",
+      "answer": "FNS",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "O músico e compositor mineiro de \"Frisson\"",
+      "answer": "TUNAI",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Ponto situado entre as sobrancelhas",
+      "answer": "OFRIO",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "A namorada do Pateta, da Disney",
+      "answer": "CLARABELA",
+      "row": 9,
+      "col": 2
+    },
+    "38": {
+      "clue": "A extremidade dianteira do navio",
+      "answer": "PROA",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "(Fr.) Queijo de casca embolorada, originário da França",
+      "answer": "BRIE",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Cabo náutico, de vários usos",
+      "answer": "ARREBEM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Departamento de Arquitetura e Urbanismo",
+      "answer": "DAU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um nome de mulher",
+      "answer": "ELISA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A estepe americana e africana",
+      "answer": "SAVANA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Vice-Presidente",
+      "answer": "VP",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Lamúrias",
+      "answer": "AIS",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "De canto, som ou voz agradável",
+      "answer": "CANORO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Fr.) Diz-se de vinho seco",
+      "answer": "BRUT",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Rapar, tosquiar",
+      "answer": "TOSAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "As últimas competições",
+      "answer": "FINAIS",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Processo de impressão que utiliza placas de alumínio",
+      "answer": "ALGRAFIA",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "Viagem de artistas",
+      "answer": "TURNE",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Natural ou morador de uma ilha",
+      "answer": "ILHEU",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Vender por lances",
+      "answer": "LEILOAR",
+      "row": 4,
+      "col": 6
+    },
+    "24": {
+      "clue": "Muito velho, decrépito",
+      "answer": "SENIL",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "O Zn dos químicos",
+      "answer": "ZINCO",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "Músculo que permite a rotação e a flexão da coxa",
+      "answer": "PSOAS",
+      "row": 6,
+      "col": 10
+    },
+    "31": {
+      "clue": "Variedade regional de língua",
+      "answer": "FALA",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "(Ingl.) Grátis",
+      "answer": "FREE",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "Empresa aérea portuguesa",
+      "answer": "TAP",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "A polícia federal dos EUA",
+      "answer": "FBI",
+      "row": 8,
+      "col": 7
+    },
+    "37": {
+      "clue": "Rolando Boldrin (1936-2022), cantor e apresentador de TV",
+      "answer": "RB",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

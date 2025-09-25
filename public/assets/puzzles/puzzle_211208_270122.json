@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Arrancar",
+      "answer": "ARREBATAR",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "O Carlos Prestes, líder comunista (1898-1990)",
+      "answer": "LUIS",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Abrigar em refúgio recôndito ou protegido",
+      "answer": "NINHAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Outro sobrenome do Pero escrivão da esquadra de Pedro Álvares Cabral",
+      "answer": "VAZ",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Elemento de composição: diminuição",
+      "answer": "HIPO",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "T",
+      "answer": "TE",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "(Rel.) Imagem usada como objeto de adoração",
+      "answer": "IDOLO",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "As partes do corpo que os ápodes não possuem",
+      "answer": "PES",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Tornar enxuto",
+      "answer": "SECAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Flor tida como o símbolo da inocência e da pureza",
+      "answer": "LIRIO",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Avião com um só propulsor",
+      "answer": "MONOMOTOR",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Os fios do bigode",
+      "answer": "PELOS",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Lançar rebentos",
+      "answer": "GEMAR",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Muito pequena em relação ao normal",
+      "answer": "ANA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Todo e qualquer ato pessoalmente inaceitável",
+      "answer": "CRIME",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Leila Diniz (1945-1972), atriz de \"Mãos Vazias\"",
+      "answer": "LD",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Peça móvel das caixas de água, que veda a entrada do líquido, quando o espaço interno está cheio",
+      "answer": "BOIA",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "(Abrev.) Síndrome que atinge mulheres durante alguns dias do mês",
+      "answer": "TPM",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Dança folclórica de origem indígena, muito comum no sul de Minas Gerais e no interior de São Paulo",
+      "answer": "CAIAPO",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Um vaso sanguíneo",
+      "answer": "VEIA",
+      "row": 9,
+      "col": 7
+    },
+    "37": {
+      "clue": "(Fig.) Ir de vento em popa",
+      "answer": "PROSPERAR",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O Rodrigues (1848-1919), Presidente da República entre 1902-1906",
+      "answer": "ALVES",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Uma via pública",
+      "answer": "RUA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Referente à cultura do arroz",
+      "answer": "RIZICOLA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A UF de Cachoeiro de Itapemirim e Linhares",
+      "answer": "ES",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Substância azul usada como corante têxtil",
+      "answer": "ANIL",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Conjunto de caracteres utilizados num projeto gráfico",
+      "answer": "TIPOLOGIA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "No de 1822 foi declarada a independência do Brasil",
+      "answer": "ANO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Rodrigo Hilbert, modelo e apresentador",
+      "answer": "RH",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Recluso em cadeia",
+      "answer": "PRESO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Árvore de frutos comestíveis e saborosos",
+      "answer": "ATEIRA",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Previsão astrológica",
+      "answer": "HOROSCOPO",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "Perda",
+      "answer": "DANO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Comprometer-se a dar ou fazer",
+      "answer": "PROMETER",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Correção de um erro",
+      "answer": "EMENDA",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Tópico",
+      "answer": "ITEM",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "(Fig.) O teatro",
+      "answer": "PALCO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Pôr a embarcação na rota desejada",
+      "answer": "RUMAR",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "O Jequitinhonha e o das Velhas cortam MG",
+      "answer": "RIOS",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "Móvel para bebidas alcoólicas",
+      "answer": "BAR",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Local apropriado para se lavar pratos, copos e talheres",
+      "answer": "PIA",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "Inquérito Policial",
+      "answer": "IP",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Antecede o dáblio",
+      "answer": "VE",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "A aba do boné",
+      "answer": "PALA",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "Outro nome do gergelim",
+      "answer": "SESAMO",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Nascidas na Holanda ou na Croácia",
+      "answer": "EUROPEIAS",
+      "row": 1,
+      "col": 2
+    },
+    "12": {
+      "clue": "Um antônimo de ralé",
+      "answer": "ELITE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Sigla, em latim, da locução \"Jesus Nazareno Rei dos Judeus\", inscrição da cruz",
+      "answer": "INRI",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Enrugado",
+      "answer": "RUGOSO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Dissertação escrita ou oral",
+      "answer": "TESE",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Época de acasalamento de animais",
+      "answer": "CIO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Uma grande nação de índios brasileiros",
+      "answer": "TUPIS",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "As iniciais da cantora baiana Sangalo",
+      "answer": "IS",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Cravar os olhos em",
+      "answer": "FITAR",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Shirley Temple (1828-2014), atriz",
+      "answer": "ST",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "(Fig.) Diz-se de som nítido, puro, cristalino",
+      "answer": "CLARO",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "O oposto de bom",
+      "answer": "MAU",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "(Pop.) Consequência de uma pancada na cabeça",
+      "answer": "GALO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Animal andino semelhante ao lhama",
+      "answer": "ALPACA",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "O Harrison ator de \"Apocalypse Now\"",
+      "answer": "FORD",
+      "row": 8,
+      "col": 1
+    },
+    "33": {
+      "clue": "Combinar, misturar",
+      "answer": "LIGAR",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Cidade da Mata Meridional, no litoral Sul de PE",
+      "answer": "SIRINHAEM",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Obsceno",
+      "answer": "IMORAL",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Um extremo de cães e gatos",
+      "answer": "RABO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Ingl.) Adorno de metal colocado no corpo por perfuração",
+      "answer": "PIERCING",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Não eclesíastico",
+      "answer": "LEIGO",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Determinação judicial",
+      "answer": "AUTO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Único",
+      "answer": "SO",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "Equipamento de Proteção Individual",
+      "answer": "EPI",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Provar alguma coisa no íntimo",
+      "answer": "SENTIR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Buenos) A capital argentina",
+      "answer": "AIRES",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Sinal de adição",
+      "answer": "MAIS",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O símbolo do elemento químico ósmio",
+      "answer": "OS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Trançado de alhos",
+      "answer": "RESTIA",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "O cineasta espanhol Buñuel (1900-1983), de \"A Bela da Tarde\"",
+      "answer": "LUIS",
+      "row": 2,
+      "col": 1
+    },
+    "16": {
+      "clue": "Nem esta nem aquela",
+      "answer": "OUTRA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Braço de mar em rio",
+      "answer": "ESTUARIO",
+      "row": 3,
+      "col": 10
+    },
+    "21": {
+      "clue": "A Oliveira atriz",
+      "answer": "PAOLLA",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Dar flor",
+      "answer": "FLORIR",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Unidade comercial para o café",
+      "answer": "SACA",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Substância usada no tratamento de águas de piscinas",
+      "answer": "CLORO",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Substância que sai do vulcão",
+      "answer": "MAGMA",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Contíguo",
+      "answer": "AFIM",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Cais",
+      "answer": "PIER",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Teste genético",
+      "answer": "DNA",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "(Mús.) A última nota",
+      "answer": "SI",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Abrev.) Hectolitro",
+      "answer": "HL",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

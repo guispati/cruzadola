@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O órgão que cuida da proteção e amparo ao índio",
+      "answer": "FUNAI",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Vidas) Obra-prima de Graciliano Ramos",
+      "answer": "SECAS",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Instinto de ratos",
+      "answer": "ROER",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Felídeo carnívoro, marrom claro",
+      "answer": "PUMA",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Tornar fanhoso um som",
+      "answer": "NASALIZAR",
+      "row": 2,
+      "col": 2
+    },
+    "16": {
+      "clue": "Erva muito usada para aromatizar pizzas",
+      "answer": "OREGANO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "(Fig.) Inexperiente, incipiente",
+      "answer": "CRU",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Diz-se da substância cujo óleo pode ser extraído por meio de pressão",
+      "answer": "EMULSIVO",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Paula Toller, cantora",
+      "answer": "PT",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Neste instante",
+      "answer": "AGORA",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Projeto de Lei",
+      "answer": "PL",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Palmeira tropical que fornece fibra vegetal homônima",
+      "answer": "RAFIA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Astron.) A estrela mais brilhante de uma constelação",
+      "answer": "ALFA",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "Barra",
+      "answer": "ORLA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "A cantora Regina (1945-1982)",
+      "answer": "ELIS",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "O músico Lobo, da bossa nova",
+      "answer": "EDU",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Uma degeneração renal",
+      "answer": "NEFROSE",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "Doença infecciosa dos animais transmissível ao homem",
+      "answer": "ZOONOSE",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Seita budista contemplativa japonesa",
+      "answer": "ZEN",
+      "row": 9,
+      "col": 8
+    },
+    "38": {
+      "clue": "Insurreto, rebelde",
+      "answer": "REVOLTOSO",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um antônimo de quente",
+      "answer": "FRIO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Econ.) Unidade Orçamentária",
+      "answer": "UO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Criancinha de colo",
+      "answer": "NENEM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um grande rio brasileiro",
+      "answer": "ARAGUAIA",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "Equipamentos que protegem o operário",
+      "answer": "EPI",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Cidade peruana com diversas ruínas do incas",
+      "answer": "CUZCO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Sentir grande paixão por alguém",
+      "answer": "AMAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Moda) Calça com o gancho bem baixo",
+      "answer": "SARUEL",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Ave criada no mundo inteiro por sua carne, ovos e penas",
+      "answer": "GANSO",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Ato de temperar com sal peixe ou carne",
+      "answer": "SALGA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "(Pop.) Cerveja",
+      "answer": "LOIRA",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Morosidade",
+      "answer": "RETARDO",
+      "row": 3,
+      "col": 1
+    },
+    "20": {
+      "clue": "Ter o valor de",
+      "answer": "VALER",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Ato de grande coragem",
+      "answer": "PROEZA",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Baixos) Holanda",
+      "answer": "PAISES",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "O F dos químicos",
+      "answer": "FLUOR",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "(Pop.) Exageradamente delicado",
+      "answer": "FLOZO",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "O da tonelada é de 1.000 kg",
+      "answer": "PESO",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "Sen em trigonometria",
+      "answer": "SENO",
+      "row": 7,
+      "col": 10
+    },
+    "33": {
+      "clue": "Segue Out",
+      "answer": "NOV",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "Líquido segregado pelo fígado",
+      "answer": "FEL",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "A região de Recife e Teresina",
+      "answer": "NE",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

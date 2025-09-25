@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma grande cidade-Estado da antiga Mesopotâmia",
+      "answer": "BABILONIA",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Falecimento",
+      "answer": "OBITO",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "Opção de resposta em provas",
+      "answer": "NDA",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "Conjunção de alternância: ou, ou",
+      "answer": "NEM",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "A criptomoeda mais famosa",
+      "answer": "BITCOIN",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Departamento Médico",
+      "answer": "DM",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "De uma cidade fluminense próxima a Cabo Frio",
+      "answer": "MACAENSE",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Instrumento musical de teclado",
+      "answer": "PIANO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Bofetada",
+      "answer": "BIFA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Instrumento de percussão tocado com os dedos",
+      "answer": "BONGO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Jardim de jabuticabeiras, limoeiros etc.",
+      "answer": "POMAR",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Até certo ponto",
+      "answer": "ALGO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Artigo de bijuteira ou joalharia",
+      "answer": "COLAR",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "(Pop.) Suborno que se dá para alguém para impedir reclamações, denúncias etc.",
+      "answer": "CALABOCA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Precede o dê",
+      "answer": "CE",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Peça usada como enfeite",
+      "answer": "ADEREÇO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Segue Dom",
+      "answer": "SEG",
+      "row": 8,
+      "col": 8
+    },
+    "31": {
+      "clue": "Segue ele",
+      "answer": "NOS",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Jogada, nos desportos",
+      "answer": "LANCE",
+      "row": 9,
+      "col": 4
+    },
+    "34": {
+      "clue": "Comportamento exterior",
+      "answer": "APARENCIA",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(James) O agente 007, da série de filmes de aventura",
+      "answer": "BOND",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Que atende ao desejado",
+      "answer": "BOM",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Inesita Barroso, cantora",
+      "answer": "IB",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "A nação de Beirute",
+      "answer": "LIBANO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Da visão",
+      "answer": "OTICO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Observação no final de um texto",
+      "answer": "NOTA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O A da sigla SA",
+      "answer": "ANONIMA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Remediar",
+      "answer": "SANEAR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Fantasia, máscara",
+      "answer": "DISFARCE",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Muito cheio de si",
+      "answer": "EMPOLADO",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Um alimento muito usado",
+      "answer": "CEBOLA",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Causar tristeza",
+      "answer": "MAGOAR",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Nascida em Manchester ou Nottingham",
+      "answer": "INGLESA",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "(Pop.) Bonito, interessante",
+      "answer": "BACANA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Cidade mato-grossense, entrada para o Pantanal Norte",
+      "answer": "POCONE",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Raspar (o corpo) com as unhas",
+      "answer": "COÇAR",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "A Adormecida das histórias infantis",
+      "answer": "BELA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Um equino",
+      "answer": "EGUA",
+      "row": 7,
+      "col": 10
+    },
+    "30": {
+      "clue": "(Matem.) Secante",
+      "answer": "SEC",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Chuck Norris, ator de \"Comando Delta\"",
+      "answer": "CN",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

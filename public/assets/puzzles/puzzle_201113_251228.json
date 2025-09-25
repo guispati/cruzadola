@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Pop.) Ficar muito bravo",
+      "answer": "CUSPIRFOGO",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Muito fanático",
+      "answer": "MANIACO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Rubem Fonseca (1925-2020), escritor mineiro de \"O Seminarista\"",
+      "answer": "RF",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Zn",
+      "answer": "ZINCO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Preto e branco",
+      "answer": "PB",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "A model é a que desfila no mundo da alta moda",
+      "answer": "TOP",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Pal. ingl.) Embarcação fretada para passeio ou viagem",
+      "answer": "CHARTER",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Um peixe que parece voar na água",
+      "answer": "ARRAIA",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Fig.) Círculo de pessoas",
+      "answer": "RODA",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Incrustação para restauração de um dente",
+      "answer": "BLOCO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Estruturas que envolvem os pássaros",
+      "answer": "PENAS",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "A parte do corpo com que a vaca espanta as moscas",
+      "answer": "RABO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Doutrina o oposto dos dogmas da igreja",
+      "answer": "HEREGE",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Fora da regra comum",
+      "answer": "ANORMAL",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Quando cheia, ilumina a noite",
+      "answer": "LUA",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "O sódio, para os químicos",
+      "answer": "NA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Duvidoso, incerto",
+      "answer": "DUBIO",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Antonín Dvorák (1841-1904), compositor tcheco",
+      "answer": "AD",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Intransigente quanto ao modo de ver um assunto",
+      "answer": "RADICAL",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Antigo instrumento para determinar a posição do Sol e das estrelas",
+      "answer": "ASTROLABIO",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Fig.) Locução que designa a autorização dada a alguém para fazer o que achar mais conveniente",
+      "answer": "CARTABRANCA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "As iniciais do ator Selton, de \"Mulher Invisível\"",
+      "answer": "SM",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "O contrário da guerra",
+      "answer": "PAZ",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Princípio, começo",
+      "answer": "INICIO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Briga de galos",
+      "answer": "RINHA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O talher usado para cortar",
+      "answer": "FACA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Aparecer",
+      "answer": "OCORRER",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "A UF onde fica o DF",
+      "answer": "GO",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Muito quente",
+      "answer": "ABRASEADO",
+      "row": 1,
+      "col": 10
+    },
+    "12": {
+      "clue": "Uma dança antiga da região de Veneza",
+      "answer": "FORLANA",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Aguaceiro",
+      "answer": "PEDAGUA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Bom, honesto, moralmente irrepreensível",
+      "answer": "PROBO",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Barril grande, para guardar vinho e cerveja, com 840 litros",
+      "answer": "TONEL",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Despertar",
+      "answer": "ACORDAR",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Matéria-prima para de luvas e calçados",
+      "answer": "PELICA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Que tem a mestria de uma arte",
+      "answer": "HABIL",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Que não se expressa por palavras",
+      "answer": "MUDO",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Ordem de advogados",
+      "answer": "OAB",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Responsável Técnico",
+      "answer": "RT",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "A diferença entre avio e alívio",
+      "answer": "LI",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

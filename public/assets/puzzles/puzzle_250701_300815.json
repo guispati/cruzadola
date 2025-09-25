@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Concentrado em seus pensamentos",
+      "answer": "ABSORTO",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "300, em romanos",
+      "answer": "CCC",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Abstenção em massa do trabalho",
+      "answer": "GREVE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Uma batata",
+      "answer": "BAROA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Faísca elétrica que ocorre nas tempestades",
+      "answer": "RAIO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Em + um (pl.)",
+      "answer": "NUNS",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "(Falou Zaratustra) Uma obra do filósofo Friedrich Nietzsche",
+      "answer": "ASSIM",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "12",
+      "answer": "DUZIA",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "(Abrev.) Diretório Acadêmico",
+      "answer": "DA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Sem vigor físico",
+      "answer": "DEBIL",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Cloro, elemento químico",
+      "answer": "CL",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Picada de marimbondos",
+      "answer": "FERROADA",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "A direção oposta ao Norte",
+      "answer": "SUL",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Crime contra a boa-fé",
+      "answer": "LOGRO",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "Um estilo decorativo muito enfeitado",
+      "answer": "ROCOCO",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Segue tu (fem.)",
+      "answer": "ELA",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Lista de falhas e correções de um livro",
+      "answer": "ERRATA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "O slick é próprio para corridas em piso seco",
+      "answer": "PNEU",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Advérbio que exprime cessação ou limite, quando acompanhado de negação",
+      "answer": "MAIS",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Criar leite ou suco leitoso",
+      "answer": "LEITAR",
+      "row": 9,
+      "col": 5
+    },
+    "37": {
+      "clue": "Não acertar a resposta",
+      "answer": "ERRAR",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Um dos miúdos das aves",
+      "answer": "MOELA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Carinhos, afagos",
+      "answer": "AGRADOS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Carvão aceso, usado na churrasqueira",
+      "answer": "BRASA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A quantidade de atletas de uma equipe de vôlei durante o jogo",
+      "answer": "SEIS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Como um ovo",
+      "answer": "OVOIDE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A marcha que leva os carros para trás",
+      "answer": "RE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Olívia Byington, cantora carioca",
+      "answer": "OB",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Rel.) Instrumento em que Jesus Cristo sofreu seu martírio",
+      "answer": "CRUZ",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Na forma de funil (fem.)",
+      "answer": "CONICA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Duas pessoas que vivem em relação íntima",
+      "answer": "CASAL",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Relativo a qualquer objeto, órgão, linha ou figura de forma circular ou de aro",
+      "answer": "ANULAR",
+      "row": 1,
+      "col": 7
+    },
+    "16": {
+      "clue": "Uma uva para vinhos",
+      "answer": "MERLOT",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "O ator Vilela",
+      "answer": "DIOGO",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "Pequenas peças brilhantes usadas em fantasias",
+      "answer": "BROCAL",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Desabrochar",
+      "answer": "FLORIR",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "(Pop.) Apaixonado, louco",
+      "answer": "DOENTE",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "Bramir",
+      "answer": "URRAR",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Muito pavor",
+      "answer": "PAURA",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "A de campo é uma habitação para lazer e descanso",
+      "answer": "CASA",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "Sincero",
+      "answer": "LEAL",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "M",
+      "answer": "EME",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Voz dos pássaros",
+      "answer": "PIO",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "Preposição de lugar",
+      "answer": "EM",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

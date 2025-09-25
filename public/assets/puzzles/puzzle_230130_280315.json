@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "Buraco na terra, para plantar árvores",
+      "answer": "COVA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Pulsos",
+      "answer": "PUNHOS",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "(Fig.) Carente de energia",
+      "answer": "INERTE",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Modelo",
+      "answer": "TIPO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Espécie de lírio branco",
+      "answer": "AÇUCENA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Companheiro de dança",
+      "answer": "PAR",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Narcóticos Anônimos",
+      "answer": "NA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Cidade paulista próxima a Limeira",
+      "answer": "ARARAS",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Indivíduo que sofre de um defeito de pronúncia",
+      "answer": "DISLALICO",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Fluido viscoso dos tecidos de revestimento de animais",
+      "answer": "MUCO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Homem bonito, elegante, namorador",
+      "answer": "GALÃ",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Num triângulo retângulo, razão entre o cateto oposto e a hipotenusa",
+      "answer": "SENO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Terra do) Região no extremo sul da América do Sul",
+      "answer": "FOGO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Líquido que indica infecção",
+      "answer": "PUS",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Colina de areia",
+      "answer": "DUNA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "O símbolo do ferro",
+      "answer": "FE",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "As iniciais do músico carioca Lulu",
+      "answer": "LS",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Excluir do testamento",
+      "answer": "DESERDAR",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Ciúmes",
+      "answer": "ZELOS",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "A férrea é um caminho para trens",
+      "answer": "VIA",
+      "row": 9,
+      "col": 8
+    },
+    "34": {
+      "clue": "13",
+      "answer": "TREZE",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Amolar uma faca",
+      "answer": "AFIAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Uma das cores básicas para impressão de cromia",
+      "answer": "CIANO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Felino de até 160 Kg",
+      "answer": "ONÇA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Tecido para vestidos de casamento",
+      "answer": "VEU",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Obsoleto",
+      "answer": "ARCAICO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Pop.) Pênalti",
+      "answer": "PENAL",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Novo Testamento",
+      "answer": "NT",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Var.) Y",
+      "answer": "HIPSILO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Gír.) Bebedeira",
+      "answer": "OPA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Planta cujas folhas servem de forragem",
+      "answer": "SORGO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Sem mancha",
+      "answer": "TERSO",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Casta de uva preta",
+      "answer": "ARAGONESA",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "Transbordar",
+      "answer": "ALAGAR",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "De + um (pl.)",
+      "answer": "DUNS",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Um fio de cabelo embranquecido",
+      "answer": "CÃ",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "A minha família",
+      "answer": "MEUS",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "(Banana) Uma sobremesa com sorvete, frutas, castanhas etc.",
+      "answer": "SPLIT",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Peça na qual a corda do relógio se enrola",
+      "answer": "FUSO",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Dar vida a um próprio semelhante",
+      "answer": "GERAR",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Pertencente àquele homem",
+      "answer": "DELE",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Outro nome da árvore cipreste",
+      "answer": "FAIA",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "(Rel.) O número dos mandamentos",
+      "answer": "DEZ",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "506, em algarismos romanos",
+      "answer": "DVI",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "O Carioca, personagem das HQs",
+      "answer": "ZE",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

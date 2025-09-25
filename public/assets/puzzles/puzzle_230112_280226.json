@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Desenvolvimento de algo no tempo",
+      "answer": "CURSO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Planta muito usada como substrato no cultivo de orquídeas",
+      "answer": "XAXIM",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Papa de fubá cozido",
+      "answer": "ANGU",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Rodeio",
+      "answer": "GIRO",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "O cantor e compositor Borges, de \"Feira Moderna\"",
+      "answer": "LO",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "Notícia, aviso enviados de viva voz ou por escrito",
+      "answer": "MENSAGEM",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Grande camarão de água doce",
+      "answer": "PITU",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Planta cultivada em cercados e em topiaria",
+      "answer": "BUXO",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Lombo (de porco ou de carneiro)",
+      "answer": "CARRE",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Tratar com carinhos excessivos, satisfazendo caprichos",
+      "answer": "MIMAR",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "(Alter) Substituto perfeito",
+      "answer": "EGO",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Em competições de natação, cada divisão de uma piscina",
+      "answer": "RAIA",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Uai!",
+      "answer": "UE",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "A capital de um país europeu banhado pelo mar Egeu",
+      "answer": "ATENAS",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "O escritor inglês Eliot (1888-1965), Nobel de 1948",
+      "answer": "TS",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Marinha de guerra",
+      "answer": "FROTA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Zombaria tomada ao telefone, sem identificação de quem chama",
+      "answer": "TROTE",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "A mais moderna é a biométrica",
+      "answer": "URNA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Sugerir, aconselhar como útil, oportuno",
+      "answer": "PROPOR",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "A UF de Pirenópolis e Anápolis",
+      "answer": "GO",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Bandido do mar",
+      "answer": "PIRATA",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "Milícia montada",
+      "answer": "CAVALARIA",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Taça para licores",
+      "answer": "CALICE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Carro da Fiat",
+      "answer": "UNO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "As iniciais do ator paulista Gianecchini",
+      "answer": "RG",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Desaparecer, perder",
+      "answer": "SUMIR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Sinal de multiplicação",
+      "answer": "XIS",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "(Saudita) Nação cuja capital é Riad",
+      "answer": "ARABIA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Chefe militar japonês (século XIX)",
+      "answer": "XOGUM",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Rio que se junta ao Beni para formar o Madeira, na região Norte",
+      "answer": "MAMORE",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Grande antílope de chifres parecidos com os dos bois",
+      "answer": "GNU",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Para sempre (fem.)",
+      "answer": "ETERNA",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Muito cansado",
+      "answer": "EXAUSTO",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Partícula que constitui o núcleo do átomo",
+      "answer": "PROTON",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "(Pop.) Ação de namorar de forma sensual, com beijos, abraços e carícias",
+      "answer": "AGARRO",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "A poetisa chilena Gabriela (1889-1957), prêmio Nobel de Literatura, em 1945",
+      "answer": "MISTRAL",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "American Airlines",
+      "answer": "AA",
+      "row": 5,
+      "col": 5
+    },
+    "25": {
+      "clue": "Percurso entre uma e outra parada",
+      "answer": "ETAPA",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Aceitar",
+      "answer": "TOPAR",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Ato de escapar precipitadamente de perigo, pessoa ou coisa ameaçadora",
+      "answer": "FUGA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Trajeto",
+      "answer": "ROTA",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "(-cidreira) Outro nome da melissa",
+      "answer": "ERVA",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "Antepõe-se a chuchu quando se deseja expressar grande quantidade",
+      "answer": "PRA",
+      "row": 8,
+      "col": 5
+    },
+    "35": {
+      "clue": "4, em romanos",
+      "answer": "IV",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

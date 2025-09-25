@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Desfazer uma intriga",
+      "answer": "DESTRAMAR",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Passamento",
+      "answer": "OBITO",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "A sigla da doença Esclerose Lateral Amiotrófica",
+      "answer": "ELA",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "Conjunção: e não",
+      "answer": "NEM",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Pôr lado a lado",
+      "answer": "COLOCAR",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Departamento Social",
+      "answer": "DS",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Árvore pequena, de flores brancas",
+      "answer": "CABELUDA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Estado dos EUA, com capital Salt Lake City",
+      "answer": "UTAH",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Remarcar um compromisso para outra ocasião",
+      "answer": "ADIAR",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "O M de MG",
+      "answer": "MINAS",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Elevações marítimas",
+      "answer": "ONDAS",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Ornamento usado como símbolo de nobreza",
+      "answer": "COROA",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "A Flor tinha dois maridos, na obra de Jorge Amado",
+      "answer": "DONA",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Peça que se apõe na cavalgadura, para pendurar carga",
+      "answer": "CANGALHA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Tálio, elemento químico",
+      "answer": "TL",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Rancoroso",
+      "answer": "ODIENTO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Segue Jan e antecede Mar",
+      "answer": "FEV",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Matiz de cor",
+      "answer": "TOM",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Pop.) Doido, louco",
+      "answer": "TANTÃ",
+      "row": 9,
+      "col": 4
+    },
+    "36": {
+      "clue": "Especialista em urticária e dermatite atópica",
+      "answer": "ALERGISTA",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Bala que se estilhaça ao atingir o alvo",
+      "answer": "DUNDUM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Onda captada pela audição",
+      "answer": "SOM",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Tim Burton, cineasta de \"Alice no País das Maravilhas\"",
+      "answer": "TB",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "(Costa) O país de San José",
+      "answer": "RICA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Ave também chamada mergulhão",
+      "answer": "ATOBA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Pedra grande",
+      "answer": "MOLEDO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Que se mantém afastado",
+      "answer": "RECUADO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Pessoa que tem o mesmo nome que outra",
+      "answer": "XARA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Cão que late muito",
+      "answer": "LADRANTE",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Retesado",
+      "answer": "ESTICADO",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Cidade histórica pernambucana",
+      "answer": "OLINDA",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Um tipo de cartum",
+      "answer": "CHARGE",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "O á do S.A.",
+      "answer": "ANONIMA",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Que produz som",
+      "answer": "SOANTE",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Folha usada para temperar carnes",
+      "answer": "SALVIA",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Mesa para celebração da missa",
+      "answer": "ALTAR",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Em matemática, o símbolo da função trigonométrica cotangente",
+      "answer": "COTG",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Kong) Território asiático, motivo de disputa pela China",
+      "answer": "HONG",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Tietes",
+      "answer": "FÃS",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "Uma variação de tu",
+      "answer": "TI",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

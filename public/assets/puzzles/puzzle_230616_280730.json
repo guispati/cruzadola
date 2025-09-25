@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Jogo esportivo de grande destaque",
+      "answer": "DERBI",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Uma parte do osso ilíaco",
+      "answer": "PUBIS",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "(Fr.) Roupa íntima feminina",
+      "answer": "LINGERIE",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Sem sem e",
+      "answer": "SM",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Ingl.) Calção esportivo",
+      "answer": "SHORTS",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Dar nascimento a filhos",
+      "answer": "TER",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Fig.) Abrandar",
+      "answer": "AMAINAR",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Discípulo",
+      "answer": "ADEPTO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Anat.) O início do intestino grosso",
+      "answer": "CECO",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "A milionésima parte do metro",
+      "answer": "MICRO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Lugar de siameses e persas",
+      "answer": "GATIL",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "(João do) Ex-recordista mundial de salto triplo (1954-1999)",
+      "answer": "PULO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Da cor da amora",
+      "answer": "MORADO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Adestrar",
+      "answer": "AMANSAR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "O dia entre Dom e Ter",
+      "answer": "SEG",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Engenho de moer",
+      "answer": "MOENDA",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "Zona do Interior",
+      "answer": "ZI",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Roupa que as mulheres usam para dormir",
+      "answer": "CAMISOLA",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "A religiosa de Calcutá, Nobel da Paz de 1979",
+      "answer": "TERESA",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "O da Compadecida é uma obra de Ariano Suassuna",
+      "answer": "AUTO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Tirar a tampa",
+      "answer": "DESTAMPAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "As iniciais da cantora Lee",
+      "answer": "RL",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Pedido de repetição de uma música",
+      "answer": "BIS",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Que tem queixo curto",
+      "answer": "INHATO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "A atriz carioca Marília, de \"Pixote\"",
+      "answer": "PERA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Produzir determinada irritação epidérmica em",
+      "answer": "URTICAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "As filhas do filho do filho",
+      "answer": "BISNETAS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Abreviatura de isto é",
+      "answer": "IE",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Divisão da polpa da mexerica",
+      "answer": "GOMO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Um espírita",
+      "answer": "MEDIUM",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Do estudo das doenças dos rins, bexiga etc.",
+      "answer": "UROLOGICO",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Protestar contra ato considerado injusto",
+      "answer": "RECLAMAR",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Distúrbio gástrico",
+      "answer": "ACIDEZ",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "(Gram.) Pode ser demonstrativo",
+      "answer": "PRONOME",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Não magro",
+      "answer": "GORDO",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "(Barra) Importante cidade fluminense",
+      "answer": "MANSA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "O ponto máximo em um dado",
+      "answer": "SEIS",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "No islamismo, a designação de Deus",
+      "answer": "ALA",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "A segunda consoante",
+      "answer": "CE",
+      "row": 9,
+      "col": 1
+    },
+    "33": {
+      "clue": "Som de latido de cachorro nas HQs",
+      "answer": "AU",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

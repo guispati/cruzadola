@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "As iniciais do ator Castro",
+      "answer": "CC",
+      "row": 0,
+      "col": 0
+    },
+    "3": {
+      "clue": "(Fam.) Descuido, vacilo",
+      "answer": "BOBEADA",
+      "row": 0,
+      "col": 3
+    },
+    "9": {
+      "clue": "Próprio da cidade",
+      "answer": "URBANO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Sem rugas (fem.)",
+      "answer": "LISA",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "O pentacampeão argentino de F1 Manuel Fangio (1911-1995)",
+      "answer": "JUAN",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O Jeca personagem de Monteiro Lobato",
+      "answer": "TATU",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Tira de tecido, pregueada ou franzida, com a qual se guarnecem vestidos e saias etc.",
+      "answer": "BABADO",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "1/4 de XXIV",
+      "answer": "VI",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Nocivo, prejudicial",
+      "answer": "DANOSO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "(Jur.) Imóvel, móvel, direito, ação etc., suscetível de uma apropriação legal",
+      "answer": "BEM",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Remexer (coisas)",
+      "answer": "FUÇAR",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Plaqueta furada, serve para distribuir a pressão do aperto do parafuso em maior",
+      "answer": "RUELA",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Interjeição que indica admiração",
+      "answer": "UAU",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Diz-se de faixa de idade",
+      "answer": "ETARIA",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "Sigla do estado de Viamão",
+      "answer": "RS",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Dizer como foi",
+      "answer": "NARRAR",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Fruto de sabor amargo e propriedades estomáquicas",
+      "answer": "JILO",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "Erva cultivada como forragem e alimento",
+      "answer": "NABO",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Uma capital asiática",
+      "answer": "SEUL",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Uma fibra têxtil",
+      "answer": "NAILON",
+      "row": 9,
+      "col": 5
+    },
+    "37": {
+      "clue": "Que não tem cheiro",
+      "answer": "INODORO",
+      "row": 10,
+      "col": 1
+    },
+    "38": {
+      "clue": "A roda de pedra que afia lâminas",
+      "answer": "MO",
+      "row": 10,
+      "col": 9
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Do qual",
+      "answer": "CUJO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Sem cozimento",
+      "answer": "CRU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Fruta de casca amarela, usada por desportistas como repositor de energia",
+      "answer": "BANANA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "(Econ.) Ordinária Nominativa",
+      "answer": "ON",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(O Gato de) História infantil",
+      "answer": "BOTAS",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Gír.) Embriagado",
+      "answer": "ALTO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Evita bebês",
+      "answer": "DIU",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O 1 de muitos jogos de cartas",
+      "answer": "AS",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Espécie de palmeira, de semente oleaginosa",
+      "answer": "BABAÇU",
+      "row": 1,
+      "col": 2
+    },
+    "12": {
+      "clue": "Num ponto superior",
+      "answer": "ACIMA",
+      "row": 1,
+      "col": 10
+    },
+    "15": {
+      "clue": "Amar com devoção",
+      "answer": "ADORAR",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Diz-se de uma aurora do polo norte",
+      "answer": "BOREAL",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "A peça que se acende sobre os bolos de aniversário",
+      "answer": "VELA",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "O feminino de dois",
+      "answer": "DUAS",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Aba do telhado",
+      "answer": "BEIRAL",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Uma característica da peneira",
+      "answer": "FUROS",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Quím.) O U",
+      "answer": "URANIO",
+      "row": 5,
+      "col": 7
+    },
+    "26": {
+      "clue": "Um símbolo da realeza",
+      "answer": "TRONO",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Um dos maiores rios do mundo",
+      "answer": "NILO",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "Vontade de dormir",
+      "answer": "SONO",
+      "row": 7,
+      "col": 10
+    },
+    "30": {
+      "clue": "Abreviatura do nome do mês 6",
+      "answer": "JUN",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "Que pratica o bem",
+      "answer": "BOM",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "Interjeição de chamamento",
+      "answer": "EI",
+      "row": 9,
+      "col": 1
+    },
+    "36": {
+      "clue": "O condicionado refresca o ambiente",
+      "answer": "AR",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

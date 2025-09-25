@@ -1,0 +1,240 @@
+{
+  "across": {
+    "2": {
+      "clue": "Pequena flauta de som agudo",
+      "answer": "FLAUTIM",
+      "row": 0,
+      "col": 4
+    },
+    "8": {
+      "clue": "Ele, em Nova York",
+      "answer": "HE",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Marca francesa de automóveis",
+      "answer": "PEUGEOT",
+      "row": 1,
+      "col": 3
+    },
+    "11": {
+      "clue": "Pisar o solo inimigo",
+      "answer": "INVADIR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Uma vistosa parte da planta",
+      "answer": "FLOR",
+      "row": 3,
+      "col": 0
+    },
+    "14": {
+      "clue": "Repouso após o almoço",
+      "answer": "SESTA",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Quadrúpedes abatidos para a alimentação do homem",
+      "answer": "RESES",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Garganta",
+      "answer": "GOELA",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Abreviatura de avenida",
+      "answer": "AV",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Emissora de televisão",
+      "answer": "CANAL",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "As iniciais do poeta e crítico de arte Gullar",
+      "answer": "FG",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Um esporte radical",
+      "answer": "RAPEL",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Estriar",
+      "answer": "RAJAR",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "Do campo",
+      "answer": "RURAL",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Indivíduo que faz as vezes de curandeiro",
+      "answer": "PAJE",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Os algarismos I, V, X, L, C, D e M",
+      "answer": "ROMANOS",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Compor uma canção",
+      "answer": "MUSICAR",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "As iniciais do músico Teixeira, de \"Romaria\"",
+      "answer": "RT",
+      "row": 9,
+      "col": 9
+    },
+    "36": {
+      "clue": "Conjunto de pessoas que trabalham num estabelecimento",
+      "answer": "PESSOAL",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Pop.) Trair",
+      "answer": "CHIFRAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Abrev.: Federal",
+      "answer": "FED",
+      "row": 0,
+      "col": 4
+    },
+    "3": {
+      "clue": "O Fernando Veríssimo escritor gaúcho",
+      "answer": "LUIS",
+      "row": 0,
+      "col": 5
+    },
+    "4": {
+      "clue": "Reunir, juntar",
+      "answer": "AGREGAR",
+      "row": 0,
+      "col": 6
+    },
+    "5": {
+      "clue": "Uai!",
+      "answer": "UE",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "Ato de propor um brinde em homenagem a alguém",
+      "answer": "TOSTE",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Carisma, charme",
+      "answer": "IT",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Arrebatar, causar êxtase",
+      "answer": "ENLEVAR",
+      "row": 1,
+      "col": 1
+    },
+    "10": {
+      "clue": "Ter semelhança",
+      "answer": "PARECER",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Pronome da segunda pessoa do plural",
+      "answer": "VOS",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Ocultar com malícia e cautela a verdade ou a intenção",
+      "answer": "SOLAPAR",
+      "row": 3,
+      "col": 7
+    },
+    "16": {
+      "clue": "Tradicional doce dos países ibero-americanos",
+      "answer": "ALFAJOR",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Recompensa por serviços prestados",
+      "answer": "SALARIO",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Zona do Nordeste do Brasil, entre a mata e a caatinga",
+      "answer": "AGRESTE",
+      "row": 4,
+      "col": 10
+    },
+    "25": {
+      "clue": "Um grande afluente do rio Amazonas",
+      "answer": "PURUS",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Segue Dez e precede Fev",
+      "answer": "JAN",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Gruta pequena",
+      "answer": "LOCA",
+      "row": 7,
+      "col": 5
+    },
+    "32": {
+      "clue": "De modo pouco adequado",
+      "answer": "MAL",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Som que imita uma ovelha",
+      "answer": "ME",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "As iniciais do apresentador de TV Sílvio",
+      "answer": "SS",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

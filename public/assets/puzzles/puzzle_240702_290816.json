@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Animal de pescoço longo e carapaça chata",
+      "answer": "CAGADO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Organização que coordena as pesquisas astronáuticas (EUA)",
+      "answer": "NASA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Sôfrego",
+      "answer": "AVIDO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Há pouco tempo",
+      "answer": "RECEM",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "(Nord.) Jumento, burrico",
+      "answer": "JEGUE",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Órgão para o feto",
+      "answer": "UTERO",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Refúgio",
+      "answer": "ABRIGO",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Renato Russo (1960-1996), músico",
+      "answer": "RR",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "O de saia é um sinônimo popular para mulher",
+      "answer": "RABO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Tremor de terra",
+      "answer": "SISMO",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "(Leitos de) Uma carência no pico da pandemia da Covid",
+      "answer": "UTI",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Local onde se servem bebidas e petiscos",
+      "answer": "BAR",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "(Adv.) No máximo",
+      "answer": "ATE",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "Raça",
+      "answer": "ETNIA",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "A quantidade de itens que precedem o quarto",
+      "answer": "TRES",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "O laurêncio, em química",
+      "answer": "LR",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Oposto de clara",
+      "answer": "ESCURA",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "Composição poética com estrofes de quatro versos",
+      "answer": "TROVA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Possibilidade de perigo",
+      "answer": "RISCO",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Pôr dia, mês e ano",
+      "answer": "DATAR",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Derivação de uma linha principal de energia elétrica, hidráulica etc.",
+      "answer": "RAMAL",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "Fazer sulcos na terra",
+      "answer": "ARAR",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Conjunto de pétalas de uma flor",
+      "answer": "COROLA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Cidade paulista da região de Batatais",
+      "answer": "CAJURU",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(-Maria) Prece",
+      "answer": "AVE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O Gb da informática",
+      "answer": "GIGABIT",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Fertilizante",
+      "answer": "ADUBO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Causar pena",
+      "answer": "DOER",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Parentes descendentes",
+      "answer": "NETOS",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Pal. ingl.) No tênis, saque que o jogador oponente não consegue responder",
+      "answer": "ACE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Uma ferramenta de marceneiro",
+      "answer": "SERROTE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Veneração",
+      "answer": "AMOR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Soltar (o leão) a sua voz",
+      "answer": "RUGIR",
+      "row": 1,
+      "col": 6
+    },
+    "15": {
+      "clue": "O cientista inglês Newton (1642-1727)",
+      "answer": "ISAAC",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Cobrir com mistura de solos e fragmentos de rocha",
+      "answer": "ATERRAR",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Abatimento moral",
+      "answer": "MARASMO",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Repetir trecho musical",
+      "answer": "BISAR",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Estabelecimento destinado a ensino",
+      "answer": "ESCOLA",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Chover em flocos congelados",
+      "answer": "NEVAR",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Fazer escolha",
+      "answer": "TRIAR",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "(Abrev.) Limitada",
+      "answer": "LTDA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Fig.) Berro",
+      "answer": "URRO",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Sufixo diminutivo feminino",
+      "answer": "OTA",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "O ligante que se mistura com o cimento",
+      "answer": "CAL",
+      "row": 8,
+      "col": 9
+    }
+  }
+}

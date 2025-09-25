@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Bandeirola",
+      "answer": "FLAMULA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Uma abreviatura do nome do mês 2",
+      "answer": "FEV",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "O de \"Detalhes\" é Roberto Carlos",
+      "answer": "AUTOR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "A voz do burro",
+      "answer": "ZURRO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Cidade do interior paulista",
+      "answer": "BAURU",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Diz-se de animal desprovido de cauda",
+      "answer": "ANURO",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Que não é nova",
+      "answer": "USADA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Uma Maria da MPB",
+      "answer": "RITA",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "(Pal. ingl.) Elo que um documento faz a outro na net",
+      "answer": "LINK",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Quede?",
+      "answer": "CADE",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Alexander Fleming (1881-1955), cientista descobridor da penicilina",
+      "answer": "AF",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Cidade paranaense próxima a Londrina",
+      "answer": "CAMBE",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Prefixo que exprime a ideia de contrário, de invertido",
+      "answer": "AN",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Identidade de som de duas palavras",
+      "answer": "RIMA",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "(Ingl.) Saguão",
+      "answer": "HALL",
+      "row": 6,
+      "col": 5
+    },
+    "30": {
+      "clue": "Terra, região, em inglês",
+      "answer": "LAND",
+      "row": 7,
+      "col": 1
+    },
+    "32": {
+      "clue": "Um macaco da Amazônia",
+      "answer": "CUATA",
+      "row": 7,
+      "col": 6
+    },
+    "34": {
+      "clue": "Movimento enganador",
+      "answer": "FINTA",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "Mesa sagrada para a celebração da missa",
+      "answer": "ALTAR",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "Mulher que cuida de crianças",
+      "answer": "PAJEM",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "O oposto de alta",
+      "answer": "BAIXA",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "Abrev.: senhora",
+      "answer": "SRA",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Prender",
+      "answer": "AGARRAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Narrar, contar contos populares fantásticos",
+      "answer": "FABULAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Satélites",
+      "answer": "LUAS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "De hoje",
+      "answer": "ATUAL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Picante",
+      "answer": "MORDICANTE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Município do estado de Goiás, na região de Ceres",
+      "answer": "URUANA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Antônimo de sorte",
+      "answer": "AZAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Mamão, caqui ou uva",
+      "answer": "FRUTA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Equivocada, enganada",
+      "answer": "ERRADA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A viagem de uma mosca",
+      "answer": "VOO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Como o corpo dos protozoários e das bactérias",
+      "answer": "UNICELULAR",
+      "row": 1,
+      "col": 7
+    },
+    "18": {
+      "clue": "Quilômetros por hora",
+      "answer": "KMH",
+      "row": 4,
+      "col": 5
+    },
+    "20": {
+      "clue": "Afrontar",
+      "answer": "ENCARAR",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Inscrever como sócio",
+      "answer": "FILIAR",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Fruto nativo da Amazônia, de polpa aquosa",
+      "answer": "BACABA",
+      "row": 5,
+      "col": 6
+    },
+    "27": {
+      "clue": "Alimento",
+      "answer": "MANJA",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "Soltar (o cão) seu grito intermitente",
+      "answer": "LATIR",
+      "row": 6,
+      "col": 8
+    },
+    "31": {
+      "clue": "Figura feminina do baralho",
+      "answer": "DAMA",
+      "row": 7,
+      "col": 4
+    },
+    "33": {
+      "clue": "Preço fixo regulamentado",
+      "answer": "TAXA",
+      "row": 7,
+      "col": 9
+    },
+    "34": {
+      "clue": "Fator de Proteção Solar",
+      "answer": "FPS",
+      "row": 8,
+      "col": 0
+    }
+  }
+}

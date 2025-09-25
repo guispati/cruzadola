@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Pop.) Parar de funcionar",
+      "answer": "PIFAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O país de Nova Délhi",
+      "answer": "INDIA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Tendência obsessiva para fazer quaisquer compras",
+      "answer": "ONIOMANIA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Os frutos da parreira",
+      "answer": "UVAS",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Music Television",
+      "answer": "MTV",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "A nota musical que inicia a escala",
+      "answer": "DO",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Existir",
+      "answer": "SER",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Ser digno, de bem ou de mal",
+      "answer": "MERECER",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Astatínio, elemento químico",
+      "answer": "AT",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Bicos do peito",
+      "answer": "MAMILOS",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Produto que substitui o original gasto",
+      "answer": "REFIL",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Uma ameaça para os dentes",
+      "answer": "CARIE",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Recusar abandonando",
+      "answer": "RENEGAR",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Dudu Nobre",
+      "answer": "DN",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Babar",
+      "answer": "SALIVAR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "(Kat) Um doce de wafer coberto com chocolate",
+      "answer": "KIT",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Tomar determinado caminho",
+      "answer": "IR",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Satisfatório, adequado",
+      "answer": "BOM",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Aquilo que, sob certo aspecto, é inferior a tudo o mais",
+      "answer": "PIOR",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "O grupo brasileiro de forró de \"Rindo à Toa\"",
+      "answer": "FALAMANSA",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Aquele que executa trabalho adicional",
+      "answer": "EXTRA",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Manifestação de firmeza, segurança",
+      "answer": "VIGOR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Passar a noite",
+      "answer": "POUSAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Arraigar, introduzir nos hábitos",
+      "answer": "INVETERAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Tecer",
+      "answer": "FIAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Àqueles",
+      "answer": "AOS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "As iniciais do jornalista Marinho, fundador da Rede Globo",
+      "answer": "RM",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Confundir, tornar obscuro",
+      "answer": "INTRICAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Tornar horizontal uma superfície",
+      "answer": "NIVELAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Dela",
+      "answer": "DA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Compaixão, caridade",
+      "answer": "AMOR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "A palavra do fim das orações",
+      "answer": "AMEM",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Negligente, desleixado",
+      "answer": "DESIDIOSO",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "A bruxa de \"A Bela Adormecida\"",
+      "answer": "MALEVOLA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "É modificada quando animais e plantas realizam o mimetismo",
+      "answer": "COR",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Pequena geladeira de hotéis",
+      "answer": "MINIBAR",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Substância elaborada pelo fígado",
+      "answer": "FEL",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "O contrário de sair",
+      "answer": "ENTRAR",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Uma das regiões administrativas do Distrito Federal",
+      "answer": "GAMA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "(Ingl.) Local na internet",
+      "answer": "SITE",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "O Kong, macaco do cinema",
+      "answer": "KING",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Indivíduo que tem filhos",
+      "answer": "PAI",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Fernanda Torres, atriz carioca",
+      "answer": "FT",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Milivolt",
+      "answer": "MV",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

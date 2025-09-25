@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "A cidade portuguesa que é a capital de Trás-os-Montes e Alto Douro",
+      "answer": "VILAREAL",
+      "row": 0,
+      "col": 2
+    },
+    "8": {
+      "clue": "O repertório de palavras duma língua",
+      "answer": "LEXICO",
+      "row": 1,
+      "col": 1
+    },
+    "9": {
+      "clue": "10",
+      "answer": "DEZ",
+      "row": 1,
+      "col": 8
+    },
+    "11": {
+      "clue": "Duas coisas congêneres",
+      "answer": "PAR",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "O jogo de cartas da espadilha e do zape",
+      "answer": "TRUCO",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Ordem Verbal",
+      "answer": "OV",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Norma a seguir",
+      "answer": "PRECEITO",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "(Quím.) O elemento Rh",
+      "answer": "RODIO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Sequência determinada das coisas",
+      "answer": "ORDEM",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "O número das divisas do cabo",
+      "answer": "DUAS",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Fosso que protege o acampamento da tropa",
+      "answer": "VALO",
+      "row": 5,
+      "col": 7
+    },
+    "22": {
+      "clue": "Aprimorar",
+      "answer": "ORNAR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Interromper",
+      "answer": "PARAR",
+      "row": 6,
+      "col": 6
+    },
+    "25": {
+      "clue": "Que faz bem para a saúde",
+      "answer": "SAUDAVEL",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Maria Flor, atriz carioca",
+      "answer": "MF",
+      "row": 7,
+      "col": 9
+    },
+    "28": {
+      "clue": "Estúpido, ignorante",
+      "answer": "BOÇAL",
+      "row": 8,
+      "col": 2
+    },
+    "29": {
+      "clue": "Um voto contrário",
+      "answer": "NÃO",
+      "row": 8,
+      "col": 8
+    },
+    "30": {
+      "clue": "61, em romanos",
+      "answer": "LXI",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Exercício físico para as pernas",
+      "answer": "AGACHO",
+      "row": 9,
+      "col": 4
+    },
+    "34": {
+      "clue": "Pirata",
+      "answer": "CORSARIO",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Olhar",
+      "answer": "VER",
+      "row": 0,
+      "col": 2
+    },
+    "2": {
+      "clue": "9 em romanos",
+      "answer": "IX",
+      "row": 0,
+      "col": 3
+    },
+    "3": {
+      "clue": "Um volume padrão para venda de líquidos",
+      "answer": "LITRO",
+      "row": 0,
+      "col": 4
+    },
+    "4": {
+      "clue": "AC",
+      "answer": "ACRE",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "Quase áfono",
+      "answer": "ROUCO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Fazer perder o bom senso",
+      "answer": "ADOIDAR",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "(Monde) Famoso jornal francês",
+      "answer": "LE",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Agricultura",
+      "answer": "LAVOURA",
+      "row": 1,
+      "col": 1
+    },
+    "10": {
+      "clue": "Que apresenta forma de animal",
+      "answer": "ZOOMORFO",
+      "row": 1,
+      "col": 10
+    },
+    "11": {
+      "clue": "O fim do dia",
+      "answer": "PORDOSOL",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Relativo ao veado",
+      "answer": "CERVAL",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Esmagado",
+      "answer": "PISADO",
+      "row": 3,
+      "col": 3
+    },
+    "16": {
+      "clue": "Estátua de homens que, nas partes exteriores de um edifício, tem a função de coluna ou pilastra",
+      "answer": "TELAMÃO",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Rio da Europa, banha Áustria, Hungria e Croácia, dentre outros",
+      "answer": "DANUBIO",
+      "row": 4,
+      "col": 2
+    },
+    "23": {
+      "clue": "Os grupos étnicos",
+      "answer": "RAÇAS",
+      "row": 6,
+      "col": 4
+    },
+    "24": {
+      "clue": "Fazer ficar sem a casca",
+      "answer": "PELAR",
+      "row": 6,
+      "col": 6
+    },
+    "26": {
+      "clue": "Lugar disponível em um estacionamento",
+      "answer": "VAGA",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "(Pop.) Senhor",
+      "answer": "NHO",
+      "row": 8,
+      "col": 8
+    },
+    "31": {
+      "clue": "Duas consoantes que ficam juntas à esquerda do teclado",
+      "answer": "XC",
+      "row": 9,
+      "col": 1
+    },
+    "33": {
+      "clue": "(Fís.) O símbolo de Curie",
+      "answer": "CI",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

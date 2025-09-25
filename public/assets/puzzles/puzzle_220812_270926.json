@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O Dias navegador português, o primeiro a atravessar o cabo da Boa Espertança, no sul da África",
+      "answer": "BARTOLOMEU",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "A ave-símbolo dos EUA",
+      "answer": "AGUIA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "O antônimo de guerra",
+      "answer": "PAZ",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Nação com capital Lomé",
+      "answer": "TOGO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Uma sigla usada em transferência bancária de valores",
+      "answer": "DOC",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Sigla do estado da cidade de Gravatá",
+      "answer": "PE",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Tempo memorável que estabelece nova ordem de fatos",
+      "answer": "ERA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Ato de provocar alguém para duelo",
+      "answer": "DESAFIO",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Utensílio para recolher areia, lixo etc.",
+      "answer": "PA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Agradar intensamente",
+      "answer": "DELICIAR",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Propensão, tendência",
+      "answer": "VOCAÇÃO",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "Cirurgia",
+      "answer": "OPERAÇÃO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Globo Esporte",
+      "answer": "GE",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "Grande nariz",
+      "answer": "NARIGÃO",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "O Peter que desafia o Capitão Gancho na famosa história infantil",
+      "answer": "PAN",
+      "row": 7,
+      "col": 8
+    },
+    "26": {
+      "clue": "Tony Ramos, ator",
+      "answer": "TR",
+      "row": 8,
+      "col": 0
+    },
+    "27": {
+      "clue": "Viagem num teco-teco",
+      "answer": "VOO",
+      "row": 8,
+      "col": 3
+    },
+    "28": {
+      "clue": "Parte de cada um",
+      "answer": "COTA",
+      "row": 8,
+      "col": 7
+    },
+    "29": {
+      "clue": "Abrev.: mês 1",
+      "answer": "JAN",
+      "row": 9,
+      "col": 2
+    },
+    "30": {
+      "clue": "Doença virótica",
+      "answer": "COVID",
+      "row": 9,
+      "col": 6
+    },
+    "31": {
+      "clue": "Um doce típico do nordeste do Brasil",
+      "answer": "BOLODEROLO",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Resposta rápida a uma pergunta ou sugestão",
+      "answer": "BATEPRONTO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Já",
+      "answer": "AGORA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sulco disforme da pele",
+      "answer": "RUGA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O pai do primo",
+      "answer": "TIO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Vogal sem consoantes",
+      "answer": "OA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Dificuldade que se coloca contra a realização de alguma coisa",
+      "answer": "OPOSIÇÃO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Roupa inteiriça, resistente, usada por operários",
+      "answer": "MACACÃO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Sufixo que denota qualidade",
+      "answer": "EZ",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "Reorganizado",
+      "answer": "REORDENADO",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "Divulgação de algo ignorado ou secreto",
+      "answer": "DELAÇÃO",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Local apropriado para se lavar pratos, copos e talheres",
+      "answer": "PIA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Polígono plano de dez lados",
+      "answer": "DECAGONO",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Fita usada em eletricidade",
+      "answer": "FIO",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "O compositor Caymmi, de \"Das Rosas\"",
+      "answer": "DORIVAL",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Ficar na presença de",
+      "answer": "VER",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Duas coisas usadas juntas",
+      "answer": "PAR",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Local para hospedagem e comércio de certos felinos",
+      "answer": "GATIL",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Nação, sociedade",
+      "answer": "POVO",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "A do urubu é preta",
+      "answer": "COR",
+      "row": 8,
+      "col": 7
+    },
+    "29": {
+      "clue": "O cômico carioca Soares, do rádio e da televisão",
+      "answer": "JO",
+      "row": 9,
+      "col": 2
+    },
+    "30": {
+      "clue": "O cério, para os químicos",
+      "answer": "CE",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

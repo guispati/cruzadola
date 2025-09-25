@@ -1,0 +1,228 @@
+{
+  "across": {
+    "1": {
+      "clue": "As pontas das mãos",
+      "answer": "DEDOS",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "A parte terminal do aparelho oral dos insetos",
+      "answer": "PALPO",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Aquele que presta serviço produtivo ou de manutenção",
+      "answer": "OPERARIO",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "(Quím.) O elemento F",
+      "answer": "FLUOR",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "Aparato magnífico e luxuoso",
+      "answer": "POMPA",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Um jogo legal",
+      "answer": "LOTERIA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "(Pop.) Pancada ou surra",
+      "answer": "PAU",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Que custa pouco",
+      "answer": "ECONOMICO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "O nome da letra K",
+      "answer": "CA",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Departamento Técnico",
+      "answer": "DT",
+      "row": 5,
+      "col": 9
+    },
+    "21": {
+      "clue": "Reconhecer como autêntico",
+      "answer": "LEGITIMAR",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Insumo para vacinas",
+      "answer": "IFA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Gír.) Mau negócio",
+      "answer": "ROUBADA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Parte retirada de uma superfície desbastada com lima",
+      "answer": "RASPA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Depósito de milho",
+      "answer": "PAIOL",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "(Pop.) Dor-de-cotovelo",
+      "answer": "DESPEITO",
+      "row": 9,
+      "col": 1
+    },
+    "32": {
+      "clue": "(Pão de) Geralmente é cortado em fatias",
+      "answer": "FORMA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Mancha que ocorre nas partes descobertas da pele",
+      "answer": "SARDA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Desviar",
+      "answer": "DEFLECTIR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Que sabe muito",
+      "answer": "DOUTO",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Que é do contra",
+      "answer": "OPOENTE",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Colina",
+      "answer": "SERRO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "O Noel de 25 de dezembro",
+      "answer": "PAPAI",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Peça em que se adapta o pneu da bicicleta",
+      "answer": "ARO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Sem sujeira",
+      "answer": "LIMPO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A parte de trás dos barcos",
+      "answer": "POPA",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Gruta pequena",
+      "answer": "LOCA",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "A nação com Canberra e Perth",
+      "answer": "AUSTRALIA",
+      "row": 2,
+      "col": 10
+    },
+    "15": {
+      "clue": "Que não tem piedade",
+      "answer": "IMPIO",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Chicote",
+      "answer": "CHIBATA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Pequeno cubo numerado usado em jogos de tabuleiro",
+      "answer": "DADO",
+      "row": 5,
+      "col": 9
+    },
+    "21": {
+      "clue": "Veleiro de um único mastro",
+      "answer": "LASER",
+      "row": 6,
+      "col": 2
+    },
+    "22": {
+      "clue": "Aguardente do bagaço da uva",
+      "answer": "GRAPA",
+      "row": 6,
+      "col": 4
+    },
+    "23": {
+      "clue": "Uma grande nação de índios brasileiros",
+      "answer": "TUPIS",
+      "row": 6,
+      "col": 6
+    },
+    "24": {
+      "clue": "O oposto de menor",
+      "answer": "MAIOR",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Canção e dança populares de Portugal",
+      "answer": "FADO",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Pronto Socorro Municipal",
+      "answer": "PSM",
+      "row": 8,
+      "col": 3
+    }
+  }
+}

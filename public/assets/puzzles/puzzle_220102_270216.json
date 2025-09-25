@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Por completo",
+      "answer": "TOTALMENTE",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Cheia de curvas (estrada)",
+      "answer": "SINUOSA",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Inquérito Policial",
+      "answer": "IP",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Ave comum nas cidades",
+      "answer": "PARDAL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Cópula",
+      "answer": "SEXO",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Sentir grande afeição, ternura ou paixão por alguém",
+      "answer": "AMAR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Substância mais conhecida por álcool etílico",
+      "answer": "ETANOL",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "(Mús.) A nota da letra A",
+      "answer": "LA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "(Pop.) Bonito, bem arranjado",
+      "answer": "ESTILOSO",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Amarelo ou rosa",
+      "answer": "COR",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "(Quím.) Neodímio",
+      "answer": "ND",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Pessoa que adquire empréstimo financeiro",
+      "answer": "TOMADORA",
+      "row": 6,
+      "col": 3
+    },
+    "29": {
+      "clue": "A capital afegã",
+      "answer": "CABUL",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Imprecar, suplicar",
+      "answer": "ROGAR",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "A capital europeia com o Partenon",
+      "answer": "ATENAS",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Porção de pinga",
+      "answer": "DOSE",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "Sem cautela",
+      "answer": "ATIRADO",
+      "row": 9,
+      "col": 1
+    },
+    "37": {
+      "clue": "Paul Simon, cantor de \"The Sound of Silence\"",
+      "answer": "PS",
+      "row": 9,
+      "col": 9
+    },
+    "38": {
+      "clue": "Carioca ou mineira",
+      "answer": "BRASILEIRA",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "O Bin Laden ex-líder islâmico",
+      "answer": "OSAMA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Agente de polícia",
+      "answer": "TIRA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Santo) O A do ABC paulista",
+      "answer": "ANDRE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "É moon para os ingleses",
+      "answer": "LUA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Tecido quente, semelhante a uma flanela",
+      "answer": "MOLETOM",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Eduardo Sterblitch, ator e humorista",
+      "answer": "ES",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Do nariz",
+      "answer": "NASAL",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Sai deles quem abusa",
+      "answer": "EIXOS",
+      "row": 0,
+      "col": 9
+    },
+    "12": {
+      "clue": "Na pilha, pode ser + ou -",
+      "answer": "POLO",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "Antílope africano de aspecto elegante",
+      "answer": "PALANCA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Conhecedor de vinhos",
+      "answer": "ENOLOGO",
+      "row": 2,
+      "col": 8
+    },
+    "18": {
+      "clue": "Descalçar",
+      "answer": "TIRAR",
+      "row": 3,
+      "col": 6
+    },
+    "21": {
+      "clue": "O Luiz Felipe campeão da Copa do Mundo de 2002",
+      "answer": "SCOLARI",
+      "row": 4,
+      "col": 4
+    },
+    "24": {
+      "clue": "Acontecer, ocorrer (no tempo)",
+      "answer": "DATAR",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Capital africana banhada pelo Mediterrâneo",
+      "answer": "TUNIS",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "(Inf.) Dor, doença",
+      "answer": "DODOI",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Fragmento",
+      "answer": "RASPA",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Cidade do RN, grande produtora de camarão",
+      "answer": "ARES",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Roberta, para os íntimos",
+      "answer": "BETA",
+      "row": 7,
+      "col": 2
+    },
+    "33": {
+      "clue": "Um tempero",
+      "answer": "SAL",
+      "row": 8,
+      "col": 5
+    },
+    "36": {
+      "clue": "A 4ª letra do alfabeto",
+      "answer": "DE",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Grande recipiente para estocagem de vinho",
+      "answer": "PIPA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Um carro da VW",
+      "answer": "PASSAT",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Uma fila de nomes ou objetos",
+      "answer": "ELENCO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Clímax",
+      "answer": "AUGE",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "(Quím.) O elemento Ga",
+      "answer": "GALIO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Emporcalhar",
+      "answer": "SUJAR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Que demonstra muito entusiasmo (fem.)",
+      "answer": "ACALORADA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Vermelho, em Londres",
+      "answer": "RED",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Couro separado do corpo dos animais",
+      "answer": "PELE",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Que vive sem companhia",
+      "answer": "SO",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "Muco ressecado das pálpebras",
+      "answer": "RAMELA",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Semelhante (à mesma forma ou figura)",
+      "answer": "TAL",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Símbolo do volt-ampère",
+      "answer": "VA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Ingl.) De alta qualidade",
+      "answer": "PREMIUM",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "O fruto da videira",
+      "answer": "UVA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Uma proteção usada por cozinheiros",
+      "answer": "AVENTAL",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Travesso, moleque",
+      "answer": "LEVADO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Pop.) Bebida alcoólica",
+      "answer": "GORO",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Uma grande rede brasileira de comunicações",
+      "answer": "GLOBO",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Pássaro de canto apreciado",
+      "answer": "CURIO",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Interjeição usada nos cultos afro-brasileiros",
+      "answer": "SARAVA",
+      "row": 10,
+      "col": 2
+    },
+    "36": {
+      "clue": "De acordo!",
+      "answer": "OK",
+      "row": 10,
+      "col": 9
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Criar raízes (planta)",
+      "answer": "PEGAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Que não se pode rasgar",
+      "answer": "ILACERAVEL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Nua",
+      "answer": "PELADA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A cor azul",
+      "answer": "ANIL",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Pequenas partículas de terra",
+      "answer": "PO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "A resposta para um atchim",
+      "answer": "SAUDE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Sem crédito, desmoralizada",
+      "answer": "SUJA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "H",
+      "answer": "AGA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Tumor das pálpebras",
+      "answer": "TERÇOL",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Aquele que colabora",
+      "answer": "COOPERADOR",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Uma carne servida como aperitivo",
+      "answer": "SALAME",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "(Geogr.) Conjunto de altos e baixos de uma região",
+      "answer": "RELEVO",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "(Quím.) O Sm",
+      "answer": "SAMARIO",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Marcos Palmeira, ator carioca",
+      "answer": "MP",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Que supervisiona, dirige",
+      "answer": "TUTOR",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Tornado conhecido",
+      "answer": "VULGO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Med.) Adenite, bubão",
+      "answer": "INGUA",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Pais dos pais",
+      "answer": "AVOS",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "(Ingl.) Estilo característico",
+      "answer": "LOOK",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Projeção de telhado",
+      "answer": "ABA",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Código Verificador",
+      "answer": "CV",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

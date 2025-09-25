@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ato de retirar algo da água",
+      "answer": "PESCA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O rei que transformava em ouro tudo o que tocava",
+      "answer": "MIDAS",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "(Pop.) Gordura excessiva localizada na cintura",
+      "answer": "PNEU",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Carro para transporte de mercadorias",
+      "answer": "PICAPE",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Diz-se de um tipo de desenho usado em tatuagens",
+      "answer": "TRIBAL",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "(Pop.) Não",
+      "answer": "NUM",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Ter a preferência",
+      "answer": "PRIMAR",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Um número como oito ou vinte",
+      "answer": "PAR",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "O músico Jaime, de \"A Fórmula do Amor\"",
+      "answer": "LEO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Aquele que copia furtivamente nos exames escritos",
+      "answer": "COLADOR",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Abreviatura inglesa de Nações Unidas",
+      "answer": "UN",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Céu da boca",
+      "answer": "PALATO",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Um doce que se come com queijo",
+      "answer": "GOIABADA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "101, em algarismos romanos",
+      "answer": "CI",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "A voz do gato",
+      "answer": "MIADO",
+      "row": 7,
+      "col": 2
+    },
+    "27": {
+      "clue": "(Mús.) Cada uma das partes de uma composição",
+      "answer": "VOZ",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Rede norte-americana de TV, especializada em esportes",
+      "answer": "ESPN",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "O ator paulistano Prado",
+      "answer": "OSMAR",
+      "row": 8,
+      "col": 5
+    },
+    "32": {
+      "clue": "Ter ligeiro contato, tocar de leve",
+      "answer": "ROÇAR",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "O apresentador e repórter da TV Pedro",
+      "answer": "BIAL",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "A lanterna mais potente do automóvel",
+      "answer": "FAROL",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Parte transparente do ovo",
+      "answer": "CLARA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Mús.) Abreviatura de pianíssimo (muito suave)",
+      "answer": "PP",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Segmento de ramo de árvore compreendido entre uma e outra porção em que se inserem as folhas",
+      "answer": "ENTRENO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Grave, crítico",
+      "answer": "SERIO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Pequeno roedor parecido com um coelho",
+      "answer": "CUIM",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "750+250",
+      "answer": "MIL",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Igreja Católica",
+      "answer": "IC",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Pop.) Travesso",
+      "answer": "DANADO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Requinte",
+      "answer": "APURO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O oposto de com",
+      "answer": "SEM",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Aquele que é dado a conversa fiada",
+      "answer": "PAROLADOR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Um espécie de palmeira brasileira",
+      "answer": "BACABA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Conector elétrico dotado por pinos metálicos",
+      "answer": "PLUGUE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Pé de cachorro, gato etc.",
+      "answer": "PATA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "O retângulo tem quatro",
+      "answer": "LADOS",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "Em gramática, a parte mínima, invariável e irredutível de uma palavra",
+      "answer": "RAIZ",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Milho miúdo",
+      "answer": "PAINÇO",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Instituir (tributos)",
+      "answer": "IMPOR",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Tingir",
+      "answer": "CORAR",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Apupo geral",
+      "answer": "VAIA",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Abreviatura de senhora",
+      "answer": "SRA",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "Movimento Brasil Livre",
+      "answer": "MBL",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "(Quím.) O alumínio",
+      "answer": "AL",
+      "row": 9,
+      "col": 4
+    },
+    "35": {
+      "clue": "(Mús.) A nota da letra A",
+      "answer": "LA",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

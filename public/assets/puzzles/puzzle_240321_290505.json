@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Fr.) Diz-se de vinho seco",
+      "answer": "BRUT",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Cobrar penalidade por uma infração cometida",
+      "answer": "MULTAR",
+      "row": 0,
+      "col": 5
+    },
+    "11": {
+      "clue": "A lâmina do arado",
+      "answer": "RELHA",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Peixe de água doce, de coloração variada",
+      "answer": "CARPA",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Fundo Internacional de Emergência das Nações Unidas para a Infância",
+      "answer": "UNICEF",
+      "row": 2,
+      "col": 0
+    },
+    "16": {
+      "clue": "O ex-treinador de futebol Santana",
+      "answer": "JOEL",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Cada tempo, no jogo do tênis",
+      "answer": "SET",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Sarrafo, ripa",
+      "answer": "RIPEIRA",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Lisonjeiro",
+      "answer": "ELOGIOSO",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Olavo Bilac (1865-1918), poeta",
+      "answer": "OB",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "O sinal =",
+      "answer": "IGUAL",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Lô Borges, músico",
+      "answer": "LB",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Relativo ao osso do meio do peito",
+      "answer": "ESTERNAL",
+      "row": 6,
+      "col": 1
+    },
+    "30": {
+      "clue": "Vento forte e frio",
+      "answer": "AQUILÃO",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Uma ave marinha",
+      "answer": "ATI",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "Um doce de nozes e mel",
+      "answer": "NUGA",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "O ator Hardy (1892-1957), de \"O Gordo e o Magro\"",
+      "answer": "OLIVER",
+      "row": 8,
+      "col": 5
+    },
+    "36": {
+      "clue": "Uma central de abastecimento de alimentos, plantas etc.",
+      "answer": "CEASA",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Conduzir um barco a reboque",
+      "answer": "ATOAR",
+      "row": 9,
+      "col": 6
+    },
+    "39": {
+      "clue": "Aparelhar",
+      "answer": "ARREAR",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Diz-se de lugar desabitado, deserto",
+      "answer": "ERMO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Repentino",
+      "answer": "BRUSCO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O Simões ex-treinador de futebol",
+      "answer": "RENE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Med.) Inflamação das gengivas",
+      "answer": "ULITE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Quím.) Sigla de tetraidrocanabinol, substância tóxica da maconha",
+      "answer": "THC",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "Unidade de Conservação",
+      "answer": "UC",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Pequena pedra de superfície plana geralmente quadrada ou retangular",
+      "answer": "LAJEOLA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Três, em francês",
+      "answer": "TROIS",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Uma bebida alcoólica do tipo bitter",
+      "answer": "APEROL",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Não densa",
+      "answer": "RALA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Gel formado pela dispersão de um gás num sólido ou líquido",
+      "answer": "AEROGEL",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "(Fam.) Autoridade, pessoa influente",
+      "answer": "FIGURÃO",
+      "row": 2,
+      "col": 5
+    },
+    "19": {
+      "clue": "Um instrumento musical mecânico",
+      "answer": "PIANOLA",
+      "row": 3,
+      "col": 6
+    },
+    "21": {
+      "clue": "(Med.) Formação de pedras nos canais excretores",
+      "answer": "LITIASE",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "(Quím.) Copo químico",
+      "answer": "BEQUER",
+      "row": 5,
+      "col": 1
+    },
+    "26": {
+      "clue": "Uma área como a Tijuca para o Rio de Janeiro",
+      "answer": "BAIRRO",
+      "row": 5,
+      "col": 10
+    },
+    "28": {
+      "clue": "(Baby ou Daddy) Relacionamento mantido por interesse puramente financeiro",
+      "answer": "SUGAR",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "Trabalho manual",
+      "answer": "LAVOR",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "Cada saliência dos flancos",
+      "answer": "ANCA",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Time, em inglês",
+      "answer": "TEAM",
+      "row": 7,
+      "col": 9
+    },
+    "35": {
+      "clue": "Sem gosto",
+      "answer": "ITE",
+      "row": 8,
+      "col": 7
+    },
+    "37": {
+      "clue": "Abreviatura de autores",
+      "answer": "AA",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "A personalidade de cada homem",
+      "answer": "EGO",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "O signo que vai de 23/9 a 22/10",
+      "answer": "LIBRA",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "História cheia de acontecimentos",
+      "answer": "SAGA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Aspergir água em plantas",
+      "answer": "REGAR",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "De chumbo",
+      "answer": "PLUMBEO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Uma contração gramatical",
+      "answer": "AO",
+      "row": 3,
+      "col": 0
+    },
+    "14": {
+      "clue": "Uma carne bovina de primeira",
+      "answer": "ALCATRA",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Guindaste",
+      "answer": "GRUA",
+      "row": 4,
+      "col": 2
+    },
+    "18": {
+      "clue": "Disputa",
+      "answer": "RIXA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Conjunto de peças que compõem um equipamento",
+      "answer": "APARELHAGEM",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Fio fino, forte e macio produzido por uma larva",
+      "answer": "SEDA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Para onde vai quem sobe",
+      "answer": "CIMA",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Das montanhas",
+      "answer": "SERRANO",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Volt-ampère",
+      "answer": "VA",
+      "row": 7,
+      "col": 9
+    },
+    "28": {
+      "clue": "Enlouquecer",
+      "answer": "ADOIDAR",
+      "row": 8,
+      "col": 4
+    },
+    "30": {
+      "clue": "Inseto também conhecido como piolho-das-virilhas",
+      "answer": "CHATO",
+      "row": 9,
+      "col": 1
+    },
+    "32": {
+      "clue": "Sopro",
+      "answer": "AURA",
+      "row": 9,
+      "col": 7
+    },
+    "33": {
+      "clue": "O instrumento musical de Chopin e Duke Ellington",
+      "answer": "PIANO",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "O hábitat do polvo e da baleia",
+      "answer": "MAR",
+      "row": 10,
+      "col": 8
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um naipe das cartas do baralho",
+      "answer": "ESPADAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ave que briga numa rinha",
+      "answer": "GALO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Orçamento Geral da União",
+      "answer": "OGU",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Serra) Pequeno país africano rico em diamantes",
+      "answer": "LEOA",
+      "row": 0,
+      "col": 6
+    },
+    "5": {
+      "clue": "Inspetor Geral",
+      "answer": "IG",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "Proeminência externa do abdome",
+      "answer": "BARRIGA",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Ronald Reagan (1911-2004), ator e presidente dos EUA",
+      "answer": "RR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Dificultar, embaraçar",
+      "answer": "AMARRAR",
+      "row": 1,
+      "col": 3
+    },
+    "10": {
+      "clue": "Cheio de complexos",
+      "answer": "RECALCADO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "(Ingl.) Azul",
+      "answer": "BLUE",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Manobra secreta, com intenção ilícita",
+      "answer": "TRAMOIA",
+      "row": 3,
+      "col": 7
+    },
+    "16": {
+      "clue": "Música baiana de ritmo enérgico",
+      "answer": "AXE",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Cabeleira comprida e desgrenhada",
+      "answer": "GADELHA",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Suster para impedir de cair",
+      "answer": "AMPARAR",
+      "row": 4,
+      "col": 10
+    },
+    "21": {
+      "clue": "Extremidades dos membros inferiores",
+      "answer": "PES",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Canto patriótico",
+      "answer": "HINO",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "Um animal como Jerry, dos desenhos animados",
+      "answer": "RATO",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Cargo de juiz de direito",
+      "answer": "VARA",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Contração de preposição e artigo indefinido",
+      "answer": "DUM",
+      "row": 8,
+      "col": 8
+    },
+    "30": {
+      "clue": "1/10 de MX",
+      "answer": "CI",
+      "row": 9,
+      "col": 1
+    },
+    "31": {
+      "clue": "Antônio Nóbrega, artista e músico recifense",
+      "answer": "AN",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

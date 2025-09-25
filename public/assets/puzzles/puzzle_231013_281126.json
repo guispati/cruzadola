@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um bebida como a Heineken",
+      "answer": "CERVEJA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Período de tempo entre 1º de janeiro e 31 de dezembro",
+      "answer": "ANO",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Vertente de telhado",
+      "answer": "AGUA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Extinguir (fogo)",
+      "answer": "APAGAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Fruto cítrico de cuja casca se faz doce",
+      "answer": "CIDRA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Alta aristocracia",
+      "answer": "ELITE",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Preposição que expressa um limite posterior de tempo",
+      "answer": "ATE",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Mans) Cidade francesa com famoso autódromo",
+      "answer": "LE",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "A ilha oceânica que se comunica com o mar por meio de canais",
+      "answer": "ATOL",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "A UF de Palmas",
+      "answer": "TO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "O peso que dá estabilidade ao barco",
+      "answer": "LASTRO",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "(Fig.) Grau de diferença",
+      "answer": "MARGEM",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "(Mús.) F",
+      "answer": "FA",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Embelezar",
+      "answer": "AFORMOSEAR",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Peça que atrela os vagões um a outro",
+      "answer": "ENGATE",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Abrev.: dicionário",
+      "answer": "DIC",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Fumo",
+      "answer": "PITURA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Sinal em forma de flecha que indica direção",
+      "answer": "SETA",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Fluido que faz perder a sensibilidade",
+      "answer": "ETER",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Conjunto das cerimônias próprias de uma festa ou de uma liturgia",
+      "answer": "RITUAL",
+      "row": 9,
+      "col": 5
+    },
+    "36": {
+      "clue": "Um tipo de consoante",
+      "answer": "NASAL",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Que nos pertence",
+      "answer": "NOSSO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Papagaio originário da Austrália e Malásia",
+      "answer": "CACATUA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "País banhado pelo Mediterrâneo e pelo Nilo",
+      "answer": "EGITO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Pouco delicado",
+      "answer": "RUDE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Fut.) Video Assistant Referee, tecnologia que auxilia arbitragens",
+      "answer": "VAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Jerry Adriani (1947-2017), cantor da Jovem Guarda",
+      "answer": "JA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Pop.) Apartamento",
+      "answer": "APE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Gír.) Movimento",
+      "answer": "AGITO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Ingl.) Sigla da aliança defensiva ocidental",
+      "answer": "NATO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Ouvido",
+      "answer": "ORELHA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Um dispositivo de segurança",
+      "answer": "ALARME",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Pôr em apreensão",
+      "answer": "ALARMAR",
+      "row": 2,
+      "col": 4
+    },
+    "18": {
+      "clue": "Ser vendido até o último exemplar (livro)",
+      "answer": "ESGOTAR",
+      "row": 3,
+      "col": 5
+    },
+    "21": {
+      "clue": "Dimensão perpendicular ao comprimento",
+      "answer": "LARGURA",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "(Em) Teoricamente",
+      "answer": "TESE",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "(Claros) Importante cidade de MG",
+      "answer": "MONTES",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "",
+      "answer": "FRITAS",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Ocasião, vez",
+      "answer": "FEITA",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Uma palavra de despedida",
+      "answer": "ADEUS",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "Endurecimento epidérmico causado pelo excesso de fricção da pele",
+      "answer": "CALO",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "(Drive) Dispositivo de informática usado para guardar arquivos",
+      "answer": "PEN",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Abrev.) Santo",
+      "answer": "STO",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "Isaac Newton (1642-1727), cientista inglês",
+      "answer": "IN",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

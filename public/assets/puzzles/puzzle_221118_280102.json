@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O capitão da nossa seleção de futebol pentacampeã",
+      "answer": "CAFU",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "O músico Nascimento",
+      "answer": "MILTON",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "(Fig.) Agir de forma a enganar alguém",
+      "answer": "ENCENAR",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Fragmento de rocha, de aproximadamente 3cm de diâmetro",
+      "answer": "CALHAU",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "O Brad de \"O Curioso Caso de Benjamin Button\"",
+      "answer": "PITT",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Reunir por algum interesse comum",
+      "answer": "ALIAR",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Trípoli é a sua capital",
+      "answer": "LIBIA",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "A quantidade de pinos do jogo de boliche",
+      "answer": "DEZ",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "A antônimo de profissional",
+      "answer": "AMADOR",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Antoni Gaudí (1852-1926), arquiteto espanhol",
+      "answer": "AG",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Exame Nacional de Desempenho de Estudantes",
+      "answer": "ENADE",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "As iniciais do cantor Carlos",
+      "answer": "RC",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "O tablado onde se realizam lutas de boxe",
+      "answer": "RINGUE",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Olhar intencionalmente",
+      "answer": "VER",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Dança e música muito difundida na Argentina",
+      "answer": "TANGO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "A atriz carioca Ravache",
+      "answer": "IRENE",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "Planta usada para dar sabor e aroma na culinária",
+      "answer": "ERVA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "(Fís.) p",
+      "answer": "PROTON",
+      "row": 8,
+      "col": 5
+    },
+    "32": {
+      "clue": "Remetido",
+      "answer": "ENVIADO",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Iguaria feita com arroz arborio ou carnaroli",
+      "answer": "RISOTO",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Animal típico dos mares frios, também conhecido como baleia-assassina",
+      "answer": "ORCA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um doce muito difundido por todo o Brasil",
+      "answer": "COCADA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O anão alegre da Branca de Neve",
+      "answer": "FELIZ",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Lâmina que recobre a parte terminal dos dedos",
+      "answer": "UNHA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Próprio da pessoa que fala",
+      "answer": "MEU",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "Ismael Néri (1900-1934), artista paraense",
+      "answer": "IN",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Laje que cobre o túmulo",
+      "answer": "LAPIDE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Uma comunidade indígena",
+      "answer": "TRIBO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A parte gordurosa do leite",
+      "answer": "NATA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "(Pop.) Qualquer automóvel",
+      "answer": "CARANGO",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "(Pop.) Tornar mais vivo pela ingestão de bebida alcoólica",
+      "answer": "ALEGRAR",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "O mar de Capri, na Itália",
+      "answer": "TIRRENO",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Caminho em subida íngreme",
+      "answer": "LADEIRA",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Um Lobo das histórias infantis",
+      "answer": "MAU",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Ligação telefônica errada",
+      "answer": "ENGANO",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Fé",
+      "answer": "CRENÇA",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Avesso",
+      "answer": "INVES",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "O Aedes aegypt é o da dengue",
+      "answer": "VETOR",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Percentagem numa solução",
+      "answer": "TEOR",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Peça que puxa água para o ralo",
+      "answer": "RODO",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Som de pássaro",
+      "answer": "PIO",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Abrev.: videoteipe",
+      "answer": "VT",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Tecidos",
+      "answer": "PANOS",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Notificação escrita ou verbal",
+      "answer": "AVISO",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "A sigla inglesa dos Objetos Voadores Não Identificados",
+      "answer": "UFO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Parte do móvel própria para meias",
+      "answer": "GAVETA",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "As bodas dos 45 anos de casamento",
+      "answer": "RUBI",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Fr.) Doce de formato cilíndrico recheado de chocolate ou creme",
+      "answer": "ECLAIR",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Unir por parentesco",
+      "answer": "CARNAR",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Tempo de 3.600s",
+      "answer": "HORA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "De uma víscera do abdome",
+      "answer": "ESTOMACAL",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Lya Luft (1938-2021), escritora de \"A Sentinela\"",
+      "answer": "LL",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Músico paraibano (1930-2006), grande instrumentista",
+      "answer": "SIVUCA",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "O que transforma cabo em calombo",
+      "answer": "LOM",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Aspecto",
+      "answer": "VISO",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "Zona do Interior",
+      "answer": "ZI",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "(Barreto) Cidade de Sergipe",
+      "answer": "TOBIAS",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Departamento de Estradas de Rodagem",
+      "answer": "DER",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Receio (pl.)",
+      "answer": "MEDOS",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Econ.) Juro exagerado",
+      "answer": "USURA",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Habituada, afeita",
+      "answer": "ACOSTUMADA",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Talharim e nhoque",
+      "answer": "MASSAS",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "O estado brasileiro com a Ilha de Marajó",
+      "answer": "PARA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O compositor inglês Henry (1659-1695)",
+      "answer": "PURCELL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Cidade do norte da ilha de Marajó, chamada de a \"Veneza marajoara\"",
+      "answer": "AFUA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O antônimo de plebeu",
+      "answer": "NOBRE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O seabórgio, para os químicos",
+      "answer": "SG",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Um dano cerebral",
+      "answer": "AVC",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Patife",
+      "answer": "VELHACO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Furna",
+      "answer": "ITAOCA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Passarinho de lindas cores, parecido com o gaturamo ou o sanhaço",
+      "answer": "SAIRA",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Rota regular de aviões comerciais",
+      "answer": "AEROVIA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Cuida da previdência",
+      "answer": "INSS",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Claro de terreno cultivado onde a semente não germinou",
+      "answer": "RALEIRA",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Militante político",
+      "answer": "ATIVISTA",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Músico e humorista carioca (1941-1994), de \"Os Trapalhões\"",
+      "answer": "MUSSUM",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "(Pop.) Loteria esportiva",
+      "answer": "LOTECA",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Boas maneiras",
+      "answer": "MODOS",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Dar nota 0 a",
+      "answer": "ZERAR",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "(Hugo) Marca alemã de roupas, perfumes e produtos da moda",
+      "answer": "BOSS",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "A Beat cantora e compositora pernambucana",
+      "answer": "DUDA",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Museu de Arte Moderna",
+      "answer": "MAM",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Tecla do controle da TV",
+      "answer": "SAP",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "Abreviatura inglesa de Estados Unidos (nos dólares)",
+      "answer": "US",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

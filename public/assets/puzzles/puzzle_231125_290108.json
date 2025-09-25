@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cachaceiro",
+      "answer": "BEBUM",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Ingl.) Esperto, sabido",
+      "answer": "SMART",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Festa do candomblé",
+      "answer": "AFOXE",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Centrais Elétricas de Minas Gerais",
+      "answer": "CEMIG",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Periquitinho",
+      "answer": "TUI",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O político Jefferson, ex-presidente dos EUA",
+      "answer": "THOMAS",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Emigrante japonês",
+      "answer": "ISSEI",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Uma coletividade em seu conjunto",
+      "answer": "TODOS",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Que não possui males (fem.)",
+      "answer": "SÃ",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "No futebol, ação de cruzar a bola das laterais para a área",
+      "answer": "CENTRO",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Um roedor",
+      "answer": "MOCO",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Arco-) Fenômeno da atmosfera caracterizado por sete cores",
+      "answer": "IRIS",
+      "row": 5,
+      "col": 7
+    },
+    "26": {
+      "clue": "Corte de ramos supérfluos",
+      "answer": "ALIMPA",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "Lulu Santos, músico",
+      "answer": "LS",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "Usar água e sabão",
+      "answer": "LAVAR",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Elemento químico de símbolo Os",
+      "answer": "OSMIO",
+      "row": 7,
+      "col": 6
+    },
+    "34": {
+      "clue": "Depende da matriz",
+      "answer": "FILIAL",
+      "row": 8,
+      "col": 1
+    },
+    "35": {
+      "clue": "Academia Brasileira de Música",
+      "answer": "ABM",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "A do Forte fica em Mata de São João, cidade baiana",
+      "answer": "PRAIA",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "(Náut.) Cabo que aguenta a mastreação",
+      "answer": "ESTAI",
+      "row": 9,
+      "col": 6
+    },
+    "39": {
+      "clue": "Cobra de veneno poderoso",
+      "answer": "CORAL",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Um carro da Citroën",
+      "answer": "XSARA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Rel.) Diz-se de uma pia da igreja",
+      "answer": "BATISMAL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Espalhamento",
+      "answer": "EFUSÃO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Machos das vacas",
+      "answer": "BOIS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "User Experience, na informática",
+      "answer": "UX",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Ofício, função, trabalho",
+      "answer": "METIE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "O cineasta inglês Ridley, de \"Thelma e Louise\"",
+      "answer": "SCOTT",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Lembranças autobiográficas",
+      "answer": "MEMORIAS",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Um oposto de profissional",
+      "answer": "AMADOR",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Expressão de alegria",
+      "answer": "RISO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Torben Grael, iatista",
+      "answer": "TG",
+      "row": 0,
+      "col": 10
+    },
+    "16": {
+      "clue": "A mania de repetir o que outrem diz",
+      "answer": "ECOLALIA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "(Terat.) Anormalidade de feto com duas cabeças e os corpos unidos",
+      "answer": "SISSOMIA",
+      "row": 3,
+      "col": 10
+    },
+    "21": {
+      "clue": "Junção de e + não",
+      "answer": "NEM",
+      "row": 4,
+      "col": 5
+    },
+    "23": {
+      "clue": "Fina iguaria feita com ovas salgadas de esturjão",
+      "answer": "CAVIAR",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Livrar de suspeitas",
+      "answer": "ILIBAR",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Relativo à membrana que dá a cor aos olhos",
+      "answer": "IRIAL",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "O dedo polegar",
+      "answer": "POLEX",
+      "row": 6,
+      "col": 6
+    },
+    "31": {
+      "clue": "Do \"Continente Negro\"",
+      "answer": "AFRO",
+      "row": 7,
+      "col": 1
+    },
+    "33": {
+      "clue": "Área coberta de plantas silvestres de portes diversos",
+      "answer": "MATA",
+      "row": 7,
+      "col": 8
+    },
+    "36": {
+      "clue": "Polícia Civil",
+      "answer": "PC",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Sabrina Sato, modelo e apresentadora de TV",
+      "answer": "SS",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

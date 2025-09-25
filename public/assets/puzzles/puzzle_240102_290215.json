@@ -1,0 +1,240 @@
+{
+  "across": {
+    "1": {
+      "clue": "Espaguete, lasanha e nhoque",
+      "answer": "MASSAS",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Parte de comida que gruda no fundo da panela",
+      "answer": "RAPA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Um combustível originário do petróleo",
+      "answer": "QUEROSENE",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Facilidade para uma boa pronúncia",
+      "answer": "EUSTOMIA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Custo e frete",
+      "answer": "CF",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Parte da mina onde se acha o mineral",
+      "answer": "VEIO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Tornar companheiro fiel",
+      "answer": "AMIGAR",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Preposição que pode fundir-se com os artigos",
+      "answer": "EM",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Aquela que verifica e conserta erros em textos",
+      "answer": "REVISORA",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Substância que atua na digestão de gorduras",
+      "answer": "FEL",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "Sufixo de qualidade ou estado",
+      "answer": "EZ",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Sem vigor",
+      "answer": "RELAXADO",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Cinto para fazer um animal pular, em rodeios",
+      "answer": "SEDEM",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Cor que a vergonha produz no rosto",
+      "answer": "RUBOR",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "Emblema de vitória",
+      "answer": "TROFEU",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Inhame-da-china, tubérculo comestível",
+      "answer": "CARA",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Inclinar-se (o navio) submergindo de um lado",
+      "answer": "ADERNAR",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "Sérgio Reis, cantor e compositor sertanejo",
+      "answer": "SR",
+      "row": 9,
+      "col": 9
+    },
+    "36": {
+      "clue": "Estrutura com genes",
+      "answer": "CROMOSSOMO",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Do lado de cá",
+      "answer": "AQUEM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Famosa boneca brasileira dos anos 70",
+      "answer": "SUSI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Âmbito",
+      "answer": "SETOR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Armação que sustenta a cesta do basquete",
+      "answer": "ARO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Adicionável",
+      "answer": "SOMAVEL",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "O padrão monetário brasileiro (pl.)",
+      "answer": "REAIS",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Adalgisa Nery (1905-1980), escritora",
+      "answer": "AN",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Transgredir preceito religioso",
+      "answer": "PECAR",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Parecido",
+      "answer": "SIMILAR",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "O ponto culminante do nosso planeta",
+      "answer": "EVEREST",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Fazer ruído estrondoso",
+      "answer": "FRAGORAR",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Fruto de polpa adocicada, vermelha ou branca",
+      "answer": "GOIABA",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Que dura pouco",
+      "answer": "EFEMERO",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "Liquidar, saldar",
+      "answer": "ZERAR",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Prisioneiro que fica como garantia",
+      "answer": "REFEM",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Sem cultura, sem conhecimento",
+      "answer": "XUCRO",
+      "row": 6,
+      "col": 7
+    },
+    "26": {
+      "clue": "Costas",
+      "answer": "DORSO",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Espécie de cisne, já extinto",
+      "answer": "DODO",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "Pouco mais ou menos",
+      "answer": "UNS",
+      "row": 8,
+      "col": 5
+    },
+    "34": {
+      "clue": "A carta com a letra A",
+      "answer": "AS",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Peça usada na cobertura de edifícios",
+      "answer": "TELHA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Pequeno calombo lateral das curvas de pistas de corridas",
+      "answer": "ZEBRA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Tecla muito utilizada pelos usuários de computadores",
+      "answer": "ALT",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "O andar ritmado do cavalo",
+      "answer": "TROTE",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Região de Recife e Natal",
+      "answer": "NE",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Tubo para escoamento de águas em excesso num terreno",
+      "answer": "DRENO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Boletim Oficial",
+      "answer": "BO",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Um instrumento musical de sopro",
+      "answer": "GAITA",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Bastante",
+      "answer": "BEM",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Comover",
+      "answer": "ABALAR",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "O tradicional doce de aniversários",
+      "answer": "BOLO",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Caráter do que é dito de viva voz",
+      "answer": "ORALIDADE",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "(Inform.) Conectividade sem fio",
+      "answer": "WIFI",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Uma variação do beliche",
+      "answer": "BICAMA",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "O de 1896 ficou marcado pela guerra de Canudos, na Bahia",
+      "answer": "ANO",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Desaparecer, perder",
+      "answer": "SUMIR",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "A nota musical entre o mi e o sol",
+      "answer": "FA",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Persistência inoportuna",
+      "answer": "TEIMA",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "Uma interjeição de chamamento",
+      "answer": "EI",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Elevação da temperatura do corpo além dos 37ºC",
+      "answer": "FEBRE",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "Ferro magnético",
+      "answer": "IMÃ",
+      "row": 9,
+      "col": 8
+    },
+    "32": {
+      "clue": "Da cor do fogo ou do sangue",
+      "answer": "RUBRO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Purpúreo",
+      "answer": "ROSEO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Tão grande ou numerosa",
+      "answer": "TANTA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Precede o eme",
+      "answer": "ELE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "As iniciais do revolucionário russo Trótski (1879-1940)",
+      "answer": "LT",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "De uma parte do coração",
+      "answer": "ATRIAL",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Área circunscrita",
+      "answer": "ZONA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Sufixo diminutivo masculino",
+      "answer": "ETO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O som da voz das ovelhas",
+      "answer": "BE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Partícula mínima",
+      "answer": "ATOMO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Dar a compensação devida",
+      "answer": "RETRIBUIR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "O Lama líder tibetano",
+      "answer": "DALAI",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "A capital da UF PA",
+      "answer": "BELEM",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Um dos talheres",
+      "answer": "GARFO",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "(Gír.) Ficar em estado depressivo ou de sonolência",
+      "answer": "BODAR",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Um boné sem pala",
+      "answer": "BOINA",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Recipiente para lavagem de roupas, alimentos etc.",
+      "answer": "BACIA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "(Ingl.) Dispositivo usado para graduar a intensidade de luz",
+      "answer": "DIMMER",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "(Ingl.) Biscoito tipo sanduíche",
+      "answer": "WAFER",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "O meio de transporte da Azul ou da Gol",
+      "answer": "AVIÃO",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Livraria onde se compram e vendem livros usados",
+      "answer": "SEBO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Estar de posse de",
+      "answer": "TER",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "M",
+      "answer": "EME",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Fábio Barreto, cineasta de \"O Quatrilho\"",
+      "answer": "FB",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "Internacional Socialista",
+      "answer": "IS",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

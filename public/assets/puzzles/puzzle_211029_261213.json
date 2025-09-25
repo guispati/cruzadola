@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "A febre infecciosa que atinge o gado",
+      "answer": "AFTOSA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Benzedor",
+      "answer": "PAJE",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Estuprada, violada",
+      "answer": "VIOLENTADA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "O Woody, cineasta de \"Meia-Noite em Paris\"",
+      "answer": "ALLEN",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Sucesso",
+      "answer": "EXITO",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "O elepê possue um A e um B",
+      "answer": "LADO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Podem ser fundos, rasos e de sobremesa",
+      "answer": "PRATOS",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "O Wilde (1854-1900), escritor de \"O Retrato de Dorian Gray\"",
+      "answer": "OSCAR",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Observação",
+      "answer": "OBS",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "Um tipo de sangue",
+      "answer": "AB",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Pessoa que cria uma história",
+      "answer": "AUTOR",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Interjeição que expressa pesar ou grande dor",
+      "answer": "AI",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Mágoa por um desgosto",
+      "answer": "DOR",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Enlouquecer",
+      "answer": "PIRAR",
+      "row": 6,
+      "col": 4
+    },
+    "29": {
+      "clue": "(Gír.) Indivíduo fácil de ser enganado",
+      "answer": "OTARIO",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "O cachorro do Franjinha, da Turma da Mônica",
+      "answer": "BIDU",
+      "row": 7,
+      "col": 7
+    },
+    "33": {
+      "clue": "Vizinhança, contorno",
+      "answer": "REDOR",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "A disputa decisiva",
+      "answer": "FINAL",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Emplastro contra inflamações",
+      "answer": "CATAPLASMA",
+      "row": 9,
+      "col": 1
+    },
+    "37": {
+      "clue": "Furo na pele",
+      "answer": "PORO",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Formar par",
+      "answer": "PAREAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Aquele que estima o preço de algo",
+      "answer": "AVALIADOR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Série ininterrupta",
+      "answer": "FILA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Uma proteção para varanda ou loja",
+      "answer": "TOLDO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Rica de substâncias graxas",
+      "answer": "OLEOSA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Abreviatura (em português) do Senegal",
+      "answer": "SEN",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Agência Nacional",
+      "answer": "AN",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "(Fig.) Aquele que tem muitas amantes",
+      "answer": "PAXA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Compartimento reservado",
+      "answer": "ADITO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Árvore de até 40 m de altura",
+      "answer": "JATOBA",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Sentimento de medo enorme e incontrolável",
+      "answer": "TERROR",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Semelhante a pequeno osso",
+      "answer": "OSSICULAR",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Grande saguão",
+      "answer": "PATIO",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Abelha silvestre, produz mel de qualidade inferior",
+      "answer": "CUPIRA",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Barzinho",
+      "answer": "BOTECO",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Ser tomado por sentimento de raiva",
+      "answer": "RABIAR",
+      "row": 5,
+      "col": 7
+    },
+    "26": {
+      "clue": "Detecta objetos",
+      "answer": "RADAR",
+      "row": 6,
+      "col": 2
+    },
+    "28": {
+      "clue": "Shampoo para tratar e amaciar o cabelo",
+      "answer": "RINSE",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "Mal vestido",
+      "answer": "ROTO",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "Uma carta do baralho",
+      "answer": "DAMA",
+      "row": 7,
+      "col": 9
+    },
+    "34": {
+      "clue": "Um adversário do Flu",
+      "answer": "FLA",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "(Mús.) Abreviatura de pianíssimo",
+      "answer": "PP",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

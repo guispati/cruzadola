@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Adorno indígena de penas",
+      "answer": "COCAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Cerveja de barril",
+      "answer": "CHOPE",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Lacuna entre duas coisas",
+      "answer": "HIATO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Alojamento para turistas",
+      "answer": "HOTEL",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Medido",
+      "answer": "MENSURADO",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Cidadão do mundo",
+      "answer": "ORBICOLA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Raul Gil, apresentador de TV",
+      "answer": "RG",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "O segundo menor continente",
+      "answer": "EUROPA",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Regra constante entre fenômenos",
+      "answer": "LEI",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "A região do corpo que dói na isquialgia",
+      "answer": "ANCA",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Nervo essencial à fala, respiração etc.",
+      "answer": "VAGO",
+      "row": 5,
+      "col": 7
+    },
+    "22": {
+      "clue": "Animal grande, criado para alimentação",
+      "answer": "BOI",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Característica",
+      "answer": "TIPICA",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "Eloísa Mafalda (1924-2018), atriz paulista",
+      "answer": "EM",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Parte do encéfalo que regula as funções do equilíbrio",
+      "answer": "CEREBELO",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Aprimorador",
+      "answer": "RETOCADOR",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "A capital de Taiwan, arquipélago também chamado Formosa",
+      "answer": "TAIPE",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Língua falada na Síria",
+      "answer": "ARABE",
+      "row": 9,
+      "col": 6
+    },
+    "33": {
+      "clue": "Instalar (uma tenda, barraca etc.)",
+      "answer": "ARMAR",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "O contrário de estreito",
+      "answer": "LARGO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Piso",
+      "answer": "CHÃO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um alô entre amigos",
+      "answer": "OI",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Uma árvore de frutos comestíveis",
+      "answer": "CAMBUCI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Pé de fruta-do-conde",
+      "answer": "ATEIRA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Um ruído que atrapalha o sono alheio",
+      "answer": "RONCO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Diz-se de expressão baixa, grosseira",
+      "answer": "CHULA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Período para determinada atividade",
+      "answer": "HORA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Um sufixo diminutivo",
+      "answer": "OTA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Local onde existe muita rocha dura",
+      "answer": "PEDREGAL",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Louvor",
+      "answer": "ELOGIO",
+      "row": 0,
+      "col": 10
+    },
+    "14": {
+      "clue": "Peça para servir um dos pratos de um jantar",
+      "answer": "SOPEIRA",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Escolher novamente para um cargo",
+      "answer": "RENOMEAR",
+      "row": 3,
+      "col": 1
+    },
+    "19": {
+      "clue": "Rasgar em pedaços",
+      "answer": "LACERAR",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "O antônimo de fechada",
+      "answer": "ABERTA",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Fig.) Pessoa maligna, venenosa",
+      "answer": "VIBORA",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "Fazer obra de tear",
+      "answer": "TECER",
+      "row": 6,
+      "col": 4
+    },
+    "24": {
+      "clue": "Uma peça da bicicleta",
+      "answer": "PEDAL",
+      "row": 6,
+      "col": 6
+    },
+    "26": {
+      "clue": "Fica ao lado da cozinha",
+      "answer": "COPA",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "Substância gordurosa em estado líquido",
+      "answer": "OLEO",
+      "row": 7,
+      "col": 10
+    },
+    "29": {
+      "clue": "O Burton de \"A Fantástica Fábrica de Chocolate\"",
+      "answer": "TIM",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "Beto Guedes, músico",
+      "answer": "BG",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

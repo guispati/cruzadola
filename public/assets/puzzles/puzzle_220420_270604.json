@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Papagaio pequeno, esperto e falador",
+      "answer": "MAITACA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Batida na porta",
+      "answer": "TOC",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Depressão",
+      "answer": "REBAIXO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Expressar por meio de cantigas",
+      "answer": "TROVAR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Que tem capacidade para fazer",
+      "answer": "APTO",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Forte moeda do mercado internacional",
+      "answer": "IENE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Correr paralelo a",
+      "answer": "LADEAR",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "O dobro de DI, nos números romanos",
+      "answer": "MII",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "(Pop.) Bonito e gracioso",
+      "answer": "FOFO",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "A sílaba que se repete em abóbora",
+      "answer": "BO",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Perfeito, primoroso",
+      "answer": "MAGISTRAL",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Mãe do pai",
+      "answer": "VO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Pop.) Companheira, amiga",
+      "answer": "NEGA",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Doar",
+      "answer": "DAR",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Cilindro que se move no interior de seringas",
+      "answer": "EMBOLO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Qualquer",
+      "answer": "TODO",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "(Ingl.) Uma lente usada em fotografia",
+      "answer": "ZOOM",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Diversos",
+      "answer": "MUITOS",
+      "row": 8,
+      "col": 5
+    },
+    "34": {
+      "clue": "Bolsa de Valores de São Paulo",
+      "answer": "BOVESPA",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Aquele que goza de perfeita saúde",
+      "answer": "SÃO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Saliência córnea do pé do galo",
+      "answer": "ESPORÃO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Distúrbio popular",
+      "answer": "MOTIM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Palavra que exprime exatamente o contrário do que parece exprimir",
+      "answer": "IRONIA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "(Pop.) Televisão",
+      "answer": "TEVE",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Outro nome para a orelha de um livro",
+      "answer": "ABA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Importante compositor clássico brasileiro (1836-1896)",
+      "answer": "CARLOSGOMES",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Grito de dor física ou moral",
+      "answer": "AI",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Batida entre dois objetos",
+      "answer": "TOPE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O gênero musical de Pixinguinha",
+      "answer": "CHORO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Veste iraniana",
+      "answer": "XADOR",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Figura que simboliza o carnaval",
+      "answer": "REIMOMO",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Palco",
+      "answer": "TABLADO",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Pequena úlcera da boca",
+      "answer": "AFTA",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "O oposto de traidor",
+      "answer": "FIEL",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Um anãozinho de fábula",
+      "answer": "GNOMO",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Escolher e usar",
+      "answer": "ADOTAR",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "(Às) Em algumas ocasiões",
+      "answer": "VEZES",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Expressão, semblante",
+      "answer": "ROSTO",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Bocó, palerma, trouxa",
+      "answer": "BOBO",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Modelo",
+      "answer": "TIPO",
+      "row": 7,
+      "col": 7
+    },
+    "33": {
+      "clue": "A instituição educacional com FEA, POLI e FAU",
+      "answer": "USP",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "V",
+      "answer": "VE",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

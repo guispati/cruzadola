@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Roupa masculina que se usa por baixo da calça",
+      "answer": "CUECA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Fazer a escolha",
+      "answer": "OPTAR",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Que acontece a cada 12 meses",
+      "answer": "ANUAL",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Qualquer roupa velha",
+      "answer": "TRAPO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Cão de pele enrugada e língua azulada",
+      "answer": "SHARPEI",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "O típico bar dos ingleses",
+      "answer": "PUB",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Sociedade Anônima",
+      "answer": "SA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Conserto, reparação",
+      "answer": "RESTAURO",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "O segredo que cerca os fatos inexplicáveis",
+      "answer": "MISTERIO",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Teta, mama",
+      "answer": "SEIO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Peça onde se planta flores",
+      "answer": "VASO",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "(Secos e) Conjunto de sólidos e líquidos alimentares",
+      "answer": "MOLHADOS",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Alisar madeira com certa ferramenta",
+      "answer": "APLAINAR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Quadrúpede macho, híbrido de jumento com égua",
+      "answer": "MU",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "(Bíbl.) O personagem que salvou os animais numa grande arca",
+      "answer": "NOE",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Amansável",
+      "answer": "DOMAVEL",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Ficar vidrado, encantado",
+      "answer": "GAMAR",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Local para conservar os vinhos",
+      "answer": "ADEGA",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "O sétimo planeta a partir do Sol",
+      "answer": "URANO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Voltar (o doente) a um bom estado de saúde",
+      "answer": "SARAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Fruto semelhante à groselha",
+      "answer": "CASSIS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Lâmina que cobre a ponta dos dedos",
+      "answer": "UNHA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Abreviatura de Estados Unidos da América",
+      "answer": "EUA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Veículo de duas rodas, pequeno e ordinário",
+      "answer": "CARRIOLA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Sistema montanhoso europeu",
+      "answer": "ALPES",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Afecção comum do ouvido",
+      "answer": "OTITE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Sigla do estado de Londrina",
+      "answer": "PR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Grupos indígenas que não falavam tupi, e que viviam no interior do país",
+      "answer": "TAPUIAS",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Falta de recursos",
+      "answer": "APUROS",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Máquina capaz de se movimentar e agir",
+      "answer": "ROBO",
+      "row": 0,
+      "col": 10
+    },
+    "14": {
+      "clue": "A atriz e cantora Marjorie",
+      "answer": "ESTIANO",
+      "row": 2,
+      "col": 5
+    },
+    "18": {
+      "clue": "Retirada precipitada",
+      "answer": "ARVORADA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Tubo ou conduto que contém fibrilas musculares",
+      "answer": "MIOLEMA",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Cobrir de pó",
+      "answer": "EMPOAR",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "De forma semelhante à de um óvulo",
+      "answer": "OVULAR",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Elemento de composição: água",
+      "answer": "HIDRO",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Jogo de tabuleiro entre dois parceiros",
+      "answer": "DAMAS",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "(Pop.) Falta de ordem",
+      "answer": "ANGU",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Um milhão, como unidades de medida",
+      "answer": "MEGA",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Perceber com os olhos",
+      "answer": "VER",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Prefixo: falta, privação",
+      "answer": "AN",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

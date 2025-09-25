@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Passar de saúde",
+      "answer": "ESTAR",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Equipe pernambucana de futebol",
+      "answer": "SPORT",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Pelé para o futebol",
+      "answer": "REI",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Aquele que vota",
+      "answer": "ELEITOR",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Vime sem vogais",
+      "answer": "VM",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Muito medo",
+      "answer": "PAURA",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "A UF de Arraial da Ajuda",
+      "answer": "BA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Tornar raso",
+      "answer": "APLANAR",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Em companhia de",
+      "answer": "COM",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Saque de dinheiro",
+      "answer": "RETIRADA",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Cidade tida como o local onde Jesus Cristo nasceu",
+      "answer": "BELEM",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "O elefante-voador da Disney",
+      "answer": "DUMBO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Apaixonar",
+      "answer": "ENAMORAR",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "(Meteor.) Abreviatura de milibar",
+      "answer": "MB",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Aquele que arma algo em prejuízo de alguém",
+      "answer": "TRAMADOR",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Uma bacia do banheiro",
+      "answer": "BIDE",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Espécie de bolo seco, coberto de glacê de açúcar",
+      "answer": "CAVACA",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Ainda bem!",
+      "answer": "UFA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Movimento repetitivo das águas do oceano",
+      "answer": "MARE",
+      "row": 9,
+      "col": 4
+    },
+    "35": {
+      "clue": "Alanis Guillen, atriz paulista",
+      "answer": "AG",
+      "row": 9,
+      "col": 9
+    },
+    "36": {
+      "clue": "Aquele que ensina uma arte ou ciência",
+      "answer": "MESTRE",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "O cantor e compositor Santos, de \"Tudo Azul\"",
+      "answer": "LULU",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Vegetação que cresce espontaneamente",
+      "answer": "ERVA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Todas as vezes",
+      "answer": "SEMPRE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Variação de tu",
+      "answer": "TI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Devolver ânimo e confiança",
+      "answer": "REANIMAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Cadeia montanhosa do sul e sudeste brasileiro",
+      "answer": "SERRADOMAR",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Bacia com fluxo de água, para lavar louças em cozinhas",
+      "answer": "PIA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Rád.) Ondas Tropicais",
+      "answer": "OT",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Homem mecânico e eletrônico",
+      "answer": "ROBO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Pop.) Trabalho",
+      "answer": "TRAMPO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "(do Sertão) Uma das mais famosas toadas brasileiras",
+      "answer": "LUAR",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "A exclusividade de uma invenção",
+      "answer": "PATENTE",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "(Gír.) Doido, maluco",
+      "answer": "LELE",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Faixa de substância entreposta a outra",
+      "answer": "CAMADA",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Que não se gasta",
+      "answer": "DURAVEL",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "(Praticumbum Prugurundum) Famoso samba-enredo da Império Serrano",
+      "answer": "BUMBUM",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Enfeite feito de pedacinhos de espelho colorido",
+      "answer": "BROCAL",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Cidade do RJ",
+      "answer": "MACAE",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Fatia de carne, pode ser servida grelhada, frita etc.",
+      "answer": "BIFE",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Ensopado",
+      "answer": "RAGU",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Documento de Arrecadação do Simples",
+      "answer": "DAS",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "Meg Ryan, atriz de \"Mulheres - O Sexo Forte\"",
+      "answer": "MR",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

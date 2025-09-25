@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Substância que, misturada com a terra, aumenta sua produtividade",
+      "answer": "ADUBO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "A língua oficial do Iraque",
+      "answer": "ARABE",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "(Esp.) Dinheiro recebido por um jogador na assinatura de novo contrato",
+      "answer": "LUVAS",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Papa de milho verde com leite de vaca",
+      "answer": "CURAU",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "(Ingl.) Correio eletrônico",
+      "answer": "EMAIL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Ser animal formado por uma única célula",
+      "answer": "AMEBA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "As iniciais da atriz paulista Becker (1921-1969)",
+      "answer": "CB",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "A região italiana de Arezzo, Pisa e Siena",
+      "answer": "TOSCANA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Ave semelhante à uma pomba",
+      "answer": "ROLA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Planta da qual se extrai uma espécie de borracha",
+      "answer": "PIRIRI",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Saudação entre amigos",
+      "answer": "OLA",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Uma famosa personagem de Maurício de Sousa",
+      "answer": "MAGALI",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Circunscrição onde determinado juízo exerce sua competência",
+      "answer": "FORO",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Em informática, reiniciar o computador",
+      "answer": "RESETAR",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Uma das três grandes divisões da personalidade humana",
+      "answer": "ID",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Prudência",
+      "answer": "SENSO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Não eclesíastico",
+      "answer": "LEIGO",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "O local de trabalho de Miguel Pupo e Felipe Toledo (pl.)",
+      "answer": "ONDAS",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Razão",
+      "answer": "FATOR",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "O deserto comum ao Egito, Senegal e Argélia",
+      "answer": "SAARA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Uma ave de lindas cores",
+      "answer": "ARARA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Erva aromática usada para carnes e legumes",
+      "answer": "ALECRIM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O elefante-voador da Disney",
+      "answer": "DUMBO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Fruto para vinhos, sucos e vinagres",
+      "answer": "UVA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Pop.) Muito grande, imenso, enorme",
+      "answer": "BAITA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Uma capital escandinava",
+      "answer": "OSLO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Planta cultivada para extração de goma-arábica",
+      "answer": "ACACIA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Dirigir-se",
+      "answer": "RUMAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Grés, pedra de areia",
+      "answer": "ARENITO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Salivar",
+      "answer": "BABAR",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Abreviatura de Estados Unidos da América",
+      "answer": "EUA",
+      "row": 0,
+      "col": 10
+    },
+    "17": {
+      "clue": "(Banana) Sorvete feito com essa fruta e outros ingredientes",
+      "answer": "SPLIT",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "O texto explicativo das imagens de uma publicação",
+      "answer": "LEGENDA",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Sem cheiro (fem.)",
+      "answer": "INODORA",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Cheia de substâncias graxas",
+      "answer": "OLEOSA",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Um moderno estádio de futebol e praça de eventos",
+      "answer": "ARENA",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Colocar no forno para cozinhar",
+      "answer": "ASSAR",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Acionar o dispositivo que faz um veículo diminuir a velocidade",
+      "answer": "FREAR",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Grande severidade",
+      "answer": "RIGOR",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "A primeira letra do alfabeto grego",
+      "answer": "ALFA",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Uma sigla para pedido de socorro",
+      "answer": "SOS",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Instituto Tecnológico de Aeronáutica",
+      "answer": "ITA",
+      "row": 8,
+      "col": 8
+    }
+  }
+}

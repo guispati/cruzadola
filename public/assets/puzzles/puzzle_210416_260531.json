@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Que se pode confrontar",
+      "answer": "COMPARAVEL",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Curar ao vapor e calor que sobe do fogo",
+      "answer": "DEFUMAR",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Medida Provisória",
+      "answer": "MP",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Ter medo de, recear",
+      "answer": "TEMER",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Maranhão",
+      "answer": "MA",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "De sabor agradável",
+      "answer": "BOM",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Os algarismos I, V, X, L, C, D e M",
+      "answer": "ROMANOS",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Ir em socorro de",
+      "answer": "ACUDIR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Visto que, porque",
+      "answer": "POIS",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Condutor, mentor",
+      "answer": "LIDER",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "O que protege o fruto",
+      "answer": "CASCA",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "3ª pessoa do plural (fem.)",
+      "answer": "ELAS",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Aterrissar, aterrar",
+      "answer": "POUSAR",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Tornar pior, mais difícil",
+      "answer": "AGRAVAR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "No de 1789 ocorreu a Queda da Bastilha, na Revolução Francesa",
+      "answer": "ANO",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "(Quím.) A sigla do elemento que, junto com o Cl, forma o sal de cozinha",
+      "answer": "NA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Cada estação tem três",
+      "answer": "MESES",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "A sigla de Ondas Curtas, nos rádios",
+      "answer": "OC",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Que reúne",
+      "answer": "COLETOR",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Ultrapassar os limites",
+      "answer": "EXTRAPOLAR",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Que anda de maneira irregular",
+      "answer": "CAMBALEANTE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "1.500, em algarismos romanos",
+      "answer": "MD",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Plástico para garrafas",
+      "answer": "PET",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Examinar a exatidão dos instrumentos de pesagem, medição etc.",
+      "answer": "AFERIR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Barulho, burburinho",
+      "answer": "RUMOR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Rel.) A última palavra das orações",
+      "answer": "AMEM",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Pessoa muito alta e magra",
+      "answer": "VARAPAU",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Quím.) O símbolo do érbio",
+      "answer": "ER",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Pedaço de fermento com que se leveda o pão",
+      "answer": "MASSAROCO",
+      "row": 1,
+      "col": 10
+    },
+    "12": {
+      "clue": "Curral de porcos",
+      "answer": "POCILGA",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Indígena de uma tribo dos EUA, hoje extinta",
+      "answer": "MOICANO",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Converter, transformar",
+      "answer": "MUDAR",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "(A Praça é) Tradicional programa humorístico",
+      "answer": "NOSSA",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Desprezo",
+      "answer": "DESAMOR",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Pavilhão em preça, para apresentações musicais",
+      "answer": "CORETO",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Programa de Formação do Patrimônio do Servidor Público",
+      "answer": "PASEP",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Modalidade desportiva com barcos movidos pelos ventos",
+      "answer": "VELA",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Astro luminoso, centro do nosso sistema planetário",
+      "answer": "SOL",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Charlize Theron, atriz de \"Monster\"",
+      "answer": "CT",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Renato Aragão, ator e humorista dos \"Trapalhões\"",
+      "answer": "RA",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

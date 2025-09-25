@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Que não está exposto ao Sol",
+      "answer": "SOMBRIO",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Tribo indígena que vive no oeste do Mato Grosso do Sul",
+      "answer": "TERENAS",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Abreviatura inglesa de mister (senhor)",
+      "answer": "MR",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Um feminino de deus",
+      "answer": "DIVA",
+      "row": 2,
+      "col": 2
+    },
+    "13": {
+      "clue": "(Dulce) Religiosa baiana beatificada em 2011",
+      "answer": "IRMÃ",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Em bioquímica, uma proteína do sistema imunológico",
+      "answer": "CITOCINA",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "(arrependida) Locução que indica pessoa que procura mostrar o seu arrependimento por haver agido mal com outra",
+      "answer": "MADALENA",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "A terceira nota musical",
+      "answer": "MI",
+      "row": 4,
+      "col": 9
+    },
+    "19": {
+      "clue": "Relatório das deliberações tomadas numa reunião",
+      "answer": "ATA",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "A irmã da mãe ou do pai",
+      "answer": "TIA",
+      "row": 5,
+      "col": 4
+    },
+    "21": {
+      "clue": "O início de... janeiro",
+      "answer": "JAN",
+      "row": 5,
+      "col": 8
+    },
+    "22": {
+      "clue": "O sódio, para os químicos",
+      "answer": "NA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Pássaro que se alimenta de frutos, de canto mavioso",
+      "answer": "GATURAMO",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "O controvertido ex-craque argentino de futebol Diego",
+      "answer": "MARADONA",
+      "row": 7,
+      "col": 2
+    },
+    "26": {
+      "clue": "(Ingl.) Touro",
+      "answer": "BULL",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Interjeição típica do Nordeste",
+      "answer": "VIGE",
+      "row": 8,
+      "col": 5
+    },
+    "29": {
+      "clue": "As iniciais do jornalista Marinho, fundador da Rede Globo",
+      "answer": "RM",
+      "row": 9,
+      "col": 0
+    },
+    "30": {
+      "clue": "Diz-se de flor sem corola",
+      "answer": "APETALA",
+      "row": 9,
+      "col": 3
+    },
+    "33": {
+      "clue": "Um doce de ovos",
+      "answer": "FLORADA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "O que muda de picar para picotar",
+      "answer": "OT",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Tamanho, capacidade, extensão, volume ou quantidade de alguma coisa",
+      "answer": "MEDIDA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Pedra fragmentada, usada em construções",
+      "answer": "BRITA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Causar indignação",
+      "answer": "REVOLTAR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Inadmissível",
+      "answer": "INACEITAVEL",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Osvaldo Aranha, político",
+      "answer": "OA",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "(Pop.) Indivíduo que vive uma vida de luxo",
+      "answer": "GRÃFINO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Destino",
+      "answer": "SINA",
+      "row": 1,
+      "col": 7
+    },
+    "11": {
+      "clue": "As iniciais da cantora sertaneja Mendonça",
+      "answer": "MM",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "As pontas da... rúcula",
+      "answer": "RA",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Procura",
+      "answer": "CATA",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Extraordinário e incrível",
+      "answer": "INAUDITO",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "Movimento para estacionar um carro",
+      "answer": "MANOBRA",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Órgão capaz de secretar leite",
+      "answer": "MAMA",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "(Inform.) Trecho de tela com a exibição total ou parcial de um arquivo, programa etc.",
+      "answer": "JANELA",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Traje para ocasiões solenes",
+      "answer": "GALA",
+      "row": 6,
+      "col": 3
+    },
+    "24": {
+      "clue": "Implorar a alguém",
+      "answer": "ROGAR",
+      "row": 6,
+      "col": 7
+    },
+    "25": {
+      "clue": "Abreviatura de mililitro",
+      "answer": "ML",
+      "row": 7,
+      "col": 2
+    },
+    "27": {
+      "clue": "O primeiro dos numerais cardinais",
+      "answer": "UM",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "Polícia Federal",
+      "answer": "PF",
+      "row": 9,
+      "col": 4
+    },
+    "32": {
+      "clue": "(Sigla) Ativo Disponível",
+      "answer": "AD",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

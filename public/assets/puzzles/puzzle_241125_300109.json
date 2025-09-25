@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Minoria dominante num grupo social",
+      "answer": "ELITE",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "A banda do sucesso \"Vou Deixar\"",
+      "answer": "SKANK",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "(Fam.) Muito bom",
+      "answer": "SUPIMPA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "1002, em algarismos romanos",
+      "answer": "MII",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Pássaro de cores variadas",
+      "answer": "TIE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Peixe de água doce, de excelente carne",
+      "answer": "PACU",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "General Motors",
+      "answer": "GM",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Arthur Zanetti, ginasta",
+      "answer": "AZ",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "A Couto atriz",
+      "answer": "SOLANGE",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Uma doutrina filosófica-religiosa judaica",
+      "answer": "CABALA",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "O disparo de uma arma de fogo",
+      "answer": "TIRO",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "Tornar suave (roupas)",
+      "answer": "AMACIAR",
+      "row": 5,
+      "col": 2
+    },
+    "26": {
+      "clue": "Súplica",
+      "answer": "ROGO",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "(Ingl.) Diz-se de prova esportiva que ocorre em recinto fechado",
+      "answer": "INDOOR",
+      "row": 6,
+      "col": 5
+    },
+    "30": {
+      "clue": "Restabelecido",
+      "answer": "REATADO",
+      "row": 7,
+      "col": 1
+    },
+    "32": {
+      "clue": "P",
+      "answer": "PE",
+      "row": 7,
+      "col": 9
+    },
+    "33": {
+      "clue": "Patrick Dempsey, ator",
+      "answer": "PD",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Rio parisiense",
+      "answer": "SENA",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Uma unidade do hospital",
+      "answer": "CTI",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "O primário pode ter a pena diminuída",
+      "answer": "REU",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Dar patadas, como certos quadrúpedes",
+      "answer": "COICEAR",
+      "row": 9,
+      "col": 4
+    },
+    "40": {
+      "clue": "(Eletr. e Fís.) A unidade de medida de símbolo Ohm",
+      "answer": "OMEGA",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "Sem cauda",
+      "answer": "ANURO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Parar de repente",
+      "answer": "ESTACAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A empresária e ex-modelo Brunet",
+      "answer": "LUIZA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A árvore da flor que é um símbolo nacional",
+      "answer": "IPE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Variação de tu",
+      "answer": "TI",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Anat.) Pequena bexiga cheia de líquido",
+      "answer": "EMPOLA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Unidade comercial para o café em grãos",
+      "answer": "SACA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Sigla do estado que faz divisa com AC e RR",
+      "answer": "AM",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Grande rio da África (mais de 4.000 Km)",
+      "answer": "NIGER",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O Jong-un, ditador norte-coreano",
+      "answer": "KIM",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Próprio de quem vive na corte",
+      "answer": "PALACIANO",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Oleoso",
+      "answer": "UNTADO",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "As ilhas da Oceania com a cidade de Pago Pago",
+      "answer": "SAMOAS",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Volta, rotação",
+      "answer": "GIRO",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Cidade gaúcha na fronteira com o Uruguai",
+      "answer": "BAGE",
+      "row": 4,
+      "col": 2
+    },
+    "23": {
+      "clue": "Trabalhador",
+      "answer": "OBREIRO",
+      "row": 4,
+      "col": 10
+    },
+    "25": {
+      "clue": "(Dores do) Cidade mineira próxima à capital",
+      "answer": "INDAIA",
+      "row": 5,
+      "col": 6
+    },
+    "27": {
+      "clue": "Classe",
+      "answer": "ORDEM",
+      "row": 6,
+      "col": 1
+    },
+    "29": {
+      "clue": "Decidir entre um ou outro",
+      "answer": "OPTAR",
+      "row": 6,
+      "col": 9
+    },
+    "31": {
+      "clue": "Madeira usada em barcos",
+      "answer": "TECA",
+      "row": 7,
+      "col": 4
+    },
+    "33": {
+      "clue": "(Pop.) Para + o",
+      "answer": "PRO",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "Espaço infinito onde se movem os astros",
+      "answer": "CEU",
+      "row": 8,
+      "col": 8
+    },
+    "37": {
+      "clue": "Uai!",
+      "answer": "UE",
+      "row": 9,
+      "col": 2
+    },
+    "39": {
+      "clue": "Clara Nunes, cantora",
+      "answer": "CN",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

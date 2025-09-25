@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Liga natural de ouro e prata",
+      "answer": "ELETRO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Abreviatura de milha marítima",
+      "answer": "MIMA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Vasilha para o leite recém ordenhado",
+      "answer": "TARRO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "A última e decisiva partida de um campeonato",
+      "answer": "FINAL",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "(Inform.) Um \"local\" para arquivamento de imagens, documentos etc.",
+      "answer": "NUVEM",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "O país asiático em que a vaca é sagrada",
+      "answer": "INDIA",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Outro nome do peixe linguado",
+      "answer": "ARAMATA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Partícula molecular carregada de eletricidade",
+      "answer": "ION",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Aquela que vai à escola",
+      "answer": "ALUNA",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "Um grupo musical vocal",
+      "answer": "CORO",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Muito bela",
+      "answer": "LINDA",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Nojo",
+      "answer": "ASCO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "A parte superior da frente da cabeça dos animais",
+      "answer": "TESTA",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Dela",
+      "answer": "SUA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "O J de RJ",
+      "answer": "JANEIRO",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Tempo entre o nascer do Sol e o meio-dia",
+      "answer": "MANHÃ",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Ingl.) Contador de tempo",
+      "answer": "TIMER",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Zombaria, alcunha",
+      "answer": "APODO",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Náusea",
+      "answer": "ENOJO",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Que tem base concreta",
+      "answer": "REAL",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "(Montes) Importante cidade mineira",
+      "answer": "CLAROS",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Grande vulcão europeu situado na Sicília (Itália)",
+      "answer": "ETNA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Lady) Famosa música de Roberto Carlos",
+      "answer": "LAURA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Plantação de mate",
+      "answer": "ERVAL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Que oscila leve e rapidamente",
+      "answer": "TREMULO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Língua da Europa oriental",
+      "answer": "ROMANI",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Madame) A bruxa personagem de Walt Disney",
+      "answer": "MIN",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Um moicano ou txucarramãe",
+      "answer": "INDIO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Pessoa que atingiu a idade legal da responsabilidade",
+      "answer": "MAIOR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Cão de raça nórdica",
+      "answer": "ALANO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Organiza corridas de carros",
+      "answer": "FIA",
+      "row": 1,
+      "col": 6
+    },
+    "15": {
+      "clue": "Tão grande ou numerosa",
+      "answer": "TANTA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "A principal proteína do leite de vaca",
+      "answer": "CASEINA",
+      "row": 4,
+      "col": 7
+    },
+    "19": {
+      "clue": "Ficar admirado",
+      "answer": "PASMAR",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Corte na madeira para regular a altura das prateleiras",
+      "answer": "DENTEL",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Complexo industrial e portuário de Pernambuco",
+      "answer": "SUAPE",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Barco típico de povos primitivos",
+      "answer": "CANOA",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "(-Leste) O país asiático de Díli",
+      "answer": "TIMOR",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Renovação natural do ar nos recintos",
+      "answer": "AREJO",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Cantor de pop sofrência",
+      "answer": "JÃO",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Grande açude do NE",
+      "answer": "OROS",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "O \"bom colesterol\"",
+      "answer": "HDL",
+      "row": 8,
+      "col": 3
+    }
+  }
+}

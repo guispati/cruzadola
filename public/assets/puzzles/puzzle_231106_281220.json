@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma planta espinhosa",
+      "answer": "CACTO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O protetor dos dedos da costureira",
+      "answer": "DEDAL",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Qualidade do que dificulta uma ação, torna impraticável",
+      "answer": "IMPEDIENCIA",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "A região de Recife e Teresina",
+      "answer": "NE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Bot.) Cumari, pimentinha",
+      "answer": "TONCA",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Paulo Moura (1932-2010), músico paulista",
+      "answer": "PM",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Responsabilidade, incumbência",
+      "answer": "ENCARGO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Abreviatura de companhia",
+      "answer": "CIA",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "(River) Um clássico da música norte-americana",
+      "answer": "MOON",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Cidade mineira da região de Viçosa, na Zona da Mata",
+      "answer": "LAMIM",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Comandar a classificação de um campeonato",
+      "answer": "LIDERAR",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "As grandes estátuas da ilha de Páscoa, no Chile",
+      "answer": "MOAIS",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Nome de duas constelações (Maior e Menor)",
+      "answer": "URSA",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Sol, nos EUA",
+      "answer": "SUN",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Roubar",
+      "answer": "LADROAR",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Henry Ford (1863-1947), pioneiro dos carros",
+      "answer": "HF",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Transferir (de um veículo para outro)",
+      "answer": "MUDAR",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Interjeição de dor, admiração, espanto",
+      "answer": "UH",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "Iluminação",
+      "answer": "ALUMIAMENTO",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "(Ingl.) Tipo de biscoito sanduíche",
+      "answer": "WAFER",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "A estilista Zuzu (1914-1976), morta na ditadura militar",
+      "answer": "ANGEL",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A sétima arte",
+      "answer": "CINEMA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Agradável, prazeroso",
+      "answer": "AMENO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Cauby Peixoto, cantor",
+      "answer": "CP",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um distúrbio muscular, com tremores, paralisia e dores",
+      "answer": "TETANIA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Sensação olfativa em geral",
+      "answer": "ODOR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Imergir em água fervida com cinzas, para lavagem de tecidos",
+      "answer": "DECOAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Um sufixo de coletivo numeral",
+      "answer": "ENA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Seiscentos, em algarismos romanos",
+      "answer": "DC",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Outro nome da mandioca-doce",
+      "answer": "AIPIM",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Mistura de argila, matéria orgânica e água",
+      "answer": "LAMA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Quantidade de cidadãos do Reino Unido",
+      "answer": "INGLESADA",
+      "row": 1,
+      "col": 5
+    },
+    "17": {
+      "clue": "A parte mais longa do baixo intestino",
+      "answer": "COLON",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Nuvem formada por cristais de gelo",
+      "answer": "CIRRO",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "A atleta Maggi, medalhistaa olímpíca no salto em distância",
+      "answer": "MAURREN",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Dissolver",
+      "answer": "DILUIR",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "O artista pop Andy (1928-1987)",
+      "answer": "WARHOL",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Miçanga",
+      "answer": "MUFLA",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "(Fr.) Cozido em fogo forte e com bastante gordura",
+      "answer": "SAUTE",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "O escritor irlandês Bernard (1856-1950), prêmio Nobel 1925",
+      "answer": "SHAW",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Figura feminina do baralho",
+      "answer": "DAMA",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Ministério de Minas e Energia",
+      "answer": "MME",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Unidade da Federação",
+      "answer": "UF",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Nomenclatura Geral",
+      "answer": "NG",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

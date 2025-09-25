@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cidade do Paraná, na região Norte Central",
+      "answer": "APUCARANA",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "(Pop.) Não",
+      "answer": "NUM",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Voo em que o piloto utiliza apenas as informações dos instrumentos de bordo",
+      "answer": "CEGO",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Pedra usada para amolar tesouras",
+      "answer": "MO",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Sandra Bullock, atriz de \"28 Dias\"",
+      "answer": "SB",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Untar esfregando",
+      "answer": "BESUNTAR",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Pequena lasca de madeira que acidentalmente se introduz na pele",
+      "answer": "FARPA",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Um curso de água como o São Francisco",
+      "answer": "RIO",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Esforço intenso e contínuo",
+      "answer": "AFINCO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "A Pavone cantora italiana",
+      "answer": "RITA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Barbear com apuro, passando a navalha outra vez a contrapelo",
+      "answer": "ESCANHOAR",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Um tanto",
+      "answer": "ALGO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Sentimento de menosprezo",
+      "answer": "DESDEM",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "(-Francorchamps) Um dos circuitos da F1, na Bélgica",
+      "answer": "SPA",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Fig.) Coragem",
+      "answer": "PEITO",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "O Nelson sambista carioca",
+      "answer": "SARGENTO",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Uma multinacional de eletroeletrônicos",
+      "answer": "LG",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Mover-se de um lugar a outro",
+      "answer": "IR",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Elevado",
+      "answer": "ALTO",
+      "row": 9,
+      "col": 3
+    },
+    "32": {
+      "clue": "Perceber com os olhos",
+      "answer": "VER",
+      "row": 9,
+      "col": 8
+    },
+    "33": {
+      "clue": "Em biologia, diz-se de metabolismo que ocorre em ausência de oxigênio",
+      "answer": "ANAEROBIO",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Sentido de apreensão semellhante à angústia",
+      "answer": "ANSIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Bar tipicamente inglês",
+      "answer": "PUB",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Três menos dois",
+      "answer": "UM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Junto",
+      "answer": "ACERCA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Que replica, atende a uma pergunta",
+      "answer": "RESPONDENTE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Líquido composto de oxigênio e hidrogênio, indispensável à vida",
+      "answer": "AGUA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(-stop) Sem interrupção",
+      "answer": "NON",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Na bicicleta, trabalha junto com a catraca",
+      "answer": "COROA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Fr.) Chefe dos garçons",
+      "answer": "MAITRE",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Uma instituição como o Bradesco ou o Itaú",
+      "answer": "BANCO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Feita a escolha de",
+      "answer": "TRIADO",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Pescar com arpão",
+      "answer": "FISGAR",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Recobrir com tecido semelhante à pelagem animal",
+      "answer": "FELPAR",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Cara",
+      "answer": "ROSTO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "O compositor Villa-Lobos (1887-1959)",
+      "answer": "HEITOR",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "O Chateaubriand (1891-1968), introdutor da tevê no Brasil",
+      "answer": "ASSIS",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "O antônimo de gordo",
+      "answer": "MAGRO",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Por + aquela",
+      "answer": "PELA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Parte do... ganho",
+      "answer": "GAN",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "Norma jurídica estabelecida por autoridades competentes",
+      "answer": "LEI",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "As iniciais do médico Brasil (1865-1950)",
+      "answer": "VB",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

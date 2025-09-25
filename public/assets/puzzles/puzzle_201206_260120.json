@@ -1,0 +1,222 @@
+{
+  "across": {
+    "1": {
+      "clue": "Propriedade",
+      "answer": "POSSE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Pop.) Parar de funcionar",
+      "answer": "PIFAR",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Narcótico extraído dos frutos da papoula",
+      "answer": "OPIO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Proprietário de uma coisa",
+      "answer": "DONO",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "(Esp.) Jogada",
+      "answer": "LANCE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(e Molhados) Famosa banda dos anos 1970",
+      "answer": "SECOS",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Extremamente elevado",
+      "answer": "ALTISSIMO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Animal pouco maior que a raposa",
+      "answer": "CARACAL",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Um estado dos EUA",
+      "answer": "ALABAMA",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Gomo dos vegetais",
+      "answer": "REBENTO",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "Peça com que se calçam os cascos de cavalos",
+      "answer": "FERRADURA",
+      "row": 7,
+      "col": 2
+    },
+    "27": {
+      "clue": "Notícia",
+      "answer": "AVISO",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Material usado nas pederneiras, para produzir fogo",
+      "answer": "SILEX",
+      "row": 8,
+      "col": 6
+    },
+    "30": {
+      "clue": "O poeta Gonçalves, de \"Segundos Cantos\"",
+      "answer": "DIAS",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Figura feminina do baralho",
+      "answer": "DAMA",
+      "row": 9,
+      "col": 7
+    },
+    "32": {
+      "clue": "(Buenos) Uma capital sul-americana",
+      "answer": "AIRES",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Ficar vermelho por pudor ou vergonha",
+      "answer": "CORAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Uma das línguas eslavas ocidentais",
+      "answer": "POLACO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Automóvel da Chevrolet, não mais fabricado",
+      "answer": "OPALA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Cidade portuguesa, Patrimônio da Humanidade desde 1995",
+      "answer": "SINTRA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O segundo S do SESC",
+      "answer": "SOCIAL",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "A mesma coisa de antes",
+      "answer": "IDEM",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Fig.) Centro de atividade",
+      "answer": "FOCO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "No de 1939 teve início a II Guerra Mundial",
+      "answer": "ANO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O músico Noel (1910-1937), de \"Palpite Infeliz\"",
+      "answer": "ROSA",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Expectoração",
+      "answer": "ESCARRO",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "São três em dominó",
+      "answer": "SILABAS",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Ter informação, conhecimento",
+      "answer": "SABER",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Avaliado",
+      "answer": "MEDIDO",
+      "row": 5,
+      "col": 7
+    },
+    "20": {
+      "clue": "O dedo onde se usa aliança",
+      "answer": "ANULAR",
+      "row": 5,
+      "col": 8
+    },
+    "21": {
+      "clue": "Voz própria dos batráquios",
+      "answer": "COAXAR",
+      "row": 5,
+      "col": 10
+    },
+    "23": {
+      "clue": "Duplo ponto que se aplicava acentuando o u",
+      "answer": "TREMA",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "(De) Expressão usada como agradecimento",
+      "answer": "NADA",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Tramar, urdir (tecido)",
+      "answer": "FIAR",
+      "row": 7,
+      "col": 2
+    },
+    "26": {
+      "clue": "O do Sena é uma curva do circuito de Interlagos",
+      "answer": "ESSE",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "7, em algarismos romanos",
+      "answer": "VII",
+      "row": 8,
+      "col": 1
+    }
+  }
+}

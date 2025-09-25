@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um combustível automotivo",
+      "answer": "ALCOOL",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O grau máximo",
+      "answer": "AUGE",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Precede a peça principal",
+      "answer": "ANTEATO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "A direção geográfica NE",
+      "answer": "NORDESTE",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "As iniciais do ator Travolta, de \"Fenômeno\"",
+      "answer": "JT",
+      "row": 2,
+      "col": 9
+    },
+    "14": {
+      "clue": "R",
+      "answer": "ERRE",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Atrasar",
+      "answer": "TARDAR",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "(Black) Um traje para ocasiões formais",
+      "answer": "TIE",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Inflamação de um nervo",
+      "answer": "NEURITE",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Movimento circular",
+      "answer": "GIRO",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Quantidade prescrita",
+      "answer": "DOSE",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Na presença de",
+      "answer": "PERANTE",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Clube Atlético Mineiro",
+      "answer": "CAM",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Aspirar",
+      "answer": "INALAR",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "O contrário de tudo",
+      "answer": "NADA",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "As iniciais das atrizes Spiller e Sabatella",
+      "answer": "LS",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Terreno lamacento, pantanoso",
+      "answer": "ATOLADOR",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Diz-se de filho não natural",
+      "answer": "ADOTIVO",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "Que não se verga",
+      "answer": "RIJO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Situado acima da superfície das águas",
+      "answer": "EMERSO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O ator e comediante Marcelo",
+      "answer": "ADNET",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Progresso (numa profissão)",
+      "answer": "CARREIRA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "No lugar em que",
+      "answer": "ONDE",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Sufixo diminutivo",
+      "answer": "OTE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "O ponto cardeal E",
+      "answer": "LESTE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Operação realizada com tratores",
+      "answer": "ATERRO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "A última e a penúltima vogais",
+      "answer": "UO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Em posição intermediária",
+      "answer": "ENTRE",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Caixão luxuoso de defunto",
+      "answer": "ATAUDE",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Causas, razões",
+      "answer": "ORIGENS",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "Diz-se de certo acabamento feito em vidros, com areia",
+      "answer": "JATEADO",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Programa que efetua a chamada via modem",
+      "answer": "DISCADOR",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Criança que nasceu pela operação cesariana",
+      "answer": "NONATO",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Diz-se do queijo polvilhado na macarronada",
+      "answer": "RALADO",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Estrutura usada para sustentar pontes, edifícios etc.",
+      "answer": "PILAR",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Brincadeira que se faz com calouros de faculdades",
+      "answer": "TROTE",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "O mês entre fevereiro e abril",
+      "answer": "MARÇO",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "A espacial serve para viagens para fora da Terra",
+      "answer": "NAVE",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Símbolo de limite, em matemática",
+      "answer": "LIM",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Assistência Judiciária",
+      "answer": "AJ",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

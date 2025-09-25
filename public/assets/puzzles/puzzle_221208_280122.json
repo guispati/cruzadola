@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um pequeno barco",
+      "answer": "CANOA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Fundamental para a existência",
+      "answer": "VITAL",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Outro nome da árvore mimosa",
+      "answer": "ACACIA",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Gruta em rochedo",
+      "answer": "LAPA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Grande camarão de água doce, de carne apreciada",
+      "answer": "PITU",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "O conjunto de estruturas das universidades",
+      "answer": "CAMPUS",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Praguejar contra",
+      "answer": "AMALDIÇOAR",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "(Pop.) Está bem!",
+      "answer": "TA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Considerado",
+      "answer": "TIDO",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Sensação penosa, desagradável",
+      "answer": "DOR",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Um que ajuda enterrar os mortos",
+      "answer": "COVEIRO",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "(Red.) Parque para crocodilos, emas e tigres",
+      "answer": "ZOO",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Uma despedida",
+      "answer": "INTE",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "(Mús.) Abreviatura de pianíssimo",
+      "answer": "PP",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Lamentador",
+      "answer": "PRANTEADOR",
+      "row": 7,
+      "col": 1
+    },
+    "32": {
+      "clue": "Dona",
+      "answer": "PATROA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Um funcionário da limpeza urbana",
+      "answer": "GARI",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Mais adiante",
+      "answer": "ALEM",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Barulhos",
+      "answer": "RUIDOS",
+      "row": 9,
+      "col": 5
+    },
+    "37": {
+      "clue": "Relativo ao nariz",
+      "answer": "NASAL",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "(Mús.) Conjunto de notas que formam uma unidade melódica expressiva",
+      "answer": "FRASE",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Indivíduo que chefia grupo organizado de trabalhadores",
+      "answer": "CAPATAZ",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Na parte mais elevada",
+      "answer": "ACIMA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Parte do leite com a qual de faz manteiga",
+      "answer": "NATA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Escondido",
+      "answer": "OCULTO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Grito de dor física ou moral",
+      "answer": "AI",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Ilustríssimo",
+      "answer": "ILMO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "No sentido pejorativo, de pouca inteligência ou cultura",
+      "answer": "TAPADO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Situação difícil ou delicada, principalmente financeira",
+      "answer": "APURO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Precede Leñas, na estação de esqui argentina",
+      "answer": "LAS",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Sofrer um acontecimento desagradável que envolva lesão, dano etc.",
+      "answer": "ACIDENTAR",
+      "row": 1,
+      "col": 5
+    },
+    "16": {
+      "clue": "Chicote",
+      "answer": "AÇOITE",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "De Deus",
+      "answer": "DIVINO",
+      "row": 3,
+      "col": 4
+    },
+    "22": {
+      "clue": "Reapresentação de um filme",
+      "answer": "REPRISE",
+      "row": 4,
+      "col": 10
+    },
+    "23": {
+      "clue": "Que revela gentileza, boa educação",
+      "answer": "CORTES",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Entrar em reação química",
+      "answer": "REAGIR",
+      "row": 5,
+      "col": 7
+    },
+    "26": {
+      "clue": "Mineral usado como pedra preciosa de algum valor",
+      "answer": "OPALA",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Os pequenos orifícios epidérmicos por onde sai o suor",
+      "answer": "POROS",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "Instrumento ofensivo ou defensivo",
+      "answer": "ARMA",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "O Maravilha, ex-craque do futebol brasileiro",
+      "answer": "DADA",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Abreviatura (em português) do Panamá",
+      "answer": "PAN",
+      "row": 8,
+      "col": 0
+    },
+    "36": {
+      "clue": "Ugo Foscolo, escritor italiano",
+      "answer": "UF",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "2": {
+      "clue": "Que serve para ligar",
+      "answer": "COESIVO",
+      "row": 0,
+      "col": 4
+    },
+    "8": {
+      "clue": "Nota Fiscal",
+      "answer": "NF",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Uma matéria-prima para pisos e revestimentos",
+      "answer": "MARMORE",
+      "row": 1,
+      "col": 3
+    },
+    "11": {
+      "clue": "Marido e mulher",
+      "answer": "CASAL",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Antepõe-se a burro para expressar grande quantidade",
+      "answer": "PRA",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Que se pode usar",
+      "answer": "UTIL",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "(-macho) Indivíduo valente",
+      "answer": "CABRA",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "(Hermanos) Uma banda de pop rock nacional",
+      "answer": "LOS",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "O lance decisivo do xadrez",
+      "answer": "MATE",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Britney Spears, cantora",
+      "answer": "BS",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Ato de apresentar, sugerir",
+      "answer": "PROPOSITURA",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Abrev.: Editores",
+      "answer": "EE",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Um dos continentes",
+      "answer": "ASIA",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Mistura de produtos, ideias etc.",
+      "answer": "MIX",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Uma característica dos sapatos femininos",
+      "answer": "SALTO",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Conjunto de bois criados",
+      "answer": "GADO",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Declamar",
+      "answer": "LER",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "Mostrador de câmeras",
+      "answer": "VISOR",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Bosque espesso",
+      "answer": "MATAGAL",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "Sigla do estado de Caicó",
+      "answer": "RN",
+      "row": 9,
+      "col": 9
+    },
+    "35": {
+      "clue": "Colocar no meio de outros",
+      "answer": "INSERIR",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Que não tem culpa",
+      "answer": "INCULPE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O ligante essencial da alvenaria",
+      "answer": "CAL",
+      "row": 0,
+      "col": 4
+    },
+    "3": {
+      "clue": "(Suf.) Autor",
+      "answer": "OR",
+      "row": 0,
+      "col": 5
+    },
+    "4": {
+      "clue": "Um antônimo de repulsão",
+      "answer": "EMPATIA",
+      "row": 0,
+      "col": 6
+    },
+    "5": {
+      "clue": "(Fr.) Sorvete feito de suco de frutas ou de licor",
+      "answer": "SORBET",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "Irritar",
+      "answer": "IRAR",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Letra que em algarismos romanos equivale a 5",
+      "answer": "VE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Matem.) Os números submetidos à operação de multiplicação",
+      "answer": "FATORES",
+      "row": 1,
+      "col": 1
+    },
+    "10": {
+      "clue": "Insuficientemente",
+      "answer": "MAL",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "O dente do juízo",
+      "answer": "SISO",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Marca de produtos eletrônicos",
+      "answer": "CASIO",
+      "row": 3,
+      "col": 5
+    },
+    "16": {
+      "clue": "Peça para retirar a tampa da garrafa",
+      "answer": "ABRIDOR",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Expor à vista",
+      "answer": "MOSTRAR",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "(Mús.) Instrumento metálico de sopro, de largo uso em bandas",
+      "answer": "SAXORNE",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Estrado para carga e descarga",
+      "answer": "PALETE",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Pouco mais ou menos (fem.)",
+      "answer": "UMAS",
+      "row": 5,
+      "col": 8
+    },
+    "28": {
+      "clue": "Os laterais do futebol",
+      "answer": "ALAS",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "O do Vigor, ex-BBB",
+      "answer": "GIL",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "(Fut.) Video Assistant Referee",
+      "answer": "VAR",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Milton Neves, jornalista esportivo",
+      "answer": "MN",
+      "row": 9,
+      "col": 1
+    },
+    "33": {
+      "clue": "Cercam o H",
+      "answer": "GI",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

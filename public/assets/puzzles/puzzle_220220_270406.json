@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Visto que, porque",
+      "answer": "POIS",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "Demorar para chegar",
+      "answer": "TARDAR",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "(Fig.) Encanto, sedução",
+      "answer": "MAGIA",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Unidade de Pronto Atendimento",
+      "answer": "UPA",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "Dos beiços",
+      "answer": "LABIAL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Ilha vulcânica da Indonésia, centro turístico",
+      "answer": "BALI",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Participar em peça teatral",
+      "answer": "ATUAR",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Marca de produtos eletrônicos",
+      "answer": "CASIO",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "O K das cartas",
+      "answer": "REI",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Marca italiana de carros",
+      "answer": "FIAT",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Chico Science, músico",
+      "answer": "CS",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Uma planta ornamental",
+      "answer": "SAMAMBAIA",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "As consoantes de tuiuti",
+      "answer": "TT",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Bíbli.) O primeiro homem",
+      "answer": "ADÃO",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Nenhuma das Alternativas",
+      "answer": "NDA",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Palmeira também chamada sagu",
+      "answer": "RAFIA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Quem supervisiona, governa",
+      "answer": "TUTOR",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Rancor",
+      "answer": "ODIO",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Certa dança rural",
+      "answer": "CATIRA",
+      "row": 8,
+      "col": 5
+    },
+    "34": {
+      "clue": "O músico Bono, do U2",
+      "answer": "VOX",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Fut.) Diz-se de categoria de jogadores na faixa de 14 anos",
+      "answer": "MIRIM",
+      "row": 9,
+      "col": 4
+    },
+    "36": {
+      "clue": "A atriz e cantora Emanuelle",
+      "answer": "ARAUJO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Lj",
+      "answer": "LOJA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Fig.) Aumentar rapidamente",
+      "answer": "PULAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Árvore de excelente madeira para construção",
+      "answer": "IMBUIA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Roupa feminina usada da cintura para baixo",
+      "answer": "SAIA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Sinal gráfico que nasala vogais",
+      "answer": "TIL",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "Arnaldo Antunes, poeta e músico, ex-\"Titãs\"",
+      "answer": "AA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "A hora cheia que segue uma",
+      "answer": "DUAS",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Aquele que faz investimentos financeiros",
+      "answer": "APLICADOR",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Descargas elétricas que ocorrem durante tempestades",
+      "answer": "RAIOS",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "(Pop.) Furto, roubo",
+      "answer": "GARFADA",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Aquele que certifica por escrito",
+      "answer": "ATESTADOR",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Uma peça de roupa muito usada pelas grávidas",
+      "answer": "BATA",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Fazer navegação costeira",
+      "answer": "CABOTAR",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Magneto",
+      "answer": "IMÃ",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "O mês do dia do trabalhador",
+      "answer": "MAIO",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Estreitamente ligado",
+      "answer": "INTIMO",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Composição lírica ligeira e mais ou menos popular",
+      "answer": "TROVA",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Pequena goiaba",
+      "answer": "ARAÇA",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Colada",
+      "answer": "FIXA",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "Que se pode aproveitar",
+      "answer": "UTIL",
+      "row": 7,
+      "col": 7
+    },
+    "33": {
+      "clue": "Época da cria",
+      "answer": "CIO",
+      "row": 8,
+      "col": 5
+    },
+    "35": {
+      "clue": "Marcelo Jeneci, músico paulistano",
+      "answer": "MJ",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

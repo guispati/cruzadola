@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Expediente, maneira não natural",
+      "answer": "ARTIFICIO",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Chegar à conclusão",
+      "answer": "ATINAR",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "O de ouvido é um tapa de mão aberta na altura da orelha",
+      "answer": "PE",
+      "row": 1,
+      "col": 9
+    },
+    "11": {
+      "clue": "Famosa marca de bebidas",
+      "answer": "BACARDI",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "A justificativa dos meios",
+      "answer": "FIM",
+      "row": 2,
+      "col": 8
+    },
+    "14": {
+      "clue": "Interjeição para animar a criança a subir",
+      "answer": "UPA",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Pequena elevação de terreno",
+      "answer": "MORRETE",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "(Fig.) Ser humano, pessoa",
+      "answer": "MORTAL",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "(NE) Interjeição de alegria e incitamento",
+      "answer": "EITA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Discípulo",
+      "answer": "ADEPTO",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Uma palavra como proteger ou infectar",
+      "answer": "VERBO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Oriente",
+      "answer": "LESTE",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Um tradicional brinquedo infantil",
+      "answer": "IOIO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "(Ingl.) Tipo de hotel com recreação e divertimento para pessoas em férias",
+      "answer": "RESORT",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "Substância química capaz de reduzir o colesterol",
+      "answer": "ESTATINA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "2, em romanos",
+      "answer": "II",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Conjunção de alternância: ou, ou",
+      "answer": "NEM",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Fuga de populações",
+      "answer": "EXODO",
+      "row": 9,
+      "col": 4
+    },
+    "35": {
+      "clue": "Construção",
+      "answer": "OBRA",
+      "row": 10,
+      "col": 2
+    },
+    "36": {
+      "clue": "O elemento químico Au",
+      "answer": "OURO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Livro para guardar fotografias, selos etc.",
+      "answer": "ALBUM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Lançar",
+      "answer": "TACAR",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Embarcação que fazia o transporte entre o Norte e o Sul do Brasil",
+      "answer": "ITA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "(Fig.) Estabelecido em contrato",
+      "answer": "FIRMADO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Caráter, temperamento",
+      "answer": "INDOLE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Ir ao chão, em virtude de um desequilíbrio",
+      "answer": "CAIR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Tomar certo caminho",
+      "answer": "IR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Qualquer ser do sexo feminino",
+      "answer": "FEMEA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "O galã Brad, de \"O Curioso Caso de Benjamin Button\"",
+      "answer": "PITT",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "O ápice da glória",
+      "answer": "APOTEOSE",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "De aspecto desagradável",
+      "answer": "FEIOSO",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Que se esticou",
+      "answer": "RETESADO",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Uma planta dos brejos",
+      "answer": "TABOA",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Absoluto, ilimitado",
+      "answer": "PLENO",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "A capital da Áustria",
+      "answer": "VIENA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Cadência musical",
+      "answer": "RITMO",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "(Red.) O do futebol brasileiro foi no México, em 1970",
+      "answer": "TRI",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Relativo aos princípios da moral",
+      "answer": "ETICO",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "Disputa, competição",
+      "answer": "RIXA",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "Haver à mão",
+      "answer": "TER",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "Conjunção usada para indicar que um termo exclui outro",
+      "answer": "OU",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "Que não reflete a luz, sem brilho",
+      "answer": "OPACO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "F11 ou Tab",
+      "answer": "TECLA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Dar hospitalidade, pousada",
+      "answer": "ALOJAR",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Exclamação que expressa incerteza e incredulidade",
+      "answer": "HUM",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "(Fig.) Categoria, classe",
+      "answer": "GRAU",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O barulho da buzina de um automóvel",
+      "answer": "BIBI",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "De um estágio de certos insetos",
+      "answer": "LARVAR",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Pequena gruta",
+      "answer": "LOCA",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Doce, suave",
+      "answer": "MELICO",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Helena Rizzo, chef gaúcha",
+      "answer": "HR",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Beatriz, para os íntimos",
+      "answer": "BIA",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Cartão com dados pessoais para identificação",
+      "answer": "CRACHA",
+      "row": 5,
+      "col": 4
+    },
+    "27": {
+      "clue": "(Santo) Uma cidade paulista da região do ABC",
+      "answer": "ANDRE",
+      "row": 6,
+      "col": 0
+    },
+    "29": {
+      "clue": "Casa noturna de diversões",
+      "answer": "BOATE",
+      "row": 6,
+      "col": 6
+    },
+    "31": {
+      "clue": "O fruto do qual se faz um doce \"cascão\"",
+      "answer": "GOIABA",
+      "row": 7,
+      "col": 1
+    },
+    "33": {
+      "clue": "(Fut.) Video Assistant Referee",
+      "answer": "VAR",
+      "row": 7,
+      "col": 8
+    },
+    "34": {
+      "clue": "Leandra Leal, atriz",
+      "answer": "LL",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "Galinha pequena, que ainda não põe ovos",
+      "answer": "FRANGA",
+      "row": 8,
+      "col": 3
+    },
+    "37": {
+      "clue": "Uma tintura para cabelo",
+      "answer": "HENA",
+      "row": 9,
+      "col": 0
+    },
+    "39": {
+      "clue": "Barra (de roupa)",
+      "answer": "BAINHA",
+      "row": 9,
+      "col": 5
+    },
+    "41": {
+      "clue": "Em medicina, ruptura de fibras de sustentação da pele",
+      "answer": "ESTRIA",
+      "row": 10,
+      "col": 0
+    },
+    "42": {
+      "clue": "Outra vez, de novo",
+      "answer": "MAIS",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "O estado PA",
+      "answer": "PARA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Assustado",
+      "answer": "ALARMADO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(-flor) Verdura de caule curto, comestível",
+      "answer": "COUVE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Odair José, cantor",
+      "answer": "OJ",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Campeão pela terceira vez em competição ou torneio",
+      "answer": "TRI",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Som agudo, prolongado e desagradável",
+      "answer": "CHIO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Apelido do Luciana",
+      "answer": "LU",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "De cor entre o acastanhado e o amarelado",
+      "answer": "AMBAR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Oposto de fechar",
+      "answer": "ABRIR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Área de terra não urbanizada",
+      "answer": "GLEBA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Pode ser de carnaval",
+      "answer": "BLOCO",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Erguer, levantar",
+      "answer": "ALCEAR",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "(Pop.) Mulher que importuna, que incomoda",
+      "answer": "CHATA",
+      "row": 3,
+      "col": 9
+    },
+    "21": {
+      "clue": "Morada paupérrima",
+      "answer": "CABANA",
+      "row": 4,
+      "col": 6
+    },
+    "24": {
+      "clue": "A língua oficial da Austrália e da Nova Zelândia",
+      "answer": "INGLES",
+      "row": 5,
+      "col": 1
+    },
+    "26": {
+      "clue": "A capital de Cuba",
+      "answer": "HAVANA",
+      "row": 5,
+      "col": 8
+    },
+    "28": {
+      "clue": "Sortear",
+      "answer": "RIFAR",
+      "row": 6,
+      "col": 3
+    },
+    "30": {
+      "clue": "Tomilho, alecrim e orégano",
+      "answer": "ERVAS",
+      "row": 6,
+      "col": 10
+    },
+    "32": {
+      "clue": "O Ali da história das \"Mil e uma Noites\"",
+      "answer": "BABA",
+      "row": 7,
+      "col": 5
+    },
+    "34": {
+      "clue": "A ele ou a ela",
+      "answer": "LHE",
+      "row": 8,
+      "col": 0
+    },
+    "36": {
+      "clue": "Um ingrediente do martíni",
+      "answer": "GIM",
+      "row": 8,
+      "col": 7
+    },
+    "38": {
+      "clue": "As iniciais da atriz Timberg das novelas",
+      "answer": "NT",
+      "row": 9,
+      "col": 2
+    },
+    "40": {
+      "clue": "(Pop.) Oi, olá, em inglês",
+      "answer": "HI",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

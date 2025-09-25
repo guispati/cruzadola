@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cada fio da barba",
+      "answer": "PELO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Artois) Famosa cerveja de origem belga",
+      "answer": "STELLA",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Peripécia",
+      "answer": "AVENTURA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "O centro de... Quebec",
+      "answer": "EB",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Corpo pendurado, que oscila em vaivém",
+      "answer": "PENDULO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "As letras que separam o O do S",
+      "answer": "PQR",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Aplicar substância gordurosa a uma forma",
+      "answer": "UNTAR",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "(Pop.) Voz do gato",
+      "answer": "MIAU",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Palavra usada para dar maior relevo ao que se afirma",
+      "answer": "ATE",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Um tipo de trenó para descidas sobre a neve",
+      "answer": "BOBSLED",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Diâmetro de um cabo",
+      "answer": "BITOLA",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Próprio de cachorro (fem.)",
+      "answer": "CANINA",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "O símbolo do frâncio",
+      "answer": "FR",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Adornar, ornar, enfeitar",
+      "answer": "APARAMENTAR",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Que se combinou bem",
+      "answer": "CASADO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Parte do porto onde se abrigam os navios",
+      "answer": "DOCA",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "Um encontro de vogais",
+      "answer": "HIATO",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Prisioneiro que fica como garantia",
+      "answer": "REFEM",
+      "row": 9,
+      "col": 6
+    },
+    "33": {
+      "clue": "Aquela lá",
+      "answer": "ESSA",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "O nome da letra que é o símbolo químico do enxofre",
+      "answer": "ESSE",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(-Nova Guiné) País com capital Port Moresby",
+      "answer": "PAPUA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ocorrência",
+      "answer": "EVENTO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Uma parte da máquina fotográfica",
+      "answer": "LENTE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Pop.) Boato falso",
+      "answer": "ONDA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A região S",
+      "answer": "SUL",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Instrumento musical de sopro",
+      "answer": "TROMBONE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O fim da... náusea",
+      "answer": "EA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Abanico",
+      "answer": "LEQUE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Segue Mar",
+      "answer": "ABR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Pop.) Potenciado de algum modo em seu funcionamento",
+      "answer": "TURBINADO",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Aba de boné",
+      "answer": "PALA",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Do país insular europeu do extremo norte do Atlântico",
+      "answer": "ISLANDES",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "O que é bom demais",
+      "answer": "OTIMO",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "(Med.) Acúmulo líquido",
+      "answer": "DERRAME",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Inseto caseiro asqueroso",
+      "answer": "BARATA",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Saquinho com ervas aromáticas",
+      "answer": "SACHE",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "O tabuleiro de xadrez possui 64",
+      "answer": "CASAS",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Superfície (de um elemento físico)",
+      "answer": "FACE",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "O casal que gerou um filho",
+      "answer": "PAIS",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Bala dura e grudenta",
+      "answer": "TOFE",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Sigla do estado de Santa Maria",
+      "answer": "RS",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

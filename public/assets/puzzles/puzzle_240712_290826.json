@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Pop.) Policial de trânsito",
+      "answer": "GUARDA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Bolo, em inglês",
+      "answer": "CAKE",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Uma espécie de manto",
+      "answer": "PENULA",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Winona Ryder, atriz de \"Outono em Nova York\"",
+      "answer": "WR",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Ferramenta usada para cortar fios de arame ou elétricos",
+      "answer": "ALICATE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Proceder",
+      "answer": "VIR",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "(Red.) Veículo como uma Harley-Davidson",
+      "answer": "MOTO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "De forma semelhante à de um ovo",
+      "answer": "OVOIDE",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Planta cujo fruto é muito utilizado na alimentação",
+      "answer": "ABOBREIRA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "No bilhar, taco auxiliar usado como guia",
+      "answer": "RESTE",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "(Med.) Dor que se manifesta somente à noite",
+      "answer": "NICTALGIA",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Tornar-se seguidor de um movimento",
+      "answer": "ADERIR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Este dia",
+      "answer": "HOJE",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Documento Único de Transferência",
+      "answer": "DUT",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Tagarela",
+      "answer": "FALADOR",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "A UF de Mossoró e Natal",
+      "answer": "RN",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Aquele que está sob efeito de substância tranquilizante",
+      "answer": "SEDADO",
+      "row": 9,
+      "col": 3
+    },
+    "34": {
+      "clue": "(Não por) Locução que significa de nada",
+      "answer": "ISSO",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "O mês 8",
+      "answer": "AGOSTO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "g",
+      "answer": "GRAMA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O instrumento de sopro usado pelo juiz de futebol",
+      "answer": "APITO",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Voltar a tapar, esconder convenientemente",
+      "answer": "RECOBRIR",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "O teste que examina a genealogia genética",
+      "answer": "DNA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Rodovia",
+      "answer": "AUTOESTRADA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O símbolo do cálcio, para os químicos",
+      "answer": "CA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Um carro da Renault",
+      "answer": "KWID",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "São três em correr",
+      "answer": "ERRES",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Sacerdote da antiga Jerusalém",
+      "answer": "LEVITA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "A fêmea de um animal do hemisfério norte",
+      "answer": "LOBA",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Exemplar de documento, carta etc.",
+      "answer": "VIA",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Que tem ouvidos",
+      "answer": "ORELHADO",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "A capital pernambucana",
+      "answer": "RECIFE",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Duro ao tato",
+      "answer": "RIJO",
+      "row": 5,
+      "col": 9
+    },
+    "22": {
+      "clue": "Uma capital europeia",
+      "answer": "MADRI",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Red.: Internet",
+      "answer": "NET",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Antigo povo europeu",
+      "answer": "GODOS",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "Que é visto ou observado do alto",
+      "answer": "AEREO",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "De + um (pl.)",
+      "answer": "DUNS",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "(Jet) Efeito de uma longa viagem de avião",
+      "answer": "LAG",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Único",
+      "answer": "SO",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

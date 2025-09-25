@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Banhar com água e sabão",
+      "answer": "LAVAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Mamífero carnívoro de focinho alongado e cauda comprida anelada",
+      "answer": "QUATI",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Inscrever como sócio ou membro",
+      "answer": "FILIAR",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "(Matem.) Símbolo de limite",
+      "answer": "LIM",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Uma roupa de cama",
+      "answer": "LENÇOL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Diabo, coisa-ruim",
+      "answer": "SATÃ",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Uma formação como Creta, na Grécia",
+      "answer": "ILHA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "O antônimo de fino",
+      "answer": "GRAVE",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Elemento prefixal: músculo",
+      "answer": "MIO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Uma unidade de medida em artes gráficas",
+      "answer": "PAICA",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Pessoa de parcos recursos",
+      "answer": "POBRE",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Mar que confina com o Adriático",
+      "answer": "JONIO",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Planta ornamental originária do Mediterrâneo, Açores e Madeira",
+      "answer": "RUSCO",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Comando Militar do Sul",
+      "answer": "CMS",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Tristeza, pesar",
+      "answer": "MAGOA",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Bairro do Rio, o berço da boemia",
+      "answer": "LAPA",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Parada de um motor por defeito",
+      "answer": "PANE",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Ligar a uma tomada (aparelho eletrodoméstico, luz etc.)",
+      "answer": "PLUGAR",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Serviço de Proteção ao Crédito",
+      "answer": "SPC",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Ingl.) Hotel simples e de diária barata, destinado a jovens viajantes",
+      "answer": "HOSTEL",
+      "row": 9,
+      "col": 4
+    },
+    "35": {
+      "clue": "O fundador do Islamismo",
+      "answer": "MAOME",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Tornar dóceis animais selvagens",
+      "answer": "DOMAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "O ponto mais distante do Sol na órbita de um planeta",
+      "answer": "AFELIO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Uma bebida de uva fermentada",
+      "answer": "VINHOBRANCO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Presilha para transporte de uma mala",
+      "answer": "ALÇA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Curso de água natural",
+      "answer": "RIO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "As letras que separam o P e o S",
+      "answer": "QR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Apoio para desenvolvimento",
+      "answer": "ALAVANCAGEM",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O atual técnico da seleção brasileira de futebol",
+      "answer": "TITE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Objeto que atrai o ferro",
+      "answer": "IMÃ",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Planta marinha que envolve o sushi",
+      "answer": "ALGA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "(Pop.) Furto em que se leva tudo da vítima",
+      "answer": "LIMPA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Unidade comercial para feijão, farinha etc.",
+      "answer": "SACO",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Vigoroso",
+      "answer": "RIJO",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "(Esp.) Categoria de boxe",
+      "answer": "PESO",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Ficar imóvel para ser fotografado",
+      "answer": "POSAR",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Maquiagem para a face",
+      "answer": "RUGE",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Antílope africano, veloz e ágil",
+      "answer": "IMPALA",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Tampa que cobre o motor do carro",
+      "answer": "CAPO",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Um meio de orientação",
+      "answer": "MAPA",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "A dor pela morte",
+      "answer": "LUTO",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Pronto Socorro Municipal",
+      "answer": "PSM",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Um alucinógeno muito forte",
+      "answer": "LSD",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Hélio, elemento químico",
+      "answer": "HE",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Acontecimentos",
+      "answer": "FATOS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Uma torre bíblica",
+      "answer": "BABEL",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "A princesa (1846-1921) da Lei Áurea",
+      "answer": "ISABEL",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Uma das caravelas de Cristóvão Colombo",
+      "answer": "NINA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Aero Clube",
+      "answer": "AC",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Qualquer espécie de alimento",
+      "answer": "VIANDA",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "Elemento de circuitos elétricos",
+      "answer": "RESISTOR",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Abreviatura inglesa de Disco Compacto",
+      "answer": "CD",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "Despida",
+      "answer": "NUA",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Fêmea do carneiro",
+      "answer": "OVELHA",
+      "row": 4,
+      "col": 5
+    },
+    "23": {
+      "clue": "(Abrev.) Fundos",
+      "answer": "FDS",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Em benefício de",
+      "answer": "PRO",
+      "row": 5,
+      "col": 4
+    },
+    "25": {
+      "clue": "Interjeição que indica grande admiração ou surpresa",
+      "answer": "UAU",
+      "row": 5,
+      "col": 8
+    },
+    "26": {
+      "clue": "Criar leite ou suco leitoso",
+      "answer": "LEITAR",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Tensão Pré-Menstrual",
+      "answer": "TPM",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Substância que constitui a atmosfera da Terra",
+      "answer": "AR",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Uma das cidades mais antigas do Brasil, em SP",
+      "answer": "ITANHAEM",
+      "row": 7,
+      "col": 3
+    },
+    "33": {
+      "clue": "O país mais ao sul da península balcânica",
+      "answer": "GRECIA",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "Julio Iglesias, cantor espanhol",
+      "answer": "JI",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "Móvel ideal para dormir",
+      "answer": "CAMA",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Lançar (a carga) fora da embarcação",
+      "answer": "ALIJAR",
+      "row": 9,
+      "col": 5
+    },
+    "39": {
+      "clue": "Mais uma",
+      "answer": "OUTRA",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Molusco que produz pérolas",
+      "answer": "OSTRA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Tecer",
+      "answer": "FIAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Subir",
+      "answer": "ASCENDER",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Pop.) Está bem!",
+      "answer": "TA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Evidente, lógica",
+      "answer": "OBVIA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O número de caçapas da sinuca",
+      "answer": "SEIS",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "O Rizek jornalista esportivo",
+      "answer": "ANDRE",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "A atriz Arantes",
+      "answer": "BIA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Escola Naval",
+      "answer": "EN",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Um antigo carro da Ford",
+      "answer": "LANDAU",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "O ator Ney",
+      "answer": "LATORRACA",
+      "row": 1,
+      "col": 5
+    },
+    "16": {
+      "clue": "Recente",
+      "answer": "NOVO",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "A Barbie brasileira",
+      "answer": "SUSI",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Arder, queimar",
+      "answer": "CHAMEJAR",
+      "row": 3,
+      "col": 9
+    },
+    "22": {
+      "clue": "Lente de aumento",
+      "answer": "LUPA",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Parte lateral",
+      "answer": "FLANCO",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Pasta fria comida como aperitivo",
+      "answer": "PATE",
+      "row": 5,
+      "col": 4
+    },
+    "27": {
+      "clue": "Sacar, retirar",
+      "answer": "TIRAR",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "A atriz Fersoza",
+      "answer": "THAIS",
+      "row": 6,
+      "col": 7
+    },
+    "31": {
+      "clue": "Um dos maiores rios do mundo",
+      "answer": "NILO",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Alvo",
+      "answer": "MIRA",
+      "row": 7,
+      "col": 10
+    },
+    "33": {
+      "clue": "Greenwich mean time, horário padrão internacional",
+      "answer": "GMT",
+      "row": 8,
+      "col": 2
+    },
+    "36": {
+      "clue": "Símbolo de um metal precioso",
+      "answer": "AU",
+      "row": 9,
+      "col": 1
+    },
+    "38": {
+      "clue": "James Taylor, músico",
+      "answer": "JT",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

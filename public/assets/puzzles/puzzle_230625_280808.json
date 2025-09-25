@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Outro nome da ave mariquita",
+      "answer": "CAMBACICA",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Polo Norte Magnético",
+      "answer": "PNM",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Unidade de medida elétrica V",
+      "answer": "VOLT",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Som que imita uma ovelha",
+      "answer": "ME",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "(Pop.) Está bem!",
+      "answer": "TA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Recipiente para cremes",
+      "answer": "POTE",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Cabeça de gado",
+      "answer": "RES",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Um personagem galináceo de antigos desenhos animados",
+      "answer": "FRANGOLINO",
+      "row": 3,
+      "col": 1
+    },
+    "18": {
+      "clue": "(Elet.) Fio enrolado na forma de um círculo",
+      "answer": "LOOP",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Empregada que cuida das crianças",
+      "answer": "AMA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Suportar o ônus",
+      "answer": "ARCAR",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Da península que compreende Portugal e Espanha",
+      "answer": "IBERO",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Time, em inglês",
+      "answer": "TEAM",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Imposto sobre a Transmissão Causa Mortis e Doações",
+      "answer": "ITCD",
+      "row": 6,
+      "col": 7
+    },
+    "25": {
+      "clue": "Do país de Liubliana",
+      "answer": "ESLOVENO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Um grito de dor",
+      "answer": "AI",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Língua de indígenas sul-americanos",
+      "answer": "JE",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "O Caetano músico de \"Qualquer Coisa\"",
+      "answer": "VELOSO",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "O anão alegre da Branca de Neve",
+      "answer": "FELIZ",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "As consoantes de papisa",
+      "answer": "PPS",
+      "row": 9,
+      "col": 8
+    },
+    "36": {
+      "clue": "Se formam por frequente atrito, nas mãos e nos pés",
+      "answer": "CALOS",
+      "row": 10,
+      "col": 1
+    },
+    "37": {
+      "clue": "Justo, bom",
+      "answer": "EQUO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Comissão Pastoral da Terra",
+      "answer": "CPT",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Fisioq.) Deslocamento em direção ao ânodo",
+      "answer": "ANAFORESE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Moraes Moreira (1947-2020), músico baiano",
+      "answer": "MM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Cosméticos",
+      "answer": "AVON",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Matem.) Símbolo da função trigonométrica cotangente",
+      "answer": "COTG",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Uma parte do intestino",
+      "answer": "ILEO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Centro de Treinamento",
+      "answer": "CT",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "A unidade monetária do Uruguai",
+      "answer": "PESO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "A primeira menstruação",
+      "answer": "MENARCA",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Veículo concebido para o transporte do chefe supremo da Igreja católica",
+      "answer": "PAPAMOVEL",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "A taça Jules, conquistada pelo futebol brasileiro em 1970",
+      "answer": "RIMET",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Duro como pedra",
+      "answer": "ROCAL",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "As partes carnudas e móveis do contorno da boca",
+      "answer": "LABIOS",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Pulsação, palpitação",
+      "answer": "LATEJO",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Detestável",
+      "answer": "ODIOSO",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "A lã que cobre a pele da ovelha",
+      "answer": "VELO",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "A cantora Regina (1945-1982)",
+      "answer": "ELIS",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "Fruta que pode ser moscada",
+      "answer": "NOZ",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Separam o N e o R",
+      "answer": "OPQ",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "A nota que precede o sol",
+      "answer": "FA",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "(Quím.) O plutônio",
+      "answer": "PU",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

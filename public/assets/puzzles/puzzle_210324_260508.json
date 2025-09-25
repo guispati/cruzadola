@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Demo, excomungado",
+      "answer": "DIABO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O ator Prado das novelas",
+      "answer": "OSMAR",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Um salgadinho muito consumido",
+      "answer": "COXINHA",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Vaidoso, presunçoso",
+      "answer": "IMODESTO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Mercedes-Benz",
+      "answer": "MB",
+      "row": 2,
+      "col": 9
+    },
+    "14": {
+      "clue": "Em + ela",
+      "answer": "NELA",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Custar para chegar",
+      "answer": "TARDAR",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Quilômetros por hora",
+      "answer": "KMH",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Lento desfile",
+      "answer": "CORTEJO",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "(Pop.) Boa informação",
+      "answer": "DICA",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "(Não por) Locução que significa de nada",
+      "answer": "ISSO",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Árabe nômade do deserto",
+      "answer": "BEDUINO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Clube de Regatas Flamengo",
+      "answer": "CRF",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Costume velho",
+      "answer": "USANÇA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Ave pernalta da família do jaburu",
+      "answer": "TUIU",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Gálio, elemento químico",
+      "answer": "GA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Traçar raiado",
+      "answer": "HACHURAR",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "A caricatura de um drama",
+      "answer": "PARODIA",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "(dos Reis) Importante cidade do RJ",
+      "answer": "ANGRA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Inseto em formação",
+      "answer": "LARVA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Ingl.) Bebida alcoólica",
+      "answer": "DRINK",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Protegida, abrigada",
+      "answer": "ACOLHIDA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Celebração de casamento",
+      "answer": "BODA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "(Red.) Interjeição que exprime espanto, típica do NE",
+      "answer": "OXE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Importante província do Canadá",
+      "answer": "ONTARIO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Tipo de calção esportivo",
+      "answer": "SHORTS",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Sigla do estado com o Parque Nacional da Chapada das Mesas",
+      "answer": "MA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Da cor do sangue",
+      "answer": "RUBRO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Interjeição que indica algo que se acha espacialmente mais perto de quem fala",
+      "answer": "ISTO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "O terceiro governador-geral do Brasil (1500-1572)",
+      "answer": "MEMDESA",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "Função imediatamente abaixo da de tenente-coronel e imediatamente acima da de capitão",
+      "answer": "MAJORIA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Não tratar do modo correto, adequado",
+      "answer": "DESCURAR",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Habitante do litoral paulista",
+      "answer": "CAIÇARA",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Imprimir, estampar moeda",
+      "answer": "CUNHAR",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Índia selvagem",
+      "answer": "BUGRA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Pedaço grande arrancado de qualquer alimento",
+      "answer": "NACO",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Ímpeto violento",
+      "answer": "FURIA",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Planta empregada em cercas vivas",
+      "answer": "TUIA",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Lipoproteína de alta densidade encontrada no plasma humano",
+      "answer": "HDL",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Paulo Gustavo, ator e humorista de \"Minha Mãe é uma Peça\"",
+      "answer": "PG",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

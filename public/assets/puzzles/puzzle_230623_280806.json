@@ -1,0 +1,270 @@
+{
+  "across": {
+    "2": {
+      "clue": "Misturada com água",
+      "answer": "DILUIDA",
+      "row": 0,
+      "col": 2
+    },
+    "9": {
+      "clue": "Cordial",
+      "answer": "EFUSIVO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Certidão Negativa de Débito",
+      "answer": "CND",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Um tipo de tela de TV",
+      "answer": "PLASMA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Os de ovos são um doce muito apreciado",
+      "answer": "FIOS",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Português",
+      "answer": "LUSO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Cláusulas de um documento",
+      "answer": "ITENS",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "A metade de XVIII",
+      "answer": "IX",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "(Moritz) Cidade suíça, palco de duas Olimpíadas de Inverno",
+      "answer": "SAINT",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Termo, fim",
+      "answer": "COBRO",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Um escritor como Mário Quintana",
+      "answer": "POETA",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "(Pop.) Condição do que está esquecido",
+      "answer": "LIMBO",
+      "row": 6,
+      "col": 2
+    },
+    "28": {
+      "clue": "Ronnie Von, cantor",
+      "answer": "RV",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Cidade, rio e baía do estado do Rio de Janeiro",
+      "answer": "MACAE",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "(Fig.) Seco, sem afeto, sem calor humano",
+      "answer": "FRIO",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "De aspecto desagradável",
+      "answer": "FEIO",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Hidrelétrica da fronteira entre Brasil e Paraguai",
+      "answer": "ITAIPU",
+      "row": 8,
+      "col": 5
+    },
+    "35": {
+      "clue": "Programa de Integração Social",
+      "answer": "PIS",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Adestrar",
+      "answer": "TREINAR",
+      "row": 9,
+      "col": 4
+    },
+    "37": {
+      "clue": "Um naipe preto das cartas",
+      "answer": "ESPADAS",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Cópia",
+      "answer": "REPLICA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(-peças) Traje que combina saia e blusa",
+      "answer": "DUAS",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Um pronome demonstrativo",
+      "answer": "ISSO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Símbolo de limite, em matemática",
+      "answer": "LIM",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Fruto utilizado na fabricação de sucos, refrigerantes, etc.",
+      "answer": "UVAIA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Eu, em Milão",
+      "answer": "IO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Provocação",
+      "answer": "ACINTE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Abrev.) Fundos",
+      "answer": "FDS",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Transbordamento de um curso fluvial",
+      "answer": "FLUXO",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Precede vós",
+      "answer": "NOS",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Alimento de ruminantes",
+      "answer": "FENO",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "(Gráf.) Letra",
+      "answer": "TIPO",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Uma das operações fundamentais da aritmética",
+      "answer": "SOMA",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Agricultura",
+      "answer": "LAVOURA",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "O Pascal (1623-1662), matemático inventor do cálculo das probabilidades",
+      "answer": "BLAISE",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Indivíduo que tem dinheiro a rodo",
+      "answer": "RICO",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Intestino animal, usado em culinária",
+      "answer": "TRIPA",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Margem",
+      "answer": "BEIRA",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "Tipo de firma",
+      "answer": "MEI",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Outro nome da árvore cipreste",
+      "answer": "FAIA",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Órgãos atingidos pela nefrite",
+      "answer": "RINS",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Fator de Proteção Solar",
+      "answer": "FPS",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Transferência Eletrônica Disponível",
+      "answer": "TED",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "Tyrone Power, o Zorro",
+      "answer": "TP",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

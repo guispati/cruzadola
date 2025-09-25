@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Fruto de origem europeia, semelhante à groselha",
+      "answer": "CASSIS",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "O latido de dor dos cães",
+      "answer": "CAIM",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Perito, avaliador",
+      "answer": "AJUIZADOR",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Típica exclamação de surpresa dos mineiros",
+      "answer": "UAI",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Fazer constar no livrete em que se anotam os compromissos",
+      "answer": "AGENDAR",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Abrev.: senhorita",
+      "answer": "SRTA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Pulseira para preso",
+      "answer": "ALGEMA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Palavra, gesto, sinal de despedida",
+      "answer": "ADEUS",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Personagem que, com Bela, estrelam um filme de animação",
+      "answer": "FERA",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "51, em romanos",
+      "answer": "LI",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Uma famosa região austríaca",
+      "answer": "TIROL",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Responsável Técnico",
+      "answer": "RT",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Gás usado em luminosos",
+      "answer": "NEON",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Estar convencido de algo",
+      "answer": "SABER",
+      "row": 6,
+      "col": 6
+    },
+    "29": {
+      "clue": "A cor da casca das castanhas",
+      "answer": "MARROM",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Ave semelhante à pomba",
+      "answer": "ROLA",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Que anda sem destino",
+      "answer": "ERRADIO",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Trem de Alta Velocidade",
+      "answer": "TAV",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "Exposto à vista",
+      "answer": "AMOSTRADO",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "O resultado de um trabalho artístico",
+      "answer": "OBRA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Dedicar ao serviço de Deus",
+      "answer": "SAGRAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Gram.) Que exprime a razão do que se disse",
+      "answer": "CAUSAL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ornar com flores",
+      "answer": "AJARDINAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Quarto com banheiro anexo",
+      "answer": "SUITE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Silício",
+      "answer": "SI",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A cantora carioca do sucesso \"Pesadão\"",
+      "answer": "IZA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Fig.) Fato cheio de lances curiosos ou perigosos",
+      "answer": "SAGA",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Solidificar pela ação do frio",
+      "answer": "CONGELAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Experimentar sensação de queima",
+      "answer": "ARDER",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Taxa cobrada por atraso de pagamento",
+      "answer": "MORA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Famosa cidade da Grécia antiga",
+      "answer": "DELFOS",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Pálida",
+      "answer": "AMARELADA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Um brinquedo de carrinhos de velocidade",
+      "answer": "AUTORAMA",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Reunião de sacerdotes de uma diocese",
+      "answer": "SINODO",
+      "row": 4,
+      "col": 4
+    },
+    "24": {
+      "clue": "Sabor amargo e adstringente",
+      "answer": "TRAVOR",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Cometer equívocos materiais ou morais",
+      "answer": "ERRAR",
+      "row": 6,
+      "col": 2
+    },
+    "28": {
+      "clue": "Preparar, arranjar, dispor",
+      "answer": "BOTAR",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Sentimento de tensão ante a possibilidade de perigo",
+      "answer": "MEDO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Título pela beleza",
+      "answer": "MISS",
+      "row": 7,
+      "col": 5
+    },
+    "33": {
+      "clue": "Um sufixo diminutivo",
+      "answer": "OTA",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "Registro Geral",
+      "answer": "RG",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

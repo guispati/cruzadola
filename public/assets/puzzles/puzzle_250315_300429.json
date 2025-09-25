@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Calafrio",
+      "answer": "ARREPIO",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "(Sigla) Material usado para fazer brindes e brinquedos",
+      "answer": "EVA",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Pintar com substância branca",
+      "answer": "CAIAR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Planta cujas raízes fornecem a fibra usada no cultivo de orquídeas",
+      "answer": "XAXIM",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Pessoa de certa importância",
+      "answer": "ALGUEM",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Alegria",
+      "answer": "RISO",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Recibo de Pagamento a Autônomo",
+      "answer": "RPA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Elemento de composição de palavras científicas: variado, diverso",
+      "answer": "PECILO",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Direitos Humanos",
+      "answer": "DH",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Fabricante de pequena embarcação leve, feita de uma só peça alongada",
+      "answer": "CANOEIRO",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Cidade da antiga Grécia, rival de Atenas e de Esparta",
+      "answer": "CORINTO",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Chato",
+      "answer": "AMOLANTE",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Brooke Shields, atriz de \"Amor sem Fim\"",
+      "answer": "BS",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Estar intimamente ligado",
+      "answer": "INERIR",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Serviço de Atendimento ao Consumidor",
+      "answer": "SAC",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "(Pal. ingl.) Apartamento com serviços de hotel",
+      "answer": "FLAT",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Parte da fechadura por onde passa a lingueta",
+      "answer": "LACETE",
+      "row": 8,
+      "col": 5
+    },
+    "31": {
+      "clue": "Vinte e cinco de dezembro",
+      "answer": "NATAL",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "A nação de Sanaa",
+      "answer": "IEMEN",
+      "row": 9,
+      "col": 6
+    },
+    "34": {
+      "clue": "As letras entre o L e o P",
+      "answer": "MNO",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Que pede muito dinheiro",
+      "answer": "CAREIRO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Anomalia que é a ausência de coração no feto",
+      "answer": "ACARDIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O ator Fiennes, de \"Conclave\"",
+      "answer": "RALPH",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A capital da Letônia",
+      "answer": "RIGA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Água, em francês",
+      "answer": "EAU",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Pôr (originais, provas etc.) em condições de ser editado",
+      "answer": "PREPARAR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Boi, em inglês",
+      "answer": "OX",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "A pena da expatriação",
+      "answer": "EXILIO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Mostrador de câmeras",
+      "answer": "VISOR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Indivíduo servido por criados",
+      "answer": "AMO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Uma arma usada até a época medieval",
+      "answer": "ARIETE",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Pueril",
+      "answer": "MENINIL",
+      "row": 2,
+      "col": 5
+    },
+    "18": {
+      "clue": "Passar a ter, adquirir",
+      "answer": "CONTRAIR",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "Recolhimento de amostras para estudo",
+      "answer": "COLETA",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Que choca pela falta de decoro, pela vulgaridade",
+      "answer": "OBSCENO",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Nascido com o indivíduo",
+      "answer": "CONATO",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Um dos grandes times do futebol italiano",
+      "answer": "MILAN",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Surrar, espancar",
+      "answer": "BATER",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Prefixo que tem o sentido de metade",
+      "answer": "SEMI",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Fábrica Nacional de Motores",
+      "answer": "FNM",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Comunidade Econômica Europeia",
+      "answer": "CEE",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Letra de Câmbio",
+      "answer": "LC",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

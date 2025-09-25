@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "O escritor Marcelo Rubens, de \"O Homem Ridículo\"",
+      "answer": "PAIVA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O beliche possui duas",
+      "answer": "CAMAS",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "O mês em que Tiradentes foi enforcado",
+      "answer": "ABRIL",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "O extremo superior",
+      "answer": "APICE",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "(Fig.) Que tem espírito de luta, grande determinação",
+      "answer": "RAÇUDO",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Hemisfério Norte",
+      "answer": "HN",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Interjeição que exprime surpresa, espanto ou terror",
+      "answer": "UAI",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Coisas opostas",
+      "answer": "AVESSAS",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Forma popular de até",
+      "answer": "INTE",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "(Gír.) O de gatos é uma porção de pessoas de todos os tipos, reunidas num só local",
+      "answer": "SACO",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Imposto",
+      "answer": "TAXA",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "A Gabeira surfista de ondas gigantes",
+      "answer": "MAYA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Casa central de uma ordem religiosa",
+      "answer": "SEDE",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Espécie de enxada para ajuntar cereais nas eiras e sal nas salinas",
+      "answer": "RODO",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Eterno",
+      "answer": "IMORTAL",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "As letras que separam o M e o Q",
+      "answer": "NOP",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "Sem vestes",
+      "answer": "NU",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Um ingrediente do molho vinagrete",
+      "answer": "CEBOLA",
+      "row": 8,
+      "col": 3
+    },
+    "36": {
+      "clue": "O signo que vai de 21/3 a 20/4",
+      "answer": "ARIES",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Em mecânica, a junta que permite o movimento rotatório de um eixo solto",
+      "answer": "CARDÃ",
+      "row": 9,
+      "col": 6
+    },
+    "40": {
+      "clue": "Diz-se do cabelo de cor média entre o dourado e o castanho-claro",
+      "answer": "LOIRO",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "Provido dos órgãos aptos ao voo",
+      "answer": "ASADO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Elemento de composição: espessura de tecidos",
+      "answer": "PAQUI",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "As iniciais da atriz carioca Beltrão",
+      "answer": "AB",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Encolerizado",
+      "answer": "IRRITADO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A Láctea também é chamada Caminho de São Tiago",
+      "answer": "VIA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Presilha usada para levantar, puxar ou prender alguma coisa",
+      "answer": "ALÇA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Pop.) Onde está?",
+      "answer": "CADE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Invadir, dominar",
+      "answer": "APOSSAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "A 3ª nota da escala natural de dó",
+      "answer": "MI",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Pessoa de quem se extorquiu dinheiro",
+      "answer": "ACHACADO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Discernimento",
+      "answer": "SENSO",
+      "row": 0,
+      "col": 10
+    },
+    "14": {
+      "clue": "As letras entre o T e o X",
+      "answer": "UVW",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Parapeito de fortaleza",
+      "answer": "ANTEMURO",
+      "row": 3,
+      "col": 1
+    },
+    "19": {
+      "clue": "Uma despedida em japonês",
+      "answer": "SAYONARA",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Praticar",
+      "answer": "EXERCER",
+      "row": 4,
+      "col": 3
+    },
+    "25": {
+      "clue": "Pinta na pele",
+      "answer": "SINAL",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Sigla da Força Aérea Brasileira",
+      "answer": "FAB",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Direito de escolha",
+      "answer": "OPÇÃO",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Esticado",
+      "answer": "TESO",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Gruta pequena",
+      "answer": "LOCA",
+      "row": 7,
+      "col": 6
+    },
+    "35": {
+      "clue": "Precede Vegas no nome da cidade norte-americana",
+      "answer": "LAS",
+      "row": 8,
+      "col": 7
+    },
+    "37": {
+      "clue": "Dois, em algarismos romanos",
+      "answer": "II",
+      "row": 9,
+      "col": 2
+    },
+    "39": {
+      "clue": "Abreviatura de digníssimo",
+      "answer": "DD",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

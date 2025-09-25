@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Postergar",
+      "answer": "ADIAR",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Abertura, racha muito estreita e alongada",
+      "answer": "FENDA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Som de besouro",
+      "answer": "ZUM",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Muito boa",
+      "answer": "OTIMA",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Conversar sobre a atividade dos deputados e senadores",
+      "answer": "POLITICAR",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Reprovar duramente",
+      "answer": "ATACAR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Móvel ideal para assistir TV",
+      "answer": "SOFA",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "AL",
+      "answer": "ALAGOAS",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Uma variação de tu",
+      "answer": "TI",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "O acento de à",
+      "answer": "CRASE",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Magnitude, quantidade",
+      "answer": "VALOR",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Angelina Jolie, atriz de \"Garota, Interrompida\"",
+      "answer": "AJ",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Números não pares",
+      "answer": "IMPARES",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "De nascença",
+      "answer": "NATO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Livrar de suspeitas",
+      "answer": "ILIBAR",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "Corromper, perder",
+      "answer": "TRANSVIAR",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Uma planta dos brejos",
+      "answer": "TABOA",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Ovo, em inglês",
+      "answer": "EGG",
+      "row": 9,
+      "col": 8
+    },
+    "36": {
+      "clue": "Uma equipe do futebol pernambucano",
+      "answer": "SPORT",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Afano de um objeto mediante fraude",
+      "answer": "ROUBO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Sensação de queimação no estômago",
+      "answer": "AZIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um apelido para Eduardo",
+      "answer": "DU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Antílope africano, saltador",
+      "answer": "IMPALA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Adiamento de pagamento de uma dívida",
+      "answer": "ROLAGEM",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Um carro da Honda",
+      "answer": "FIT",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Mensageira",
+      "answer": "EMISSARIA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Pedaço",
+      "answer": "NACO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Ser objeto de desejo, de cobiça",
+      "answer": "ATRAIR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(de canto) Escanteio",
+      "answer": "TIRO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Causar, provocar",
+      "answer": "OCASIONAR",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Febre infecciosa que atinge bovinos",
+      "answer": "AFTOSA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Guarnecer, orlar de",
+      "answer": "TARJAR",
+      "row": 3,
+      "col": 1
+    },
+    "19": {
+      "clue": "Determinar o preço",
+      "answer": "AVALIAR",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Ângulos, quinas",
+      "answer": "CANTOS",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Outro nome da raça de cães fila",
+      "answer": "LEBREU",
+      "row": 5,
+      "col": 8
+    },
+    "26": {
+      "clue": "(Fig.) Pessoa em torno da qual gira um fato",
+      "answer": "PIVO",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Um dos cinco sentidos",
+      "answer": "TATO",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Súplica",
+      "answer": "ROGO",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "Sigla da TV de Sílvio Santos",
+      "answer": "SBT",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "Gilberto Braga, autor de novelas como \"Babilônia\"",
+      "answer": "GB",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Esbarrar",
+      "answer": "EMBATER",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Pessoa com Deficiência",
+      "answer": "PCD",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Membro de uma grande seita muçulmana",
+      "answer": "XIITA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Órgão onde cresce o feto",
+      "answer": "UTERO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Por fim",
+      "answer": "ENFIM",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Lista de alimentos e bebidas oferecidas em um restaurante",
+      "answer": "MENU",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Língua de fogo",
+      "answer": "CHAMA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Empregado subalterno de uma universidade",
+      "answer": "BEDEL",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "(Astron.) A sigla de Unidade Astronômica",
+      "answer": "UA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "(Citol.) Qualquer parte da célula com função determinada",
+      "answer": "ORGANELA",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "A escritora, jornalista e política Nery (1905-1980), de \"Ar do Deserto\"",
+      "answer": "ADALGISA",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Sylvia Telles (1934-1966), cantora",
+      "answer": "ST",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Ler de novo",
+      "answer": "RELER",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "(do Chão) Famoso destino turístico paraense",
+      "answer": "ALTER",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Ótima cantora",
+      "answer": "DIVA",
+      "row": 8,
+      "col": 1
+    },
+    "33": {
+      "clue": "Mau cheiro do suor dos pés",
+      "answer": "CHULE",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Substância líquida, espessa, leitosa ou incolor",
+      "answer": "LATEX",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Furor, ira",
+      "answer": "RAIVA",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Disputa com o Flu um clássico do futebol",
+      "answer": "FLA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Restabelecer o sossego",
+      "answer": "ACALMAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Cumprir",
+      "answer": "EXECUTAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um pronome possessivo feminino",
+      "answer": "MINHA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Bofetada",
+      "answer": "BIFA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Momento",
+      "answer": "ATIMO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Sigla de um projeto ambientalista de proteção das tartarugas marinhas",
+      "answer": "TAMAR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Típica dança cubana",
+      "answer": "RUMBA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Estar pendurado",
+      "answer": "PENDER",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Que não tem piedade",
+      "answer": "CRUEL",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "De + o",
+      "answer": "DO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "(Red., ingl.) Adolescente",
+      "answer": "TEEN",
+      "row": 1,
+      "col": 7
+    },
+    "17": {
+      "clue": "Colocar carga em um navio para lhe dar estabilidade",
+      "answer": "LASTREAR",
+      "row": 3,
+      "col": 10
+    },
+    "20": {
+      "clue": "As letras entre F e J",
+      "answer": "GHI",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Marca de batedeira",
+      "answer": "WALITA",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Protetor dos dedos das costureiras",
+      "answer": "DEDAL",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Fácil de levantar",
+      "answer": "LEVE",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Mistura usada para lustrar couro",
+      "answer": "GRAXA",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "(Via-) Caminho sagrado",
+      "answer": "SACRA",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Plantação de alhos",
+      "answer": "ALHAL",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Floresta virgem",
+      "answer": "SELVA",
+      "row": 6,
+      "col": 9
+    },
+    "31": {
+      "clue": "Pequeno periquito brasileiro",
+      "answer": "TUIM",
+      "row": 7,
+      "col": 8
+    },
+    "34": {
+      "clue": "Leandro Firmino, ator de \"Cidade de Deus\"",
+      "answer": "LF",
+      "row": 9,
+      "col": 0
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Idiota, tolo",
+      "answer": "IMBECIL",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Cútis, pele do rosto",
+      "answer": "TEZ",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "O ator Brando de \"Último Tango em Paris\"",
+      "answer": "MARLON",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Capenga",
+      "answer": "COXO",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Pãozinho redondo, de fubá e ovos",
+      "answer": "BROA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Dissolvido",
+      "answer": "DILUTO",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "A tecla que fica no extremo superior esquerdo do teclado",
+      "answer": "ESC",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Antigo instrumento musical de cordas",
+      "answer": "CITARA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Pôr o barco no rumo",
+      "answer": "APROAR",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "No caso de",
+      "answer": "SE",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "O paisagista Marx (1909-1994), foi considerado um dos melhores do mundo",
+      "answer": "BURLE",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Que existe há pouco tempo",
+      "answer": "JOVEM",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "A desinência verbal de escorrer",
+      "answer": "ER",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Destaque, importância",
+      "answer": "ENFASE",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "Uma cidade piauiense",
+      "answer": "URUÇUI",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Santo",
+      "answer": "STO",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Suportar",
+      "answer": "ATURAR",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Ilhota em forma de coroa",
+      "answer": "ATOL",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Espaço separado por divisórias, em escritórios de telemarketing",
+      "answer": "BAIA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Conseguida, alcançada",
+      "answer": "OBTIDA",
+      "row": 9,
+      "col": 5
+    },
+    "37": {
+      "clue": "Bebida alcoólica ingrediente do daiquiri",
+      "answer": "RUM",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Apurar",
+      "answer": "ESMERAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Que ainda é muito moço",
+      "answer": "IMBERBE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O Bruno da música pop estadunidense",
+      "answer": "MARS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Cariar (dente)",
+      "answer": "BROCAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Pronome pessoal (fem.)",
+      "answer": "ELA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Cristiana Oliveira, atriz carioca",
+      "answer": "CO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Caiapó ou txapacura",
+      "answer": "INDIO",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "O de France é uma corrida de bicicletas",
+      "answer": "TOUR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Grande intensidade emocional, em que a alma parece desligar-se do corpo",
+      "answer": "EXTASE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Forma reduzida do local onde são expostos animais de diferentes espécies",
+      "answer": "ZOO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Os pontos em que, num quadro, a luz se mostra mais intensa",
+      "answer": "CLAROS",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Importante cidade do litoral catarinense",
+      "answer": "ITAJAI",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Fé",
+      "answer": "CRENÇA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Cada uma das túnicas de revestimento do pulmão humano",
+      "answer": "PLEURA",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "(Fig.) Tornar pomposo, soberbo",
+      "answer": "EMPOLAR",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Ave que se disfarça perfeitamente junto a galhos e troncos",
+      "answer": "URUTAU",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Usar roupas",
+      "answer": "VESTIR",
+      "row": 5,
+      "col": 8
+    },
+    "27": {
+      "clue": "Uma característica da peneira",
+      "answer": "FUROS",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "Impróprio, inadequado",
+      "answer": "RUIM",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "Inteira, completa, total",
+      "answer": "TODA",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Abril",
+      "answer": "ABR",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Adv.) No máximo",
+      "answer": "ATE",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "Bruna Marquezine, atriz",
+      "answer": "BM",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

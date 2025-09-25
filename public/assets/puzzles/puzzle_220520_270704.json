@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "Peito",
+      "answer": "TORAX",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Fruta seca",
+      "answer": "PASSA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Tímido, acanhado",
+      "answer": "INIBIDO",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "O Presley (1935-1977), um dos mais famosos cantores de rock",
+      "answer": "ELVIS",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "Presumir, julgar",
+      "answer": "SUPOR",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "O Rosa (1910-1937) compositor de \"Com Que Roupa?\"",
+      "answer": "NOEL",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Um night-club",
+      "answer": "CABARE",
+      "row": 3,
+      "col": 5
+    },
+    "16": {
+      "clue": "Agradecida, grata",
+      "answer": "OBRIGADA",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "O sujeito de voto ou cobro",
+      "answer": "EU",
+      "row": 4,
+      "col": 9
+    },
+    "19": {
+      "clue": "Em que não há trabalho ou intervenção do homem",
+      "answer": "NATURAL",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "Afrontar",
+      "answer": "ENCARAR",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Ingl.) A abreviatura para Doutor em Filosofia",
+      "answer": "PHD",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "(Lau) Um personagem de Maurício de Sousa",
+      "answer": "NHO",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Mús.) Executar com expressão ou relevo as partes de",
+      "answer": "FRASEAR",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Queimar superficialmente",
+      "answer": "TOSTAR",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "S",
+      "answer": "ESSE",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "A cantora de \"Like a Virgin\"",
+      "answer": "MADONNA",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Plaqueta que serve de base à porca",
+      "answer": "RUELA",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Não magro",
+      "answer": "GORDO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Carrinho com trilhos deslizantes, usado na neve",
+      "answer": "TRENO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Ingl.) Rio",
+      "answer": "RIVER",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "A matéria-prima corante",
+      "answer": "ANILINA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "O nome da letra que representa o cromossomo específico do sexo feminino",
+      "answer": "XIS",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Equimose, contusão",
+      "answer": "PISADURA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Fertilizar a terra",
+      "answer": "ADUBAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Um prato que pode ser acompanhado de pão, torradas etc.",
+      "answer": "SOPA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Zequinha de) O compositor paulista (1880-1935) de \"Tico-Tico no Fubá\"",
+      "answer": "ABREU",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Aprendiz de escoteiro",
+      "answer": "LOBINHO",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "Os órgãos da audição",
+      "answer": "ORELHAS",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Secreção comum na gripe",
+      "answer": "CATARRO",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "(Pop.) Furto, roubo",
+      "answer": "GARFADA",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "(de) Não obstante",
+      "answer": "APESAR",
+      "row": 5,
+      "col": 8
+    },
+    "21": {
+      "clue": "Uma tecla do PC",
+      "answer": "ENTER",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "O santo comemorado com Damião",
+      "answer": "COSME",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Tubo para escoamento de águas em excesso",
+      "answer": "DRENO",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Uma função trigonométrica",
+      "answer": "SENO",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Assim",
+      "answer": "TAL",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Nelson Gonçalves, cantor",
+      "answer": "NG",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

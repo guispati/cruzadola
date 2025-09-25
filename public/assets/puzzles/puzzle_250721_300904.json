@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Floyd) Uma das mais famosas bandas de rock",
+      "answer": "PINK",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O sobrenome dos poetas Augusto e Haroldo, fundadores do concretismo brasileiro",
+      "answer": "CAMPOS",
+      "row": 0,
+      "col": 5
+    },
+    "11": {
+      "clue": "(Fig.) Pessoa muito admirada",
+      "answer": "IDOLO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Animal como o robalo",
+      "answer": "PEIXE",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Todo, qualquer (relativamente a um conjunto homogêneo de que é parte)",
+      "answer": "CADA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Frasco",
+      "answer": "CANTIL",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Água que cai das nuvens",
+      "answer": "CHUVA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Cortada com os dentes",
+      "answer": "ROIDA",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "De Haia ou Amsterdã",
+      "answer": "HOLANDES",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Onomatopeia de uma batida à porta",
+      "answer": "TOC",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Que tem fome devoradora (diz-se principalmente de animais)",
+      "answer": "FAMELICO",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Sinal sonoro que abaixa a nota musical de meio tom",
+      "answer": "BEMOL",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Elem. de comp.: há pouco tempo",
+      "answer": "RECEM",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "De sabor áspero, frequentemente desagradável, como o do fel ou do quinino",
+      "answer": "AMARGO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Pingo de qualquer líquido",
+      "answer": "GOTA",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Animal que cava buracos na areia das praias",
+      "answer": "TATUI",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Emitir (o ovino) a sua voz característica",
+      "answer": "BALIR",
+      "row": 9,
+      "col": 6
+    },
+    "34": {
+      "clue": "Defumar",
+      "answer": "AROMAR",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Dito proverbial",
+      "answer": "LEMA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Machu) Cidade pré-colombiana, destino turístico",
+      "answer": "PICCHU",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Estado americano que faz fronteira com o Canadá",
+      "answer": "IDAHO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Med.) Endurecimento subcutâneo",
+      "answer": "NODULO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O Nilson jornalista",
+      "answer": "KLAVA",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "Tornar-se visível",
+      "answer": "APARECER",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Em matemática, o sinal de subtração, que se representa com um tracinho",
+      "answer": "MENOS",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Gír.) Chilique",
+      "answer": "PITI",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O nitroso é também chamado de gás hilariante",
+      "answer": "OXIDO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Assento usado para cavalgar",
+      "answer": "SELA",
+      "row": 0,
+      "col": 10
+    },
+    "16": {
+      "clue": "(Med.) Ausência de dor",
+      "answer": "ANTALGIA",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Habilidade especial para fazer algo",
+      "answer": "DOM",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "A atriz Kidman, de \"Austrália\"",
+      "answer": "NICOLE",
+      "row": 5,
+      "col": 8
+    },
+    "22": {
+      "clue": "Queira Deus!",
+      "answer": "TOMARA",
+      "row": 5,
+      "col": 10
+    },
+    "23": {
+      "clue": "Manobrar um caiaque",
+      "answer": "REMAR",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Congresso que envolve debate de um tema",
+      "answer": "FORUM",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Relativo ao meio ou à classe jurídica",
+      "answer": "LEGAL",
+      "row": 6,
+      "col": 7
+    },
+    "26": {
+      "clue": "Um tecido",
+      "answer": "CETIM",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Uma veste para a mulher grávida",
+      "answer": "BATA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Plantas não cultivadas, sem qualquer serventia",
+      "answer": "MATO",
+      "row": 7,
+      "col": 2
+    }
+  }
+}

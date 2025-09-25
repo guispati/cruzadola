@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Dar uma mão",
+      "answer": "AJUDAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Várzea",
+      "answer": "VALE",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "(Gír.) Grande êxito",
+      "answer": "SU",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Cidade do estado do MT, na região de Rosário Oeste",
+      "answer": "ACORIZAL",
+      "row": 1,
+      "col": 3
+    },
+    "13": {
+      "clue": "Que impede os movimentos de algo",
+      "answer": "TRAVADOR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Econ.) Abreviatura do extinto cruzado",
+      "answer": "CZ",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Museu da Imagem e do Som",
+      "answer": "MIS",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "O cineasta Frank (1897-1991), de",
+      "answer": "CAPRA",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "O de milho é a maisena",
+      "answer": "AMIDO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Melodia de ópera",
+      "answer": "ARIA",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Em matemática, o símbolo do logaritmo",
+      "answer": "LOG",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Bagaço",
+      "answer": "LIA",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "O da Xuxa é Maria da Graça",
+      "answer": "NOME",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Subtrair fraudulentamente",
+      "answer": "SISAR",
+      "row": 6,
+      "col": 6
+    },
+    "30": {
+      "clue": "(Machado de) O autor de \"Dom Casmurro\"",
+      "answer": "ASSIS",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Elevada e nobre composição da poesia lírica",
+      "answer": "ODE",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Zona Tropical",
+      "answer": "ZT",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Que está no começo",
+      "answer": "NASCENTE",
+      "row": 8,
+      "col": 3
+    },
+    "36": {
+      "clue": "Mulher nascida em Montevidéu",
+      "answer": "URUGUAIA",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Abreviatura do console de entretenimento PlayStation",
+      "answer": "PS",
+      "row": 9,
+      "col": 9
+    },
+    "39": {
+      "clue": "Daqui a pouco, em futuro próximo",
+      "answer": "LOGO",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Um carrinho de madeira montado sobre rolamentos",
+      "answer": "ROLIMÃ",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Alto-) Diz-se de ocasião que proporciona o bem, positiva",
+      "answer": "ASTRAL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "João Ubaldo Ribeiro, escritor",
+      "answer": "JUR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Famosa obra de Michelangelo; encontra-se em Florença (Itália)",
+      "answer": "DAVID",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Sorte",
+      "answer": "ACASO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "O atleta Laver, um dos maiores nomes que o tênis já teve",
+      "answer": "ROD",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Fut.) Mudar de 1x0 para 1x2",
+      "answer": "VIRAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "As letras extremas do nosso alfabeto",
+      "answer": "AZ",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Centopeia",
+      "answer": "LACRAIA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A cantora Soares (1930-2022), de \"Na Roda do Samba\"",
+      "answer": "ELZA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Mole de pedra",
+      "answer": "ROCA",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Colegas",
+      "answer": "AMIGOS",
+      "row": 2,
+      "col": 2
+    },
+    "18": {
+      "clue": "Um tipo de cerveja de origem checa",
+      "answer": "PILSEN",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Indivíduo desumano, atroz",
+      "answer": "MONSTRO",
+      "row": 4,
+      "col": 1
+    },
+    "24": {
+      "clue": "Uma praticante de trabalhos manuais",
+      "answer": "ARTESÃ",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "O dedo mínimo",
+      "answer": "MINGO",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "(Bíbl.) O personagem que renunciou, por gulodice, à primogenitura",
+      "answer": "ESAU",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "Parceiro em negócio",
+      "answer": "SOCIO",
+      "row": 6,
+      "col": 6
+    },
+    "29": {
+      "clue": "Que corresponde a um modelo de perfeição",
+      "answer": "IDEAL",
+      "row": 6,
+      "col": 7
+    },
+    "30": {
+      "clue": "Uma cor da bandeira do Reino Unido",
+      "answer": "AZUL",
+      "row": 7,
+      "col": 0
+    },
+    "34": {
+      "clue": "Serviço de Assitência Rural",
+      "answer": "SAR",
+      "row": 8,
+      "col": 5
+    },
+    "35": {
+      "clue": "(Abrev.) Tensão Pré-Menstrual",
+      "answer": "TPM",
+      "row": 8,
+      "col": 9
+    },
+    "37": {
+      "clue": "Ulysses Guimarães (1916-1992), político das \"Diretas Já\"",
+      "answer": "UG",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

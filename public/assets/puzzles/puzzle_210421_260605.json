@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Fécula em pó extraída dos vegetais",
+      "answer": "AMIDO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Peça teatral",
+      "answer": "DRAMA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Lavrar, polir pedras preciosas",
+      "answer": "LAPIDAR",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Mesas geralmente possuem quatro",
+      "answer": "PES",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "A despeito de",
+      "answer": "APESAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Preceitos emanados da autoridade soberana",
+      "answer": "LEIS",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Diretoria Administrativa",
+      "answer": "DA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Cidade do RS, próxima à capital",
+      "answer": "GRAVATAI",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Ave parecida com o tucano",
+      "answer": "ARAÇARI",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Pequena cama para transportar atleta lesionado",
+      "answer": "MACA",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Gír.) Excitação",
+      "answer": "AGITO",
+      "row": 5,
+      "col": 5
+    },
+    "23": {
+      "clue": "Um peixe dos filmes de animação",
+      "answer": "NEMO",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Que arde produzindo chama",
+      "answer": "ACESO",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Cidade mineira do Norte do estado",
+      "answer": "PIRAPORA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Estrôncio, elemento químico",
+      "answer": "SR",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "(Pop.) Pessoa boazinha",
+      "answer": "AMORECO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "O Peter que desafia o Capitão Gancho",
+      "answer": "PAN",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Desse jeito",
+      "answer": "TAL",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Dada à luz",
+      "answer": "NASCIDA",
+      "row": 9,
+      "col": 4
+    },
+    "35": {
+      "clue": "Da boca",
+      "answer": "ORAL",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Tornar livre",
+      "answer": "SOLTAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um personagem das \"Mil e uma Noites\"",
+      "answer": "ALADIM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Desenho de uma região, de um caminho",
+      "answer": "MAPA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um símbolo do Brasil",
+      "answer": "IPE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Pop.) Desgraçar",
+      "answer": "DISGRAMAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Um sucesso de Caetano Veloso",
+      "answer": "ODARA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Darcy Ribeiro (1922-1997), antropólogo",
+      "answer": "DR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Desejo, vontade de comer",
+      "answer": "APETITE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "1/2 (fem.)",
+      "answer": "MEIA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O compositor Valente (1911-1958), de \"Camisa Listrada\" e \"Brasil Pandeiro\"",
+      "answer": "ASSIS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Fruto que parece uma goiaba pequena",
+      "answer": "ARAÇA",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "(Fam.) Fome",
+      "answer": "LARICA",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Não rápido",
+      "answer": "VAGAROSO",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Outro nome do fruto cereja-das-antilhas",
+      "answer": "ACEROLA",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Dar vida e dinamismo a",
+      "answer": "ANIMAR",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Os restos de um cadáver",
+      "answer": "OSSADA",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "O torneio de tênis US",
+      "answer": "OPEN",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Embelezar",
+      "answer": "ORNAR",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Uma ave que grasna",
+      "answer": "PATO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Formam a taba",
+      "answer": "OCAS",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "Piotr Ilitch Tchaikovsky (1840-1893), compositor",
+      "answer": "PIT",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Cloro",
+      "answer": "CL",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

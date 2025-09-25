@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "O ritmo musical de Bob Marley",
+      "answer": "REGGAE",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "(Pop.) Ligação irregular, feita para furtar energia elétrica",
+      "answer": "GATO",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Que vagueia até altas horas da noite",
+      "answer": "TARDIVAGO",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Os habitantes de uma tribo",
+      "answer": "INDIOS",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "A Duda cantora e compositora pernambucana",
+      "answer": "BEAT",
+      "row": 2,
+      "col": 7
+    },
+    "14": {
+      "clue": "Que sofre de vista curta",
+      "answer": "MIOPE",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Mamífero semelhante ao urso, em vias de extinção",
+      "answer": "PANDA",
+      "row": 3,
+      "col": 6
+    },
+    "16": {
+      "clue": "Ferramenta para recolher terra, lixo etc.",
+      "answer": "PA",
+      "row": 4,
+      "col": 0
+    },
+    "17": {
+      "clue": "Empacotar",
+      "answer": "ENFARDAR",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Antecede Qua",
+      "answer": "TER",
+      "row": 5,
+      "col": 4
+    },
+    "21": {
+      "clue": "Que pode enferrujar",
+      "answer": "OXIDAVEL",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Campeonato vencido por um indivíduo por duas vezes",
+      "answer": "BI",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Expulsar do país",
+      "answer": "BANIR",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Pleno, completo",
+      "answer": "CABAL",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "Dezesseis menos cinco",
+      "answer": "ONZE",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "O C do EMC, na antiga disciplina escolar",
+      "answer": "CIVICA",
+      "row": 8,
+      "col": 5
+    },
+    "31": {
+      "clue": "Exilado",
+      "answer": "DEGREDADO",
+      "row": 9,
+      "col": 1
+    },
+    "32": {
+      "clue": "Por aquele",
+      "answer": "PELO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Que tem a pele amarronzada",
+      "answer": "MORENO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Raça",
+      "answer": "ETNIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Conjunto de cavalos, bois etc.",
+      "answer": "GADO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Uma enfermidade virótica muito comum",
+      "answer": "GRIPE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Perder a saúde",
+      "answer": "ADOENTAR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Advérbio: aqui está!",
+      "answer": "EIS",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Fazer o elogio de",
+      "answer": "GABAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Caderno de compromissos",
+      "answer": "AGENDA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Cantiga de melodia e letra simples",
+      "answer": "TOADA",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Desonesto",
+      "answer": "IMPROBO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "A pintora do Amaral (1886-1973), pioneira do modernismo no país",
+      "answer": "TARSILA",
+      "row": 2,
+      "col": 10
+    },
+    "15": {
+      "clue": "Semelhante",
+      "answer": "PARECIDO",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Segue Jan e antecede Mar",
+      "answer": "FEV",
+      "row": 4,
+      "col": 5
+    },
+    "19": {
+      "clue": "Ferramenta de aço usada para esculpir o metal",
+      "answer": "CINZEL",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "(de Pilares) Cantor e compositor carioca",
+      "answer": "XANDE",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "O ginasta Hypólito",
+      "answer": "DIEGO",
+      "row": 6,
+      "col": 3
+    },
+    "24": {
+      "clue": "Banhar com água e sabão",
+      "answer": "LAVAR",
+      "row": 6,
+      "col": 7
+    },
+    "25": {
+      "clue": "(Ingl.) Um ingrediente para sanduíches",
+      "answer": "BACON",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Bacia de banheiro",
+      "answer": "BIDE",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "O total de anos de um século",
+      "answer": "CEM",
+      "row": 8,
+      "col": 5
+    }
+  }
+}

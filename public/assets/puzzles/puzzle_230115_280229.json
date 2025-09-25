@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Fácil de entender",
+      "answer": "OBVIO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Terras que formam arquipélagos",
+      "answer": "ILHAS",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Meta espacial alcançada pelos EUA em 1969",
+      "answer": "LUA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Que fala ou parece falar pelo nariz",
+      "answer": "FANHO",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Alto, elevado",
+      "answer": "EMINENTE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Milton Nascimento, músico de \"Travessia\"",
+      "answer": "MN",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "20",
+      "answer": "VINTE",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "(Red.) Uma formação acadêmica",
+      "answer": "POS",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Mantido",
+      "answer": "CONSERVADO",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Em direito, página dos autos, verso e anverso",
+      "answer": "FOLHA",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "(Red.) Segundo colocado",
+      "answer": "VICE",
+      "row": 5,
+      "col": 6
+    },
+    "21": {
+      "clue": "Interjeição que exprime aprovação",
+      "answer": "ISTO",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "Imagem pintada ou gravada",
+      "answer": "FIGURA",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "A sigla inglesa da modalidade de luta de Vítor Belfort e José Aldo",
+      "answer": "MMA",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "O repórter esportivo Marcos",
+      "answer": "TINO",
+      "row": 7,
+      "col": 4
+    },
+    "26": {
+      "clue": "As iniciais da atriz carioca Beltrão",
+      "answer": "AB",
+      "row": 7,
+      "col": 9
+    },
+    "27": {
+      "clue": "(Fís.) Abreviatura de oersted",
+      "answer": "OE",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Lagarta de mariposa de ampla distribuição no Brasil",
+      "answer": "MANDRUVA",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Segue o quinto",
+      "answer": "SEXTO",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "Vesícula biliar",
+      "answer": "FEL",
+      "row": 9,
+      "col": 8
+    },
+    "32": {
+      "clue": "Peixe alongado",
+      "answer": "ENGUIA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Pop.) Consequência de uma pancada na cabeça",
+      "answer": "GALO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Substância gordurosa para frigir",
+      "answer": "OLEO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O som que imita um tambor",
+      "answer": "BUM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Caixão no qual, em hospitais pobres, se conduzia defunto ao cemitério, e que voltava para servir a outros defuntos",
+      "answer": "VAIVOLTA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Injúria, afronta",
+      "answer": "OFENSA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Que interferiu, intercedeu",
+      "answer": "INTERVINDO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "A ela",
+      "answer": "LHE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O símbolo químico do hólmio",
+      "answer": "HO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Prudência",
+      "answer": "SENSO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Como consequência de",
+      "answer": "ANTE",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "(Fig.) Lar",
+      "answer": "NINHO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Suscetível de ser freado, atenuado, mitigado",
+      "answer": "MODERAVEL",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Peixe de água doce, de carne excelente",
+      "answer": "PACU",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "O santo comemorado com Damião",
+      "answer": "COSME",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "Energia, robustez",
+      "answer": "VIGOR",
+      "row": 4,
+      "col": 7
+    },
+    "19": {
+      "clue": "(Med.) Estreitamento parcial da abertura do prepúcio, geralmente congênito",
+      "answer": "FIMOSE",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "(Pop.) Olé",
+      "answer": "FINTA",
+      "row": 6,
+      "col": 5
+    },
+    "23": {
+      "clue": "Choque psíquico",
+      "answer": "ABALO",
+      "row": 6,
+      "col": 10
+    },
+    "25": {
+      "clue": "Automóvel de aluguel para transporte de passageiros",
+      "answer": "TAXI",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Que me pertence",
+      "answer": "MEU",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "Ainda bem!",
+      "answer": "UFA",
+      "row": 8,
+      "col": 8
+    },
+    "30": {
+      "clue": "Sérgio Groisman, jornalista e apresentador",
+      "answer": "SG",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

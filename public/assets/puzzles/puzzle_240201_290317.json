@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "A primeira plumagem da ave",
+      "answer": "PENUGEM",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "601, em romanos",
+      "answer": "DCI",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O teste que examina a genealogia genética",
+      "answer": "DNA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Comunidade religiosa",
+      "answer": "ABADIA",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Sociabilidade",
+      "answer": "GREGARISMO",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Diz-se do som que tem menor frequência de vibrações que outro",
+      "answer": "BAIXO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Jogar para longe, com ímpeto e força",
+      "answer": "TACAR",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "O quinto número primo",
+      "answer": "ONZE",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Tecido transparente, de seda, algodão ou náilon",
+      "answer": "FILO",
+      "row": 4,
+      "col": 5
+    },
+    "19": {
+      "clue": "Grande quantidade",
+      "answer": "MO",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Grande cidade egípcia",
+      "answer": "CAIRO",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "As iniciais do arquiteto Gaudí (1852-1926)",
+      "answer": "AG",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Virginal, casto",
+      "answer": "PURO",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Grande barco usado na Antiguidade",
+      "answer": "GALE",
+      "row": 6,
+      "col": 7
+    },
+    "26": {
+      "clue": "Doença que pode causar a surdez",
+      "answer": "OTITE",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Calçado apoiado sobre lâminas metálicas, para deslizar no gelo",
+      "answer": "PATIM",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "Instrumento usado para corte de madeira, árvores etc.",
+      "answer": "MOTOSSERRA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Põe-as na mesa quem fala abertamente",
+      "answer": "CARTAS",
+      "row": 9,
+      "col": 1
+    },
+    "32": {
+      "clue": "Partido",
+      "answer": "IDO",
+      "row": 9,
+      "col": 8
+    },
+    "34": {
+      "clue": "A família, na sua intimidade",
+      "answer": "LAR",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Uma maneira de se fechar a camisa",
+      "answer": "ABOTOAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Paládio, elemento químico",
+      "answer": "PD",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ligação telefônica para um número errado",
+      "answer": "ENGANO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Órgão do olfato",
+      "answer": "NARIZ",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um que tem dificuldade em articular palavras e frases",
+      "answer": "GAGO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Uma exclamação de surpresa",
+      "answer": "EBA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Aquele que amou a pátria até o extremo sacrifício",
+      "answer": "MARTIR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O voador é o mesmo que óvni",
+      "answer": "DISCO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Fig.) O ato de ficar deitado para recuperar-se de uma doença",
+      "answer": "CAMA",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Conversar",
+      "answer": "DIALOGAR",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Algoz, carrasco",
+      "answer": "EXECUTOR",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Começo",
+      "answer": "ORIGEM",
+      "row": 2,
+      "col": 10
+    },
+    "15": {
+      "clue": "Doce confeitado de chocolate",
+      "answer": "BOMBOM",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "O Maravilha foi um atacante do futebol",
+      "answer": "FIO",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Ângulo exterior formado por dois planos que se cortam",
+      "answer": "ARESTA",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "Partidária, cúmplice",
+      "answer": "ALIADA",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "(Pop.) Fumar",
+      "answer": "PITAR",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Entrada",
+      "answer": "ATRIO",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Buraco onde animais se abrigam",
+      "answer": "TOCA",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Categoria de halterofilistas",
+      "answer": "PESO",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "Antecede Dom, no calendário",
+      "answer": "SAB",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "(Suf.) Autor",
+      "answer": "OR",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

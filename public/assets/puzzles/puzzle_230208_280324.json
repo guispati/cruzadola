@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Conseguir o que se deseja",
+      "answer": "OBTER",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Livro para colecionar fotografias",
+      "answer": "ALBUM",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Liga de cobre e zinco",
+      "answer": "LATÃO",
+      "row": 1,
+      "col": 1
+    },
+    "13": {
+      "clue": "Modo de interpretar característico de um ator",
+      "answer": "TIPO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Mamífero encontrado do Canadá à Patagônia, de grande porte",
+      "answer": "PUMA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Dar latidos (o cão)",
+      "answer": "LADRAR",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Utilizar o capital em novos investimentos",
+      "answer": "REAPLICAR",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Fúria",
+      "answer": "RAIVA",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Apartamento",
+      "answer": "APE",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "A bacia em que se derrama água utilizada para batismos",
+      "answer": "PIA",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Vanessa da) Cantora e compositora",
+      "answer": "MATA",
+      "row": 5,
+      "col": 4
+    },
+    "26": {
+      "clue": "(Quím.) O érbio",
+      "answer": "ER",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Sigla do estado cortado pelos rios Negro e Solimões",
+      "answer": "AM",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Um método de fisioterapia",
+      "answer": "PILATES",
+      "row": 6,
+      "col": 3
+    },
+    "30": {
+      "clue": "Charco",
+      "answer": "LAGOA",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Avançar como uma bola",
+      "answer": "ROLAR",
+      "row": 7,
+      "col": 6
+    },
+    "34": {
+      "clue": "(Pop.) Ação de namorar de forma sensual, com beijos, carícias etc.",
+      "answer": "AGARRO",
+      "row": 8,
+      "col": 0
+    },
+    "36": {
+      "clue": "Instruído",
+      "answer": "LIDO",
+      "row": 8,
+      "col": 7
+    },
+    "37": {
+      "clue": "Que não tem curvatura",
+      "answer": "RETO",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Instrumento musical constituído por duas peças circulares de metal sonante",
+      "answer": "PRATOS",
+      "row": 9,
+      "col": 5
+    },
+    "40": {
+      "clue": "(Pop.) Grande derrota",
+      "answer": "MASSACRE",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "(Chip) Em economia, ações lucrativas",
+      "answer": "BLUE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Fruto de uma palmeira, rico de vitaminas e açúcares",
+      "answer": "TAMARA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Parada permitida às tropas durante a marcha",
+      "answer": "ETAPA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Bicho encontrado na água ou próximo a ela",
+      "answer": "RÃ",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Limitada",
+      "answer": "LTDA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Teima",
+      "answer": "BIRRA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Interjeição para incentivar o animal em algum esforço físico",
+      "answer": "UPA",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Dar dentadas em",
+      "answer": "MORDER",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Terreno onde azeitonas são cultivadas",
+      "answer": "OLIVAL",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Difundir uma notícia (principalmente reservada e secreta)",
+      "answer": "PROPALAR",
+      "row": 2,
+      "col": 0
+    },
+    "16": {
+      "clue": "Respeitar",
+      "answer": "ACATAR",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "(Fig.) O primeiro momento",
+      "answer": "LIMIAR",
+      "row": 3,
+      "col": 4
+    },
+    "21": {
+      "clue": "Difícil de digerir",
+      "answer": "PESADO",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "O que se vê na tela do computador",
+      "answer": "IMAGEM",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Ficar preso na lama (carro, moto etc.)",
+      "answer": "ATOLAR",
+      "row": 5,
+      "col": 7
+    },
+    "28": {
+      "clue": "Os orifícios por onde o suor sai do corpo",
+      "answer": "POROS",
+      "row": 6,
+      "col": 3
+    },
+    "29": {
+      "clue": "Alta sociedade",
+      "answer": "ELITE",
+      "row": 6,
+      "col": 8
+    },
+    "31": {
+      "clue": "(Borralheira) Personagem de história infantil",
+      "answer": "GATA",
+      "row": 7,
+      "col": 2
+    },
+    "33": {
+      "clue": "A Púrpura do Cairo é um filme de Woody Allen",
+      "answer": "ROSA",
+      "row": 7,
+      "col": 10
+    },
+    "35": {
+      "clue": "Interjeição que designa espanto",
+      "answer": "OPA",
+      "row": 8,
+      "col": 5
+    },
+    "39": {
+      "clue": "As iniciais da atriz e apresentadora Casé",
+      "answer": "RC",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

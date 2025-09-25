@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "O ator e cantor capixaba Suede",
+      "answer": "CHAY",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "Diz-se da arquitetura das catedrais de Paris e Milão",
+      "answer": "GOTICA",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Digno de crédito, confiável",
+      "answer": "BOM",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Ator brasileiro, grande nome das chanchadas (1924-2009)",
+      "answer": "ANKITO",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Erva também chamada agrião-do-pará",
+      "answer": "JAMBU",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "A minha família",
+      "answer": "MEUS",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "As sociais são ótimos meios de se manter contato com amigos",
+      "answer": "REDES",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Um grau hierárquico de nobreza",
+      "answer": "CONDE",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "Um que recebe instrução",
+      "answer": "ALUNO",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "(Matem.) Secante",
+      "answer": "SEC",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "Comissão Julgadora",
+      "answer": "CJ",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Procedimento costumeiro ou de praxe",
+      "answer": "ORDEM",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Lutécio, elemento químico",
+      "answer": "LU",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Exclamação de incerteza, incredulidade",
+      "answer": "HUM",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Dinamarquês",
+      "answer": "DANES",
+      "row": 6,
+      "col": 4
+    },
+    "29": {
+      "clue": "Substância que torna a terra mais produtiva",
+      "answer": "ADUBO",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "A personagem do Agreste, de Jorge Amado",
+      "answer": "TIETA",
+      "row": 7,
+      "col": 6
+    },
+    "33": {
+      "clue": "Peça em forma de disco, que gira em torno de um eixo",
+      "answer": "RODA",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Um crustáceo marinho",
+      "answer": "CRACA",
+      "row": 8,
+      "col": 5
+    },
+    "35": {
+      "clue": "Peça de madeira, própria para enterrar defunto",
+      "answer": "CAIXÃO",
+      "row": 9,
+      "col": 1
+    },
+    "37": {
+      "clue": "Trezentos, em algarismos romanos",
+      "answer": "CCC",
+      "row": 9,
+      "col": 8
+    },
+    "39": {
+      "clue": "Que tem preço baixo, acessível",
+      "answer": "BARATO",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "(Ingl.) Fase de grande expansão econômica",
+      "answer": "BOOM",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Cate Blanchett, atriz de \"O Aviador\"",
+      "answer": "CB",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O dia em que se está",
+      "answer": "HOJE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Adorada",
+      "answer": "AMADA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um grande antílope, com chifres parecidos com os dos bois",
+      "answer": "GNU",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "Interjeição inglesa: tudo bem! de acordo!",
+      "answer": "OK",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Glândula do tórax, involui a partir da puberdade",
+      "answer": "TIMO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Cláusulas de um documento",
+      "answer": "ITENS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Mil.) Capitão de cavalaria",
+      "answer": "COUDEL",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Sonho, utopia",
+      "answer": "ABSURDO",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Um dos sobrenomes do poeta João Cabral (1920-1999)",
+      "answer": "MELO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Ausência de umidade",
+      "answer": "SECURA",
+      "row": 2,
+      "col": 10
+    },
+    "15": {
+      "clue": "Lascar",
+      "answer": "RACHAR",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Erva semelhante à salsa",
+      "answer": "COENTRO",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Opção em prova de múltipla escolha",
+      "answer": "NDA",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Um desportista que luta descalço",
+      "answer": "JUDOCA",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Ingresso vendido com 50% de desconto",
+      "answer": "MEIA",
+      "row": 5,
+      "col": 7
+    },
+    "26": {
+      "clue": "Distorcer, desvirtuar (o sentido)",
+      "answer": "MUDAR",
+      "row": 6,
+      "col": 2
+    },
+    "28": {
+      "clue": "A Deborah atriz de \"Caramuru - A Invenção do Brasil\"",
+      "answer": "SECCO",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "Área para cavalos",
+      "answer": "BAIA",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "Comida mexicana, tortilha frita e recheada",
+      "answer": "TACO",
+      "row": 7,
+      "col": 9
+    },
+    "34": {
+      "clue": "Um animal domesticável",
+      "answer": "CÃO",
+      "row": 8,
+      "col": 5
+    },
+    "36": {
+      "clue": "As consoantes em xote",
+      "answer": "XT",
+      "row": 9,
+      "col": 4
+    },
+    "38": {
+      "clue": "Claude Monet (1840-1926), pintor francês",
+      "answer": "CM",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

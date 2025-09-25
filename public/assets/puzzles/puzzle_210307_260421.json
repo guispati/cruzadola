@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Salivar",
+      "answer": "BABAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Competente",
+      "answer": "CAPAZ",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Manha para persuadir e convencer alguém",
+      "answer": "LABIA",
+      "row": 1,
+      "col": 1
+    },
+    "13": {
+      "clue": "(Mús.) Espécie de sanfona",
+      "answer": "FOLE",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Rua estreita e curta, eventualmente sem saída",
+      "answer": "BECO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Máquina de terraplenagem niveladora",
+      "answer": "PATROL",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Tornar independente",
+      "answer": "EMANCIPAR",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "A parte escura do dia",
+      "answer": "NOITE",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Advérbio: aqui está!",
+      "answer": "EIS",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Santa",
+      "answer": "STA",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Pompa",
+      "answer": "GALA",
+      "row": 5,
+      "col": 4
+    },
+    "26": {
+      "clue": "Sigla do estado em que foi encravado o DF",
+      "answer": "GO",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "A desinência verbal de ferver e comer",
+      "answer": "ER",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Pessoa muito alta e magra",
+      "answer": "VARAPAU",
+      "row": 6,
+      "col": 3
+    },
+    "30": {
+      "clue": "(Ingl.) Toucinho defumado",
+      "answer": "BACON",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Garoto",
+      "answer": "RAPAZ",
+      "row": 7,
+      "col": 6
+    },
+    "34": {
+      "clue": "Que tem forma elíptica",
+      "answer": "OVALAR",
+      "row": 8,
+      "col": 0
+    },
+    "36": {
+      "clue": "O nome dos atores norte-americanos Hackman, Kelly e Wilder",
+      "answer": "GENE",
+      "row": 8,
+      "col": 7
+    },
+    "37": {
+      "clue": "Peça da cauda do avião, que regula a direção do aparelho",
+      "answer": "LEME",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Fazer absorver por aspiração",
+      "answer": "INALAR",
+      "row": 9,
+      "col": 5
+    },
+    "40": {
+      "clue": "Escape",
+      "answer": "SAIDOURO",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "(Paraíba) Cidade mineira da divisa com o Rio de Janeiro",
+      "answer": "ALEM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Pop.) Bonito, legal",
+      "answer": "BACANA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Auxílio financeiro",
+      "answer": "ABONO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Meio... rico",
+      "answer": "RI",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Pequena ferida da mucosa bucal",
+      "answer": "AFTA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Pop.) Bebedeira",
+      "answer": "PORRE",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Aviso, lembrete de atenção para um assunto",
+      "answer": "ALO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Cuidadoso",
+      "answer": "ZELOSO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Atuar como juiz de futebol",
+      "answer": "APITAR",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Um esporte muito popular nos EUA, Cuba e Japão",
+      "answer": "BEISEBOL",
+      "row": 2,
+      "col": 0
+    },
+    "16": {
+      "clue": "Invocar auxílio de, para solucionar um problema",
+      "answer": "APELAR",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "Mulher de um povo nômade",
+      "answer": "CIGANA",
+      "row": 3,
+      "col": 4
+    },
+    "21": {
+      "clue": "Réptil que, quando atacado, chicoteia o inimigo com a cauda",
+      "answer": "IGUANA",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Direção oblíqua ou diagonal",
+      "answer": "TRAVES",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Extinguir (fogo)",
+      "answer": "APAGAR",
+      "row": 5,
+      "col": 7
+    },
+    "28": {
+      "clue": "O esporte do técnico José Roberto Guimarães",
+      "answer": "VOLEI",
+      "row": 6,
+      "col": 3
+    },
+    "29": {
+      "clue": "Invocação",
+      "answer": "APELO",
+      "row": 6,
+      "col": 8
+    },
+    "31": {
+      "clue": "Móvel para dormir",
+      "answer": "CAMA",
+      "row": 7,
+      "col": 2
+    },
+    "33": {
+      "clue": "Um Recruta das HQs",
+      "answer": "ZERO",
+      "row": 7,
+      "col": 10
+    },
+    "35": {
+      "clue": "O Nilo corta o Egito",
+      "answer": "RIO",
+      "row": 8,
+      "col": 5
+    },
+    "39": {
+      "clue": "Pelado",
+      "answer": "NU",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

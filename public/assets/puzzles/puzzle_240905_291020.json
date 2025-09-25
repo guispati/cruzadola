@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Escuridão absoluta",
+      "answer": "TREVA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Da vista",
+      "answer": "OTICO",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Uma das peças do jogo de xadrez",
+      "answer": "REI",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Serviço que se presta a alguém",
+      "answer": "FAVOR",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Epitácio Pessoa (1865-1942), presidente da República",
+      "answer": "EP",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Animal aquático que fornece valiosa pele",
+      "answer": "VISOM",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Herbert Vianna, músico de \"Os Paralamas do Sucesso\"",
+      "answer": "HV",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Grãos como o trigo, o arroz",
+      "answer": "CEREAIS",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "XIV dividido por 2",
+      "answer": "VII",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Cidade nordestina, a primeira capital de Pernambuco",
+      "answer": "OLINDA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Cobertura",
+      "answer": "CAPA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Tecido com desenhos impressos por tingimento",
+      "answer": "ESTAMPADO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "A região do corpo que dói na isquialgia",
+      "answer": "ANCA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Da ação do vento",
+      "answer": "EOLICO",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Instituto Tecnológico de Aeronáutica",
+      "answer": "ITA",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Tornar obscuro",
+      "answer": "ENEVOAR",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Não é?",
+      "answer": "NE",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Flor ainda fechada",
+      "answer": "BROTO",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "Abrev.: Miriâmetro",
+      "answer": "MN",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Teima caprichosa",
+      "answer": "BIRRA",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "Ministério da Pesca e Aquicultura",
+      "answer": "MPA",
+      "row": 9,
+      "col": 8
+    },
+    "32": {
+      "clue": "Notificação",
+      "answer": "AVISO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Colocar algo no lugar de onde foi tirado",
+      "answer": "REPOR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Pop.) Uma coisa qualquer que não se sabe definir",
+      "answer": "TRECO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Substância usada para afastar moscas e pernilongos",
+      "answer": "REPELENTE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Seis sem esses",
+      "answer": "EI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Amolada",
+      "answer": "AFIADA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "São trocados na Páscoa como presente",
+      "answer": "OVOS",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "O humorista Cavalcante",
+      "answer": "TOM",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Passar (bem ou mal) de saúde",
+      "answer": "IR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Evidente, lógica",
+      "answer": "OBVIA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Uma das regiões do maior continente da Terra",
+      "answer": "ASIAMENOR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Cada uma das fossas nasais",
+      "answer": "VENTA",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Outro nome do cavalo-marinho",
+      "answer": "HIPOCAMPO",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "(À) Ao pé da letra",
+      "answer": "RISCA",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Indivíduo que nada faz",
+      "answer": "VADIO",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Desprovido de cabelos",
+      "answer": "CALVO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Fazer versos",
+      "answer": "POETAR",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Até este momento",
+      "answer": "AINDA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Enfeitar, decorar",
+      "answer": "ORNAR",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Falha",
+      "answer": "ERRO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Pedido de repetição",
+      "answer": "BIS",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Torneio vencido por duas vezes",
+      "answer": "BI",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "Marina Person, apresentadora",
+      "answer": "MP",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

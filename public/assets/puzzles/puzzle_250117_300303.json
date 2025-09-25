@@ -1,0 +1,246 @@
+{
+  "across": {
+    "2": {
+      "clue": "Uma das dimensões",
+      "answer": "LARGURA",
+      "row": 0,
+      "col": 4
+    },
+    "8": {
+      "clue": "Ella Fitzgerald (1917-1996), cantora",
+      "answer": "EF",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Variedade azul de coríndon, usada como pedra preciosa",
+      "answer": "SAFIRA",
+      "row": 1,
+      "col": 3
+    },
+    "11": {
+      "clue": "Uma eclipse",
+      "answer": "LUNAR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Fig.) Solução, recurso, expediente",
+      "answer": "SAIDA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "(Net.) Imagem que exprime sentimentos",
+      "answer": "EMOTICON",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Um fantástico monstrinho do cinema",
+      "answer": "ET",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Do aspecto moral",
+      "answer": "ETICO",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "A carta feminina do baralho",
+      "answer": "DAMA",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Suporte para lâmpada, fixo na parede",
+      "answer": "ARANDELA",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "(Mão de) Serviço",
+      "answer": "OBRA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Nuca",
+      "answer": "CERVIX",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "1.002, em algarismos romanos",
+      "answer": "MII",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Doença causada por carne de porco contaminada",
+      "answer": "TENIASE",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Diz-se de mecanismo que transmite movimento a máquinas",
+      "answer": "PROPULSOR",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Suf.) Autor",
+      "answer": "OR",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Um dente usado na alimentação",
+      "answer": "ALHO",
+      "row": 9,
+      "col": 3
+    },
+    "34": {
+      "clue": "Tempo entre 1/1 e 31/12",
+      "answer": "ANO",
+      "row": 9,
+      "col": 8
+    },
+    "36": {
+      "clue": "O ator Bruno",
+      "answer": "MAZZEO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Artur Xexéo, jornalista e escritor",
+      "answer": "AX",
+      "row": 10,
+      "col": 9
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Pertencente àquele homem",
+      "answer": "DELE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Pop.) Vontade de comer",
+      "answer": "LARICA",
+      "row": 0,
+      "col": 4
+    },
+    "3": {
+      "clue": "Ana Furtado, apresentadora e atriz da tevê",
+      "answer": "AF",
+      "row": 0,
+      "col": 5
+    },
+    "4": {
+      "clue": "Consequência de uma piada engraçada",
+      "answer": "RISO",
+      "row": 0,
+      "col": 6
+    },
+    "5": {
+      "clue": "(Acadêmicos do) Escola de samba fluminense",
+      "answer": "GRANDERIO",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "Interjeição que exprime surpresa, espanto",
+      "answer": "UAI",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Ferro esmaltado",
+      "answer": "AGATA",
+      "row": 0,
+      "col": 10
+    },
+    "9": {
+      "clue": "Cinza-escuro",
+      "answer": "FUME",
+      "row": 1,
+      "col": 1
+    },
+    "10": {
+      "clue": "Poesia que põe em ridículo os vícios humanos",
+      "answer": "SATIRA",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Escrivão público",
+      "answer": "NOTARIO",
+      "row": 2,
+      "col": 2
+    },
+    "14": {
+      "clue": "Além da conta",
+      "answer": "DEMAIS",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Em Portugal, circunscrição administrativa inferior ao distrito, do qual é divisão",
+      "answer": "CONCELHO",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Pode ser de soltura",
+      "answer": "ALVARA",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Pequeno enfeite de bola de fios de lã",
+      "answer": "POMPOM",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Espesso",
+      "answer": "DENSO",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Teima caprichosa",
+      "answer": "BIRRA",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Aparelho para reproduzir cópias em papel",
+      "answer": "XEROX",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Tecido usado em camisolas e véus",
+      "answer": "TULE",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "O contrário da guerra",
+      "answer": "PAZ",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "A cantora Ozzetti, de \"Estopim\"",
+      "answer": "NA",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

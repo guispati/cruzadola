@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Unidade de medida elétrica de símbolo W",
+      "answer": "WATT",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O ator carioca Daniel",
+      "answer": "DANTAS",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Famosas grutas pré-históricas da Espanha",
+      "answer": "ALTAMIRA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Um apelido para Eduardo",
+      "answer": "DU",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Cinquenta e cinco, em romanos",
+      "answer": "LV",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "No jogo do bicho, as dezenas de 53 a 56",
+      "answer": "GATO",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "O barulho de uma explosão",
+      "answer": "TUM",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Tosquiada",
+      "answer": "TOSADA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "O de arraia é um golpe da capoeira",
+      "answer": "RABO",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Cidade fluminense, na região dos Lagos",
+      "answer": "ARARUAMA",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Ainda agora",
+      "answer": "RECEM",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Vermelha, como o sangue",
+      "answer": "RUBRA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Pequeniníssima parte da matéria",
+      "answer": "MOLECULA",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Sem efeito (fem.)",
+      "answer": "NULA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "(Pop.) Impertinente",
+      "answer": "RABUJA",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "No futebol, série de dribles aplicada no adversário",
+      "answer": "OLE",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Parte do calçado que fica acima do tornozelo",
+      "answer": "CANO",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Ugo Giorgetti, cineasta paulistano",
+      "answer": "UG",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "(Elet.) Símbolo do volt-ampère",
+      "answer": "VA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Outra nome da varicela, doença virótica contagiosa",
+      "answer": "CATAPORA",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "Lugar em que alguém se apoia",
+      "answer": "ARRIMO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Desgastar, friccionando",
+      "answer": "PUIR",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O cineasta Salles, de \"Ainda Estou Aqui\"",
+      "answer": "WALTER",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Mira que se procura atingir",
+      "answer": "ALVO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Tina Turner, cantora de \"Private Dancer\"",
+      "answer": "TT",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Linguarudo, palrador",
+      "answer": "TAGARELA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Fig.) Determinar",
+      "answer": "DITAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Banda de rodagem de uma roda, na qual se encaixa o pneu",
+      "answer": "ARO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O símbolo químico do sódio",
+      "answer": "NA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Estrumar (a terra)",
+      "answer": "ADUBAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Luta japonesa com homens corpulentos",
+      "answer": "SUMO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Bovary) Um livro de Gustave Flaubert",
+      "answer": "MADAME",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Cidade paulista da região de São João da Boa Vista",
+      "answer": "TAMBAU",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Suco congelado num saquinho plástico",
+      "answer": "SACOLE",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "O poeta gaúcho de \"Cobra Norato\" (1898-1984)",
+      "answer": "RAULBOPP",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Cidade de Goiás, na região de Ceres",
+      "answer": "URUANA",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Seguir o exemplo de",
+      "answer": "EMULAR",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Inundar",
+      "answer": "ALAGAR",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "A cidade cearense de Padre Cícero",
+      "answer": "CRATO",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Uma das luas",
+      "answer": "NOVA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Comissão julgadora",
+      "answer": "JURI",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Abreviatura (em português) de Camarões",
+      "answer": "CAM",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "(Rom.) 101",
+      "answer": "CI",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Conjunção que indica alternativa, opção",
+      "answer": "OU",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

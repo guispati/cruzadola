@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "O I do IRPF",
+      "answer": "IMPOSTO",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "300, em algarismos romanos",
+      "answer": "CCC",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Tapar garrafas, tonéis etc.",
+      "answer": "ROLHAR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Ponto médio, centro",
+      "answer": "MEIO",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "O grito que acompanha algumas danças espanholas",
+      "answer": "OLE",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "A planta da qual se extrai o ópio",
+      "answer": "PAPOULA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Que faz bem para a saúde",
+      "answer": "SAUDAVEL",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Pref.: aproximação",
+      "answer": "AD",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Que é pouco desenvolvido em relação à sua idade",
+      "answer": "RETARDADO",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "O jogador de futebol Garrincha (1933-1983)",
+      "answer": "MANE",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Restabelecimento de saúde",
+      "answer": "CURA",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Cidade dos EUA, em Maryland, próxima à capital federal",
+      "answer": "BALTIMORE",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Richard Nixon (1913-1994), ex-presidente dos EUA",
+      "answer": "RN",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Animal carnívoro muito procurado por caçadores pela sua pele",
+      "answer": "ARIRANHA",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Propaganda em grande painel",
+      "answer": "OUTDOOR",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Precede Sex",
+      "answer": "QUI",
+      "row": 8,
+      "col": 8
+    },
+    "31": {
+      "clue": "Roedor africano, parecido com o esquilo",
+      "answer": "XERO",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "O XXI vai de 2001 a 2100",
+      "answer": "SECULO",
+      "row": 9,
+      "col": 5
+    },
+    "34": {
+      "clue": "O músico Johnny, da bossa-nova",
+      "answer": "ALF",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Furar",
+      "answer": "PERMEAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Zangado",
+      "answer": "IROSO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um amortecedor para carros",
+      "answer": "MOLA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Da membrana de revestimento do pulmão",
+      "answer": "PLEURAL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Uma exclamação que expressa diferentes sentimentos",
+      "answer": "OH",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Conserta calçados",
+      "answer": "SAPATEIRO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Saliência da sola das chuteiras",
+      "answer": "TRAVA",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Espaço onde se movem cometas, planetas etc.",
+      "answer": "CEU",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Armadilha",
+      "answer": "CILADA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Passado por crivo",
+      "answer": "COADO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Peça que enquadra um quadro",
+      "answer": "MOLDURA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Andar por",
+      "answer": "PERCORRER",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Mordido",
+      "answer": "DENTADO",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Peixe semelhante à sardinha, também chamado de manjuba",
+      "answer": "ARENQUE",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "Um dos nomes do Joaquim (1820-1882) autor de \"A Moreninha\"",
+      "answer": "MANUEL",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Pincel grande e grosso para caiação ou pintura comum",
+      "answer": "BROXA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Med.) A contração das pupilas",
+      "answer": "MIOSE",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "Grande",
+      "answer": "MAIOR",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Dança havaiana, caracterizada pelo movimento ritmado dos braços e dos quadris",
+      "answer": "HULA",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Tribunal Regional Federal",
+      "answer": "TRF",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "Cecília Meireles (1901-1964), poetisa",
+      "answer": "CM",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

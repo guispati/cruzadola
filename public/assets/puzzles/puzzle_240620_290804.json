@@ -1,0 +1,240 @@
+{
+  "across": {
+    "1": {
+      "clue": "Filme de animação dos estúdios Disney",
+      "answer": "MOANA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Claridade fraca",
+      "answer": "ALVOR",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "9 anos",
+      "answer": "NOVENIO",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "Peixe de rios e lagos, comum em aquários",
+      "answer": "ACARA",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "Um jogo de tabuleiro entre dois concorrentes",
+      "answer": "DAMAS",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Uma variedade de abóbora",
+      "answer": "MOGANGA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Imposto sobre o Valor Agregado",
+      "answer": "IVA",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "As três últimas vogais",
+      "answer": "IOU",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Índole",
+      "answer": "CARATER",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Um desportista que se exibe sobre o gelo",
+      "answer": "PATINADOR",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Conselho Tutelar",
+      "answer": "CT",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Aplicar óleos consagrados a",
+      "answer": "UNGIR",
+      "row": 6,
+      "col": 3
+    },
+    "24": {
+      "clue": "Tribunal de Justiça",
+      "answer": "TJ",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Meio-fio",
+      "answer": "LANCIL",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "A parte extrema do intestino delgado",
+      "answer": "ILEO",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "(Arco-) Um conjunto de cores no céu",
+      "answer": "IRIS",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Uma escrava da literatura",
+      "answer": "ISAURA",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Ave de carne e ovos saborosos",
+      "answer": "CODORNA",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "(Ingl.) Movimento econômico de longa duração",
+      "answer": "TREND",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Mulher que acompanha parturientes",
+      "answer": "DOULA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Grande cidade dos EUA, na Flórida",
+      "answer": "MIAMI",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Saia íntima feminina, em desuso",
+      "answer": "ANAGUA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "A mulher do filho",
+      "answer": "NORA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "O novelista Walter (1935-2001)",
+      "answer": "AVANCINI",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Bairro e morro do Rio de Janeiro",
+      "answer": "ANDARAI",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "(de Itamaracá) Cantora e compositora de cirandas",
+      "answer": "LIA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Emissão involuntária pela boca do conteúdo gástrico",
+      "answer": "VOMITO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Aplainar",
+      "answer": "RASAR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Agregar",
+      "answer": "COOPTAR",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "Desviar do seu curso",
+      "answer": "AVERTER",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Nódulo",
+      "answer": "GANGLIO",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Um imperador romano",
+      "answer": "ADRIANO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Cidade do Arizona, nos EUA",
+      "answer": "TUCSON",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "O ator e cineasta Eastwood, de \"As Pontes de Madison\"",
+      "answer": "CLINT",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "A d'Arc (1412-1431) heroína francesa",
+      "answer": "JOANA",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Uma cidade da Côte-d'Azur, na França",
+      "answer": "NICE",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Festa havaiana com comidas e danças típicas",
+      "answer": "LUAU",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Sem Raça Definida (animal)",
+      "answer": "SRD",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Dolores Duran (1930-1959), cantora carioca",
+      "answer": "DD",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

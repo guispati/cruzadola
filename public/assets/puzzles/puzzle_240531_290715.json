@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Café com) Bege",
+      "answer": "LEITE",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Famosa marca de chocolate",
+      "answer": "BATON",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Organizar em forma de lista, em geral alfabética",
+      "answer": "INDEXAR",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Milhas por Hora",
+      "answer": "MPH",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Santo reduzido",
+      "answer": "STO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Regra",
+      "answer": "TEOR",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Terapia Ocupacional",
+      "answer": "TO",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Theodore Roosevelt, ex-presidente dos EUA (1858-1919)",
+      "answer": "TR",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "João Pessoa é sua capital",
+      "answer": "PARAIBA",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Ato de pisar novamente",
+      "answer": "REPISO",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Um crustáceo marinho",
+      "answer": "SIRI",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "Saliências, quinas",
+      "answer": "ARESTAS",
+      "row": 5,
+      "col": 2
+    },
+    "26": {
+      "clue": "Catorze menos seis",
+      "answer": "OITO",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Deslocado",
+      "answer": "MUDADO",
+      "row": 6,
+      "col": 5
+    },
+    "30": {
+      "clue": "Fruto suculento, comestível",
+      "answer": "CAGAITA",
+      "row": 7,
+      "col": 1
+    },
+    "32": {
+      "clue": "Robert Redford, ator de \"Proposta Indecente\"",
+      "answer": "RR",
+      "row": 7,
+      "col": 9
+    },
+    "33": {
+      "clue": "Boletim Oficial",
+      "answer": "BO",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Acima do padrão ou maior que o normal",
+      "answer": "ALTO",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Plástico usado na produção de garrafas, potes etc.",
+      "answer": "PET",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "Certidão Negativa de Débito",
+      "answer": "CND",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Trapaça",
+      "answer": "CHICANA",
+      "row": 9,
+      "col": 4
+    },
+    "40": {
+      "clue": "Pessoas em geral",
+      "answer": "GENTE",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "Gancho de pesca",
+      "answer": "ANZOL",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Faixa ou risca de grande tamanho",
+      "answer": "LISTRÃO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "No meio de",
+      "answer": "ENTRE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Que foi ou se foi",
+      "answer": "IDO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "T",
+      "answer": "TE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Estado de arrebatamento causado por um prazer muito forte",
+      "answer": "EXTASE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Pão doce de milho",
+      "answer": "BROA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Tito Madi (1929-2018), cantor e compositor paulista",
+      "answer": "TM",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Dar preferência",
+      "answer": "OPTAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Lau) Personagem da \"Turma da Mônica\"",
+      "answer": "NHO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "A banda de rock do sucesso \"Dream On\"",
+      "answer": "AEROSMITH",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Desabafo de bom humor",
+      "answer": "RISADA",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "Embarcação comprida, estreita e veloz, escavada em tronco de árvore",
+      "answer": "PIROGA",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Uma maneira de chamar a vó da mãe",
+      "answer": "BISA",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Pé da camelo",
+      "answer": "PATA",
+      "row": 4,
+      "col": 2
+    },
+    "23": {
+      "clue": "Membro da Academia Brasileira de Letras",
+      "answer": "IMORTAL",
+      "row": 4,
+      "col": 10
+    },
+    "25": {
+      "clue": "Município maranhense situado próximo ao delta do Parnaíba",
+      "answer": "TUTOIA",
+      "row": 5,
+      "col": 6
+    },
+    "27": {
+      "clue": "Desenho que representa um programa executável",
+      "answer": "ICONE",
+      "row": 6,
+      "col": 1
+    },
+    "29": {
+      "clue": "Tubo ou vala para escoamento de águas em excesso num terreno",
+      "answer": "DRENO",
+      "row": 6,
+      "col": 9
+    },
+    "31": {
+      "clue": "Animal das regiões frias do hemisfério Norte, de pelagem escura",
+      "answer": "ALCE",
+      "row": 7,
+      "col": 4
+    },
+    "33": {
+      "clue": "Bacilo Calmette-Guérin, a vacina contra a tuberculose",
+      "answer": "BCG",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "(e amor) Slogan hippie dos anos 1960/70",
+      "answer": "PAZ",
+      "row": 8,
+      "col": 8
+    },
+    "37": {
+      "clue": "Dudu Nobre, sambista de \"Vou Botar Teu Nome na Macumba\"",
+      "answer": "DN",
+      "row": 9,
+      "col": 2
+    },
+    "39": {
+      "clue": "Cianogênio, elemento químico",
+      "answer": "CN",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

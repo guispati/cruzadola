@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma pimenta mexicana",
+      "answer": "CHILI",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O chefe supremo da igreja católica",
+      "answer": "PAPA",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Semente de pinheiro",
+      "answer": "PENISCO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Unidade de Conservação",
+      "answer": "UC",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Pouco resistente",
+      "answer": "DEBIL",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Fernando de Noronha",
+      "answer": "FN",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "(Sigla ingl.) Pessoa muito importante",
+      "answer": "VIP",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "O nome pelo qual a lei de incentivo à cultura é conhecida",
+      "answer": "ROUANET",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Doce recheado de chocolate ou creme, também chamado bomba",
+      "answer": "ECLAIR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Situação, condição, circunstância",
+      "answer": "MODO",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Que não se deixa comover pelas lágrimas",
+      "answer": "ILACRIMAVEL",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Instrumento usado na fiação manual",
+      "answer": "ROCA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Baixo e grosso",
+      "answer": "TORORO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Caçar ou fisgar",
+      "answer": "APANHAR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Segunda-feira",
+      "answer": "SEG",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "D",
+      "answer": "DE",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Ser humano",
+      "answer": "HOMEM",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Faz cota virar ricota",
+      "answer": "RI",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Raia também chamada morcego-do-mar",
+      "answer": "JAMANTA",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "(Med.) Voltado para dentro",
+      "answer": "VARO",
+      "row": 10,
+      "col": 1
+    },
+    "36": {
+      "clue": "Muito fácil de entender",
+      "answer": "OBVIO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Banho rápido",
+      "answer": "CHUVEIRADA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Inquérito Policial",
+      "answer": "IP",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "A banda de rock Zeppelin, de \"Stairway to Heaven\"",
+      "answer": "LED",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Referir-se a alguma coisa",
+      "answer": "INERIR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Som para pedir silêncio",
+      "answer": "PSIU",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Aplaudir insistentemente",
+      "answer": "ACLAMAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Um símbolo bíblico de fragilidade e morte",
+      "answer": "PO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Cidade baiana da região de Barra",
+      "answer": "IBORITAMA",
+      "row": 1,
+      "col": 5
+    },
+    "10": {
+      "clue": "Da investigação teórica do ser",
+      "answer": "ONTOLOGICO",
+      "row": 1,
+      "col": 10
+    },
+    "12": {
+      "clue": "Ser da mitologia, com aspecto de gigante com um só olho no meio da testa",
+      "answer": "CICLOPE",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "O tenista Roger, ícone da modalidade",
+      "answer": "FEDERER",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Chapa de carro",
+      "answer": "PLACA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "(Baianos) Grupo musical brasileiro",
+      "answer": "NOVOS",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Tornar tímido, encabular",
+      "answer": "ACANHAR",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Que tem a pele azeitonada ou amarronzada",
+      "answer": "MORENO",
+      "row": 5,
+      "col": 6
+    },
+    "27": {
+      "clue": "Elemento de composição: igual, semelhante",
+      "answer": "HOMO",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Mountain Biking, modalidade do ciclismo",
+      "answer": "MTB",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Imediatamente",
+      "answer": "JA",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Abreviatura de avenida",
+      "answer": "AV",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

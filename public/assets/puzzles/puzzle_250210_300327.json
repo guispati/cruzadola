@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Porção inferior e posterior do osso ilíaco",
+      "answer": "ISQUIO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Não acredita em Deus",
+      "answer": "ATEU",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "O José fantoche de um programa de TV",
+      "answer": "LOURO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Tirar o que fecha",
+      "answer": "ABRIR",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Animal que vive tanto na água como fora dela",
+      "answer": "ANFIBIO",
+      "row": 2,
+      "col": 2
+    },
+    "14": {
+      "clue": "Pronome demonstrativo feminino",
+      "answer": "ESTA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Exibição",
+      "answer": "MOSTRA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Exclamação típica dos mineiros",
+      "answer": "UAI",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Furar",
+      "answer": "PERMEAR",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Vagaroso, pesado",
+      "answer": "LERDO",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "Ato de ficar com a garganta embaraçada",
+      "answer": "ENGASGO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Marca chinesa fabricante de carros",
+      "answer": "JAC",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "Importante cidade do litoral de SC",
+      "answer": "ITAJAI",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Por + aquela",
+      "answer": "PELA",
+      "row": 7,
+      "col": 7
+    },
+    "27": {
+      "clue": "Temerosa, receosa",
+      "answer": "MEDROSA",
+      "row": 8,
+      "col": 2
+    },
+    "29": {
+      "clue": "Da forma da bola de rúgbi",
+      "answer": "OVADO",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Aguardente de cana",
+      "answer": "PINGA",
+      "row": 9,
+      "col": 6
+    },
+    "33": {
+      "clue": "Solução usada na hidratação de doentes",
+      "answer": "SORO",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Provocar",
+      "answer": "CAUSAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Morador de uma ilha",
+      "answer": "ILHEU",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Sem a presença de outras pessoas",
+      "answer": "SO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Animal de focinho alongado e cauda comprida",
+      "answer": "QUATI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A mais moderna é a biométrica",
+      "answer": "URNA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Um imposto",
+      "answer": "IOF",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Fenda na terra, profunda, que parece não ter fundo",
+      "answer": "ABISMO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Brincadeira que se faz com calouros de faculdades",
+      "answer": "TROTE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Interjeição de chamamento",
+      "answer": "EI",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Rugir",
+      "answer": "URRAR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Mar.) Ato de atracar um navio a um ponto de terra",
+      "answer": "ABORDO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Colocar dentro de um líquido",
+      "answer": "IMERGIR",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "(-Tropez) Cidade da Riviera Francesa",
+      "answer": "SAINT",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "Subdivisão de linha de telefone",
+      "answer": "RAMAL",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Que envolve investimento vultoso",
+      "answer": "PESADO",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Pavimento de pedras de superfície plana",
+      "answer": "LAJEDO",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "(Fora dos) Desequilibrado, perturbado",
+      "answer": "EIXOS",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "Vidrar",
+      "answer": "GAMAR",
+      "row": 6,
+      "col": 2
+    },
+    "23": {
+      "clue": "Tecido muito comum em calças",
+      "answer": "JEANS",
+      "row": 6,
+      "col": 8
+    },
+    "24": {
+      "clue": "O país da copa de futebol de 2022",
+      "answer": "CATAR",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Interj.: Silêncio!",
+      "answer": "PSIU",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Interjeição de espanto",
+      "answer": "OPA",
+      "row": 8,
+      "col": 6
+    },
+    "30": {
+      "clue": "(Pop.) A mãe da mãe",
+      "answer": "VO",
+      "row": 9,
+      "col": 1
+    },
+    "32": {
+      "clue": "O gálio, entre os químicos",
+      "answer": "GA",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

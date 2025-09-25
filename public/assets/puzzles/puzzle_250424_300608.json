@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cockpit de avião militar",
+      "answer": "CAPSULA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Defeito no código de um programa de computador",
+      "answer": "BUG",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Casamento",
+      "answer": "UNIÃO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Broca para furos em madeira de grande espessura",
+      "answer": "TRADO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "O bê de BH",
+      "answer": "BELO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Infantil",
+      "answer": "PUERIL",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Elemento de composição: para fora",
+      "answer": "EXO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Bordas, beiras",
+      "answer": "MARGENS",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Lançar em jatos impetuosos",
+      "answer": "BORBOTAR",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Dividir em oito partes iguais",
+      "answer": "OITAVAR",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Município catarinense da região de Blumenau",
+      "answer": "POMERODE",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "O oposto de retrógrado",
+      "answer": "LIBERAL",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Durante o governo de",
+      "answer": "SOB",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Clube não profissional",
+      "answer": "AMADOR",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Cubo numerado usado em jogos",
+      "answer": "DADO",
+      "row": 8,
+      "col": 7
+    },
+    "30": {
+      "clue": "Prêmio sueco para a área cultural",
+      "answer": "NOBEL",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Boas maneiras",
+      "answer": "MODOS",
+      "row": 9,
+      "col": 6
+    },
+    "32": {
+      "clue": "Seco, em inglês",
+      "answer": "DRY",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Fruta de polpa branca, doce e cremosa",
+      "answer": "ATEMOIA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Planta nativa da Malásia, de propriedades medicinais",
+      "answer": "CUBEBA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Junto, ligado",
+      "answer": "ANEXO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um orifício do estômago",
+      "answer": "PILORO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Red.) Aquele que foi canonizado",
+      "answer": "SÃO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Econ.) Unidade Orçamentária",
+      "answer": "UO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Que se pode aguentar com resignação",
+      "answer": "ATURAVEL",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Amazonense",
+      "answer": "BARE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Cidade do norte da Itália",
+      "answer": "UDINE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Marca muitos o artilheiro",
+      "answer": "GOLS",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Alinhar, dispor em simetria",
+      "answer": "REGRAR",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "(Fig.) Nível destacado entre os mais altos",
+      "answer": "PATAMAR",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Multinacional do ramo de aparelhos de telefonia",
+      "answer": "MOTOROLA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Animal com dois pés",
+      "answer": "BIPEDE",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Corado",
+      "answer": "ROSADO",
+      "row": 5,
+      "col": 8
+    },
+    "21": {
+      "clue": "Emporcalhada",
+      "answer": "SEBOSA",
+      "row": 5,
+      "col": 10
+    },
+    "22": {
+      "clue": "Ilha da Ásia com um país que fala português",
+      "answer": "TIMOR",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "(Inf.) Machucado",
+      "answer": "DODOI",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "(Rover) Indústria de carros de luxo",
+      "answer": "LAND",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Ingl.) Pessoa querida",
+      "answer": "BABY",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Antecede Seg",
+      "answer": "DOM",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "Som que imita a voz de um carneiro",
+      "answer": "ME",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

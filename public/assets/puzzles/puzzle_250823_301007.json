@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "O parceiro de Batman",
+      "answer": "ROBIN",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Favorável, propício",
+      "answer": "IDEAL",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "(de) Não obstante",
+      "answer": "APESAR",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Coisa, ser",
+      "answer": "ENTE",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Tipo de fubá refinado",
+      "answer": "MIMOSO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "O Buñuel (1900-1983) cineasta de \"O Cão Andaluz\"",
+      "answer": "LUIS",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "O polônio, entre os químicos",
+      "answer": "PO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "A membrana que recobre e protege parcialmente o olho",
+      "answer": "PALPEBRA",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Diz-se da energia proveniente da estrela central do nosso sistema planetário",
+      "answer": "SOLAR",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "O lugar de paz e de afetos familiares",
+      "answer": "LAR",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Tornar pegajoso como determinada bala puxa-puxa",
+      "answer": "CARAMELAR",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Abreviatura (em português) de Honduras",
+      "answer": "HON",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Jur.) Ter a posse legítima ou ilegítima de algo",
+      "answer": "DETER",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Relativo à região espanhola que tem Saragoça como capital",
+      "answer": "ARAGONES",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "(Abrev.) Ponto do horizonte intermediário entre o Norte e o Leste",
+      "answer": "NE",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "O oposto de velha",
+      "answer": "NOVA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Dar (o cavalo) uma carreira",
+      "answer": "TROTAR",
+      "row": 8,
+      "col": 5
+    },
+    "32": {
+      "clue": "O Vítor músico",
+      "answer": "KLEY",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Precede o nono",
+      "answer": "OITAVO",
+      "row": 9,
+      "col": 5
+    },
+    "34": {
+      "clue": "Tempero verde",
+      "answer": "SALSA",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Famosa marca de relógios",
+      "answer": "ROLEX",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Plano inclinado para lançamento de barcos na água",
+      "answer": "RAMPA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Droga muio comum até o século passado",
+      "answer": "OPIO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Com talento e domínio das técnicas",
+      "answer": "BEM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Uma espuma usada em caixas térmicas",
+      "answer": "ISOPOR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Fanhoso",
+      "answer": "NASALADO",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Daquele homem",
+      "answer": "DELE",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Ficar com nuvens",
+      "answer": "ENUBLAR",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Lançar para longe de si",
+      "answer": "ATIRAR",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Dar prejuízo a alguém",
+      "answer": "LESAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Movimento do que gira, roda",
+      "answer": "ROLAMENTO",
+      "row": 1,
+      "col": 5
+    },
+    "18": {
+      "clue": "Não dar importância a",
+      "answer": "PRETERIR",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Remediável",
+      "answer": "SANAVEL",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Conjunto de pétalas de uma flor",
+      "answer": "COROLA",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Nação com capital Maseru, na África",
+      "answer": "LESOTO",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "O ator estadunidense Tom, de \"Náufrago\"",
+      "answer": "HANKS",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Aparelho para reproduzir cópias de textos e imagens",
+      "answer": "XEROX",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "O gê do LGBT",
+      "answer": "GAYS",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Parte da igreja",
+      "answer": "NAVE",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Como esse",
+      "answer": "TAL",
+      "row": 8,
+      "col": 8
+    }
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "Poderoso",
+      "answer": "FORTE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Até este momento",
+      "answer": "AINDA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "O fluido usado no lança-perfume",
+      "answer": "ETER",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Interceder",
+      "answer": "PEDIR",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Animal semiaquático, cuja pele tem alto valor comercial",
+      "answer": "VISOM",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Fazer girar",
+      "answer": "ROLAR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Especialista em micologia",
+      "answer": "MICETOLOGO",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "Sem variação, enjoativo",
+      "answer": "MONOTONO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "O A das cartas",
+      "answer": "AS",
+      "row": 4,
+      "col": 9
+    },
+    "19": {
+      "clue": "Espaço para trânsito de veículos",
+      "answer": "RUA",
+      "row": 5,
+      "col": 4
+    },
+    "21": {
+      "clue": "Nara Leão (1942-1989), cantora capixaba",
+      "answer": "NL",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Bot.) Cilíndrico e com pequenos estreitamentos em intervalos regulares",
+      "answer": "TORULOSO",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Um dos maiores mamíferos da Terra",
+      "answer": "HIPOPOTAMO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Falta ao preguiçoso",
+      "answer": "ANIMO",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Palavra, gesto, sinal de despedida",
+      "answer": "ADEUS",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Carro da Fiat",
+      "answer": "DOBLO",
+      "row": 9,
+      "col": 1
+    },
+    "32": {
+      "clue": "O animal que transmite a leptospirose",
+      "answer": "RATO",
+      "row": 9,
+      "col": 7
+    },
+    "33": {
+      "clue": "Ilhas da Dinamarca",
+      "answer": "FAROE",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Sinal luminoso de trânsito",
+      "answer": "FAROL",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Red.) O mês 2",
+      "answer": "FEV",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O que é muito bom",
+      "answer": "OTIMO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um produto plástico",
+      "answer": "RESINA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Moedas de pequeno valor",
+      "answer": "TROCO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Aviador",
+      "answer": "AERONAUTA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "(Pop.) Herói",
+      "answer": "IDOLO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Grande rio africano, corta 10 países",
+      "answer": "NILO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Máquina para limpar leitos dos rios",
+      "answer": "DRAGA",
+      "row": 0,
+      "col": 9
+    },
+    "12": {
+      "clue": "Cidade de grande importância",
+      "answer": "METROPOLE",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Face",
+      "answer": "ROSTO",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "O animal que é sacrificado nas arenas espanholas",
+      "answer": "TOURO",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Denguice",
+      "answer": "MANHA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Conferir o cargo de",
+      "answer": "NOMEAR",
+      "row": 5,
+      "col": 8
+    },
+    "22": {
+      "clue": "Formosa, bela",
+      "answer": "LINDA",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Queda repentina e violenta ao chão",
+      "answer": "TOMBO",
+      "row": 6,
+      "col": 3
+    },
+    "24": {
+      "clue": "Que rouba (fem.)",
+      "answer": "LADRA",
+      "row": 6,
+      "col": 7
+    },
+    "25": {
+      "clue": "Bosque muito denso",
+      "answer": "SOUTO",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Aquilo que é inferior a outras coisas",
+      "answer": "PIOR",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "A nota G",
+      "answer": "SOL",
+      "row": 8,
+      "col": 10
+    }
+  }
+}

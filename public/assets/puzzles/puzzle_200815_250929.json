@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "Parte do milho que contém os grãos",
+      "answer": "ESPIGA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Vereador",
+      "answer": "EDIL",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Uma capital asiática",
+      "answer": "SEUL",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Condição de quem está pelado",
+      "answer": "NUDEZ",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Bibi, para os íntimos",
+      "answer": "BEATRIZ",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Sigla do Amapá",
+      "answer": "AP",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Uma cerveja escura, forte",
+      "answer": "STOUT",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Sozinho",
+      "answer": "SO",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "O escritor Daniel (1660-1731), de \"Robinson Crusoe\"",
+      "answer": "DEFOE",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Passar cola em",
+      "answer": "GOMAR",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Que já não existe",
+      "answer": "IDO",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Dele",
+      "answer": "SEU",
+      "row": 5,
+      "col": 4
+    },
+    "25": {
+      "clue": "Associação Brasileira de Municípios",
+      "answer": "ABM",
+      "row": 5,
+      "col": 8
+    },
+    "26": {
+      "clue": "(Ingl.) Diz-se de alimento com baixo teor de açúcar",
+      "answer": "LIGHT",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Do ar",
+      "answer": "AEREO",
+      "row": 6,
+      "col": 6
+    },
+    "30": {
+      "clue": "Iniciais da atriz Ranaldi",
+      "answer": "HR",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Terra fértil num deserto",
+      "answer": "OASIS",
+      "row": 7,
+      "col": 3
+    },
+    "33": {
+      "clue": "A sigla do estado das praias de Pipa e Ponta Negra",
+      "answer": "RN",
+      "row": 7,
+      "col": 9
+    },
+    "34": {
+      "clue": "Povoado de poucas casas",
+      "answer": "ALDEOTA",
+      "row": 8,
+      "col": 2
+    },
+    "36": {
+      "clue": "Conversa fiada",
+      "answer": "RETOS",
+      "row": 9,
+      "col": 1
+    },
+    "37": {
+      "clue": "O lutador amazonense de MMA José",
+      "answer": "ALDO",
+      "row": 9,
+      "col": 7
+    },
+    "39": {
+      "clue": "(Ingl.) Teste",
+      "answer": "QUIZ",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Fontes de águas usadas como terapia",
+      "answer": "TERMAS",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Uma carta do jogo de truco",
+      "answer": "ESPADILHA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Quando, enquanto",
+      "answer": "SE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Bar inglês",
+      "answer": "PUB",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "São e salvo",
+      "answer": "ILESO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Elemento de composição: flor",
+      "answer": "ANTO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Ordem judicial que se afixa em lugares públicos",
+      "answer": "EDITO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O primeiro número com dois dígitos",
+      "answer": "DEZ",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Ponta de... nariz",
+      "answer": "IZ",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Nascido em Punta del Leste",
+      "answer": "URUGUAIO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Testemunho escrito",
+      "answer": "ATESTADO",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Substâncias elaboradas pelas glândulas endócrinas",
+      "answer": "HORMONIOS",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Requerer, exigir",
+      "answer": "PEDIR",
+      "row": 3,
+      "col": 1
+    },
+    "18": {
+      "clue": "Ter conhecimento de",
+      "answer": "SABER",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "Nevoeiro característico de Londres",
+      "answer": "FOG",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "O hábitat do krill e do polvo",
+      "answer": "MAR",
+      "row": 4,
+      "col": 8
+    },
+    "27": {
+      "clue": "A atriz Vera, das novelas",
+      "answer": "HOLTZ",
+      "row": 6,
+      "col": 3
+    },
+    "29": {
+      "clue": "Achar-se presente",
+      "answer": "ESTAR",
+      "row": 6,
+      "col": 7
+    },
+    "32": {
+      "clue": "Uma das instituições do sistema S",
+      "answer": "SEST",
+      "row": 7,
+      "col": 5
+    },
+    "34": {
+      "clue": "As três primeiras vogais",
+      "answer": "AEI",
+      "row": 8,
+      "col": 2
+    },
+    "35": {
+      "clue": "Abrev.: almirante",
+      "answer": "ALM",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "O símbolo químico do rutênio",
+      "answer": "RU",
+      "row": 9,
+      "col": 1
+    },
+    "38": {
+      "clue": "Diretório Acadêmico",
+      "answer": "DA",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

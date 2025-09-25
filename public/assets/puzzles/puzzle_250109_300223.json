@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Covil, furna",
+      "answer": "TOCA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Fazer deitar",
+      "answer": "ACAMAR",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "A cidade de PE com Porto de Galinhas",
+      "answer": "IPOJUCA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Ministério da Pesca e Aquicultura",
+      "answer": "MPA",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Número divisível por dois",
+      "answer": "PAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Que se pode tapar, arrolhar",
+      "answer": "VEDAVEL",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "(Ingl.) Anúncio para despertar a curiosidade",
+      "answer": "TEASER",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "As iniciais da ex-ginasta Daniele",
+      "answer": "DH",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Metal muito duro, de símbolo Re",
+      "answer": "RENIO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "(Pop.) A parenta que se opõe a sogra",
+      "answer": "NORA",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "O violonista gaúcho Yamandú",
+      "answer": "COSTA",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Olhar com atenção",
+      "answer": "FITAR",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Manifestação ou exercício de um processo",
+      "answer": "AÇÃO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "A capital do Senegal",
+      "answer": "DACAR",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Giovanna Antonelli, atriz",
+      "answer": "GA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Um elemento como o fósforo",
+      "answer": "AMETAL",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Apegado",
+      "answer": "ADERIDO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Grã-Bretanha",
+      "answer": "GBR",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Cachorro, em inglês",
+      "answer": "DOG",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "De uma ilha francesa do Mediterrâneo",
+      "answer": "CORSICO",
+      "row": 9,
+      "col": 4
+    },
+    "37": {
+      "clue": "Pele, pâncreas e estômago",
+      "answer": "ORGÃOS",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Lugar disponível em um estacionamento",
+      "answer": "VAGA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Coisa que possui caracteres distintivos de um grupo",
+      "answer": "TIPO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Oi!",
+      "answer": "OPA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Prostituta que atende pessoas das altas camadas sociais",
+      "answer": "CORTESÃ",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Arnaldo Jabor (1940-2022), jornalista e cineasta",
+      "answer": "AJ",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Que arde, que ilumina dando luz",
+      "answer": "ACESO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Quede?",
+      "answer": "CADE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "2005, em algarismos romanos",
+      "answer": "MMV",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Enfeitar, adornar",
+      "answer": "APEDRAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Repreender em voz alta",
+      "answer": "RALHAR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Fruto do Brasil, de bagas amarelas, com polpa aromática e comestível",
+      "answer": "UVAIA",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Tintura usada em contusões e edemas",
+      "answer": "ARNICA",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Enunciar em voz alta, proferir",
+      "answer": "ENTOAR",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Aquele que derruba mato, corta vegetação",
+      "answer": "ROÇADOR",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Dor no ouvido",
+      "answer": "OTALGIA",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Animal de rios e lagoas, de carapaça chata",
+      "answer": "CAGADO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Causador, agente",
+      "answer": "FATOR",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "(Cheio de) Diz-se de quem fica com muitas frescuras",
+      "answer": "DEDOS",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "(Gír.) Situação embaraçosa",
+      "answer": "MICO",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Pão de milho",
+      "answer": "BROA",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Ovo, na Austrália",
+      "answer": "EGG",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "A vacina contra a tuberculose",
+      "answer": "BCG",
+      "row": 8,
+      "col": 9
+    },
+    "36": {
+      "clue": "Sarah Vaughan (1924-1990), cantora de jazz",
+      "answer": "SV",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

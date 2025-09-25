@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cadastro de Pessoa Física",
+      "answer": "CPF",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "(dera!) Tomara que sucedesse",
+      "answer": "QUEM",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Sigla do estado de Pedra Azul e Monte Verde",
+      "answer": "MG",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Substância usada pelos índíos para pintar a pele",
+      "answer": "URUCU",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Substância convertida à forma gasosa",
+      "answer": "VAPOR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Em nenhum momento",
+      "answer": "JAMAIS",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Um fio da indústria têxtil",
+      "answer": "SEDA",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Um dos naipes das cartas de jogar",
+      "answer": "OUROS",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Separam o C do G",
+      "answer": "DEF",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "(Mús.) Figura correspondente ao valor de duas colcheias",
+      "answer": "SEMINIMA",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Dotar (lancha, carro, moto etc.) de perfil aerodinâmico",
+      "answer": "CARENAR",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Jogador de basquete, bicampeão mundial (1963)",
+      "answer": "UBIRATAN",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Senador",
+      "answer": "SEN",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "O assento da bicicleta",
+      "answer": "SELIM",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Senhorita",
+      "answer": "SRTA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Pudor",
+      "answer": "RECATO",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Exame Nacional de Desempenho de Estudantes",
+      "answer": "ENADE",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Instrumento curvo, para ceifar ou segar",
+      "answer": "FOICE",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "(Quím.) O xenônio",
+      "answer": "XE",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Mulher calada, taciturna",
+      "answer": "MUDA",
+      "row": 10,
+      "col": 3
+    },
+    "38": {
+      "clue": "A região com Criciúma, Londrina e Erechim",
+      "answer": "SUL",
+      "row": 10,
+      "col": 8
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Do qual",
+      "answer": "CUJO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Para",
+      "answer": "PRA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Gír.) Maconha",
+      "answer": "FUMO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Dinheiro miúdo",
+      "answer": "QUIRERAS",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Elétron-volt",
+      "answer": "EV",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Conjunção que equivale a porém, todavia",
+      "answer": "MAS",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Dispositivo de transmissão de dados via telefone",
+      "answer": "MODEM",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Dar forma escrita a uma palavra",
+      "answer": "GRAFAR",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Provocar",
+      "answer": "CAUSAR",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Fazer solicitação",
+      "answer": "PEDIR",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "(Pop.) Colocar por baixo de alguma coisa",
+      "answer": "SOMETER",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Fenômeno de transformação de duas sílabas em uma",
+      "answer": "SINALEFA",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "Pequeno de corpo",
+      "answer": "NANICO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Condado inglês, junto ao canal da Mancha",
+      "answer": "SUSSEX",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Qualquer tira ou faixa que cinge alguma coisa",
+      "answer": "CINTA",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Larva de uma mosca que se desenvolve por baixo da pele da vítima",
+      "answer": "BERNE",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "O sinal da adição",
+      "answer": "MAIS",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "O ex-treinador de futebol Santana",
+      "answer": "JOEL",
+      "row": 7,
+      "col": 10
+    },
+    "30": {
+      "clue": "Uma abreviatura para administração",
+      "answer": "ADM",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Tribunal de Contas da União",
+      "answer": "TCU",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "Um de nós dois",
+      "answer": "EU",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Sem fé",
+      "answer": "IMPIO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Estação, período",
+      "answer": "EPOCA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "(Matem.) Símbolo de limite",
+      "answer": "LIM",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Lombo de porco",
+      "answer": "CARRE",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "(Abrev.) Medida de capacidade igual a 100 litros",
+      "answer": "HL",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Grande derrota imposta ao adversário em algum tipo de jogo, disputa etc.",
+      "answer": "SURRA",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "O Dom João da independência do Brasil",
+      "answer": "VI",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "(Pop.) Que se encontra bastante desanimado",
+      "answer": "DEPRE",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "O do Vigor, ex-BBB",
+      "answer": "GIL",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Ave que se disfarça junto a troncos e mourões",
+      "answer": "URUTAU",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Um dos elementos de um conjunto",
+      "answer": "CADA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Oriundo da região em que vive",
+      "answer": "ABORIGINE",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Vender para ser pago posteriormente",
+      "answer": "FIAR",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Tanto teu como deles",
+      "answer": "VOSSOS",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Ué",
+      "answer": "UAI",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Gíria",
+      "answer": "CALÃO",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "As consoantes de zero",
+      "answer": "ZR",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Que tem boa saúde",
+      "answer": "SADIO",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "900, em algarismos romanos",
+      "answer": "CM",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Uma batata",
+      "answer": "BAROA",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "As letras que ficam entre o F e o J",
+      "answer": "GHI",
+      "row": 9,
+      "col": 8
+    },
+    "32": {
+      "clue": "(de morrer) De beleza fora do comum",
+      "answer": "LINDO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Alimento que consiste basicamente em um caldo reforçado de carnes, legumes, macarrão etc.",
+      "answer": "SOPÃO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Morador de uma ilha",
+      "answer": "ILHEU",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O número cardinal que segue o 999",
+      "answer": "MIL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Polícia Militar",
+      "answer": "PM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Exigir a atenção ou os cuidados de",
+      "answer": "OCUPAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "R",
+      "answer": "ERRE",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "(dedéu) Muito, bastante",
+      "answer": "PRA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Oersted",
+      "answer": "OE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A cavidade sob o braço",
+      "answer": "AXILA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Louro-avermelhado",
+      "answer": "ARRUIVADO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Campo de ação",
+      "answer": "SETOR",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "(Inform.) Tela de monitor",
+      "answer": "VIDEO",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Importante cidade dos Emirados Árabes Unidos",
+      "answer": "DUBAI",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Ave criada por sua carne, ovos e penas",
+      "answer": "GANSO",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Despontar no horizonte",
+      "answer": "RAIAR",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Divisão entre os membros de um partido",
+      "answer": "CISÃO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "(Bíbl.) Gigante que Davi enfrentou e matou",
+      "answer": "GOLIAS",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Arma de fogo portátil",
+      "answer": "FUZIL",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Macaco",
+      "answer": "SIMIO",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Muito estimado",
+      "answer": "CARO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "(Ingl.) Triste",
+      "answer": "SAD",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "Carne da coxa bovina",
+      "answer": "CHÃ",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Biblioteca Nacional",
+      "answer": "BN",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "Glória Pires, atriz",
+      "answer": "GP",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

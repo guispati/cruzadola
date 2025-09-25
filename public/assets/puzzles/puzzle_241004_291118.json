@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ter entrada a um lugar",
+      "answer": "ACESSAR",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Polo industrial paulista",
+      "answer": "ABC",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Uma embalagem para alimentos",
+      "answer": "LONGAVIDA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "A letra entre o cá e o eme",
+      "answer": "ELE",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Interjeição de susto, de espanto",
+      "answer": "VIXE",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "É puro no campo",
+      "answer": "AR",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Sai, galinha!",
+      "answer": "XO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "O C do CNPJ",
+      "answer": "CADASTRO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Azul esverdeado",
+      "answer": "CIANO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Escolha de grãos de café",
+      "answer": "CATA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "A rodovia que une as cidades de SP e RJ",
+      "answer": "DUTRA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Apetrecho de cozinha",
+      "answer": "MIXER",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Não crê em Deus",
+      "answer": "ATEU",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Traidor",
+      "answer": "JUDAS",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Adestradora de animais",
+      "answer": "DOMADORA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Sigla da era anterior ao cristianismo",
+      "answer": "AC",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "O verbo mais curto",
+      "answer": "IR",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Uma pedra preciosa vermelha",
+      "answer": "RUBI",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Um carro da Fiat",
+      "answer": "UNO",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Da cidade",
+      "answer": "MUNICIPAL",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Um animal como a rolinha ou o tico-tico",
+      "answer": "AVE",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Glândula da raiz da língua",
+      "answer": "AMIDALA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O jornalista esportivo Escobar",
+      "answer": "ALEX",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Aquele que participa de uma conversa",
+      "answer": "COLOCUTOR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Quím.) O nome da letra que é o símbolo da constante de Avogrado",
+      "answer": "ENE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Seabórgio, elemento químico",
+      "answer": "SG",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A estepe americana e africana",
+      "answer": "SAVANA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Que vive ansiosamente uma expectativa",
+      "answer": "AVIDO",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Disputa, competição",
+      "answer": "RIXA",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Arnaldo Antunes, poeta e músico",
+      "answer": "AA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Elevar ao trono",
+      "answer": "COROAR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Ida para baixo",
+      "answer": "DESCIDA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Próprio do trabalho manual não industrializado",
+      "answer": "ARTESANAL",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Cidade pernambucana com famosa feira popular",
+      "answer": "CARUARU",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Proporção de (algo) num conjunto, geralmente expresso em percentagem",
+      "answer": "TAXA",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Unidade",
+      "answer": "ITEM",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Objeto que se dá, em prova de generosidade",
+      "answer": "DADIVA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Árvore frequente nos cerrados",
+      "answer": "MURICI",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "O músico Tom (1927-1994)",
+      "answer": "JOBIM",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Colina de areia",
+      "answer": "DUNA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Produto adesivo",
+      "answer": "COLA",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Unidade de Pronto Atendimento",
+      "answer": "UPA",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Para mim",
+      "answer": "ME",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Abreviatura de idem",
+      "answer": "ID",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

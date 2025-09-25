@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Que tem a mestria de uma arte",
+      "answer": "HABIL",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Fedor dos pés",
+      "answer": "CHULE",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Olimpíada Brasileira de Astronomia",
+      "answer": "OBA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "No futebol, ação ofensiva de um jogador de defesa ou de meio-de-campo",
+      "answer": "APOIO",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "O que transforma três em torres",
+      "answer": "OR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Segue o duplo hip",
+      "answer": "HURRA",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Alexander Fleming (1881-1955), cientista",
+      "answer": "AF",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Marcado cronologicamente",
+      "answer": "DATADO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Desequilibrado, pinel",
+      "answer": "LELE",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Sem valor",
+      "answer": "NULO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Importância total de uma conta",
+      "answer": "MONTA",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Ligeiro",
+      "answer": "AGIL",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Sair, retirar-se de",
+      "answer": "DEIXAR",
+      "row": 5,
+      "col": 5
+    },
+    "23": {
+      "clue": "O ponto extremo como cessação",
+      "answer": "FIM",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "O Chico (1944-1988), ambientalista que lutou pela preservação da Amazônia",
+      "answer": "MENDES",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "O que muda de melar para modelar",
+      "answer": "OD",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Material obtido pela aglomeração de partículas de minério de ferro",
+      "answer": "SINTER",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Massa alimentícia disposta em dobras sucessivas, usada no preparo de pastéis, tortas etc.",
+      "answer": "FOLHADO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "A árvore que é um símbolo nacional",
+      "answer": "IPE",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Adorador",
+      "answer": "VENERADOR",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Cortada pelos dentes",
+      "answer": "ROIDA",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Fruto vermelho-escuro usado em geleias",
+      "answer": "AMORA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Lendário herói inglês da Idade Média Robin",
+      "answer": "HOOD",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Incluído",
+      "answer": "ABRANGIDO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ama-seca",
+      "answer": "BA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Parecer de especialista",
+      "answer": "LAUDO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Substância corante para tingir",
+      "answer": "COR",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Parecido com o vidro",
+      "answer": "HIALOIDE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Unidade Orçamentária",
+      "answer": "UO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Privar da beleza",
+      "answer": "ENFEAR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Vantagem",
+      "answer": "PRO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "(Ingl.) Sala de entrada",
+      "answer": "HALL",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "(Horas) O programa de auditório comandado por Serginho Groisman",
+      "answer": "ALTAS",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Periquitinho",
+      "answer": "TUIM",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Intrometido",
+      "answer": "ENXERIDO",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Conselheira sábia e de confiança",
+      "answer": "MENTORA",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Tornar mole",
+      "answer": "AFOFAR",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Óleo usado na culinária afro-brasileira",
+      "answer": "DENDE",
+      "row": 5,
+      "col": 5
+    },
+    "24": {
+      "clue": "Aguardente de cana",
+      "answer": "MIANA",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "(Ingl.) Um tipo de cobertura para galpões",
+      "answer": "SHED",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "Pasta para dar brilho a pisos",
+      "answer": "CERA",
+      "row": 7,
+      "col": 10
+    },
+    "29": {
+      "clue": "56, em algarismos romanos",
+      "answer": "LVI",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "Expelir ovos (a ave)",
+      "answer": "POR",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Amazonas",
+      "answer": "AM",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

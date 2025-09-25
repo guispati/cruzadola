@@ -1,0 +1,270 @@
+{
+  "across": {
+    "2": {
+      "clue": "Vapores gástricos",
+      "answer": "GASES",
+      "row": 0,
+      "col": 2
+    },
+    "7": {
+      "clue": "Uma caixa para pequenos objetos",
+      "answer": "KIT",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Funcionário",
+      "answer": "EMPREGADO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Combustível para fogões e carros",
+      "answer": "GAS",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Cheio de sabores",
+      "answer": "RICO",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Laurêncio, elemento químico",
+      "answer": "LR",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Arquivo Nacional",
+      "answer": "AN",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Revirar, agitar",
+      "answer": "RETORCER",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Cateter utilizado para escoar fluido de um abscesso",
+      "answer": "DRENO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Todo tipo de erva daninha",
+      "answer": "MATO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Grande quantidade de pessoas juntas",
+      "answer": "TROPA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Juntar versos de forma harmoniosa",
+      "answer": "RIMAR",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "(Matem.) Reta orientada",
+      "answer": "EIXO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Detecta objetos",
+      "answer": "RADAR",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Uma característica de certas ruas ou avenidas",
+      "answer": "MÃOUNICA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "As letras que separam o F do I",
+      "answer": "GH",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Antônio Olinto (1919-2009), jornalista e poeta",
+      "answer": "AO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Prefixo: metade",
+      "answer": "SEMI",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Fita roliça que transporta a eletricidade",
+      "answer": "FIO",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Tornar mais eficiente ainda",
+      "answer": "POTENCIAR",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Imposto sobre Operações Financeiras",
+      "answer": "IOF",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Qualquer",
+      "answer": "ALGUM",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um milhão, usado como unidade de medida em informática",
+      "answer": "MEGA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Sigla) Aparelho que determina a posição de um objeto na superfície da Terra",
+      "answer": "GPS",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Clima",
+      "answer": "AR",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Diz-se de noite clara, sem nuvens",
+      "answer": "SERENA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "País cuja capital é Cairo",
+      "answer": "EGITO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Embalagem para farinha",
+      "answer": "SACO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Abrev.) Uma derrota no ringue",
+      "answer": "KO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Um gênero de filmes",
+      "answer": "TERROR",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Roupão curto e leve",
+      "answer": "MANDRIÃO",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Pernoite em determinado lugar",
+      "answer": "DORMIDA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Estado de profunda inconsciência, semelhante ao sono",
+      "answer": "LETARGIA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Descanso, folga",
+      "answer": "REPOUSO",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "O móvel para dormir",
+      "answer": "CAMA",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Resultado da mistura de vermelho e azul",
+      "answer": "ROXO",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Prato da culinária japonesa",
+      "answer": "TEMAKI",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Tradicional time de futebol da Argentina",
+      "answer": "RACING",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Cosmético usado na maquilagem",
+      "answer": "RIMEL",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "A filha do meu irmão, em relação ao meu pai",
+      "answer": "NETA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Tempo de 60 min",
+      "answer": "HORA",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Término, encerramento",
+      "answer": "FIM",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Prato Feito",
+      "answer": "PF",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "(Quím.) O símbolo do cobre",
+      "answer": "CU",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

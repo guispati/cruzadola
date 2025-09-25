@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Reproduzir obras de arte de outrem",
+      "answer": "PLAGIAR",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "O compartimento de prisioneiros nas penitenciárias",
+      "answer": "CELA",
+      "row": 1,
+      "col": 0
+    },
+    "9": {
+      "clue": "Tensão Pré-Menstrual",
+      "answer": "TPM",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Apelido do Luciana",
+      "answer": "LU",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Abreviatura que precede o nome da médica",
+      "answer": "DRA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Fazer parte de um conjunto",
+      "answer": "FIGURAR",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Vontade determinante de autoridade",
+      "answer": "ORDEM",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "Período de tempo caracterizado por falta de chuvas",
+      "answer": "SECA",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Lenda",
+      "answer": "MITO",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "(Pop.) Ranho seco",
+      "answer": "TATU",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "O estilista espanhol Rabanne",
+      "answer": "PACO",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Roedor de hábitos noturnos, semelhante a uma cutia",
+      "answer": "PACA",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Um gênero de música popular",
+      "answer": "FUNK",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "O músico de rockabilly Vincent (1935-1971)",
+      "answer": "GENE",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "Pessoa",
+      "answer": "ENTE",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Aplicar óleo sagrado",
+      "answer": "UNGIR",
+      "row": 7,
+      "col": 5
+    },
+    "27": {
+      "clue": "Conjunto lógico e orgânico de conhecimentos",
+      "answer": "CIENCIA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Uma roupa feminina",
+      "answer": "TOP",
+      "row": 8,
+      "col": 8
+    },
+    "31": {
+      "clue": "As iniciais da Rubistein, da multinacional de cosméticos",
+      "answer": "HR",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Abreviatura de senador",
+      "answer": "SEN",
+      "row": 9,
+      "col": 3
+    },
+    "33": {
+      "clue": "(Pop.) Determinação, empenho",
+      "answer": "RAÇA",
+      "row": 9,
+      "col": 7
+    },
+    "34": {
+      "clue": "Trazer à memória",
+      "answer": "LEMBRAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Pessoa com Deficiência",
+      "answer": "PCD",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Gír.) Conversa-mole",
+      "answer": "LERO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Diz-se de notícia que provoca pânico",
+      "answer": "ALARMANTE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O símbolo químico do gálio",
+      "answer": "GA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Momento breve",
+      "answer": "ATIMO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Um jogo de estratégia",
+      "answer": "RPG",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Uma comida de milho",
+      "answer": "CURAU",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Marca de carros esportivos",
+      "answer": "MUSTANG",
+      "row": 1,
+      "col": 7
+    },
+    "11": {
+      "clue": "Fabrica o \"Bis\" e o \"Sonho de Valsa\"",
+      "answer": "LACTA",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Ser humano em desenvolvimento, ainda no útero",
+      "answer": "FETO",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Tornar a consentir em receber",
+      "answer": "REACEITAR",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "O Charles (1812-1870) escritor inglês",
+      "answer": "DICKENS",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Dar o merecido castigo",
+      "answer": "PUNIR",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Cada estrutura que reveste o corpo da ave",
+      "answer": "PENA",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Pequena tranca",
+      "answer": "FECHO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "República do oeste da África, com capital Conacri",
+      "answer": "GUINE",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "O campo",
+      "answer": "ROÇA",
+      "row": 7,
+      "col": 9
+    },
+    "28": {
+      "clue": "Abreviatura de coronel",
+      "answer": "CEL",
+      "row": 8,
+      "col": 4
+    },
+    "30": {
+      "clue": "Um número como 14 ou 32",
+      "answer": "PAR",
+      "row": 8,
+      "col": 10
+    },
+    "33": {
+      "clue": "As iniciais do cantor e apresentador Boldrin",
+      "answer": "RB",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

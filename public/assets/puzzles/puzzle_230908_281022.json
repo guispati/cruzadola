@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Escamas que se criam na superfície do couro cabeludo",
+      "answer": "CASPA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Quebrar, ir à bancarrota",
+      "answer": "FALIR",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Nascida em João Pessoa ou Campina Grande",
+      "answer": "PARAIBANA",
+      "row": 1,
+      "col": 2
+    },
+    "12": {
+      "clue": "Regina Casé, atriz",
+      "answer": "RC",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Devolver",
+      "answer": "REPOR",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "101, em romanos",
+      "answer": "CI",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Habilidade especial para fazer algo",
+      "answer": "DOM",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Prerrogativa legal (para impor a outrem alguma medida, procedimento etc.)",
+      "answer": "JUS",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Precede Dez",
+      "answer": "NOV",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Dar vida e dinamismo a",
+      "answer": "ANIMAR",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Frase curta que resume um ideal",
+      "answer": "LEMA",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Referido anteriormente",
+      "answer": "SUPRADITO",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Matéria-prima para meias de mulher",
+      "answer": "SEDA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Pal. fr.) Fora de moda",
+      "answer": "DEMODE",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "(Pop.) Contração de uma preposição e um artigo masculino",
+      "answer": "PRO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Depois de",
+      "answer": "POS",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "(Red.) Instrumento de sopro típico do jazz",
+      "answer": "SAX",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Se repetem em protótipo",
+      "answer": "OT",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Machucar",
+      "answer": "FERIR",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Ricardo Tozzi, ator paulista",
+      "answer": "RT",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "Hábito de roubar",
+      "answer": "RAPINAGEM",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "(Gram.) Sinal que se colocava sobre o u",
+      "answer": "TREMA",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Tradicional empresa de cosméticos",
+      "answer": "NIVEA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Fio que gera som num violão",
+      "answer": "CORDA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Sigla do estado de Águas de Lindóia e Águas da Prata",
+      "answer": "SP",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Um número como 4 ou 40",
+      "answer": "PAR",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Ventilar o ambiente",
+      "answer": "AREJAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Cabos que fazem o transporte de dados",
+      "answer": "FIOS",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Precede Mai",
+      "answer": "ABR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Precede Paz no nome da capital boliviana",
+      "answer": "LA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Perturbar, chatear",
+      "answer": "INCOMODAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Sentimento de irritação, agressividade, rancor e/ou frustração",
+      "answer": "RAIVA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Diz-se de mesa em que são contados os votos",
+      "answer": "APURADORA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Eliminar o estrago",
+      "answer": "CONSERTAR",
+      "row": 2,
+      "col": 1
+    },
+    "17": {
+      "clue": "De pequenas dimensões",
+      "answer": "MIUDO",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Os filhos dos filhos",
+      "answer": "NETOS",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Ministério da Pesca e Aquicultura",
+      "answer": "MPA",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "(Matem.) Limite",
+      "answer": "LIM",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "(Ingl.) Concepção de um projeto ou modelo",
+      "answer": "DESIGN",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Time pernambucano de futebol",
+      "answer": "SPORT",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Qualquer coisa mais que o usual",
+      "answer": "EXTRA",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Cada uma das estruturas que revestem o corpo de uma ave",
+      "answer": "PENA",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Morte",
+      "answer": "FIM",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Aquele que detém o poder absoluto ou grande parcela de poder",
+      "answer": "REI",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "Sigla do estado de Garanhuns",
+      "answer": "PE",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "1005, em algarismos romanos",
+      "answer": "MV",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

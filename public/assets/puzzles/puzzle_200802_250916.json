@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Muito triste",
+      "answer": "TETRICO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Abrev.) Mountain Biking, uma modalidade de ciclismo",
+      "answer": "MTB",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O contrário de curvo",
+      "answer": "RETO",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "Crustáceo que se alimenta de detritos em geral",
+      "answer": "SIRI",
+      "row": 1,
+      "col": 7
+    },
+    "11": {
+      "clue": "Usar a borracha",
+      "answer": "APAGAR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Uma região como Gana ou Guatemala",
+      "answer": "PAIS",
+      "row": 2,
+      "col": 7
+    },
+    "14": {
+      "clue": "O músico Sidney",
+      "answer": "MAGAL",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Alarde de luxo",
+      "answer": "POMPA",
+      "row": 3,
+      "col": 6
+    },
+    "16": {
+      "clue": "A favor",
+      "answer": "PRO",
+      "row": 4,
+      "col": 0
+    },
+    "17": {
+      "clue": "Uma companhia aérea espanhola",
+      "answer": "IBERIA",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "O meio da... hora",
+      "answer": "OR",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "(-Tropez) Cidade da Riviera Francesa, destino turístico",
+      "answer": "SAINT",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "As iniciais do ator paulista Gianecchini",
+      "answer": "RG",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Lembrança leve",
+      "answer": "EMENTA",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Sigla da unidade hospitalar onde ficam doentes para tratamento intensivo",
+      "answer": "CTI",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "(Mitol.) A deusa armada de arco e flecha",
+      "answer": "DIANA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Correr em abundância",
+      "answer": "FLUIR",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "Uma filha dos meus pais",
+      "answer": "IRMÃ",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Pequeno pião",
+      "answer": "PIORRA",
+      "row": 8,
+      "col": 5
+    },
+    "31": {
+      "clue": "O de guerra é uma competição entre duas equipes que puxam uma corda em direções opostas",
+      "answer": "CABO",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Sinal que indica direção",
+      "answer": "SETA",
+      "row": 9,
+      "col": 5
+    },
+    "33": {
+      "clue": "Palavra usada ao atender ao telefone",
+      "answer": "ALO",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Lugar utilizado para exposição de quadros e outras obras de arte",
+      "answer": "GALERIA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Pop.) Trabalho",
+      "answer": "TRAMPO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Porção de fumaça de cigarro inalada",
+      "answer": "TRAGO",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Ato de molhar as plantas",
+      "answer": "REGA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Nascida em Veneza ou Siena",
+      "answer": "ITALIANA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Vermelho ou amarelo",
+      "answer": "COR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Grande cidade litorânea norte-americana, na Flórida",
+      "answer": "MIAMI",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Dividir em três partes",
+      "answer": "TRIPARTIR",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "(Red.) A mãe da pai do mãe",
+      "answer": "BISA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "O time de futebol recifense rubronegro",
+      "answer": "SPORT",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Plantação de videiras",
+      "answer": "PARREIRAL",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Cidade de Portugal, entre os rios Sousa e Tâmega",
+      "answer": "PENAFIEL",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "(Inform.) Algarismo que somente pode assumir as formas 0 ou 1",
+      "answer": "BIT",
+      "row": 4,
+      "col": 5
+    },
+    "20": {
+      "clue": "Do contrário",
+      "answer": "SENÃO",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Um mamífero ruminante de pescoço muito comprido",
+      "answer": "GIRAFA",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "Ritmo musical de grande popularidade na década de 1940",
+      "answer": "MAMBO",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Remediar males, livrar-se de doenças e aflições",
+      "answer": "CURAR",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "(Pop.) Informação ou indicação boa",
+      "answer": "DICA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Terreno de pequenas dimensões, urbano ou rural",
+      "answer": "LOTE",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "(Med.) A sigla da proteína usada no diagnóstico do câncer de próstata",
+      "answer": "PSA",
+      "row": 8,
+      "col": 5
+    }
+  }
+}

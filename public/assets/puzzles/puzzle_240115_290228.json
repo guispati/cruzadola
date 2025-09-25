@@ -1,0 +1,258 @@
+{
+  "across": {
+    "2": {
+      "clue": "Confusão, tumulto",
+      "answer": "BARAFUNDA",
+      "row": 0,
+      "col": 2
+    },
+    "11": {
+      "clue": "San Francisco",
+      "answer": "SF",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Que se pode atravessar (um rio) pelos lugares menos profundos",
+      "answer": "VADEAVEL",
+      "row": 1,
+      "col": 3
+    },
+    "14": {
+      "clue": "Abrev.: Tanzânia",
+      "answer": "TAN",
+      "row": 2,
+      "col": 0
+    },
+    "16": {
+      "clue": "Camarão de água doce, de carne apreciada",
+      "answer": "PITU",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "Isolam R e U",
+      "answer": "ST",
+      "row": 2,
+      "col": 9
+    },
+    "18": {
+      "clue": "Médico que trata doenças mediante remédios contrários a elas",
+      "answer": "ALOPATA",
+      "row": 3,
+      "col": 0
+    },
+    "20": {
+      "clue": "(Scooby-) Um cão da Hanna-Barbera",
+      "answer": "DOO",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Removido",
+      "answer": "LEVADO",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Na moda feminina, corte do vestido em sentido enviesado",
+      "answer": "GODE",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Junto, ligado",
+      "answer": "ANEXO",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Vale dos) A região de São Leopoldo e Novo Hamburgo",
+      "answer": "SINOS",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Parte da roupa que circunda o pescoço ou está junto dele",
+      "answer": "GOLA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "O compositor Wolfgang Amadeus (1756-1791)",
+      "answer": "MOZART",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Ministério da Pesca e Aquicultura",
+      "answer": "MPA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "(Fig.) Equiparar, igualar",
+      "answer": "NIVELAR",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Ivete Sangalo, cantora e apresentadora",
+      "answer": "IS",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Situação em uma representação teatral",
+      "answer": "CENA",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Débito Direto Autorizado, operação bancária",
+      "answer": "DDA",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Espécie de pudim feito com farinha, leite e ovos",
+      "answer": "TIGELADA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "O que muda de picar para picotar",
+      "answer": "OT",
+      "row": 9,
+      "col": 9
+    },
+    "36": {
+      "clue": "Pequena área anormalmente endurecida e circunscrita, no nariz ou na laringe",
+      "answer": "ESCLEROMA",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Formação encontrada em cavernas",
+      "answer": "ESTALAGMITE",
+      "row": 0,
+      "col": 0
+    },
+    "3": {
+      "clue": "(Abrev.) Avenida",
+      "answer": "AV",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Cortado rente, cerce",
+      "answer": "RAPADO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Compartimento reservado",
+      "answer": "ADITO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Queijo típico da Grécia",
+      "answer": "FETA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Interjeição que indica surpresa",
+      "answer": "UAU",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Novo sem vogais",
+      "answer": "NV",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Que perdeu o odor",
+      "answer": "DESODORADO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Nuvem que lembra uma espécie de véu espesso e acinzentado",
+      "answer": "ALTOESTRATO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Uma orquídea de origem asiática",
+      "answer": "FALENOPSIS",
+      "row": 1,
+      "col": 1
+    },
+    "15": {
+      "clue": "Conto",
+      "answer": "NOVELA",
+      "row": 2,
+      "col": 2
+    },
+    "19": {
+      "clue": "(Fig.) Homem preguiçoso e que vive no luxo",
+      "answer": "PAXA",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Famoso pato das histórias de Walt Disney",
+      "answer": "DONALD",
+      "row": 3,
+      "col": 8
+    },
+    "22": {
+      "clue": "A cidade egípcia das grandes pirâmides",
+      "answer": "GIZE",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "Um tipo de pão",
+      "answer": "SOVADO",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "Preparar para uma explosão",
+      "answer": "MINAR",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Em + ele",
+      "answer": "NELE",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Abreviatura de celular",
+      "answer": "CEL",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Guarda Civil",
+      "answer": "GC",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Agatha Moreira, atriz carioca",
+      "answer": "AM",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

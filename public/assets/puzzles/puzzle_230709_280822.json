@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "De forma rigorosa",
+      "answer": "GRAVEMENTE",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Metal muito duro, de símbolo Re",
+      "answer": "RENIO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Precede Vegas e Leñas",
+      "answer": "LAS",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Ingrediente usado para enrolar sushis",
+      "answer": "ALGA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Ente",
+      "answer": "SER",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Zona Aérea",
+      "answer": "ZA",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Por ti",
+      "answer": "TEU",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Relembrar, recordar",
+      "answer": "REVIVER",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "São três em tiririca",
+      "answer": "IS",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Polígono plano de dez lados",
+      "answer": "DECAGONO",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Giro de (uma parte do corpo) ao redor de seu eixo",
+      "answer": "ROTAÇÃO",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "Enterro, sepultamento",
+      "answer": "INUMAÇÃO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "O símbolo químico do plutônio",
+      "answer": "PU",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "Glutão",
+      "answer": "COMILÃO",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "O macho da vaca",
+      "answer": "BOI",
+      "row": 7,
+      "col": 8
+    },
+    "26": {
+      "clue": "As letras extremas do nosso alfabeto",
+      "answer": "AZ",
+      "row": 8,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Lau) Personagem da \"Turma da Mônica\"",
+      "answer": "NHO",
+      "row": 8,
+      "col": 3
+    },
+    "28": {
+      "clue": "Jazida",
+      "answer": "MINA",
+      "row": 8,
+      "col": 7
+    },
+    "29": {
+      "clue": "A bacia onde louças são lavadas",
+      "answer": "PIA",
+      "row": 9,
+      "col": 2
+    },
+    "30": {
+      "clue": "Traço de união entre palavras",
+      "answer": "HIFEN",
+      "row": 9,
+      "col": 6
+    },
+    "31": {
+      "clue": "Uma planta ornamental",
+      "answer": "FLORDEMAIO",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Conceder benefício, favor ou honra a, como retribuição",
+      "answer": "GRATIFICAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ordinário, vulgar",
+      "answer": "RELES",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Papa de fubá cozido",
+      "answer": "ANGU",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A crucis foi o doloroso caminho de Jesus",
+      "answer": "VIA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "As vogais de Pedro",
+      "answer": "EO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Fig.) Alta, aumento",
+      "answer": "ELEVAÇÃO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Grande nariz",
+      "answer": "NARIGÃO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O escritor inglês Eliot (1888-1965)",
+      "answer": "TS",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "Que reside em certa delimitação territorial de uma diocese",
+      "answer": "PAROQUIANO",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "Enxugamento",
+      "answer": "SECAÇÃO",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Seita budista caracterizada pela abstração e meditação",
+      "answer": "ZEN",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Cortar em pedaços",
+      "answer": "RETALHAR",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Passeio de planador",
+      "answer": "VOO",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "(Inform.) Nome do website, que vem logo após o www",
+      "answer": "DOMINIO",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "O álcool do drinque daiquiri",
+      "answer": "RUM",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "(-moscada) Condimento e estimulante gástrico",
+      "answer": "NOZ",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Um cavalinho",
+      "answer": "PONEI",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Bofetada",
+      "answer": "BIFA",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "(Por) De minha parte",
+      "answer": "MIM",
+      "row": 8,
+      "col": 7
+    },
+    "29": {
+      "clue": "Abreviatura de plural",
+      "answer": "PL",
+      "row": 9,
+      "col": 2
+    },
+    "30": {
+      "clue": "O hélio, entre os químicos",
+      "answer": "HE",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

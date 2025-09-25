@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um famoso jogo eletrônico",
+      "answer": "PACMAN",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Roberta, para os amigos",
+      "answer": "BETA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Pequeno caranguejo aquático do Brasil",
+      "answer": "ARUA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Uma famosa marca de cerveja",
+      "answer": "KAISER",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Cabelo de cor entre o dourado e o castanho-claro",
+      "answer": "LOIRO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Importância relativa",
+      "answer": "VALOR",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Doce pastoso feito da fruta também chamada pereira-do-japão",
+      "answer": "MARMELADA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Sigla da era anterior ao cristianismo",
+      "answer": "AC",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Um dos profetas de Aleijadinho, da basílica de Congonhas (MG)",
+      "answer": "JOEL",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Tu e eles",
+      "answer": "VOS",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Aquele que atormenta, persegue",
+      "answer": "ACOSSADOR",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Abrev.: Brasil",
+      "answer": "BRA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Erva ceifada e seca usada para alimentar animais",
+      "answer": "FENO",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "Oswaldo Aranha (1894-1960), político gaúcho, um dos arquitetos da Revolução de 1930",
+      "answer": "OA",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Estagnado, que não corre",
+      "answer": "REPRESADO",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Red.) Um dos times de futebol do clássico Grenal",
+      "answer": "INTER",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Muito ingênuo, tolo",
+      "answer": "LORPA",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Começar a afetar (uma doença)",
+      "answer": "ATACAR",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Advérbio que indica em grau superior",
+      "answer": "MAIS",
+      "row": 9,
+      "col": 7
+    },
+    "38": {
+      "clue": "Um imperador romano",
+      "answer": "NERO",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Brilho",
+      "answer": "CLARÃO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(-de-são-josé) Planta de flores brancas aromáticas, também chamada copo-de-leite",
+      "answer": "PALMA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Molde para fazer queijo",
+      "answer": "ARO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um roedor do Brasil",
+      "answer": "CUIM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A maior ilha fluviomarinha do globo",
+      "answer": "MARAJO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Nilson Klava, jornalista",
+      "answer": "NK",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O apresentador de TV e jornalista Pedro",
+      "answer": "BIAL",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Habitante de extensa região da Europa centro-oriental",
+      "answer": "ESLAVO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O santo patrono dos soldados",
+      "answer": "TEODORO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Acordos que asseguram obrigações futuras",
+      "answer": "ARRAS",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Plantação de árvores cujo fruto produzido encerra uma amêndoa comestível",
+      "answer": "AVELANAL",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Parte sólida da superfície do globo terrestre",
+      "answer": "OROSFERA",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "São doze em um ano",
+      "answer": "MESES",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Que não tem",
+      "answer": "CARENTE",
+      "row": 4,
+      "col": 1
+    },
+    "23": {
+      "clue": "Receber ondas radiofônicas",
+      "answer": "CAPTAR",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "A capital da Tanzânia, país da costa Leste da África",
+      "answer": "DODOMA",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "O cineasta estadunidense De Palma, de \"Os Intocáveis\"",
+      "answer": "BRIAN",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Sucesso imprevisto",
+      "answer": "ACASO",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Homem que presta serviço militar",
+      "answer": "RECO",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "Dizer uma Ave-Maria",
+      "answer": "ORAR",
+      "row": 7,
+      "col": 8
+    },
+    "34": {
+      "clue": "Doença tropical contagiosa caracterizada por lesões cutâneas",
+      "answer": "PIÃ",
+      "row": 8,
+      "col": 9
+    },
+    "36": {
+      "clue": "As iniciais da atriz Casé",
+      "answer": "RC",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

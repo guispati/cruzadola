@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Não gorda",
+      "answer": "MAGRA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Fig.) Grande maioria",
+      "answer": "MASSA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "A primeira palavra dita ao atender o telefone",
+      "answer": "ALO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Boiar",
+      "answer": "FLUTUAR",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Renato Teixeira, músico",
+      "answer": "RT",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Fig.) Anarquia",
+      "answer": "CAOS",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Ave da mesma família do gaturamo",
+      "answer": "TIE",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Queima superficial",
+      "answer": "TOSTADURA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Modificar, tornando falso ou ilegal",
+      "answer": "ADULTERAR",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "7 vezes",
+      "answer": "HEPTA",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "As duas metades de um tabuleiro de xadrez",
+      "answer": "ALAS",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Outro nome da vitamina B1",
+      "answer": "TIAMINA",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "As iniciais do político Brizola (1922-2004)",
+      "answer": "LB",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Distar em espaço ou decorrer no tempo",
+      "answer": "IR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Que disputa com ardor",
+      "answer": "RENHIDOR",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Juntamente",
+      "answer": "COM",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Pop.) Senhor",
+      "answer": "NHO",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Abrev.: Uganda",
+      "answer": "UGA",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "(Fig.) Pessoa sujeita a dura servidão",
+      "answer": "HILOTA",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Logo após",
+      "answer": "TRAS",
+      "row": 9,
+      "col": 7
+    },
+    "37": {
+      "clue": "O que é demasiadamente bom",
+      "answer": "OTIMO",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "(Gír.) Qualquer soma de dinheiro",
+      "answer": "GRANA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A cantora Carey",
+      "answer": "MARIAH",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Tecla muito usada pelos digitadores",
+      "answer": "ALT",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sigla do estado de Anápolis e Caldas Novas",
+      "answer": "GO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Fig.) Perda ou ausência de intimidade",
+      "answer": "AFASTAMENTO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "O menor de todos os mamíferos conhecidos",
+      "answer": "MUSARANHO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Antigo Testamento",
+      "answer": "AT",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Os pontos dados pelo cirurgião",
+      "answer": "SUTURA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Ir de um lugar para outro",
+      "answer": "SAIR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Lustrar panelas",
+      "answer": "AREAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Porção de objetos leiloados de uma só vez",
+      "answer": "LOTE",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Resíduo da destilação do carvão",
+      "answer": "COLTAR",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Indivíduo de uma grande nação de índios brasileiros",
+      "answer": "TUPI",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "O Lama líder tibetano",
+      "answer": "DALAI",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Cidade dos EUA, grande centro automobilístico",
+      "answer": "DETROIT",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Frase publicitária",
+      "answer": "SLOGAN",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Sufixo diminutivo feminino",
+      "answer": "INHA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Coisa muito quente, escaldante",
+      "answer": "BRASA",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Espécie de alçapão para apanhar coelhos e perdizes",
+      "answer": "ICHO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Trio Parada) O grupo sertanejo de \"As Andorinhas\"",
+      "answer": "DURA",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "1051, em algarismos romanos",
+      "answer": "MLI",
+      "row": 8,
+      "col": 2
+    },
+    "35": {
+      "clue": "(Rád.) Ondas Médias",
+      "answer": "OM",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "Taxa Referencial",
+      "answer": "TR",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

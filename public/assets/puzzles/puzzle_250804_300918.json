@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Os povos do Iêmem, de Omã e do Catar",
+      "answer": "ARABES",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O treinador português de futebol Ferreira",
+      "answer": "ABEL",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Ser ainda no ventre materno",
+      "answer": "FETO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "100 anos",
+      "answer": "SECULO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "O tempo corrido desde o nascimento",
+      "answer": "IDADE",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Tratar com carinhos excessivos",
+      "answer": "MIMAR",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Sapato baixo, confortável",
+      "answer": "MOCASSIM",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Sigla do estado que só faz divisa com a BA e AL",
+      "answer": "SE",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Camuflar",
+      "answer": "MASCARAR",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "(Inform.) Um tipo de memória dos PCs",
+      "answer": "RAM",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Projeção de telhado",
+      "answer": "ABA",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Ave com até 170 cm de altura",
+      "answer": "EMA",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "Tubulação de instalação de ar condicionado",
+      "answer": "AERODUTO",
+      "row": 6,
+      "col": 2
+    },
+    "28": {
+      "clue": "Nicolas Cage, ator de \"Um Homem de Família\"",
+      "answer": "NC",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Gír.) Comida de má qualidade",
+      "answer": "GOROROBA",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "Uma casa para labradores",
+      "answer": "CANIL",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Reduzir a nada",
+      "answer": "SUMIR",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Reconhecer, tomar",
+      "answer": "ADOTAR",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Dança",
+      "answer": "BALE",
+      "row": 9,
+      "col": 7
+    },
+    "38": {
+      "clue": "(Geom.) Ângulo igual a 180º",
+      "answer": "RASO",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Grau acadêmico",
+      "answer": "LAUREA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Análogo",
+      "answer": "AFIM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Campânula para resguardar objetos delicados",
+      "answer": "REDOMA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Grande deserto do Chile e do Peru",
+      "answer": "ATACAMA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "As de porcelana comemoram 20 anos de casamento",
+      "answer": "BODAS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Sílvio Santos (1930-2024), apresentador de TV e empresário",
+      "answer": "SS",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Num ponto superior",
+      "answer": "ACIMA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Som de tambor",
+      "answer": "BUM",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Aquelas mulheres",
+      "answer": "ELAS",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Região da França atravessada pelo rio Mosela",
+      "answer": "LORENA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "O E na nação EAU",
+      "answer": "EMIRADOS",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Variedade de chicória",
+      "answer": "ESCAROLA",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "Paladar",
+      "answer": "SABOR",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Recomeçar depois de uma interrupção",
+      "answer": "RETOMAR",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Fazer barulho ao respirar, dormindo",
+      "answer": "RONCAR",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Enfeite",
+      "answer": "MOBILE",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Nação com capital Cairo",
+      "answer": "EGITO",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "(Pop., pejor.) O juiz ou um de seus auxiliares",
+      "answer": "URUBU",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Tal",
+      "answer": "CADA",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "Pode ser calculada em km², cm² etc.",
+      "answer": "AREA",
+      "row": 7,
+      "col": 10
+    },
+    "33": {
+      "clue": "Pronome oblíquo da primeira pessoa do plural",
+      "answer": "NOS",
+      "row": 8,
+      "col": 2
+    },
+    "36": {
+      "clue": "Relê sem és",
+      "answer": "RL",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

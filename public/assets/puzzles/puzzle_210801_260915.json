@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Dizer palavra que insulta o sagrado",
+      "answer": "BLASFEMAR",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Avançar como uma bola",
+      "answer": "ROLAR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Uso excessivo de algo",
+      "answer": "ABUSO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Ser inseparável",
+      "answer": "INERIR",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Eva Wilma, atriz",
+      "answer": "EW",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Nana Caymmi, cantora",
+      "answer": "NC",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "O mês pode ter 28, 29, 30 ou 31",
+      "answer": "DIAS",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Campeão pela terceira vez",
+      "answer": "TRI",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Dança de salão muito popular no NE",
+      "answer": "XOTE",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Famoso poeta português (1765-1805)",
+      "answer": "BOCAGE",
+      "row": 4,
+      "col": 5
+    },
+    "24": {
+      "clue": "O pintor Cândido",
+      "answer": "PORTINARI",
+      "row": 5,
+      "col": 1
+    },
+    "26": {
+      "clue": "Decência",
+      "answer": "DECORO",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "A extremidade ou a ponta de algo",
+      "answer": "TOPO",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Curso de água natural e perene",
+      "answer": "RIO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Pop.) Assombração",
+      "answer": "ALMA",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Estão no meio em... meio",
+      "answer": "EI",
+      "row": 7,
+      "col": 9
+    },
+    "33": {
+      "clue": "Passar, bem ou mal, de saúde",
+      "answer": "IR",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Caixão luxuoso de defunto",
+      "answer": "ATAUDE",
+      "row": 8,
+      "col": 3
+    },
+    "36": {
+      "clue": "Petróleo bruto",
+      "answer": "NAFTA",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Uma veste de chef de cozinha",
+      "answer": "DOLMÃ",
+      "row": 9,
+      "col": 6
+    },
+    "40": {
+      "clue": "Forma de profilaxia da boca ou da garganta",
+      "answer": "GARGAREJO",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um dos grandes bairros de NY (EUA)",
+      "answer": "BRONX",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Espécie de escumilha, tecido leve e transparente",
+      "answer": "LO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O Babá das \"Mil e Uma Noites\"",
+      "answer": "ALI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um carro da Renault",
+      "answer": "SANDERO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Membro de antigas ordens religiosas e militares",
+      "answer": "FREI",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Casa, em francês",
+      "answer": "MAISON",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Uma forma de abreviar o nome do mês 4",
+      "answer": "ABR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Rutênio, elemento químico",
+      "answer": "RU",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O músico inglês David (1947-2016)",
+      "answer": "BOWIE",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "A UF com Itabaiana e Estância",
+      "answer": "SERGIPE",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Rabo de papagaio feito de papel",
+      "answer": "RABIOLA",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Mulher que serve à mesa",
+      "answer": "COPEIRA",
+      "row": 3,
+      "col": 1
+    },
+    "19": {
+      "clue": "Arte divinatória pelas cartas de um baralho ilustrado",
+      "answer": "TARO",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Ponta de cigarro já fumado",
+      "answer": "TOCO",
+      "row": 4,
+      "col": 2
+    },
+    "23": {
+      "clue": "Uma máquina usada em certas colheitas",
+      "answer": "CATADOR",
+      "row": 4,
+      "col": 7
+    },
+    "25": {
+      "clue": "Ter por tema",
+      "answer": "TRATAR",
+      "row": 5,
+      "col": 4
+    },
+    "26": {
+      "clue": "(Ingl.) Bebida alcoólica",
+      "answer": "DRINK",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Parede lateral de uma casa",
+      "answer": "OITÃO",
+      "row": 6,
+      "col": 10
+    },
+    "31": {
+      "clue": "Planta criada para posterior plantação definitiva",
+      "answer": "MUDA",
+      "row": 7,
+      "col": 6
+    },
+    "34": {
+      "clue": "Outro nome da fruta-do-conde",
+      "answer": "ATA",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Segue tu, nos pronomes",
+      "answer": "ELE",
+      "row": 8,
+      "col": 8
+    },
+    "37": {
+      "clue": "Ferreira Gullar, poeta",
+      "answer": "FG",
+      "row": 9,
+      "col": 2
+    },
+    "39": {
+      "clue": "Ministério da Justiça",
+      "answer": "MJ",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

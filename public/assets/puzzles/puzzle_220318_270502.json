@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Pano largo de lã, usado como agasalho",
+      "answer": "MANTA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "A parte da embalagem usada para vedá-la",
+      "answer": "TAMPA",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Um que explora quem precisa de dinheiro",
+      "answer": "AGIOTA",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Caminho natural de água subterrânea",
+      "answer": "VEIO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Outro nome da gaita, instrumento da família do acordeão",
+      "answer": "CONCERTINA",
+      "row": 2,
+      "col": 0
+    },
+    "16": {
+      "clue": "O \"de pernas tortas\" era o apelido de Garrincha",
+      "answer": "ANJO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Ingl.) Um tipo de hospedagem com recreação e divertimento",
+      "answer": "RESORT",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Um tempo como terça-feira",
+      "answer": "DIA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Padecer",
+      "answer": "PENAR",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Ataulfo Alves (1909-1969), músico",
+      "answer": "AA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Mau cheiro",
+      "answer": "FEDOR",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Em música, si menor",
+      "answer": "BM",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Severidade na educação",
+      "answer": "RIGOR",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Um estilo musical",
+      "answer": "POP",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Exaltar",
+      "answer": "ELEVAR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Tecido leve",
+      "answer": "TULE",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Aquele que apresenta para ser aceito",
+      "answer": "OFERECEDOR",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "O treinador português de futebol Ferreira, atualmente no Palmeiras",
+      "answer": "ABEL",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Povo descendente do primeiro filho de Noé",
+      "answer": "SEMITA",
+      "row": 9,
+      "col": 5
+    },
+    "33": {
+      "clue": "Plantação de melancias, caquis e peras",
+      "answer": "POMAR",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Chupar o leite da mãe",
+      "answer": "MAMAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um tipo de pavimentação rodoviária",
+      "answer": "MACADAME",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Pop.) Incapacidade de tomar decisão",
+      "answer": "AGONIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Lutador de uma arte marcial japonesa",
+      "answer": "NINJA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Bloqueio do arremesso, no basquete",
+      "answer": "TOCO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Advérbio que significa no máximo",
+      "answer": "ATE",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Informar",
+      "answer": "AVISAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Que ainda não fez 18 anos",
+      "answer": "MENOR",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Soltar a sua voz (a ave)",
+      "answer": "PIAR",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Marcos sem consoantes",
+      "answer": "AO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Subúrbios",
+      "answer": "ARREDORES",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "No canto, a voz de homem adulto mais alta",
+      "answer": "TENOR",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "Dar sabor à comida",
+      "answer": "TEMPERAR",
+      "row": 3,
+      "col": 10
+    },
+    "20": {
+      "clue": "Embarcar em (ônibus, trem)",
+      "answer": "PEGAR",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Peça para fechar cinta, bolsa",
+      "answer": "FIVELA",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Objeto de forma esférica",
+      "answer": "BOLOTA",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Prisioneiro de garantia",
+      "answer": "REFEM",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Uma sobremesa que pode ser de leite condensado",
+      "answer": "PUDIM",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "O animal que quer devorar Chapeuzinho Vermelho",
+      "answer": "LOBO",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Ideia central, conceito que inspira",
+      "answer": "TEMA",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "O C em romanos",
+      "answer": "CEM",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "A UF com Mazagão e Macapá",
+      "answer": "AP",
+      "row": 9,
+      "col": 0
+    }
+  }
+}

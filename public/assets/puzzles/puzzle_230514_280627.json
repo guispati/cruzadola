@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Orla",
+      "answer": "MARGEM",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Todo, qualquer",
+      "answer": "CADA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Lucrativo",
+      "answer": "RENDOSO",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Ulysses Guimarães (1916-1992), político das \"Diretas Já\"",
+      "answer": "UG",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Papa espessa de fubá cozido",
+      "answer": "ANGU",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Arranhar",
+      "answer": "RASPAR",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "A Láctea também é chamada Caminho de São Tiago",
+      "answer": "VIA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Um presente dos Reis Magos",
+      "answer": "INCENSO",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Sigla de uma era antiquíssima",
+      "answer": "AC",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Artifício para enganar alguém",
+      "answer": "FRAUDE",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Local onde se espremem azeitonas e uvas",
+      "answer": "LAGAR",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Erudito, sábio",
+      "answer": "DOUTO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Deixar de dizer algo propositalmente",
+      "answer": "OMITIR",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Região Militar",
+      "answer": "RM",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Atormentar, torturar",
+      "answer": "AFLIGIR",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Passar) Um sucesso da MPB",
+      "answer": "VAI",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Escoar águas",
+      "answer": "DRENAR",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Parte de um aparelho",
+      "answer": "PEÇA",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Interjeição de resposta a um chamamento",
+      "answer": "OI",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Manobra secreta, com objetivos ilícitos",
+      "answer": "TRAMOIA",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Homem mecânico e eletrônico",
+      "answer": "ROBO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Observação crítica",
+      "answer": "REPARO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Erva muito usada em medicina caseira",
+      "answer": "ARNICA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ato de banhar as plantas",
+      "answer": "REGA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um grande antílope com chifres parecidos com os dos bois",
+      "answer": "GNU",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Eugène Delacroix (1798-1863), pintor francês",
+      "answer": "ED",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Nem fria nem quente",
+      "answer": "MORNA",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Que costura",
+      "answer": "COSEDOR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(-peças) Traje que combina saia e blusa",
+      "answer": "DUAS",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A ciência que estuda e pesquisa a lavoura",
+      "answer": "AGRONOMIA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Mover para um e outro lado",
+      "answer": "SACUDIR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Aquele que calcula o valor de algo",
+      "answer": "AVALIADOR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Um produto da Continental ou da Goodyear",
+      "answer": "PNEU",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Em medicina, conduzir sangue para determinada área",
+      "answer": "IRRIGAR",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Que tem fome",
+      "answer": "FAMINTO",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Uma pequena quantidade de líquido bebido",
+      "answer": "GOLE",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Delinear, riscar",
+      "answer": "TRAÇAR",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Fazer sair de um lugar",
+      "answer": "TIRAR",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "(Fig.) Seco, sem afeto, sem calor humano",
+      "answer": "FRIO",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Qualquer vaso sanguíneo",
+      "answer": "VEIA",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Um tipo de música ou pintura moderna",
+      "answer": "POP",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Microempresa",
+      "answer": "ME",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

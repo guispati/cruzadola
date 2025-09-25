@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "Violação da lei penal",
+      "answer": "CRIME",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O oposto de gordo",
+      "answer": "MAGRO",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Envio de mercadorias",
+      "answer": "REMESSA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Som produzido por um aparelho para servir de aviso",
+      "answer": "BIP",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Desejo intenso",
+      "answer": "AFÃ",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Ato de permanecer em determinado local",
+      "answer": "FICO",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Segue ípsilon",
+      "answer": "ZE",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Winona Ryder, atriz de \"Outono em Nova York\"",
+      "answer": "WR",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Luta marcial de origem japonesa",
+      "answer": "CARATE",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Ser portador de",
+      "answer": "LEVAR",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Pão doce de massa retorcida",
+      "answer": "ROSCA",
+      "row": 4,
+      "col": 6
+    },
+    "24": {
+      "clue": "Trabalho feito em tecido acolchoado, que forma, no conjunto, um desenho em relevo",
+      "answer": "MATELASSE",
+      "row": 5,
+      "col": 1
+    },
+    "27": {
+      "clue": "Olhar rápido",
+      "answer": "RELANCE",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "Ary Fontoura, ator paranaense",
+      "answer": "AF",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Aparelho para se ouvir música, noticiário etc.",
+      "answer": "RADIO",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "As consoantes de tela",
+      "answer": "TL",
+      "row": 7,
+      "col": 9
+    },
+    "33": {
+      "clue": "O jogador de voleibol que é especialista em recepção e defesa",
+      "answer": "LIBERO",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Pop.) Gordura excessiva que se localiza na cintura",
+      "answer": "PNEU",
+      "row": 8,
+      "col": 7
+    },
+    "37": {
+      "clue": "Dezoito dividido por nove",
+      "answer": "DOIS",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Típica veste escocesa",
+      "answer": "SAIOTE",
+      "row": 9,
+      "col": 5
+    },
+    "40": {
+      "clue": "São dois na Abissínia",
+      "answer": "ESSES",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "As várias partes de uma composição musical",
+      "answer": "VOZES",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Ingl.) Um estilo de natação",
+      "answer": "CRAWL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Provérbio",
+      "answer": "REFREM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ferro dotado de propriedade de atração",
+      "answer": "IMÃ",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Voz imitativa do balido da ovelha",
+      "answer": "ME",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Reduzir a migalhas, a pó",
+      "answer": "ESFARELAR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Cidade baiana da região de Itapetinga",
+      "answer": "MACARANI",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "As iniciais da modelo Gisele",
+      "answer": "GB",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Cada um dos cabos delgados que se prendem à vela do navio",
+      "answer": "RIZ",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Drama lírico",
+      "answer": "OPERA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Título inglês de nobreza, já foi concedido a Paul McCartney e Mick Jagger",
+      "answer": "SIR",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Instrumento para examinar o canal auditivo",
+      "answer": "OTOSCOPIO",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "Fraqueza provocada por medicamento",
+      "answer": "CATERESE",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "A letra entre o erre e o tê",
+      "answer": "ESSE",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "(Fut.) Video Assistant Referee",
+      "answer": "VAR",
+      "row": 4,
+      "col": 2
+    },
+    "23": {
+      "clue": "(Quím.) O cério",
+      "answer": "CE",
+      "row": 4,
+      "col": 9
+    },
+    "25": {
+      "clue": "O triângulo possui três",
+      "answer": "LADOS",
+      "row": 5,
+      "col": 5
+    },
+    "26": {
+      "clue": "Recipiente com alça, usado para transportar líquido, gelo etc.",
+      "answer": "BALDE",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "O estilo musical de B.B. King",
+      "answer": "BLUES",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Fazem o transporte da eletricidade e também de dados",
+      "answer": "FIOS",
+      "row": 7,
+      "col": 1
+    },
+    "32": {
+      "clue": "Tereza, para os íntimos",
+      "answer": "TETE",
+      "row": 7,
+      "col": 9
+    },
+    "34": {
+      "clue": "Pedido de repetição em apresentação musical",
+      "answer": "BIS",
+      "row": 8,
+      "col": 2
+    },
+    "36": {
+      "clue": "A fruta que pode ser moscada",
+      "answer": "NOZ",
+      "row": 8,
+      "col": 8
+    },
+    "39": {
+      "clue": "O que transforma cheiro em chaveiro",
+      "answer": "AV",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

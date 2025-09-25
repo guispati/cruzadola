@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Famosa marca de calçados",
+      "answer": "CROCS",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Um apelido para a cidade de São Paulo",
+      "answer": "SAMPA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Membranas que recobrem parcialmente os olhos",
+      "answer": "PALPEBRAS",
+      "row": 1,
+      "col": 2
+    },
+    "12": {
+      "clue": "Lulu Santos, músico",
+      "answer": "LS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Diz-se de carne usada para rechear pastéis e esfirras",
+      "answer": "MOIDA",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Paula Toller, cantora",
+      "answer": "PT",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "As partes do corpo que os ápodes não possuem",
+      "answer": "PES",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Soltar a voz (pato)",
+      "answer": "GRASNAR",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Cercar com fios de latão, ferro, alumínio ou cobre",
+      "answer": "ARAMAR",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Um baralho",
+      "answer": "TARO",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "(Baía da) A segunda maior baía do litoral brasileiro",
+      "answer": "GUANABARA",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "(Gír.) Adivinhão",
+      "answer": "BIDU",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Defluxo",
+      "answer": "CORIZA",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "(Pop.) Apartamento",
+      "answer": "APE",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Ser de certa dimensão",
+      "answer": "TER",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Onomatopeia que procura reproduzir um ruído leve e contínuo",
+      "answer": "ZZZ",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "A cantora Ozzetti, da MPB",
+      "answer": "NA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Anedota",
+      "answer": "PIADA",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "(Fís.) Abreviatura de oersted",
+      "answer": "OE",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "Que tem erros",
+      "answer": "INCORRETO",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Veste",
+      "answer": "ROUPA",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Parecer de perito",
+      "answer": "LAUDO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Responsabilidade por mal causado a outrem",
+      "answer": "CULPA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Orçamento Participativo",
+      "answer": "OP",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Clube Atlético Mineiro",
+      "answer": "CAM",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Frase feita, que anuncia e caracteriza um produto",
+      "answer": "SLOGAN",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Uma fibra têxtil natural",
+      "answer": "SEDA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Ser suficiente",
+      "answer": "ABASTAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Marca Registrada",
+      "answer": "MR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Ital.) Repórter fotográfico que busca notícias sensacionais",
+      "answer": "PAPARAZZO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Qualquer corpo celeste",
+      "answer": "ASTRO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Contrariar de caso pensado",
+      "answer": "PIRRACEAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "De SE",
+      "answer": "SERGIPANO",
+      "row": 2,
+      "col": 1
+    },
+    "17": {
+      "clue": "A resposta para um atchim",
+      "answer": "SAUDE",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Um apoio para os óculos",
+      "answer": "NARIZ",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Perverso",
+      "answer": "MAU",
+      "row": 4,
+      "col": 3
+    },
+    "24": {
+      "clue": "Local destinado à prostituição",
+      "answer": "BORDEL",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Exilar",
+      "answer": "BANIR",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Áspero como o vinagre",
+      "answer": "AZEDO",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "(Gír.) Agente de polícia",
+      "answer": "TIRA",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Redução de popular",
+      "answer": "POP",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Registro escrito de uma reunião",
+      "answer": "ATA",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "(Quím.) Cobre",
+      "answer": "CU",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "De outro modo",
+      "answer": "OU",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Pobreza de glóbulos vermelhos no sangue",
+      "answer": "ANEMIA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Abreviatura de limitada",
+      "answer": "LTDA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Correlação",
+      "answer": "NEXO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Documentos que valem $",
+      "answer": "PAPEIS",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Gás de cozinha",
+      "answer": "GLP",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "De maneira conveniente, com propriedade",
+      "answer": "BEM",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "São dois na pizza",
+      "answer": "ZES",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Confirmar novamente em cargo público mediante votação",
+      "answer": "REELEGER",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "A última nota da escala musical",
+      "answer": "SI",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "Nascidos no país que tem Beirute como capital",
+      "answer": "LIBANESES",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Assimilável",
+      "answer": "DIGERIVEL",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Secar ao sol, ao calor do fogo",
+      "answer": "CURAR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Elemento de composição: nove",
+      "answer": "NON",
+      "row": 6,
+      "col": 6
+    },
+    "26": {
+      "clue": "Mover-se de um lugar a outro",
+      "answer": "IR",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Polígono plano de dez lados",
+      "answer": "DECAGONO",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Falta temporária do titular de um cargo",
+      "answer": "VACATURA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "A desinência verbal de ferver e comer",
+      "answer": "ER",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Magneto",
+      "answer": "IMÃ",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Interjeição de apelo",
+      "answer": "EI",
+      "row": 9,
+      "col": 4
+    },
+    "35": {
+      "clue": "Uma marca de cosméticos",
+      "answer": "DOVE",
+      "row": 9,
+      "col": 7
+    },
+    "37": {
+      "clue": "Ferida",
+      "answer": "LESA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Arquipélago português do Atlântico, com capital Ponta Delgada",
+      "answer": "AÇORES",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Pequena baía",
+      "answer": "ANGRA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Combinação de preposição com pronome",
+      "answer": "NELE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Lançar de si",
+      "answer": "EXPELIR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O símbolo químico do molibdênio",
+      "answer": "MO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Sentir afeição, estima",
+      "answer": "APEGAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Laila Pinheiro, cantora",
+      "answer": "LP",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Cútis, pele do rosto",
+      "answer": "TEZ",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Um óleo combustível",
+      "answer": "DIESEL",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O Chateaubriand (1891-1968) introdutor da tevê no Brasil",
+      "answer": "ASSIS",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Remoçar",
+      "answer": "AMENINAR",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Reunião de amigos para festejar algum acontecimento",
+      "answer": "BEBERETE",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "(Pop.) Comunicação telefônica",
+      "answer": "LIGADA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Que deixou de vigorar",
+      "answer": "REVOGADO",
+      "row": 3,
+      "col": 7
+    },
+    "21": {
+      "clue": "Função trigonométrica",
+      "answer": "SENO",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "A parte interior, mais compacta e escura, do tronco das árvores",
+      "answer": "DURAME",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Que diz respeito a todos os cidadãos",
+      "answer": "CIVIL",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "As primárias são o vermelho, o amarelo e o azul",
+      "answer": "CORES",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "Vasilha própria para o mate",
+      "answer": "CUIA",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "(em) Diz-se de clara de ovo batida até espumar",
+      "answer": "NEVE",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Cabelos brancos",
+      "answer": "CÃS",
+      "row": 8,
+      "col": 2
+    },
+    "36": {
+      "clue": "O que transforma pira em piorra",
+      "answer": "OR",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

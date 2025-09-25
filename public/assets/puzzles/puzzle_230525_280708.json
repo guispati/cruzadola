@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Ingl.) Linguagem para páginas da internet",
+      "answer": "HTML",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "A medula das plantas",
+      "answer": "AMAGO",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Uma estância hidromineral mineira",
+      "answer": "ARAXA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Muquirana",
+      "answer": "AVARO",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "(Ingl.) Abreviatura de uma forma de jazz",
+      "answer": "BOP",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Abaixar a nota musical de meio tom",
+      "answer": "BEMOLAR",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "(Fig.) Opinião que o público pode ter de um produto",
+      "answer": "IMAGEM",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "O ator Camilo, de \"Carandiru\"",
+      "answer": "GERO",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Abreviatura de libra",
+      "answer": "LB",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Uma forma de capturar peixes",
+      "answer": "ARPOAR",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "A capital dos Países Baixos, na Holanda Setentrional",
+      "answer": "AMSTERDAM",
+      "row": 5,
+      "col": 1
+    },
+    "27": {
+      "clue": "Debilitar",
+      "answer": "INANIR",
+      "row": 6,
+      "col": 2
+    },
+    "28": {
+      "clue": "Um carro fabricado pela VW",
+      "answer": "UP",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "Um bicho-papão como Shrek",
+      "answer": "OGRO",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Pop.) Incapacidade de tomar decisão",
+      "answer": "AGONIA",
+      "row": 7,
+      "col": 5
+    },
+    "34": {
+      "clue": "Indivíduo de certos povos muçulmanos da África Setentrional",
+      "answer": "BERBERE",
+      "row": 8,
+      "col": 0
+    },
+    "36": {
+      "clue": "(Pop.) Cachaça",
+      "answer": "OTI",
+      "row": 8,
+      "col": 8
+    },
+    "37": {
+      "clue": "(Ingl.) Esperto, sabido",
+      "answer": "SMART",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Que ainda não fez 18 anos",
+      "answer": "MENOR",
+      "row": 9,
+      "col": 6
+    },
+    "40": {
+      "clue": "Palmeira cultivada em jardins",
+      "answer": "ARECA",
+      "row": 10,
+      "col": 1
+    },
+    "41": {
+      "clue": "Questão, assunto",
+      "answer": "CASO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ligeiro, ágil",
+      "answer": "HABIL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(-d'água) Pé-d’água, toró",
+      "answer": "TROMBA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Carta",
+      "answer": "MAPA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "60, em algarismos romanos",
+      "answer": "LX",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "Museu de Arte Moderna",
+      "answer": "MAM",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Um \"número\" da química",
+      "answer": "AVOGADRO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Antiga embarcação de guerra",
+      "answer": "GALERA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Rezar uma Ave-Maria",
+      "answer": "ORAR",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "O oposto de fechada",
+      "answer": "ABERTA",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Grande açude do NE",
+      "answer": "OROS",
+      "row": 1,
+      "col": 10
+    },
+    "16": {
+      "clue": "Sair da linha de prumo",
+      "answer": "EMPENAR",
+      "row": 2,
+      "col": 5
+    },
+    "18": {
+      "clue": "Uma substância como o argônio",
+      "answer": "GASNOBRE",
+      "row": 3,
+      "col": 3
+    },
+    "22": {
+      "clue": "Pátria, país de nascimento",
+      "answer": "ORIGEM",
+      "row": 4,
+      "col": 6
+    },
+    "24": {
+      "clue": "Emagrecer muito",
+      "answer": "MIRRAR",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Diversos",
+      "answer": "MUITOS",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "O empresário Steve (1955-2011), fundador da Apple",
+      "answer": "JOBS",
+      "row": 6,
+      "col": 0
+    },
+    "29": {
+      "clue": "Ato de voar devagar",
+      "answer": "PAIRO",
+      "row": 6,
+      "col": 10
+    },
+    "31": {
+      "clue": "Botão",
+      "answer": "GEMA",
+      "row": 7,
+      "col": 1
+    },
+    "33": {
+      "clue": "A que precede a décima",
+      "answer": "NONA",
+      "row": 7,
+      "col": 8
+    },
+    "35": {
+      "clue": "Et cetera",
+      "answer": "ETC",
+      "row": 8,
+      "col": 4
+    },
+    "39": {
+      "clue": "Edson Cordeiro, cantor",
+      "answer": "EC",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

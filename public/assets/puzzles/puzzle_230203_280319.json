@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Trançado de alhos ou cebolas",
+      "answer": "RESTIA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Inf.) Xixi",
+      "answer": "PIPI",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Neste momento",
+      "answer": "AGORA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Inteiro",
+      "answer": "TOTAL",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Amansar um animal",
+      "answer": "DOMAR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Prego quadrangular de ferradura",
+      "answer": "CRAVO",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Grupo de tribos nômades de índios norte-americanos",
+      "answer": "APACHE",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "As iniciais da atriz Giardini",
+      "answer": "EG",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "A cidade europeia do prêmio Nobel",
+      "answer": "OSLO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Terra molhada e pastosa",
+      "answer": "LAMA",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "A interjeição típica dos mineiros",
+      "answer": "UAI",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Um Lobo das histórias infantis",
+      "answer": "MAU",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "O escritor e novelista Comparato",
+      "answer": "DOC",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "(Gír.) Sentir o efeito de droga",
+      "answer": "VIAJAR",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Parede que cerca uma área",
+      "answer": "MURO",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Mover-se com um meio de transporte",
+      "answer": "IR",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Licor de erva-doce",
+      "answer": "ANISETE",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "O profissional que estuda os terremotos",
+      "answer": "SISMOLOGO",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "Duplo ponto que se aplicava acentuando o u",
+      "answer": "TREMA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Torre construída para a orientação dos navegantes",
+      "answer": "FAROL",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Precede esse",
+      "answer": "ERRE",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Curitiba é sua capital",
+      "answer": "PARANA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Aquele que escuta música e notícias em certo aparelho eletrônico",
+      "answer": "RADIOUVINTE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Eu, em latim",
+      "answer": "EGO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "País africano cuja capital é Mogadíscio",
+      "answer": "SOMALIA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Roupa velha, esfarrapada",
+      "answer": "TRAPO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Figura da mitologia amazônica, protetora das águas e da pesca",
+      "answer": "IARA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Apesar disso",
+      "answer": "POREM",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Norte) Denominação genérica de certos navios",
+      "answer": "ITA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Doce de creme e bolachas",
+      "answer": "PAVE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Contrário ao bom senso",
+      "answer": "ILOGICO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Pop.) Até logo!",
+      "answer": "TCHAU",
+      "row": 1,
+      "col": 6
+    },
+    "15": {
+      "clue": "O instrumento que desperta a tropa",
+      "answer": "CLARIM",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Proceder, provir",
+      "answer": "SAIR",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Tubulação para águas",
+      "answer": "ADUTORA",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Domesticada",
+      "answer": "MANSA",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Estado dos EUA cuja capital é Salem",
+      "answer": "OREGON",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "O cantor Léo, de \"Solange\"",
+      "answer": "JAIME",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Adoçar em demasia",
+      "answer": "MELAR",
+      "row": 6,
+      "col": 7
+    },
+    "30": {
+      "clue": "Móvel ideal para descansar ou assistir TV",
+      "answer": "SOFA",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Estar, encontrar-se",
+      "answer": "SER",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "Nos estádios, manifestação em movimento de onda",
+      "answer": "OLA",
+      "row": 8,
+      "col": 10
+    },
+    "34": {
+      "clue": "Sigla de um estado extremo do Brasil",
+      "answer": "RR",
+      "row": 9,
+      "col": 1
+    }
+  }
+}

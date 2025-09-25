@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "O teste feito para fins de reconhecimento de paternidade",
+      "answer": "DNA",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "(Gír.) Dinheiro, grana",
+      "answer": "BUFUNFA",
+      "row": 0,
+      "col": 4
+    },
+    "9": {
+      "clue": "Típica dança cubana",
+      "answer": "RUMBA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Período entre Jul e Set",
+      "answer": "AGO",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Perder o brilho",
+      "answer": "EMBAÇAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Forma reduzida do local onde são expostos animais de diferentes espécies",
+      "answer": "ZOO",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Evitar a passagem de eletricidade usando material não condutor",
+      "answer": "ISOLAR",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Sigla de um estado do Sul",
+      "answer": "PR",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Planta aquática primitiva, de estrutura simples",
+      "answer": "ALGA",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Uma obra em versos",
+      "answer": "POEMA",
+      "row": 4,
+      "col": 5
+    },
+    "23": {
+      "clue": "O Gil dos programas de auditório na TV",
+      "answer": "RAUL",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Contração que indica através de, por causa de (fem.)",
+      "answer": "PELA",
+      "row": 5,
+      "col": 7
+    },
+    "26": {
+      "clue": "(O Gato de) Famosa história infantil",
+      "answer": "BOTAS",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "A atriz Leandra",
+      "answer": "LEAL",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Interjeição que expressa pesar",
+      "answer": "AI",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Ingl.) Ponta de estoque, que vende a preços reduzidos",
+      "answer": "OUTLET",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "Diz-se, em inglês, de segredo (secret) reservadíssimo",
+      "answer": "TOP",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Apto a exercer uma ação contrária",
+      "answer": "REATIVO",
+      "row": 8,
+      "col": 4
+    },
+    "36": {
+      "clue": "Passarinho",
+      "answer": "AVE",
+      "row": 9,
+      "col": 2
+    },
+    "38": {
+      "clue": "Mar vizinho do Adriático",
+      "answer": "JONIO",
+      "row": 9,
+      "col": 6
+    },
+    "39": {
+      "clue": "Um cogumelo alimentício",
+      "answer": "SHITAKE",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "O cantora baiana Preta",
+      "answer": "GIL",
+      "row": 10,
+      "col": 8
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Med.) Retirar substâncias retidas no organismo através de certo tubo",
+      "answer": "DRENAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Em + um",
+      "answer": "NUM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Que é suscetível de várias interpretações",
+      "answer": "AMBIGUO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Víscera situada atrás do estômago e acima do rim esquerdo",
+      "answer": "BAÇO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Rei do antigo Egito",
+      "answer": "FARAO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Ulysses Guimarães (1916-1992), político",
+      "answer": "UG",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(-moscada) Condimento e estimulante gástrico",
+      "answer": "NOZ",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Paz e) O lema dos hippies",
+      "answer": "AMOR",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Rocha vulcânica",
+      "answer": "BASALTO",
+      "row": 1,
+      "col": 3
+    },
+    "13": {
+      "clue": "Comida de passarinho",
+      "answer": "ALPISTE",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Uma pedra preciosa de brilho vítreo",
+      "answer": "OPALA",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Muito cheio",
+      "answer": "REPLETO",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Cada uma das partes do contorno da boca",
+      "answer": "LABIO",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "(Ingl.) Encontro, principalmente esportivo",
+      "answer": "MEETING",
+      "row": 4,
+      "col": 8
+    },
+    "25": {
+      "clue": "Um combustível automotivo",
+      "answer": "ALCOOL",
+      "row": 5,
+      "col": 10
+    },
+    "27": {
+      "clue": "Recoberta de ouro",
+      "answer": "AUREA",
+      "row": 6,
+      "col": 4
+    },
+    "29": {
+      "clue": "O dos Apóstolos, da Bíblia",
+      "answer": "ATOS",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Pedra de superfície plana",
+      "answer": "LAJE",
+      "row": 7,
+      "col": 6
+    },
+    "33": {
+      "clue": "(dos burros) Um sinônimo para dicionário",
+      "answer": "PAI",
+      "row": 8,
+      "col": 2
+    },
+    "35": {
+      "clue": "Sete, em romanos",
+      "answer": "VII",
+      "row": 8,
+      "col": 9
+    },
+    "37": {
+      "clue": "Abrev.: videoteipe",
+      "answer": "VT",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

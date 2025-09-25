@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cidade italiana, centro turístico do litoral do mar Tirreno",
+      "answer": "AMALFI",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Leve, mole, em inglês",
+      "answer": "SOFT",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Grande escola de samba de SP",
+      "answer": "VAIVAI",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "A mãe dos girinos",
+      "answer": "RÃ",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "O banqueiro Setúbal (1923-2008), do banco Itaú",
+      "answer": "OLAVO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Frívolo, fútil, vão",
+      "answer": "VAZIO",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Armadilha para pegar pássaros",
+      "answer": "RELA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Um antônimo para macho",
+      "answer": "FEMEA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Empregada que cuida das crianças",
+      "answer": "AMA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Corte enviesado na aresta de uma peça",
+      "answer": "BISEL",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Tornar-se denso",
+      "answer": "ENCRASSAR",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Passado por crivo",
+      "answer": "COADO",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Prefixo: separação, negação",
+      "answer": "DIS",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "(A ? Cai) Sucesso de Beth Carvalho",
+      "answer": "CHUVA",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Macio",
+      "answer": "FOFO",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Dez, em italiano",
+      "answer": "DIECI",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Prometer com convicção",
+      "answer": "JURAR",
+      "row": 8,
+      "col": 6
+    },
+    "30": {
+      "clue": "(Mús.) Dó menor",
+      "answer": "CM",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Esporte que pode ser sobre patins",
+      "answer": "HOQUEI",
+      "row": 9,
+      "col": 3
+    },
+    "33": {
+      "clue": "Bloco de concreto armado",
+      "answer": "LAJE",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "A religião dos maometanos",
+      "answer": "ISLAME",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Grande tronco de madeira",
+      "answer": "ATORA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Massa de neve que despenca das montanhas",
+      "answer": "AVALANCHE",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Substância expelida por vulcões",
+      "answer": "LAVA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Cabo usado em eletricidade",
+      "answer": "FIO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "4, em romanos",
+      "answer": "IV",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Um gato",
+      "answer": "SIAMES",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Gír.) Situação crítica",
+      "answer": "FRIA",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Em tal grau",
+      "answer": "TÃO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "O oposto ao lado direito",
+      "answer": "AVESSO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Peça que dá direção ao barco",
+      "answer": "LEME",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Portaria",
+      "answer": "ZELADORIA",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Conversa sem proveito",
+      "answer": "FIADA",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Bruto",
+      "answer": "BRAVIO",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Um tipo de papel para impressão",
+      "answer": "COUCHE",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Loteria de um objeto, mediante sorteio",
+      "answer": "RIFA",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "(Por) Felizmente",
+      "answer": "SORTE",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Cume",
+      "answer": "CIMA",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "(Ingl.) Combustível",
+      "answer": "FUEL",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "650, em algarismos romanos",
+      "answer": "DCL",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Direito",
+      "answer": "JUS",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Quociente Intelectual",
+      "answer": "QI",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "across": {
+    "2": {
+      "clue": "Da ação de desgaste das águas sobre solos (fem.)",
+      "answer": "EROSIVA",
+      "row": 0,
+      "col": 2
+    },
+    "9": {
+      "clue": "(Banana) Sorvete feito com essa fruta e outros ingredientes",
+      "answer": "SPLIT",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Fechar hermeticamente",
+      "answer": "TAPAR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "(das Onze) Um sucesso de Adoniran Barbosa",
+      "answer": "TREM",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Pedaço de mexerica",
+      "answer": "GOMO",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Aspergir água em plantas",
+      "answer": "REGAR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Bruxos, adivinhos",
+      "answer": "MAGOS",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "F",
+      "answer": "EFE",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "O ponto mais alto da Terra, no Himalaia",
+      "answer": "EVEREST",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Belvedere sobre o oceano",
+      "answer": "MIRAMAR",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Área do hospital reservada para doentes que precisam de atenção contínua",
+      "answer": "UTI",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Que deixou o cargo",
+      "answer": "EX",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Efetuar (um movimento)",
+      "answer": "FAZER",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Renato Teixeira, músico paulista de \"Romaria\"",
+      "answer": "RT",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "A doença da pandemia",
+      "answer": "COVID",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Papa de milho",
+      "answer": "CURAU",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Feito sem identificação",
+      "answer": "ANONIMO",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "Implorar a alguém",
+      "answer": "ROGAR",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Uma flor sem perfume",
+      "answer": "DALIA",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "Trabalhar com outrem a mesma tarefa",
+      "answer": "COLABORAR",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Causar tremor físico",
+      "answer": "ESTREMECER",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Escolher por votação",
+      "answer": "ELEGER",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "A combinação de pedestre com campestre",
+      "answer": "RIMA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "(Rád.) Ondas Tropicais",
+      "answer": "OT",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Charme",
+      "answer": "IT",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Perambular",
+      "answer": "VAGAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Fig.) O mais alto grau",
+      "answer": "APOGEU",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Mulher que ganha dinheiro com atos sexuais",
+      "answer": "PROSTITUTA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "A identificação pintada nas aeronaves",
+      "answer": "PREFIXO",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Porção de um produto como prova de sua qualidade",
+      "answer": "AMOSTRA",
+      "row": 1,
+      "col": 9
+    },
+    "16": {
+      "clue": "Mulher que voga",
+      "answer": "REMADORA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "A que se fez jus",
+      "answer": "MERECIDO",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "O sobrenome intermediário do escritor Camões",
+      "answer": "VAZ",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Por fim",
+      "answer": "AFINAL",
+      "row": 5,
+      "col": 3
+    },
+    "26": {
+      "clue": "Dirigir",
+      "answer": "RUMAR",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Que não está ocupado",
+      "answer": "VAGO",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "Ave semelhante à pomba, de pequeno porte",
+      "answer": "ROLA",
+      "row": 7,
+      "col": 8
+    },
+    "34": {
+      "clue": "Ondas Curtas",
+      "answer": "OC",
+      "row": 9,
+      "col": 1
+    },
+    "36": {
+      "clue": "Imposto de Renda",
+      "answer": "IR",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

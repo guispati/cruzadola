@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Reunir, associar",
+      "answer": "AGRUPAR",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "A letra que vale mil em algarismos romanos",
+      "answer": "EME",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "10",
+      "answer": "DEZ",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Santuário religioso francês, onde uma menina relatou a aparição da Virgem Maria",
+      "answer": "LOURDES",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Um sufixo aumentativo",
+      "answer": "ÃO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Fruto amarelo, suculento, com um grande caroço",
+      "answer": "MANGA",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Luana Piovani, atriz",
+      "answer": "LP",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "O estado do menor que perdeu os pais",
+      "answer": "ORFANDADE",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Pessoas em geral",
+      "answer": "GENTE",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "A minhoca como atrativo para peixes",
+      "answer": "ISCA",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Aguardente de cana",
+      "answer": "PINGA",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Buscar",
+      "answer": "CATAR",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "(Geom.) Qualquer das linhas que limitam uma figura plana",
+      "answer": "LADO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Dar cabo de",
+      "answer": "FINAR",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Relativo aos antepassados",
+      "answer": "ANCESTRAL",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Nota Fiscal",
+      "answer": "NF",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Estágio inicial do desenvolvimento de um organismo",
+      "answer": "GERME",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Cobre, elemento químico",
+      "answer": "CU",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Tratamento de doenças",
+      "answer": "TERAPIA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Uma das maiores empresas aéreas do Brasil",
+      "answer": "GOL",
+      "row": 9,
+      "col": 8
+    },
+    "36": {
+      "clue": "Uma saudação entre amigos",
+      "answer": "OLA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Plaqueta que serve de base à porca",
+      "answer": "ARRUELA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Bíbl.) O primeiro homem",
+      "answer": "ADÃO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Estado norte-americano, com capital Atlanta",
+      "answer": "GEORGIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Renée Zellweger, atriz de \"O Diário de Bridget Jones\"",
+      "answer": "RZ",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Fig.) Representação gráfica da estrutura e da organização de alguma coisa",
+      "answer": "PLANTA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Para que lugar?",
+      "answer": "AONDE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Pé-de-galinha",
+      "answer": "RUGA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Espera Deferimento",
+      "answer": "ED",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Substância doce produzida pelas abelhas",
+      "answer": "MEL",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Observar às escondidas",
+      "answer": "ESPIAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Cheio de alegria",
+      "answer": "RADIANTE",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "(Pop.) Indivíduo muito alto",
+      "answer": "MANGONGA",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "(Chave de) Ferramenta para apertar ou afrouxar um parafuso",
+      "answer": "FENDA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Marcar presença",
+      "answer": "ESTAR",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Cacho de cabelo",
+      "answer": "CARACOL",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Aparelho de ginástica, para saltos",
+      "answer": "PLINTO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Suspeitar",
+      "answer": "CISMAR",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Machucar",
+      "answer": "FERIR",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Cebola",
+      "answer": "CEPA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Pequeno molusco de carne muito apreciada",
+      "answer": "LULA",
+      "row": 7,
+      "col": 10
+    },
+    "30": {
+      "clue": "Sabor muito amargo",
+      "answer": "FEL",
+      "row": 8,
+      "col": 1
+    },
+    "34": {
+      "clue": "Renato Aragão, humorista",
+      "answer": "RA",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "A quinta consoante do alfabeto",
+      "answer": "GE",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

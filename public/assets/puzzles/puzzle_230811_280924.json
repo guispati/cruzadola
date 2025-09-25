@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Petróleo bruto",
+      "answer": "NAFTA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "A capital da UF PA",
+      "answer": "BELEM",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Um antônimo de quente",
+      "answer": "FRIO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Fruto de formato parecido com um sino",
+      "answer": "PERA",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Despedaçar com violência",
+      "answer": "LACERAR",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "Vanderlei Luxemburgo, técnico de futebol",
+      "answer": "VL",
+      "row": 2,
+      "col": 9
+    },
+    "14": {
+      "clue": "Dispor do domínio de",
+      "answer": "TER",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Textual",
+      "answer": "LITERAL",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "(Abrev.) Antigo Testamento",
+      "answer": "AT",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "A palavra de quem concorda",
+      "answer": "SIM",
+      "row": 4,
+      "col": 3
+    },
+    "19": {
+      "clue": "(Matem.) Sen",
+      "answer": "SENO",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Desmentir, negar",
+      "answer": "REFUTAR",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Modo de considerar",
+      "answer": "VER",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Um grande companhia aérea internacional",
+      "answer": "EMIRATES",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Erva alimentícia cultivada há mais de 5.000 anos",
+      "answer": "ARROZ",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "(A Praça é) Um programa humorístico",
+      "answer": "NOSSA",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "Uma forma de abreviar o nome do mês 11",
+      "answer": "NOV",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Presilha usada para manusear malas, frasqueiras etc.",
+      "answer": "ALÇA",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Adalgisa Nery (1905-1980), escritora",
+      "answer": "AN",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "A que se pregou fita dobrada",
+      "answer": "DEBRUADO",
+      "row": 9,
+      "col": 1
+    },
+    "37": {
+      "clue": "Exceto, menos, salvo",
+      "answer": "FORA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "A atriz e apresentadora Taís",
+      "answer": "ARAUJO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Nota Fiscal",
+      "answer": "NF",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A atriz Salles",
+      "answer": "ARLETE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Abonar",
+      "answer": "FIAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Psiq.) A sigla de Transtorno Obsessivo-Compulsivo",
+      "answer": "TOC",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Compasso quaternário acentuado, principal característica do rock",
+      "answer": "BEAT",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "São três na Ferrari",
+      "answer": "ERRES",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Paz) A capital da Bolívia",
+      "answer": "LA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O desenhista e escritor Fernandes (1923-2012)",
+      "answer": "MILLOR",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Ter a preferência",
+      "answer": "PRIMAR",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Destinar a uma categoria de privilegiados",
+      "answer": "ELITIZAR",
+      "row": 2,
+      "col": 4
+    },
+    "13": {
+      "clue": "A cantora da Mata, de \"Ainda Bem\"",
+      "answer": "VANESSA",
+      "row": 2,
+      "col": 9
+    },
+    "14": {
+      "clue": "Personagem das selvas, criado entre macacos",
+      "answer": "TARZAN",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Acontecimento desfavorável",
+      "answer": "REVES",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Luta japonesa, disputada entre homens bastante corpulentos",
+      "answer": "SUMO",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Entrar em ebulição",
+      "answer": "FERVER",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Estragar-se (diz-se de alimentos)",
+      "answer": "RANÇAR",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Cantiga sertaneja",
+      "answer": "TOADA",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Instrumento usado para puxar água",
+      "answer": "RODO",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Mensageiro celeste",
+      "answer": "ANJO",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "Astro que fica a aproximadamente 380.000 km da Terra",
+      "answer": "LUA",
+      "row": 8,
+      "col": 5
+    },
+    "35": {
+      "clue": "Sigla do estado com a Chapada Diamantina e a Costa do Sauípe",
+      "answer": "BA",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "Conjunção usada para indicar que um termo exclui outro",
+      "answer": "OU",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

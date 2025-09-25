@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "O sudeste asiático dos tempos antigos",
+      "answer": "INDIAS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Cidade gaúcha na fronteira com o Uruguai",
+      "answer": "BAGE",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "O dobro de DI, nos números romanos",
+      "answer": "MII",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Que versa sobre a morte e assuntos afins",
+      "answer": "MACABRO",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Gordura excessiva na cintura",
+      "answer": "PNEU",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Puro, precioso (diz-se de metal)",
+      "answer": "NOBRE",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "A língua oficial da igreja católica romana",
+      "answer": "LATIM",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Resposta grosseira, bruta",
+      "answer": "COICE",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "Desejosa, ambiciosa",
+      "answer": "AVIDA",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "59, em algarismos romanos",
+      "answer": "LIX",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Novo sem vogais",
+      "answer": "NV",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Dar atenção a",
+      "answer": "OUVIR",
+      "row": 5,
+      "col": 3
+    },
+    "27": {
+      "clue": "Amapá",
+      "answer": "AP",
+      "row": 5,
+      "col": 9
+    },
+    "28": {
+      "clue": "Transferência Eletrônica Disponível",
+      "answer": "TED",
+      "row": 6,
+      "col": 0
+    },
+    "30": {
+      "clue": "A atriz fluminense Leila (1945-1972)",
+      "answer": "DINIZ",
+      "row": 6,
+      "col": 4
+    },
+    "32": {
+      "clue": "Pesquisa",
+      "answer": "EXAME",
+      "row": 7,
+      "col": 0
+    },
+    "34": {
+      "clue": "Manifestação de desagrado",
+      "answer": "APUPO",
+      "row": 7,
+      "col": 6
+    },
+    "36": {
+      "clue": "De outro modo",
+      "answer": "ALIAS",
+      "row": 8,
+      "col": 1
+    },
+    "38": {
+      "clue": "Querer muito bem a",
+      "answer": "AMAR",
+      "row": 8,
+      "col": 7
+    },
+    "39": {
+      "clue": "Dificultar, embaraçar",
+      "answer": "AMARRAR",
+      "row": 9,
+      "col": 0
+    },
+    "41": {
+      "clue": "A atriz Seidl, da TV, cinema e teatro",
+      "answer": "BIA",
+      "row": 9,
+      "col": 8
+    },
+    "42": {
+      "clue": "O contrário de bonita",
+      "answer": "FEIA",
+      "row": 10,
+      "col": 0
+    },
+    "43": {
+      "clue": "O médium e líder espírita mineiro Chico (1910-2002)",
+      "answer": "XAVIER",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Enxerto de dentes artificiais, válvulas cardíacas etc.",
+      "answer": "IMPLANTE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A Simone (1933-2003) cantora de jazz",
+      "answer": "NINA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Regime alimentar",
+      "answer": "DIETA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Símbolo de Amplitude Modulada, uma faixa usada em rádios",
+      "answer": "AM",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Francisco) Cidade dos EUA",
+      "answer": "SAN",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O compositor Lamartine (1904-1963)",
+      "answer": "BABO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Mês do dia da mentira",
+      "answer": "ABRIL",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O país mais ao sul da península balcânica",
+      "answer": "GRECIA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "As vogais de menor",
+      "answer": "EO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Pó branco tóxico",
+      "answer": "COCAINA",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Voz triste e aguda dos cães",
+      "answer": "UIVO",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "Narrar com os mínimos detalhes",
+      "answer": "MIUDEAR",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Analisar",
+      "answer": "EXPLORAR",
+      "row": 3,
+      "col": 10
+    },
+    "21": {
+      "clue": "506, em algarismos romanos",
+      "answer": "DVI",
+      "row": 4,
+      "col": 5
+    },
+    "24": {
+      "clue": "Situação embaraçosa",
+      "answer": "VEXAME",
+      "row": 5,
+      "col": 1
+    },
+    "26": {
+      "clue": "Uma tira de madeira usada em telhados",
+      "answer": "RIPA",
+      "row": 5,
+      "col": 7
+    },
+    "29": {
+      "clue": "O Lama da religião oriental",
+      "answer": "DALAI",
+      "row": 6,
+      "col": 2
+    },
+    "31": {
+      "clue": "Título do chefe de um quilombo",
+      "answer": "ZUMBI",
+      "row": 6,
+      "col": 8
+    },
+    "33": {
+      "clue": "Peça das armas de fogo para auxiliar a dirigir a pontaria",
+      "answer": "MIRA",
+      "row": 7,
+      "col": 3
+    },
+    "35": {
+      "clue": "Uma forma carinhosa da criança chamar seu genitor",
+      "answer": "PAIE",
+      "row": 7,
+      "col": 9
+    },
+    "37": {
+      "clue": "(Red.) Um instrumento do jazz",
+      "answer": "SAX",
+      "row": 8,
+      "col": 5
+    },
+    "39": {
+      "clue": "Air France",
+      "answer": "AF",
+      "row": 9,
+      "col": 0
+    },
+    "40": {
+      "clue": "Renato Aragão, ator e humorista de \"O Trapalhão nas Minas do Rei Salomão\"",
+      "answer": "RA",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

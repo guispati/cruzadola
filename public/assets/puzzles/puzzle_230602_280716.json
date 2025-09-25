@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Tubinho de vidro, plástico ou metal",
+      "answer": "AMPOLA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Carne seca",
+      "answer": "JABA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Colheita",
+      "answer": "CEIFA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Pó para impressoras",
+      "answer": "TONER",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "(Fut.) O mais tradicional rival do Grêmio",
+      "answer": "INTER",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Ficar situado",
+      "answer": "ESTAR",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "O apresentador de TV Marcos",
+      "answer": "MION",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Acostumado",
+      "answer": "AFEITO",
+      "row": 3,
+      "col": 5
+    },
+    "16": {
+      "clue": "Agência Nacional",
+      "answer": "AN",
+      "row": 4,
+      "col": 0
+    },
+    "17": {
+      "clue": "Capital asiática que já foi sede de uma Olimpíada de Verão",
+      "answer": "SEUL",
+      "row": 4,
+      "col": 3
+    },
+    "19": {
+      "clue": "Os doze discípulos de Cristo",
+      "answer": "APOSTOLOS",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "(Lisa) Uma obra de Leonardo da Vinci",
+      "answer": "MONA",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "(Quím.) O astatínio",
+      "answer": "AT",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Espuma usada como isolante térmico",
+      "answer": "ISOPOR",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Pop.) Aglomeração confusa de gente",
+      "answer": "BOLO",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Relativo ao embrião em fase de desenvolvimento",
+      "answer": "FETAL",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Natural da Índia",
+      "answer": "HINDU",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Uma ciência como a matemática e a geometria",
+      "answer": "EXATA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Loja de artigos variados e de pouco valor",
+      "answer": "BAZAR",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Parenta que se opõe à sogra",
+      "answer": "NORA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Casaquinho aberto na frente, normalmente sem gola, que não ultrapassa a cintura",
+      "answer": "BOLERO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Num ponto superior",
+      "answer": "ACIMA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A do olho é como a pupila também é chamada",
+      "answer": "MENINA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Cachimbo",
+      "answer": "PITO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Injuriado, vítima",
+      "answer": "OFENSO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A intimidade familiar",
+      "answer": "LAR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "O ator cearense Wilker (1944-2014)",
+      "answer": "JOSE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Que existiu em outros tempos",
+      "answer": "ANTIGO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A Duda cantora e compositora pernambucana",
+      "answer": "BEAT",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Parceiro do feijão",
+      "answer": "ARROZ",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Material que reveste panelas",
+      "answer": "TEFLON",
+      "row": 1,
+      "col": 6
+    },
+    "15": {
+      "clue": "Pessoa que produz obra literária",
+      "answer": "AUTOR",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Donativo",
+      "answer": "ESMOLA",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Fazer impressão em grandes proporções",
+      "answer": "PLOTAR",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "Do contorno da boca",
+      "answer": "LABIAL",
+      "row": 5,
+      "col": 7
+    },
+    "22": {
+      "clue": "Quitar a dívida",
+      "answer": "SALDAR",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Traço de união entre palavras",
+      "answer": "HIFEN",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Segundo signo",
+      "answer": "TOURO",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "O biológico pode ser masculino ou feminino",
+      "answer": "SEXO",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Pé do boi",
+      "answer": "PATA",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "Cinco mais seis",
+      "answer": "ONZE",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "Canal de filmes da TV paga",
+      "answer": "HBO",
+      "row": 8,
+      "col": 6
+    }
+  }
+}

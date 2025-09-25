@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Ornit.) Mergulhão",
+      "answer": "ATOBA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Fig.) Desordem e confusão",
+      "answer": "BABEL",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Um dado do endereço",
+      "answer": "CEP",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Coloração azulada da pele, por falta de oxigenação",
+      "answer": "CIANOSE",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "(Pej.) Sujeito, indivíduo",
+      "answer": "ELEMENTO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Turíbio Santos, violonista",
+      "answer": "TS",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "A Flavinha ginasta medalhista olímpica",
+      "answer": "SARAIVA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Bebida do martíni",
+      "answer": "GIM",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "(Fam.) Travessura de criança",
+      "answer": "ARTE",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Peça que reduz um tranco",
+      "answer": "MOLA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Espaço de tempo entre dois termos",
+      "answer": "INTERVALO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Em que lugar?",
+      "answer": "ONDE",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Combinação de preposição com pronome",
+      "answer": "NELE",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Muito religioso",
+      "answer": "PIO",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Instalado, equipado",
+      "answer": "MONTADO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Aracy Balabanian, atriz",
+      "answer": "AB",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Que apoia",
+      "answer": "SUSTEDOR",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Aquele que chama para comparecer em juízo",
+      "answer": "CITADOR",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Fut.) Série de dribles",
+      "answer": "OLE",
+      "row": 9,
+      "col": 8
+    },
+    "33": {
+      "clue": "Divindade do candomblé",
+      "answer": "ORIXA",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Equívocos",
+      "answer": "ERROS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Diz-se de abajur ligado",
+      "answer": "ACESO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Painel em que se projetam filmes, diapositivos etc.",
+      "answer": "TELA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O paciente que sofrerá intervenção cirúrgica",
+      "answer": "OPERANDO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Assinatura do devedor em duplicata",
+      "answer": "ACEITE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Veste usada por grávidas",
+      "answer": "BATA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Um detalhe da data",
+      "answer": "ANO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Boletim Oficial",
+      "answer": "BO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Característica pessoal",
+      "answer": "ESTILO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Molusco que deixa uma pista babosa",
+      "answer": "LESMA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Relativo ao inverno",
+      "answer": "INVERNOSO",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "O quarto planeta",
+      "answer": "MARTE",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "(Fut.) Artilheiro",
+      "answer": "GOLEADOR",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Ingrediente da cerveja",
+      "answer": "MALTE",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Tornar difícil",
+      "answer": "INIBIR",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Abdome",
+      "answer": "VENTRE",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Que não é transparente",
+      "answer": "OPACO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "O semáforo possui três",
+      "answer": "CORES",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Planta de viveiro",
+      "answer": "MUDA",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Fraude",
+      "answer": "DOLO",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "(Red.) Instrumento de sopro muito utilizado no jazz",
+      "answer": "SAX",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Uma variação de tu",
+      "answer": "TI",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

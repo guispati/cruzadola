@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Fubá fino, usado em polentas, broas e bolos",
+      "answer": "MIMOSO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Publicação em quadrinhos",
+      "answer": "GIBI",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "A primeira parte de uma viagem",
+      "answer": "IDA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Um sintoma do infarto",
+      "answer": "ANGINA",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Enfraquecimento doentio",
+      "answer": "MORBIDEZ",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Nicolau Copérnico (1473-1543), astrônomo polonês",
+      "answer": "NC",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Ficar vermelho por vergonha",
+      "answer": "CORAR",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Ligante para cimento",
+      "answer": "CAL",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Armação de fios produzidos por aranhas",
+      "answer": "TEIA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Tipo de estepe das zonas tropicais e subtropicais",
+      "answer": "SAVANA",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Hereditário",
+      "answer": "INATO",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Tirar as asperezas da unha",
+      "answer": "LIXAR",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "(Gír.) Fazer desordens",
+      "answer": "ZONEAR",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "A Belmiro é o estádio de futebol do Santos",
+      "answer": "VILA",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Acontecimento com caráter formal",
+      "answer": "ATO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Prefixo de origem latina que significa em excesso",
+      "answer": "SUPER",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "(Mús.) A nota representada pelo D",
+      "answer": "RE",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Forte, robusto",
+      "answer": "VIGOROSO",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Bens, propriedades",
+      "answer": "COISAS",
+      "row": 9,
+      "col": 1
+    },
+    "36": {
+      "clue": "Norma escrita do Estado",
+      "answer": "LEI",
+      "row": 9,
+      "col": 8
+    },
+    "37": {
+      "clue": "O talher que corta",
+      "answer": "FACA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Um ciclo de dias",
+      "answer": "SEMANA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Assumir características de maneira a ser confundido com o ambiente, com outra espécie etc.",
+      "answer": "MIMETIZAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Que foi ou se foi",
+      "answer": "IDO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Relativo ao planeta entre Terra e Júpiter",
+      "answer": "MARCIANO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Ser publicado",
+      "answer": "SAIR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "As formações de água que arrebentam nas praias",
+      "answer": "ONDAS",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O de cera é um material escolar",
+      "answer": "GIZ",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Ingl.) Na moda",
+      "answer": "IN",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Plantação de um fruto que dá em pencas",
+      "answer": "BANANAL",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Lugar mais barato em estádios, circos etc.",
+      "answer": "GERAL",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Casa de diversões, onde se bebe e dança",
+      "answer": "BOATE",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Abertura envidraçada no alto de edifícios, para dar passagem à luz",
+      "answer": "CLARABOIA",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Um tipo de chocalho",
+      "answer": "CAXIROLA",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Coleção de garrafas de vinho",
+      "answer": "ENOTECA",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Morar, residir",
+      "answer": "VIVER",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Área de terra fértil em um deserto",
+      "answer": "OASIS",
+      "row": 5,
+      "col": 4
+    },
+    "26": {
+      "clue": "Um incômodo para pessoas vaidosas",
+      "answer": "RUGAS",
+      "row": 6,
+      "col": 5
+    },
+    "30": {
+      "clue": "A atitude estudada de quem vai ser fotografado ou retratado",
+      "answer": "POSE",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "A Láctea é a nossa galáxia",
+      "answer": "VIA",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "(Trigon.) Símbolo de seno",
+      "answer": "SEN",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "(Sigla) Ondas Curtas",
+      "answer": "OC",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

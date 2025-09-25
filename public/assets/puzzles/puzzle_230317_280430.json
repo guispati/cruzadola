@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Gratuita",
+      "answer": "DADA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Direção oblíqua",
+      "answer": "TRAVES",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "De sabor doce",
+      "answer": "AÇUCARADO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Uma interjeição que indica surpresa",
+      "answer": "NÃO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Jogo de azar, com cartelas numeradas",
+      "answer": "LOTO",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Uma das preposições fundamentais",
+      "answer": "EM",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Centro-Oeste",
+      "answer": "CO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "De uma importante cidade piauiense",
+      "answer": "PICOENSE",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "(Fig.) Centro de interesse",
+      "answer": "FOCO",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Bolo coberto de açúcar ou frutas",
+      "answer": "CUCA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "O Ilustrada músico (1928-2003)",
+      "answer": "NOITE",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Transgredir preceito religioso",
+      "answer": "PECAR",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "O apelido de um dos maiores tenistas que o Brasil já teve",
+      "answer": "GUGA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Próprio do homem",
+      "answer": "VIRIL",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Limpar ou retirar, esfregando",
+      "answer": "RASPAR",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Um sobrenome do escritor português Camões",
+      "answer": "VAZ",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Poeira",
+      "answer": "PO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Máquina para fechar embalagens",
+      "answer": "SELADORA",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Assimilar os alimentos",
+      "answer": "DIGERIR",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Prover de habitantes",
+      "answer": "POVOAR",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Fração do capital de uma sociedade",
+      "answer": "COTA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Ingl.) Salão de baile",
+      "answer": "DANCING",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Fato, acontecimento, notícia",
+      "answer": "AÇÃO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Dupla de cantores ou cantadores",
+      "answer": "DUO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Acre",
+      "answer": "AC",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O dinheiro do porta-moedas",
+      "answer": "TROCO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O animal que pode transmitir a peste bubônica",
+      "answer": "RATO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Cair de cama",
+      "answer": "ADOECER",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Mãe do pai",
+      "answer": "VO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Dispor, visando resultados posteriores",
+      "answer": "SEMEAR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Do país das Maravilhas",
+      "answer": "ALICE",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Subir a lugar alto e difícil, usando meios arriscados",
+      "answer": "ESCALAR",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "O K dos químicos",
+      "answer": "POTASSIO",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Que se alimenta de nozes",
+      "answer": "NUCIVORO",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Sinal que se faz com os dedos, para repelir azares",
+      "answer": "FIGA",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "(Preto) Cidade histórica mineira",
+      "answer": "OURO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Enlouquecer",
+      "answer": "PIRAR",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Ter um preço determinado",
+      "answer": "VALER",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Racha",
+      "answer": "PEGA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Os dois beques, no futebol",
+      "answer": "ZAGA",
+      "row": 7,
+      "col": 10
+    },
+    "29": {
+      "clue": "Redução de popular",
+      "answer": "POP",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Abreviatura de dicionário",
+      "answer": "DIC",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Dráuzio Varella, médico",
+      "answer": "DV",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "across": {
+    "2": {
+      "clue": "Argola de adorno que as mulheres usam em volta do pulso",
+      "answer": "BRACELETE",
+      "row": 0,
+      "col": 2
+    },
+    "10": {
+      "clue": "Colocar obstáculos para dificultar o andamento normal de uma operação",
+      "answer": "SABOTAR",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Que te pertence",
+      "answer": "TEU",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "O colômbio, entre os químicos",
+      "answer": "CB",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Ato de soltar o nó ou nós de",
+      "answer": "DESATE",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Nascida no país cuja capital é Bucareste",
+      "answer": "ROMENA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Cetáceo domesticado em aquários para diversão humana",
+      "answer": "ORCA",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Treinar (animais) para espetáculos",
+      "answer": "AMESTRAR",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "As consoantes de aluno",
+      "answer": "LN",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Hábito nocivo",
+      "answer": "VICIO",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Mulher que goza de boa saúde",
+      "answer": "SADIA",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "(Fem.) Sufixo diminutivo",
+      "answer": "INHA",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "O músculo do muque",
+      "answer": "BICEPS",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Um tempo como terça-feira",
+      "answer": "DIA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "O astrônomo italiano Galileu (1564-1642)",
+      "answer": "GALILEI",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Um sufixo aumentativo",
+      "answer": "ÃO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "(Pop.) Pessoa simplória, boba",
+      "answer": "PANACA",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Um parente que poucos chegam a conhecer",
+      "answer": "TATARAVO",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "(Sem) Singular, ímpar",
+      "answer": "IGUAL",
+      "row": 10,
+      "col": 1
+    },
+    "35": {
+      "clue": "(Fig.) Incivil, descortês",
+      "answer": "SECO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Servidão, cativeiro",
+      "answer": "ESCRAVIDÃO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Banco do Brasil",
+      "answer": "BB",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "O antigo nome do Zimbábue, país africano",
+      "answer": "RODESIA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Que está concentrado",
+      "answer": "ATENTO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Depositar o dinheiro da aposta",
+      "answer": "CASAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Época histórica",
+      "answer": "ERA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Um fluido solvente e antisséptico",
+      "answer": "ETER",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Uma consoante linguodental",
+      "answer": "TE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Morte provocada voluntariamente por finalidades humanitárias",
+      "answer": "EUTANASIA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Grande reprovação",
+      "answer": "ABOMINIO",
+      "row": 1,
+      "col": 1
+    },
+    "15": {
+      "clue": "As vértebras que ficam logo acima das lombares",
+      "answer": "TORACICAS",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Porção de cabelos",
+      "answer": "MECHA",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Prendedor para folhas avulsas",
+      "answer": "CLIPE",
+      "row": 3,
+      "col": 9
+    },
+    "21": {
+      "clue": "Abrigar em instituição de caridade",
+      "answer": "ASILAR",
+      "row": 4,
+      "col": 6
+    },
+    "25": {
+      "clue": "Tecido cuja cor manchada imita um tecido desbotado",
+      "answer": "DELAVE",
+      "row": 5,
+      "col": 8
+    },
+    "27": {
+      "clue": "De nenhuma gravidade intrínseca",
+      "answer": "BANAL",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "Felina",
+      "answer": "GATA",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "O que dá em Chico também dá em Francisco, segundo o ditado",
+      "answer": "PAU",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "(Matem.) Abreviatura de tangente trigonométrica",
+      "answer": "TG",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "(Rád.) Ondas Curtas",
+      "answer": "OC",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

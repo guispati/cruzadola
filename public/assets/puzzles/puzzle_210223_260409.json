@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Pequena ulceração bucal",
+      "answer": "AFTA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Afecção cutânea de vírus, que forma vesículas",
+      "answer": "HERPES",
+      "row": 0,
+      "col": 5
+    },
+    "11": {
+      "clue": "Uma sobra da pipoca estourada",
+      "answer": "PIRUA",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Uma raça de gatos",
+      "answer": "PERSA",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Aparelho para transmissão de dados",
+      "answer": "MODEM",
+      "row": 2,
+      "col": 1
+    },
+    "16": {
+      "clue": "Inflamação dolorosa das juntas",
+      "answer": "GOTA",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "Imobilizar",
+      "answer": "PARALISAR",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "O maior rio do mundo",
+      "answer": "AMAZONAS",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Região Administrativa",
+      "answer": "RA",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "(Quím.) Tântalo",
+      "answer": "TA",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Antecede o sétimo",
+      "answer": "SEXTO",
+      "row": 5,
+      "col": 4
+    },
+    "25": {
+      "clue": "Cortar o bolo em pequenos pedaços",
+      "answer": "ESFATIAR",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Gilberto Gil, músico baiano",
+      "answer": "GG",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "Acampar",
+      "answer": "ABARRACAR",
+      "row": 7,
+      "col": 2
+    },
+    "32": {
+      "clue": "O cachorro do Mickey",
+      "answer": "PLUTO",
+      "row": 8,
+      "col": 1
+    },
+    "33": {
+      "clue": "Suporte para anéis",
+      "answer": "DEDO",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Banda ou tira pintada em parede",
+      "answer": "FRISO",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Boas maneiras",
+      "answer": "MODOS",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "B, elemento químico",
+      "answer": "BORO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Mentira",
+      "answer": "LOROTA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Amapá",
+      "answer": "AP",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O antônimo de começo",
+      "answer": "FIM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Conjunto de soldados",
+      "answer": "TROPA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Aquele que não teme o perigo",
+      "answer": "AUDAZ",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "Eliana Pittman, cantora carioca",
+      "answer": "EP",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Medidor",
+      "answer": "REGISTRADOR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Vantagens",
+      "answer": "PROS",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Um tipo de sala",
+      "answer": "ESTAR",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "O maior deserto do mundo",
+      "answer": "SAARA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Veículo mais leve que o ar",
+      "answer": "AEROSTATO",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Fácil de manejar",
+      "answer": "MANEIRO",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Dar sucessivas pancadas em",
+      "answer": "BATER",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Afrouxar",
+      "answer": "LAXAR",
+      "row": 3,
+      "col": 6
+    },
+    "21": {
+      "clue": "Uma conjunção adversativa",
+      "answer": "MAS",
+      "row": 4,
+      "col": 1
+    },
+    "26": {
+      "clue": "Quebrar, ir à bancarrota",
+      "answer": "FALIR",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Excesso, na bebida, na comida, no poder",
+      "answer": "ABUSO",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "A Gal atriz israelense de \"Mulher-Maravilha\"",
+      "answer": "GADOT",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "144 unidades",
+      "answer": "GROSA",
+      "row": 6,
+      "col": 10
+    },
+    "31": {
+      "clue": "Nas primeiras horas do dia",
+      "answer": "CEDO",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "(Pop.) Para + o",
+      "answer": "PRO",
+      "row": 8,
+      "col": 1
+    },
+    "34": {
+      "clue": "Fátima Bernardes, jornalista e apresentadora de TV",
+      "answer": "FB",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Pedra usada para amolar facas",
+      "answer": "MO",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

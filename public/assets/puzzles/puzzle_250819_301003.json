@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Preparado para cortar linhas de pipas",
+      "answer": "CEROL",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Grande multinacional de eletroeletrônicos",
+      "answer": "SHARP",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Que é tolo, tonto",
+      "answer": "ABOBADO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Uma das peças do xadrez",
+      "answer": "REI",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Um caminhão",
+      "answer": "BAU",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Canal de tevê especializado em filmes",
+      "answer": "CINEMAX",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "(Trainer) Um treinador particular",
+      "answer": "PERSONAL",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Labaredas",
+      "answer": "CHAMAS",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Doze menos nove",
+      "answer": "TRES",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "(Coq Sportif) Marca de materiais esportivos",
+      "answer": "LE",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Aparelho manual ou mecânico que serve para imprimir",
+      "answer": "PRELO",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "A última e a primeira letra do alfabeto",
+      "answer": "ZA",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "O exercício de uma profissão, conforme as normas",
+      "answer": "ARTE",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Plantação do fruto do qual se extrai uma castanha",
+      "answer": "CAJUAL",
+      "row": 6,
+      "col": 5
+    },
+    "30": {
+      "clue": "Cavaleiro",
+      "answer": "MONTADOR",
+      "row": 7,
+      "col": 1
+    },
+    "32": {
+      "clue": "(Geom. Anal.) Uma curva que representa determinada função trigonométrica",
+      "answer": "SENOIDE",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Uma conexão do computador",
+      "answer": "USB",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "Sem exceção de",
+      "answer": "ATE",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Comparsa",
+      "answer": "COAUTOR",
+      "row": 9,
+      "col": 4
+    },
+    "38": {
+      "clue": "Erva de flores rosa-púrpura usada em óleos aromáticos",
+      "answer": "NARDO",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Nova utilização",
+      "answer": "REUSO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Música que ficou muito famosa na voz de Nelson Gonçalves",
+      "answer": "CABOCLA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Interjeição de alegria, admiração",
+      "answer": "EBA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Vestuário",
+      "answer": "ROUPA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Othon Bastos, ator baiano",
+      "answer": "OB",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Pôr fecho",
+      "answer": "LACRAR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Vontade de dormir",
+      "answer": "SONO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Munir ou prover com armas de fogo ou assemelhados",
+      "answer": "ARMAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Grandeza",
+      "answer": "REALEZA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Uma forma de pagar e transferir valores",
+      "answer": "PIX",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Fig.) Analisado detalhadamente",
+      "answer": "DISSECADO",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Náuseas ou desejos que a mulher sente no período da gravidez",
+      "answer": "ENTOJO",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Ato de deformar a madeira por ação do calor ou da umidade",
+      "answer": "EMPENO",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Um tipo de pedestal para esculturas",
+      "answer": "HERMETA",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "De gosto parecido com o da água do mar",
+      "answer": "SALOBRO",
+      "row": 4,
+      "col": 10
+    },
+    "24": {
+      "clue": "Correr paralelo a",
+      "answer": "LADEAR",
+      "row": 5,
+      "col": 6
+    },
+    "27": {
+      "clue": "Pó para impressoras a laser",
+      "answer": "TONER",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "Uma cobra de veneno muito violento",
+      "answer": "URUTU",
+      "row": 6,
+      "col": 8
+    },
+    "31": {
+      "clue": "Um pouquinho",
+      "answer": "TICO",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "(Lorenzo) Time do futebol argentino",
+      "answer": "SAN",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "(A) Sem companhia",
+      "answer": "SOS",
+      "row": 8,
+      "col": 9
+    },
+    "37": {
+      "clue": "União Europeia",
+      "answer": "UE",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

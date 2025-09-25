@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um jogo com raquetes e bola",
+      "answer": "FRESCOBOL",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Ler de novo",
+      "answer": "RELER",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "A garota de uma fábula de Lewis Carroll",
+      "answer": "ALICE",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "O símbolo químico do astatínio",
+      "answer": "AT",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Protestar contra ato considerado injusto",
+      "answer": "RECLAMAR",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "O Zé da campanha de vacinação",
+      "answer": "GOTINHA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "(Stop) Nas corridas, parada para abastecimento e manutenção",
+      "answer": "PIT",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "A linha sem sinuosidades",
+      "answer": "RETA",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Os LPs possuiam o A e o B",
+      "answer": "LADO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Promovido, estimulado",
+      "answer": "FOMENTADO",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "(Água-) Caravela",
+      "answer": "VIVA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Fig.) Habilidade, jeito",
+      "answer": "TATO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Pequena argola",
+      "answer": "ELO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Obra de alvenaria em que não há barro ou argamassa",
+      "answer": "MACERIA",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Sazonar",
+      "answer": "AMADURAR",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Aracy Balabanian, atriz",
+      "answer": "AB",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "(Cheio de) Com muitas frescuras",
+      "answer": "DEDOS",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Um objeto como o Up ou o Uno",
+      "answer": "CARRO",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Abrigar do frio ou da chuva",
+      "answer": "AGASALHAR",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A atriz e humorista Denise",
+      "answer": "FRAGA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O ângulo de 90 graus",
+      "answer": "RETO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Eriberto Leão, ator paulista",
+      "answer": "EL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Ave pernalta de grito estridente",
+      "answer": "SERIEMA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Religioso",
+      "answer": "CRENTE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Trem-) Um transporte de alta velocidade",
+      "answer": "BALA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Saudação jovial ao se encontrar alguém",
+      "answer": "OLA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O de para-brisas facilita a visibilidade ao motorista em caso de chuva",
+      "answer": "LIMPADOR",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "A pequena distância",
+      "answer": "PERTO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Abatido, derrubado",
+      "answer": "CAIDO",
+      "row": 1,
+      "col": 9
+    },
+    "15": {
+      "clue": "Reproduzir por estaca",
+      "answer": "CHANTAR",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Grande estrondo",
+      "answer": "TROVOADA",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "Que está ao lado",
+      "answer": "LATERAL",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Uma obra como \"Avatar\" ou \"Titanic\"",
+      "answer": "FILME",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Comida paraense inspirado numa receita indígena",
+      "answer": "TACACA",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Animal com chifres, pernas longas e cauda curta",
+      "answer": "VEADO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Gosto",
+      "answer": "SABOR",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "A mulher amada, fonte de inspiração de um poeta",
+      "answer": "MUSA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "(AM) Mãe-d'água",
+      "answer": "IARA",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Cão, em inglês",
+      "answer": "DOG",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Um fator de hereditariedade",
+      "answer": "RH",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

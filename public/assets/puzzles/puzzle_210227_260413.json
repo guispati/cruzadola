@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um dos maiores nomes do futebol mundial",
+      "answer": "MESSI",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Panqueca com variados recheios doces ou salgados",
+      "answer": "CREPE",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Uma das formas de iluminação de um automóvel",
+      "answer": "LUZBAIXA",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Sigla do estado de Ribeirão Preto e Rio Claro",
+      "answer": "SP",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Parecer com o qual o perito expõe as suas conclusões",
+      "answer": "LAUDO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Tório, elemento químico",
+      "answer": "TH",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Elemento de composição: metade",
+      "answer": "SEMI",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Peso que dá estabilidade ao barco",
+      "answer": "LASTRO",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "O músico Guilherme, de \"Brincar de Viver\"",
+      "answer": "ARANTES",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "O cineasta Howard, de \"O Código Da Vinci\"",
+      "answer": "RON",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "(Gír.) Estar caído por",
+      "answer": "GAMAR",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Um veículo para a neve",
+      "answer": "TRENO",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "Impulso",
+      "answer": "ELÃ",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Consentir em fazer próprio o que é oferecido",
+      "answer": "ACEITAR",
+      "row": 6,
+      "col": 4
+    },
+    "29": {
+      "clue": "(Med.) Tendência hereditária a desenvolver manifestações alérgicas, como rinites e asma, por exemplo",
+      "answer": "ATOPIA",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Escolha do café",
+      "answer": "CATA",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Sílaba que se repete em charivari",
+      "answer": "RI",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Caiapó ou tupinambá",
+      "answer": "INDIO",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Se repetem em corporal",
+      "answer": "OR",
+      "row": 8,
+      "col": 9
+    },
+    "36": {
+      "clue": "Um cultor da sétima arte",
+      "answer": "CINEASTA",
+      "row": 9,
+      "col": 1
+    },
+    "39": {
+      "clue": "Filme exibido em capítulos",
+      "answer": "SERIE",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Osso do final da coluna",
+      "answer": "SACRO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Fazer fricções terapêuticas no corpo",
+      "answer": "MASSAGEAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "As consoantes em Seul",
+      "answer": "SL",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Mulher nascida no Rio Grande do Sul, Santa Catarina ou Paraná",
+      "answer": "SULINA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "A cantora do sucesso \"Pesadão\"",
+      "answer": "IZA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Peça da popa do navio onde se prende o eixo do leme",
+      "answer": "CADASTE",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "O Sena e o Tâmisa cortam grandes cidades europeias",
+      "answer": "RIOS",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Abreviatura de exemplo",
+      "answer": "EX",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Instituição que abriga e educa menores",
+      "answer": "PATRONATO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Vaso de serviço de chá",
+      "answer": "BULE",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Ato de menino travesso, traquinas",
+      "answer": "PERALTICE",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Remuneração profissional",
+      "answer": "HONORARIO",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Um fruto consumido no café da manhã",
+      "answer": "MAMÃO",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Artimanha que se utiliza para conseguir um objetivo",
+      "answer": "TRETA",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "(Ingl.) Um cargo para treinamento especializado",
+      "answer": "TRAINEE",
+      "row": 4,
+      "col": 4
+    },
+    "25": {
+      "clue": "Um queijo fresco",
+      "answer": "RICOTA",
+      "row": 5,
+      "col": 7
+    },
+    "28": {
+      "clue": "Termo que designa individualmente os elementos que formam um conjunto",
+      "answer": "CADA",
+      "row": 6,
+      "col": 5
+    },
+    "30": {
+      "clue": "Elemento de composição: pinheiro",
+      "answer": "PINI",
+      "row": 7,
+      "col": 3
+    },
+    "34": {
+      "clue": "Imposto Sobre Serviços",
+      "answer": "ISS",
+      "row": 8,
+      "col": 6
+    },
+    "37": {
+      "clue": "Caminhar daqui para lá",
+      "answer": "IR",
+      "row": 9,
+      "col": 2
+    },
+    "38": {
+      "clue": "Altamiro Carrilho, flautista carioca",
+      "answer": "AC",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Duarte) Cidade mineira próxima a Juiz de Fora",
+      "answer": "LIMA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Cortar os cereais",
+      "answer": "CEIFAR",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "(Mar.) Ato de atracar um navio a um ponto de terra",
+      "answer": "ABORDO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "A minha filha, em relação ao meu pai",
+      "answer": "NETA",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Animal invertebrado parecido com uma minhoca",
+      "answer": "VERME",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Gír.) Estar caído por",
+      "answer": "GAMAR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Baile onde predominam músicas como o forró, o samba etc.",
+      "answer": "ARRASTAPE",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Voz dos pássaros",
+      "answer": "PIO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Cingir, orlar",
+      "answer": "CINTAR",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Emenda Constitucional",
+      "answer": "EC",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "(À) Uma forma de servir o arroz",
+      "answer": "GREGA",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Unidade da Federação",
+      "answer": "UF",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Reduz-se com a lubrificação",
+      "answer": "ATRITO",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "O sinal que nasala algumas vogais",
+      "answer": "TIL",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Que é mentalmente pouco desenvolvido em relação à sua idade",
+      "answer": "RETARDADO",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Um gesto de afeto",
+      "answer": "AFAGO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Devolver",
+      "answer": "REPOR",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Juízo, siso",
+      "answer": "TINO",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "(-negra) Partidário do fascismo italiano",
+      "answer": "CAMISA",
+      "row": 9,
+      "col": 5
+    },
+    "35": {
+      "clue": "Expelir de forma brusca e barulhenta o ar contido nos pulmões",
+      "answer": "TOSSIR",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Vocal",
+      "answer": "ORAL",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Formiga pequena, avermelhada, de ferroada dolorosa",
+      "answer": "LAVAPE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A península que compreende Portugal, Espanha e Andorra",
+      "answer": "IBERICA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O dos Ventos Uivantes é uma famosa obra da britânica Emily Brontë",
+      "answer": "MORRO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Míssil ou faca",
+      "answer": "ARMA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A abreviatura da região com MT e o DF",
+      "answer": "CO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Incapaz para certo serviço (fem.)",
+      "answer": "INAPTA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Ser do sexo feminino",
+      "answer": "FEMEA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Documento de uma reunião, escrito pelo secretário",
+      "answer": "ATA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Que não se encontra facilmente",
+      "answer": "RARO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Contado, exposto ou narrado minuciosamente",
+      "answer": "DESCRITO",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Um dos brinquedos dos parques infantis",
+      "answer": "GANGORRA",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Personagem de Jorge Amado",
+      "answer": "TIETA",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Barulhenta",
+      "answer": "RUIDOSA",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Homens nascidos no país europeu que tem Atenas como capital",
+      "answer": "GREGOS",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Uma substância usada em tratamentos para problemas emocionais",
+      "answer": "FLORAL",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Prefixo: além de, depois de",
+      "answer": "TRANS",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Grande animal da fauna brasileira",
+      "answer": "TAPIR",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "(Eletr.) Unidade de medida",
+      "answer": "WATT",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Ingl.) Diz-se de clipe feito para apresentação comercial",
+      "answer": "DEMO",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "(Bater um) Telefonar",
+      "answer": "FIO",
+      "row": 8,
+      "col": 1
+    },
+    "34": {
+      "clue": "Cromo, elemento químico",
+      "answer": "CR",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

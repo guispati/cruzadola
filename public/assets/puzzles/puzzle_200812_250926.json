@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um mosquito miúdo e incômodo",
+      "answer": "PIUM",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Expressar o próprio ponto de vista",
+      "answer": "OPINAR",
+      "row": 0,
+      "col": 5
+    },
+    "11": {
+      "clue": "(Pop.) Travessura, traquinagem",
+      "answer": "ARTE",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Que tem dois ângulos",
+      "answer": "DIGONO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "O Amazonas e o Nilo são os maiores do mundo",
+      "answer": "RIOS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Abelha que exala cheiro de limão e produz mel suave e tóxico",
+      "answer": "ARATIM",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "As iniciais do ator baiano Irving",
+      "answer": "ISP",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Engraçadinho",
+      "answer": "GRAÇOLA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Músico de \"Hoje\" e \"Paz do Meu Amor\" (1945-1996)",
+      "answer": "TAIGUARA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Armação para expor roupas em lojas",
+      "answer": "ARARA",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "O mês em que Tiradentes foi enforcado",
+      "answer": "ABRIL",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Ave do cerrado brasileiro, ameaçada de extinção",
+      "answer": "ARARAUNA",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Interação entre biologia e engenharia",
+      "answer": "BIONICA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Federação Internacional de Boxe",
+      "answer": "FIB",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Barranco",
+      "answer": "RAVINA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "A cantora Ramalho, de \"Canta Coração\"",
+      "answer": "ELBA",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Aquele que liga",
+      "answer": "ATADOR",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Afastar-se (da rota)",
+      "answer": "SAIR",
+      "row": 9,
+      "col": 7
+    },
+    "34": {
+      "clue": "Cuidadosa, diligente",
+      "answer": "ZELOSA",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Desvio do caminho correto, apropriado",
+      "answer": "ERRO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Cerca de varas, nos rios, para apanhar peixe",
+      "answer": "PARITA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Colorir com as cores do arco-íris",
+      "answer": "IRISAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um oposto de realidade",
+      "answer": "UTOPIA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Maio ou setembro",
+      "answer": "MES",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Um sucesso de Caetano Veloso",
+      "answer": "ODARA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Grande bagre da Amazônia",
+      "answer": "PIRARARA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Recipiente de barro, de boca larga, usado para guardar líquidos, alimentos etc.",
+      "answer": "IGAÇABA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Que se tornou conhecido",
+      "answer": "NOTO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Índigo",
+      "answer": "ANIL",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "O centro da civilização latina",
+      "answer": "ROMA",
+      "row": 0,
+      "col": 10
+    },
+    "16": {
+      "clue": "Cidade goiana da região de Ceres",
+      "answer": "GUARINOS",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Aspereza na superfície de certos papéis",
+      "answer": "GRANIDO",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Fazer tremular",
+      "answer": "RUFLAR",
+      "row": 5,
+      "col": 8
+    },
+    "22": {
+      "clue": "Tornar difícil",
+      "answer": "INIBIR",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Bandeira, estandarte",
+      "answer": "LABARO",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Bolo à base de feijão fradinho, típico da BA",
+      "answer": "ACARA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "O atleta Thiago, atual campeão olímpico no salto com vara",
+      "answer": "BRAZ",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Um barco de recreio",
+      "answer": "IATE",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "A forma do circuito de corrida de Indianápolis, nos EUA",
+      "answer": "OVAL",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "Abreviatura do ponto cardeal és-sudeste",
+      "answer": "ESE",
+      "row": 8,
+      "col": 7
+    }
+  }
+}

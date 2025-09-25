@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ponto alto dos Andes",
+      "answer": "ACONCAGUA",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Povo que vive na fronteira entre o Iraque e a Turquia",
+      "answer": "CURDO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Ligada, presa",
+      "answer": "UNIDA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Devolução",
+      "answer": "RECAMBIO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "O astatínio, em química",
+      "answer": "AT",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Vazia",
+      "answer": "OCA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "O Peter que desafia o perverso Capitão Gancho",
+      "answer": "PAN",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Pudim feito de leite e ovos, assado em forno",
+      "answer": "FLÃ",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Sigla da Bahia",
+      "answer": "BA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Planta de flores cor-de-rosa ou azuladas",
+      "answer": "LOBELIA",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "(Gotham) A cidade de Batman e Robin",
+      "answer": "CITY",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Próximo",
+      "answer": "AFIM",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "Passagem de luz no teto de construções",
+      "answer": "CLARABOIA",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "(Amaz.) Sereia de rios e lagos",
+      "answer": "IARA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Momento peculiar ao desenvolvimento de uma civilização",
+      "answer": "ERA",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "Ricardo Tozzi, ator paulista",
+      "answer": "RT",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Cada capítulo de uma peça de teatro",
+      "answer": "ATO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Ingl.) Vermelho",
+      "answer": "RED",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Colocar em posição adequada",
+      "answer": "POR",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Que não foi atendido",
+      "answer": "INDEFERIDO",
+      "row": 9,
+      "col": 1
+    },
+    "37": {
+      "clue": "Palavra japonesa que indica o quinto gosto",
+      "answer": "UMAMI",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "(Gregório de) Poeta baiano (1623-1696), importante nome da literatura",
+      "answer": "MATOS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Manobra espetacular e arriscada",
+      "answer": "ACROBACIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Roupa de baixo",
+      "answer": "CUECA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Uma baleia",
+      "answer": "ORCA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Opção de resposta em provas",
+      "answer": "NDA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Conserva de frutos em calda de açúcar",
+      "answer": "COMPOTA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Nação cuja capital é Conacri",
+      "answer": "GUINE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Um jogo de cartas com números e cores",
+      "answer": "UNO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Grito que expressa dor",
+      "answer": "AI",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O príncipe dos demônios",
+      "answer": "SATÃ",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "O Lama tibetano",
+      "answer": "DALAI",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "(Ingl.) Carne de novilho não castrado e engordado",
+      "answer": "BABYBEEF",
+      "row": 2,
+      "col": 5
+    },
+    "18": {
+      "clue": "Sigla da mais importante federação internacional de futebol",
+      "answer": "FIFA",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Banda de música sob a direção de um maestro",
+      "answer": "LIRA",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Categoria, em tom depreciativo",
+      "answer": "LAIA",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Pessoa que viaja por favor",
+      "answer": "CARONA",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "A torre Eiffel tem 300 de altura",
+      "answer": "METROS",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Língua antiga, ainda usada em partes de missas",
+      "answer": "LATIM",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "(e Progresso) O lema da bandeira nacional",
+      "answer": "ORDEM",
+      "row": 6,
+      "col": 6
+    },
+    "30": {
+      "clue": "Puxa a água para o ralo",
+      "answer": "RODO",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "O cá do baralho",
+      "answer": "REI",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "(Stop) Abastecimento e manutenção nas corridas",
+      "answer": "PIT",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "Diego Maradona (1960-2020), ídolo do futebol",
+      "answer": "DM",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "Rádio, elemento químico",
+      "answer": "RA",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

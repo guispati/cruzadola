@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Imposto sobre a Propriedade de Veículos Automotores",
+      "answer": "IPVA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Um estilo de jazz",
+      "answer": "BEBOP",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Negociador de objetos de arte",
+      "answer": "MARCHAND",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Receita Federal",
+      "answer": "RF",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "(Pop.) Perda total",
+      "answer": "PT",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O animal inimigo de Chapeuzinho Vermelho",
+      "answer": "LOBO",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Abreviatura de telefone",
+      "answer": "TEL",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Dia a dia padrão",
+      "answer": "ROTINA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Camada superior do solo, com muita matéria orgânica",
+      "answer": "HUMO",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Aliviar um impacto",
+      "answer": "AMORTECER",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "(Rel.) Transgredir a ordem moral",
+      "answer": "PECAR",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Sabor acre",
+      "answer": "AMARO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Revestir com certo material de construção e de trabalho",
+      "answer": "EMADEIRAR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Ferramenta para ajuntar sal nas salinas",
+      "answer": "RODO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Estabelecimento que comercializa medicamentos",
+      "answer": "BOTICA",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "Liga metálica muito resistente à corrosão",
+      "answer": "AÇO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Red.) Violoncelo",
+      "answer": "CELO",
+      "row": 8,
+      "col": 4
+    },
+    "31": {
+      "clue": "Hemisfério Norte",
+      "answer": "HN",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Um anfíbio comestível",
+      "answer": "RÃ",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Cidade do Paraná, próxima a Ponta Grossa",
+      "answer": "CARAMBEI",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Região da escápula",
+      "answer": "OMBRO",
+      "row": 10,
+      "col": 1
+    },
+    "36": {
+      "clue": "A maré oposta à baixa",
+      "answer": "ALTA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Censurar",
+      "answer": "IMPROPERAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Uma ave que grasna",
+      "answer": "PATO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "As consoantes de Vera",
+      "answer": "VR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Adaptado a um novo meio",
+      "answer": "ACLIMADO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Salivar",
+      "answer": "BABAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Prefixo: vinho",
+      "answer": "ENO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "As letras separadas pelo C",
+      "answer": "BD",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Fazer pressão sobre",
+      "answer": "PREMER",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "O escritor francês de Balzac (1799-1850)",
+      "answer": "HONORE",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Loucura pelas flores",
+      "answer": "FLOROMANIA",
+      "row": 1,
+      "col": 10
+    },
+    "15": {
+      "clue": "Outro nome da castanha-do-pará",
+      "answer": "TUCARI",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Atirado com força",
+      "answer": "TACADO",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Uma consequência da contusão",
+      "answer": "HEMATOMA",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Tambor usado nas bandas de música",
+      "answer": "TAROLA",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Momento de instabilidade psíquica",
+      "answer": "EMOÇÃO",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Da região de Portugal e Espanha",
+      "answer": "IBERO",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "O músico de jazz Baker (1929-1988)",
+      "answer": "CHET",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Carro, em inglês",
+      "answer": "CAR",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Colômbio, elemento químico",
+      "answer": "CB",
+      "row": 9,
+      "col": 3
+    },
+    "34": {
+      "clue": "Béla Lugosi (1882-1956), ator romeno, o \"Drácula\"",
+      "answer": "BL",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

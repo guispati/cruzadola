@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "O beliche possui duas",
+      "answer": "CAMAS",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Recente",
+      "answer": "JOVEM",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "O centro do... holofote",
+      "answer": "OF",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O bisavô do vô",
+      "answer": "TATARAVO",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Um tipo de conjunto canoro",
+      "answer": "VOCAL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Soltar (o cão) a sua voz",
+      "answer": "UIVAR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "O Ir dos químicos",
+      "answer": "IRIDIO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Galpão da estação de estrada de ferro",
+      "answer": "GARE",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "O ator estadunidense Matt, de \"O Talentoso Ripley\"",
+      "answer": "DAMON",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "O ator, diretor e produtor de cinema Costner",
+      "answer": "KEVIN",
+      "row": 4,
+      "col": 6
+    },
+    "19": {
+      "clue": "Uma parte do estômago dos ruminantes",
+      "answer": "ABOMASO",
+      "row": 5,
+      "col": 4
+    },
+    "21": {
+      "clue": "Coisas contrárias, opostas",
+      "answer": "AVESSAS",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Armadilha para pegar pássaros",
+      "answer": "RELA",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Pequena cidade mineira da região de Muriaé",
+      "answer": "TOMBOS",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "Coser a pontos largos, preparando para a costura final",
+      "answer": "ALINHAVAR",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Flor (da água)",
+      "answer": "TONA",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Uma população da Índia e do Sri Lanka",
+      "answer": "TAMEIS",
+      "row": 9,
+      "col": 5
+    },
+    "33": {
+      "clue": "O oposto de sorte",
+      "answer": "AZAR",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Fig.) Porta-voz",
+      "answer": "ARAUTO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Sigla para a doença responsável pela atual pandemia",
+      "answer": "COVID",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Salvo",
+      "answer": "AFORA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ligado, preso",
+      "answer": "ATADO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Instalações para a produção do tempero mais usado",
+      "answer": "SALINAS",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Andaime suspenso, usado em trabalhos externos",
+      "answer": "JAU",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "O que provoca ou determina uma atitude, um fato, a existência de algo",
+      "answer": "ORIGEM",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Pop.) Agitação, tumulto",
+      "answer": "VAVAVA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O jornalista e apresentador Costa",
+      "answer": "EVARISTO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Perito) Uma grande geleira da América do Sul",
+      "answer": "MORENO",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Uma obra de Shakespeare",
+      "answer": "CIMBELINA",
+      "row": 2,
+      "col": 2
+    },
+    "18": {
+      "clue": "Do país europeu cuja capital é Pristina",
+      "answer": "KOSOVAR",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "A palha acompanha o estrogonofe",
+      "answer": "BATATA",
+      "row": 5,
+      "col": 5
+    },
+    "21": {
+      "clue": "Indígena das margens dos afluentes do Xingu",
+      "answer": "ARATA",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "Rápido, ligeiro",
+      "answer": "VELOZ",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Tornar são",
+      "answer": "SANAR",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Órgão animal capaz de secretar leite",
+      "answer": "MAMA",
+      "row": 7,
+      "col": 7
+    },
+    "27": {
+      "clue": "Material para calafetar embarcações",
+      "answer": "BREU",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Bom senso",
+      "answer": "SISO",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "Filme de terror baseado num livro de Stephen King (2017)",
+      "answer": "IT",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

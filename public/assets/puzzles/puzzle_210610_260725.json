@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Propriedades pessoais",
+      "answer": "BENS",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "A fêmea da ave perdigão",
+      "answer": "PERDIZ",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Lente de aumento",
+      "answer": "LUPA",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Voz prolongada dos cães",
+      "answer": "UIVO",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "As consoantes de laquê",
+      "answer": "LQ",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Pequena ferida",
+      "answer": "PEREBA",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "A sigla do país com o Grand Canyon",
+      "answer": "EUA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Forte moeda do mercado internacional",
+      "answer": "IENE",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "(Ingl.) Mister",
+      "answer": "MR",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "Horror à vida ou ao regime militar, ou aos militares em geral",
+      "answer": "MILITOFOBIA",
+      "row": 4,
+      "col": 0
+    },
+    "23": {
+      "clue": "Pedaço de tronco de árvore",
+      "answer": "CEPO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Os laterais do futebol",
+      "answer": "ALAS",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Relação que há ou se desenvolve entre amigos",
+      "answer": "CAMARADAGEM",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Muda teia para teoria",
+      "answer": "OR",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Nenhuma coisa",
+      "answer": "NADA",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Círculo metálico que envolve uma roda de veículo",
+      "answer": "ARO",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Que tem muitos pelos",
+      "answer": "PELUDO",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "O símbolo do elemento químico ósmio",
+      "answer": "OS",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "(das Onze) Um sucesso da MPB",
+      "answer": "TREM",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Que não obedece bem aos comandos",
+      "answer": "BOBO",
+      "row": 9,
+      "col": 5
+    },
+    "38": {
+      "clue": "Modo de viver",
+      "answer": "ESTADO",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Lição de um professor",
+      "answer": "AULA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A capital do PA",
+      "answer": "BELEM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "As iniciais da cantora Leão (1942-1989)",
+      "answer": "NL",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Sigla inglesa de um esporte praticado com prancha e remo",
+      "answer": "SUP",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Corrida de cavalos",
+      "answer": "PAREO",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "Doença viral semelhante ao sarampo",
+      "answer": "RUBEOLA",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "Um período de 24 horas",
+      "answer": "DIA",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Quatro, em algarismos romanos",
+      "answer": "IV",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "(Gír.) Bagunça",
+      "answer": "ZORRA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Músculo da face anterior do tórax",
+      "answer": "PEITORAL",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Fazer a bola saltar, pular",
+      "answer": "QUICAR",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Aborrecido",
+      "answer": "ENFADADO",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Em lugar bem longe",
+      "answer": "ALEM",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Insignificante",
+      "answer": "MISERO",
+      "row": 3,
+      "col": 9
+    },
+    "21": {
+      "clue": "Praia carioca, entre o Leblon e o Arpoador",
+      "answer": "IPANEMA",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Pequeno fruto carnudo e arredondado",
+      "answer": "BAGA",
+      "row": 4,
+      "col": 8
+    },
+    "25": {
+      "clue": "Incisão feita na pele",
+      "answer": "CORTE",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Substância que aumenta a fecundidade da terra",
+      "answer": "ADUBO",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Um inseto voador muito comum",
+      "answer": "MOSCA",
+      "row": 6,
+      "col": 10
+    },
+    "31": {
+      "clue": "(Sigla) Material usada para fazer garrafas plásticas",
+      "answer": "PET",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "Interjeição de admiração",
+      "answer": "OBA",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "Sigla do estado do Rio Grande do Sul",
+      "answer": "RS",
+      "row": 9,
+      "col": 1
+    },
+    "37": {
+      "clue": "Conjunção que indica alternativa, opção",
+      "answer": "OU",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

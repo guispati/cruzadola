@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um fruto servido como aperitivo",
+      "answer": "AZEITONA",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "O músico Borges, de \"Feira Moderna\"",
+      "answer": "LO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Forma carinhosa de se chamar um grande time do futebol carioca",
+      "answer": "MENGO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Plantação de mate",
+      "answer": "ERVAL",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Querubim",
+      "answer": "ANJO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Abertura que se faz nos cemitérios para enterrar os mortos",
+      "answer": "COVA",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "O salário dos empregados",
+      "answer": "ORDENADO",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "O eu da psicanálise",
+      "answer": "EGO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Ferimento causado por atrito",
+      "answer": "ROEDURA",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "Nota musical de símbolo A",
+      "answer": "LA",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Instrumento de percussão, são dois pequenos tambores",
+      "answer": "BONGO",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Antônio Fagundes, ator carioca",
+      "answer": "AF",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Colocar como imposição",
+      "answer": "OBRIGAR",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "(Red.) O da seleção brasileira de futebol foi no México",
+      "answer": "TRI",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Que tem modéstia, simplicidade",
+      "answer": "RECATADO",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "Um canto patriótico",
+      "answer": "HINO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Grande e saboroso peixe do mar",
+      "answer": "ATUM",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Devoto",
+      "answer": "BEATO",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Macapá é a sua capital",
+      "answer": "AMAPA",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "Ondas Longas",
+      "answer": "OL",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Juntar macho e fêmea para procriação",
+      "answer": "ACASALAR",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Uma das cores do farol",
+      "answer": "AMARELO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Muito tranquilo",
+      "answer": "ZEN",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Tontura e náusea sentidas por quem viaja de navio",
+      "answer": "ENJOO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O compositor russo Stravinsky (1898-1971), de \"O Pássaro de Fogo\"",
+      "answer": "IGOR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Terapia Ocupacional",
+      "answer": "TO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Nordeste",
+      "answer": "NE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Curvado, inclinado",
+      "answer": "ARCADO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Cultivar, plantar",
+      "answer": "LAVORAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Uma saudação entre amigos",
+      "answer": "OLA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Culto semelhante à macumba",
+      "answer": "VODU",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "(Med.) Criança recém-nascida",
+      "answer": "NEONATO",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Substância como o crack, o LSD ou a cocaína",
+      "answer": "DROGA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Preta",
+      "answer": "NEGRA",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "O surfista paulista Medina",
+      "answer": "GABRIEL",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Dizer sim",
+      "answer": "AFIRMAR",
+      "row": 4,
+      "col": 10
+    },
+    "24": {
+      "clue": "Beijoca",
+      "answer": "BICOTA",
+      "row": 5,
+      "col": 3
+    },
+    "27": {
+      "clue": "Espécie de veado das tundras asiático-europeias",
+      "answer": "RENA",
+      "row": 6,
+      "col": 2
+    },
+    "28": {
+      "clue": "Completo",
+      "answer": "TOTAL",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "O quê do baralho",
+      "answer": "DAMA",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Canal de filmes da TV paga",
+      "answer": "HBO",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Interjeição para incentivar o animal em algum esforço físico",
+      "answer": "UPA",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "Osvaldo Cruz (1872-1917), médico e sanitarista",
+      "answer": "OC",
+      "row": 9,
+      "col": 4
+    },
+    "36": {
+      "clue": "Artigo feminino plural",
+      "answer": "AS",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

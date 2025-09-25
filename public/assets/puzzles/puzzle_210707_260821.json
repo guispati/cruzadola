@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Planta de aromátioca usada para temperar carnes",
+      "answer": "ALECRIM",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "2.050, em romanos",
+      "answer": "MML",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O músico mineiro Samuel, do \"Skank\"",
+      "answer": "ROSA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "(Pop.) Pão francês cortado em duas fatias, de que se retira o miolo",
+      "answer": "CANOA",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Mais uma",
+      "answer": "OUTRA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Irradiar, espalhar claridade",
+      "answer": "LUZIR",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Barco movido pela energia gerada pelas partículas gasosas emanadas da água",
+      "answer": "VAPOR",
+      "row": 3,
+      "col": 1
+    },
+    "18": {
+      "clue": "Rixa",
+      "answer": "CASO",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Substância fundamental à respiração",
+      "answer": "AR",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Registrar",
+      "answer": "ANOTAR",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Segunda-feira",
+      "answer": "SEG",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Direito",
+      "answer": "DIR",
+      "row": 5,
+      "col": 4
+    },
+    "25": {
+      "clue": "Tribunal de Contas do Estado",
+      "answer": "TCE",
+      "row": 5,
+      "col": 8
+    },
+    "27": {
+      "clue": "Concordar (com algo)",
+      "answer": "ACEDER",
+      "row": 6,
+      "col": 2
+    },
+    "30": {
+      "clue": "(Quím.) Rutênio",
+      "answer": "RU",
+      "row": 6,
+      "col": 9
+    },
+    "31": {
+      "clue": "Qualquer coisa",
+      "answer": "ALGO",
+      "row": 7,
+      "col": 0
+    },
+    "33": {
+      "clue": "Ansioso",
+      "answer": "AVIDO",
+      "row": 7,
+      "col": 5
+    },
+    "35": {
+      "clue": "Camisa, meia ou saia",
+      "answer": "ROUPA",
+      "row": 8,
+      "col": 0
+    },
+    "37": {
+      "clue": "Deste tempo",
+      "answer": "ATUAL",
+      "row": 8,
+      "col": 6
+    },
+    "39": {
+      "clue": "Mulher muito voltada para a religião",
+      "answer": "BEATA",
+      "row": 9,
+      "col": 1
+    },
+    "41": {
+      "clue": "A Atlântica é um bioma do Brasil",
+      "answer": "MATA",
+      "row": 9,
+      "col": 7
+    },
+    "42": {
+      "clue": "Na do rio Amazonas se localiza a ilha de Marajó",
+      "answer": "FOZ",
+      "row": 10,
+      "col": 0
+    },
+    "43": {
+      "clue": "Unir em matrimônio",
+      "answer": "ESPOSAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Círculo metálico onde fica o pneu do carro",
+      "answer": "ARO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O mais famoso museu francês",
+      "answer": "LOUVRE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Pronome demonstrativo feminino",
+      "answer": "ESTA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Peixe de água doce, de boca pequena, barbas curtas e de coloração variada",
+      "answer": "CARPA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Instituto de Criminalística",
+      "answer": "IC",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O que se apresenta como desagradável, danoso, difícil",
+      "answer": "MAL",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O compositor Wolfgang Amadeus (1756-1791)",
+      "answer": "MOZART",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Com acréscimo ou adição de",
+      "answer": "MAIS",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Região da vértebra cervical",
+      "answer": "NUCA",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "A que lugar",
+      "answer": "AONDE",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Um personagem de Shakespeare",
+      "answer": "ROMEU",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Cortada com os dentes",
+      "answer": "ROIDA",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Expor à alta temperatura para cozinhar",
+      "answer": "ASSAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Escuridão absoluta",
+      "answer": "TREVA",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Um defeito da fala",
+      "answer": "GAGUEZ",
+      "row": 5,
+      "col": 2
+    },
+    "26": {
+      "clue": "Natural do país com capital Zagreb",
+      "answer": "CROATA",
+      "row": 5,
+      "col": 9
+    },
+    "28": {
+      "clue": "Fica ao lado da cozinha",
+      "answer": "COPA",
+      "row": 6,
+      "col": 3
+    },
+    "29": {
+      "clue": "Cadência musical",
+      "answer": "RITMO",
+      "row": 6,
+      "col": 7
+    },
+    "32": {
+      "clue": "Canídeo típico do hemisfério norte",
+      "answer": "LOBO",
+      "row": 7,
+      "col": 1
+    },
+    "34": {
+      "clue": "O feminino de dois",
+      "answer": "DUAS",
+      "row": 7,
+      "col": 8
+    },
+    "36": {
+      "clue": "Preposição que expressa um limite posterior de tempo",
+      "answer": "ATE",
+      "row": 8,
+      "col": 4
+    },
+    "38": {
+      "clue": "Casa de família",
+      "answer": "LAR",
+      "row": 8,
+      "col": 10
+    },
+    "40": {
+      "clue": "Artigo para mais de uma pessoa ou coisa (fem.)",
+      "answer": "AS",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

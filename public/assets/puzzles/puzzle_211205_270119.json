@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Animais como o uirapuru e o pardal",
+      "answer": "AVES",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Que dá bom resultado",
+      "answer": "EFICAZ",
+      "row": 0,
+      "col": 5
+    },
+    "11": {
+      "clue": "Queijo de origem holandesa, parecido com o prato",
+      "answer": "GOUDA",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "A de Cristo são os 33 anos de vida",
+      "answer": "IDADE",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Pronome pessoal feminino",
+      "answer": "ELA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Sonda que se introduz em cavidades naturais do corpo",
+      "answer": "CATETER",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "A posição geográfica oposta ao SO",
+      "answer": "NE",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "O que existe",
+      "answer": "SER",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Mágico, feiticeiro",
+      "answer": "MAGO",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Misturada com água",
+      "answer": "DILUIDA",
+      "row": 4,
+      "col": 0
+    },
+    "23": {
+      "clue": "Dante Alighieri (1265-1321), poeta italiano",
+      "answer": "DA",
+      "row": 4,
+      "col": 8
+    },
+    "24": {
+      "clue": "Adubo animal",
+      "answer": "ESTERCO",
+      "row": 5,
+      "col": 2
+    },
+    "27": {
+      "clue": "Junto de, em cima de (fem.)",
+      "answer": "NA",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Ato de fazer os animais ganharem peso",
+      "answer": "ENGORDA",
+      "row": 6,
+      "col": 4
+    },
+    "30": {
+      "clue": "Sigla de um museu paulistano",
+      "answer": "MASP",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "O Burton cineasta de \"A Fantástica Fábrica de Chocolate\"",
+      "answer": "TIM",
+      "row": 7,
+      "col": 5
+    },
+    "33": {
+      "clue": "A soma de dois meios",
+      "answer": "UM",
+      "row": 7,
+      "col": 9
+    },
+    "34": {
+      "clue": "Que pode ser transferido para outro dia",
+      "answer": "ADIAVEL",
+      "row": 8,
+      "col": 0
+    },
+    "36": {
+      "clue": "Sentimento de ódio, de rancor",
+      "answer": "IRA",
+      "row": 8,
+      "col": 8
+    },
+    "37": {
+      "clue": "Típica dança argentina",
+      "answer": "TANGO",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Desenvolver alta velocidade, correr",
+      "answer": "ANDAR",
+      "row": 9,
+      "col": 6
+    },
+    "40": {
+      "clue": "(dos) A serra do pico Dedo de Deus",
+      "answer": "ORGÃOS",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "Feição, fisionomia, semblante",
+      "answer": "CARA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Caderno para anotação de compromissos",
+      "answer": "AGENDA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O esporte do técnico Bernardinho",
+      "answer": "VOLEI",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A sigla do país com o Grand Canyon",
+      "answer": "EUA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Salvador Dalí (1904-1989), pintor surrealista espanhol",
+      "answer": "SD",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "Um carro da Honda",
+      "answer": "FIT",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "A mesma coisa",
+      "answer": "IDEM",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Máquina usada na colheita de café",
+      "answer": "CATADOR",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Lugar onde se guardam bebidas",
+      "answer": "ADEGA",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "A nota mais baixa",
+      "answer": "ZERO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Uma promessa por escrito de pagar no vencimento",
+      "answer": "ACEITE",
+      "row": 1,
+      "col": 4
+    },
+    "16": {
+      "clue": "(Fig.) Cheio de entusiasmo",
+      "answer": "ARDENTE",
+      "row": 2,
+      "col": 5
+    },
+    "18": {
+      "clue": "Entidade governamental que cuida da saúde pública",
+      "answer": "SUS",
+      "row": 3,
+      "col": 3
+    },
+    "21": {
+      "clue": "(Ingl.) Arrendamento de bens de produção",
+      "answer": "LEASING",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Terra de grão muito fino, de grande dureza quando cozido",
+      "answer": "ARGILA",
+      "row": 4,
+      "col": 6
+    },
+    "25": {
+      "clue": "Um sufixo da net",
+      "answer": "COM",
+      "row": 5,
+      "col": 7
+    },
+    "26": {
+      "clue": "Um fruto muito consumido nas festas de final de ano",
+      "answer": "TAMARA",
+      "row": 5,
+      "col": 10
+    },
+    "27": {
+      "clue": "Mover-se na água submerso ou sustentando-se à tona",
+      "answer": "NADAR",
+      "row": 6,
+      "col": 1
+    },
+    "29": {
+      "clue": "Resistir ao uso",
+      "answer": "DURAR",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "O M do MT",
+      "answer": "MATO",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Mulher que não foi batizada",
+      "answer": "PAGÃ",
+      "row": 7,
+      "col": 3
+    },
+    "35": {
+      "clue": "Viagem em avião",
+      "answer": "VOO",
+      "row": 8,
+      "col": 4
+    },
+    "36": {
+      "clue": "A primeira metade de uma viagem",
+      "answer": "IDA",
+      "row": 8,
+      "col": 8
+    },
+    "39": {
+      "clue": "Nelson Cavaquinho, sambista",
+      "answer": "NC",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "O guitarrista Hendrix (1942-1970), um ídolo do rock",
+      "answer": "JIMI",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "Um salgado comum em feiras",
+      "answer": "PASTEL",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "(Bíbl.) A mulher que viveu com Adão",
+      "answer": "EVA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "(Red.) Técnica de gravação de sons com um  só canal",
+      "answer": "MONO",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Confiança",
+      "answer": "FE",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "(de Carvalho) O músico de \"Maringá\" e \"Taí\" (1900-1977)",
+      "answer": "JOUBERT",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Divisão equitativa",
+      "answer": "RATEIO",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Conjunção que indica alternativa",
+      "answer": "OU",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Um peixe da pesca oceânica",
+      "answer": "MARLIM",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Base de uma montanha",
+      "answer": "SOPE",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "A atriz Macedo (1916-1999), a Dona Bela da \"Escolinha do Professor Raimundo\"",
+      "answer": "ZEZE",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "O pugilista estadunidense Tyson",
+      "answer": "MIKE",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Colina de areia",
+      "answer": "DUNA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Planta de cujas sementes se obtém um óleo semelhante ao do linho",
+      "answer": "PERILA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Ronald Reagan (1911-2004), ator e presidente dos EUA",
+      "answer": "RR",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "O costureiro Pierre, um dos \"papas\" da moda",
+      "answer": "CARDIN",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "O que não é militar",
+      "answer": "PAISANA",
+      "row": 8,
+      "col": 4
+    },
+    "31": {
+      "clue": "(Quím.) O gadolínio",
+      "answer": "GD",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Saliência em forma convexa",
+      "answer": "BOJO",
+      "row": 9,
+      "col": 3
+    },
+    "34": {
+      "clue": "Um famoso jogo de tabuleiro",
+      "answer": "WAR",
+      "row": 9,
+      "col": 8
+    },
+    "35": {
+      "clue": "Árvore de boa madeira, também chamada rabo-de-arara",
+      "answer": "ANDIRA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Cidade paulista, próxima à capital",
+      "answer": "MAUA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Privação de alimentos durante um período de tempo",
+      "answer": "JEJUM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O Pitanguy cirurgião plástico",
+      "answer": "IVO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A atleta Maggi, do salto em distância",
+      "answer": "MAURREN",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Aspecto negativo",
+      "answer": "POREM",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "Prefixo que indica oposição",
+      "answer": "ANTI",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Que vive sem companhia",
+      "answer": "SO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "As letras que separam o D e o G",
+      "answer": "EF",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Abanico",
+      "answer": "LEQUE",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Ofício, trabalho",
+      "answer": "METIE",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "(Honoré de) Escritor francês",
+      "answer": "BALZAC",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "O mais conhecido deus do antigo Egito",
+      "answer": "OSIRIS",
+      "row": 3,
+      "col": 7
+    },
+    "16": {
+      "clue": "Fábrica alemã de automóveis",
+      "answer": "OPEL",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "(Côte d') Região francesa banhada pelo Mediterrâneo",
+      "answer": "AZUR",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Ilha japonesa que foi disputada entre Japão e EUA, na Segunda Grande Guerra",
+      "answer": "OKINAWA",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "O maior dos dedos da mão",
+      "answer": "MEDIO",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Entorpecente",
+      "answer": "DROGA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Doce feito de melaço e ovos",
+      "answer": "PRAJA",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Um peixe de aquário",
+      "answer": "ACARA",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "Colocar uma coisa sobre a outra",
+      "answer": "APOR",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Uma antiga embarcação mercante",
+      "answer": "NAU",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Defesa Nacional",
+      "answer": "DN",
+      "row": 9,
+      "col": 1
+    },
+    "33": {
+      "clue": "Campeonato vencido duas vezes",
+      "answer": "BI",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

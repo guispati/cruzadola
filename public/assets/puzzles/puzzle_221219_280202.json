@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Emoção agradável",
+      "answer": "PRAZER",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Em seguida a",
+      "answer": "APOS",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Que se pode tocar com os dedos",
+      "answer": "DEDILHAVEL",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Cheiro ruim de suor",
+      "answer": "CECE",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "Que fala ou parece falar pelo nariz",
+      "answer": "FANHO",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Objeto usado como amuleto",
+      "answer": "FIGA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "O profissional que colore paredes em uma obra",
+      "answer": "PINTOR",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Insumo para vacinas",
+      "answer": "IFA",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Vara pontuda",
+      "answer": "LANÇA",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Uma multinacional do ramo de eletroeletrônicos",
+      "answer": "GE",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Sujo",
+      "answer": "PORCO",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "101, em romanos",
+      "answer": "CI",
+      "row": 5,
+      "col": 9
+    },
+    "22": {
+      "clue": "Aborrecimento profundo",
+      "answer": "TEDIO",
+      "row": 6,
+      "col": 2
+    },
+    "23": {
+      "clue": "Carro fabricado pela Honda",
+      "answer": "FIT",
+      "row": 6,
+      "col": 8
+    },
+    "24": {
+      "clue": "Diretor de instituto de ensino ou de educação",
+      "answer": "REITOR",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Mulher que não fala",
+      "answer": "MUDA",
+      "row": 7,
+      "col": 7
+    },
+    "27": {
+      "clue": "Fuzil e metralhadora",
+      "answer": "ARMAS",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Tronco serrado",
+      "answer": "TORA",
+      "row": 8,
+      "col": 6
+    },
+    "29": {
+      "clue": "Rapidez, ligeireza",
+      "answer": "VELOCIDADE",
+      "row": 9,
+      "col": 1
+    },
+    "32": {
+      "clue": "Face, rosto",
+      "answer": "CARA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Jato de luz viva e instântanea",
+      "answer": "CLARÃO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O paládio, entre os químicos",
+      "answer": "PD",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A capital de PE",
+      "answer": "RECIFE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Refrigerador para vinhos",
+      "answer": "ADEGA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Pop.) Urucubaca",
+      "answer": "ZICA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O sujeito de mente ou agride",
+      "answer": "ELE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Recursos Humanos",
+      "answer": "RH",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Progresso no campo de batalha",
+      "answer": "AVANÇO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "5 vezes",
+      "answer": "PENTA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "(Gordo) O mesmo que inveja",
+      "answer": "OLHO",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Esforço intenso e contínuo",
+      "answer": "AFINCO",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "(Anat.) Cavidade ocular",
+      "answer": "ORBITA",
+      "row": 2,
+      "col": 10
+    },
+    "15": {
+      "clue": "Imagem",
+      "answer": "FIGURA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Expulsar do útero (feto e secundinas)",
+      "answer": "PARIR",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Lamacento",
+      "answer": "LODOSO",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "A folha que circunda a corola da flor",
+      "answer": "PETALA",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "A mulher no gozo de seus direitos civis e políticos",
+      "answer": "CIDADÃ",
+      "row": 5,
+      "col": 9
+    },
+    "22": {
+      "clue": "(Ingl.) Contador de tempo",
+      "answer": "TIMER",
+      "row": 6,
+      "col": 2
+    },
+    "23": {
+      "clue": "(Gír.) Falhar, dar em nada",
+      "answer": "FURAR",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "Vegetação que cresce espontaneamente",
+      "answer": "ERVA",
+      "row": 7,
+      "col": 1
+    },
+    "26": {
+      "clue": "Cantiga",
+      "answer": "MODA",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Sinal gráfico que nasala algumas vogais",
+      "answer": "TIL",
+      "row": 8,
+      "col": 6
+    },
+    "30": {
+      "clue": "Cristóvão Colombo (1451-1506), navegador italiano",
+      "answer": "CC",
+      "row": 9,
+      "col": 5
+    },
+    "31": {
+      "clue": "As vogais de preço",
+      "answer": "EO",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O conjunto de estruturas das universidades",
+      "answer": "CAMPUS",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Periquito",
+      "answer": "TUIM",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Pequeno tumor da pele, duro e coberto por uma camada córnea",
+      "answer": "VERRUGA",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "(Quím.) O bismuto",
+      "answer": "BI",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Estudante do primeiro ano de uma faculdade",
+      "answer": "CALOURO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Parte do... reflexo",
+      "answer": "LEX",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Sufixo aumentativo",
+      "answer": "ORRA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Um que fica em poder de outrem, como garantia de que alguma coisa será feita",
+      "answer": "REFEM",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Época da procriação animal",
+      "answer": "CIO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Atrair pelo charme, pelo encanto, pela inteligência",
+      "answer": "CATIVAR",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Um carro da Ford",
+      "answer": "KA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Disco circular",
+      "answer": "RODELA",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "O passo do sapo",
+      "answer": "PULO",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Semente semelhante à ervilha",
+      "answer": "ANDU",
+      "row": 6,
+      "col": 7
+    },
+    "26": {
+      "clue": "Grande massa de gelo flutuante",
+      "answer": "ICEBERG",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Tarifa Exterior Comum",
+      "answer": "TEC",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Designação carinhosa dada à mãe dos primos",
+      "answer": "TITIA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "De segunda mão",
+      "answer": "USADO",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Diz-se de texto transposto de uma língua para outra",
+      "answer": "TRADUZIDO",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "Microempreendedor Individual",
+      "answer": "MEI",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Cheiroso",
+      "answer": "ODOROSO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Dano causado a um bem durante o seu transporte",
+      "answer": "AVARIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Pássaro europeu, preto e de bico amarelo",
+      "answer": "MELRO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Uma extremidade do navio",
+      "answer": "PROA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Ave também conhecida como capoeira",
+      "answer": "URU",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Que bate, maltrata com pancadas",
+      "answer": "SURRADOR",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "(Pop.) Combinado!",
+      "answer": "TA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Pequena cidade paranaense, na região de Cascavel",
+      "answer": "IBEMA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Mistura de coisas",
+      "answer": "MIX",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Outro nome do peixe pescadinha",
+      "answer": "GOETE",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "(Ingl.) Espaço para o piloto de F1",
+      "answer": "COCKPIT",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Erguido",
+      "answer": "LEVANTADO",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "A sequência de pessoas diante do caixa de um banco",
+      "answer": "FILA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Que é sinuoso",
+      "answer": "COLEADO",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Quase áfono",
+      "answer": "ROUCO",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "A atriz Mara, que se destacou como estrela do teatro de revista",
+      "answer": "RUBIA",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "(Placa de) Recipiente usado em laboratórios",
+      "answer": "PETRI",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "(Cheio de) Com muitas frescuras",
+      "answer": "DEDOS",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Ilha do rio Sena, onde se encontra a catedral de Notre-Dame",
+      "answer": "CITE",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Força",
+      "answer": "GUZO",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Um título inglês de nobreza",
+      "answer": "SIR",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Utilidades Domésticas",
+      "answer": "UD",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

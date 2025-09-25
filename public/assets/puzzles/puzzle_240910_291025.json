@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Estado dos EUA, com capital Topeka",
+      "answer": "KANSAS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "A marca de automóveis Romeo",
+      "answer": "ALFA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "11",
+      "answer": "ONZE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Pranchas para os pés, para deslizar na neve",
+      "answer": "ESQUIS",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Normas Gerais",
+      "answer": "NG",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Ingrediente do chocolate",
+      "answer": "CACAU",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Greta Thunberg, ativista sueca",
+      "answer": "GT",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Um dos ingredientes do martini",
+      "answer": "GIM",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Rasgar em pedaços",
+      "answer": "LACERAR",
+      "row": 3,
+      "col": 4
+    },
+    "21": {
+      "clue": "Comédia, em tom pejorativo",
+      "answer": "TEATRADA",
+      "row": 4,
+      "col": 1
+    },
+    "23": {
+      "clue": "Barraca",
+      "answer": "TENDA",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Esporte radical, descida de paredões",
+      "answer": "RAPEL",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "Osso da parte lateral inferior do crânio",
+      "answer": "TEMPORAL",
+      "row": 6,
+      "col": 2
+    },
+    "28": {
+      "clue": "(Anat.) Órgãos genitais femininos",
+      "answer": "OVARIOS",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Vermelho, na Austrália",
+      "answer": "RED",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Cláudia Ohana, atriz",
+      "answer": "CO",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "São dois em serra",
+      "answer": "ERRES",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Giovanna Antonelli, atriz",
+      "answer": "GA",
+      "row": 8,
+      "col": 9
+    },
+    "36": {
+      "clue": "Avivar o fogo",
+      "answer": "ATIÇAR",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "O mundo dos que se foram",
+      "answer": "ALEM",
+      "row": 9,
+      "col": 7
+    },
+    "40": {
+      "clue": "Homem eletrônico",
+      "answer": "ROBO",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "Uma fibra vegetal",
+      "answer": "EMBIRA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(King) Um gorila do cinema",
+      "answer": "KONG",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Med.) Inflamação de um vaso sanguíneo ou linfático",
+      "answer": "ANGITE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Nova Zelândia",
+      "answer": "NZ",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Secante",
+      "answer": "SEC",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Retirar a umidade de algo",
+      "answer": "SECAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Sossegar, tornar quieto",
+      "answer": "AQUEDAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Apelido do Luís",
+      "answer": "LU",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Objeto usado como amuleto",
+      "answer": "FIGA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Alto-) Diz-se de ocasião positiva, favorável",
+      "answer": "ASTRAL",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "O açúcar da beterraba",
+      "answer": "SACAROSE",
+      "row": 1,
+      "col": 6
+    },
+    "15": {
+      "clue": "Importante cidade agropecuária do Pará",
+      "answer": "ALTAMIRA",
+      "row": 2,
+      "col": 4
+    },
+    "18": {
+      "clue": "Aroma para balas",
+      "answer": "MENTA",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "Deixar careca",
+      "answer": "RAPAR",
+      "row": 3,
+      "col": 8
+    },
+    "22": {
+      "clue": "Peça usada como enfeite",
+      "answer": "ADEREÇO",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Permutar",
+      "answer": "TROCAR",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Escolher por votação",
+      "answer": "ELEGER",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "(Pop.) Bebedeira",
+      "answer": "PORRE",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "Promessa solene feita aos santos",
+      "answer": "VOTO",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "Carta do baralho que tem uma figura de mulher",
+      "answer": "DAMA",
+      "row": 7,
+      "col": 10
+    },
+    "34": {
+      "clue": "Sucede Sex",
+      "answer": "SAB",
+      "row": 8,
+      "col": 7
+    },
+    "37": {
+      "clue": "O inverso de bi",
+      "answer": "IB",
+      "row": 9,
+      "col": 2
+    },
+    "39": {
+      "clue": "O lítio, em química",
+      "answer": "LI",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Toucinho",
+      "answer": "BACON",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Compartimento de teatro destinado a pequeno grupo de pessoas",
+      "answer": "FRISA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Cidade pernambucana na região de Araripina",
+      "answer": "BODOCO",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Sensação penosa",
+      "answer": "DOR",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "A rama da mandioca",
+      "answer": "MANIVA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Estado de apreensão",
+      "answer": "MEDO",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Banha de porco",
+      "answer": "UNTO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Fita para medição de grandes áreas de terreno",
+      "answer": "TRENA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "A palavra usada para negar",
+      "answer": "NÃO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "(Moritz) Cidade suíça que já foi palco de duas Olimpíadas de Inverno",
+      "answer": "SAINT",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Parte do livro também chamada lombada",
+      "answer": "DORSO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Bicho de cauda longa, também chamado de jupati",
+      "answer": "CUICA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Petróleo bruto",
+      "answer": "NAFTA",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "(Abrev.) O contrário de masculino",
+      "answer": "FEM",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Cidade do Rio de Janeiro, grande exportadora de café e açúcar",
+      "answer": "MACAE",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Mulher desprezível e miserável",
+      "answer": "VILÃ",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "O conjunto das celas das abelhas",
+      "answer": "FAVO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Que não causa dano material, físico, orgânico",
+      "answer": "INOCUO",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Processo Judicial Eletrônico",
+      "answer": "PJE",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Grande volume de água",
+      "answer": "CAUDAL",
+      "row": 9,
+      "col": 4
+    },
+    "35": {
+      "clue": "Ruga da pele",
+      "answer": "SULCO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "(Anat.) Relativo à barriga da perna",
+      "answer": "SURAL",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "(Pop.) Ato de agitar o ar com vigor",
+      "answer": "ABANÃO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Fig.) Que se pode evitar (situação difícil de resolver), encontrando uma solução de emergência",
+      "answer": "CONTORNAVEL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Sentimento de aversão e inimizade",
+      "answer": "ODIO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Abrev.: o mês 11",
+      "answer": "NOV",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Sílaba que se repete em fotógrafo",
+      "answer": "FO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Reconhecer uma pessoa",
+      "answer": "IDENTIFICAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Refrigerante preparado com água saturada de ácido carbônico",
+      "answer": "SODA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Argola",
+      "answer": "ARO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Escolha dos grãos do café",
+      "answer": "CATA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Todas as pessoas",
+      "answer": "MUNDO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Lista de bebida e comidas oferecidas em um restaurante",
+      "answer": "MENU",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "(Costa) País americano",
+      "answer": "RICA",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Um assento para descansar, ver TV etc.",
+      "answer": "SOFA",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Carica papaya",
+      "answer": "MAMÃO",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Unidade comercial para feijão, farinha etc.",
+      "answer": "SACO",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "A germinativa também é chamada gameta",
+      "answer": "CELULA",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Armação de fios produzidos pela aranha",
+      "answer": "TEIA",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "A Coutinho jornalista e apresentadora",
+      "answer": "MAJU",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Culto religioso semelhante à macumba",
+      "answer": "VODU",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Fator de Proteção Solar",
+      "answer": "FPS",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Sem roupas (pl.)",
+      "answer": "NUS",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Centro-Oeste",
+      "answer": "CO",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

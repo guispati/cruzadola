@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma operação comercial",
+      "answer": "VENDA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Misturar e combinar sons",
+      "answer": "MIXAR",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Brinquedo de carretel e cordel",
+      "answer": "IOIO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "12",
+      "answer": "DOZE",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Lancha rápida usada em serviços de portos",
+      "answer": "VEDETA",
+      "row": 2,
+      "col": 2
+    },
+    "13": {
+      "clue": "O manganês, em química",
+      "answer": "MN",
+      "row": 2,
+      "col": 9
+    },
+    "14": {
+      "clue": "Fértil",
+      "answer": "UBEROSO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Marca chinesa de carros",
+      "answer": "JAC",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Astro que nos dá luz e calor",
+      "answer": "SOL",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "O elemento químico do qual é constituído o diamante",
+      "answer": "CARBONO",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "(Pop.) Criança levada, arteira",
+      "answer": "CAPETINHA",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Aspecto, ponto de vista",
+      "answer": "LADO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Émile Zola (1840-1902), romancista francês",
+      "answer": "EZ",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "(Lock) Tecla do PC",
+      "answer": "NUM",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Extrair um exemplar de",
+      "answer": "AMOSTRAR",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Quím.) O silício",
+      "answer": "SI",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "A UF de Rio Verde e Anápolis",
+      "answer": "GO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "As peças que ficam nos cantos do tabuleiro na formação inicial do xadrez",
+      "answer": "TORRES",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "O supersticioso teme o mau",
+      "answer": "OLHADO",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Vasilha própria para tomar o mate",
+      "answer": "CUIA",
+      "row": 9,
+      "col": 7
+    },
+    "37": {
+      "clue": "Cidade histórica próxima a Diamantina (MG)",
+      "answer": "SERRO",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Dar educação, refinamento",
+      "answer": "POLIR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O organismo causador da Covid",
+      "answer": "VIRUS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "As vogais de Pedro",
+      "answer": "EO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Aplanado, alisado",
+      "answer": "NIVELADO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Provocar dor",
+      "answer": "DOER",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Instalar propulsor mecânico em veículo que não o possui",
+      "answer": "MOTORIZAR",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Cantora e apresentadora carioca",
+      "answer": "IZA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O xenônio, em química",
+      "answer": "XE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Ruído durante o sono",
+      "answer": "RONCO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Escavação para dar lugar aos alicerces de um edifício",
+      "answer": "DESATERRO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Um alimento como a maria-mole",
+      "answer": "DOCE",
+      "row": 2,
+      "col": 4
+    },
+    "13": {
+      "clue": "A capital de um estado amazônico",
+      "answer": "MANAUS",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "(Pop.) Dedo-duro",
+      "answer": "BOCAMOLE",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "O Wayne ator de filmes caubóis",
+      "answer": "JOHN",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Base Naval",
+      "answer": "BN",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Dispor",
+      "answer": "POSTAR",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "(Grandes) Ficam na América do Norte",
+      "answer": "LAGOS",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Fig.) Consumir pouco a pouco",
+      "answer": "MINAR",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Completo, inteiro",
+      "answer": "TODO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Soldado recém-incorporado",
+      "answer": "RECO",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "O polo onde há pinguins",
+      "answer": "SUL",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Helena Ranaldi, atriz paulistana",
+      "answer": "HR",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "1/5 de X",
+      "answer": "II",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

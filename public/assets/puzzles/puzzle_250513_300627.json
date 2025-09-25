@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma das áreas da matemática",
+      "answer": "ALGEBRA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Substância que indica uma infecção",
+      "answer": "PUS",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "O período de excitabilidade sexual da fêmea",
+      "answer": "CIO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Que demonstra falta de reconhecimento",
+      "answer": "INGRATO",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Coleção de mapas",
+      "answer": "ATLAS",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Infortúnio",
+      "answer": "REVES",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "(das Cores) Um sucesso de Caetano Veloso",
+      "answer": "TREM",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Animal também conhecido como anta",
+      "answer": "TAPIR",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Uma contração comum",
+      "answer": "AO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Aquele que conta os votos",
+      "answer": "APURADOR",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Certeiro (tiro)",
+      "answer": "PRECISO",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Cidade paulista, na divisa com o PR, próxima a Assis",
+      "answer": "OURINHOS",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Red.) Campeonato vencido duas vezes",
+      "answer": "BI",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Censura severa",
+      "answer": "RALHO",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Que tem semelhança ou ligação",
+      "answer": "AFIM",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Que parece falar pelo nariz",
+      "answer": "FANHO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "O dinheiro do porta-moedas",
+      "answer": "TROCO",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Afinado, harmonioso",
+      "answer": "ENTOADO",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "O Jobim (1927-1994), de \"Garota de Ipanema\"",
+      "answer": "TOM",
+      "row": 9,
+      "col": 8
+    },
+    "34": {
+      "clue": "Passeio de parapente",
+      "answer": "VOO",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Medroso, irresoluto",
+      "answer": "RECEOSO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Respeitado",
+      "answer": "ACATADO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A medida mais comum para se comprar combustível",
+      "answer": "LITRO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Pequena quantidade de líquido bebido",
+      "answer": "GOLE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um biscoito de chocolate do tipo wafer muito consumido",
+      "answer": "BIS",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Recém-nascido",
+      "answer": "RN",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Relativo à terra",
+      "answer": "AGRARIO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Medroso",
+      "answer": "PAVIDO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O órgão onde o feto se desenvolve",
+      "answer": "UTERO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Um pedido de socorro muito usado",
+      "answer": "SOS",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "(Fig.) Reler, rever matéria estudada",
+      "answer": "REPASSAR",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Cavalo baio de crina branca",
+      "answer": "AMARILHO",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "(Mec.) Pino",
+      "answer": "TUCHO",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Robe",
+      "answer": "PENHOAR",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Uma figura do carnaval",
+      "answer": "REIMOMO",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Lágrimas",
+      "answer": "PRANTO",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "O sétimo planeta a partir do Sol",
+      "answer": "URANO",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Serviços simples e rápidos, sem vínculos empregatícios",
+      "answer": "BICOS",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Retrato",
+      "answer": "FOTO",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Antecede Mar",
+      "answer": "FEV",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Uma perturbação mental",
+      "answer": "TOC",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "D",
+      "answer": "DE",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

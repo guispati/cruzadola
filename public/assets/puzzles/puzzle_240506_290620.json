@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Instrumento para traçar círculos",
+      "answer": "COMPASSO",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Justiça Eleitoral",
+      "answer": "JE",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Tirar do nervosismo",
+      "answer": "ACALMAR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O som de uma batida, nas HQs",
+      "answer": "BUM",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "Tratar (alguém ou algo) com desdém",
+      "answer": "RIR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Quím.) Pt",
+      "answer": "PLATINA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Gago sem gês",
+      "answer": "AO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Libertação de prisioneiro mediante compensação",
+      "answer": "RESGATE",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Banal, trivial (fem.)",
+      "answer": "MERA",
+      "row": 4,
+      "col": 2
+    },
+    "18": {
+      "clue": "Passar um café",
+      "answer": "COAR",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "A garota da fábula de Lewis Carroll",
+      "answer": "ALICE",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Cidade mineira do Sul do estado",
+      "answer": "JACUI",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Cômodo social",
+      "answer": "SALA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "A parte de trás da cabeça",
+      "answer": "NUCA",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "A Santista fica em São Paulo",
+      "answer": "BAIXADA",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Fernando Scherer, medalhista olímpico da natação",
+      "answer": "FS",
+      "row": 7,
+      "col": 9
+    },
+    "28": {
+      "clue": "(Quím.) Combinação do hidrogênio com um corpo simples",
+      "answer": "HIDRETO",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "O São Francisco nasce em MG",
+      "answer": "RIO",
+      "row": 8,
+      "col": 8
+    },
+    "30": {
+      "clue": "(Ingl.) Funcionário que faz entregas, pagamentos etc.",
+      "answer": "BOY",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Relativo a um ajuste tratado entre duas pessoas ou mais",
+      "answer": "PACTUAL",
+      "row": 9,
+      "col": 4
+    },
+    "33": {
+      "clue": "Artigo definido masculino plural",
+      "answer": "OS",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Operário que veda fendas nas estruturas de barcos",
+      "answer": "CALAFATE",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Grupo indígena habita regiões do N e do CO",
+      "answer": "CARAJAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Folga de trabalho",
+      "answer": "OCIO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O hábitat do golfinho e da baleia",
+      "answer": "MAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Projeto de Lei",
+      "answer": "PL",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Unidade elétrica de símbolo A",
+      "answer": "AMPERE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Um tempero",
+      "answer": "SALSA",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Síndrome Respiratória Aguda Grave",
+      "answer": "SRAG",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "A capital do Alasca, nos EUA",
+      "answer": "JUNEAU",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Outro nome da ave xuri",
+      "answer": "EMA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Pop.) Selinho",
+      "answer": "BITOCA",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Mingau da culinária paraense",
+      "answer": "TACACA",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Pesar (falando de culpas ou responsabilidades)",
+      "answer": "RECAIR",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "(Ingl.) A esposa do lorde",
+      "answer": "MILADY",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Um pastel frito",
+      "answer": "RISSOLE",
+      "row": 4,
+      "col": 10
+    },
+    "21": {
+      "clue": "As partes da boca onde se aplica o batom",
+      "answer": "LABIOS",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Um desportista que luta descalço",
+      "answer": "JUDOCA",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "A terra que o emigrante abandona",
+      "answer": "NATAL",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Sobras de feira, vendidas mais baratas ou distribuídas",
+      "answer": "XEPA",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Uma marca de carros",
+      "answer": "FIAT",
+      "row": 7,
+      "col": 9
+    },
+    "28": {
+      "clue": "Canal de filmes",
+      "answer": "HBO",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Caminho",
+      "answer": "RUA",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Thiago Fragoso, ator carioca",
+      "answer": "TF",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

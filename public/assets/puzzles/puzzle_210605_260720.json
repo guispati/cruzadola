@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Mau humor, amolação",
+      "answer": "ZANGA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Cessar",
+      "answer": "PARAR",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "F",
+      "answer": "EFE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "(Folcl.) Um famoso mito indígena",
+      "answer": "BOITATA",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Um apelido para Luísa",
+      "answer": "LU",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Pop.) Que está muito abatido e desanimado",
+      "answer": "DEPRE",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Duas letras vizinhas à direita do teclado",
+      "answer": "OP",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Grave insulto",
+      "answer": "INJURIA",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Discípulo",
+      "answer": "ADEPTO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Passar café",
+      "answer": "COAR",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Reunir muitas coisas ou pessoas",
+      "answer": "AGLOMERAR",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "A forma como se compra carne no açougue",
+      "answer": "CRUA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Bafo, sopro",
+      "answer": "ALENTO",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Taturanas, tatus e tilápias",
+      "answer": "ANIMAIS",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Steve Jobs, empresário",
+      "answer": "SJ",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Peça usada por fotógrafos para apoiar a câmera",
+      "answer": "TRIPE",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Sigla do estado de Laguna e Tubarão",
+      "answer": "SC",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "(Os Três) Série cômica de sucesso desde os anos 1950",
+      "answer": "PATETAS",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Abreviatura de santa",
+      "answer": "STA",
+      "row": 9,
+      "col": 8
+    },
+    "35": {
+      "clue": "No meio",
+      "answer": "ENTRE",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Andar sem direção ou meta certa",
+      "answer": "ERRAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A Gattai (1916-2008), de \"Anarquistas, Graças a Deus\"",
+      "answer": "ZELIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Submergir, naufragar",
+      "answer": "AFUNDAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Abrev.) O ponto entre o Norte e o Leste",
+      "answer": "NE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Em) Ainda não decidido ou concluído",
+      "answer": "ABERTO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Vaso em que arde um fogo como o das Olimpíadas",
+      "answer": "PIRA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "No máximo",
+      "answer": "ATE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "As iniciais do humorista cearense Aragão",
+      "answer": "RA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Acontecimento social ou político com caráter formal",
+      "answer": "ATO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Tosar",
+      "answer": "RAPAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Vício de quem fuma a droga obtida da papoula",
+      "answer": "OPIOMANIA",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Batman e Robin formavam a dinâmica",
+      "answer": "DUPLA",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "(Nord.) Jumento, burrico",
+      "answer": "JEGUE",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "A D'Arc santa",
+      "answer": "JOANA",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Pode ser dental ou hidratante",
+      "answer": "CREME",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Diz-se de pessoa que tem talento, engenho",
+      "answer": "ARTISTA",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Interseção de um cone circular reto e um plano que corta todas as suas geratrizes",
+      "answer": "ELIPSE",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Saliva",
+      "answer": "CUSPE",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Importante prêmio do cinema mundial",
+      "answer": "OSCAR",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Pintura",
+      "answer": "ARTE",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Abreviatura do mês 1",
+      "answer": "JAN",
+      "row": 8,
+      "col": 1
+    },
+    "30": {
+      "clue": "Ser provido de",
+      "answer": "TER",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Tony Tornado, ator e cantor",
+      "answer": "TT",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "(Quím.) Estrôncio",
+      "answer": "SR",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

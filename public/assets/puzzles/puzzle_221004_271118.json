@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "Manobra espetacular e arriscada",
+      "answer": "ACROBACIA",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Modalidade de arte marcial japonesa",
+      "answer": "AIKIDO",
+      "row": 1,
+      "col": 1
+    },
+    "10": {
+      "clue": "Dira Paes, atriz",
+      "answer": "DP",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "O cantor popular Maia (1942-1998)",
+      "answer": "TIM",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Lançar ferro",
+      "answer": "FUNDEAR",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Alexandre Dumas (1802-1870), autor de \"Os Três Mosqueteiros\"",
+      "answer": "AD",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Que não comparece",
+      "answer": "FALTANTE",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Ilha da Indonésia, muito procurada por surfistas",
+      "answer": "BALI",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Em tais quantidades",
+      "answer": "TANTOS",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Lustrar (assoalhos)",
+      "answer": "ENCERAR",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Ofender, injuriar",
+      "answer": "ATACAR",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Parte do porto onde se carrega e descarrega navios",
+      "answer": "DOCA",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Manifestação de sentimentos longamente contidos",
+      "answer": "DESABAFO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Habeas corpus",
+      "answer": "HC",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "(Pop.) Cara-de-pau",
+      "answer": "ATIRADO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Satélite natural de um planeta",
+      "answer": "LUA",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Ligado, em inglês",
+      "answer": "ON",
+      "row": 9,
+      "col": 1
+    },
+    "33": {
+      "clue": "(Pop.) Compreensível",
+      "answer": "NORMAL",
+      "row": 9,
+      "col": 4
+    },
+    "35": {
+      "clue": "Peça para se proteger contra o excesso de claridade",
+      "answer": "GUARDASOL",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Queda",
+      "answer": "CAIDA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um filtro do nosso organismo",
+      "answer": "RIM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "De acordo!",
+      "answer": "OK",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Bofetada",
+      "answer": "BIFA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Falsificador",
+      "answer": "ADULTERADOR",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Enunciar a série dos números",
+      "answer": "CONTAR",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "No interior",
+      "answer": "ADENTRO",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "Uma ave que grasna",
+      "answer": "PATO",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "(Arit.) Quadro com as operações fundamentais entre os números",
+      "answer": "TABUADA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Pop.) Travesso",
+      "answer": "DANADO",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Mal-estar após embriaguez",
+      "answer": "RESSACA",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Cravar",
+      "answer": "FINCAR",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "(Ingl.) Uma forma de financiamento",
+      "answer": "LEASING",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Casa rústica",
+      "answer": "CABANA",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Cobertura de um edifício",
+      "answer": "TETO",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Grosseiro",
+      "answer": "CHULO",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "A indústria de carros que recentemente deixou o Brasil",
+      "answer": "FORD",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Precede Vegas no nome da cidade dos EUA",
+      "answer": "LAS",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Perversa, ruim",
+      "answer": "MA",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

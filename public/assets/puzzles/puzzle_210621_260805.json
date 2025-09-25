@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Bico do peito",
+      "answer": "MAMILO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Casebre",
+      "answer": "TOCA",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Sufixo aumentativo",
+      "answer": "ÃO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Do nervo",
+      "answer": "NEURAL",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Entrar em ebulição",
+      "answer": "FERVER",
+      "row": 2,
+      "col": 2
+    },
+    "13": {
+      "clue": "A nota entre dó e mi",
+      "answer": "RE",
+      "row": 2,
+      "col": 9
+    },
+    "14": {
+      "clue": "Afastar-se da rota",
+      "answer": "SAIR",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Fazer algo como não era feito antes",
+      "answer": "INOVAR",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Peça de madeira que sustenta as ripas dos telhados",
+      "answer": "CAIBRO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Abrev.: o mês 4",
+      "answer": "ABR",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Terreno de mineração",
+      "answer": "LAVRA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "O poeta Quintana (1906-1994), de \"Sapato Florido\"",
+      "answer": "MARIO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "M",
+      "answer": "EME",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Uma companhia aérea espanhola",
+      "answer": "IBERIA",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "Tornar inútil, sem efeito",
+      "answer": "BALDAR",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Não frequente",
+      "answer": "RARO",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Laurêncio, elemento químico",
+      "answer": "LR",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Objeto usado para auxiliar a visão",
+      "answer": "OCULOS",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Sem proveito",
+      "answer": "INUTIL",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Franco Suíço",
+      "answer": "FS",
+      "row": 9,
+      "col": 9
+    },
+    "36": {
+      "clue": "Doido de droga",
+      "answer": "NOIA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Sem forma definida",
+      "answer": "AMORFO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Pl.) Domínio, controle",
+      "answer": "MÃOS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Uma contração gramatical muito comum",
+      "answer": "AO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Referir-se a alguma coisa",
+      "answer": "INERIR",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Decifrar (informação) através de mecanismo de leitura próprio",
+      "answer": "LER",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Dar atenção a",
+      "answer": "OUVIR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Arte divinatória feita através de cartas ilustradas",
+      "answer": "TARO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Terminação dos álcoois",
+      "answer": "OL",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O do Flamengo fica no RJ",
+      "answer": "ATERRO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Bom conceito",
+      "answer": "RENOME",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Que se pode tecer",
+      "answer": "FIAVEL",
+      "row": 2,
+      "col": 2
+    },
+    "13": {
+      "clue": "Ser tomado por sentimento de raiva",
+      "answer": "RABIAR",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Fazer deitar",
+      "answer": "ACAMAR",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "Muitas",
+      "answer": "VARIAS",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Peixe também chamado sapo-do-mar",
+      "answer": "BAIACU",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Bairro carioca da zona sul",
+      "answer": "LEBLON",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Canto para ninar",
+      "answer": "ARROLO",
+      "row": 5,
+      "col": 7
+    },
+    "26": {
+      "clue": "A força que é sinônimo de violência",
+      "answer": "BRUTA",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "A Flor tinha dois maridos, na obra de Jorge Amado",
+      "answer": "DONA",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Tíbia, malar ou fêmur",
+      "answer": "OSSO",
+      "row": 7,
+      "col": 10
+    },
+    "33": {
+      "clue": "(Matem.) Limite",
+      "answer": "LIM",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "1/5 de X",
+      "answer": "II",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "As consoantes de fofa",
+      "answer": "FF",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

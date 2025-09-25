@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Engasgo",
+      "answer": "ENTALO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Monstro imaginário com que se assusta as crianças",
+      "answer": "OGRO",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Epidemia",
+      "answer": "SURTO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Batida policial para busca de ilícitos",
+      "answer": "BLITZ",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Arrendamento",
+      "answer": "ALUGUEL",
+      "row": 2,
+      "col": 2
+    },
+    "14": {
+      "clue": "Previsto",
+      "answer": "ESPERADO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Milton Nascimento, músico do \"Clube da Esquina\"",
+      "answer": "MN",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Pata de siri, que se parece com um alicate",
+      "answer": "PATOLA",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "(Pé de) Trabalhador esforçado e assíduo ao serviço",
+      "answer": "BOI",
+      "row": 4,
+      "col": 8
+    },
+    "19": {
+      "clue": "A parte pela qual se carrega uma bolsa",
+      "answer": "ALÇA",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "(Pop.) Mau negócio",
+      "answer": "CANO",
+      "row": 5,
+      "col": 7
+    },
+    "21": {
+      "clue": "Em anatomia, ducto seguido por um fluido",
+      "answer": "VIA",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "(Ingl.) Um tipo de hotel",
+      "answer": "RESORT",
+      "row": 6,
+      "col": 4
+    },
+    "24": {
+      "clue": "Emma Thompson, atriz inglesa de \"Vestígios do Dia\"",
+      "answer": "ET",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "O António secretário-geral da ONU",
+      "answer": "GUTERRES",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "Presumido, pretensioso",
+      "answer": "PEDANTE",
+      "row": 8,
+      "col": 2
+    },
+    "28": {
+      "clue": "(Cul.) Preparação que pode ser doce ou salgada",
+      "answer": "CREME",
+      "row": 9,
+      "col": 0
+    },
+    "30": {
+      "clue": "25/12",
+      "answer": "NATAL",
+      "row": 9,
+      "col": 6
+    },
+    "32": {
+      "clue": "Ulceração da mucosa bucal",
+      "answer": "AFTA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Um acompanhamento do frango assado",
+      "answer": "FAROFA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "E",
+      "answer": "ESTE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Sem ornatos",
+      "answer": "NU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Artifício para enganar alguém",
+      "answer": "TRAPAÇA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Pé-de-) Outro nome da frieira",
+      "answer": "ATLETA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "De cabelos claros",
+      "answer": "LOURO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Pode ser diesel ou de canola",
+      "answer": "OLEO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "A Preta e o Gilberto músicos baianos",
+      "answer": "GIL",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Letras separadas pelo S",
+      "answer": "RT",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Gás usado para esterilizar a água",
+      "answer": "OZONIO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Príncipe indiano fundador de uma importante religião",
+      "answer": "BUDA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Pequeno recipiente de vidro usado para servir azeite ou vinagre",
+      "answer": "GALHETA",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "(Banana) Uma sobremesa de sorvete e fruta",
+      "answer": "SPLIT",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "(Carlo) O mais famoso distrito do principado de Mônaco",
+      "answer": "MONTE",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "O escritor Lima (1881-1922), de \"Triste Fim de Policapo Quaresma\"",
+      "answer": "BARRETO",
+      "row": 4,
+      "col": 8
+    },
+    "19": {
+      "clue": "Planta ornamental de cor verde-claro",
+      "answer": "AVENCA",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Fazer incisão em",
+      "answer": "CORTAR",
+      "row": 5,
+      "col": 7
+    },
+    "22": {
+      "clue": "Duro e indelicado no caráter e nos modos",
+      "answer": "RUDE",
+      "row": 6,
+      "col": 4
+    },
+    "23": {
+      "clue": "O piloto Ayrton (1960-1994), tricampeão mundial de F1",
+      "answer": "SENNA",
+      "row": 6,
+      "col": 6
+    },
+    "25": {
+      "clue": "Parte central amarelada do ovo das aves e dos répteis",
+      "answer": "GEMA",
+      "row": 7,
+      "col": 3
+    },
+    "26": {
+      "clue": "Assento de cavaleiro",
+      "answer": "SELA",
+      "row": 7,
+      "col": 10
+    },
+    "27": {
+      "clue": "(Sigla) Material usado na produção de garrafas de refrigerante",
+      "answer": "PET",
+      "row": 8,
+      "col": 2
+    },
+    "29": {
+      "clue": "Receita Federal",
+      "answer": "RF",
+      "row": 9,
+      "col": 1
+    },
+    "31": {
+      "clue": "Ary Fontoura, ator paranaense",
+      "answer": "AF",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

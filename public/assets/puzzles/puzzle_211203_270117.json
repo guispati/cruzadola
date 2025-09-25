@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Santo) Uma cidade paulista da região do ABC",
+      "answer": "ANDRE",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Conversar, dialogar",
+      "answer": "FALAR",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Vara fina de pau",
+      "answer": "VARETA",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Abestalhada, otária",
+      "answer": "BOBA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Que contém ou é formado de gordura (diz-se de tecido)",
+      "answer": "ADIPOSO",
+      "row": 2,
+      "col": 0
+    },
+    "16": {
+      "clue": "Prefixo: inferioridade, substituição",
+      "answer": "SUB",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "A fase lunar que menos ilumina a Terra",
+      "answer": "NOVA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Desabafo de dor",
+      "answer": "PRANTO",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Causar susto ou medo",
+      "answer": "ESPANTAR",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "O que transforma pira em piorra",
+      "answer": "OR",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Recobrar a saúde",
+      "answer": "SARAR",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Egberto Gismonti, músico carioca",
+      "answer": "EG",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Tornar público, espalhar",
+      "answer": "ALASTRAR",
+      "row": 6,
+      "col": 1
+    },
+    "30": {
+      "clue": "O oposto de fechada",
+      "answer": "ABERTA",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Extremidade superior",
+      "answer": "TOPE",
+      "row": 7,
+      "col": 7
+    },
+    "33": {
+      "clue": "Peça importante do jogo de xadrez",
+      "answer": "REI",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Tratar com carinho",
+      "answer": "AMEIGAR",
+      "row": 8,
+      "col": 4
+    },
+    "36": {
+      "clue": "Escolha de grãos de café",
+      "answer": "CATA",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Evaporar",
+      "answer": "ESVAIR",
+      "row": 9,
+      "col": 5
+    },
+    "39": {
+      "clue": "Moderno estádio esportivo e praça de eventos",
+      "answer": "ARENA",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "(Pop.) Na linguagem dos jovens, pessoa de idade",
+      "answer": "COROA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Progresso no campo de batalha",
+      "answer": "AVANÇO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ação de mover-se sobre a água por impulso próprio",
+      "answer": "NADO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(-in) Um cinema",
+      "answer": "DRIVE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Fig.) Reler, rever matéria estudada",
+      "answer": "REPASSAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Sufixo diminutivo masculino",
+      "answer": "ETO",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Um dos quatro grupos sanguíneos",
+      "answer": "AB",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Planta também conhecida como absinto",
+      "answer": "LOSNA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Uma ave preta",
+      "answer": "ABUTRE",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "(de gato) Café ruim, frio ou requentado",
+      "answer": "RABO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Um adoçante artificial muito consumido",
+      "answer": "ASPARTAME",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Guarnecer, embelezar",
+      "answer": "ORNAR",
+      "row": 2,
+      "col": 6
+    },
+    "19": {
+      "clue": "Que chama a atenção",
+      "answer": "ATRATIVO",
+      "row": 3,
+      "col": 7
+    },
+    "21": {
+      "clue": "Em informática, diretório que contém um ou mais arquivos",
+      "answer": "PASTA",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "Mexer a cauda",
+      "answer": "RABEAR",
+      "row": 5,
+      "col": 1
+    },
+    "26": {
+      "clue": "Um antônimo de paz",
+      "answer": "GUERRA",
+      "row": 5,
+      "col": 10
+    },
+    "28": {
+      "clue": "A matéria-prima para queijos",
+      "answer": "LEITE",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "Suplicar",
+      "answer": "ROGAR",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "Uma mala para guardar objetos",
+      "answer": "ARCA",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Um ensacado",
+      "answer": "PAIO",
+      "row": 7,
+      "col": 9
+    },
+    "35": {
+      "clue": "A tecla do extremo superior esquerdo do teclado",
+      "answer": "ESC",
+      "row": 8,
+      "col": 6
+    },
+    "37": {
+      "clue": "Alessandra Negrini, atriz",
+      "answer": "AN",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

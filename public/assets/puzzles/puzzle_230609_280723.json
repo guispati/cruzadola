@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Propaganda",
+      "answer": "PUBLICIDADE",
+      "row": 0,
+      "col": 0
+    },
+    "11": {
+      "clue": "Mulher nascida na capital do Peru",
+      "answer": "LIMENHA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "O Verstappen piloto de F1",
+      "answer": "MAX",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Isolam T e X",
+      "answer": "UVW",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Composição musical para três instrumentos",
+      "answer": "TERCETO",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Pedra de amolar",
+      "answer": "MO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "A mais alta instituição internacional do futebol",
+      "answer": "FIFA",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "(Hot Chili Peppers) Uma banda de rock",
+      "answer": "RED",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "A parte mais elevada",
+      "answer": "CUME",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Prudência",
+      "answer": "TINO",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Loja onde são negociados livros usados",
+      "answer": "SEBO",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Animal marinho caçado por sua pele, gordura e carne",
+      "answer": "FOCA",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "(Coca-) Um refrigerante",
+      "answer": "COLA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "A quantidade total",
+      "answer": "TUDO",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Precede Vegas, na cidade dos EUA",
+      "answer": "LAS",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Água dura",
+      "answer": "GELO",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "A última nota da escala musical",
+      "answer": "SI",
+      "row": 7,
+      "col": 9
+    },
+    "28": {
+      "clue": "Estado norte-americano com capital Phoenix",
+      "answer": "ARIZONA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "(-casado) Docinho de ovos e farinha de trigo",
+      "answer": "BEM",
+      "row": 8,
+      "col": 8
+    },
+    "30": {
+      "clue": "Tecido muito fino, leve e transparente",
+      "answer": "VEU",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Barra de metal fundido, como o ouro",
+      "answer": "LINGOTE",
+      "row": 9,
+      "col": 4
+    },
+    "33": {
+      "clue": "Referente a quem assiste, ajuda",
+      "answer": "ASSESSORIAL",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Pena de ave",
+      "answer": "PLUMA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Som triste e agudo emitido por cães",
+      "answer": "UIVO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Marca alemã de carros e motos de luxo",
+      "answer": "BMW",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Coq Sportif) Marca de materiais esportivos",
+      "answer": "LE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A parte mais profunda de um ser",
+      "answer": "INTIMO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Responsável pela execução de um serviço",
+      "answer": "CHEFE",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Figura da mitologia amazônica, protetora das águas",
+      "answer": "IARA",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "(Brasiliense) Cidade paulista próxima a Araraquara",
+      "answer": "AMERICO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O apresentador de TV José Luiz",
+      "answer": "DATENA",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Emigração de um povo em massa",
+      "answer": "EXODO",
+      "row": 0,
+      "col": 10
+    },
+    "16": {
+      "clue": "Farinha de milho com a qual se faz polenta",
+      "answer": "FUBA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "O astrônomo sueco criador de uma escala de medida de temperatura(1701-1744)",
+      "answer": "CELSIUS",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "(-Poderoso) Deus",
+      "answer": "TODO",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "O apresentador esportivo Paulo",
+      "answer": "SOARES",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "O primeiro de três anônimos",
+      "answer": "FULANO",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Pau usado como arma",
+      "answer": "CLAVA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "O esporte de Björn Borg e Steffi Graf",
+      "answer": "TENIS",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "Cosmético para colorir cílios e supercílios",
+      "answer": "RIMEL",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Os pontos marcados no futebol",
+      "answer": "GOLS",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Sinal em forma de flecha usado para indicar direção ou rumo",
+      "answer": "SETA",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Animal mamífero muito abatido para alimentação",
+      "answer": "BOI",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Glauber Rocha, cineasta de \"Terra em Transe\"",
+      "answer": "GR",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

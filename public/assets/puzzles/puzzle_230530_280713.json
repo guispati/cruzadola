@@ -1,0 +1,258 @@
+{
+  "across": {
+    "2": {
+      "clue": "Vara longa, lisa e reta",
+      "answer": "HASTE",
+      "row": 0,
+      "col": 2
+    },
+    "7": {
+      "clue": "Um material usado por professores",
+      "answer": "GIZ",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Olavo Bilac (1865-1918), poeta",
+      "answer": "OB",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "O ator de \"Queime Depois de Ler\" e \"Troia\"",
+      "answer": "BRADPITT",
+      "row": 1,
+      "col": 3
+    },
+    "14": {
+      "clue": "Uma capital europeia",
+      "answer": "MADRI",
+      "row": 2,
+      "col": 0
+    },
+    "16": {
+      "clue": "Pode ser alta ou baixa",
+      "answer": "MARE",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Um passo do balé",
+      "answer": "PLIE",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Chuvarada forte",
+      "answer": "TORO",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Animal abatido para o consumo",
+      "answer": "RES",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Um texto do jornal",
+      "answer": "ARTIGO",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Relativo à ciência de medir as alturas com normas geométricas e trigonométricas",
+      "answer": "ALTIMETRICO",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Anel metálico",
+      "answer": "ARGOLA",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "O que transforma ente em enruste",
+      "answer": "RUS",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Sopro, brisa",
+      "answer": "AURA",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "Importante cidade da Colômbia",
+      "answer": "CALI",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Oi, em italiano",
+      "answer": "CIAO",
+      "row": 8,
+      "col": 1
+    },
+    "30": {
+      "clue": "Dar vida a seres da mesma espécie",
+      "answer": "GERAR",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Irritar",
+      "answer": "INDISPOR",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Se repetem em charivari",
+      "answer": "RI",
+      "row": 9,
+      "col": 9
+    },
+    "34": {
+      "clue": "Reflexão de um som",
+      "answer": "ECO",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Formações onde os surfistas atuam",
+      "answer": "ONDAS",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ato de adquirir pagando",
+      "answer": "COMPRA",
+      "row": 0,
+      "col": 0
+    },
+    "3": {
+      "clue": "Outro nome da cachaça",
+      "answer": "ABRE",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Precede Lanka, no país asiático",
+      "answer": "SRI",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "O tântalo, entre os químicos",
+      "answer": "TA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Músico carioca, sobrinho de Tim Maia",
+      "answer": "EDMOTTA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Andar à toa, dum lado para outro",
+      "answer": "GIROGIRAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Insípido, sem sabor",
+      "answer": "ITE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Zona Tropical",
+      "answer": "ZT",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Boato falso",
+      "answer": "BALELA",
+      "row": 1,
+      "col": 1
+    },
+    "13": {
+      "clue": "Expulsar do útero (feto)",
+      "answer": "PARIR",
+      "row": 1,
+      "col": 7
+    },
+    "15": {
+      "clue": "Que perde a atenção com frequência",
+      "answer": "DISTRAIDO",
+      "row": 2,
+      "col": 2
+    },
+    "18": {
+      "clue": "Correia a que vai preso um cão",
+      "answer": "TRELA",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Carinhoso",
+      "answer": "AMOROSO",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Diz-se da testemunha que viu",
+      "answer": "OCULAR",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Cidade baiana, próxima a Vitória da Conquista",
+      "answer": "IGUAI",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Deus egípcio, símbolo do Sol",
+      "answer": "OSIRIS",
+      "row": 5,
+      "col": 10
+    },
+    "28": {
+      "clue": "Pasta para dar brilho ao piso",
+      "answer": "CERA",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "As consoantes de caneca",
+      "answer": "CNC",
+      "row": 8,
+      "col": 1
+    },
+    "30": {
+      "clue": "(Ingl.) Deus",
+      "answer": "GOD",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Instituto de Educação",
+      "answer": "IE",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Pablo Neruda, escritor chileno",
+      "answer": "PN",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

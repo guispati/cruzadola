@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Que traz a morte",
+      "answer": "CAPITAL",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Por ti",
+      "answer": "TEU",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Papel com apontamentos",
+      "answer": "LEMBRETE",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "O órgão que envolve todo o corpo do ser humano",
+      "answer": "PELE",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Insegurança de que a pessoa amada dedique seu afeto a outra pessoa",
+      "answer": "CIUMES",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "(Fig.) Dolorosa, penosa",
+      "answer": "AMARGA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Vermelho + azul",
+      "answer": "ROXO",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Que não possui males",
+      "answer": "SÃ",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "A UF de Itabaiana e Aracaju",
+      "answer": "SE",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Fogueira crematória",
+      "answer": "PIRA",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "(Manoel de) Um dos maiores nomes da poesia brasileira",
+      "answer": "BARROS",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "A UF onde se localiza o parque do Jalapão",
+      "answer": "TO",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "A personalidade de cada homem",
+      "answer": "EGO",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Atos exteriores",
+      "answer": "MOSTRAS",
+      "row": 6,
+      "col": 4
+    },
+    "29": {
+      "clue": "Aquilo que atenua um mal",
+      "answer": "REMEDEIO",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "A capital da Guiana Francesa",
+      "answer": "CAIENA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Do qual",
+      "answer": "CUJO",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Objeto Voador Não Identificado",
+      "answer": "OVNI",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Uma bala como o Halls",
+      "answer": "DROPES",
+      "row": 9,
+      "col": 5
+    },
+    "37": {
+      "clue": "Passar bem",
+      "answer": "REGALAR",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Inclusive, mesmo",
+      "answer": "ATE",
+      "row": 10,
+      "col": 8
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "De Hamburgo ou Berlim (fem.)",
+      "answer": "ALEMÃ",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Bola de borracha",
+      "answer": "PELA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Coberta de água",
+      "answer": "IMERSA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Térbio, elemento químico",
+      "answer": "TB",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "O barco de Noé",
+      "answer": "ARCA",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Princípio regulador do comportamento humano",
+      "answer": "LEI",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Sensação de ameaça",
+      "answer": "TEMOR",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Um bicho como Zé Colmeia",
+      "answer": "URSO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Um tipo de roteiro de passeios",
+      "answer": "TURISTICO",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Bilhete de transporte",
+      "answer": "PASSE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Diz-se de ciência como a matemática",
+      "answer": "EXATA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Estágio inicial do desenvolvimento",
+      "answer": "GERMEN",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Falta de naturalidade, de espontaneidade",
+      "answer": "POSE",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Uma grande fabricante de aviões",
+      "answer": "BOEING",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Cada grupo de jogos de um campeonato",
+      "answer": "RODADA",
+      "row": 5,
+      "col": 5
+    },
+    "24": {
+      "clue": "Passagem de fluidos por membrana porosa",
+      "answer": "OSMOSE",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Delicado, crítico, sério",
+      "answer": "GRAVE",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "(Nova) Banda pop",
+      "answer": "ROUPA",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "A peça de vestuário que cobre um pé",
+      "answer": "MEIA",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "Qualquer substância corante",
+      "answer": "COR",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Jato, em inglês",
+      "answer": "JET",
+      "row": 8,
+      "col": 9
+    },
+    "36": {
+      "clue": "Sigla de Roraima",
+      "answer": "RR",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Mover-se para atravessar uma piscina sem tocar o fundo dela",
+      "answer": "NADAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Náut.) Cabo fixo na proa usado para sustentar a mastreação",
+      "answer": "ESTAI",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Deixar de mencionar, de dizer ou de escrever",
+      "answer": "OMITIR",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "\"Leão\" das empresas",
+      "answer": "IRPJ",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Um jogador de futebol bicampeão do mundo em 1958 e 1962",
+      "answer": "VAVA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Beberrão",
+      "answer": "EBRIO",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Cidade cearense às margens do Jaguaribe",
+      "answer": "ARACATI",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Associação de Tenistas Profissionais",
+      "answer": "ATP",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Eu, em Buenos Aires",
+      "answer": "YO",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Disparador de arma de fogo",
+      "answer": "ATIRADOR",
+      "row": 4,
+      "col": 3
+    },
+    "24": {
+      "clue": "Recebido injustamente",
+      "answer": "IMERITO",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Raiz comestível",
+      "answer": "RABANETE",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Marcos Palmeira, ator carioca",
+      "answer": "MP",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "A marca coreana dos carros Picanto e Soul",
+      "answer": "KIA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Cidade cearense, na divisa com o Piauí",
+      "answer": "TIANGUA",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Combinar abraço com palhaço",
+      "answer": "RIMAR",
+      "row": 8,
+      "col": 1
+    },
+    "33": {
+      "clue": "Uma multinacional do ramo de computadores",
+      "answer": "DELL",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Finalidade a alcançar",
+      "answer": "META",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Quantidade de mercadorias, ou de serviços, postos à venda",
+      "answer": "OFERTA",
+      "row": 9,
+      "col": 5
+    },
+    "37": {
+      "clue": "A hidrelétrica gera energia a partir da água",
+      "answer": "USINA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Brecar um veículo",
+      "answer": "FREAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Importante cidade e estado dos EUA",
+      "answer": "NOVAYORK",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Não doce",
+      "answer": "AMARO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Deusa",
+      "answer": "DIVA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Planalto desértico do Chile",
+      "answer": "ATACAMA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Rotary Internacional",
+      "answer": "RI",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Título honorífico da nobreza britânica",
+      "answer": "SIR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Feita a escolha de",
+      "answer": "TRIADO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Impróprio para ser bebido",
+      "answer": "APOTO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "As letras separadas pelo H e pelo K",
+      "answer": "IJ",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Guarda que cuida de fazenda de gado",
+      "answer": "RETIREIRO",
+      "row": 1,
+      "col": 5
+    },
+    "16": {
+      "clue": "(Pop.) Qualquer bebida alcoólica destilada",
+      "answer": "BIRITA",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "Concentrada, alerta",
+      "answer": "ATENTA",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Espalhar",
+      "answer": "PROPALAR",
+      "row": 3,
+      "col": 10
+    },
+    "23": {
+      "clue": "Convir, servir",
+      "answer": "ATENDER",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "Pequeno município paranaense, no Norte do estado",
+      "answer": "IBAITI",
+      "row": 5,
+      "col": 2
+    },
+    "26": {
+      "clue": "(Buenos) A capital da Argentina",
+      "answer": "AIRES",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Pena pecuniária",
+      "answer": "MULTA",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "O ator Richard, de \"Noiva em Fuga\"",
+      "answer": "GERE",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Homem inglês",
+      "answer": "MAN",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "(Fís.) Méson",
+      "answer": "MU",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "(Mús.) Fortíssimo",
+      "answer": "FF",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

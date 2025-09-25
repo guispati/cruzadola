@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Planta que envolve o sushi",
+      "answer": "ALGA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O continente do rio Nilo",
+      "answer": "AFRICA",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Grande cidade sul-mato-grossense",
+      "answer": "CORUMBA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "(Ingl.) Cachorro",
+      "answer": "DOG",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Registrar, escrevendo",
+      "answer": "ANOTAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Lista das iguarias servidas em um restaurante",
+      "answer": "MENU",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Cosmético usado nos lábios pelas mulheres",
+      "answer": "BATOM",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Comunidade fechada",
+      "answer": "SEITA",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "Juntar macho e fêmea para procriação",
+      "answer": "ACASALAR",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Rolando Boldrin, cantor sertanejo e apresentador paulista",
+      "answer": "RB",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Pop.) Uma coisa qualquer",
+      "answer": "TRECO",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Sigla de uma era muito antiga",
+      "answer": "AC",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Amarelado",
+      "answer": "ALOIRADO",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "O pelo do pescoço e da cauda do cavalo",
+      "answer": "CRINA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Raça de cão selvagem, característico da Austrália",
+      "answer": "DINGO",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "(-final) Trabalho gráfico pronto para ser reproduzido",
+      "answer": "ARTE",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Pequeno cartaz usado para decoração de ambientes",
+      "answer": "POSTER",
+      "row": 8,
+      "col": 5
+    },
+    "32": {
+      "clue": "Um meio para demonstrar a própria alegria interior",
+      "answer": "RIR",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "A escola de samba azul e branco, do carnaval do RJ",
+      "answer": "PORTELA",
+      "row": 9,
+      "col": 4
+    },
+    "34": {
+      "clue": "Colocar num lugar de uma sequência de lugares",
+      "answer": "ALOCAR",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Grande afeição por outra pessoa",
+      "answer": "AMOR",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Levar a termo",
+      "answer": "ACABAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Tecido grosso e forte",
+      "answer": "LONA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Depressão úmida em uma encosta",
+      "answer": "GROTA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Indígena",
+      "answer": "AUTOCTONE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Começo de abril",
+      "answer": "ABR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Fred Astaire, dançarino e ator",
+      "answer": "FA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Juízo e opinião sobre uma pessoa ou coisa",
+      "answer": "IDEIA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Pode ser representado por um X",
+      "answer": "CONTRA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O líquido que mata a sede",
+      "answer": "AGUA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Diz-se de glândula encarregada da secreção do leite",
+      "answer": "MAMARIA",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Que compõe sons que se relacionam reciprocamente",
+      "answer": "MELODISTA",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Emitente",
+      "answer": "SACADOR",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Um verbo auxiliar",
+      "answer": "SER",
+      "row": 4,
+      "col": 5
+    },
+    "20": {
+      "clue": "Recipiente para vinho ou chope",
+      "answer": "BARRIL",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Pedir com soluços e lágrimas",
+      "answer": "CHORAR",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Um volume padrão para venda de líquidos",
+      "answer": "LITRO",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Era hoje até hoje",
+      "answer": "ONTEM",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "O contrário da coroa",
+      "answer": "CARA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Água em estado sólido",
+      "answer": "GELO",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Calçar",
+      "answer": "POR",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Ferramenta para recolher entulho",
+      "answer": "PA",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

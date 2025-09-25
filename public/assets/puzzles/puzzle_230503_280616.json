@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Unidade de medida elétrica V",
+      "answer": "VOLT",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Fig.) Tendência determinada por forças externas",
+      "answer": "VIES",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Naquela ocasião",
+      "answer": "ENTÃO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Ímpeto de raiva",
+      "answer": "SANHA",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "(Pop.) Mulher fútil e ociosa",
+      "answer": "DONDOCA",
+      "row": 2,
+      "col": 2
+    },
+    "14": {
+      "clue": "A Marcela maratonista da natação",
+      "answer": "ANA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Outro nome do beija-flor",
+      "answer": "COLIBRI",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Primeira nota da escala musical",
+      "answer": "DO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Poder de controlar",
+      "answer": "DOMINIO",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "O mês da execução de Tiradentes",
+      "answer": "ABRIL",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Um cosmético em pó",
+      "answer": "TALCO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Modificar em alguns pontos",
+      "answer": "RETOCAR",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Habeas corpus",
+      "answer": "HC",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Passar em óleo quente (cebola, tomate e outros temperos)",
+      "answer": "REFOGAR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Um composto usado para temperar alimentos",
+      "answer": "SAL",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Adversário, rival",
+      "answer": "INIMIGO",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "Um habitante de Liège ou Antuérpia",
+      "answer": "BELGA",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "O Rodrigues (1848-1919) Presidente da República entre 1902 e 1906",
+      "answer": "ALVES",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "O diesel é usado em veículos pesados",
+      "answer": "OLEO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Um \"salame\" da feijoada",
+      "answer": "PAIO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Vigília",
+      "answer": "VELADA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ligado, em inglês",
+      "answer": "ON",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Limitada",
+      "answer": "LTDA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Tanto",
+      "answer": "TÃO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Imunizar de doença",
+      "answer": "VACINAR",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "Sem os requisitos necessários",
+      "answer": "INABIL",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Uma interjeição de espanto",
+      "answer": "EH",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Entidade popular do nosso folclore",
+      "answer": "SACI",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Estudo médico dos tumores",
+      "answer": "ONCOLOGIA",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "(Estrela) Um apelido do time do Botafogo do RJ",
+      "answer": "SOLITARIA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Inclinação, talento",
+      "answer": "DOM",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Digno, ilustre",
+      "answer": "NOBRE",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "Grande massa de pedra",
+      "answer": "ROCHA",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Reunião de duas vogais numa só sílaba",
+      "answer": "DITONGO",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Corte em impresso",
+      "answer": "REFILE",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Fechado",
+      "answer": "OCLUSO",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Clube Atlético Mineiro",
+      "answer": "CAM",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "(Pop.) Cauda",
+      "answer": "RABO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Descompostura violenta",
+      "answer": "SOVA",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Gás Liquefeito de Petróleo",
+      "answer": "GLP",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "As iniciais do músico carioca Edu",
+      "answer": "EL",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "Seis sem esses",
+      "answer": "EI",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

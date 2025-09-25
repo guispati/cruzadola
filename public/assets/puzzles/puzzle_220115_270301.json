@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Inapto",
+      "answer": "INABIL",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "A UF AC",
+      "answer": "ACRE",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "A atriz Ximenes",
+      "answer": "MARIANA",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Círculo restrito de pessoas superior à média em quaisquer setores",
+      "answer": "ELITE",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Gír.) Fazer desordens",
+      "answer": "ZONAR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Violeta-púrpura",
+      "answer": "MAGENTA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "A baiana Marcela, maratonista da natação",
+      "answer": "ANA",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Assento",
+      "answer": "CADEIRA",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "(Psic.) Uma das grandes divisões da personalidade humana",
+      "answer": "ID",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Peixe marinho de carne excelente",
+      "answer": "MERO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Uma das cartas do baralho",
+      "answer": "DAMA",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "(Suf.) Autor",
+      "answer": "OR",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Cauda de vestido",
+      "answer": "RABEIRA",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "Precede Vegas, na cidade dos EUA",
+      "answer": "LAS",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Desejo impulsivo",
+      "answer": "VONTADE",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "(-in) Cinema onde o freguês entra com seu próprio carro",
+      "answer": "DRIVE",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "(-Leste) País asiático",
+      "answer": "TIMOR",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "(Esp.) Atleta que começa o jogo no banco",
+      "answer": "RESERVA",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "Desabar",
+      "answer": "RUIR",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Argumentação científica",
+      "answer": "TEORIA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Produto",
+      "answer": "ITEM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Tornar aliado, companheiro fiel",
+      "answer": "AMIGAR",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Punguista",
+      "answer": "BATEDOR",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Um sucesso de Caetano Veloso",
+      "answer": "IRENE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "O lítio, em química",
+      "answer": "LI",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "No de 1888 o Brasil aboliu a escravatura",
+      "answer": "ANO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Cachaça",
+      "answer": "CANA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Que não está certa",
+      "answer": "ERRADA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Revés",
+      "answer": "AZAR",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Rasgar em pedaços",
+      "answer": "LACERAR",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Cheio de vida",
+      "answer": "ANIMADO",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Rio e município de SC, na região de Blumenau",
+      "answer": "TIMBO",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Adicional",
+      "answer": "ADITIVO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Plasmar",
+      "answer": "MOLDAR",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Cercar com fios de latão, ferro, alumínio ou cobre",
+      "answer": "ARAMAR",
+      "row": 5,
+      "col": 8
+    },
+    "26": {
+      "clue": "Pássaros",
+      "answer": "AVES",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "Em posição intermediária",
+      "answer": "ENTRE",
+      "row": 6,
+      "col": 6
+    },
+    "29": {
+      "clue": "Crustáceo de carne saborosa",
+      "answer": "SIRI",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "Folhas do chá, secas e trituradas",
+      "answer": "ERVA",
+      "row": 7,
+      "col": 10
+    },
+    "33": {
+      "clue": "Ter o sentido da visão",
+      "answer": "VER",
+      "row": 8,
+      "col": 3
+    },
+    "36": {
+      "clue": "Um famoso alienígena do cinema",
+      "answer": "ET",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

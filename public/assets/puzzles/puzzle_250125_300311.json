@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Ingl.) Sala de entrada de um edifício",
+      "answer": "HALL",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Um sanduíche",
+      "answer": "HOTDOG",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Uma constelação do hemisfério boreal",
+      "answer": "OFIUCO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Tabaco que faz espirrar",
+      "answer": "RAPE",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "O apelido do ex-presidente João Goulart (1918-1976)",
+      "answer": "JANGO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Interditar",
+      "answer": "VEDAR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Episódio que provoca reação na opinião pública",
+      "answer": "ESCANDALO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "A pintora do Amaral (1886-1973), do modernismo",
+      "answer": "TARSILA",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "V",
+      "answer": "VE",
+      "row": 4,
+      "col": 9
+    },
+    "19": {
+      "clue": "O aconchego da família",
+      "answer": "LAR",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Certos",
+      "answer": "UNS",
+      "row": 5,
+      "col": 4
+    },
+    "21": {
+      "clue": "Abrev.: Honduras",
+      "answer": "HON",
+      "row": 5,
+      "col": 8
+    },
+    "22": {
+      "clue": "Caminhar daqui pra lá",
+      "answer": "IR",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Dar remédios",
+      "answer": "MEDICAR",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Raciocinar metodicamente sobre um tema qualquer",
+      "answer": "FILOSOFAR",
+      "row": 7,
+      "col": 2
+    },
+    "27": {
+      "clue": "Aquilo que se acrescenta a alguma coisa",
+      "answer": "AFIXO",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Dança e música típicas da Argentina",
+      "answer": "TANGO",
+      "row": 8,
+      "col": 6
+    },
+    "30": {
+      "clue": "Pequeno pedaço de pão",
+      "answer": "MIGA",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Um dos sobrenomes do místico Antônio Conselheiro (1830-1897)",
+      "answer": "MACIEL",
+      "row": 9,
+      "col": 5
+    },
+    "32": {
+      "clue": "De proporções gigantescas",
+      "answer": "ENORME",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "(sapiens) Espécie de hominídeo à qual pertence o homem moderno",
+      "answer": "HOMO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O ontem de amanhã",
+      "answer": "HOJE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Levar a uma certa distância",
+      "answer": "AFASTAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Inform.) Criar vínculo",
+      "answer": "LINCAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Fig.) Momento adequado, oportuno; hora, ocasião",
+      "answer": "LUGAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Chi Minh) Grande cidade do Vietnã",
+      "answer": "HO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Pop.) Conversa",
+      "answer": "TRELA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Pequeno cubo com lados numerados de 1 a 6",
+      "answer": "DADO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Interjeição que designa admiração, espanto",
+      "answer": "OPA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Estágio inicial do desenvolvimento",
+      "answer": "GERMEN",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "A cantora Baby da MPB",
+      "answer": "CONSUELO",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Aquele que dança ao som de músicas como \"Danúbio Azul\"",
+      "answer": "VALSISTA",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "(Pop.) Padrinho",
+      "answer": "DINDO",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Redemoinho no mar",
+      "answer": "VORAGEM",
+      "row": 4,
+      "col": 9
+    },
+    "19": {
+      "clue": "Conexão",
+      "answer": "LIGAME",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "O Hf dos químico",
+      "answer": "HAFNIO",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Misturar e combinar diferentes sons",
+      "answer": "MIXAR",
+      "row": 6,
+      "col": 3
+    },
+    "24": {
+      "clue": "(Ingl.) Treinador",
+      "answer": "COACH",
+      "row": 6,
+      "col": 7
+    },
+    "25": {
+      "clue": "Fruto com que se faz doces",
+      "answer": "FIGO",
+      "row": 7,
+      "col": 2
+    },
+    "26": {
+      "clue": "Cilindro revestido usado em pintura",
+      "answer": "ROLO",
+      "row": 7,
+      "col": 10
+    },
+    "28": {
+      "clue": "(Abrev.) Finlândia",
+      "answer": "FIN",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "Som que imita o balido da ovelha",
+      "answer": "ME",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

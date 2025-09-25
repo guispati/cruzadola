@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Como é conhecido o estádio do Santa Cruz, em Recife",
+      "answer": "ARRUDA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Queijo coalhado típico da Grécia",
+      "answer": "FETA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "O cineasta Spike, de \"Malcom X\"",
+      "answer": "LEE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Atribuir (a alguém) a responsabilidade",
+      "answer": "IMPUTAR",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Abrev.: videoteipe",
+      "answer": "VT",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Pássaro que imita o canto de outros",
+      "answer": "JAPIM",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Sigla do estado de Boa Vista",
+      "answer": "RR",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Animal dos mares frios",
+      "answer": "ORCA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Descido de animal de sela",
+      "answer": "APEADO",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "A boreal é o fenômeno luminoso do hemisfério norte",
+      "answer": "AURORA",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Abreviatura de um oficial superior",
+      "answer": "CEL",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Objeto que se coloca como enfeite sobre os móveis",
+      "answer": "BIBELO",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Satisfação, prazer",
+      "answer": "GOZO",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "Tempo de vida",
+      "answer": "IDADE",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Otária, tola",
+      "answer": "BOBA",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Ginástica Artística",
+      "answer": "GA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Linha de demarcação material ou abstrata",
+      "answer": "LIMITE",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "Parte de um fruto que se divide em diversas unidades, como a castanha",
+      "answer": "MERICARPO",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "Empresa publicadora de livros e revistas",
+      "answer": "EDITORA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Voz que imita a explosão de um tiro",
+      "answer": "TUM",
+      "row": 9,
+      "col": 8
+    },
+    "36": {
+      "clue": "Conexão lógica",
+      "answer": "NEXO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Sinal usado nos endereços de correio eletrônico",
+      "answer": "ARROBA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ponto em que se deseja acertar",
+      "answer": "ALVO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Acanhada, tímida",
+      "answer": "RETRAIDA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A nota entre dó e mi",
+      "answer": "RE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O D é o escolhido para a realização de algo muito importante",
+      "answer": "DIA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Escora",
+      "answer": "AMPARO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Cinza-escuro",
+      "answer": "FUME",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Marciano",
+      "answer": "ET",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Lentidão de reflexos",
+      "answer": "TARDEZA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Canto para adormecer crianças",
+      "answer": "ARROLO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Vasilha bojuda de madeira, para vinho, azeite etc.",
+      "answer": "PIPA",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Um ator vencedor de um Oscar por \"Clube de Compras Dallas\"",
+      "answer": "JAREDLETO",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "País com capital Havana",
+      "answer": "CUBA",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Escondido",
+      "answer": "ACOBERTO",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Aquele que trabalha em fábrica de telhas",
+      "answer": "OLEIRO",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "Sino londrino",
+      "answer": "BIGBEN",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Doença que acomete principalmente homens, devida a perturbação do metabolismo do ácido úrico",
+      "answer": "GOTA",
+      "row": 5,
+      "col": 7
+    },
+    "26": {
+      "clue": "Bebericar",
+      "answer": "BICAR",
+      "row": 6,
+      "col": 6
+    },
+    "29": {
+      "clue": "Pontaria",
+      "answer": "MIRA",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "Ação de amansar (potro ou cavalo)",
+      "answer": "DOMA",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Mistura de produtos, ideias etc.",
+      "answer": "MIX",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "O típico bar dos ingleses",
+      "answer": "PUB",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "A quarta letra do alfabeto",
+      "answer": "DE",
+      "row": 9,
+      "col": 1
+    }
+  }
+}

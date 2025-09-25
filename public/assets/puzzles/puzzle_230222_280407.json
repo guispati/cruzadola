@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Osso da parte posterior do ombro",
+      "answer": "OMOPLATA",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "As iniciais do ator estadunidense Brando (1924-2004)",
+      "answer": "MB",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Planta semelhante a uma beterraba branca",
+      "answer": "NABO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "(Graf.) Fazer peças como um talão de cheque",
+      "answer": "BLOCAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Em economia, qualquer item exigido para a produção",
+      "answer": "INSUMO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Base de uma montanha",
+      "answer": "SOPE",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "O nome da letra que simboliza a nota si, na notação alfabética",
+      "answer": "BE",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "O rio que banha a \"cidade-luz\"",
+      "answer": "SENA",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Qualquer pedaço de madeira",
+      "answer": "PAU",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Ficar frustrado",
+      "answer": "MALOGRAR",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Uma resposta para um atchim",
+      "answer": "SAUDE",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Os grupos étnicos",
+      "answer": "RAÇAS",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "Do país entre a Turquia e o Afeganistão",
+      "answer": "IRANIANO",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Precede tetra ou quadri",
+      "answer": "TRI",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "A parte pela qual se carrega a mala",
+      "answer": "ALÇA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "(Quím.) O símbolo do térbio",
+      "answer": "TB",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "As quatro primeiras letras do nosso alfabeto",
+      "answer": "ABCD",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Aparelho para monitorar o funcionamento do coração",
+      "answer": "HOLTER",
+      "row": 8,
+      "col": 5
+    },
+    "35": {
+      "clue": "Planta brasileira também chamada pé-de-bezerro",
+      "answer": "TAIOBA",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "(Inform.) Conjunto de dados",
+      "answer": "DATA",
+      "row": 9,
+      "col": 7
+    },
+    "38": {
+      "clue": "Prata, elemento químico",
+      "answer": "AG",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Que se pode misturar",
+      "answer": "MISCIVEL",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um veículo para transporte coletivo",
+      "answer": "ONIBUS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Gír.) Otário, bobão",
+      "answer": "MANE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Abrev.: observação",
+      "answer": "OBS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Hospedagem, pernoite",
+      "answer": "POUSADA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Perdão por falta ou ausência ao trabalho",
+      "answer": "ABONO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Quím.) Tálio",
+      "answer": "TL",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Àqueles",
+      "answer": "AOS",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Peixe fluvial, de carne apreciada",
+      "answer": "MAPARA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Pez negro",
+      "answer": "BREU",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Copo grande",
+      "answer": "COPAÇO",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Cabelo comprido",
+      "answer": "MELENA",
+      "row": 2,
+      "col": 4
+    },
+    "18": {
+      "clue": "Uva verde",
+      "answer": "AGRAÇO",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "Uma árvore dos cerrados",
+      "answer": "MURICI",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "A atriz paulistana Helena",
+      "answer": "RANALDI",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "(Ingl.) Bolsa de segurança em automóveis",
+      "answer": "AIRBAG",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Importante cidade do Ceará",
+      "answer": "SOBRAL",
+      "row": 5,
+      "col": 10
+    },
+    "27": {
+      "clue": "Terras que formam arquipélagos",
+      "answer": "ILHAS",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "A atriz e apresentadora Werneck",
+      "answer": "TATA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Um apelido para Teresa",
+      "answer": "TETE",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Pronome de tratamento concedido a bispos católicos",
+      "answer": "DOM",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Trem de Alta Velocidade",
+      "answer": "TAV",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "O símbolo químico do bismuto",
+      "answer": "BI",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Aproveitamento de águas correntes",
+      "answer": "CAPTAGEM",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "O símbolo químico da platina",
+      "answer": "PT",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Aquele que escreve versos",
+      "answer": "POETA",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Estado com capital Rio Branco",
+      "answer": "ACRE",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "O que entorta uma reta",
+      "answer": "CURVA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O cereal usado no risoto",
+      "answer": "ARROZ",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Esmero na criação de algo",
+      "answer": "ARTE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Serviços simples e rápidos, de pouca importância",
+      "answer": "BICOS",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "O antônimo de má",
+      "answer": "BOA",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Aglomeração de plantas da Musa paradisiaca",
+      "answer": "BANANAL",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Formou uma famosa dupla sertaneja com Leonardo",
+      "answer": "LEANDRO",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Auxiliada, socorrida",
+      "answer": "ACUDIDA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Music Television, canal de TV",
+      "answer": "MTV",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Um meio de transporte como  um Learjet",
+      "answer": "AVIÃO",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Substância para dar brilho ao piso",
+      "answer": "CERA",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Parte do sistema de embreagem do automóvel",
+      "answer": "PLATO",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Soltar (o cão) sua voz",
+      "answer": "LATIR",
+      "row": 8,
+      "col": 6
+    },
+    "30": {
+      "clue": "O que não é fundo",
+      "answer": "RASO",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Mercado periódico",
+      "answer": "FEIRA",
+      "row": 9,
+      "col": 5
+    },
+    "32": {
+      "clue": "Fernanda Rodrigues, atriz",
+      "answer": "FR",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Aquela que verifica e conserta erros em textos",
+      "answer": "REVISORA",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Situação financeira delicada",
+      "answer": "APURO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Caixa para pequenos objetos, no painel dos automóveis",
+      "answer": "PORTALUVAS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Pop.) Televisão",
+      "answer": "TEVE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Resumo de uma reunião",
+      "answer": "ATA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Giovanna Antonelli, atriz",
+      "answer": "GA",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Pôr sinal em",
+      "answer": "MARCAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Bate-papo",
+      "answer": "PROSA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Cútis",
+      "answer": "TEZ",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Relógio usado em competições",
+      "answer": "CRONOMETRO",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "No jogo do bicho, o sexto grupo",
+      "answer": "CABRA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Até este momento",
+      "answer": "AINDA",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Grupo de malfeitores ou animais",
+      "answer": "BANDO",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Dança popular nordestina",
+      "answer": "BAIÃO",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Eliminar a sujeira usando água, sabão etc.",
+      "answer": "LAVAR",
+      "row": 4,
+      "col": 10
+    },
+    "21": {
+      "clue": "Produtor de livros",
+      "answer": "EDITOR",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Não dizer",
+      "answer": "CALAR",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Fazer a seleção de",
+      "answer": "TRIAR",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Local onde o navio atraca",
+      "answer": "CAIS",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Polícia Rodoviária Federal",
+      "answer": "PRF",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Alguma coisa a que se tem de obedecer",
+      "answer": "LEI",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Fagundes Varella (1841-1875), poeta",
+      "answer": "FV",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

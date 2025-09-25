@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "O vício no tabaco",
+      "answer": "FUMAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "A cantora Luiza, da MPB",
+      "answer": "POSSI",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "(Pop.) De miolo mole",
+      "answer": "AMALUCADO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Erguer, levantar",
+      "answer": "ALCEAR",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "As letras que separam o A e o E",
+      "answer": "BCD",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Poema japonês de três versos",
+      "answer": "HAICAI",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Hólmio",
+      "answer": "HO",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Famosa cidade da Jordânia",
+      "answer": "PETRA",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Brejo",
+      "answer": "PAUL",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Um meio de transporte público",
+      "answer": "METRO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Iguaria leve, salgada ou doce, levada ao forno",
+      "answer": "SUFLE",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Substância usada no motor dos carros",
+      "answer": "OLEO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Pop.) Prato feito",
+      "answer": "PEEFE",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Sigla do estado de Guajará-Mirim e Ji-Paraná",
+      "answer": "RO",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Mús.) Toque de sino para anunciar a morte de alguém",
+      "answer": "AGONIA",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Cidade catarinense vizinha a Jaraguá do Sul",
+      "answer": "GUARAMIRIM",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Círculo metálico que envolve a roda da bicicleta",
+      "answer": "ARO",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "A febre transmitida pelo mosquito anófele",
+      "answer": "MALARIA",
+      "row": 9,
+      "col": 4
+    },
+    "34": {
+      "clue": "Emitir (o cão) a sua voz ameaçadora",
+      "answer": "ROSNAR",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Zool.) Conjunto das características que diferenciam machos e fêmeas",
+      "answer": "SEXO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Mús.) A nota entre o mi e o sol",
+      "answer": "FA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A atriz Thurman, de \"Kill Bill\"",
+      "answer": "UMA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um pequeno martelo para bater ferro",
+      "answer": "MALHETE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Cobrir com certa substância resinosa escura",
+      "answer": "ALCATROAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Que não pára em casa e só fica passeando",
+      "answer": "RUEIRO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Preposição que expressa o sentido de propósito, finalidade",
+      "answer": "PARA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O que muda de melar para modelar",
+      "answer": "OD",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Durante o governo de",
+      "answer": "SOB",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Espírito, temperamento",
+      "answer": "INDOLE",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Pop.) Porcaria, coisa ruim",
+      "answer": "CACA",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Fedor dos pés",
+      "answer": "CHULE",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Nome de duas cidades, uma em TO e outra no CE",
+      "answer": "IPUEIRAS",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Bala de pedra ou metal que era usada em antigas peças de artilharia",
+      "answer": "PELOURO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "(Fr.) Relação amorosa",
+      "answer": "AFFAIRE",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "(Pop.) Ceder ao cansaço",
+      "answer": "MORGAR",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Velho, decrépito",
+      "answer": "SENIL",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Plantação de frutíferas",
+      "answer": "POMAR",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "(Vasco da) Um clube do futebol carioca",
+      "answer": "GAMA",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Àqueles",
+      "answer": "AOS",
+      "row": 8,
+      "col": 2
+    },
+    "30": {
+      "clue": "Mistura de coisas, ideias etc.",
+      "answer": "MIX",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Gato sem consoantes",
+      "answer": "AO",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Sentir amargura",
+      "answer": "AMARESCER",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "(Gír.) Pessoa que não tem ocupação, que leva a vida no ócio",
+      "answer": "VAGAL",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Lição ministrada por um professor",
+      "answer": "AULA",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Sigla do estado de Arapiraca",
+      "answer": "AL",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Na) À força",
+      "answer": "MARRA",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Ginástica Artística",
+      "answer": "GA",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Clube Atlético Mineiro",
+      "answer": "CAM",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "O contrário de com",
+      "answer": "SEM",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "(Psiq.) Transtorno Obsessivo-Compulsivo",
+      "answer": "TOC",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Um precioso líquido transparente",
+      "answer": "AGUA",
+      "row": 4,
+      "col": 0
+    },
+    "23": {
+      "clue": "Televisão",
+      "answer": "TEVE",
+      "row": 4,
+      "col": 5
+    },
+    "25": {
+      "clue": "Aquele que indica os lugares, nos cinemas",
+      "answer": "LANTERNINHA",
+      "row": 5,
+      "col": 0
+    },
+    "28": {
+      "clue": "A Flor tinha dois maridos, na obra de Jorge Amado",
+      "answer": "DONA",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "Que não é oportuno",
+      "answer": "RUIM",
+      "row": 6,
+      "col": 7
+    },
+    "30": {
+      "clue": "A primeira palavra dita ao atender o telefone",
+      "answer": "ALO",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Um antônimo de começo",
+      "answer": "FIM",
+      "row": 7,
+      "col": 4
+    },
+    "34": {
+      "clue": "Esclerose Lateral Amiotrófica",
+      "answer": "ELA",
+      "row": 7,
+      "col": 8
+    },
+    "35": {
+      "clue": "Criminosa",
+      "answer": "RE",
+      "row": 8,
+      "col": 0
+    },
+    "36": {
+      "clue": "Pratinho para a xícara de café",
+      "answer": "PIRES",
+      "row": 8,
+      "col": 3
+    },
+    "38": {
+      "clue": "O músico Motta, de \"Vendaval\"",
+      "answer": "ED",
+      "row": 8,
+      "col": 9
+    },
+    "39": {
+      "clue": "Objeto resultante do trabalho de um artista",
+      "answer": "OBRA",
+      "row": 9,
+      "col": 1
+    },
+    "41": {
+      "clue": "Aborrecimento profundo",
+      "answer": "TEDIO",
+      "row": 9,
+      "col": 6
+    },
+    "43": {
+      "clue": "Colher plantas usadas para alimentar o gado",
+      "answer": "FORRAGEAR",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Desmoralizar, ridicularizar",
+      "answer": "AVACALHAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Cidade da Espanha, na Andaluzia",
+      "answer": "MALAGA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Prata, elemento químico",
+      "answer": "AG",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um tipo de memória de computadores",
+      "answer": "RAM",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Terceira pessoa feminina do plural",
+      "answer": "ELAS",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Ópera de ambiente espanhol",
+      "answer": "CARMEN",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Sigla) Estados Unidos da América",
+      "answer": "EUA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Rita Lee, cantora",
+      "answer": "RL",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "Segue Jul",
+      "answer": "AGO",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Puxar a si",
+      "answer": "RETRAIR",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Aquele que aplaude calorosamente",
+      "answer": "ACLAMADOR",
+      "row": 2,
+      "col": 10
+    },
+    "18": {
+      "clue": "(Pop.) Grande quantidade",
+      "answer": "MUNDO",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "Fino",
+      "answer": "TENUE",
+      "row": 3,
+      "col": 8
+    },
+    "22": {
+      "clue": "Acontecimento com caráter formal",
+      "answer": "ATO",
+      "row": 4,
+      "col": 3
+    },
+    "24": {
+      "clue": "Transportar-se para cá",
+      "answer": "VIR",
+      "row": 4,
+      "col": 7
+    },
+    "26": {
+      "clue": "Fazer entrar, introduzir, meter",
+      "answer": "ENFIAR",
+      "row": 5,
+      "col": 4
+    },
+    "27": {
+      "clue": "A floresta amazônica (para os naturalistas)",
+      "answer": "HILEIA",
+      "row": 5,
+      "col": 9
+    },
+    "31": {
+      "clue": "O companheiro de Victor na dupla sertaneja",
+      "answer": "LEO",
+      "row": 7,
+      "col": 1
+    },
+    "33": {
+      "clue": "Fim, limite",
+      "answer": "META",
+      "row": 7,
+      "col": 6
+    },
+    "36": {
+      "clue": "Em defesa de",
+      "answer": "PRO",
+      "row": 8,
+      "col": 3
+    },
+    "37": {
+      "clue": "Segue Dom",
+      "answer": "SEG",
+      "row": 8,
+      "col": 7
+    },
+    "40": {
+      "clue": "Bruno Fratus, nadador",
+      "answer": "BF",
+      "row": 9,
+      "col": 2
+    },
+    "42": {
+      "clue": "D",
+      "answer": "DE",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

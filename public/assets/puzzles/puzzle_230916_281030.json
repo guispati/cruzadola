@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Diz o provérbio que é o melhor tempero",
+      "answer": "FOME",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Orixá das águas, deusa do rio homônimo, na África",
+      "answer": "OXUM",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Informação que completa o que já se escreveu",
+      "answer": "ADENDO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O poeta gaúcho Raul",
+      "answer": "BOPP",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Pela base",
+      "answer": "CERCE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Grande peixe de pele sem escamas",
+      "answer": "BAGRE",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "O Lattes (1924-2005), cientista brasileiro",
+      "answer": "CESAR",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Perna, em inglês",
+      "answer": "LEG",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "(Pop.) Cerveja clara",
+      "answer": "LOIRA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Molhado superficialmente",
+      "answer": "UMIDO",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Apêndice",
+      "answer": "AFIXO",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Caixa-forte",
+      "answer": "COFRE",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Viagem sem rumo",
+      "answer": "ERROR",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Organização das Nações Unidas",
+      "answer": "ONU",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Falso brilho",
+      "answer": "TALCO",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "(Mús.) Balanço",
+      "answer": "RITMO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "O aegypti é o transmissor da dengue",
+      "answer": "AEDES",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Colar, bracelete etc. em metal precioso",
+      "answer": "JOIA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Pop.) Tosse convulsa",
+      "answer": "ESGANA",
+      "row": 9,
+      "col": 5
+    },
+    "35": {
+      "clue": "62 em romanos",
+      "answer": "LXII",
+      "row": 10,
+      "col": 2
+    },
+    "36": {
+      "clue": "Pronunciar discurso",
+      "answer": "ORAR",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Que se consegue resolver sem dificuldade",
+      "answer": "FACIL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Composição lírica da poesia clássica e moderna",
+      "answer": "ODE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Fr.) Obrigado",
+      "answer": "MERCI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Lustrar (assoalhos)",
+      "answer": "ENCERAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "As vogais de Otto",
+      "answer": "OO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Cidade mineira, berço do compositor Ary Barroso",
+      "answer": "UBA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O menino que foi criado por lobos, dos desenhos infantis",
+      "answer": "MOGLI",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Afeição em relação a alguma coisa",
+      "answer": "APEGO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Adversário, inimigo",
+      "answer": "DESAFETO",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Edifício",
+      "answer": "PREDIO",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "(Couve-de-) Planta com folhas que formam pequenos repolhos",
+      "answer": "BRUXELAS",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "Gás para esterilizar a água",
+      "answer": "OZONIO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Animal que lembra o Batman",
+      "answer": "MORCEGO",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Gente que não goza de boa reputação",
+      "answer": "CORJA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Que dá importância a coisas inúteis, superficiais",
+      "answer": "FUTIL",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Circular",
+      "answer": "RODAR",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Tornar cor-de-rosa",
+      "answer": "ROSAR",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Abrev.: Máximo",
+      "answer": "MAX",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Um sufixo de coletivo numeral",
+      "answer": "ENA",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "(Interj.) Um chamamento",
+      "answer": "EI",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O fim da oração",
+      "answer": "AMEM",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "No cristianismo, o criador do universo",
+      "answer": "DEUS",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Há pouco",
+      "answer": "RECEM",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O de saúde aplica vacinas e faz atendimentos",
+      "answer": "POSTO",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Modalidade esportiva individual com armas brancas",
+      "answer": "ESGRIMA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Interjeição que exprime aprovação, adesão, agrado",
+      "answer": "BEM",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "A UF de Parintins e Manaus",
+      "answer": "AM",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Área desmatada",
+      "answer": "CLAREIRA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Parte da xícara por onde se pode pegá-la",
+      "answer": "ASA",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Obra escrita",
+      "answer": "LIVRO",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Olhar de frente",
+      "answer": "ENCARAR",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Mencionar o nome de",
+      "answer": "CITAR",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Um tipo de música ou pintura moderna",
+      "answer": "POP",
+      "row": 6,
+      "col": 7
+    },
+    "26": {
+      "clue": "O nome do sanfoneiro Sivuca",
+      "answer": "SEVERINO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Era Cristã",
+      "answer": "EC",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Sufixo diminutivo masculino",
+      "answer": "ETO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Nascida no segundo signo do zodíaco",
+      "answer": "TAURINA",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Antipatia",
+      "answer": "CISMA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Tirar a vida de alguém",
+      "answer": "MATAR",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "O oposto de ódio",
+      "answer": "AMOR",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "O que não é fundo",
+      "answer": "RASO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Pode ser calculada em cm²",
+      "answer": "AREA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Que não sofreu alterações (fem.)",
+      "answer": "MESMA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Eletrocardiograma",
+      "answer": "ECG",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Relativo ao comércio",
+      "answer": "MERCANTE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A nota musical que inicia a escala",
+      "answer": "DO",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "Agente de polícia",
+      "answer": "ESBIRRO",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Órgão onde se desenvolve o feto",
+      "answer": "UTERO",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Uma das operações fundamentais da aritmética",
+      "answer": "SOMA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "O número de quilos de uma tonelada",
+      "answer": "MIL",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Expelir o feto fazendo-o nascer",
+      "answer": "PARIR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "A febre transmitida pelo mosquito anófele",
+      "answer": "MALARIA",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Passar de líquido para gasoso",
+      "answer": "EVAPORAR",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Em que corre suco nutritivo (vegetal)",
+      "answer": "SEIVOSO",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Mapa",
+      "answer": "CARTA",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Um tecido brilhante",
+      "answer": "CETIM",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Estruturas que envolvem os pássaros",
+      "answer": "PENAS",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Período caracterizado por falta de chuvas",
+      "answer": "SECA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Lock) Tecla do PC",
+      "answer": "NUM",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "Querido",
+      "answer": "CARO",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "Barco de transporte entre o N e o S do Brasil",
+      "answer": "ITA",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Mister",
+      "answer": "MR",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

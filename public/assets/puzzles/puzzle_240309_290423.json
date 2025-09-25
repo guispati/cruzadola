@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "O apresentador e repórter Pedro",
+      "answer": "BIAL",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Uma jaqueta de médico",
+      "answer": "JALECO",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Representado",
+      "answer": "ENCENADO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Artigo para mais de uma coisa (fem.)",
+      "answer": "AS",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Uma indústria de tevês, celulares etc.",
+      "answer": "LG",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Luta de origem japonesa, com competidores corpulentos",
+      "answer": "SUMO",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Sigla inglesa de Greenwich mean time, horário local do meridiano 0°",
+      "answer": "GMT",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "O Presley (1935-1977), cantor de rock",
+      "answer": "ELVIS",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Que atinge o calcanhar",
+      "answer": "TALAR",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "Recurso, expediente",
+      "answer": "MEIO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Animal de corpo arredondado",
+      "answer": "TATU",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "A monja italiana de Cássia, da Igreja católica",
+      "answer": "SANTARITA",
+      "row": 5,
+      "col": 1
+    },
+    "26": {
+      "clue": "O ator García Bernal, de \"Amores Brutos\"",
+      "answer": "GAEL",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Riozinho",
+      "answer": "REGO",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Correia de couro para prender o cão",
+      "answer": "TRELA",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Tecido de algodão, usado para calças jeans",
+      "answer": "DENIM",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "(Matem.) Símbolo de limite",
+      "answer": "LIM",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Líquido que se espreme dos frutos",
+      "answer": "SUCO",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "Também, na net",
+      "answer": "TB",
+      "row": 8,
+      "col": 9
+    },
+    "36": {
+      "clue": "Arnaldo Jabor (1940-2022), jornalista e cineasta",
+      "answer": "AJ",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Entreabrir os olhos repetidas vezes",
+      "answer": "REPISCAR",
+      "row": 9,
+      "col": 3
+    },
+    "39": {
+      "clue": "Um produto usado em maquiagem",
+      "answer": "SOMBRA",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "A moeda da UE",
+      "answer": "EURO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Cidade tida como o local onde Jesus Cristo nasceu",
+      "answer": "BELEM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A língua oficial da Austrália e da Nova Zelândia",
+      "answer": "INGLES",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A UF de Tarauacá e Xapuri",
+      "answer": "AC",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Relativo a pancada, contusão no corpo",
+      "answer": "LESIONAL",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A session dos improvisadores e virtuoses do jazz",
+      "answer": "JAM",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Votar e aprovar",
+      "answer": "ADOTAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Certo tecido fino e ralo",
+      "answer": "LO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Móvel usado para dormir e descansar",
+      "answer": "CAMA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Molusco do mar",
+      "answer": "OSTRA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Despidos",
+      "answer": "NUS",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Parte proteica e nutritiva da farinha dos cereais",
+      "answer": "GLUTEN",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "(Gír.) Alucinação resultante do uso de certas drogas",
+      "answer": "VIAGEM",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "(Med.) Falta da glândula tireoide",
+      "answer": "ATIREOSE",
+      "row": 3,
+      "col": 7
+    },
+    "21": {
+      "clue": "Igual ou semelhante",
+      "answer": "TAL",
+      "row": 4,
+      "col": 5
+    },
+    "23": {
+      "clue": "(Ingl.) Um tipo de anúncio para despertar a curiosidade",
+      "answer": "TEASER",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Incitar à revolta",
+      "answer": "AGITAR",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Livro de geógrafo",
+      "answer": "ATLAS",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "A região com a escápula e a clavícula",
+      "answer": "OMBRO",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Vigoroso",
+      "answer": "RIJO",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "Em farmácia, Denominação Comum Internacional",
+      "answer": "DCI",
+      "row": 7,
+      "col": 6
+    },
+    "34": {
+      "clue": "Unidade de Pronto Atendimento",
+      "answer": "UPA",
+      "row": 8,
+      "col": 5
+    },
+    "37": {
+      "clue": "Rolando Boldrin, cantor sertanejo e apresentador paulista",
+      "answer": "RB",
+      "row": 9,
+      "col": 3
+    },
+    "38": {
+      "clue": "(Quím.) O cobre",
+      "answer": "CU",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

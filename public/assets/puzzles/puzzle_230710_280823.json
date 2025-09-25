@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Leilão",
+      "answer": "HASTA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Animal de pele valiosa",
+      "answer": "VISOM",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Sinal para estar vigilante",
+      "answer": "ALERTA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "O animal que quer devorar Chapeuzinho Vermelho",
+      "answer": "LOBO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "O material com o qual se fabricavam LPs",
+      "answer": "VINIL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Pop.) Deixar de funcionar",
+      "answer": "PIFAR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "A carta de jogar com a letra A",
+      "answer": "AS",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "(Gír.) Passar rapidamente por vários canais da TV",
+      "answer": "ZAPEAR",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Instituto Tecnológico de Aeronáutica",
+      "answer": "ITA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Flor perfumada, da qual se obtém um óleo essencial",
+      "answer": "NARCISO",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Aquele que participa de uma revolta",
+      "answer": "AMOTINADO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Negócio ilegal, clandestino",
+      "answer": "TRAFICO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "O grito que acompanha danças flamencas",
+      "answer": "OLE",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Cometer um erro novamente",
+      "answer": "RECAIR",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "A abreviatura que precede o nome do médico",
+      "answer": "DR",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Madeira nobre",
+      "answer": "MOGNO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Vendar os olhos",
+      "answer": "TAPAR",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Pais de filhos pais",
+      "answer": "AVOS",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Perseguido",
+      "answer": "CAÇADO",
+      "row": 9,
+      "col": 5
+    },
+    "36": {
+      "clue": "O desejo de quem passa mal",
+      "answer": "SARAR",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Hastes que reforçam a roda da bicicleta",
+      "answer": "RAIOS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Estado dos EUA isolado no oceano Pacífico",
+      "answer": "HAVAI",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Inscrever nas forças armadas",
+      "answer": "ALISTAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Senador",
+      "answer": "SEN",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um quase nada",
+      "answer": "TRIZ",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O segundo oceano em extensão",
+      "answer": "ATLANTICO",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "A crista do quadril",
+      "answer": "ILIACA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Doído",
+      "answer": "SOFRIDO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Uma saudação",
+      "answer": "OBA",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "(Mar) Grande corpo d'água salgada que banha a Jordânia, Cisjordânia e Israel",
+      "answer": "MORTO",
+      "row": 0,
+      "col": 10
+    },
+    "14": {
+      "clue": "Parar no período noturno em lugar determinado, para dormir",
+      "answer": "PERNOITAR",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Unidade tipométrica igual a 4,218 mm",
+      "answer": "PAICA",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Dor moral",
+      "answer": "AMARGOR",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Militar do Exército, último na hierarquia militar",
+      "answer": "SOLDADO",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Transgressão, pecado",
+      "answer": "OFENSA",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "(de Aquino) Um santo da Igreja Católica",
+      "answer": "TOMAS",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Equívocos, desacertos",
+      "answer": "ERROS",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "Uma divisão tradicional dos grupos humanos",
+      "answer": "RAÇA",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "A do peixe esturjão vira caviar",
+      "answer": "OVA",
+      "row": 8,
+      "col": 1
+    },
+    "33": {
+      "clue": "(Rel.) O de santo é um chefe espiritual do candomblé",
+      "answer": "PAI",
+      "row": 8,
+      "col": 8
+    }
+  }
+}

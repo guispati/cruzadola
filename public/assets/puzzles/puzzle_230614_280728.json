@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "O Gabriel atacante do futebol",
+      "answer": "JESUS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Que tem prazer em causar dor",
+      "answer": "CRUEL",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Diz-se do sapato que não tem salto",
+      "answer": "RASO",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Exclamação de incerteza, indiferença",
+      "answer": "HUM",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Cunhar (medalha ou moeda)",
+      "answer": "LAVRAR",
+      "row": 2,
+      "col": 2
+    },
+    "14": {
+      "clue": "Virgínia Lane, vedete do teatro de revista",
+      "answer": "VL",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Azeda",
+      "answer": "ACIDA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "A cavidade óssea que serve de apoio aos membros inferiores",
+      "answer": "BACIA",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Dar nova redação a documentos, leis etc.",
+      "answer": "REFORMULAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "N",
+      "answer": "ENE",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Relação tranquila entre nações",
+      "answer": "PAZ",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Diz-se de uma válvula do coração",
+      "answer": "TRICUSPIDE",
+      "row": 6,
+      "col": 1
+    },
+    "29": {
+      "clue": "(Quím.) Br",
+      "answer": "BROMO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Soltar, o lobo, a sua voz",
+      "answer": "UIVAR",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Trato sem consoantes",
+      "answer": "AO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Pequeno pião",
+      "answer": "PIORRA",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Documento de Arrecadação do Simples",
+      "answer": "DAS",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "(Pop.) Diz-se de ou indivíduo exímio no que sabe ou faz",
+      "answer": "FERA",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Extraordinário",
+      "answer": "EXTRA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Pesquisa",
+      "answer": "EXAME",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Elba Ramalho, cantora",
+      "answer": "ER",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Impregnado de NaCl",
+      "answer": "SALIFERO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Que sofreu desgaste",
+      "answer": "USADO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Bater a massa de",
+      "answer": "SOVAR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Estouro chocho de foguete malfeitos",
+      "answer": "CHABU",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Agrícola",
+      "answer": "RURAL",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O número que inaugura o placar",
+      "answer": "UM",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O molusco do qual se extrai a tinta sépia",
+      "answer": "LULA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Placa de trânsito; obriga diminuir a velocidade a zero",
+      "answer": "PARE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Reação de um competidor que começa perdendo e no final passa a vencedor",
+      "answer": "VIRADA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "O núcleo principal de uma cidade",
+      "answer": "CENTRO",
+      "row": 3,
+      "col": 1
+    },
+    "18": {
+      "clue": "(Serra da) Parque nacional piauiense rico em sítios pré-históricos",
+      "answer": "CAPIVARA",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Perverso",
+      "answer": "MAU",
+      "row": 4,
+      "col": 5
+    },
+    "23": {
+      "clue": "O personagem Recruta, militar das HQs",
+      "answer": "ZERO",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Diz-se de número não divisível por dois",
+      "answer": "IMPAR",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Um objeto qualquer",
+      "answer": "COISA",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "O esporte de Filipe Toledo e João Chianca",
+      "answer": "SURFE",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "Vidro forte",
+      "answer": "PIREX",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Aspecto essencial de alguma coisa",
+      "answer": "BASE",
+      "row": 7,
+      "col": 0
+    },
+    "33": {
+      "clue": "Delirium Tremens, quadro patológico que surge após um longo tempo de consumo excessivo de álcool etílico",
+      "answer": "DT",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "A UF de Parintins e Manaus",
+      "answer": "AM",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

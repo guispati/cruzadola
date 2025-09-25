@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "A forma como se compra carne no açougue",
+      "answer": "CRUA",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "(Pop.) Assanhado",
+      "answer": "SAPECA",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Fundo de vácuo",
+      "answer": "UO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Confeito de amêndoa e açúcar",
+      "answer": "PRALINE",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Papa de milho",
+      "answer": "CURAU",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Melodia simples e monótona, com letra curta",
+      "answer": "TOADA",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Do vinagre",
+      "answer": "ACETICO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Próprio da pessoa que fala",
+      "answer": "MEU",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Fruto usado para produzir azeite",
+      "answer": "OLIVA",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Distúrbios Osteomusculares Relacionados ao Trabalho",
+      "answer": "DORT",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Tirar do nervosismo",
+      "answer": "ACALMAR",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Personalidade, psique",
+      "answer": "ALMA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Tapar um recipiente, impedindo a saída do líquido",
+      "answer": "VEDAR",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Uma arte de vanguarda",
+      "answer": "POP",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Que costura",
+      "answer": "COSEDOR",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Ser unicelular, parasita intestinal",
+      "answer": "AMEBA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Grande cidade dos EUA, na Flórida",
+      "answer": "MIAMI",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Transferir (passageiro) de um veículo para outro",
+      "answer": "BALDEAR",
+      "row": 9,
+      "col": 1
+    },
+    "36": {
+      "clue": "Emenda Constitucional",
+      "answer": "EC",
+      "row": 9,
+      "col": 9
+    },
+    "37": {
+      "clue": "O homem-macaco do cinema",
+      "answer": "TARZAN",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Vertente de telhado",
+      "answer": "AGUA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Cozinheiro",
+      "answer": "CUCA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Quase áfono",
+      "answer": "ROUCO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Aquela que é indiferente a tudo",
+      "answer": "APATICA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "O parceiro de Guarabyra, do sucesso \"Espanhola\"",
+      "answer": "SA",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "(lá) Expressão equivalente a pare",
+      "answer": "ALTO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Devoto",
+      "answer": "PIO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Que se apaixonou (fem.)",
+      "answer": "ENAMORADA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Transferir possessão",
+      "answer": "CEDER",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "De cabelo avermelhado (fem.)",
+      "answer": "RUIVA",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Faiscar",
+      "answer": "RELAMPEAR",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "O da Compadecida é uma obra de Ariano Suassuna",
+      "answer": "AUTO",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Sem cabelos na cabeça",
+      "answer": "CALVO",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Diz-se de mulher sujeita a ataques",
+      "answer": "DADEIRA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Cobertura superficial",
+      "answer": "CAPA",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Estado do que não sofreu alterações (fem.)",
+      "answer": "MESMA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Crista arredondada",
+      "answer": "LOMBA",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "(e Julieta) Goiabada com queijo",
+      "answer": "ROMEU",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Tal",
+      "answer": "CADA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Cheia de dinheiro",
+      "answer": "RICA",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "As consoantes de beleza",
+      "answer": "BLZ",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Ernesto Nazareth (1863-1934), músico de \"Odeon\"",
+      "answer": "EN",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

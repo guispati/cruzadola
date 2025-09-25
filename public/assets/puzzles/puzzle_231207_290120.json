@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Ingl.) Precede six",
+      "answer": "FIVE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Um signo do zodíaco",
+      "answer": "VIRGEM",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Um dos principais heróis do cerco de Tróia",
+      "answer": "ULISSES",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Entre Jul e Set",
+      "answer": "AGO",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Leandro Hassum, ator",
+      "answer": "LH",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Travessa inferior dos marcos das janelas",
+      "answer": "PEITORIL",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "O \"pai\" do Pinóquio",
+      "answer": "GEPETO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Pequeno recipiente para acondicionar cosméticos",
+      "answer": "POTE",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "A moeda da China",
+      "answer": "IUANE",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Um sobrenome comum aos filhos dos filhos",
+      "answer": "NETO",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Mulher que faz arte em telas, murais etc.",
+      "answer": "PINTORA",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Cidade santa do islã, na Arábia Saudita",
+      "answer": "MECA",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "A capital europeia onde se fala o espanhol",
+      "answer": "MADRI",
+      "row": 6,
+      "col": 6
+    },
+    "26": {
+      "clue": "Em uma prova, resposta verificada ou passada clandestinamente",
+      "answer": "COLA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Utensílios de cozinha",
+      "answer": "METAIS",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "Estontear",
+      "answer": "ATORDOAR",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "V",
+      "answer": "VE",
+      "row": 8,
+      "col": 9
+    },
+    "31": {
+      "clue": "(Sigla) O material das garrafas de refrigerante",
+      "answer": "PET",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Desentender-se com alguém",
+      "answer": "ATRITAR",
+      "row": 9,
+      "col": 4
+    },
+    "34": {
+      "clue": "Graxo",
+      "answer": "OLEOSO",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Empenho em fazer as coisas",
+      "answer": "ZELO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Brilhar, cintilar",
+      "answer": "FULGIR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Morador de uma ilha",
+      "answer": "ILHEU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um quinto de XXX",
+      "answer": "VI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Arrumar as penas com o bico (a ave)",
+      "answer": "ESPENICAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Pop.) Velho",
+      "answer": "VEIO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Infecções Sexualmente Transmissíveis",
+      "answer": "IST",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Meninada",
+      "answer": "GAROTADA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O país onde se localiza a foz do rio Nilo",
+      "answer": "EGITO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Que cede facilmente à pressão",
+      "answer": "MOLE",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Febre semanal",
+      "answer": "SETENA",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Aquela que realiza algo, executa uma ação",
+      "answer": "OPERATRIZ",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Pedacinho de papel em que se enrola uma mecha de cabelo para frisá-la",
+      "answer": "PAPELOTE",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "Conferir o cargo de",
+      "answer": "NOMEAR",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Insignificante",
+      "answer": "MISERO",
+      "row": 5,
+      "col": 10
+    },
+    "23": {
+      "clue": "Hotel para amantes",
+      "answer": "MOTEL",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Adversário",
+      "answer": "RIVAL",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Cobertura de motor de automóvel",
+      "answer": "CAPO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Red.) Um veículo de duas rodas",
+      "answer": "MOTO",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "Um boleto federal",
+      "answer": "DAS",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Multiplica o uso da tomada",
+      "answer": "TE",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "2": {
+      "clue": "Pequena estaca que se crava no chão para medição de terreno",
+      "answer": "PIQUETE",
+      "row": 0,
+      "col": 2
+    },
+    "9": {
+      "clue": "Contra",
+      "answer": "VERSUS",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "(-doce) Outro nome do anis",
+      "answer": "ERVA",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "O roqueiro Cooper, famoso nos anos 1970",
+      "answer": "ALICE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Antro",
+      "answer": "COVIL",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Deusa",
+      "answer": "DIVA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Instrumento musical, tipo de chocalho",
+      "answer": "MARACA",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "(O Tronco do) Livro",
+      "answer": "IPE",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Mala de mão",
+      "answer": "VALISE",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Sigla do estado com a Lagoa dos Patos",
+      "answer": "RS",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Assinatura",
+      "answer": "FIRMA",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "Lodo sem ós",
+      "answer": "LD",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Gás usado para esterilizar a água",
+      "answer": "OZONIO",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Elemento de composição: músculo ou mosca",
+      "answer": "MIO",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Um inseto que se alimenta de sangue",
+      "answer": "PIOLHO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Um cachorro da Turma da Mônica",
+      "answer": "BIDU",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "O estado dos EUA com capital Boise",
+      "answer": "IDAHO",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Exprimir a dor com voz lamentosa e não articulada",
+      "answer": "GEMER",
+      "row": 8,
+      "col": 6
+    },
+    "30": {
+      "clue": "Tecido usado em fantasias de carnaval",
+      "answer": "SEDA",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Pote para café",
+      "answer": "XICARA",
+      "row": 9,
+      "col": 5
+    },
+    "32": {
+      "clue": "Sofrer variação",
+      "answer": "OSCILAR",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Fugir da prisão",
+      "answer": "EVADIR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Fr.) Íntimo, particular, reservado",
+      "answer": "PRIVE",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Artifício usado para atrair e capturar peixes",
+      "answer": "ISCA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "(Fig.) Complexidade, dificuldade",
+      "answer": "QUE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Open) Importantes torneio de tênis",
+      "answer": "US",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "A da Relatividade é muito famosa",
+      "answer": "TEORIA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Plantas como a sálvia e o tomilho",
+      "answer": "ERVAS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Aquilo que se exprime por palavras",
+      "answer": "FALA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Um sólido ovalado",
+      "answer": "ELIPSOIDE",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Segundo colocado",
+      "answer": "VICELIDER",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Sossegado",
+      "answer": "CALMO",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "O poeta Quintana (1906-1994), de \"Sapato Florido\"",
+      "answer": "MARIO",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Uma bebida alcoólica",
+      "answer": "VINHO",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Elementos que formam um livro",
+      "answer": "FOLHAS",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Revestir uma superfície com fina camada de ouro",
+      "answer": "DOURAR",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "(Pop.) Bagunçado",
+      "answer": "ZOADO",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Tratar com carinhos excessivos",
+      "answer": "MIMAR",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Revestimento de chão",
+      "answer": "PISO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "O traje típico da advocacia",
+      "answer": "BECA",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "A Preta e o Gilberto músicos baianos",
+      "answer": "GIL",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "O líder chinês Jinping",
+      "answer": "XI",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

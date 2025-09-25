@@ -1,0 +1,258 @@
+{
+  "across": {
+    "2": {
+      "clue": "Franzido (em vestido)",
+      "answer": "PLISSAGEM",
+      "row": 0,
+      "col": 2
+    },
+    "10": {
+      "clue": "Caixão para enterrar um morto",
+      "answer": "ATAUDE",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Vermelho forte",
+      "answer": "RUBI",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "O sinal do positivo nas pilhas e baterias",
+      "answer": "CRUZ",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Escolha do café",
+      "answer": "CATA",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "O acento de procissão",
+      "answer": "TIL",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Que pede muito dinheiro",
+      "answer": "CAREIRO",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Antonio Banderas, ator espanhol",
+      "answer": "AB",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Planta do cerrado, de casca suberosa e grossa",
+      "answer": "CARAIBA",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Seguir em direção de",
+      "answer": "RUMAR",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Uva, em inglês",
+      "answer": "GRAPE",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Grande nariz",
+      "answer": "NARIGÃO",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "O escritor Eliot",
+      "answer": "TS",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Elemento químico de símbolo Ta",
+      "answer": "TANTALO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Marca chinesa de carros",
+      "answer": "JAC",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "O d'Italia é uma prova de ciclismo",
+      "answer": "GIRO",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "O cachorro do Franjinha",
+      "answer": "BIDU",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Azul, para os ingleses",
+      "answer": "BLUE",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "A atriz Elizabeth (1932-2011), de \"Cleópatra\"",
+      "answer": "TAYLOR",
+      "row": 9,
+      "col": 5
+    },
+    "36": {
+      "clue": "(Fig.) Aborrecido, apoquentado",
+      "answer": "APERREADO",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Dar de mamar",
+      "answer": "LACTAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O ator Giamatti, de \"Os Rejeitados\"",
+      "answer": "PAUL",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "(Dar à) Parir um filho",
+      "answer": "LUZ",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "O que transforma diva em dívida",
+      "answer": "ID",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Retirar de ou perder a umidade",
+      "answer": "SECAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Que apronta travessuras",
+      "answer": "ARTEIRO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O rio que atravessa Porto Alegre (RS)",
+      "answer": "GUAIBA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Estibordo",
+      "answer": "EB",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Lenda antiga",
+      "answer": "MITO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Palanque",
+      "answer": "TRIBUNA",
+      "row": 1,
+      "col": 1
+    },
+    "15": {
+      "clue": "A comunidade autônoma espanhola de Saragoça",
+      "answer": "ARAGÃO",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Apodrecer (dente)",
+      "answer": "CARIAR",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Que foi vítima de sequestro",
+      "answer": "RAPTADO",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "Importante marca francesa de relógios e joias",
+      "answer": "CARTIER",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "(Beat) O movimento musical de Chico Science",
+      "answer": "MANGUE",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Sem luz",
+      "answer": "ESCURO",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Abertura da laringe onde a voz se forma",
+      "answer": "GLOTE",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Instrumento musical de sopro, de som grave",
+      "answer": "TUBA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Planta de frutos comestíveis, amargos",
+      "answer": "JILO",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Marca chinesa de automóveis",
+      "answer": "BYD",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Elepê",
+      "answer": "LP",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "André Abujamra, músico",
+      "answer": "AA",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

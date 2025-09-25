@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Palavra usada em despedidas",
+      "answer": "ADEUS",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Aparato magnífico e luxuoso",
+      "answer": "POMPA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Interjeição que exprime impaciência, espanto, surpresa",
+      "answer": "PUXA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Comparativo de mal",
+      "answer": "PIOR",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Inclusive",
+      "answer": "ATE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Que é formado por dois nomes",
+      "answer": "BINOMIO",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Apoiador de um time de futebol",
+      "answer": "TORCEDOR",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "A UF de Itabaiana e Aracaju",
+      "answer": "SE",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "(Gír.) Informante da polícia",
+      "answer": "CAGUETE",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Moderado",
+      "answer": "AMENO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Deslocar as articulações",
+      "answer": "LUXAR",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "O planeta entre Saturno e Netuno",
+      "answer": "URANO",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Combinação de preposição com pronome pessoal (fem.)",
+      "answer": "NELA",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Ivan Lins, músico de \"Madalena\"",
+      "answer": "IL",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Indício de doença",
+      "answer": "SINTOMA",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "Examinada, verificada",
+      "answer": "TESTADA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Programa de Demissão Voluntária",
+      "answer": "PDV",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "O fluido usado no lança-perfume",
+      "answer": "ETER",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "A pena da expatriação",
+      "answer": "EXILIO",
+      "row": 9,
+      "col": 5
+    },
+    "38": {
+      "clue": "Chupar o leite",
+      "answer": "MAMAR",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "O de hidrogênio é o mais simples e o mais leve",
+      "answer": "ATOMO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Completa falta de interesse ou de vontade",
+      "answer": "APATIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Canal no organismo animal",
+      "answer": "DUTO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Desempenhar",
+      "answer": "EXERCER",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Astron.) A sigla de Unidade Astronômica",
+      "answer": "UA",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "Conveniente",
+      "answer": "OPORTUNO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Forma oblíqua de eu",
+      "answer": "MIM",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Mas, porém, todavia",
+      "answer": "POIS",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Árvore alta que dá boa madeira porém de durabilidade limitada",
+      "answer": "AROEIRA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Gír.) Adivinhão",
+      "answer": "BIDU",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Planta muito cultivada como ornamental",
+      "answer": "BEGONIA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "O Rosa (1910-1937), músico de \"Palpite Infeliz\"",
+      "answer": "NOEL",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "(Serra da) Região das nascentes do rio São Francisco",
+      "answer": "CANASTRA",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Qualquer coisa que se pode propor como modelo",
+      "answer": "EXEMPLO",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Um apoio para quem está com o pé engessado",
+      "answer": "MULETA",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Personagem das \"Mil e uma Noites\"",
+      "answer": "ALADIM",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "No lugar em que",
+      "answer": "ONDE",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Objeto",
+      "answer": "ITEM",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Tarifa",
+      "answer": "TAXA",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Oposto de com",
+      "answer": "SEM",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "Uma viagem de avião",
+      "answer": "VOO",
+      "row": 8,
+      "col": 10
+    },
+    "37": {
+      "clue": "Charme, carisma",
+      "answer": "IT",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

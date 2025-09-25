@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um passarinho",
+      "answer": "TIZIU",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Pingos",
+      "answer": "GOTAS",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "(Eletr. e Fís.) A unidade de medida de símbolo Ohm",
+      "answer": "OMEGA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Dano muito grave, difícil de reparar",
+      "answer": "RUINA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Nilo Peçanha (1867-1924), presidente do Brasil",
+      "answer": "NP",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Combinar ignaro com avaro",
+      "answer": "RIMAR",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Demi Lovato, cantora",
+      "answer": "DL",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "(Moda) Corte do vestido em sentido enviesado",
+      "answer": "GODE",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Arquipélago do Atlântico, com capital Ponta Delgada",
+      "answer": "AÇORES",
+      "row": 3,
+      "col": 5
+    },
+    "21": {
+      "clue": "Bem ventilado",
+      "answer": "AREJADO",
+      "row": 4,
+      "col": 0
+    },
+    "23": {
+      "clue": "Exclam.: surpresa",
+      "answer": "EBA",
+      "row": 4,
+      "col": 8
+    },
+    "24": {
+      "clue": "Fechado com certo utensílio rústico (diz-se de portas ou batentes)",
+      "answer": "TRAMELADO",
+      "row": 5,
+      "col": 1
+    },
+    "26": {
+      "clue": "Antecede Dom, no calendário",
+      "answer": "SAB",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Um instrumento musical acionado por pedais",
+      "answer": "PIANOLA",
+      "row": 6,
+      "col": 4
+    },
+    "29": {
+      "clue": "Acrescentar, somar",
+      "answer": "ADITAR",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "A posição de largada dos carro na F1",
+      "answer": "GRID",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "O símbolo químico do cobalto",
+      "answer": "CO",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Um dos planetas do Sistema Solar",
+      "answer": "URANO",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "A UF de Itabaiana e Aracaju",
+      "answer": "SE",
+      "row": 8,
+      "col": 9
+    },
+    "36": {
+      "clue": "(movediça) Um solo de pouca resistência, em que podem afundar animais, veículos etc.",
+      "answer": "AREIA",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Serpente de veneno muito forte",
+      "answer": "URUTU",
+      "row": 9,
+      "col": 6
+    },
+    "40": {
+      "clue": "Traçar riscos em",
+      "answer": "RAJAR",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "Seios, peitos",
+      "answer": "MAMAS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "País com capital é Nuku'alofa",
+      "answer": "TONGA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Firma que traz itens do exterior",
+      "answer": "IMPORTADORA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O músico Ramalho de \"Avôhai\"",
+      "answer": "ZE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Edifício sagrado para os católicos",
+      "answer": "IGREJA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Interjeição muito usada em MG",
+      "answer": "UAI",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Engraçadinho",
+      "answer": "GRAÇOLA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Metal que sempre foi símbolo de riqueza",
+      "answer": "OURO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Quím.) O titânio",
+      "answer": "TI",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Praticante de um esporte jogado com as mãos",
+      "answer": "ANDEBOLISTA",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Um dos temperos do cheiro-verde",
+      "answer": "SALSA",
+      "row": 0,
+      "col": 10
+    },
+    "15": {
+      "clue": "A matéria-prima do carpinteiro",
+      "answer": "MADEIRA",
+      "row": 2,
+      "col": 5
+    },
+    "18": {
+      "clue": "No futebol, clássico entre equipes tradicionais",
+      "answer": "DERBI",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "Vizinhança, contorno",
+      "answer": "REDOR",
+      "row": 3,
+      "col": 8
+    },
+    "22": {
+      "clue": "Proteger",
+      "answer": "AMPARAR",
+      "row": 4,
+      "col": 4
+    },
+    "25": {
+      "clue": "Raça de gatos de pelo longo e fino",
+      "answer": "ANGORA",
+      "row": 5,
+      "col": 7
+    },
+    "26": {
+      "clue": "Tirar dinheiro da conta corrente",
+      "answer": "SACAR",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Despedida",
+      "answer": "ADEUS",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Planta usada em cercas vivas",
+      "answer": "TUIA",
+      "row": 7,
+      "col": 3
+    },
+    "34": {
+      "clue": "No interior de, junto de",
+      "answer": "NUM",
+      "row": 8,
+      "col": 6
+    },
+    "37": {
+      "clue": "As iniciais do pugilista Jofre",
+      "answer": "EJ",
+      "row": 9,
+      "col": 2
+    },
+    "39": {
+      "clue": "1",
+      "answer": "UM",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

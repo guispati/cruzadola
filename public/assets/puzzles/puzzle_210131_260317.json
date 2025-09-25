@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Pal. ingl.) Referência que um documento faz a outro em páginas da internet",
+      "answer": "LINK",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Baba espessa ou pegajosa",
+      "answer": "GOSMA",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Vapor condensado na atmosfera, enorme, escuro, ameaçador",
+      "answer": "NUVARRÃO",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Pronto Socorro Municipal",
+      "answer": "PSM",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Carne ensacada, ingrediente da feijoada",
+      "answer": "PAIO",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "As iniciais da cantora Sabino",
+      "answer": "VS",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Ordem de Serviço",
+      "answer": "OS",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Parada de um motor por defeito",
+      "answer": "PANE",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Abreviatura de dicionário",
+      "answer": "DIC",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Grupo de pessoas que se movem em fila",
+      "answer": "FARANDOLA",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Tecido bordado com lantejoulas",
+      "answer": "PAETE",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Apoderar-se de, conquistar",
+      "answer": "TOMAR",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Quase terminada",
+      "answer": "ADIANTADA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Advérbio de negação",
+      "answer": "NÃO",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "(-Poderoso) Deus",
+      "answer": "TODO",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Uma variação do pronome tu",
+      "answer": "TI",
+      "row": 7,
+      "col": 9
+    },
+    "28": {
+      "clue": "O fim do... pedaço",
+      "answer": "ÇO",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "O cru é o tecido de algodão que não foi tingido",
+      "answer": "PANO",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Que, por inclinação natural, só pratica o bem",
+      "answer": "BOM",
+      "row": 8,
+      "col": 8
+    },
+    "31": {
+      "clue": "O nome dos atletas Silva (MMA) e Varejão (basquetebol)",
+      "answer": "ANDERSON",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Veste usada pela mulher iraniana, que vai da cabeça aos tornozelos",
+      "answer": "XADOR",
+      "row": 10,
+      "col": 1
+    },
+    "34": {
+      "clue": "A Gabeira surfista de ondas gigantes",
+      "answer": "MAYA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Instituto Nacional de Seguro Social",
+      "answer": "INSS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Em um",
+      "answer": "NUM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Quilovolt",
+      "answer": "KV",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Gír.) Dinheiro",
+      "answer": "GRANA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Guia",
+      "answer": "ORIENTADOR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Aquele que goza de perfeita saúde",
+      "answer": "SÃO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "A roda do afiador de facas",
+      "answer": "MO",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Achegado",
+      "answer": "APARENTADO",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Sapato feminino descoberto",
+      "answer": "ESCARPIM",
+      "row": 1,
+      "col": 10
+    },
+    "12": {
+      "clue": "Uma forma de economizar dinheiro",
+      "answer": "POUPANÇA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "A Belmiro é a casa do Santos Futebol Clube",
+      "answer": "VILA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Pé de burro",
+      "answer": "PATA",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "O ato de amansar um cavalo",
+      "answer": "DOMA",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "O contrário de bonito",
+      "answer": "FEIO",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Músico baiano que, com Osmar, criou os trios elétricos",
+      "answer": "DODO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "(Bíbl.) O companheiro de Eva",
+      "answer": "ADÃO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Pó usado em fotocópias",
+      "answer": "TONER",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "O músico e ator Tornado",
+      "answer": "TONY",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Plano Nacional de Desenvolvimento",
+      "answer": "PND",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Misericordiosa",
+      "answer": "BOA",
+      "row": 8,
+      "col": 8
+    },
+    "31": {
+      "clue": "Aerolíneas Argentinas",
+      "answer": "AA",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "Samário",
+      "answer": "SM",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

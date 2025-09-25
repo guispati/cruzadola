@@ -1,0 +1,240 @@
+{
+  "across": {
+    "1": {
+      "clue": "Condição de aluno que não passou de ano",
+      "answer": "REPETENCIA",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Que revela despretensão (fem.)",
+      "answer": "MODESTA",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "A UF de Bauru e Jaú",
+      "answer": "SP",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "O ator Leandro, de \"Os Caras de Pau\"",
+      "answer": "HASSUM",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O oposto de funda",
+      "answer": "RASA",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Treze menos cinco",
+      "answer": "OITO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Compreender",
+      "answer": "ATINAR",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Marco Luque, humorista",
+      "answer": "ML",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Árvore nativa da Europa e da Ásia, de semente comestível",
+      "answer": "NOGUEIRA",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Um número como 4 ou 576",
+      "answer": "PAR",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Naná Vasconcelos (1944-2016), percussionista",
+      "answer": "NV",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Fazer vistoria técnica",
+      "answer": "PERICIAR",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "Prefixo que significa em alto grau",
+      "answer": "HIPER",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "A asfáltica é usada como revestimento para prevenir infiltrações",
+      "answer": "MANTA",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Princípio",
+      "answer": "ORIGEM",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Substâncias que reanimam",
+      "answer": "SAIS",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Cidade do interior paulista, próxima a Campinas",
+      "answer": "ITATIBA",
+      "row": 9,
+      "col": 1
+    },
+    "36": {
+      "clue": "A letra que precede o dáblio",
+      "answer": "VE",
+      "row": 9,
+      "col": 9
+    },
+    "37": {
+      "clue": "Sistema homeopático que recomenda o emprego de mais de um medicamento para a mesma doença",
+      "answer": "PLURALISMO",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Correio eletrônico",
+      "answer": "EMAIL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Publicação em um blog",
+      "answer": "POST",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O nome de Celulari e de Pelé",
+      "answer": "EDSON",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Por ti",
+      "answer": "TEU",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Comprimir muito",
+      "answer": "ESMAGAR",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Neto sem vogais",
+      "answer": "NT",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Uma ameaça à saúde dos dentes",
+      "answer": "CARIE",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Cozer no espeto ou no forno",
+      "answer": "ASSAR",
+      "row": 0,
+      "col": 9
+    },
+    "12": {
+      "clue": "Frase sinônima de outra",
+      "answer": "PARAFRASE",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "Indivíduo insignificante, sem importância",
+      "answer": "HOMINHO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Matéria-prima da indústria de corantes artificiais",
+      "answer": "ANILINA",
+      "row": 2,
+      "col": 8
+    },
+    "18": {
+      "clue": "A primeira capital da Itália",
+      "answer": "TURIM",
+      "row": 3,
+      "col": 6
+    },
+    "21": {
+      "clue": "Comédia musical",
+      "answer": "OPERETA",
+      "row": 4,
+      "col": 4
+    },
+    "24": {
+      "clue": "Próprio do homem",
+      "answer": "VIRIL",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Começar (uma atividade)",
+      "answer": "PEGAR",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "O tabuleiro de xadrez possui 64",
+      "answer": "CASAS",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Que atua de modo rápido, dinâmico",
+      "answer": "ATIVO",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Grande camarão de água doce",
+      "answer": "PITU",
+      "row": 7,
+      "col": 2
+    },
+    "32": {
+      "clue": "1.000",
+      "answer": "MIL",
+      "row": 8,
+      "col": 5
+    },
+    "35": {
+      "clue": "O símbolo químico do bismuto",
+      "answer": "BI",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

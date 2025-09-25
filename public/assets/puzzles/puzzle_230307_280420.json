@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "(-gordura) Erva usada como forrageira",
+      "answer": "CAPIM",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Uma grande cidade europeia",
+      "answer": "MADRI",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "A celeste é o mesmo que firmamento",
+      "answer": "ABOBADA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "X",
+      "answer": "XIS",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Vocês e eu",
+      "answer": "NOS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O número de cordas do banjo",
+      "answer": "SEIS",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Nota do Tradutor",
+      "answer": "NT",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Ernesto Nazareth (1863-1934), compositor de \"Odeon\"",
+      "answer": "EN",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Pavimento de madeira",
+      "answer": "ASSOALHO",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Dorso",
+      "answer": "COSTAS",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "A meta alcançada pelos astronautas em 1969",
+      "answer": "LUA",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Equipe inglesa de futebol",
+      "answer": "ARSENAL",
+      "row": 5,
+      "col": 2
+    },
+    "26": {
+      "clue": "A bacia onde louças são lavadas",
+      "answer": "PIA",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Espessura sobreposta",
+      "answer": "CAMADA",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "A nação de Paramaribo",
+      "answer": "SURINAME",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Um dado da cédula de identidade",
+      "answer": "RG",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Precede Niño no fenômeno de aquecimento global",
+      "answer": "EL",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Puxa a água para o ralo",
+      "answer": "RODO",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Número divisível por dois",
+      "answer": "PAR",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "United States of America",
+      "answer": "USA",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Estado cuja capital é Boa Vista",
+      "answer": "RORAIMA",
+      "row": 9,
+      "col": 4
+    },
+    "39": {
+      "clue": "O contrário de curta",
+      "answer": "LONGA",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Dar preferência a",
+      "answer": "OPTAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Recipiente com asa para líquidos",
+      "answer": "CANECA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Garantia, fiança",
+      "answer": "ABONO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Atrás",
+      "answer": "POS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Ingmar Bergman (1918-2007), cineasta sueco",
+      "answer": "IB",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Rondelli, lasanha e fettuccine",
+      "answer": "MASSAS",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Roupa que se usa na piscina ou na praia",
+      "answer": "MAIO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Pontas de durex",
+      "answer": "DX",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Briga de galos",
+      "answer": "RINHA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Esta coisa",
+      "answer": "ISTO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Enxuto",
+      "answer": "DESSECADO",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Uma carne servida como aperitivo",
+      "answer": "SALAME",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "Trazer para si",
+      "answer": "ATRAIR",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "O molusco do qual se extrai a tinta sépia",
+      "answer": "LULA",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Deixar um local",
+      "answer": "SAIR",
+      "row": 4,
+      "col": 2
+    },
+    "24": {
+      "clue": "Ato de galantear, cortejar",
+      "answer": "NAMORO",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Dedicar ao serviço de Deus",
+      "answer": "SAGRAR",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Punho",
+      "answer": "PULSO",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Catástrofe produzida por um acidente, um crime etc.",
+      "answer": "DRAMA",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Capital asiática",
+      "answer": "SEUL",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Pop.) A parenta que se opõe a sogra",
+      "answer": "NORA",
+      "row": 7,
+      "col": 4
+    },
+    "34": {
+      "clue": "(Bull) Cão de grande força",
+      "answer": "PIT",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "Prefixo de negação",
+      "answer": "AN",
+      "row": 9,
+      "col": 2
+    },
+    "38": {
+      "clue": "Al Pacino, ator norte-americano",
+      "answer": "AP",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

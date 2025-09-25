@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Locado",
+      "answer": "ARRENDADO",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Uma obra como \"Soneto de Fidelidade\", de Vinícius de Moraes",
+      "answer": "POEMA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Encher completamente os lugares de um veículo",
+      "answer": "LOTAR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Difundir para todos os lados",
+      "answer": "ESPARSAR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "O nome do B",
+      "answer": "BE",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Uma área do navio",
+      "answer": "CONVES",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "(Rom.) 300",
+      "answer": "CCC",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Caderno explicativo sobre o uso de um produto",
+      "answer": "MANUAL",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Condição",
+      "answer": "MODO",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Uma ação de solidariedade da mídia para auxiliar entidades de apoio a crianças",
+      "answer": "TELETON",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Elipsoidal",
+      "answer": "OVAL",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "De caráter melancólico",
+      "answer": "TRISTE",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "A intimidade familiar",
+      "answer": "LAR",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "O lugar onde o Sol se põe",
+      "answer": "POENTE",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Separam o F",
+      "answer": "EG",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Negociador de objetos de arte",
+      "answer": "MARCHAND",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "O pintor Alfredo (1896-1988), construtivista",
+      "answer": "VOLPI",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Marca japonesa de automóveis e motocicletas",
+      "answer": "HONDA",
+      "row": 9,
+      "col": 6
+    },
+    "34": {
+      "clue": "Desagradar ao extremo",
+      "answer": "DESGOSTAR",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Redução de apartamento",
+      "answer": "APE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Pão doce, de massa retorcida",
+      "answer": "ROSCA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Vir surgindo novamente",
+      "answer": "REPONTAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Nome bíblico que se refere a Jesus Cristo",
+      "answer": "EMANUEL",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Cetáceo dos mares árticos, parecido com um delfim",
+      "answer": "NARVAL",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Os laterais, no futebol moderno",
+      "answer": "ALAS",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Pesar, remorso",
+      "answer": "DOR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Olívia Torres, atriz paulista",
+      "answer": "OT",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Temporão",
+      "answer": "PRECOCE",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Antecedem o E",
+      "answer": "ABCD",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Mecanismo que executa escolha",
+      "answer": "SELETOR",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "O Benjamin (1833-1891) do movimento republicano",
+      "answer": "CONSTANT",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Ladrão que furta de modo dissimulado",
+      "answer": "MÃOLEVE",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "(de vento) As estruturas contra as quais Dom Quixote lutou",
+      "answer": "MOINHOS",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Espaço ou lugar",
+      "answer": "TRECHO",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Nervo essencial à fala, deglutição, digestão etc.",
+      "answer": "VAGO",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Alojamento improvisado",
+      "answer": "TENDA",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Uma região como Myanmar ou o Chile",
+      "answer": "PAIS",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Ministério Público Estadual",
+      "answer": "MPE",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Executar, praticar (um movimento corporal)",
+      "answer": "DAR",
+      "row": 8,
+      "col": 10
+    },
+    "32": {
+      "clue": "As consoantes de laudo",
+      "answer": "LD",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

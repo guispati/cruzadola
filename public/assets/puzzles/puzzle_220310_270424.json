@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um tratamento odontológico bastante dolorido",
+      "answer": "CANAL",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Luta corpo a corpo",
+      "answer": "BRIGA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Submergir",
+      "answer": "AFUNDAR",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Mete-os pelas mãos quem faz bobagens",
+      "answer": "PES",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Quadro, pintura",
+      "answer": "TELA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Um pequeno osso do septo nasal",
+      "answer": "VOMER",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "A letra entre o gê e o i",
+      "answer": "AGA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Deus do vinho e da fertilidade, na mitologia romana",
+      "answer": "BACO",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Inezita Barroso (1925-2015), cantora e apresentadora",
+      "answer": "IB",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "Bicho encontrado na água ou próximo a ela",
+      "answer": "RÃ",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Agrupamento de mil unidades iguais",
+      "answer": "MILHEIRO",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Dependente de alguma droga (Fem.)",
+      "answer": "VICIADA",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Uma futura noiva",
+      "answer": "NAMORADA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Mús.) O F dos músicos",
+      "answer": "FA",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "O que falta a quem está sufocado",
+      "answer": "AR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "O artesiano explora o uso de água subterrânea",
+      "answer": "POÇO",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "(Ingl.) Outro nome da internet",
+      "answer": "WEB",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Nascida em Hamburgo ou Berlim",
+      "answer": "ALEMÃ",
+      "row": 8,
+      "col": 1
+    },
+    "32": {
+      "clue": "Verdade",
+      "answer": "FATO",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Canal de filmes da TV paga",
+      "answer": "HBO",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Produzir íons em um gás ou líquido",
+      "answer": "IONIZAR",
+      "row": 9,
+      "col": 4
+    },
+    "36": {
+      "clue": "Regozijo público por um acontecimento importante",
+      "answer": "FESTA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Abertura que separa a boca da faringe",
+      "answer": "GOELA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A santa padroeira dos estudantes e filósofos",
+      "answer": "CATARINA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Nascida no país com Cabul",
+      "answer": "AFEGÃ",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Que não tem valor (fem.)",
+      "answer": "NULA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A atriz e apresentadora Furtado",
+      "answer": "ANA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Lima Duarte, ator de \"O Auto da Compadecida\"",
+      "answer": "LD",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Encadernação cujo miolo é coberto por uma capa mole",
+      "answer": "BROCHADO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Árvore de flores amarelas, rosas, brancas ou roxas",
+      "answer": "IPE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Gerenciar",
+      "answer": "GERIR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Carta que vale quinze pontos no biriba",
+      "answer": "AS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Análise, parecer",
+      "answer": "AVALIAÇÃO",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Dinheiro em metal, cunhado pelo Estado",
+      "answer": "MOEDA",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Processo de impressão em duas cores",
+      "answer": "BICROMIA",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Um destino turístico da Polinésia Francesa",
+      "answer": "BORABORA",
+      "row": 3,
+      "col": 10
+    },
+    "21": {
+      "clue": "Que sofre de vista curta",
+      "answer": "MIOPE",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Prima sem vogais",
+      "answer": "IA",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Vera Magalhães, jornalista",
+      "answer": "VM",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Língua falada na Síria",
+      "answer": "ARABE",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Relativo ao feto",
+      "answer": "FETAL",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Aplicativo de auxílio em rotas de trânsito",
+      "answer": "WAZE",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "O L de LA, cidade dos EUA",
+      "answer": "LOS",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "Fita que transporta a eletricidade",
+      "answer": "FIO",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Henry Ford (1863-1947), pioneiro na indústria dos carros",
+      "answer": "HF",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Nomenclatura Geral",
+      "answer": "NG",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

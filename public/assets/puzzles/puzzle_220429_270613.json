@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Terras que formam arquipélagos",
+      "answer": "ILHAS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "A nação asiática de Timphu",
+      "answer": "BUTÃO",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Alimentar insuficientemente",
+      "answer": "SUBNUTRIR",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Cacilda sem calda",
+      "answer": "CI",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Peixe também chamado congro-real",
+      "answer": "TIRAVIRA",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Que tem promessa de pagamento ou quitação",
+      "answer": "ASSINADO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "O que transforma mico em músico",
+      "answer": "US",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "(Geom.) Sem ângulos",
+      "answer": "AGONO",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Rádio e TV britânica",
+      "answer": "BBC",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "(Fu) Banda pop",
+      "answer": "PATO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "O oposto de bonito",
+      "answer": "FEIO",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "Movimento súbito, espontâneo",
+      "answer": "ELÃ",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Adversário",
+      "answer": "RIVAL",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Naná Vasconcelos, músico pernambucano",
+      "answer": "NV",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Tornado mais brando, suave",
+      "answer": "MITIGADO",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Escavado por baixo",
+      "answer": "SOCAVADO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Oscar Niemeyer (1907-2012), arquiteto",
+      "answer": "ON",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Aquela que executa uma ação",
+      "answer": "OPERATRIZ",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Atuar numa disputa de judô",
+      "answer": "LUTAR",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "(Med.) Infecção geral",
+      "answer": "SEPSE",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O que se põe num anzol para atrair o peixe e fisgá-lo",
+      "answer": "ISCA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O cineasta espanhol Buñuel (1900-1983), de \"A Bela da Tarde\"",
+      "answer": "LUIS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Hanna-Barbera, antiga produtora de desenhos e filmes",
+      "answer": "HB",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Velho, arcaico",
+      "answer": "ANTIGO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Do porco",
+      "answer": "SUINO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Grito",
+      "answer": "BRADO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Voz triste e aguda característica dos cães",
+      "answer": "UIVO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Clube que é campeão pela terceira vez",
+      "answer": "TRI",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Cidade de SP, próxima à capital",
+      "answer": "OSASCO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Andar de um lugar para outro",
+      "answer": "TRANSITAR",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Uma pedra preciosa vermelha, facilmente imitável",
+      "answer": "RUBI",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Lúcifer, capeta",
+      "answer": "SATÃ",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "A Adormecida das histórias infantis",
+      "answer": "BELA",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "Suspensa (ponte)",
+      "answer": "PENSIL",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Coisa a que o pensamento ou a ação é dirigida",
+      "answer": "ALVO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Instrumento musical de sopro",
+      "answer": "FAGOTE",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "(Plate) Time argentino de futebol",
+      "answer": "RIVER",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "(Secas) Obra de Graciliano Ramos",
+      "answer": "VIDAS",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Desenho de um país",
+      "answer": "MAPA",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "(-pontos) :",
+      "answer": "DOIS",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "O número dos jogadores de uma equipe de futebol em campo",
+      "answer": "ONZE",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "(Matem.) Símbolo de cotangente",
+      "answer": "COT",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "Relações Públicas",
+      "answer": "RP",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

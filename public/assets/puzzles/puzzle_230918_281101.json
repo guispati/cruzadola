@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Espécie de jaqueta para proteger do frio, da umidade, etc.",
+      "answer": "JAPONA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Bisnagas e bengalas",
+      "answer": "PÃES",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Ser do reino animal ou vegetal que já se desenvolveu completamente",
+      "answer": "ADULTO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "O B dos músicos",
+      "answer": "SI",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "(Mús.) Tocado por uma pessoa apenas",
+      "answer": "SOLO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O continente com a Suíça e Polônia",
+      "answer": "EUROPA",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Cidade portuguesa, Patrimônio Histórico da Humanidade",
+      "answer": "EVORA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Soltar a sua voz (a rã ou o sapo)",
+      "answer": "RELAR",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "(Abrev.) O contrário de masculino",
+      "answer": "FEM",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Uma grande cooperativa de saúde do país",
+      "answer": "UNIMED",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "A torre Eiffel tem 300 de altura",
+      "answer": "METROS",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "A entidade que representa os advogados",
+      "answer": "OAB",
+      "row": 5,
+      "col": 8
+    },
+    "27": {
+      "clue": "Objetos velhos, de pouco valor",
+      "answer": "TRASTES",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "Cada uma das grandes estátuas de pedra da ilha de Páscoa (Chile)",
+      "answer": "MOAI",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "A cantora de jazz Nina (1933-2003)",
+      "answer": "SIMONE",
+      "row": 7,
+      "col": 5
+    },
+    "33": {
+      "clue": "Níquel, elemento químico",
+      "answer": "NI",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Diz-se das frutas secas, cobertas com açúcar cristalizado",
+      "answer": "GLACE",
+      "row": 8,
+      "col": 3
+    },
+    "36": {
+      "clue": "Odair José, cantor",
+      "answer": "OJ",
+      "row": 8,
+      "col": 9
+    },
+    "37": {
+      "clue": "Cidade de Minas Gerais, próxima a Lavras",
+      "answer": "INGAI",
+      "row": 9,
+      "col": 0
+    },
+    "39": {
+      "clue": "A fragrância dos alimentos",
+      "answer": "AROMA",
+      "row": 9,
+      "col": 6
+    },
+    "41": {
+      "clue": "Relativo à vista",
+      "answer": "OCULAR",
+      "row": 10,
+      "col": 0
+    },
+    "42": {
+      "clue": "Marca de carros",
+      "answer": "OPEL",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O ditador russo Stalin (1879-1953)",
+      "answer": "JOSEF",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Outro nome do peixe pampo",
+      "answer": "PALOMETA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Cheiro desagradável",
+      "answer": "ODOR",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Tema para pintores",
+      "answer": "NU",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Abreviatura (em português) da Alemanha",
+      "answer": "ALE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Inconveniente, senão",
+      "answer": "POREM",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Uma faca grande",
+      "answer": "ESPADA",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Fechar as asas (a ave), para descer mais depressa",
+      "answer": "SIAR",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Diz-se de cidade com atrativos para visitantes",
+      "answer": "TURISTICA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Um cabo do navio",
+      "answer": "OVEM",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Graxo",
+      "answer": "OLEOSO",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Brisa, vento brando",
+      "answer": "AURA",
+      "row": 3,
+      "col": 4
+    },
+    "21": {
+      "clue": "(A Praça é) Programa de TV",
+      "answer": "NOSSA",
+      "row": 4,
+      "col": 5
+    },
+    "23": {
+      "clue": "Campo do cereal que é o principal ingrediente do pão",
+      "answer": "TRIGAL",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Pantanal, paul",
+      "answer": "BREJAL",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Membrana que envolve o feto",
+      "answer": "AMNIO",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Arbusto comum nas sebes, que produz pequenas flores amarelas",
+      "answer": "EMERO",
+      "row": 6,
+      "col": 7
+    },
+    "30": {
+      "clue": "Som de porco nas HQs",
+      "answer": "OINC",
+      "row": 7,
+      "col": 1
+    },
+    "32": {
+      "clue": "O da Xuxa é Maria da Graça",
+      "answer": "NOME",
+      "row": 7,
+      "col": 9
+    },
+    "35": {
+      "clue": "(de Itamaracá) Cantora e compositora pernambucana",
+      "answer": "LIA",
+      "row": 8,
+      "col": 4
+    },
+    "38": {
+      "clue": "Gustavo, para os íntimos",
+      "answer": "GU",
+      "row": 9,
+      "col": 2
+    },
+    "40": {
+      "clue": "Ordem de Pagamento",
+      "answer": "OP",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

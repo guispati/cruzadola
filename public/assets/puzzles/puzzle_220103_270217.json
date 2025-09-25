@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ajuste (de uma máquina)",
+      "answer": "REGULAGEM",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Suave, agradável",
+      "answer": "AMENO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O estado brasileiro vizinho da Guiana Francesa",
+      "answer": "AMAPA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "(Banana) Uma sobremesa de sorvete e fruta",
+      "answer": "SPLIT",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Dormir (o bebê)",
+      "answer": "NANAR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Ferramenta para abrir sulcos na terra",
+      "answer": "ARADO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Elemento de composição: água",
+      "answer": "HIDRO",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "Período de importância histórica",
+      "answer": "ERA",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "Aldeia indígena",
+      "answer": "MALOCA",
+      "row": 4,
+      "col": 5
+    },
+    "19": {
+      "clue": "Inspetor Geral",
+      "answer": "IG",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "O número que não é ímpar",
+      "answer": "PAR",
+      "row": 5,
+      "col": 4
+    },
+    "21": {
+      "clue": "A desinência verbal de corromper",
+      "answer": "ER",
+      "row": 5,
+      "col": 9
+    },
+    "22": {
+      "clue": "Fechar um frasco",
+      "answer": "TAMPAR",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Ligante usado com cimento",
+      "answer": "CAL",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Marcar para outra ocasião",
+      "answer": "ADIAR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Sofrer aflição, dor",
+      "answer": "PENAR",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "(Código) Uma forma de comunicação",
+      "answer": "MORSE",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "O contrário de passivo",
+      "answer": "ATIVO",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Vento fresco e moderado",
+      "answer": "BRISA",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Square) Famosa região de Manhattan, em NY",
+      "answer": "TIMES",
+      "row": 9,
+      "col": 6
+    },
+    "34": {
+      "clue": "Um doce esponjoso, de gelatina e coco",
+      "answer": "MARIAMOLE",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Que não é funda",
+      "answer": "RASA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Que oferece serviço e paga por ele",
+      "answer": "EMPREGADOR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Tornar muito frio",
+      "answer": "GELAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Ligada, presa",
+      "answer": "UNIDA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Jogo de azar",
+      "answer": "LOTO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Granjear ou conseguir por acaso",
+      "answer": "GANHAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Ingl.) Correio eletrônico",
+      "answer": "EMAIL",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Direito, poder",
+      "answer": "MANDO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Chover miudinho",
+      "answer": "GAROAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Que pode ser pago em cotas",
+      "answer": "PARCELAVEL",
+      "row": 1,
+      "col": 9
+    },
+    "18": {
+      "clue": "Não banha a Áustria nem a Mongólia",
+      "answer": "MAR",
+      "row": 4,
+      "col": 5
+    },
+    "19": {
+      "clue": "Erva cujo bulbo é usado como purgativo",
+      "answer": "ITAMBE",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Formar par",
+      "answer": "PAREAR",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "(Mogi) Cidade paulista próxima a Campinas",
+      "answer": "MIRIM",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Fruta seca",
+      "answer": "PASSA",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Um tecido",
+      "answer": "CETIM",
+      "row": 6,
+      "col": 7
+    },
+    "26": {
+      "clue": "Interj.: coragem, força",
+      "answer": "ANIMO",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Pé de cachorro",
+      "answer": "PATA",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "(Fr.) Diz-se de um tipo de vinho de cor vermelho-clara",
+      "answer": "ROSE",
+      "row": 7,
+      "col": 10
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "A letra entre o esse e o u",
+      "answer": "TE",
+      "row": 0,
+      "col": 0
+    },
+    "3": {
+      "clue": "Grande vulcão ativo da Antártica",
+      "answer": "EREBUS",
+      "row": 0,
+      "col": 5
+    },
+    "8": {
+      "clue": "Organização das Nações Unidas",
+      "answer": "ONU",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Tipo de nota fiscal",
+      "answer": "NFE",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Uma associação de escritores brasileiros de renome",
+      "answer": "ABL",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "O pê da PUC",
+      "answer": "PONTIFICIA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Um personagem pré-histórico de Maurício de Sousa",
+      "answer": "HORACIO",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "A pintora mexicana Frida (1907-1954)",
+      "answer": "KHALO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "(Ingl.) Mão",
+      "answer": "HAND",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "Grave doença, ataca o sistema imunológico",
+      "answer": "AIDS",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Um famoso lago da Escócia",
+      "answer": "NESS",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "Altura máxima que uma aeronave pode voar",
+      "answer": "TETO",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "A atriz estadunidense Davis (1908-1989), ganhadora de dois Oscars",
+      "answer": "BETTE",
+      "row": 6,
+      "col": 6
+    },
+    "26": {
+      "clue": "Dinheiro que se dá como gratificação por um serviço prestado",
+      "answer": "GORJETA",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "(Pop.) O dedo médio da mão",
+      "answer": "PAIDETODOS",
+      "row": 8,
+      "col": 1
+    },
+    "30": {
+      "clue": "Abrev.: Lituânia",
+      "answer": "LIT",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Reflexão de um som",
+      "answer": "ECO",
+      "row": 9,
+      "col": 4
+    },
+    "32": {
+      "clue": "(Pop.) Tumulto, confusão",
+      "answer": "AUE",
+      "row": 9,
+      "col": 8
+    },
+    "33": {
+      "clue": "Muito grande, descomunal",
+      "answer": "ENORME",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "O titânio",
+      "answer": "TI",
+      "row": 10,
+      "col": 9
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Cidade dos EUA, capital do Kansas",
+      "answer": "TOPEKA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O músico pop inglês Brian",
+      "answer": "ENO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Uma marca chinesa de carros",
+      "answer": "EFFA",
+      "row": 0,
+      "col": 5
+    },
+    "4": {
+      "clue": "O terceiro estava ligado ao regime nazista",
+      "answer": "REICH",
+      "row": 0,
+      "col": 6
+    },
+    "5": {
+      "clue": "Golpe de certa arma branca",
+      "answer": "BAIONETADA",
+      "row": 0,
+      "col": 8
+    },
+    "6": {
+      "clue": "Embarcação indígena rasa, feita em casca de árvore",
+      "answer": "UBA",
+      "row": 0,
+      "col": 9
+    },
+    "7": {
+      "clue": "Spike Lee, cineasta de \"Faça a Coisa Certa\"",
+      "answer": "SL",
+      "row": 0,
+      "col": 10
+    },
+    "9": {
+      "clue": "Trepadeira de flores brancas, também chamada sessenta-feridas",
+      "answer": "UNHADEGATO",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "(Robert de) Ator de \"O Touro Indomável\"",
+      "answer": "NIRO",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "O Leon escritor russo",
+      "answer": "TOLSTOI",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "O de potássio é um violento veneno",
+      "answer": "CIANETO",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Palavra inglesa para designar o que faz sucesso",
+      "answer": "HIT",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Doença Sexualmente Transmissível",
+      "answer": "DST",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Professor de judô ou de caratê",
+      "answer": "SENSEI",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "Mandado de autoridade, que deve ser obedecido",
+      "answer": "ORDEM",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "(Carrero World) Grande parque temático",
+      "answer": "BETO",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "O ator Valadão, de \"Os Cafajestes\"",
+      "answer": "JECE",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "Plano de Integração Nacional",
+      "answer": "PIN",
+      "row": 8,
+      "col": 1
+    },
+    "29": {
+      "clue": "(Ingl.) Fora",
+      "answer": "OUT",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "(Coq Sportif) Marca de materiais esportivos",
+      "answer": "LE",
+      "row": 9,
+      "col": 0
+    }
+  }
+}

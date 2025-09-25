@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Amarrar",
+      "answer": "PRENDER",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Um carro da VW",
+      "answer": "FOX",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "País que faz fronteira com o México, Honduras, Belize e El Salvador",
+      "answer": "GUATEMALA",
+      "row": 1,
+      "col": 2
+    },
+    "12": {
+      "clue": "Pimenta fundamental na cozinha mexicana",
+      "answer": "CHILI",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Determinar um preço",
+      "answer": "COTAR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Pesar pela morte de alguém",
+      "answer": "LUTO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Ato que é secreto nas eleições",
+      "answer": "VOTO",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Vínculo",
+      "answer": "ELO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Renomada",
+      "answer": "FAMOSA",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Salma Hayek, atriz mexicana de \"Bandidas\"",
+      "answer": "SH",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Aprontar antecipadamente, para determinado uso",
+      "answer": "FAZER",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "As iniciais do médico Varella",
+      "answer": "DV",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Bajular",
+      "answer": "ADULAR",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "A regra que deve ser aplicada igualmente para todos",
+      "answer": "LEI",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Composto usado como solvente",
+      "answer": "ETER",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "(Rel.) Cada um dos reis que foram a Belém para adorar Jesus",
+      "answer": "MAGO",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Uma capital africana banhada pelo Mediterrâneo",
+      "answer": "TUNIS",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Uma letra como o A",
+      "answer": "VOGAL",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Empregado, aproveitado",
+      "answer": "UTILIZADO",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Por) Na minha opinião",
+      "answer": "MIM",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Aquecer muito",
+      "answer": "ABRASAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Legumes em vinagre",
+      "answer": "PICLES",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "País cortado pelo rio Nilo, famoso por suas pirâmides",
+      "answer": "EGITO",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Que não tem valor",
+      "answer": "NULO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Em consequência",
+      "answer": "DAI",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Um monstrinho do cinema",
+      "answer": "ET",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Tornar a mastigar",
+      "answer": "RECOMER",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Acontecimentos",
+      "answer": "FATOS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Saudação jovial ao se encontrar alguém",
+      "answer": "OLA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Pessoa que tem o mesmo nome de batismo que outra",
+      "answer": "XARA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Propulsor mecânico",
+      "answer": "MOTOR",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Carvão de pedra",
+      "answer": "HULHA",
+      "row": 2,
+      "col": 1
+    },
+    "16": {
+      "clue": "Tornar vazio",
+      "answer": "VAZAR",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Escarpa íngreme sobre litoral",
+      "answer": "FALESIA",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "O lugar ideal para conservar o vinho",
+      "answer": "ADEGA",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Que dá muita importância a coisas superficiais",
+      "answer": "FUTIL",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Arrombar",
+      "answer": "VIOLAR",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Tecido de algodão cru, usado em roupas jeans",
+      "answer": "DENIM",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "(Região dos) A área da costa fluminense com Araruama e Saquarema",
+      "answer": "LAGOS",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Peixe semelhante à cavala",
+      "answer": "ATUM",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Arte e técnica do estilo das roupas",
+      "answer": "MODA",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "(Leitos de) Uma carência no pico da pandemia",
+      "answer": "UTI",
+      "row": 8,
+      "col": 1
+    },
+    "32": {
+      "clue": "(Fut.) Video Assistant Referee",
+      "answer": "VAR",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "As iniciais do cantor e compositor Baleiro",
+      "answer": "ZB",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

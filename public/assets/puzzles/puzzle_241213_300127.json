@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "O animal mascote do time do Palmeiras",
+      "answer": "PORCO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Faz as plantas crescerem mais viçosas",
+      "answer": "ADUBO",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Insumo Farmacêutico Ativo",
+      "answer": "IFA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Rejeitar",
+      "answer": "REFUGAR",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Uma consoante linguodental",
+      "answer": "TE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Recobre o assento de cadeiras e sofás",
+      "answer": "FORRO",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Brigitte Bardot, atriz francesa",
+      "answer": "BB",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Honesto, incorruptível",
+      "answer": "INTEGRO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Um animal comum em fazendas",
+      "answer": "BOI",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Cidade italiana da costa sul do golfo de Nápoles",
+      "answer": "SORRENTO",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Muito medo",
+      "answer": "PAURA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Multidão",
+      "answer": "TURBA",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Dispositivo que muda a direção de uma onda que se propaga em um determinado meio",
+      "answer": "REFRATOR",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Samuel Rosa, músico mineiro",
+      "answer": "SR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Animais mamíferos como os ouriços e as preás",
+      "answer": "ROEDORES",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Com informações desabonadoras ou prejudiciais",
+      "answer": "SUJO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Caduco, decrépito",
+      "answer": "COROCA",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Orla de rio, mar, lago etc.",
+      "answer": "ABA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Catimba, nos esportes",
+      "answer": "CERA",
+      "row": 9,
+      "col": 4
+    },
+    "35": {
+      "clue": "Oi, em Londres",
+      "answer": "HI",
+      "row": 9,
+      "col": 9
+    },
+    "36": {
+      "clue": "Um garoto das histórias de aventura do belga Hergé",
+      "answer": "TINTIM",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "(Fig.) Grande quantidade de qualquer coisa",
+      "answer": "RIOS",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Gír.) Chilique",
+      "answer": "PITI",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Desconsideração, menosprezo",
+      "answer": "OFENSA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O símbolo químico do rádio",
+      "answer": "RA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Estuda e descreve o relevo terrestre",
+      "answer": "OROGRAFO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Que encara de frente",
+      "answer": "AFRONTADOR",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Dupla de instrumentistas",
+      "answer": "DUO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Ulysses Guimarães (1916-1992), político das \"Diretas Já\"",
+      "answer": "UG",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O Lamartine compositor (1904-1963)",
+      "answer": "BABO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Percurso da Terra",
+      "answer": "ORBITA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "R",
+      "answer": "ERRE",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "O músico sul-mato-grossense Di",
+      "answer": "FERRERO",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "Palavra francesa que designa passeio",
+      "answer": "TOUR",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Veado brasileiro, o menor de nossa fauna",
+      "answer": "BORORO",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Proteger, amparar",
+      "answer": "TUTORAR",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Um carro da VW",
+      "answer": "PASSAT",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Pop.) Loja onde se vendem roupas e objetos usados",
+      "answer": "BRECHO",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Elemento de composição: há pouco tempo",
+      "answer": "RECEM",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Pedra preciosa vermelha, facilmente imitável",
+      "answer": "RUBI",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Substâncias que, aspiradas, provocam reanimação",
+      "answer": "SAIS",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Segue Dez",
+      "answer": "JAN",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "(Fís.) O símbolo de Curie, medida radiativa",
+      "answer": "CI",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

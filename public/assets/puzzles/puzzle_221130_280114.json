@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "Sem os requisitos necessários",
+      "answer": "INABIL",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Glândula que involui a partir da puberdade",
+      "answer": "TIMO",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "(Galinha) O criminoso carioca interpretado por Seu Jorge no filme \"Cidade de Deus\"",
+      "answer": "MANE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Transmitir uma informação",
+      "answer": "AVISAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "(Stop) Parada, na F1",
+      "answer": "PIT",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Fut.) Apelido da torcida do Corinthians",
+      "answer": "FIEL",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "George Foreman, pugilista norte-americano",
+      "answer": "GF",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Desbastar com certo martelo pontiagudo",
+      "answer": "APICOAR",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Ferro com propriedade de atração",
+      "answer": "IMÃ",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Ferir",
+      "answer": "LESAR",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "(Pop.) Policial",
+      "answer": "TIRA",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Trabalhar como espião da polícia",
+      "answer": "POMBEAR",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Cada uma das divisões do tabuleiro de dama",
+      "answer": "CASA",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Flor ainda fechada",
+      "answer": "BROTO",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Digno de crédito, confiável",
+      "answer": "BOM",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "A parte interior, mais compacta e escura, do tronco das árvores",
+      "answer": "DURAMEN",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Tetê sem consoantes",
+      "answer": "EE",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Surra",
+      "answer": "SOVA",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Pessoa com Deficiência",
+      "answer": "PCD",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Um tipo de cerveja",
+      "answer": "ESCURA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Por + aquela",
+      "answer": "PELA",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "Fruto de pequenos grãos vermelhos, de sabor agridoce",
+      "answer": "ROMÃ",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Ter em excesso",
+      "answer": "SOBRAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Antílope africano avermelhado, de porte médio",
+      "answer": "IMPALA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Característica que distingue as cartas do baralho",
+      "answer": "NAIPE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Bloqueia e-mails",
+      "answer": "ANTISPAM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O nome da letra que é o símbolo químico do boro",
+      "answer": "BE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Classe, tipo",
+      "answer": "LAIA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O sinal gráfico ~",
+      "answer": "TIL",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "As iniciais da cantora baiana Sangalo",
+      "answer": "IS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Lava que escorre de um vulcão",
+      "answer": "MAGMA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Sem pais (fem.)",
+      "answer": "ORFÃ",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Cada osso da raque",
+      "answer": "VERTEBRA",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Que educa, organiza",
+      "answer": "FORMADOR",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "Grande desordem e confusão",
+      "answer": "CAOS",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Entrar pela força e com muito ímpeto",
+      "answer": "IRROMPER",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Figura da mitologia, protetora das águas",
+      "answer": "IARA",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Fazer giro de inspeção",
+      "answer": "RONDAR",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "Intimamente ligado",
+      "answer": "COESO",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Peça que coloca em movimento o mecanismo sonoro de um piano",
+      "answer": "TECLA",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Cerveja, em inglês",
+      "answer": "BEER",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Frutos que podem virar vinagre",
+      "answer": "UVAS",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "Vértebra de animal",
+      "answer": "SUÃ",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "100 sem e",
+      "answer": "CM",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "A UF de Cajazeiras e Campina Grande",
+      "answer": "PB",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

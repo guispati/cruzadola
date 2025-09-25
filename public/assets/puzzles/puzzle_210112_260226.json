@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ausência ou falta de mamas",
+      "answer": "AMAZIA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "A cantora Ramalho, de \"Canta Coração\"",
+      "answer": "ELBA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Principiante, novato",
+      "answer": "NOVEL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Vantagem econômica",
+      "answer": "LUCRO",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Professar uma fé religiosa",
+      "answer": "CRER",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "O costureiro Pierre, considerado um dos papas da moda",
+      "answer": "CARDIN",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Que torna inativo fisiologicamente",
+      "answer": "ATROFICO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "O símbolo do mendelévio",
+      "answer": "MD",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Por baixo de",
+      "answer": "SOB",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Designação genérica das peças do vestuário",
+      "answer": "ROUPA",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Receptáculo largo e comprido usado no comércio",
+      "answer": "SACA",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Nenhuma coisa",
+      "answer": "NADA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "A montanha dos parques de diversões",
+      "answer": "RUSSA",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "1.501, em algarismos romanos",
+      "answer": "MDI",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "As iniciais do músico Clapton, de \"Tears in Heaven\"",
+      "answer": "EC",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Diz o ditado que na casa dele o espeto é de pau",
+      "answer": "FERREIRO",
+      "row": 7,
+      "col": 3
+    },
+    "33": {
+      "clue": "Casa de detenção",
+      "answer": "CADEIA",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Ingl.) Disposição dos carros na largada de uma corrida",
+      "answer": "GRID",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "O que serve de suporte",
+      "answer": "APOIO",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Conflito entre várias pessoas",
+      "answer": "RUAÇA",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "Narrativa heroica, cheia de incidentes e perigos",
+      "answer": "SAGA",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Segurar algo que cai",
+      "answer": "APARAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Quadris",
+      "answer": "ANCAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O dia 2/11 é consagrado a eles",
+      "answer": "MORTOS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Escrever termo ou depoimento",
+      "answer": "AVERBAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um Recruta das HQs",
+      "answer": "ZERO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Instituto de Letras",
+      "answer": "IL",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "O continente com os países Albânia e Belarus",
+      "answer": "EUROPA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Um tipo de tela de monitores e TVs",
+      "answer": "LCD",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Um tecido resistente",
+      "answer": "BRIM",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Ao lugar que",
+      "answer": "AONDE",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Que tem falhas",
+      "answer": "LACUNAR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "O período de excitabilidade sexual da fêmea de vários mamíferos",
+      "answer": "CIO",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Maneira particular de dizer ou escrever algo",
+      "answer": "FRASEIO",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Observar com prazer",
+      "answer": "ADMIRAR",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Uma planta como a sete-sangrias",
+      "answer": "CUFEIA",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "(Mar.) Cabo para içar velas",
+      "answer": "ADRIÇA",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "(Vidas) Uma das mais famosas obras de Graciliano Ramos",
+      "answer": "SECAS",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Abrev.: senhora",
+      "answer": "SRA",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Misturar com o elemento químico I",
+      "answer": "IODAR",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Cobertura usada na encadernação de livros",
+      "answer": "CAPA",
+      "row": 7,
+      "col": 1
+    },
+    "32": {
+      "clue": "A mãe dos potros",
+      "answer": "EGUA",
+      "row": 7,
+      "col": 7
+    },
+    "34": {
+      "clue": "Cão, em inglês",
+      "answer": "DOG",
+      "row": 8,
+      "col": 2
+    },
+    "37": {
+      "clue": "Reverendo Padre",
+      "answer": "RP",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

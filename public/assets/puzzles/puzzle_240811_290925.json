@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Esquema de programação periódica de uma TV",
+      "answer": "GRADE",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Peça do motor do carro",
+      "answer": "GICLE",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Aperfeiçoar, retocar",
+      "answer": "RELIMAR",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Um imposto bancário",
+      "answer": "IOF",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Pústula da mucosa bucal",
+      "answer": "AFTA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Jogar",
+      "answer": "TACAR",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Voz de gato",
+      "answer": "MIO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Música popular portuguesa",
+      "answer": "FADO",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Precede o sobrenome do pintor Cavalcanti (1897-1976)",
+      "answer": "DI",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "O que transforma cocho em cochilo",
+      "answer": "IL",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Enjoo a bordo de uma embarcação",
+      "answer": "MAREAGEM",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Fechada com certa substância resinosa",
+      "answer": "LACRADA",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Ocupado, povoado",
+      "answer": "HABITADO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Eduardo, para os íntimos",
+      "answer": "DU",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "(-47) Famoso fuzil russo",
+      "answer": "AK",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "No basquete, bloqueio no arremesso adversário",
+      "answer": "TOCO",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "Bar tipicamente inglês",
+      "answer": "PUB",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Pensamento, mente, imaginação",
+      "answer": "IDEIA",
+      "row": 8,
+      "col": 1
+    },
+    "32": {
+      "clue": "(Biol.) Fator",
+      "answer": "GENE",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Um setor do hospital",
+      "answer": "CTI",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Esp.) Passar pelo adversário aplicando fintas",
+      "answer": "DRIBLAR",
+      "row": 9,
+      "col": 4
+    },
+    "36": {
+      "clue": "Saquinho aromático",
+      "answer": "SACHE",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Locução, expressão",
+      "answer": "FRASE",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Planta cultivada como forrageira e ornamental",
+      "answer": "GRAMINHA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Produto para reposição",
+      "answer": "REFIL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "De tamanho superior ao médio",
+      "answer": "ALTO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Tempo durante o qual o Sol ilumina determinada região da Terra",
+      "answer": "DIA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Em música, mi menor",
+      "answer": "EM",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Uma proteção para janelas",
+      "answer": "GRADEADO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Sigla da organização de espionagem e contra-espionagem dos EUA",
+      "answer": "CIA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Título de nobreza, na Inglaterra",
+      "answer": "LORDE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Ella Fitzgerald, cantora",
+      "answer": "EF",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Apertar muito",
+      "answer": "ATARRACAR",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Passado por crivo",
+      "answer": "COADO",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Fato forjado para atrair a atenção do público",
+      "answer": "FACTOIDE",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Que ainda não atingiu a puberdade",
+      "answer": "IMPUBERE",
+      "row": 3,
+      "col": 10
+    },
+    "21": {
+      "clue": "A atriz Proença",
+      "answer": "MAITE",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Ginástica Artística",
+      "answer": "GA",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Lamartine Babo, músico",
+      "answer": "LB",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Raça de cães",
+      "answer": "AKITA",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Montes de areia das praias",
+      "answer": "DUNAS",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Por + aquela",
+      "answer": "PELA",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Abreviatura de dicionário",
+      "answer": "DIC",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "Grã-Bretanha",
+      "answer": "GBR",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Chico Science, músico",
+      "answer": "CS",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Instituto Federal",
+      "answer": "IF",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

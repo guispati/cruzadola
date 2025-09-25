@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Casebres que formam uma taba",
+      "answer": "OCAS",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O do Ibirapuera é uma grande área verde da capital paulista",
+      "answer": "PARQUE",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "(Fut.) Jogo informal, sem a preocupação com cumprimento das regras do esporte",
+      "answer": "BATEBOLA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Uma forma do pronome tu",
+      "answer": "TI",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "As iniciais do ex-piloto Fittipaldi",
+      "answer": "EF",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Sigla de um importante museu paulistano",
+      "answer": "MASP",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "(Red.) Instrumento musical muito utilizado no jazz",
+      "answer": "SAX",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Prefixo de origem latina, significando em excesso",
+      "answer": "SUPER",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Estado norte-americano cuja capital é Boise",
+      "answer": "IDAHO",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "São 10 na década",
+      "answer": "ANOS",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Enfeite usado nos dedos",
+      "answer": "ANEL",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Lado direito do navio, olhando da popa para a proa",
+      "answer": "ESTIBORDO",
+      "row": 5,
+      "col": 1
+    },
+    "26": {
+      "clue": "Um receptáculo para recolher votos",
+      "answer": "URNA",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "O romancista Pompéia (1863-1895), de \"O Ateneu\"",
+      "answer": "RAUL",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "A grande cadeia de montanhas onde nasce o rio Amazonas",
+      "answer": "ANDES",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Cansado, aborrecido, sem mais vontade ou desejo",
+      "answer": "FARTO",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "O cantor Jaime, de \"Solange\"",
+      "answer": "LEO",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Que tem semelhança",
+      "answer": "AFIM",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "(Quím.) O rutênio",
+      "answer": "RU",
+      "row": 8,
+      "col": 9
+    },
+    "36": {
+      "clue": "Instituto de Neurologia",
+      "answer": "IN",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Aquele que promove e incita torcidas, auditório etc.",
+      "answer": "ANIMADOR",
+      "row": 9,
+      "col": 3
+    },
+    "39": {
+      "clue": "Ato de repercutir, ecoar",
+      "answer": "RESSOO",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "O que não é fundo",
+      "answer": "RASO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Gorda",
+      "answer": "OBESA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um gesto de carinho",
+      "answer": "CAFUNE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "André Trigueiro, jornalista carioca",
+      "answer": "AT",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "6 meses",
+      "answer": "SEMESTRE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Red.) Uma formação acadêmica superior à graduação",
+      "answer": "POS",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Uma famosa marca de chocolates",
+      "answer": "ALPINO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Região Administrativa",
+      "answer": "RA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O estado dos EUA com capital Salt Lake City",
+      "answer": "UTAH",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Sai deles quem abusa",
+      "answer": "EIXOS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Local onde se servem bebidas",
+      "answer": "BAR",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Quitar a dívida",
+      "answer": "SALDAR",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "(Pop.) Arrogante",
+      "answer": "POSUDO",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Deixar cair ou sair um líquido pelos bordos de um recipiente",
+      "answer": "DERRAMAR",
+      "row": 3,
+      "col": 7
+    },
+    "21": {
+      "clue": "O rebordo do chapéu que produz a sombra no rosto",
+      "answer": "ABA",
+      "row": 4,
+      "col": 5
+    },
+    "23": {
+      "clue": "(Fig.) Diz-se de trabalho, esforço etc. excessivo e pesado",
+      "answer": "INSANO",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Nem estes nem aqueles",
+      "answer": "OUTROS",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Não conseguir honrar compromissos financeiros (pessoa jurídica)",
+      "answer": "FALIR",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "De cabelos claros",
+      "answer": "LOURO",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "A de Vila Matilde é uma escola de samba de SP",
+      "answer": "NENE",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "A última palavra de um filme",
+      "answer": "FIM",
+      "row": 7,
+      "col": 6
+    },
+    "34": {
+      "clue": "Fita metálica que liga aparelhos à corrente elétrica",
+      "answer": "FIO",
+      "row": 8,
+      "col": 5
+    },
+    "37": {
+      "clue": "São quatro em Itabaiana",
+      "answer": "AS",
+      "row": 9,
+      "col": 3
+    },
+    "38": {
+      "clue": "Dela",
+      "answer": "DA",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

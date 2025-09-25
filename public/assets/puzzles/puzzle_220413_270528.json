@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Gír.) Maconha",
+      "answer": "BAGULHO",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Documento de Arrecadação do Simples",
+      "answer": "DAS",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Uma concorrente da Coca-Cola",
+      "answer": "PEPSI",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Diâmetro principal de um corpo",
+      "answer": "EIXO",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Situação em uma peça de teatro",
+      "answer": "CENA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Um objeto usado para barbear",
+      "answer": "PINCEL",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Uma tecla do computador",
+      "answer": "ALT",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Terço, rosário",
+      "answer": "CONTA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Abster-se de comprar ou usar, por motivo de represália, protesto etc.",
+      "answer": "BOICOTAR",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Guarnecer com folhas delgadas",
+      "answer": "LAMELAR",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Carnaval fora da época",
+      "answer": "MICARETA",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Transgredir uma regra religiosa",
+      "answer": "PECAR",
+      "row": 7,
+      "col": 2
+    },
+    "26": {
+      "clue": "O que é prejudicial ou fere",
+      "answer": "MAL",
+      "row": 7,
+      "col": 8
+    },
+    "27": {
+      "clue": "A missão do cirurgião",
+      "answer": "OPERAR",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Canídeo do hemisfério norte",
+      "answer": "LOBO",
+      "row": 8,
+      "col": 7
+    },
+    "30": {
+      "clue": "Grupo étnico",
+      "answer": "RAÇA",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Natural ou morador de uma ilha",
+      "answer": "ILHEU",
+      "row": 9,
+      "col": 5
+    },
+    "33": {
+      "clue": "O teste feito para reconhecimento de paternidade",
+      "answer": "DNA",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Reduzir os excessos",
+      "answer": "MODERAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Invocação",
+      "answer": "APELO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Que revela cortesia, amabilidade",
+      "answer": "GENTIL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Interj.: surpresa",
+      "answer": "UPA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Lasar Segall (1891-1957), pintor e escultor",
+      "answer": "LS",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Da sujeição a penhor de bens imóveis",
+      "answer": "HIPOTECARIO",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "(Pop.) Informação ou indicação boa",
+      "answer": "DICA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Gênero musical originário da Bahia",
+      "answer": "AXE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Piso",
+      "answer": "SOLO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Compartilhar, tomar parte",
+      "answer": "ENTRAR",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Corda de aço",
+      "answer": "CABO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Fazer absorver por aspiração",
+      "answer": "INALAR",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Atriz de comédias",
+      "answer": "COMICA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Um aparelho como a GoPro",
+      "answer": "CAMERA",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Pensar e repensar sobre algo",
+      "answer": "REMOER",
+      "row": 5,
+      "col": 8
+    },
+    "21": {
+      "clue": "No jogo do bicho, o 13º grupo",
+      "answer": "GALO",
+      "row": 5,
+      "col": 10
+    },
+    "23": {
+      "clue": "Peça plana de madeira serrada",
+      "answer": "TABUA",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "O Harrison ator estadunidense de \"Indiana Jones\"",
+      "answer": "FORD",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Cada parte de um quebra-cabeça",
+      "answer": "PEÇA",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "O Peter que desafia o Capitão Gancho na famosa história infantil",
+      "answer": "PAN",
+      "row": 8,
+      "col": 1
+    },
+    "29": {
+      "clue": "A ela",
+      "answer": "LHE",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Lima Duarte, ator de \"O Auto da Compadecida\"",
+      "answer": "LD",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

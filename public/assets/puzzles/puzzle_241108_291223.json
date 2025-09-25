@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Especialista na terapia criada por Freud",
+      "answer": "ANALISTA",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Carolina Dieckmann, atriz carioca",
+      "answer": "CD",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "O número de lados do eneágono",
+      "answer": "NOVE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Grupo de tribos nômades de índios norte-americanos",
+      "answer": "APACHE",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Fora de série",
+      "answer": "INCOMUM",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Exclamação que expressa incredulidade",
+      "answer": "HUM",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Cercam o N",
+      "answer": "MO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Abrev.: o mês 11",
+      "answer": "NOV",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Anfíbio semelhante à rã",
+      "answer": "SAPO",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Uma ave que vive sempre perto da água",
+      "answer": "SARACURA",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "O texto de uma música",
+      "answer": "LETRA",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Calheta",
+      "answer": "ANGRA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Cão que late muito",
+      "answer": "LADRANTE",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Repreensão",
+      "answer": "PITO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "1.055,06 joules",
+      "answer": "BTU",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "(Pão de) Bolo usado para montar tortas",
+      "answer": "LO",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "O músico Lobo",
+      "answer": "EDU",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Cantor ou cantora de orquestra",
+      "answer": "CROONER",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Filho de pais japoneses, nascido no Brasil",
+      "answer": "NISSEI",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Descompostura violenta",
+      "answer": "SOVA",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "Agildo Ribeiro (1932-2018), ator e humorista",
+      "answer": "AR",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Um equipamento de terraplenagem",
+      "answer": "BULDOZER",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um ser como o besouro ou a baleia",
+      "answer": "ANIMAL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "9º",
+      "answer": "NONO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Med.) Sigla para acidente vascular cerebral",
+      "answer": "AVC",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O gênio italiano da Vinci (1452-1519)",
+      "answer": "LEONARDO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Uma formiga",
+      "answer": "SAUVA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Síndrome que atinge as mulheres",
+      "answer": "TPM",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Um tamanho de pilha",
+      "answer": "AA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Pop.) Copiar uma ideia",
+      "answer": "CHUPAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Ingl.) Diz-se de clipe feito para apresentação comercial",
+      "answer": "DEMO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Um tipo de cartum",
+      "answer": "CHARGE",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Habitar",
+      "answer": "MORAR",
+      "row": 2,
+      "col": 4
+    },
+    "18": {
+      "clue": "Em que há grande luxo",
+      "answer": "SUNTUOSO",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "(Lat.) Posição de um indivíduo numa estrutura social",
+      "answer": "STATUS",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Som de ave",
+      "answer": "CANTO",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Apagar, eliminar",
+      "answer": "ELIDIR",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Amar com devoção",
+      "answer": "ADORAR",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Mês do dia da mentira",
+      "answer": "ABRIL",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Sanção prevista na lei para o autor de crimes ou delitos",
+      "answer": "PENA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Um antônimo de pesado",
+      "answer": "LEVE",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Onde fica Plutão",
+      "answer": "CEU",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "A forma do que é nuciforme",
+      "answer": "NOZ",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Sônia Braga, atriz paranaense",
+      "answer": "SB",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

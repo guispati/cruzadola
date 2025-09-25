@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Pequeno corpo celeste que gravita em torno do Sol",
+      "answer": "ASTEROIDE",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Iguaria saborosa",
+      "answer": "PITEU",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "O feio é uma palavra injuriosa, obscena, ofensiva ou indecorosa",
+      "answer": "NOME",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "O amerício, para os químicos",
+      "answer": "AM",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Circular",
+      "answer": "GIRAR",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Pelado",
+      "answer": "NU",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "(Hermanos) Banda de pop rock nacional",
+      "answer": "LOS",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "840+160",
+      "answer": "MIL",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Decifrar",
+      "answer": "LER",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "A cor azul",
+      "answer": "ANIL",
+      "row": 4,
+      "col": 0
+    },
+    "23": {
+      "clue": "Delicadeza de quem sabe tratar com outras pessoas sem magoá-las",
+      "answer": "TATO",
+      "row": 4,
+      "col": 5
+    },
+    "25": {
+      "clue": "Um que prefere alimentos não carnívoros",
+      "answer": "VEGETARISTA",
+      "row": 5,
+      "col": 0
+    },
+    "28": {
+      "clue": "O Rosa (1910-1937), músico de \"Palpite Infeliz\"",
+      "answer": "NOEL",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "Um exame do MEC",
+      "answer": "ENEM",
+      "row": 6,
+      "col": 7
+    },
+    "30": {
+      "clue": "Manifestação da vontade humana",
+      "answer": "ATO",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Acusado de crime",
+      "answer": "REU",
+      "row": 7,
+      "col": 4
+    },
+    "34": {
+      "clue": "Preposição que expressa um limite posterior de tempo",
+      "answer": "ATE",
+      "row": 7,
+      "col": 8
+    },
+    "35": {
+      "clue": "Anfíbio encontrado na água ou próximo a ela",
+      "answer": "RÃ",
+      "row": 8,
+      "col": 0
+    },
+    "36": {
+      "clue": "Sinal ortográfico que se colocava sobre o U",
+      "answer": "TREMA",
+      "row": 8,
+      "col": 3
+    },
+    "38": {
+      "clue": "Prefixo de negação",
+      "answer": "AN",
+      "row": 8,
+      "col": 9
+    },
+    "39": {
+      "clue": "Substância gordurosa em estado líquido",
+      "answer": "OLEO",
+      "row": 9,
+      "col": 1
+    },
+    "41": {
+      "clue": "Quantia paga além do ordenado",
+      "answer": "ABONO",
+      "row": 9,
+      "col": 6
+    },
+    "43": {
+      "clue": "Que causa estrago considerável em",
+      "answer": "ARRASADOR",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Combinar, convencionar",
+      "answer": "APALAVRAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A cantora norte-americana de jazz Nina (1933-2003)",
+      "answer": "SIMONE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "As consoantes de Tetê",
+      "answer": "TT",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Abrev.: eletrencefalograma",
+      "answer": "EEG",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Improdutivo, pobre",
+      "answer": "RUIM",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Aspirar",
+      "answer": "INALAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Pode ser de cotovelo",
+      "answer": "DOR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Eddie Murphy, ator norte-americano",
+      "answer": "EM",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "N",
+      "answer": "ENE",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Famosa cantora e compositora paulistana",
+      "answer": "RITALEE",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Constelação boreal que compreende a estrela Polar",
+      "answer": "URSAMENOR",
+      "row": 2,
+      "col": 10
+    },
+    "18": {
+      "clue": "Horóscopo",
+      "answer": "SIGNO",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "Planta também conhecida como absinto",
+      "answer": "LOSNA",
+      "row": 3,
+      "col": 8
+    },
+    "22": {
+      "clue": "O músico Jaime",
+      "answer": "LEO",
+      "row": 4,
+      "col": 3
+    },
+    "24": {
+      "clue": "Pássaro de corpo vermelho e asas pretas",
+      "answer": "TIE",
+      "row": 4,
+      "col": 7
+    },
+    "26": {
+      "clue": "Sentimento de medo enorme e incontrolável",
+      "answer": "TERROR",
+      "row": 5,
+      "col": 4
+    },
+    "27": {
+      "clue": "Doença caracterizada por espasmos e rigidez muscular",
+      "answer": "TETANO",
+      "row": 5,
+      "col": 9
+    },
+    "31": {
+      "clue": "Tanto",
+      "answer": "TÃO",
+      "row": 7,
+      "col": 1
+    },
+    "33": {
+      "clue": "Artigo indefinido feminino plural",
+      "answer": "UMAS",
+      "row": 7,
+      "col": 6
+    },
+    "36": {
+      "clue": "O dia entre Seg e Qua",
+      "answer": "TER",
+      "row": 8,
+      "col": 3
+    },
+    "37": {
+      "clue": "Orla de rio, mar, lago etc.",
+      "answer": "ABA",
+      "row": 8,
+      "col": 7
+    },
+    "40": {
+      "clue": "Naquele lugar",
+      "answer": "LA",
+      "row": 9,
+      "col": 2
+    },
+    "42": {
+      "clue": "O que se acrescenta ao melado para ficar modelado",
+      "answer": "OD",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

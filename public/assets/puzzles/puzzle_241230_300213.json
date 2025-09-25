@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Espetinho de carne típico da Turquia",
+      "answer": "KEBAB",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Uma comida baiana",
+      "answer": "CAIRI",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Peça do assoalho",
+      "answer": "TACO",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Povo bárbaro da Ásia Central",
+      "answer": "HUNOS",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "A cantora de \"Esse Tal de Roque Enrow\"",
+      "answer": "RITALEE",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Comando Militar do Sul",
+      "answer": "CMS",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Um personagem do cinema",
+      "answer": "ACEVENTURA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "O céu da boca",
+      "answer": "PALATO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Veículo Aéreo Não Tripulado",
+      "answer": "VANT",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Uma mulher de cabelos claros",
+      "answer": "LOIRA",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "O sambista Pagodinho",
+      "answer": "ZECA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Pop.) Levar no bico",
+      "answer": "TAPEAR",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "De uma cidade italiana próxima aos Alpes",
+      "answer": "BERGAMASCO",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "Um carro utilitário esportivo da Honda",
+      "answer": "CRV",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "O poeta e jornalista Barbosa (1893-1966), de \"Chão de Estrelas\"",
+      "answer": "ORESTES",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Uma cidade litorânea da Flórida, nos EUA",
+      "answer": "MIAMI",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "São quatro em um maço de baralho",
+      "answer": "ASES",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Regra a seguir",
+      "answer": "NORMA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Encher até a borda",
+      "answer": "RASAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Atitude decente",
+      "answer": "ETICA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Pequeno barco",
+      "answer": "BATEL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Pôr objetos uns sobre os outros",
+      "answer": "ACAVALAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Impresso próprio para pagamento de compromisso",
+      "answer": "BOLETO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "O trompetista de jazz Baker (1929-1988)",
+      "answer": "CHET",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Som de latido de cachorro nas HQs",
+      "answer": "AU",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Instituto Nacional de Colonização e Reforma Agrária",
+      "answer": "INCRA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O cineasta Polanski, de \"O Escritor Fantasma\"",
+      "answer": "ROMAN",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "O imposto que taxa serviços",
+      "answer": "ISS",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Moço",
+      "answer": "RAPAZ",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Escurecer",
+      "answer": "ENOITAR",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Uma fruta seca usada em culinária",
+      "answer": "UVAPASSA",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Disparos de arma de fogo",
+      "answer": "TIROS",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Adornar com galhos",
+      "answer": "RAMEAR",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Pinguço",
+      "answer": "EBRIO",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Nutrir, alimentar",
+      "answer": "CEVAR",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Os aqui presentes",
+      "answer": "ESTES",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Diz-se de luz ligada",
+      "answer": "ACESA",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "Indivíduo de tribo indígena que deu nome a um estado",
+      "answer": "GOIA",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Conselho Monetário Nacional",
+      "answer": "CMN",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Maurício Mattar, ator",
+      "answer": "MM",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

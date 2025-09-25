@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Traje",
+      "answer": "VESTUARIO",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "(Red.) Exibição de produtos, serviços etc.",
+      "answer": "EXPO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Pacificar",
+      "answer": "PAZEAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Um parque nacional",
+      "answer": "ITATIAIA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Abreviatura de microempresa",
+      "answer": "ME",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Substância que enche os pulmões",
+      "answer": "AR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Um bicho-papão",
+      "answer": "OGRO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Sigla da TV de Sílvio Santos",
+      "answer": "SBT",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Tempero usado na conservação de carnes",
+      "answer": "SAL",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "A nota musical A",
+      "answer": "LA",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "(Pop.) Investigador de polícia",
+      "answer": "TIRA",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "(Inform.) Arquivo",
+      "answer": "DOCUMENTO",
+      "row": 5,
+      "col": 1
+    },
+    "26": {
+      "clue": "Revista infantil em quadrinhos",
+      "answer": "GIBI",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Extraterrestre",
+      "answer": "ET",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "A tecla do extremo superior esquerdo do teclado",
+      "answer": "ESC",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "Sufixo químico",
+      "answer": "ETO",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Um exame do MEC",
+      "answer": "ENEM",
+      "row": 7,
+      "col": 4
+    },
+    "33": {
+      "clue": "Eu, em Milão",
+      "answer": "IO",
+      "row": 7,
+      "col": 9
+    },
+    "34": {
+      "clue": "Ruim (fem.)",
+      "answer": "MA",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "Incitar a curiosidade",
+      "answer": "INTRIGAR",
+      "row": 8,
+      "col": 3
+    },
+    "37": {
+      "clue": "Quina",
+      "answer": "ARESTA",
+      "row": 9,
+      "col": 0
+    },
+    "39": {
+      "clue": "Nome de uma caravela de Colombo",
+      "answer": "NINA",
+      "row": 9,
+      "col": 7
+    },
+    "40": {
+      "clue": "Prolongar indefinidamente",
+      "answer": "ETERNIZAR",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Os vasos que levam o sangue de volta ao coração",
+      "answer": "VEIAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Entregar um criminoso a um governo estrangeiro que o exige em seu próprio país",
+      "answer": "EXTRADITAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Clínica para tratamento de saúde e beleza",
+      "answer": "SPA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Cãozinho",
+      "answer": "TOTO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Adornar",
+      "answer": "APARAMENTAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Emanação de luz de uma fonte luminosa",
+      "answer": "RAIO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Cantora e apresentadora carioca",
+      "answer": "IZA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Física: abreviatura de oersted",
+      "answer": "OE",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Lábia, tapeação",
+      "answer": "TRETA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Diz-se de certa melodia eclesiástica",
+      "answer": "AMBROSIANA",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Cabana de gelo",
+      "answer": "IGLU",
+      "row": 2,
+      "col": 4
+    },
+    "18": {
+      "clue": "(Ingl.) Local na internet",
+      "answer": "SITE",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Canídeo típico do hemisfério norte",
+      "answer": "LOBO",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Tancredo Neves, político",
+      "answer": "TN",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "Cento e um, em algarismos romanos",
+      "answer": "CI",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Composto usado em medicina e na indústria",
+      "answer": "ETER",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "Lançar rebentos",
+      "answer": "GEMAR",
+      "row": 6,
+      "col": 0
+    },
+    "29": {
+      "clue": "Tingir",
+      "answer": "CORAR",
+      "row": 6,
+      "col": 10
+    },
+    "31": {
+      "clue": "O ser humano",
+      "answer": "ENTE",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Saia que deixa parte da coxa à mostra",
+      "answer": "MINI",
+      "row": 7,
+      "col": 7
+    },
+    "35": {
+      "clue": "Infecções Sexualmente Transmissíveis",
+      "answer": "IST",
+      "row": 8,
+      "col": 3
+    },
+    "36": {
+      "clue": "(Chão de) Um sucesso de Zé Ramalho",
+      "answer": "GIZ",
+      "row": 8,
+      "col": 8
+    },
+    "38": {
+      "clue": "Abreviatura de editores",
+      "answer": "EE",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

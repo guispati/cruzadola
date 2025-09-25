@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Que não é orgânico",
+      "answer": "MINERAL",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "O dê de D. Pedro II",
+      "answer": "DOM",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Que se processa de maneira fácil e agradável",
+      "answer": "AMENO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Relativo aos princípios da moral",
+      "answer": "ETICO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Sistema de Posicionamento Global",
+      "answer": "GPS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "País da Oceania com capital Ápia",
+      "answer": "SAMOA",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Tranquilizar",
+      "answer": "DESINFERNAR",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Praia",
+      "answer": "ARENAL",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "A peça por onde desce a água da pia",
+      "answer": "RALO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Tecido de malhas entrelaçadas",
+      "answer": "TRICO",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Aperitivo que se come com pão ou bolacha",
+      "answer": "PATE",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Fig.) Procurar seduzir",
+      "answer": "TENTAR",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Relativo à política interesseira",
+      "answer": "ELEITOREIRO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Tempo de dificuldades perigosas",
+      "answer": "CRISE",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "(Fisioq.) Molécula-grama",
+      "answer": "MOL",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Devastar, destruir",
+      "answer": "TALAR",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Ácida",
+      "answer": "AZEDA",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "(Sigla) Estados Unidos da América",
+      "answer": "EUA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Desfazer dúvidas",
+      "answer": "ACLARAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Uma personagem muito popular de Marisa Orth",
+      "answer": "MAGDA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "De qualidade superior",
+      "answer": "IMPERIAL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Em + esse",
+      "answer": "NESSE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Executivo Nacional",
+      "answer": "EN",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Resmungar",
+      "answer": "ROSNAR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Fig.) Administração, direção",
+      "answer": "LEME",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "A Pequena cantora baiana",
+      "answer": "DIANA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Otaviano Costa, ator e apresentador",
+      "answer": "OC",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O do Careca é um ponto turístico próximo a Natal (RN)",
+      "answer": "MORRO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Um doce em barra",
+      "answer": "TORRONE",
+      "row": 1,
+      "col": 7
+    },
+    "15": {
+      "clue": "O bairro do estádio do Náutico, em Recife",
+      "answer": "AFLITOS",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Completa, total",
+      "answer": "INTEIRA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "A elite",
+      "answer": "ALTARODA",
+      "row": 3,
+      "col": 9
+    },
+    "22": {
+      "clue": "Uma planta como o trigo, o arroz e a aveia",
+      "answer": "CEREAL",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Infestação de uma praga",
+      "answer": "PESTE",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Uma peça como o F1 ou o Tab",
+      "answer": "TECLA",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "(Ingl.) Um marcador de tempo",
+      "answer": "TIMER",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Avançar como uma bola",
+      "answer": "ROLAR",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Faixa",
+      "answer": "TIRA",
+      "row": 7,
+      "col": 4
+    },
+    "33": {
+      "clue": "O som do latido de um cão",
+      "answer": "AU",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "Zona Aérea",
+      "answer": "ZA",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

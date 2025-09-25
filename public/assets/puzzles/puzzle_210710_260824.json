@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uva com as quais são produzidos vinhos",
+      "answer": "MALBEC",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Fig.) Tendência geral ou determinada por forças externas",
+      "answer": "VIES",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "O espírito imortal",
+      "answer": "ALMA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Lagoa do município de Salvador, ponto de atração turística",
+      "answer": "ABAETE",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Magnetismo pessoal",
+      "answer": "IT",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Soltar (o cão) gritos lamentosos",
+      "answer": "GANIR",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Ondas Longas",
+      "answer": "OL",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Serviço de Inspeção Federal",
+      "answer": "SIF",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "A capital com o Arco do Triunfo",
+      "answer": "PARIS",
+      "row": 3,
+      "col": 4
+    },
+    "21": {
+      "clue": "Cantado, com apoio em sons oralizados, e não em palavras",
+      "answer": "VOCALIZADO",
+      "row": 4,
+      "col": 1
+    },
+    "24": {
+      "clue": "Gerenciar",
+      "answer": "GERIR",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "País africano com capital Porto Novo",
+      "answer": "BENIN",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "Ladrilheiro",
+      "answer": "AZULEJISTA",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Jorrar, escorrer",
+      "answer": "MINAR",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Abreviatura de observação",
+      "answer": "OBS",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Ivan Lins, músico de \"Novo Tempo\"",
+      "answer": "IL",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Cada aurícula do coração",
+      "answer": "ATRIO",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Conjunção que une palavras que exprimem ideias alternadas",
+      "answer": "OU",
+      "row": 8,
+      "col": 9
+    },
+    "36": {
+      "clue": "Dar lucro",
+      "answer": "RENDER",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "(Eletr.) Cada um dos terminais de um gerador elétrico",
+      "answer": "POLO",
+      "row": 9,
+      "col": 7
+    },
+    "40": {
+      "clue": "(Fig.) Berro",
+      "answer": "URRO",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "Conferencista ocasional",
+      "answer": "ORADOR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Em grau superior",
+      "answer": "MAIS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Consciência e ostentação de superioridade",
+      "answer": "ALTIVEZ",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Larissa Manoela, atriz",
+      "answer": "LM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Bolsa, sacola, em inglês",
+      "answer": "BAG",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Anat.) Ducto",
+      "answer": "CANAL",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Veias dilatadas e tortuosas, com paredes sem elasticidade",
+      "answer": "VARIZES",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Abreviatura de isto é",
+      "answer": "IE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Uma metade do... cateto",
+      "answer": "ETO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O ator Mello, de \"A Mulher Invisível\"",
+      "answer": "SELTON",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Peixe da Amazônia, cinza-prateado com faixas escuras",
+      "answer": "BIRIBIRI",
+      "row": 1,
+      "col": 6
+    },
+    "15": {
+      "clue": "Que pode ser visto",
+      "answer": "APARENTE",
+      "row": 2,
+      "col": 4
+    },
+    "18": {
+      "clue": "Lugar onde funcionam os órgãos do poder judiciário",
+      "answer": "FORUM",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "Um homem canonizado",
+      "answer": "SANTO",
+      "row": 3,
+      "col": 8
+    },
+    "22": {
+      "clue": "Provido de pelos da orla das pálpebras",
+      "answer": "CILIADO",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Um brinquedo com cordel e carretel",
+      "answer": "DIABOLO",
+      "row": 4,
+      "col": 9
+    },
+    "24": {
+      "clue": "Conquistador de mulheres",
+      "answer": "GABIRU",
+      "row": 5,
+      "col": 0
+    },
+    "27": {
+      "clue": "Vaso para água, com bojo e bico",
+      "answer": "JARRO",
+      "row": 6,
+      "col": 5
+    },
+    "30": {
+      "clue": "(Fig.) Resultado de grandes fadigas",
+      "answer": "SUOR",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "Interpretar (ideia, conceito etc.)",
+      "answer": "LER",
+      "row": 8,
+      "col": 1
+    },
+    "34": {
+      "clue": "Uma interjeição de espanto",
+      "answer": "OPA",
+      "row": 8,
+      "col": 7
+    },
+    "37": {
+      "clue": "As iniciais do músico Reis",
+      "answer": "NR",
+      "row": 9,
+      "col": 2
+    },
+    "39": {
+      "clue": "Orlando Dias, cantor",
+      "answer": "OD",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

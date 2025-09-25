@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Roberta, entre amigos",
+      "answer": "BETA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O ex-presidente venezuelano Hugo (1954-2013)",
+      "answer": "CHAVEZ",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Um antônimo de criança",
+      "answer": "ADULTO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Bom senso",
+      "answer": "SISO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Que não é límpido",
+      "answer": "TURVO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Traço sobre uma superfície",
+      "answer": "RISCO",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Conceber",
+      "answer": "FORMULAR",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Resposta de prova",
+      "answer": "NDA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Folhagem",
+      "answer": "RAMARIA",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Uma variação do pronome tu",
+      "answer": "TI",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Campo de ação",
+      "answer": "SETOR",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Vladimir Nabokov (1898-1977), escritor",
+      "answer": "VN",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Conservar em pequena caixa",
+      "answer": "ESTOJAR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Abertura para a colocação de uma janela",
+      "answer": "VÃO",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Açúcar comum, que pode ser encontrado na cana-de-açúcar",
+      "answer": "SACAROSE",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Dar lustro a",
+      "answer": "POLIR",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Trilha",
+      "answer": "SENDA",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "O foco da manicure",
+      "answer": "UNHA",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Livro de consultas",
+      "answer": "MANUAL",
+      "row": 9,
+      "col": 5
+    },
+    "34": {
+      "clue": "Um tipo de piso",
+      "answer": "SOALHO",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Anat.) Cada peça que, juntas, formam o esqueleto",
+      "answer": "OSSO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Rebaixo onde porta ou janela se encaixa ao fechar",
+      "answer": "BATENTE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Net) Sufixo para entidades ligadas à educação",
+      "answer": "EDU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Espécie de carvão fóssil",
+      "answer": "TURFA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Mira que se procura atingir",
+      "answer": "ALVO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Quím.) Cobalto",
+      "answer": "CO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Recolher ou abrigar em instituição de caridade",
+      "answer": "ASILAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Ter por fim ou objetivo",
+      "answer": "VISAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Funcionária de cartório",
+      "answer": "ESCRIVÃ",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Red.) Local onde são expostos animais",
+      "answer": "ZOO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Fortificar um castelo",
+      "answer": "TORREJAR",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Barulhenta",
+      "answer": "RUMOROSA",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "(Gír.) Consumir até o fim, acabar com",
+      "answer": "MATAR",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "(Mús.) Desarmonioso",
+      "answer": "DISSONO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Defeituoso",
+      "answer": "ANOMALO",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Um tipo de elevador",
+      "answer": "SOCIAL",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Recipiente para água potável",
+      "answer": "TALHA",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "O planeta entre Mercúrio e a Terra",
+      "answer": "VENUS",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "(Trig.) Num triângulo retângulo, razão entre o cateto oposto e a hipotenusa",
+      "answer": "SENO",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Substância amarelada que se forma em feridas",
+      "answer": "PUS",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "De + as",
+      "answer": "DAS",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "(Pop.) Grande quantidade",
+      "answer": "MO",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

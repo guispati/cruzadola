@@ -1,0 +1,258 @@
+{
+  "across": {
+    "2": {
+      "clue": "O ato de fazer deter ou diminuir o movimento de um veículo por meio de freio",
+      "answer": "BRECADA",
+      "row": 0,
+      "col": 2
+    },
+    "8": {
+      "clue": "(Fig.) Imaturo, inexperiente",
+      "answer": "CRU",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Que não tem valor",
+      "answer": "NULO",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Fabiana Karla, humorista e atriz",
+      "answer": "FK",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "O músico paraibano Vianna",
+      "answer": "HERBERT",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Esp.) Exclamação de aplauso para uma jogada acertada, válida",
+      "answer": "BOA",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Picante",
+      "answer": "ACRE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "O iatista Scheidt",
+      "answer": "ROBERT",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Nação africana com capital Kigali",
+      "answer": "RUANDA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Em que",
+      "answer": "ONDE",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Ato de apertar entre os braços",
+      "answer": "ENLACE",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Mentirosa, fingida",
+      "answer": "FALSA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Dizer",
+      "answer": "FALAR",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "Em matemática, uma palavra usada em frações (pl.)",
+      "answer": "AVOS",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Cetáceo, também chamado delfim branco",
+      "answer": "BELUGA",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "Aquele que dirige, governa",
+      "answer": "REGEDOR",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Matem.) O nome da letra que é o símbolo de incógnita",
+      "answer": "XIS",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "(Pop.) Dica",
+      "answer": "PLA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "O contrário de amor",
+      "answer": "ODIO",
+      "row": 9,
+      "col": 4
+    },
+    "36": {
+      "clue": "Leon Tolstói (1828-1910), romancista e filósofo russo",
+      "answer": "LT",
+      "row": 9,
+      "col": 9
+    },
+    "37": {
+      "clue": "Viagem de veneração religiosa",
+      "answer": "ROMARIA",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Supor, julgar",
+      "answer": "ACHAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A mãe de um asno",
+      "answer": "BURRA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "N",
+      "answer": "ENE",
+      "row": 0,
+      "col": 4
+    },
+    "4": {
+      "clue": "Lugar onde se junta e recolhe o gado",
+      "answer": "CURRAL",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "(Gír.) Embriagado",
+      "answer": "ALTO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Sentimento de pena",
+      "answer": "DO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O esporte do carioca Bob Burnquist",
+      "answer": "SKATE",
+      "row": 0,
+      "col": 10
+    },
+    "9": {
+      "clue": "A que se pode dizer não",
+      "answer": "RECUSAVEL",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "A indústria de carros que recentemente deixou o Brasil",
+      "answer": "FORD",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Lucro que se obtém sem trabalhar",
+      "answer": "BENESSE",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Uma organização econômica europeia",
+      "answer": "BENELUX",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "A abertura do trombone por onde se sopra para produzir o som",
+      "answer": "BOCAL",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Teste que examina os genes",
+      "answer": "DNA",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Ajustar a um padrão",
+      "answer": "AFERIR",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Pequena lasca de madeira que fica presa na pele",
+      "answer": "FARPA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Inform.) Acessar um site na net, com informações pessoais",
+      "answer": "LOGAR",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Que tem grande facilidade de se mover",
+      "answer": "AGIL",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Sinal, que fica no chão, de alguém que caminha",
+      "answer": "RASTO",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Celebração de casamento",
+      "answer": "BODA",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "O dê de D. Pedro II",
+      "answer": "DOM",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "(Pop.) Olá",
+      "answer": "OI",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um dos primeiros carros fabricados no Brasil",
+      "answer": "SIMCA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Ingl.) A banana sobremesa",
+      "answer": "SPLIT",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Falso, fingido",
+      "answer": "INSINCERO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Gene Hackman, ator de \"Mississipi em Chamas\"",
+      "answer": "GH",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Relativo a porcos",
+      "answer": "SUINO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "As letras entre o S e o V",
+      "answer": "TU",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Um tipo de farinha muito usada para alimentação infantil",
+      "answer": "LACTEA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Parte da planta, a que precede o fruto",
+      "answer": "FLOR",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Honduras",
+      "answer": "HON",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Pausa, interrupção",
+      "answer": "HIATO",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Bulbo de vidro usado para medir a densidade do ar atmosférico",
+      "answer": "DASIMETRO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Pequena quantidade",
+      "answer": "POUCO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Segue Dom",
+      "answer": "SEG",
+      "row": 6,
+      "col": 6
+    },
+    "25": {
+      "clue": "Um personagem como Dunga ou Atchim",
+      "answer": "ANÃO",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Bandido que rouba e pilha barcos e navios",
+      "answer": "PIRATA",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "Jorge Amado (1912-2001), escritor baiano",
+      "answer": "JA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "O cachorro de Mickey",
+      "answer": "PLUTO",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Obtém-se com dois meios",
+      "answer": "UM",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Grupo musical criado por Carlinhos Brown",
+      "answer": "TIMBALADA",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Grande time italiano de futebol",
+      "answer": "MILAN",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Devolver",
+      "answer": "REPOR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um sinal como OAB ou ONU",
+      "answer": "SIGLA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Sufixo diminutivo feminino",
+      "answer": "INHA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sigla do estado de Ponta Porã e Aquidauana",
+      "answer": "MS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Exploração da bexiga urinária pelo endoscópio",
+      "answer": "CISTOSCOPIA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Período de um ano",
+      "answer": "ANUENIO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Abreviatura de senador",
+      "answer": "SEN",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Culin.) Massa semelhante à das bombas",
+      "answer": "PROFITEROLE",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O cantor Borges, de \"O Trem Azul\"",
+      "answer": "LO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "No jogo do bicho, o grupo ou bicho 21",
+      "answer": "TOURO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Abreviatura de companhia",
+      "answer": "CIA",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "(Fam.) Cachorrinho",
+      "answer": "TOTO",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Papagaio das florestas do Brasil, endêmico, ameaçado de extinção",
+      "answer": "CHAUÃ",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "(Fig.) Planície, campo sem cercas divisórias",
+      "answer": "LARGA",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Vacilar",
+      "answer": "HESITAR",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Proprietária de alguma coisa",
+      "answer": "DONA",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Ama, babá",
+      "answer": "PAJEM",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Gír.) Vidrar",
+      "answer": "GAMAR",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "O bar tipicamente inglês",
+      "answer": "PUB",
+      "row": 7,
+      "col": 5
+    },
+    "27": {
+      "clue": "(Vale-) Modalidade de luta livre muito violenta",
+      "answer": "TUDO",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "As letras entre o K e o O",
+      "answer": "LMN",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Thiago Lacerda, ator",
+      "answer": "TL",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "A UF de Calçoene e Oiapoque",
+      "answer": "AP",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Lente para fotos",
+      "answer": "ZOOM",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Uma forma de apresentação de medicamentos",
+      "answer": "PILULA",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Objeto produzido industrialmente",
+      "answer": "ARTEFATO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "A abreviatura que precede o valor dos dólares americanos",
+      "answer": "US",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "G",
+      "answer": "GE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Um acessório do goleiro",
+      "answer": "LUVA",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Combustível para fogão",
+      "answer": "GAS",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Uma característica de Hermeto Pascoal",
+      "answer": "ALBINO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "O Dumont ator paraibano",
+      "answer": "JOSE",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "As mulheres de Budapeste e Debrecen",
+      "answer": "HUNGARAS",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Uniforme militar",
+      "answer": "FARDA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Conseguir o que se deseja",
+      "answer": "OBTER",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Propagar",
+      "answer": "IRRADIAR",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "O A do MASP",
+      "answer": "ARTE",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "A cor característica da casca da castanha",
+      "answer": "MARROM",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "Interjeição típica dos mineiros",
+      "answer": "UAI",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Rio navegável da França, banha Paris",
+      "answer": "SENA",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Mulher que goza de boa saúde",
+      "answer": "SÃ",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Demi Moore, atriz de \"A Substância\"",
+      "answer": "DM",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Pop.) Caipira",
+      "answer": "PENOCHÃO",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "Da ação do vento",
+      "answer": "EOLICO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Depois",
+      "answer": "APOS",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Os beques",
+      "answer": "ZAGA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A parte externa do ouvido",
+      "answer": "ORELHA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Rád.) Ondas Tropicais",
+      "answer": "OT",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Delicadeza no trato",
+      "answer": "MELINDRE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A fêmea de uma ave de linda plumagem",
+      "answer": "PAVOA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Pedra, rochedo, em tupi-guarani",
+      "answer": "ITA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Bolo de farinha e ovos, bem leve",
+      "answer": "LO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Astros como o nosso satélite natural",
+      "answer": "LUAS",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Tornar limpo",
+      "answer": "ASSEAR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Produzir som pelo nariz",
+      "answer": "FUNGAR",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Ter afeição ou amizade",
+      "answer": "GOSTAR",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "A palmeira mais alta do Brasil",
+      "answer": "BURITI",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "(Pop.) Megera",
+      "answer": "JABIRACA",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Um grande rio europeu que nasce nos Alpes",
+      "answer": "RODANO",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Falsificação",
+      "answer": "FRAUDE",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "O lento desgaste causado por agentes atmosféricos",
+      "answer": "EROSÃO",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Aprazível, agradável",
+      "answer": "AMENO",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Divisão",
+      "answer": "RAMO",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "(Pl.) Domínio, controle",
+      "answer": "MÃOS",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "(Matem.) Secante",
+      "answer": "SEC",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "O valor 3,1416, em matemática",
+      "answer": "PI",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Heloísa Perissé, atriz",
+      "answer": "HP",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "across": {
+    "2": {
+      "clue": "Combinar",
+      "answer": "APALAVRAR",
+      "row": 0,
+      "col": 2
+    },
+    "10": {
+      "clue": "Ligar um vagão a outro",
+      "answer": "ATRELAR",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "A árvore nacional brasileira",
+      "answer": "IPE",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "O símbolo químico do estrôncio",
+      "answer": "SR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Que tem dois ângulos",
+      "answer": "DIGONO",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Axila",
+      "answer": "SOVACO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Pronome demonstrativo masculino",
+      "answer": "ESTE",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Bem vestido",
+      "answer": "ALINHADO",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "As iniciais da atriz e apresentadora Casé",
+      "answer": "RC",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Grave epidemia",
+      "answer": "PESTE",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Que não tem fé",
+      "answer": "IMPIO",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "Instrumento de sopro, semelhante à clarineta",
+      "answer": "OBOE",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Voar vagarosamente",
+      "answer": "PAIRAR",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Contração de preposição e artigo indefinido",
+      "answer": "DUM",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Franca, verdadeira",
+      "answer": "SINCERA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Sigla do estado de Camaquã",
+      "answer": "RS",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Banquete",
+      "answer": "FESTIM",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Líquido oleoso incolor, produto de desidratação do mentol",
+      "answer": "MENTENIO",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Neblina",
+      "answer": "NEVOA",
+      "row": 10,
+      "col": 1
+    },
+    "35": {
+      "clue": "Preparar a terra para a semeadura",
+      "answer": "ARAR",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Uma base para tortas e empadinhas",
+      "answer": "MASSAPODRE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Substância que constitui a atmosfera da Terra",
+      "answer": "AR",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Que se expressa ostentando cultura e erudição",
+      "answer": "PEDANTE",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Enchova em conserva, muito usada em aperitivos e pizzas",
+      "answer": "ALICHE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "A Rodrigo de Freitas se localiza no Rio de Janeiro",
+      "answer": "LAGOA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Usa-se como reforço na extremidade de alguns utensílios",
+      "answer": "ARO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "A atriz e cantora Mariana",
+      "answer": "RIOS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Sigla do estado brasileiro que faz divisa com a Guiana Francesa",
+      "answer": "AP",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Enfeitar de novo",
+      "answer": "REDECORAR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Ônibus elétrico para transporte coletivo",
+      "answer": "TROLEBUS",
+      "row": 1,
+      "col": 1
+    },
+    "15": {
+      "clue": "Antibiótico usado como bactericidas de germes cutâneos e intestinais",
+      "answer": "NEOMICINA",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Pele de certo mamífero usada na fabricação de casacos, estolas",
+      "answer": "VISOM",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Fazer a escolha de",
+      "answer": "TRIAR",
+      "row": 3,
+      "col": 9
+    },
+    "21": {
+      "clue": "Em frente",
+      "answer": "DIANTE",
+      "row": 4,
+      "col": 6
+    },
+    "25": {
+      "clue": "Calcar",
+      "answer": "PREMIR",
+      "row": 5,
+      "col": 8
+    },
+    "27": {
+      "clue": "Parte do hipódromo onde os cavalos correm",
+      "answer": "PISTA",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "(Trig.) Num triângulo retângulo, razão entre o cateto oposto e a hipotenusa",
+      "answer": "SENO",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "(Red.) O mês 2",
+      "answer": "FEV",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Morte Encefálica",
+      "answer": "ME",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Osvaldo Aranha, político gaúcho",
+      "answer": "OA",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

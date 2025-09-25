@@ -1,0 +1,222 @@
+{
+  "across": {
+    "1": {
+      "clue": "A matéria-prima da cerâmica",
+      "answer": "ARGILA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Museu de Arte de São Paulo",
+      "answer": "MASP",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Nem fria nem quente",
+      "answer": "MORNA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Desordem",
+      "answer": "FUA",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "Inferioridade de posição",
+      "answer": "ABAIXO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "A fábrica do Ecosport",
+      "answer": "FORD",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Em pequena quantidade (fem. e pl.)",
+      "answer": "POUCAS",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Atar",
+      "answer": "UNIR",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Franco, pronto a dizer as coisas como são",
+      "answer": "SINCERO",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Condição dos militares não reformados",
+      "answer": "ATIVA",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "Enrolado",
+      "answer": "ANELADO",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "A unidade de medida da energia elétrica V",
+      "answer": "VOLT",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Correção",
+      "answer": "ACERTO",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "A forma de despedida dos caipiras",
+      "answer": "INTE",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Barulhos",
+      "answer": "RUIDOS",
+      "row": 8,
+      "col": 5
+    },
+    "30": {
+      "clue": "Dupla de cantores ou executantes",
+      "answer": "DUO",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Moderno estádio esportivo e praça de eventos",
+      "answer": "ARENA",
+      "row": 9,
+      "col": 6
+    },
+    "32": {
+      "clue": "Peça como o perônio",
+      "answer": "OSSO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Plantar certa erva rasteira em um terreno",
+      "answer": "GRAMAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "AP",
+      "answer": "AMAPA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Mecanismo que realiza trabalho automático e repetitivo",
+      "answer": "ROBO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O ângulo reto tem 90",
+      "answer": "GRAUS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Neófito, novato",
+      "answer": "INICIANTE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Purgante",
+      "answer": "LAXANTE",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Sem voz (ou quase)",
+      "answer": "AFONO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Ladrão que comete furtos em hotéis",
+      "answer": "SURI",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O religioso que dirige a missa",
+      "answer": "PADRE",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Mover-se alternadamente de um lado para o outro",
+      "answer": "OSCILAR",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Ferramenta com broca, usada para abrir pequenos buracos",
+      "answer": "FURADEIRA",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "Sair de uma praça de guerra",
+      "answer": "EVACUAR",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "Ansioso",
+      "answer": "AVIDO",
+      "row": 6,
+      "col": 0
+    },
+    "21": {
+      "clue": "Cidade do PI",
+      "answer": "ALTOS",
+      "row": 6,
+      "col": 2
+    },
+    "22": {
+      "clue": "Sequência determinada das coisas",
+      "answer": "ORDEM",
+      "row": 6,
+      "col": 8
+    },
+    "23": {
+      "clue": "Ficar numa determinada posição para ser fotografado",
+      "answer": "POSAR",
+      "row": 6,
+      "col": 10
+    },
+    "25": {
+      "clue": "Obrigação de difícil cumprimento",
+      "answer": "ONUS",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Superfície",
+      "answer": "TONA",
+      "row": 7,
+      "col": 9
+    }
+  }
+}

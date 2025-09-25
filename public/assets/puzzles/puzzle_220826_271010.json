@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Bíbl.) O irmão de Caim",
+      "answer": "ABEL",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Manter (opinião) com tenacidade e obstinação",
+      "answer": "TEIMAR",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Calçado que cobre o pé",
+      "answer": "SAPATO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "O pintor espanhol Salvador (1904-1989)",
+      "answer": "DALI",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "As letras separadas pelo T",
+      "answer": "SU",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Carrero World) Grande parque temático",
+      "answer": "BETO",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "A Nastácia de um famoso sítio",
+      "answer": "TIA",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Órgão responsável pelas políticas públicas de fomento a manifestações culturais",
+      "answer": "FUNARTE",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Bater com força e insistência",
+      "answer": "MARTELAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Um índice químico",
+      "answer": "PH",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Abonar",
+      "answer": "FIAR",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "O humorista Mauro Filho",
+      "answer": "LUCIO",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Transformar em pedra",
+      "answer": "PETRIFICAR",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Assembleia Geral Ordinária",
+      "answer": "AGO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Matar com tiro de arma de fogo",
+      "answer": "FUZILAR",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "(Quím.) O gálio",
+      "answer": "GA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Quitado",
+      "answer": "ZERADO",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "(Papo de) Doce feito com gemas de ovos",
+      "answer": "ANJO",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Veículo que puxa equipamentos agrícolas",
+      "answer": "TRATOR",
+      "row": 9,
+      "col": 5
+    },
+    "36": {
+      "clue": "Distante",
+      "answer": "REMOTO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "De pouca profundidade",
+      "answer": "RASO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Deste tamanho",
+      "answer": "ASSIM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Grande mala com tampa convexa",
+      "answer": "BAU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Edith Piaf (1915-1963), cantora francesa",
+      "answer": "EP",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Fig.) Fazer esforço",
+      "answer": "LABUTAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Inteiro",
+      "answer": "TOTAL",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Forma com o ego e o superego as divisão da personalidade humana",
+      "answer": "ID",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Um lance que finaliza um jogo de xadrez",
+      "answer": "MATE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Então",
+      "answer": "ALI",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Rio de leito estreito",
+      "answer": "RIACHO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Grande ilha das Canárias",
+      "answer": "TENERIFE",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Tornar pronunciado (por oposição a escrito)",
+      "answer": "ORALIZAR",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Cozido em óleo fervente",
+      "answer": "FRITO",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Matar com selvageria, com crueldade",
+      "answer": "TRUCIDAR",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "De República da Ásia ocidental, entre o Paquistão e o Irã",
+      "answer": "AFEGANE",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Vaso em que arde o fogo olímpico",
+      "answer": "PIRA",
+      "row": 4,
+      "col": 9
+    },
+    "24": {
+      "clue": "A polar é um dos extremos da Terra",
+      "answer": "CALOTA",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "Dar remuneração a",
+      "answer": "PAGAR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Roubo, ladroeira",
+      "answer": "FURTO",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "Único ou quase",
+      "answer": "RARO",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Elemento prefixal: animal",
+      "answer": "ZOO",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Jorge Mautner, músico",
+      "answer": "JM",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "(Quím.) Ósmio",
+      "answer": "OS",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

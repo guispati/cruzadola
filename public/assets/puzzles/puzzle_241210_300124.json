@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um que participa da abstenção em massa do trabalho",
+      "answer": "GREVISTA",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Thaís Fersoza, atriz",
+      "answer": "TF",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Substância usada para fabricar plásticos, colas etc.",
+      "answer": "RESINA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "(Inf.) Papai",
+      "answer": "PAIE",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Um dano cerebral",
+      "answer": "AVC",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Cidade gaúcha próxima a Novo Hamburgo",
+      "answer": "TUPANDI",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "A última e a penúltima vogais",
+      "answer": "UO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Substância que anula o efeito de outra substância",
+      "answer": "REVERSOR",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Diz-se da pessoa que recorre contra uma sentença ou um julgamento",
+      "answer": "APELANTE",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Um dos três sabores do sorvete napolitano",
+      "answer": "CREME",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Editado, publicado",
+      "answer": "SAIDO",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Máquina usada para fechar embalagens plásticas",
+      "answer": "LACRADOR",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Muito difícil",
+      "answer": "APERTADO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Sigla do estado de São Mateus",
+      "answer": "ES",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "O compositor Puccini (1858-1924), de \"Madame Butterfly\"",
+      "answer": "GIACOMO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Teste para reconhecimento de paternidade",
+      "answer": "DNA",
+      "row": 8,
+      "col": 8
+    },
+    "31": {
+      "clue": "(Amaz.) Sereia de rios e lagos",
+      "answer": "IARA",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Abaixar, descer",
+      "answer": "ARRIAR",
+      "row": 9,
+      "col": 5
+    },
+    "34": {
+      "clue": "Sigla de Roraima",
+      "answer": "RR",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Fragmentos da substância reduzida a migalhas pelo crivo",
+      "answer": "RALADURA",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Divisão da escala do termômetro",
+      "answer": "GRAU",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Esvoaçar",
+      "answer": "REVOAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Uma tecla do computador",
+      "answer": "ESC",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Metade de XII",
+      "answer": "VI",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Mente, inteligência",
+      "answer": "INTELECTO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Uma formiga devastadora",
+      "answer": "SAUVA",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Separado",
+      "answer": "APARTADO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Julgado",
+      "answer": "TIDO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Grande reunião de vendedores e compradores para comércio, animada ou rendosa",
+      "answer": "FEIRÃO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Ambição",
+      "answer": "ANSEIO",
+      "row": 1,
+      "col": 8
+    },
+    "15": {
+      "clue": "Filósofa",
+      "answer": "PENSADORA",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Fixar novo preço",
+      "answer": "REMARCAR",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Brigar, disputar",
+      "answer": "PELEAR",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Convencer à força",
+      "answer": "COAGIR",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Fazer escoar as águas em excesso num terreno",
+      "answer": "DRENAR",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Derivação de uma linha principal de telefone",
+      "answer": "RAMAL",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "(Gír.) Beber bebida alcoólica",
+      "answer": "PIAR",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Um nome de mulher, de origem bíbilica",
+      "answer": "SARA",
+      "row": 7,
+      "col": 10
+    },
+    "30": {
+      "clue": "Dispositivo usado como anticoncepcional",
+      "answer": "DIU",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Roberto Dinamite, ídolo do Vasco",
+      "answer": "RD",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

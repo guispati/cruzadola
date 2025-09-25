@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Pop.) Deixar de funcionar",
+      "answer": "PIFAR",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Agradar demais, satisfazendo todos os caprichos",
+      "answer": "MIMAR",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Abrev.: Etiópia",
+      "answer": "ETI",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Certo mineral usado como gema de pouco valor",
+      "answer": "EPIDOTO",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Remediar",
+      "answer": "SANEAR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Lugar desabitado, deserto",
+      "answer": "ERMO",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Pegar um resfriado",
+      "answer": "CONSTIPAR",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Sigla da era anterior ao cristianismo",
+      "answer": "AC",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Rodovia paulista, liga o vale do Paraíba ao litoral norte do estado",
+      "answer": "TAMOIOS",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Filme de Milos Forman, ganhador de vários Oscars (1984)",
+      "answer": "AMADEUS",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Procópio Ferreira (1898-1979), ator carioca",
+      "answer": "PF",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "O médico Alzheimer, decobridor da doença",
+      "answer": "ALOIS",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Sem coragem",
+      "answer": "VIL",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Andar de um edifício",
+      "answer": "PISO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Sacerdote do culto judaico",
+      "answer": "RABINO",
+      "row": 7,
+      "col": 5
+    },
+    "32": {
+      "clue": "Instituto Nacional do Câncer",
+      "answer": "INC",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Boas maneiras",
+      "answer": "MODOS",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "Ponto negro removível que se forma na pele",
+      "answer": "CRAVO",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Celebridade",
+      "answer": "ASTRO",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "Varanda",
+      "answer": "EIRADO",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Substâncias que reanimam",
+      "answer": "SAIS",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O ato de tirar um peixe da água, com vara e anzol",
+      "answer": "PESCA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Lapa",
+      "answer": "ITAOCA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Veleiro de regatas de classe internacional",
+      "answer": "FINN",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Restabelecido",
+      "answer": "REATADO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Mús.) O E dos músicos",
+      "answer": "MI",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Pontos de vista",
+      "answer": "IDEAIS",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O da Urca é um dos cartões postais do RJ e do Brasil",
+      "answer": "MORRO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Anat.) Articulação temporomandibular",
+      "answer": "ATM",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Ingl.) Quarto",
+      "answer": "ROOM",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Antes de mais nada",
+      "answer": "PRIMEIRO",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Som breve e seco produzido por uma coisa que se quebra",
+      "answer": "ESTALO",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "Hospedagem, pernoite",
+      "answer": "POUSADA",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "Carro da Chevrolet",
+      "answer": "SPIN",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Mastigar (chiclete)",
+      "answer": "MASCAR",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Um sabor de sorvete",
+      "answer": "FLOCOS",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Extremo superior",
+      "answer": "APICE",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Paisagem, panorama",
+      "answer": "VISTA",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "(Rel.) A inscrição da cruz de Jesus Cristo",
+      "answer": "INRI",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "(Hugo) Uma grife de moda",
+      "answer": "BOSS",
+      "row": 7,
+      "col": 7
+    },
+    "33": {
+      "clue": "Em música, abreviatura de moderato",
+      "answer": "MOD",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "Victoria Abril, atriz espanhola de \"Ata-me\"",
+      "answer": "VA",
+      "row": 9,
+      "col": 3
+    },
+    "37": {
+      "clue": "(Sigla) Regimento de Infantaria",
+      "answer": "RI",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

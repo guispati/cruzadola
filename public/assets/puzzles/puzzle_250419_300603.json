@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "A profissional que cuida de crianças",
+      "answer": "BABA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Condutor de automóvel",
+      "answer": "CHOFER",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "De forma franca, honesta",
+      "answer": "LEALMENTE",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Pátria, país de nascimento",
+      "answer": "ORIGEM",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Um pouquinho",
+      "answer": "TICO",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Pingos",
+      "answer": "GOTAS",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "(Lagoa dos) A maior laguna do Brasil, no RS",
+      "answer": "PATOS",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "Ainda bem!",
+      "answer": "UFA",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "O país de Taipé",
+      "answer": "TAIWAN",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "As vogais de melhor",
+      "answer": "EO",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Pop.) Aparência, fisionomia",
+      "answer": "PINTA",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "As consoantes de FIFA",
+      "answer": "FF",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Nossos membros superiores",
+      "answer": "BRAÇOS",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Transtorno do Espectro Autista",
+      "answer": "TEA",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Cor básica para impressão de cromias",
+      "answer": "CIANO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Ser infiel a",
+      "answer": "TRAIR",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "Divisão de piscina em competição",
+      "answer": "RAIA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Ocidente",
+      "answer": "POENTE",
+      "row": 8,
+      "col": 5
+    },
+    "32": {
+      "clue": "Da parte posterior do crânio",
+      "answer": "OCCIPITAL",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Nivelado",
+      "answer": "RASADO",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Parte líquida do leite",
+      "answer": "SORO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Página da internet, temática ou não, atualizada periodicamente",
+      "answer": "BLOGUE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Medo mórbido do ar",
+      "answer": "AEROFOBIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Pop.) Muito grande, imenso, enorme",
+      "answer": "BAITA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Planta usada como ingrediente em pratos orientais",
+      "answer": "ALGA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "100",
+      "answer": "CEM",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Hemisfério Norte",
+      "answer": "HN",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "A capital do Canadá, em Ontário",
+      "answer": "OTTAWA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Ocasião, vez",
+      "answer": "FEITA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O Níger e o Congo ficam na África",
+      "answer": "RIOS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Animal nascido do cruzamento de espécies diferentes",
+      "answer": "MESTIÇO",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Revestir de uma camada de açúcar",
+      "answer": "CONFEITAR",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "(Ingl.) Na F1, parada de um carro para abastecimento e acertos",
+      "answer": "PITSTOP",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Unidade usada para indicar a idade",
+      "answer": "ANO",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "(Pop.) Pessoa simplória, boba",
+      "answer": "PANACA",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "O resíduo da farinha de trigo peneirada",
+      "answer": "FARELO",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Relâmpagos",
+      "answer": "RAIOS",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Tão grande",
+      "answer": "TANTO",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Considerar verdadeira alguma coisa",
+      "answer": "CRER",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Os cás do baralho",
+      "answer": "REIS",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Som de ave",
+      "answer": "PIO",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Compact Disc",
+      "answer": "CD",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Matem.) Operação que confere a exatidão de um cálculo",
+      "answer": "PROVA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Arpão de pesca",
+      "answer": "FISGA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Um golpe de pernas",
+      "answer": "CAMBAPE",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "Um movimentado jogo de cartas",
+      "answer": "TRUCO",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "Uma divindade do candomblé",
+      "answer": "ZAMBI",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Vista de olhos",
+      "answer": "RELANCE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Propaga-se à velocidade de 340 metros por segundo",
+      "answer": "SOM",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Interiormente vazio",
+      "answer": "OCO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Ta, elemento químico",
+      "answer": "TANTALO",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Nome dado à segunda vértebra do pescoço",
+      "answer": "ESPONDILO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "As iniciais da atriz e cantora Streisand",
+      "answer": "BS",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Gastar com o uso",
+      "answer": "RAFAR",
+      "row": 6,
+      "col": 3
+    },
+    "24": {
+      "clue": "Nota Fiscal",
+      "answer": "NF",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Cuidado",
+      "answer": "ESMERO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Sufixo diminutivo",
+      "answer": "INHO",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "(Ingl.) Fase de grande expansão econômica",
+      "answer": "BOOM",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Falhar (motor de veículo)",
+      "answer": "RATEAR",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "(Eletr.) Pôr fora de fase",
+      "answer": "DEFASAR",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "O time de futebol recifense rubronegro",
+      "answer": "SPORT",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "No surfe, descida vertical numa onda",
+      "answer": "DROPE",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Cavalo novo",
+      "answer": "POTRO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Objeto usado para auxiliar, corrigir ou proteger a visão",
+      "answer": "OCULOS",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "(-preta) Refresco feito de sorvete batido com coca",
+      "answer": "VACA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Juntar em grande quantidade",
+      "answer": "AMONTOAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Pano, tecido",
+      "answer": "FAZENDA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Cerveja mais amarga e alcoólica; significa India Pale Ale",
+      "answer": "IPA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Falto de graça, de vivacidade, de espírito",
+      "answer": "SEMSAL",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Energia",
+      "answer": "ANIMO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Suspensão temporária das atividades do legislativo e do judiciário",
+      "answer": "RECESSO",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "Cidade italiana, capital da Emília",
+      "answer": "BOLONHA",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Substância usada em pomadas contra dores musculares",
+      "answer": "CANFORA",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Tremer de frio",
+      "answer": "TIRITAR",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Fazer pressão sobre",
+      "answer": "PREMER",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Líquidos ingeridos em reuniões festivas, almoços etc.",
+      "answer": "BEBES",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Diz-se de cor muito vívida",
+      "answer": "FORTE",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Jeito possível, usual ou preferido de fazer algo",
+      "answer": "MODO",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "O imperador romano que matou a própria mãe",
+      "answer": "NERO",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Três vizinhas à esquerda do teclado",
+      "answer": "ASD",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Fernanda Takai, cantora e compositora mineira do \"Pato Fu\"",
+      "answer": "FT",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Imposto de Renda de Pessoa Jurídica",
+      "answer": "IRPJ",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Interromper momentaneamente",
+      "answer": "SUSTAR",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Mulher que discursa",
+      "answer": "ORADORA",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Relações Públicas",
+      "answer": "RP",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Embarcação indígena feita em casca de árvore",
+      "answer": "UBA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Cidade goiana do sul do estado",
+      "answer": "INDIARA",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Diplomada",
+      "answer": "GRADUADA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Sopa pouco densa",
+      "answer": "AGUADA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Um grande cervo das regiões frias asiático-europeias",
+      "answer": "RENA",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Cidade da Bahia, na Chapada Diamantina",
+      "answer": "IRECE",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Esp.) Jogada",
+      "answer": "LANCE",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "O antônimo de limpo",
+      "answer": "SUJO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Roubar",
+      "answer": "FURTAR",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Caminhar bamboleando-se",
+      "answer": "DANDINAR",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Uma embalagem para comprimidos",
+      "answer": "CARTELA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Mau cheiro",
+      "answer": "ACA",
+      "row": 8,
+      "col": 8
+    },
+    "31": {
+      "clue": "Bete Davis (1908-1989), atriz de \"Morte Sobre o Nilo\"",
+      "answer": "BD",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Clamor",
+      "answer": "ALARIDO",
+      "row": 9,
+      "col": 3
+    },
+    "34": {
+      "clue": "Praticar o culto islâmico",
+      "answer": "MOURAR",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Pop.) Caçoar, gozar",
+      "answer": "ZOAR",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "O ator Schneider, de \"O Paizão\"",
+      "answer": "ROB",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Encher o terreno de ervas daninhas",
+      "answer": "PRAGUEJAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Agora",
+      "answer": "JA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Instrumento para explorações científicas",
+      "answer": "SONDA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "A língua oficial do Paquistão",
+      "answer": "URDU",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Outro nome da ave saíra-burtaqueira",
+      "answer": "SAIARARA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "A colheita da mandioca",
+      "answer": "ARRANCA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Recibo de Pagamento a Autônomo",
+      "answer": "RPA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Grupo de dois",
+      "answer": "DIADE",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Grande cadeia montanhosa euro-asiática",
+      "answer": "URAIS",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Empurrado para o interior",
+      "answer": "ADENTRADO",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Relatar, narrar",
+      "answer": "RACONTAR",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Colado",
+      "answer": "GRUDADO",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "A mais veloz linha de transporte",
+      "answer": "AEREA",
+      "row": 4,
+      "col": 10
+    },
+    "23": {
+      "clue": "Relativo à Lua",
+      "answer": "LUNAR",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "(Pop.) Pedir um cigarro",
+      "answer": "FILAR",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Daquela mulher",
+      "answer": "DELA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Confederação Brasileira de Motociclismo",
+      "answer": "CBM",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Nata que se condensa na superfície do leite quente",
+      "answer": "COA",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Sufixo feminino de nomes em or",
+      "answer": "IZ",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Região natural do sul da América do Sul",
+      "answer": "PAMPAS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Nove menos seis",
+      "answer": "TRES",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "O continente de Mianmar e de Mongólia",
+      "answer": "ASIA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Posição direita, vertical",
+      "answer": "APRUMO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Convenção entre duas ou mais pessoas",
+      "answer": "PACTO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Polir as rugosidades do ferro",
+      "answer": "LIMAR",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "(Ingl.) Pequeno hotel, simples e de diária barata",
+      "answer": "HOSTEL",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Serviço de Trânsito",
+      "answer": "ST",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "(Pop.) Humor instável, imprevisível",
+      "answer": "LUA",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Anat.) Conexão entre neurônios",
+      "answer": "SINAPSE",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "Uma indústria que produz gasolina ou açúcar",
+      "answer": "REFINARIA",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Suéter",
+      "answer": "PULOVER",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Não assado",
+      "answer": "CRU",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Ugo Giorgetti, cineasta paulistano",
+      "answer": "UG",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Esp.) Um antigo saco de pancadas",
+      "answer": "CORICO",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "Deslocar as articulações",
+      "answer": "LUXAR",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Pessoa que produz obra literária, artística ou científica",
+      "answer": "AUTOR",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Aquele que deixa um local",
+      "answer": "SAIDOR",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Uma guloseima como as antigas Juquinha ou Soft",
+      "answer": "BALA",
+      "row": 9,
+      "col": 7
+    },
+    "38": {
+      "clue": "(Fig.) Centro",
+      "answer": "EIXO",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "O antônimo de rir",
+      "answer": "CHORAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Material usado para imprimir, embrulhar etc.",
+      "answer": "PAPEL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Parte do lado da xícara que sobressai, que pode por aí ser pega",
+      "answer": "ASA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O Sullivan músico e compositor recifense",
+      "answer": "MICHAEL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Ave aquática de bico largo e chato",
+      "answer": "PATO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Sociedade Anônima",
+      "answer": "SA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Soar o apito",
+      "answer": "TRILAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Bebida proveniente do melaço da cana-de-açúcar",
+      "answer": "RUM",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Um serviço de vidraceiro",
+      "answer": "EMASSAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O oposto de azar",
+      "answer": "SORTE",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Sessão que reúne grande número de membros",
+      "answer": "PLENARIA",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Que se alimenta dos elementos básicos do esqueleto dos vertebrados",
+      "answer": "OSSIVORO",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "Solvente usado em pintura",
+      "answer": "TINER",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "O país de Punta del Leste",
+      "answer": "URUGUAI",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Inutilizar ingresso, perfurando-o",
+      "answer": "PICOTAR",
+      "row": 4,
+      "col": 8
+    },
+    "24": {
+      "clue": "Posto em evidência",
+      "answer": "FOCADO",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Semente seca de várias leguminosas, usada como alimento",
+      "answer": "PULSE",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Bramir, rugir",
+      "answer": "URRAR",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "A forma de um dado de seis lados",
+      "answer": "CUBO",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "O século ao qual pertence o ano de 1801",
+      "answer": "XIX",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "Movimento em onda, feito por torcidas",
+      "answer": "OLA",
+      "row": 8,
+      "col": 9
+    },
+    "36": {
+      "clue": "Registro Civil",
+      "answer": "RC",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

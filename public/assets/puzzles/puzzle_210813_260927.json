@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Pop.) Lugar onde se mora",
+      "answer": "CAFOFO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Víspora",
+      "answer": "LOTO",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Substância que, misturada com a terra, aumenta sua produtividade",
+      "answer": "ADUBO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Os fatores estudados do teste de DNA",
+      "answer": "GENES",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Colinas de areia características das praias nordestinas e de grandes desertos",
+      "answer": "DUNAS",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "A cordilheira que vai da Argentina à Venezuela",
+      "answer": "ANDES",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Educação a Distância",
+      "answer": "EAD",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Série de cem unidades",
+      "answer": "CENTENA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "O italiano Maquiavel (1469-1527), autor de \"O Príncipe\"",
+      "answer": "NICOLAU",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Planta comestível, também chamada inhame-da-china",
+      "answer": "CARA",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Linha que segue sempre a mesma direção",
+      "answer": "RETA",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "Marcado pela integridade e honestidade",
+      "answer": "ILIBADO",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Invasor",
+      "answer": "INTRUSO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Ministério Público Federal",
+      "answer": "MPF",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Uma característica do coador",
+      "answer": "FUROS",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "A cada 12 meses",
+      "answer": "ANUAL",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Elemento de equilíbrio lateral do avião",
+      "answer": "ALETA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Um apelido para Fernando",
+      "answer": "NANDO",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "O músico Samuel, do \"Skank\"",
+      "answer": "ROSA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Aclamar",
+      "answer": "SAUDAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Conselho Administrativo de Defesa Econômica",
+      "answer": "CADE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Alfândega",
+      "answer": "ADUANA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Liquefazer um metal",
+      "answer": "FUNDIR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Interjeição de admiração, alegria",
+      "answer": "OBA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Sem brilho",
+      "answer": "FOSCO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Demora",
+      "answer": "LENTURA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Em que lugar?",
+      "answer": "ONDE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Red., ingl.) Adolescente",
+      "answer": "TEEN",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Resto de cadáver",
+      "answer": "OSSADA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Ímpeto, impulso",
+      "answer": "GANA",
+      "row": 1,
+      "col": 6
+    },
+    "16": {
+      "clue": "O cantor Presley (1935-1977), um dos precursores do rock",
+      "answer": "ELVIS",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Da capital do Egito",
+      "answer": "CAIROTA",
+      "row": 4,
+      "col": 3
+    },
+    "19": {
+      "clue": "Cortar com a foice",
+      "answer": "CEIFAR",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "O astrônomo inglês Halley (1656-1742); batizou um conhecido cometa",
+      "answer": "EDMUND",
+      "row": 5,
+      "col": 8
+    },
+    "22": {
+      "clue": "Tropicão",
+      "answer": "TOPADA",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "O apelido do time da Portuguesa de Desportos, da capital paulista",
+      "answer": "LUSA",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "Cardume de peixes miúdos",
+      "answer": "BOANA",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Sem valor",
+      "answer": "NULO",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Onze menos oito",
+      "answer": "TRES",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Um cálice com a corola",
+      "answer": "FLOR",
+      "row": 7,
+      "col": 10
+    },
+    "33": {
+      "clue": "Barco antigo",
+      "answer": "NAU",
+      "row": 8,
+      "col": 7
+    }
+  }
+}

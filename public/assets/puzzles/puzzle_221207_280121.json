@@ -1,0 +1,252 @@
+{
+  "across": {
+    "2": {
+      "clue": "Ter ou apresentar dificuldade",
+      "answer": "CUSTAR",
+      "row": 0,
+      "col": 2
+    },
+    "7": {
+      "clue": "Caixa Postal",
+      "answer": "CP",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A região com a escápula e a clavícula",
+      "answer": "OMBRO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Porção de cabelos",
+      "answer": "MECHA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Diretório Acadêmico",
+      "answer": "DA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Espécie de chicória",
+      "answer": "ALMEIRÃO",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Nascido no país africano cuja capital é Kampala",
+      "answer": "UGANDENSE",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Postergado",
+      "answer": "ADIADO",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "De modo negativo",
+      "answer": "MAL",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "A substância gordurosa que elimina rangidos",
+      "answer": "OLEO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Órgão capaz de secretar leite",
+      "answer": "MAMA",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "X",
+      "answer": "XIS",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "A instalação que permite o uso de um aparelho elétrico",
+      "answer": "TOMADA",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "(Geom.) Polígono de vinte lados",
+      "answer": "ICOSAGONO",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Que se dedica",
+      "answer": "DEVOTADO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Herbert Vianna, músico",
+      "answer": "HV",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Macapá é a sua capital",
+      "answer": "AMAPA",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Peixe dos mares, de focinho que lembra certo roedor",
+      "answer": "RATÃO",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "O que fica atrás ou para trás",
+      "answer": "RE",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Produtor de cerâmica",
+      "answer": "OLEIRO",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Culto de origem africana, semelhante à macumba",
+      "answer": "VODU",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Corpo de Bombeiros",
+      "answer": "CB",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Um combustível para reatores nucleares",
+      "answer": "URANIO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Substância usada para unir peças de metal",
+      "answer": "SOLDA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Que se apresenta de modo suave, agradável",
+      "answer": "AMENO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Chefes de Estado como Felipe VI, da Espanha, e D. Manuel II, de Portugal",
+      "answer": "REIS",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Carne do boi, pode ser de dentro ou de fora",
+      "answer": "CHÃ",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "A Oliveira atriz",
+      "answer": "PAOLLA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Uma amiga da Mônica",
+      "answer": "MAGALI",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Reduzido (um cadáver) a cinzas",
+      "answer": "CREMADO",
+      "row": 1,
+      "col": 8
+    },
+    "15": {
+      "clue": "Temerosa, receosa",
+      "answer": "MEDROSA",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Uma fita colante",
+      "answer": "ADESIVA",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "Em época futura indeterminada",
+      "answer": "AMANHÃ",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "(Quím.) Combinar com o O",
+      "answer": "OXIDAR",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Ofender",
+      "answer": "MAGOAR",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "Inteiro",
+      "answer": "TOTAL",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "A capital com o museu do Prado",
+      "answer": "MADRI",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Recipiente para tomar suco",
+      "answer": "COPO",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Os presentes trocados no domingo de Páscoa",
+      "answer": "OVOS",
+      "row": 7,
+      "col": 10
+    },
+    "30": {
+      "clue": "A letra que separa o ele e o ene",
+      "answer": "EME",
+      "row": 8,
+      "col": 1
+    },
+    "34": {
+      "clue": "A UF de Araguaína e Palmas",
+      "answer": "TO",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

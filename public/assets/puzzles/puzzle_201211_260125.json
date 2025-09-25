@@ -1,0 +1,240 @@
+{
+  "across": {
+    "1": {
+      "clue": "O naipe do coração",
+      "answer": "COPAS",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Ave-símbolo dos Estados Unidos",
+      "answer": "AGUIA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Reservatório de água, de vidro, usado na criação de peixes",
+      "answer": "AQUARIO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Aquele que vagabundeia",
+      "answer": "ARRUADOR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Pron.) A segunda pessoa",
+      "answer": "TU",
+      "row": 2,
+      "col": 9
+    },
+    "14": {
+      "clue": "Impedido de sair",
+      "answer": "RETIDO",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Elemento químico de símbolo Au",
+      "answer": "OURO",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Espécie de candelabro, com vários braços",
+      "answer": "MENORA",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "(Angeles) Importante cidade americana",
+      "answer": "LOS",
+      "row": 4,
+      "col": 8
+    },
+    "19": {
+      "clue": "Vontade ou necessidade de dormir",
+      "answer": "SONO",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Região posterior mais baixa da cabeça",
+      "answer": "NUCA",
+      "row": 5,
+      "col": 7
+    },
+    "21": {
+      "clue": "Na Austrália é egg",
+      "answer": "OVO",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "Decepamento da cabeça",
+      "answer": "DEGOLA",
+      "row": 6,
+      "col": 4
+    },
+    "24": {
+      "clue": "Propriedades",
+      "answer": "BENS",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Um ingrediente da cerveja",
+      "answer": "CEVADA",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "A sigla da UF cuja capital é Boa Vista",
+      "answer": "RR",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Que faz, que executa",
+      "answer": "OPERADOR",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Preparativos solenes e grandiosos",
+      "answer": "APARATO",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "(Bíbl.) O monte no qual Moisés recebeu as Tábuas da Lei",
+      "answer": "SINAI",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Muito ingênuo, tolo",
+      "answer": "LORPA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Fazer passar o café através do filtro",
+      "answer": "COAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Uma atração turística de Atenas",
+      "answer": "PARTENON",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Cidade italiana, berço de são Tomás",
+      "answer": "AQUINO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "(Fig.) Comprado com muitos sacrifícios",
+      "answer": "SUADO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Orifício circular",
+      "answer": "ARO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "O d'Italia é uma importante prova de ciclismo",
+      "answer": "GIRO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O fim do... duo",
+      "answer": "UO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Que contém água (fem.)",
+      "answer": "AQUOSA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Começar a dormir",
+      "answer": "ADORMECER",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Transferir",
+      "answer": "REMOVER",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "Que foi mudado ou substituído",
+      "answer": "TROCADO",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Que uiva e geme",
+      "answer": "ULULADOR",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Restos",
+      "answer": "SOBRAS",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Calouro",
+      "answer": "NOVATO",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "Não limitado",
+      "answer": "GERAL",
+      "row": 6,
+      "col": 6
+    },
+    "25": {
+      "clue": "Um prato como a minestra",
+      "answer": "SOPA",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "Pode ser calculada em m², cm² etc.",
+      "answer": "AREA",
+      "row": 7,
+      "col": 10
+    },
+    "30": {
+      "clue": "Iniciador de escola artística, literária etc.",
+      "answer": "PAI",
+      "row": 8,
+      "col": 4
+    },
+    "31": {
+      "clue": "(Sigla) Arquivo Nacional",
+      "answer": "AN",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O ator carioca Carlos",
+      "answer": "VEREZA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Fragmento",
+      "answer": "CACO",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Alienígena",
+      "answer": "ET",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Que come ou bebe com avidez",
+      "answer": "SOFREGO",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Uma rocha de aspecto folheado",
+      "answer": "XISTO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Geom.) Sem ângulos",
+      "answer": "AGONO",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Sobressaltada, posta em apreensão",
+      "answer": "ALARMADA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Eliana Pittman, cantora carioca",
+      "answer": "EP",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "O oposto de máxi",
+      "answer": "MINI",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Entre os cantadores do nordeste, a viola",
+      "answer": "LIRA",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "(de Sá) Escola de samba do Rio de Janeiro",
+      "answer": "ESTACIO",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Abrev.: Tanzânia",
+      "answer": "TAN",
+      "row": 5,
+      "col": 8
+    },
+    "26": {
+      "clue": "Movimentações das águas oceânicas",
+      "answer": "MARES",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "(Pop.) Profissional famoso por sua competência",
+      "answer": "PAPA",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "(Psiq.) A sigla de Transtorno Obsessivo-Compulsivo",
+      "answer": "TOC",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Consolidar",
+      "answer": "RADICAR",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Arrolar para o serviço militar",
+      "answer": "RECRUTAR",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "A atriz Linzmeyer",
+      "answer": "BRUNA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Seios, peitos",
+      "answer": "MAMAS",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "Dezesseis menos cinco",
+      "answer": "ONZE",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "A capital do Zimbábue",
+      "answer": "HARARE",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Humilhação, vergonha",
+      "answer": "VEXAME",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Alcoolismo",
+      "answer": "ETILISMO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Abrir sulcos em",
+      "answer": "ESTRIAR",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "(Ingl.) Uma lente do fotógrafo",
+      "answer": "ZOOM",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Antônio Fagundes, ator carioca",
+      "answer": "AF",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Fazer perder a vista",
+      "answer": "CEGAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Uma forma de abreviar o nome do oitavo mês do ano",
+      "answer": "AGO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Qualquer coisa afunilada",
+      "answer": "CONE",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Aparelho para se ouvir música, noticiário etc.",
+      "answer": "RADIO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "(Fut.) Um dos times do Recife",
+      "answer": "SANTACRUZ",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Julgar",
+      "answer": "OPINAR",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Desenrugar",
+      "answer": "ALISAR",
+      "row": 3,
+      "col": 5
+    },
+    "21": {
+      "clue": "Região desértica do Chile, rica de cobre e nitratos",
+      "answer": "ATACAMA",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "(de) Aproximadamente, quase",
+      "answer": "CERCA",
+      "row": 5,
+      "col": 4
+    },
+    "25": {
+      "clue": "Segurar algo que cai ou que foi atirado",
+      "answer": "APARAR",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "(Pop.) Fumar",
+      "answer": "PITAR",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Vaso cilíndrico de vidro",
+      "answer": "TUBO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "De + uma",
+      "answer": "DUMA",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Uma consoante linguodental",
+      "answer": "ENE",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Radônio, em química",
+      "answer": "RN",
+      "row": 9,
+      "col": 1
+    },
+    "36": {
+      "clue": "Uma vez que",
+      "answer": "SE",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

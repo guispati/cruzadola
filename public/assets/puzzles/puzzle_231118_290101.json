@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Sinal sonoro, produzido por aparelho eletrônico",
+      "answer": "BIPE",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "A copa das árvores",
+      "answer": "FRONDE",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Interjeição de espanto",
+      "answer": "OPA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Emitir (o gato) a sua voz típica",
+      "answer": "MIAR",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Saxônia sem Sônia",
+      "answer": "AX",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Parte física de pessoa ou animal",
+      "answer": "CORPO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Costume esquisito, peculiar",
+      "answer": "MANIA",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Arnaldo Jabor (1940-2022), jornalista e cineasta",
+      "answer": "AJ",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Anel metálico",
+      "answer": "ARGOLA",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "(Econ.) Ganhar dinheiro numa aplicação",
+      "answer": "LUCRAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Fluido viscoso comum nos tecidos de revestimento de animais",
+      "answer": "MUCO",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Piãozinho que se faz girar com os dedos",
+      "answer": "CARRAPETA",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Uma forma da criança chamar seu genitor",
+      "answer": "PAIE",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "País da América Central, entre o Atlântico e o Pacífico",
+      "answer": "PANAMA",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "(Reader's) Revista de assuntos variados, criada em 1922",
+      "answer": "DIGEST",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Sufixo do Brasil na internet",
+      "answer": "BR",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "O animal retratado na cédula de R$ 10,00",
+      "answer": "ARARA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Red.) Quatro vezes campeão",
+      "answer": "TETRA",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "O símbolo químico do neodímio",
+      "answer": "ND",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Querubim",
+      "answer": "ANJO",
+      "row": 9,
+      "col": 3
+    },
+    "38": {
+      "clue": "Educação a Distância",
+      "answer": "EAD",
+      "row": 9,
+      "col": 8
+    },
+    "39": {
+      "clue": "Tirar a solidez",
+      "answer": "ABALAR",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "O contrário de quente (fem.)",
+      "answer": "FRIA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Abertura por onde se sopra para produzir o som do trombone",
+      "answer": "BOCAL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A cidade da praia de Porto de Galinhas (PE)",
+      "answer": "IPOJUCA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Duas pessoas",
+      "answer": "PAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Frequência Intermediária",
+      "answer": "FI",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "Atividade profissional",
+      "answer": "RAMO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "De forma a ser realizado com a voz",
+      "answer": "ORALMENTE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Desse lugar",
+      "answer": "DAI",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Correto, preciso",
+      "answer": "EXATO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Ter residência fixa",
+      "answer": "MORAR",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Plantação de videiras em latadas",
+      "answer": "PARREIRAL",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Navegante",
+      "answer": "NAUTA",
+      "row": 2,
+      "col": 8
+    },
+    "18": {
+      "clue": "Uva, em inglês",
+      "answer": "GRAPE",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Queda, declínio",
+      "answer": "CAIDA",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Cidade da França com importantes indústrias têxteis e mecânicas",
+      "answer": "CAMBRAI",
+      "row": 4,
+      "col": 9
+    },
+    "24": {
+      "clue": "Erva para gado",
+      "answer": "PASTO",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Não montanhosa",
+      "answer": "PLANA",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Preparação da terra para o plantio",
+      "answer": "ARADA",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "País com capital Acra",
+      "answer": "GANA",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Recibo de Depósito Bancário",
+      "answer": "RDB",
+      "row": 8,
+      "col": 1
+    },
+    "34": {
+      "clue": "Portar",
+      "answer": "TER",
+      "row": 8,
+      "col": 8
+    },
+    "37": {
+      "clue": "Abrev.: Júnior",
+      "answer": "JR",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

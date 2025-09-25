@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Lado oposto",
+      "answer": "INVES",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Esporte muito praticado por jovens",
+      "answer": "SKATE",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Uma síndrome que resulta da alteração de cromossomos",
+      "answer": "DOWN",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Administrador de propriedade agrícola",
+      "answer": "FEITOR",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Sigla do estado de Colatina e Marataízes",
+      "answer": "ES",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Todo e qualquer ato pessoalmente inaceitável",
+      "answer": "CRIME",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "As iniciais do músico pop Reis",
+      "answer": "NR",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Pântano, brejo",
+      "answer": "PAUL",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Recipiente para flores e ervas",
+      "answer": "VASO",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Ampliar",
+      "answer": "ALARGAR",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Despidos",
+      "answer": "NUS",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Período entre o entardecer e a fase que o segue",
+      "answer": "ANOITECER",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "300, em romanos",
+      "answer": "CCC",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Tornar menos rigoroso",
+      "answer": "RELAXAR",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "(do Sertão) Uma das mais famosas toadas brasileiras",
+      "answer": "LUAR",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Nó corrediço que o peão usa para colher bois",
+      "answer": "LAÇO",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "O índio, para os químicos",
+      "answer": "IN",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Aquilo que se acrescenta a alguma coisa",
+      "answer": "AFIXO",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "O estanho, para os químicos",
+      "answer": "SN",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "Sem o colorido natural da pele (fem.)",
+      "answer": "PALIDA",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "A primeira emissora brasileira de TV",
+      "answer": "TUPI",
+      "row": 9,
+      "col": 7
+    },
+    "39": {
+      "clue": "Plantas como o alecrim, o orégano e a sálvia",
+      "answer": "ERVAS",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "A atriz Deborah, de \"Caramuru - A Invenção do Brasil\"",
+      "answer": "SECCO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Pensamento, mente, imaginação",
+      "answer": "IDEIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Precede vós",
+      "answer": "NOS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Volkswagen",
+      "answer": "VW",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Enfrentamento",
+      "answer": "ENCARO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O oposto de com",
+      "answer": "SEM",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "A capital ucraniana",
+      "answer": "KIEV",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Anton Tchekhov (1867-1957), escritor russo",
+      "answer": "AT",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O rito que simboliza a renúncia ao mundo do novo clérigo",
+      "answer": "TONSURA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Enganos, equívocos",
+      "answer": "ERROS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Hábito e gosto de colecionar selos",
+      "answer": "FILATELIA",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Bramir, urrar",
+      "answer": "RUGIR",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Pau grosso que serve como alavanca",
+      "answer": "PANCA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Arquivo que vem com um e-mail",
+      "answer": "ANEXO",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Que tem falhas",
+      "answer": "LACUNAR",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Repouso",
+      "answer": "RELAX",
+      "row": 4,
+      "col": 6
+    },
+    "24": {
+      "clue": "Pequeno tubarão",
+      "answer": "CAÇOTE",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "Prendedor para folhas avulsas",
+      "answer": "CLIPE",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Substância usada em filamentos de lâmpadas flash",
+      "answer": "RENIO",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Peixe de corpo discoidal com nadadeiras peitorais muito desenvolvidas",
+      "answer": "RAIA",
+      "row": 7,
+      "col": 3
+    },
+    "33": {
+      "clue": "Fundo de Desenvolvimento Social",
+      "answer": "FDS",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "Serviço de Proteção ao Crédito",
+      "answer": "SPC",
+      "row": 8,
+      "col": 9
+    },
+    "36": {
+      "clue": "(Rom.) 55",
+      "answer": "LV",
+      "row": 9,
+      "col": 2
+    },
+    "38": {
+      "clue": "Universidade Católica",
+      "answer": "UC",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

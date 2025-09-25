@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "O apelido do ex-presidente João Goulart (1918-1976)",
+      "answer": "JANGO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Fino",
+      "answer": "TENUE",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "A parte superior da coxa, quadris",
+      "answer": "ANCA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Frutificar",
+      "answer": "FRUTAR",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Zona Tropical",
+      "answer": "ZT",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Surgir",
+      "answer": "RAIAR",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "As duas últimas vogais, ao contrário",
+      "answer": "UO",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "O Zr dos químicos",
+      "answer": "ZIRCONIO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Preparar com refogado",
+      "answer": "GUISAR",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Parte inferior do lombo do porco",
+      "answer": "SUÃ",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "É tocada com sopro",
+      "answer": "TUBA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Face superior interna de um ambiente",
+      "answer": "TETO",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "Interjeição típica dos mineiros",
+      "answer": "UAI",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Vingança de uma ofensa",
+      "answer": "REVIDE",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Medicamento que faz dormir",
+      "answer": "SONIFERO",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "A UF dentro de GO",
+      "answer": "DF",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Ator de muita fama",
+      "answer": "ASTRO",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Um quarto de XVI",
+      "answer": "IV",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "(Gír.) Droga usada para evitar o sono",
+      "answer": "REBITE",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Destino, geralmente cheio de amarguras",
+      "answer": "SINA",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "Notícia, comunicação",
+      "answer": "AVISO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Uma letra como o O",
+      "answer": "VOGAL",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um estilo musical",
+      "answer": "JAZZ",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ilha que forma um país do Caribe, com capital Saint John's",
+      "answer": "ANTIGUA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Nicolas Cage, ator de \"Despedida em Las Vegas\"",
+      "answer": "NC",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um sobrenome do escritor espanhol Lorca (1898-1936)",
+      "answer": "GARCIA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Enganar quem em nós confiou",
+      "answer": "TRAIR",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "A moeda da Alemanha e da França",
+      "answer": "EURO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Nota do Tradutor",
+      "answer": "NT",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Interjeição que indica admiração ou surpresa",
+      "answer": "UAU",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Desgaste causado por água, vento etc.",
+      "answer": "EROSÃO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Com delicadeza, elegância",
+      "answer": "FINAMENTE",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Àqueles",
+      "answer": "AOS",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "Pedra preciosa de cor vermelha",
+      "answer": "RUBI",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Pressa, ânsia",
+      "answer": "SEDE",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "De um órgão feminino (fem.)",
+      "answer": "UTERINA",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Terreno desértico, característico das zonas árticas",
+      "answer": "TUNDRA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Portador da doença causada pelo bacilo de Eberth",
+      "answer": "TIFOSO",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "Parte fronteira de algo em relação ao observador",
+      "answer": "ROSTO",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "Transportar-se para cá",
+      "answer": "VIR",
+      "row": 6,
+      "col": 6
+    },
+    "26": {
+      "clue": "(Minerais) Substâncias fundamentais no organismo humano",
+      "answer": "SAIS",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "De forma elíptica",
+      "answer": "OVAL",
+      "row": 7,
+      "col": 10
+    },
+    "29": {
+      "clue": "Uma abreviatura do mês 2",
+      "answer": "FEV",
+      "row": 8,
+      "col": 1
+    },
+    "33": {
+      "clue": "Campeonato vencido por duas vezes",
+      "answer": "BI",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Instituto de Geologia",
+      "answer": "IG",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

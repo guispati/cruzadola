@@ -1,0 +1,228 @@
+{
+  "across": {
+    "1": {
+      "clue": "Que pode ser divulgado",
+      "answer": "REVELAVEL",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Substância gordurosa, de origem mineral, animal ou vegetal",
+      "answer": "OLEO",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "Abonar",
+      "answer": "FIAR",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "(Fazer as) Reconciliar-se com alguém",
+      "answer": "PAZES",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Balaio",
+      "answer": "CESTA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "A Quinta, de Nova York, é muito famosa",
+      "answer": "AVENIDA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Pele do rosto",
+      "answer": "TEZ",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Possibilidade de perigo",
+      "answer": "RISCO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Um instrumento com teclas pretas e brancas",
+      "answer": "PIANO",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "Viajar",
+      "answer": "ANDAR",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "(da Tijuca) Um grande bairro do Rio de Janeiro",
+      "answer": "BARRA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Par de pessoas cuja relação é amorosa",
+      "answer": "CASAL",
+      "row": 6,
+      "col": 6
+    },
+    "26": {
+      "clue": "A 25 de Março é um centro de compras em SP",
+      "answer": "RUA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Que mata um deus",
+      "answer": "DEICIDA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "O antônimo de variado",
+      "answer": "UNICO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Um cantor como Luciano Pavarotti",
+      "answer": "TENOR",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Corpo da igreja",
+      "answer": "NAVE",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Leito",
+      "answer": "CAMA",
+      "row": 9,
+      "col": 5
+    },
+    "33": {
+      "clue": "O país de Canberra e Adelaide",
+      "answer": "AUSTRALIA",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Cortar os cabelos rente à pele",
+      "answer": "RAPAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "As várias partes de uma composição musical",
+      "answer": "VOZES",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Listar",
+      "answer": "ELENCAR",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Contundido",
+      "answer": "LESIONADO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Uma combinação de preposição com artigo",
+      "answer": "AO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "F",
+      "answer": "EFE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Risca em tecido, de cor diferente deste",
+      "answer": "LISTA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Limite de vencimento",
+      "answer": "PRAZO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Um ato como o de 11/9, nos EUA",
+      "answer": "ATENTADO",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "O conjunto dos pássaros de uma região",
+      "answer": "AVIFAUNA",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Inspirar confiança",
+      "answer": "CAPACITAR",
+      "row": 2,
+      "col": 6
+    },
+    "19": {
+      "clue": "Um romance de José de Alencar",
+      "answer": "IRACEMA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "A atriz Linzmeyer",
+      "answer": "BRUNA",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "Sentimento de irritação, agressividade, rancor",
+      "answer": "RAIVA",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Farol",
+      "answer": "SINAL",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "Forma primitiva de alguns insetos",
+      "answer": "LARVA",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Onde fica a Lua",
+      "answer": "CEU",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Comissão Técnica",
+      "answer": "CT",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "across": {
+    "2": {
+      "clue": "Filme de Stanley Kubrick (1960), vencedor de quatro Oscars",
+      "answer": "SPARTACUS",
+      "row": 0,
+      "col": 2
+    },
+    "9": {
+      "clue": "Bocó, tantã",
+      "answer": "IDIOTA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Não judeu, para os judeus",
+      "answer": "GOI",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Em + um (pl.)",
+      "answer": "NUNS",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "O Anka músico canadense",
+      "answer": "PAUL",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Abreviatura que precede o nome da advogada",
+      "answer": "DRA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Relevante",
+      "answer": "VALIOSO",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "A sigla da medida de distância Unidade Astronômica",
+      "answer": "UA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "País árabe cuja capital é Damasco",
+      "answer": "SIRIA",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "(Quím.) O índio",
+      "answer": "IN",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "As horas depois da uma",
+      "answer": "DUAS",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Ovo, na Austrália",
+      "answer": "EGG",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "As vogais de grego",
+      "answer": "EO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Abertura por onde se sopra para produzir o som do trombone",
+      "answer": "BOCAL",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "Lutécio, elemento químico",
+      "answer": "LU",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Pelados, despidos",
+      "answer": "NUS",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Cortar lenha no mato",
+      "answer": "MATEJAR",
+      "row": 7,
+      "col": 4
+    },
+    "33": {
+      "clue": "Um quase nada",
+      "answer": "TRIZ",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "Categoria de esportistas (lutadores, halterofilistas etc.)",
+      "answer": "PESO",
+      "row": 8,
+      "col": 5
+    },
+    "36": {
+      "clue": "Dirigir uma embarcação",
+      "answer": "ROTEAR",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Símbolo de megahertz",
+      "answer": "MHZ",
+      "row": 9,
+      "col": 7
+    },
+    "40": {
+      "clue": "Que não tem firmeza",
+      "answer": "OSCILANTE",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Natural da Índia",
+      "answer": "HINDU",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Destino, sorte",
+      "answer": "SINA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "(Red.) Formação acadêmica para quem já concluiu um curso de graduação",
+      "answer": "POS",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "(Abrev.) Antigo Testamento",
+      "answer": "AT",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Tosar",
+      "answer": "RAPAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "No jogo do bicho, o 2º grupo",
+      "answer": "AGUIA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Parte do corpo humano que liga a cabeça ao tronco",
+      "answer": "COLO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Uma interjeição de surpresa",
+      "answer": "UI",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Destinado a manter a própria validade no tempo",
+      "answer": "DURADOURO",
+      "row": 1,
+      "col": 1
+    },
+    "14": {
+      "clue": "A ferramenta usada para cortar fios de arame ou elétricos",
+      "answer": "ALICATE",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "A extensão de algo",
+      "answer": "LONGURA",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Mamífero semiaquático, de pele valorizada",
+      "answer": "VISOM",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Um sinal como OAB ou ONU",
+      "answer": "SIGLA",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "Sábado",
+      "answer": "SAB",
+      "row": 4,
+      "col": 3
+    },
+    "24": {
+      "clue": "Em posição intermediária",
+      "answer": "ENTRE",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Ilha da Itália, destino turístico",
+      "answer": "CAPRI",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Molusco encontrado em lugares úmidos",
+      "answer": "LESMA",
+      "row": 6,
+      "col": 7
+    },
+    "30": {
+      "clue": "Localizado",
+      "answer": "SITO",
+      "row": 7,
+      "col": 2
+    },
+    "32": {
+      "clue": "O músico inglês Lennon (1940-1980), dos Beatles",
+      "answer": "JOHN",
+      "row": 7,
+      "col": 8
+    },
+    "34": {
+      "clue": "São dois em Cazuza",
+      "answer": "ZES",
+      "row": 8,
+      "col": 3
+    },
+    "37": {
+      "clue": "A UF de Xapuri e Rio Branco",
+      "answer": "AC",
+      "row": 9,
+      "col": 4
+    },
+    "39": {
+      "clue": "Zona Tropical",
+      "answer": "ZT",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

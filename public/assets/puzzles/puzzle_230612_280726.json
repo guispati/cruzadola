@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cidade italiana famosa por seu queijo e presunto",
+      "answer": "PARMA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Peça do vestuário que cobre a cabeça",
+      "answer": "CAPUZ",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Detestável",
+      "answer": "ABOMINOSO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "A arte do vestuário",
+      "answer": "MODA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Àqueles",
+      "answer": "AOS",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Sigla de um estado brasileiro que faz fronteira com o Peru e a Bolívia",
+      "answer": "AC",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Em benefício de",
+      "answer": "PRO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Declive íngreme, abrupto",
+      "answer": "ESCARPA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "A substância que constitui a atmosfera da Terra",
+      "answer": "AR",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "A atriz Raia",
+      "answer": "CLAUDIA",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Substância escura que se extrai das sibas, muito aplicada em pintura",
+      "answer": "SEPIA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "(Pop.) Bebedeira",
+      "answer": "PORRE",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Estar em uma lista",
+      "answer": "CONSTAR",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Thiago Monteiro, tenista cearense",
+      "answer": "TM",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "O castigo para o aluno reprovado",
+      "answer": "REPETIR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Antecede Dom",
+      "answer": "SAB",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "A desinência verbal de correr",
+      "answer": "ER",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Forma oblíqua de eu",
+      "answer": "MIM",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Maneira de ser",
+      "answer": "MODO",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Que rasga em pedaços",
+      "answer": "LACERADOR",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Preso, unido",
+      "answer": "AFIXO",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "A albumina do ovo",
+      "answer": "CLARA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Uma das grandes regiões naturais da Argentina",
+      "answer": "PAMPAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Chatear",
+      "answer": "ABORRECER",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Equipamento que puxa água para o ralo",
+      "answer": "RODO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A sigla inglesa da modalidade de luta de Amanda Nunes",
+      "answer": "MMA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Interjeição de dor",
+      "answer": "AI",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Apoderar-se juntamente com outrem",
+      "answer": "COOCUPAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Aquele que submete à ação do fogo",
+      "answer": "ASSADOR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Gír.) Cocaína",
+      "answer": "PO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "(Pop.) Má sorte",
+      "answer": "ZICA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "O principal centro espacial norte-americano",
+      "answer": "NASA",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Aquele que separa, que afasta",
+      "answer": "APARTADOR",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Borracha usada para prender objetos",
+      "answer": "ELASTICO",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Oposto de chorar",
+      "answer": "RIR",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Canal de filmes da TV por assinatura",
+      "answer": "CINEMAX",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Um tipo de música moderna",
+      "answer": "POP",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Ainda que",
+      "answer": "EMBORA",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Grupo de atletas que participam de certos esportes de conjunto",
+      "answer": "TIME",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "A linha sem curvas",
+      "answer": "RETA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Bebida que pode ser limonada",
+      "answer": "SODA",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Pecado, concupiscência",
+      "answer": "MAL",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "A Negra cantora",
+      "answer": "LI",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "As iniciais do poeta Correia (1859-1911), de \"Primeiros Sonhos\"",
+      "answer": "RC",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

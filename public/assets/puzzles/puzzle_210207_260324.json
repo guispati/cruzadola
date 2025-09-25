@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "O goleiro baiano campeão mundial com a seleção brasileira de futebol",
+      "answer": "DIDA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Afecção que provoca dificuldade respiratória",
+      "answer": "ASMA",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "O cartão vermelho, no futebol",
+      "answer": "EXPULSÃO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Silício",
+      "answer": "SI",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "T",
+      "answer": "TE",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Símbolo",
+      "answer": "TIPO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "(Leppard) A banda de rock do sucesso \"Rock of Ages\"",
+      "answer": "DEF",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "(Med.) Um estado de inconsciência e imobilidade",
+      "answer": "COMA",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Apetrecho que puxa a água para o ralo",
+      "answer": "RODO",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Muito ligeiro, vivo",
+      "answer": "AGILISSIMO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Tradicional marca de produtos frigoríficos",
+      "answer": "SADIA",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Notícia, comunicação",
+      "answer": "AVISO",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Roubar violentamente",
+      "answer": "LATROCINAR",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Jeito possível, usual ou preferido de fazer algo",
+      "answer": "MODO",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "O Rabanne estilista",
+      "answer": "PACO",
+      "row": 7,
+      "col": 5
+    },
+    "27": {
+      "clue": "Apartamento",
+      "answer": "APE",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Canção e dança populares de Portugal",
+      "answer": "FADO",
+      "row": 8,
+      "col": 4
+    },
+    "29": {
+      "clue": "Quartel-general",
+      "answer": "QG",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Posição geográfica oposta ao SO",
+      "answer": "NE",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Complexo",
+      "answer": "RECALQUE",
+      "row": 9,
+      "col": 3
+    },
+    "33": {
+      "clue": "Conjunto de pessoas que vive num território",
+      "answer": "POVO",
+      "row": 10,
+      "col": 2
+    },
+    "34": {
+      "clue": "O mundo dos que se foram",
+      "answer": "ALEM",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Na parte posterior",
+      "answer": "DETRAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Exclamação irônica",
+      "answer": "IXE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Delegacia de Polícia",
+      "answer": "DP",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Geol.) Um fragmento de rocha cristalizada",
+      "answer": "AUTOLITO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Sinais que abrem e fecham citações",
+      "answer": "ASPAS",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Sadio",
+      "answer": "SÃO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Roda de pedra para afiar facas",
+      "answer": "MO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Doença infecciosa aguda",
+      "answer": "TIFO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Entrada",
+      "answer": "LIMIAR",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Fina e agradável ao tato",
+      "answer": "SEDOSA",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Um jogo com 28 pedras",
+      "answer": "DOMINO",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "A Santa é sede do culto de uma religião",
+      "answer": "CIDADE",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "(Bot.) Diz-se da planta que tem por hábitat a margem de um rio",
+      "answer": "RIVICOLA",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "A corrida do cavalo",
+      "answer": "GALOPE",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Varanda",
+      "answer": "SACADA",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Pátria, berço, país de nascimento",
+      "answer": "ORIGEM",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "Que não se deixa atravessar pela luz",
+      "answer": "OPACO",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Manoel, para os íntimos",
+      "answer": "MANE",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "O mês entre Jan e Mar",
+      "answer": "FEV",
+      "row": 8,
+      "col": 4
+    },
+    "29": {
+      "clue": "Q",
+      "answer": "QUE",
+      "row": 8,
+      "col": 9
+    },
+    "31": {
+      "clue": "A sigla dos rondonianos",
+      "answer": "RO",
+      "row": 9,
+      "col": 3
+    },
+    "32": {
+      "clue": "Os extremos do... quintal",
+      "answer": "QL",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

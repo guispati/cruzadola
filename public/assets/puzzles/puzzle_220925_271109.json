@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O talher que não se leva à boca",
+      "answer": "FACA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Mastigar sem engolir",
+      "answer": "MASCAR",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Afiado ou aborrecido",
+      "answer": "AMOLADO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Assembleia Geral Ordinária",
+      "answer": "AGO",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Tempo para atividades recreativas, fora do trabalho",
+      "answer": "LAZER",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Muito velho, decrépito",
+      "answer": "SENIL",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Juntar como apêndice",
+      "answer": "ANEXAR",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "A parte do calçado que se apoia no chão",
+      "answer": "SOLA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Aquele que trapaceia, que dá calotes",
+      "answer": "TRAMISTA",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "O hélio, para os químicos",
+      "answer": "HE",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Fechar",
+      "answer": "TAPAR",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Poeira",
+      "answer": "PO",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Dança popular pernambucana",
+      "answer": "MARACATU",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "A capital da Coreia do Sul",
+      "answer": "SEUL",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "O piloto Barrichello",
+      "answer": "RUBENS",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "Som para indicar o início e o término de aulas",
+      "answer": "SINAL",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Planta cultivada pelas fibras têxteis",
+      "answer": "LINHO",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Unidade de Terapia Intensiva",
+      "answer": "UTI",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Um imposto trabalhista",
+      "answer": "ESOCIAL",
+      "row": 9,
+      "col": 4
+    },
+    "36": {
+      "clue": "O ator Brando (1924-2004), de \"O Último Tango em Paris\"",
+      "answer": "MARLON",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Uma capital escandinava",
+      "answer": "OSLO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Aquilo que se exprime por palavras",
+      "answer": "FALA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Pessoa que tem muito gosto por alguma coisa",
+      "answer": "AMANTE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Preparar alimentos através da ação do fogo",
+      "answer": "COZER",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um famoso chef paulistano",
+      "answer": "ALEXATALA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O apelido da droga 3,4-metilenodioximetanfetamina, conhecida como \"a droga do amor\"",
+      "answer": "MD",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Àqueles",
+      "answer": "AOS",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Pequeno barco a remo",
+      "answer": "CANOA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Ligeiro",
+      "answer": "AGIL",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Encrespado (mar)",
+      "answer": "ROLADO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Cercar com fios de latão, ferro, alumínio ou cobre",
+      "answer": "ARAMAR",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Vesgo, caolho",
+      "answer": "ESTRABICO",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Pregar sarrafo",
+      "answer": "RIPAR",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Pequena depressão do labirinto membranoso da orelha",
+      "answer": "SACULO",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "O ator Leandro, de \"Os Caras de Pau\"",
+      "answer": "HASSUM",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Uma arma branca",
+      "answer": "PUNHAL",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Fornecer, prover",
+      "answer": "MUNIR",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "O esporte de Billie Jean King e Martina Navratilova",
+      "answer": "TENIS",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "(NE) Interjeição designativa de alegria e incitamento",
+      "answer": "EITA",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "(Mús.) Executado por uma pessoa apenas",
+      "answer": "SOLO",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "O jornalista esportivo Batista",
+      "answer": "LEO",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "O símbolo químico do estanho",
+      "answer": "SN",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

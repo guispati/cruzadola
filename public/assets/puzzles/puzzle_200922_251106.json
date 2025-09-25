@@ -1,0 +1,222 @@
+{
+  "across": {
+    "1": {
+      "clue": "Suspeitar",
+      "answer": "CISMAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Os dois beques do futebol",
+      "answer": "ZAGA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Plantação de alhos",
+      "answer": "ALHAL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Federação Internacional de Boxe",
+      "answer": "FIB",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "Característica atraente",
+      "answer": "CHARME",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Gír.) Agente de polícia",
+      "answer": "TIRA",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "O ídolo do basquete norte-americano James",
+      "answer": "HARDEN",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "O ex-piloto alemão de F1 Schumacher",
+      "answer": "RALF",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Ter fim, morrer",
+      "answer": "PERECER",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Município fluminense do Vale do Paraíba",
+      "answer": "PIRAI",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "Planta muito cultivada como ornamental",
+      "answer": "CRAVINA",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Sufixo diminutivo masculino",
+      "answer": "INHO",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Um clássico de Chico Buarque",
+      "answer": "ABANDA",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "Armação de fios produzidos pela aranha",
+      "answer": "TEIA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "O Nassar autor de \"Lavoura Arcaica\"",
+      "answer": "RADUAN",
+      "row": 8,
+      "col": 5
+    },
+    "30": {
+      "clue": "Meia... trança",
+      "answer": "TRA",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Qualquer cantiga de melodia simples e monótona e com letra curta",
+      "answer": "TOADA",
+      "row": 9,
+      "col": 6
+    },
+    "32": {
+      "clue": "(Nova) A \"big apple\" dos EUA",
+      "answer": "YORK",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Ingl.) O killer é o indivíduo que comete vários crimes similares",
+      "answer": "SERIAL",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Pode ser de uvas",
+      "answer": "CACHO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Uma porção de terra como Itaparica, na Bahia",
+      "answer": "ILHA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Multinacional de eletroeletrônicos",
+      "answer": "SHARP",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Náut.) Águas do oceano que correm em direção oposta ao rumo da embarcação",
+      "answer": "MARDEPROA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Cidade espanhola da Andaluzia, no litoral do Mediterrâneo",
+      "answer": "ALMERIA",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Amolar uma faca",
+      "answer": "AFIAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Ingl.) Menina",
+      "answer": "GIRL",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Ato de cobrir para manter o calor",
+      "answer": "ABAFO",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Fazer perder a paciência",
+      "answer": "ENERVAR",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Técnico que prepara atletas para competições",
+      "answer": "TREINADOR",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "Cidade gaúcha próxima a São Miguel das Missões",
+      "answer": "CAIBATE",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "(Hello) Famosa personagem infantil",
+      "answer": "KITTY",
+      "row": 6,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Gír.) Dar a bronca",
+      "answer": "CHIAR",
+      "row": 6,
+      "col": 2
+    },
+    "22": {
+      "clue": "Ave de cor preta e dorso com brilho violáceo",
+      "answer": "ANUAI",
+      "row": 6,
+      "col": 8
+    },
+    "23": {
+      "clue": "Um curso d'água como o do Panamá",
+      "answer": "CANAL",
+      "row": 6,
+      "col": 10
+    },
+    "25": {
+      "clue": "Imperador romano que teria incendiado Roma",
+      "answer": "NERO",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "(Maravilha) Um dos grandes nomes do futebol brasileiro",
+      "answer": "DADA",
+      "row": 7,
+      "col": 9
+    }
+  }
+}

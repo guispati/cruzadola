@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "3",
+      "answer": "TRES",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Pequena obra defensiva",
+      "answer": "FORTIM",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Posição de quem está deitado apoiado no cotovelo",
+      "answer": "RECUBITO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "O músico Borges, de \"Feira Moderna\"",
+      "answer": "LO",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Observatório Nacional",
+      "answer": "ON",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O Sul é a região austral da América do Sul",
+      "answer": "CONE",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Som de tambor",
+      "answer": "BUM",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Marca de sujeira, de impureza",
+      "answer": "MACULA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Unidade monetária e moeda do Uruguai",
+      "answer": "PESO",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Um trabalhador braçal",
+      "answer": "OPERARIO",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Tirar aquilo que fecha",
+      "answer": "ABRIR",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Pop.) Vingança",
+      "answer": "FORRA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Ginástica rítmica feita em movimentos rápidos",
+      "answer": "AEROBICA",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "O maior dos continentes",
+      "answer": "ASIA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Invalidar",
+      "answer": "ANULAR",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "Estrada, caminho",
+      "answer": "VIA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Emitir som (gato)",
+      "answer": "MIAR",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "1.001, em algarismos romanos",
+      "answer": "MI",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "(Sigla) Ondas Curtas",
+      "answer": "OC",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Capacidade de uma vasilha em unidade de volume de líquidos",
+      "answer": "LITRAGEM",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "O período mais quente do verão",
+      "answer": "SOLAMA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Proveniência de um ancestral",
+      "answer": "RAMO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(-d'água) Toró",
+      "answer": "TROMBA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Cervo domesticado pelos povos das regiões polares",
+      "answer": "RENA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Eric Clapton, músico de \"Tears in Heaven\"",
+      "answer": "EC",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Árvore de grande porte, fornece boa madeira",
+      "answer": "SUCUPIRA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Dar cabo de",
+      "answer": "FINAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O centro do... hotel",
+      "answer": "OTE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Sigla do estado de Guajará-Mirim e Ji-Paraná",
+      "answer": "RO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Enganador",
+      "answer": "ILUSOR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Rei que só é lembrado no carnaval",
+      "answer": "MOMO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "O gênero musical de \"Besame Mucho\" e \"Perfume de Gardenias\"",
+      "answer": "BOLERO",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Aba do telhado",
+      "answer": "BEIRAL",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "A do Sul foi sede das Olimpíadas de 1988",
+      "answer": "COREIA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Fazer consulta a",
+      "answer": "PROCURAR",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "O oposto de engrossar",
+      "answer": "AFINAR",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Fundamental",
+      "answer": "BASICO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Peça em que alguma coisa se apoia",
+      "answer": "ARRIMO",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "(Pop.) Muito grande, imenso, enorme",
+      "answer": "BAITA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Pais de filhos pais",
+      "answer": "AVOS",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Fim da missa",
+      "answer": "AMEM",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "(De) Me",
+      "answer": "MIM",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "(Fontaine) Escritor francês de famosas fábulas",
+      "answer": "LA",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Gálio, elemento químico",
+      "answer": "GA",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

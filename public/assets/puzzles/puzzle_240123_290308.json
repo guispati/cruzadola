@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Dissonante, desarmônico",
+      "answer": "DESACORDE",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "O nitroso é outro nome do gás hilariante",
+      "answer": "OXIDO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Mais uma",
+      "answer": "OUTRA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "(Pop.) Bêbado, alcoolizado",
+      "answer": "XILADO",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "O único filho de meu pai",
+      "answer": "EU",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Elba Ramalho, cantora",
+      "answer": "ER",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Painel em que se projetam filmes",
+      "answer": "TELA",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Marca chinesa de automóveis",
+      "answer": "BYD",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Povo descendente do primeiro filho de Noé",
+      "answer": "SEMITA",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Ferramenta usada para polir material duro",
+      "answer": "LIMA",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Dirigido, administrado",
+      "answer": "GOVERNADO",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Farinha de milho",
+      "answer": "FUBA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Mulher de pele mais escura que a branca",
+      "answer": "MORENA",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "(Ban) Famosa marca de óculos",
+      "answer": "RAY",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "O Garrincha jogador de futebol",
+      "answer": "MANE",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "(Abrev.) Decilitro",
+      "answer": "DL",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Abreviatura de idem",
+      "answer": "ID",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "O escritor Fernando, de \"Olga\"",
+      "answer": "MORAIS",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "O jogador de futebol Luiz",
+      "answer": "DAVID",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Peixe saboroso, de águas claras e frias",
+      "answer": "TRUTA",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "Nascidos no estado AL",
+      "answer": "ALAGOANOS",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Pavê, olho de sogra e pirulito",
+      "answer": "DOCES",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Exemplo",
+      "answer": "EX",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Seis, em Nova Iorque",
+      "answer": "SIX",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Adicional (fem.)",
+      "answer": "ADITIVA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Pode ser à prova de balas e também salva-vidas",
+      "answer": "COLETE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "A gigante é uma atração do parque de diversões",
+      "answer": "RODA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Dupla de cantores",
+      "answer": "DUO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Emma Thompson, atriz inglesa de \"Nanny McPhee\"",
+      "answer": "ET",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Em astronomia, rasto ou apêndice luminoso dos cometas",
+      "answer": "CAUDA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "O ator carioca Cauã",
+      "answer": "REYMOND",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Sobressaltar",
+      "answer": "ALARMAR",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Uma antiga punição para o mau aluno",
+      "answer": "REGUADA",
+      "row": 3,
+      "col": 1
+    },
+    "19": {
+      "clue": "Bacia de banheiro",
+      "answer": "BIDE",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "(Dick) A grande baleia do livro de Herman Melville",
+      "answer": "MOBY",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Uma instalação onde se queima lenha",
+      "answer": "LAREIRA",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "Criança que nasceu pela operação cesariana",
+      "answer": "NONATO",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "A pintora mexicana Kahlo (1910-1954)",
+      "answer": "FRIDA",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Ou melhor",
+      "answer": "ALIAS",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "A arte das roupas e adereços",
+      "answer": "MODA",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "1.000",
+      "answer": "MIL",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Sol, em Londres",
+      "answer": "SUN",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "(Elet.) Símbolo do volt-ampère",
+      "answer": "VA",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "Terapia Ocupacional",
+      "answer": "TO",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

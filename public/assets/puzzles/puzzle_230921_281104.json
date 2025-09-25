@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Isca artificial para pesca, que imita um inseto",
+      "answer": "MOSCA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Famosa marca de calçados",
+      "answer": "CROCS",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Despenhadeiro, precipício",
+      "answer": "ITAIMBE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Divisão de Operações Oficiais",
+      "answer": "DOE",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "Num baralho, conjunto de cartas com o mesmo sinal gráfico",
+      "answer": "NAIPE",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Fibra têxtil artificial",
+      "answer": "RAIOM",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Importante cidade argelina, a segunda do país",
+      "answer": "ORÃ",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "O compositor tcheco Antonín (1841-1904)",
+      "answer": "DVORAK",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Narrar a vida de alguém",
+      "answer": "BIOGRAFAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Oceano Ártico",
+      "answer": "OA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Famosa marca de relógios",
+      "answer": "ROLEX",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Daquilo",
+      "answer": "DO",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Explorador de pedras preciosas",
+      "answer": "MINERADOR",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Mulher sem pudor",
+      "answer": "BILTRA",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Um sabão",
+      "answer": "OMO",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "(Terra da) Um apelido para a cidade de São Paulo",
+      "answer": "GAROA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Pop.) Ficar muito zangado",
+      "answer": "RETAR",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "1.051, em algarismos romanos",
+      "answer": "MLI",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Largado",
+      "answer": "DEIXADO",
+      "row": 9,
+      "col": 4
+    },
+    "33": {
+      "clue": "Oportunidade, ocasião",
+      "answer": "TEMPO",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Um naipe vermelho",
+      "answer": "OUROS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um tipo de voleibol adaptado à pessoas mais idosas",
+      "answer": "MINOBOL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Tola",
+      "answer": "OTARIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Bot.) Sempre-viva",
+      "answer": "SAIÃO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Conselho Interministerial de Preços",
+      "answer": "CIP",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Assustado",
+      "answer": "AMEDRONTADO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Rel.) Que carrega castiçal, círio ou tocheira",
+      "answer": "CEROFERARIO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Sentir forte repugnância, asco ou repulsa a",
+      "answer": "ODIAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Ilhas) Arquipélago da Oceania, no Pacífico, com capital Avarua",
+      "answer": "COOK",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O oposto de com",
+      "answer": "SEM",
+      "row": 0,
+      "col": 10
+    },
+    "14": {
+      "clue": "Terreno plano e elevado",
+      "answer": "ARAXA",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Ter um preço determinado, custar",
+      "answer": "VALER",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "O Falante, amigo do Pinóquio",
+      "answer": "GRILO",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Grande tribo indígena do MT",
+      "answer": "BOROROS",
+      "row": 4,
+      "col": 10
+    },
+    "23": {
+      "clue": "Amansado, domesticado",
+      "answer": "DOMADO",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Pequeno",
+      "answer": "MIRIM",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Prover do que é útil",
+      "answer": "DOTAR",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Dança coreográfica",
+      "answer": "BALE",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Greenwich mean time, horário padrão internacional",
+      "answer": "GMT",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Pop.) Diabo",
+      "answer": "EXU",
+      "row": 8,
+      "col": 7
+    }
+  }
+}

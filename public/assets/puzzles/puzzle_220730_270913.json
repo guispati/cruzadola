@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Convencer à força",
+      "answer": "COAGIR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Precipitação de cristais de gelo",
+      "answer": "NEVE",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Dó",
+      "answer": "COMPAIXÃO",
+      "row": 1,
+      "col": 2
+    },
+    "12": {
+      "clue": "Nascida em Berlim",
+      "answer": "ALEMÃ",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O ponto mais alto de uma elevação natural do solo",
+      "answer": "TOPO",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Destino, geralmente mau, funesto",
+      "answer": "SINA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Tecido adiposo",
+      "answer": "SEBO",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "(Abrev.) Santo",
+      "answer": "STO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "(Pop.) Diarreia",
+      "answer": "PIRIRI",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "O Dom Pedro sob cujo reinado foi sancionada a lei Áurea",
+      "answer": "II",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Outro nome da árvore canjerana",
+      "answer": "CEDRO",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Ronald Golias (1929-2005), humorista paulistano",
+      "answer": "RG",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Que trabalha em fábrica de tijolos",
+      "answer": "OLEIRO",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Um símbolo de doçura",
+      "answer": "MEL",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Pronome demonstrativo feminino",
+      "answer": "ESTA",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "Tubo para água, gás, esgoto etc.",
+      "answer": "CANO",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Diz-se de superfície sem dobras",
+      "answer": "LISA",
+      "row": 8,
+      "col": 1
+    },
+    "30": {
+      "clue": "Enfiar",
+      "answer": "METER",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Do sono patológico profundo",
+      "answer": "LETARGICO",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Cais acostável",
+      "answer": "PIER",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "A arte de escrever versos",
+      "answer": "POESIA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Base ou estrado em que se arma algo",
+      "answer": "CHASSI",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Gesto",
+      "answer": "ACENO",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Outro nome da jujuba",
+      "answer": "GOMA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Magneto",
+      "answer": "IMÃ",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Reverendo Padre",
+      "answer": "RP",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Quím.) O Nb",
+      "answer": "NIOBIO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Colocar à mostra",
+      "answer": "EXPOR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Abertura numa parede para a colocação de janela",
+      "answer": "VÃO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Europa Oriental",
+      "answer": "EO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Entulho com que se enche uma depressão de terreno para nivelá-lo",
+      "answer": "ATERRO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "(Quím.) O Li",
+      "answer": "LITIO",
+      "row": 2,
+      "col": 1
+    },
+    "16": {
+      "clue": "Espumante feito com maçãs",
+      "answer": "SIDRA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "(Fig.) Enfrentar corajosamente",
+      "answer": "PEITAR",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "O atriz carioca Ravache",
+      "answer": "IRENE",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Acabar, não continuar",
+      "answer": "CESSAR",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "A jornalista carioca Maria",
+      "answer": "GLORIA",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "A matéria-prima para o queijo",
+      "answer": "LEITE",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "(Gregório de) Poeta baiano (1623-1696)",
+      "answer": "MATOS",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "(Pop.) Fedor de suor",
+      "answer": "CECE",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "A norma que regulamenta direitos e deveres",
+      "answer": "LEI",
+      "row": 8,
+      "col": 1
+    },
+    "30": {
+      "clue": "Voz do gato",
+      "answer": "MIO",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "(Mús.) Long-play",
+      "answer": "LP",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Grande Prêmio",
+      "answer": "GP",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Porco castrado que se destina a engorda",
+      "answer": "CAPADO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Um dos elementos de um conjunto",
+      "answer": "CADA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "(Inform.) Imagem na tela, representa um programa",
+      "answer": "ICONE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Cobrem as aves",
+      "answer": "PENAS",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "A UF com Itabaiana e Estância",
+      "answer": "SERGIPE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Greenwich mean time, horário padrão internacional",
+      "answer": "GMT",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "O violeiro e cantor sertanejo Carreiro",
+      "answer": "TIÃO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Andar em volta de",
+      "answer": "RODEAR",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Olívia Torres, atriz paulista",
+      "answer": "OT",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "O craque argentino de futebol Messi",
+      "answer": "LIONEL",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Tornar independente",
+      "answer": "EMANCIPAR",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Empurrar com força, fincar",
+      "answer": "ENFIAR",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "As iniciais da cantora de jazz Fitzgerald (1917-1996)",
+      "answer": "EF",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Canto para adormecer crianças",
+      "answer": "ARROLO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Papa espessa de fubá cozido",
+      "answer": "ANGU",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "O dobro de DI, nos números romanos",
+      "answer": "MII",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Cobrir de nuvens",
+      "answer": "ANUVIAR",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "Dar preferência a",
+      "answer": "OPTAR",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Ato de não comparecer à aula",
+      "answer": "FALTA",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "Uma peça do vestuário feminino",
+      "answer": "SAIA",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Chuviscar",
+      "answer": "GAROAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Pequeno tumor benigno",
+      "answer": "CISTO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Uma promessa por escrito de pagar no vencimento",
+      "answer": "ACEITE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Ponta) Cidade do MS",
+      "answer": "PORÃ",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "De um dos países africanos com língua portuguesa",
+      "answer": "ANGOLANO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Agnus) Um cântico da missa",
+      "answer": "DEI",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "A terceira letra do nosso alfabeto",
+      "answer": "CE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "A atriz Vieira das novelas",
+      "answer": "ANGELA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A carta do baralho que possui uma imagem feminina",
+      "answer": "DAMA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Qualquer corpo celeste",
+      "answer": "ASTRO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Outro nome da erva-se-santa-rosa",
+      "answer": "PEONIA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Pequeno mamífero da América do Norte, de hábitos noturnos",
+      "answer": "PROCION",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Perverter, corromper",
+      "answer": "DEPRAVAR",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Inchar, estufar",
+      "answer": "INFLAR",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Um rio fluminense",
+      "answer": "MERITI",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Competição de barcos a vela",
+      "answer": "REGATA",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "O Nereu (1888-1956) ex-presidente da República",
+      "answer": "RAMOS",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Romper, vazar",
+      "answer": "FURAR",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Um elemento do madeirame",
+      "answer": "RIPA",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "O principal rio da África, um dos mais extensos da Terra",
+      "answer": "NILO",
+      "row": 7,
+      "col": 8
+    },
+    "34": {
+      "clue": "Até que enfim!",
+      "answer": "UFA",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "Aerolineas Argentinas",
+      "answer": "AA",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

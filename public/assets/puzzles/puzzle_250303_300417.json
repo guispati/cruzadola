@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Sobras",
+      "answer": "MIGALHAS",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Pago",
+      "answer": "PG",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "(Med.) Inflamação da última parte do intestino delgado",
+      "answer": "ILEITE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Outro nome da planta babosa",
+      "answer": "ALOE",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Em uns",
+      "answer": "NUNS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Atirado com força",
+      "answer": "TACADO",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "A direção oposta ao NNW",
+      "answer": "SSE",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Golpe dado com a ponta da perna",
+      "answer": "PEZADA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "(Abrev. ingl.) Uma derrota no ringue",
+      "answer": "KO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Varanda",
+      "answer": "EIRADO",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Que guarda sentimentos de ódio (fem.)",
+      "answer": "RANCOROSA",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Bradar",
+      "answer": "CLAMAR",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Pedro Cardoso, ator de \"O Homem que Copiava\"",
+      "answer": "PC",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Que sua",
+      "answer": "SUADOR",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Abreviatura do oficial que comanda um regimento",
+      "answer": "CEL",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Um tipo de motor propulsor",
+      "answer": "REATOR",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Pompa",
+      "answer": "GALA",
+      "row": 8,
+      "col": 7
+    },
+    "30": {
+      "clue": "Vaso em que se acende o fogo olímpico",
+      "answer": "PIRA",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Desinfetar com chamas rápidas",
+      "answer": "FLAMAR",
+      "row": 9,
+      "col": 5
+    },
+    "33": {
+      "clue": "Ministério da Saúde",
+      "answer": "MS",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Cidade paulista próxima a Campinas",
+      "answer": "RIOCLARO",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A capital da República européia de Belarus",
+      "answer": "MINSK",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Enganador",
+      "answer": "ILUSOR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Fator que transmite os caracteres hereditários",
+      "answer": "GENE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Gemidos",
+      "answer": "AIS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Luiza Trajano, empresária",
+      "answer": "LT",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Que apresenta diversidade ou descontinuidade de forma",
+      "answer": "HETEROMORFO",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Aquele que faz a primeira jogada no tênis de mesa",
+      "answer": "SACADOR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Corte de ramos",
+      "answer": "PODA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Elemento de composição: terra",
+      "answer": "GEO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Grupos opostos",
+      "answer": "LADOS",
+      "row": 1,
+      "col": 8
+    },
+    "15": {
+      "clue": "Levar má sorte a algo ou alguém",
+      "answer": "AZARAR",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Cortado em pedacinhos",
+      "answer": "PICADO",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Pôr em lata",
+      "answer": "ENLATAR",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Entocar",
+      "answer": "ACUAR",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Usar meios condenáveis para resolver um problema",
+      "answer": "APELAR",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "(Interj.) Óbvio!",
+      "answer": "CLARO",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "O triplo da metade de quatro",
+      "answer": "SEIS",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "A de gato é uma brincadeira com barbante nos dedos",
+      "answer": "CAMA",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Grupo de pop rock de muito sucesso nos anos 80",
+      "answer": "RPM",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "A cantora Costa, de \"Tigresa\"",
+      "answer": "GAL",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Letra de Câmbio",
+      "answer": "LC",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

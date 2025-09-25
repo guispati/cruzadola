@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Pop.) Bilhete ou lembrete curto, escrito à mão",
+      "answer": "PAPAGAIO",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "O símbolo químico do astatínio",
+      "answer": "AT",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Que não causa dano",
+      "answer": "INOCUO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Outro nome da suçuarana, carnívoro dos felídeos",
+      "answer": "PUMA",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "(-gordura) Gramínea de folhas alongadas, usada como forrageira",
+      "answer": "CAPIM",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Mitol.) Ave que durava muitos séculos e, queimada, renascia das cinzas",
+      "answer": "FENIX",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Abreviatura de centilitro, medida de 10 ml",
+      "answer": "CL",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Atendida",
+      "answer": "DEFERIDA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Elem. pref.: cavalo",
+      "answer": "HIPO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "O músico popular Batista, de \"Amor Perfeito\"",
+      "answer": "AMADO",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Sigla inglesa do país de Joe Biden",
+      "answer": "USA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Substância usada no tratamento de águas de piscinas",
+      "answer": "CLORO",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Fazer um líquido correr devagar",
+      "answer": "ESCOAR",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "O polo com os pinguins",
+      "answer": "SUL",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Diz-se de vento que sopra da terra para o mar",
+      "answer": "TERRAL",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "A cantora Ozzetti, de \"Meu Quintal\"",
+      "answer": "NA",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Um gesto de entendimento",
+      "answer": "ACENO",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "A língua dos antigos romanos",
+      "answer": "LATIM",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "Violento",
+      "answer": "BRUTAL",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "O político Goulart (1919-1976), ex-presidente da República",
+      "answer": "JOÃO",
+      "row": 9,
+      "col": 7
+    },
+    "39": {
+      "clue": "O Au dos químicos",
+      "answer": "OURO",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "O de terra é o mesmo que terremoto",
+      "answer": "TREMOR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Machu) A \"cidade perdida dos Incas\"",
+      "answer": "PICCHU",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Estudo pormenorizado",
+      "answer": "ANALISE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Red.) Popular",
+      "answer": "POP",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "De pH inferior a 7",
+      "answer": "ACIDO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Corte, fio",
+      "answer": "GUME",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Prazo sem consoantes",
+      "answer": "AO",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Dar expediente",
+      "answer": "OPERAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Substância vegetal nutritiva",
+      "answer": "AMIDO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Preço cobrado ao usuário pela prestação de algum serviço",
+      "answer": "TAXA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "A da Tijuca é uma grande escola de samba carioca",
+      "answer": "UNIDOS",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Que se refere ao osso da coxa",
+      "answer": "FEMORAL",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Dizer",
+      "answer": "FALAR",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "O cientista Louis (1822-1895), da vacina antirrábica",
+      "answer": "PASTEUR",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Na bicicleta, trabalha junto com a catraca",
+      "answer": "COROA",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Gritaria de quem suplica, protesta, reclama etc.",
+      "answer": "CLAMOR",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Grupo de cem objetos",
+      "answer": "CENTO",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Acasalamento de animais",
+      "answer": "UNIÃO",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Parte de um utensílio feito para ser pego com uma das mãos",
+      "answer": "CABO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Placa de concreto que separa pavimentos",
+      "answer": "LAJE",
+      "row": 7,
+      "col": 7
+    },
+    "33": {
+      "clue": "Diz-se do leite não fervido ou não pasteurizado",
+      "answer": "CRU",
+      "row": 8,
+      "col": 1
+    },
+    "35": {
+      "clue": "Nuança",
+      "answer": "TOM",
+      "row": 8,
+      "col": 8
+    },
+    "37": {
+      "clue": "Luiza Trajano, empresária",
+      "answer": "LT",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

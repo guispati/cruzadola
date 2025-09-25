@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "O Boesel ex-piloto de corridas",
+      "answer": "RAUL",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Máquina de terraplenagem niveladora",
+      "answer": "PATROL",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "A tendência da pele ao tomar uma pancada",
+      "answer": "ARROXEAR",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "O que tansforma Guapé em Guaxupé",
+      "answer": "XU",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Privar dos direitos civis",
+      "answer": "CASSAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Que tem grande facilidade de se mover",
+      "answer": "AGIL",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Famoso canal de filmes da TV paga",
+      "answer": "HBO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Diversificada",
+      "answer": "VARIADA",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Antecedem o i, o ó e o u",
+      "answer": "AE",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "A capital da ilha da Sicília, na Itália",
+      "answer": "PALERMO",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "(Abrev.) Senador",
+      "answer": "SEN",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Um animal como Pluto",
+      "answer": "CÃO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Unidade do órgão feminino das flores, o gineceu",
+      "answer": "PISTILO",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Outro nome do burro",
+      "answer": "MU",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Cada uma das partes em que se dividiu o pagamento de um produto",
+      "answer": "PARCELA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "De um",
+      "answer": "DUM",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "O continente onde se situam Laos e Filipinas",
+      "answer": "ASIA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Resultado sem vencedores nem vencidos",
+      "answer": "EMPATE",
+      "row": 8,
+      "col": 5
+    },
+    "32": {
+      "clue": "Traço que encanta, charme",
+      "answer": "IT",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Excluir do testamento",
+      "answer": "DESERDAR",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "O ator brasiliense Mateus",
+      "answer": "SOLANO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "O olfato dos animais",
+      "answer": "FARO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Abrir fendas ou gretas em",
+      "answer": "RACHAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Língua falada na Síria",
+      "answer": "ARABE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "No jogo do bicho, o 23º grupo",
+      "answer": "URSO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Angeles) Grande cidade americana da costa oeste",
+      "answer": "LOS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Plantação de certos frutos de forma cônica, comidos in natura ou usados em doces e compotas",
+      "answer": "PERAL",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Ataulfo Alves (1909-1969), músico",
+      "answer": "AA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Cidade paraense próxima a Itaituba",
+      "answer": "TRAIRÃO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O nitroso é o gás hilariante",
+      "answer": "OXIDO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Outro nome do animal calamar",
+      "answer": "LULA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Um indígena do Brasil central",
+      "answer": "XAVANTE",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Animal semelhante a um pequeno veado",
+      "answer": "GAMO",
+      "row": 2,
+      "col": 8
+    },
+    "18": {
+      "clue": "Propaganda",
+      "answer": "RECLAME",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "Um dos peixes mais consumidos",
+      "answer": "PESCADA",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Um crustáceo marinho",
+      "answer": "SIRI",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Bilhete de loteria ou de rifa",
+      "answer": "NUMERO",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "Qualquer erva que serve de alimento ao gado",
+      "answer": "PASTO",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Sem se machucar",
+      "answer": "ILESO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Sofrer alteração, transformação",
+      "answer": "MUTAR",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Marido e mulher em relação aos filhos",
+      "answer": "PAIS",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "O Maravilha, ex-artilheiro do futebol brasileiro",
+      "answer": "DADA",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Polícia Rodoviária Federal",
+      "answer": "PRF",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Ernesto Nazareth (1863-1934), compositor de \"Odeon\"",
+      "answer": "EN",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

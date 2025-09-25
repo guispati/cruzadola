@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "De + esse",
+      "answer": "DESSE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Pop.) Redução de prejuízo",
+      "answer": "PREJU",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Pão doce ou bolo de massa retorcida",
+      "answer": "ROSCA",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "(Lock) Tecla do PC",
+      "answer": "NUM",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "Flecha",
+      "answer": "SETA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Nem loira nem morena",
+      "answer": "RUIVA",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "O ator Anselmo (1920-2009), de \"O Pagador de Promessas\"",
+      "answer": "DUARTE",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Uma caravela de Colombo",
+      "answer": "NINA",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "As letras cercadas pelo D e pelo G",
+      "answer": "EF",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Não certa",
+      "answer": "ERRADA",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "(Código) Um sistema de comunicação",
+      "answer": "MORSE",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Girar",
+      "answer": "VIRAR",
+      "row": 5,
+      "col": 6
+    },
+    "27": {
+      "clue": "A nota musical entre dó e mi",
+      "answer": "RE",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Chiado",
+      "answer": "CHIO",
+      "row": 6,
+      "col": 4
+    },
+    "30": {
+      "clue": "(Mús.) A nota A",
+      "answer": "LA",
+      "row": 6,
+      "col": 9
+    },
+    "31": {
+      "clue": "Um português da capital",
+      "answer": "LISBOES",
+      "row": 7,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Rom.) 7",
+      "answer": "VII",
+      "row": 7,
+      "col": 8
+    },
+    "34": {
+      "clue": "Sentido pelo qual um objeto é percebido por contato físico",
+      "answer": "TATO",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Fut.) O animal-símbolo do Cruzeiro, de BH",
+      "answer": "RAPOSA",
+      "row": 8,
+      "col": 5
+    },
+    "37": {
+      "clue": "Ato de espiar ligeiramente",
+      "answer": "OLHADELA",
+      "row": 9,
+      "col": 2
+    },
+    "39": {
+      "clue": "Cozer no espeto ou no forno",
+      "answer": "ASSAR",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Dá pérola",
+      "answer": "OSTRA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Comportamento hostil de desprezo ou indiferença",
+      "answer": "DESDEM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Senhorita",
+      "answer": "SRTA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "O artista Jô e a cantora Elza",
+      "answer": "SOARES",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "A sigla do estado que separa a BA do RJ",
+      "answer": "ES",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Chuta o da barraca quem desiste de um plano",
+      "answer": "PAU",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Expedir",
+      "answer": "ENVIAR",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "O pentacampeão argentino de F1 Manuel Fangio (1911-1995)",
+      "answer": "JUAN",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Um artigo indefinido",
+      "answer": "UM",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Ter confiança",
+      "answer": "CRER",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Exaltação",
+      "answer": "EUFORIA",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "In, elemento químico",
+      "answer": "INDIO",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "(Pop.) Uma coisa qualquer",
+      "answer": "TRECO",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Peixe que parece voar e cuja cauda possui ferrão",
+      "answer": "ARRAIA",
+      "row": 3,
+      "col": 10
+    },
+    "22": {
+      "clue": "Prevenido",
+      "answer": "AVISADO",
+      "row": 4,
+      "col": 6
+    },
+    "24": {
+      "clue": "Despojos mortais",
+      "answer": "RESTOS",
+      "row": 5,
+      "col": 2
+    },
+    "26": {
+      "clue": "Passar suavemente algo com a mão",
+      "answer": "ALISAR",
+      "row": 5,
+      "col": 9
+    },
+    "29": {
+      "clue": "Uma planta trepadeira",
+      "answer": "HERA",
+      "row": 6,
+      "col": 5
+    },
+    "31": {
+      "clue": "Abreviatura de limitada",
+      "answer": "LTDA",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "É fundamental no tênis",
+      "answer": "BOLA",
+      "row": 7,
+      "col": 3
+    },
+    "33": {
+      "clue": "A unidade de medida da energia elétrica V",
+      "answer": "VOLT",
+      "row": 7,
+      "col": 8
+    },
+    "36": {
+      "clue": "São dois em papagaio",
+      "answer": "PES",
+      "row": 8,
+      "col": 7
+    },
+    "38": {
+      "clue": "Helena Rizzo, chef gaúcha",
+      "answer": "HR",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

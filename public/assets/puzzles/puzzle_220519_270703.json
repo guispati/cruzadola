@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma proteção para o piloto de F1",
+      "answer": "CAPACETE",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Dira Paes, atriz",
+      "answer": "DP",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Homem novo",
+      "answer": "RAPAZ",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "(Ademir da) Um ídolo do time de futebol do Palmeiras",
+      "answer": "GUIA",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Não criminal",
+      "answer": "CIVEL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O estado com o Parque Nacional de Sete Cidades",
+      "answer": "PIAUI",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Da cor do anil",
+      "answer": "AZUL",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "(Gír.) Chilique",
+      "answer": "PITI",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Casado com uma só pessoa",
+      "answer": "MONOGAMO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "A Marcela maratonista da natação, medalhista olímpica",
+      "answer": "ANA",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Uma entrada para conexão do PC",
+      "answer": "USB",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "(Red.) O mês 2",
+      "answer": "FEV",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Ausência de bom senso, de juízo",
+      "answer": "DESATINO",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Outro nome do golfinho",
+      "answer": "BOTO",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "Trajetória do avião",
+      "answer": "ROTA",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Com o de milho se faz mingau",
+      "answer": "AMIDO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Determinar a extensão",
+      "answer": "MEDIR",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "(Fig.) Prestígio, influência, importância",
+      "answer": "PESO",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Grande susto",
+      "answer": "PAVOR",
+      "row": 9,
+      "col": 5
+    },
+    "34": {
+      "clue": "As últimas vogais",
+      "answer": "OU",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Suplicar",
+      "answer": "IMPLORAR",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Phoenix é a capital desse estado dos EUA",
+      "answer": "ARIZONA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Pop.) Vale profundo e escarpado",
+      "answer": "PAVUNA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Chamamento, invocação",
+      "answer": "APELO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Pó branco usado na construção civil",
+      "answer": "CAL",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Sufixo que denota qualidade",
+      "answer": "EZ",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "O único país banhado tanto pelo mar Vermelho como pelo Mediterrâneo",
+      "answer": "EGITO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Um dispositivo anticoncepcional",
+      "answer": "DIU",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Um ingrediente da feijoada",
+      "answer": "PAIO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Interjeição muito usada em MG",
+      "answer": "UAI",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "(de gato) Um lance faltoso no futebol",
+      "answer": "CAMA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Interjeição que marca o desfecho de uma ação",
+      "answer": "PIMBA",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Modo de marchar",
+      "answer": "PASSO",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "O de Varsóvia foi estabelecido na Polônia, durante a Segunda Guerra Mundial",
+      "answer": "GUETO",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Afirmação não verdadeira",
+      "answer": "MENTIRA",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "O escritor russo Dostoievski (1821-1881)",
+      "answer": "FIODOR",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Mover-se como ave",
+      "answer": "VOAR",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "(Inf.) Feridinha, doença",
+      "answer": "DODOI",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Pode ter 4 folhas",
+      "answer": "TREVO",
+      "row": 6,
+      "col": 7
+    },
+    "26": {
+      "clue": "Anfíbio anuro de pele rugosa",
+      "answer": "SAPO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "O pedido do público para repetição de uma música",
+      "answer": "BIS",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Próprio da pessoa que fala",
+      "answer": "MEU",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "Diversamente do que convém ou do que se desejaria",
+      "answer": "MAL",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "(Mús.) Abreviatura de pianíssimo (muito suave)",
+      "answer": "PP",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

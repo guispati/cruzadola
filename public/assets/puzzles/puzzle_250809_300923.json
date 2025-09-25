@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Ingl.) Área em que os carros de F1 são preparados",
+      "answer": "PADDOCK",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Móvel para copos, uísques, taças, licores etc.",
+      "answer": "BAR",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Valente, audaz",
+      "answer": "INTERRITO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Anton Tchekhov (1867-1957), escritor russo",
+      "answer": "AT",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Resposta para um atchim",
+      "answer": "SAUDE",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Antoni Gaudí (1852-1926), arquiteto da igreja da Sagrada Família, na Espanha",
+      "answer": "AG",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Série de dez",
+      "answer": "DECADA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "O feio é uma palavra obscena, indecorosa",
+      "answer": "NOME",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Sem brilho",
+      "answer": "OPACO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Cortar completamente os cabelos",
+      "answer": "RAPAR",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Causar ou sofrer desgosto ou contrariedade",
+      "answer": "ABORRECER",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Cova para apanhar feras",
+      "answer": "TRAPA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Ficar louco",
+      "answer": "PIRAR",
+      "row": 6,
+      "col": 6
+    },
+    "25": {
+      "clue": "(Ingl.) Sala de entrada de um edifício",
+      "answer": "HALL",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "A peça que faz tocar o sino",
+      "answer": "BADALO",
+      "row": 7,
+      "col": 5
+    },
+    "27": {
+      "clue": "O símbolo químico do argônio",
+      "answer": "AR",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Já",
+      "answer": "AGORA",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Instituto de Geografia",
+      "answer": "IG",
+      "row": 8,
+      "col": 9
+    },
+    "31": {
+      "clue": "Tecido de algodão ou de seda crua",
+      "answer": "GRANADINA",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Sociedade Astronômica Brasileira",
+      "answer": "SAB",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Abrandar",
+      "answer": "SERENAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Voz do morcego",
+      "answer": "PIADO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Resguardar, defender",
+      "answer": "ANTEPARAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Departamento de Turismo",
+      "answer": "DT",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Separar o que estava conectado",
+      "answer": "DESACOPLAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Mulher que discursa em público",
+      "answer": "ORADORA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "A forma como se serve a carne no carpaccio",
+      "answer": "CRUA",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "(Abelha) Grupo musical da vocalista Paula Toller",
+      "answer": "KID",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "O que transforma linha em bolinha",
+      "answer": "BO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Dirigir uma orquestra",
+      "answer": "REGER",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "A firmeza de quem não desiste",
+      "answer": "TENACIDADE",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Famosa praia da capital baiana",
+      "answer": "AMARALINA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Absoluto",
+      "answer": "CABAL",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Um espetáculo como \"Madame Butterfly\"",
+      "answer": "OPERA",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Notar",
+      "answer": "REPARAR",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "A atriz Fersoza",
+      "answer": "THAIS",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Imprecar, suplicar",
+      "answer": "ROGAR",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Uma cobertura para a cabeça, muito usada por jovens",
+      "answer": "BONE",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "Xe ou Rn",
+      "answer": "GAS",
+      "row": 8,
+      "col": 4
+    },
+    "31": {
+      "clue": "Gustavo Borges, ex-nadador",
+      "answer": "GB",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "(Ingl.) Na moda",
+      "answer": "IN",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

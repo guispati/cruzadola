@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "O espaço da residencia onde se guardam automóveis",
+      "answer": "GARAGEM",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Gás de cozinha",
+      "answer": "GLP",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Um pronome pessoal de tratamento",
+      "answer": "VOCE",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Deslocar aquilo que fecha",
+      "answer": "ABRIR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "O barulho da buzina de um automóvel",
+      "answer": "BIBI",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Que foi fundado, estabelecido",
+      "answer": "CRIADO",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "A terceira é considerada velhice",
+      "answer": "IDADE",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Cruento",
+      "answer": "CRUEL",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Outro nome do nióbio, em química",
+      "answer": "COLOMBIO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Renato Aragão, dos \"Trapalhões\"",
+      "answer": "RA",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Oposto de má",
+      "answer": "BOA",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Abreviatura de cilindradas",
+      "answer": "CC",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Uma prece muito conhecida",
+      "answer": "PAINOSSO",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "Governar",
+      "answer": "REGER",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Produzir, derivando de outra substância",
+      "answer": "OBTER",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Importante cidade industrial paulista, próxima à capital",
+      "answer": "OSASCO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Interjeição que expressa aborrecimento, admiração, medo etc.",
+      "answer": "VIXE",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "País com capital Ápia",
+      "answer": "SAMOA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "A fábrica do Cronos e do Mobi",
+      "answer": "FIAT",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Abrev.: senhora",
+      "answer": "SRA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Consertar",
+      "answer": "REPARAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Que deseja com ardor",
+      "answer": "AVIDO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Peixe de corpo alongado e prateado, de ótima carne",
+      "answer": "ROBALO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O primeiro A do AAS",
+      "answer": "ACIDO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "G",
+      "answer": "GE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Do planeta entre Terra e Júpiter",
+      "answer": "MARCIANO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "A unidade de medida de temperatura",
+      "answer": "GRAU",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Pop.) Cabeça, mentor",
+      "answer": "LIDER",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O valor retirado por um sócio de uma empresa em pagamento pelos seus serviços",
+      "answer": "PROLABORE",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Repartição, agência",
+      "answer": "BIRO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "(Ingl.) Corrida de bicicletas em pista acidentada",
+      "answer": "BICICROSS",
+      "row": 2,
+      "col": 0
+    },
+    "16": {
+      "clue": "Subir a bordo",
+      "answer": "EMBARCAR",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Pessoa gorda, pesada, corpulenta",
+      "answer": "BOI",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Cessar a chuva ou o mau tempo",
+      "answer": "ESTIAR",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "O ex-nadador Cielo",
+      "answer": "CESAR",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Moeda chilena",
+      "answer": "PESO",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Evidente, lógico (fem.)",
+      "answer": "OBVIA",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "A Sex do calendário",
+      "answer": "SEXTA",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "A terceira letra do alfabeto grego",
+      "answer": "GAMA",
+      "row": 7,
+      "col": 2
+    },
+    "34": {
+      "clue": "Flora Purim, cantora carioca",
+      "answer": "FP",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Da manhã",
+      "answer": "MATINAL",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "O pintor holandês Vermeer (1632-1675)",
+      "answer": "JAN",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "O planeta entre Saturno e Netuno",
+      "answer": "URANO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Incólume",
+      "answer": "IMUNE",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Batida na porta",
+      "answer": "TOC",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Gír.) Pessoa que não tem ocupação",
+      "answer": "VAGAL",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Inflamação de um órgão da garganta",
+      "answer": "AMIDALITE",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Gesto de afeto",
+      "answer": "ABRAÇO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Nove menos sete",
+      "answer": "DOIS",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Voltado para baixo, devido ao próprio peso",
+      "answer": "CAIDO",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "(de Santo Agostinho) Cidade em Pernambuco",
+      "answer": "CABO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Desprezo orgulhoso",
+      "answer": "DESDEM",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "Coser a pontos largos, para preparar a costura final",
+      "answer": "ALINHAVAR",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Pranto, lágrimas",
+      "answer": "CHORO",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "Tempo entre Mar e Mai",
+      "answer": "ABR",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Supor, julgar",
+      "answer": "ACHAR",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "(Ingl.) Um marcador de tempo",
+      "answer": "TIMER",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "Abreviatura de senhora",
+      "answer": "SRA",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Planalto desértico do Chile",
+      "answer": "ATACAMA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Recíproca",
+      "answer": "MUTUA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Suporte de lente",
+      "answer": "ARO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Jogar para longe com força",
+      "answer": "TACAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O símbolo químico do índio",
+      "answer": "IN",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Religiosa que se prepara para professar num convento",
+      "answer": "NOVIÇA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(da Justiça) Famoso filme de super-heróis",
+      "answer": "LIGA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O Prestes (1882-1946) último presidente eleito na República Velha",
+      "answer": "JULIO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Prefixo de negação",
+      "answer": "AN",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Em + eles",
+      "answer": "NELES",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Cruel, desumana",
+      "answer": "MALDOSA",
+      "row": 1,
+      "col": 7
+    },
+    "15": {
+      "clue": "Enlouquecer",
+      "answer": "ADOIDAR",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Cânhamo",
+      "answer": "MACONHA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Equipe esportiva",
+      "answer": "TIME",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "O apresentador de TV Pedro",
+      "answer": "BIAL",
+      "row": 4,
+      "col": 1
+    },
+    "23": {
+      "clue": "Aquela que se dedica",
+      "answer": "DEVOTA",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "No xadrez são 64",
+      "answer": "CASAS",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Nome genérico dos vermes do corpo",
+      "answer": "BICHA",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Série de episódios complicados",
+      "answer": "DRAMA",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "(Na) Contra a vontade, à força",
+      "answer": "MARRA",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Momento combinado",
+      "answer": "HORA",
+      "row": 7,
+      "col": 4
+    },
+    "33": {
+      "clue": "Com comodidade",
+      "answer": "BEM",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "Cristiano Ronaldo, craque do futebol",
+      "answer": "CR",
+      "row": 9,
+      "col": 1
+    },
+    "37": {
+      "clue": "Instituto de Criminalística",
+      "answer": "IC",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

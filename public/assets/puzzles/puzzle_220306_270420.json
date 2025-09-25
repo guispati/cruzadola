@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Tentativa para encontrar",
+      "answer": "BUSCA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Primeira constelação zodiacal",
+      "answer": "ARIES",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Diz-se do triângulo de dois lados iguais",
+      "answer": "ISOSCELE",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "(Quím.) A sigla do elemento que, junto com o Cl, forma o sal de cozinha",
+      "answer": "NA",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Documento de Arrecadação do Simples",
+      "answer": "DAS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Falar com autoritarismo",
+      "answer": "INTIMAR",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "O ator Harris, de \"A Filha Perdida\"",
+      "answer": "ED",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Psiq.) A sigla de Transtorno Obsessivo-Compulsivo",
+      "answer": "TOC",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Fio muito fino, forte e macio",
+      "answer": "SEDA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Garantir como fiador",
+      "answer": "ABONAR",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Trazer consigo",
+      "answer": "TER",
+      "row": 4,
+      "col": 8
+    },
+    "24": {
+      "clue": "Praia carioca, entre o Leblon e o Arpoador",
+      "answer": "IPANEMA",
+      "row": 5,
+      "col": 2
+    },
+    "26": {
+      "clue": "Fica no extremo superior esquerdo do teclado",
+      "answer": "ESC",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Muco das pálpebras, quando está ressecado",
+      "answer": "REMELA",
+      "row": 6,
+      "col": 4
+    },
+    "30": {
+      "clue": "Satélites",
+      "answer": "LUAS",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "O espaço onde fica Plutão",
+      "answer": "CEU",
+      "row": 7,
+      "col": 5
+    },
+    "33": {
+      "clue": "Abreviatura de um tamanho de roupas",
+      "answer": "GG",
+      "row": 7,
+      "col": 9
+    },
+    "35": {
+      "clue": "Transversalmente",
+      "answer": "ATRAVES",
+      "row": 8,
+      "col": 0
+    },
+    "37": {
+      "clue": "Colocar, botar ovos",
+      "answer": "POR",
+      "row": 8,
+      "col": 8
+    },
+    "38": {
+      "clue": "A nota musical E",
+      "answer": "MI",
+      "row": 9,
+      "col": 0
+    },
+    "39": {
+      "clue": "Um tipo de cortina",
+      "answer": "PERSIANA",
+      "row": 9,
+      "col": 3
+    },
+    "41": {
+      "clue": "A Cássia (1962-2001) cantora de \"Veneno AntiMonotonia\"",
+      "answer": "ELLER",
+      "row": 10,
+      "col": 0
+    },
+    "42": {
+      "clue": "O abecedário sem consoantes",
+      "answer": "AEIOU",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Bacia de banheiro",
+      "answer": "BIDE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Gasta",
+      "answer": "USADA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sigla usada para pedir socorro; significa salvem nossas almas",
+      "answer": "SOS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Charlie Sheen, ator norte-americano de \"Platoon\"",
+      "answer": "CS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Mover ação judicial contra",
+      "answer": "ACIONAR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Tecla muito utilizada pelos usuários de computadores",
+      "answer": "ALT",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "São quatro em um maço de baralho",
+      "answer": "REIS",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Um exame nacional de desempenho de estudantes",
+      "answer": "ENADE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Mulato arruivado",
+      "answer": "SARARA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Embranquecer (os cabelos, a barba) gradativamente",
+      "answer": "ENCANECER",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Um material como o alumínio, o mercúrio ou o cobre",
+      "answer": "METAL",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Uma model como Gisele Bündchen ou Adriana Lima",
+      "answer": "TOP",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Comer ou beber (ave)",
+      "answer": "BICAR",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Envio de mercadorias",
+      "answer": "REMESSA",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Armação de seda do paraquedas",
+      "answer": "VELAME",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Pronome possessivo masculino",
+      "answer": "MEU",
+      "row": 5,
+      "col": 7
+    },
+    "27": {
+      "clue": "Que tem pouca espessura",
+      "answer": "SUTIL",
+      "row": 6,
+      "col": 1
+    },
+    "29": {
+      "clue": "(Geom.) Sem ângulos",
+      "answer": "AGONO",
+      "row": 6,
+      "col": 9
+    },
+    "31": {
+      "clue": "Planta usada na cobertura de cabanas",
+      "answer": "SAPE",
+      "row": 7,
+      "col": 3
+    },
+    "34": {
+      "clue": "Posição numa entidade organizada hierarquicamente",
+      "answer": "GRAU",
+      "row": 7,
+      "col": 10
+    },
+    "36": {
+      "clue": "Presenciar",
+      "answer": "VER",
+      "row": 8,
+      "col": 4
+    },
+    "37": {
+      "clue": "Um filho do vô",
+      "answer": "PAI",
+      "row": 8,
+      "col": 8
+    },
+    "40": {
+      "clue": "Instituto de Educação",
+      "answer": "IE",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

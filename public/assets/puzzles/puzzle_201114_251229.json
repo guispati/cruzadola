@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "De um estado da Região Norte do Brasil",
+      "answer": "AMAPAENSE",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Regresso",
+      "answer": "RETORNO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "61, em romanos",
+      "answer": "LXI",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Processar judicialmente",
+      "answer": "ACUSAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O ator Connery, de \"O Nome da Rosa\", recentemente falecido",
+      "answer": "SEAN",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Executar (um movimento corporal)",
+      "answer": "DAR",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Interiorana, caipira",
+      "answer": "ROCEIRA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Devido ao acaso",
+      "answer": "ACIDENTAL",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Pequeno pedaço de pano gasto, velho, usado",
+      "answer": "TRAPINHO",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "O símbolo químico do ouro",
+      "answer": "AU",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "Uma forma carinhosa de se referir ao pai",
+      "answer": "VELHO",
+      "row": 6,
+      "col": 3
+    },
+    "23": {
+      "clue": "Campeonato vencido por duas vezes",
+      "answer": "BI",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "Macia",
+      "answer": "LISA",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Sensação arrepiante de medo",
+      "answer": "HORROR",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "Ação de preservar valores intelectuais ou morais",
+      "answer": "GUARDA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "(NE) Interjeição de alegria e incitamento",
+      "answer": "EITA",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "A unidade hospitalar para doentes que precisam de tratamento intensivo",
+      "answer": "UTI",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Pop.) Coisa sensacional",
+      "answer": "ARRASO",
+      "row": 9,
+      "col": 4
+    },
+    "34": {
+      "clue": "Famosa cidade litorânea da Flórida, nos EUA",
+      "answer": "MIAMI",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Pincel grande e grosso para caiação ou pintura comum",
+      "answer": "BROXA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Instrumento para preparar a terra antes da semeadura",
+      "answer": "ARADO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Cidade santa da Arábia Saudita",
+      "answer": "MECA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Aguentar com paciência, resignação",
+      "answer": "ATURAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Red.) Pós-graduação",
+      "answer": "POS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Grande chapada nordestina",
+      "answer": "ARARIPE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Ludibriar, envolver em trapaças",
+      "answer": "ENRODILHAR",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Dentro de algo conhecido e definido",
+      "answer": "NO",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Um candidadto que conseguiu os votos necessários",
+      "answer": "ELEITO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Semáforo",
+      "answer": "SINALEIRA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Pessoa que tem o mesmo nome que outra",
+      "answer": "XARA",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Tomar posse de",
+      "answer": "SENHOREAR",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Carranca",
+      "answer": "CENHO",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Fazer um buraco na terra",
+      "answer": "CAVAR",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Periquito também chamado jandainha",
+      "answer": "TUIUTI",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Um tanto",
+      "answer": "ALGUM",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Medicamento usado no tratamento das rugas",
+      "answer": "BOTOX",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Dispositivo para diminuir a resistência do ar nos carros",
+      "answer": "SAIA",
+      "row": 7,
+      "col": 2
+    },
+    "27": {
+      "clue": "Uma consequência de uma boa piada",
+      "answer": "RISO",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Em consequência",
+      "answer": "DAI",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Raul Bopp (1898-1984), autor de \"Cobra Norato\"",
+      "answer": "RB",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

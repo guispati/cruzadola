@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Qualidade daquele que é muito feroz, capaz de agredir violentamente",
+      "answer": "BRAVEZA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Tensão Pré-Menstrual",
+      "answer": "TPM",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Um naipe vermelho do baralho",
+      "answer": "OUROS",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O estado brasileiro que tem como capital Fortaleza",
+      "answer": "CEARA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Pequena diferença",
+      "answer": "TRIZ",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Usar a cadeira",
+      "answer": "SENTAR",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Educação a Distância",
+      "answer": "EAD",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "(Pop.) Veículo velho, gasto, maltratado",
+      "answer": "CARROÇA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Pessoa que causa dano ou prejuízo",
+      "answer": "LESANTE",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Arnaldo Jabor (1940-2022), cineasta",
+      "answer": "AJ",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Nervoso, como um anão da Branca de Neve",
+      "answer": "ZANGADO",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Ordem de Pagamento",
+      "answer": "OP",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "A fêmea do pardal",
+      "answer": "PARDOCA",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "O país africano de Abuja e Lagos",
+      "answer": "NIGERIA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "O acento de gavião",
+      "answer": "TIL",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Pipa",
+      "answer": "ARRAIA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Linhagem ou tronco de família",
+      "answer": "CEPA",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "A cantora italiana Pausini",
+      "answer": "LAURA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Calçado de cano curto",
+      "answer": "BOTIM",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Abrev.: Doutora",
+      "answer": "DRA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Indício de doença",
+      "answer": "SINTOMA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Salto sobre a presa",
+      "answer": "BOTE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Carro off-road da Willys, dos anos 1970",
+      "answer": "RURAL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um antônimo de fertilidade",
+      "answer": "ARIDEZ",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O som produzido pelo aparelho fonador",
+      "answer": "VOZ",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A UF de Colatina e Vila Velha",
+      "answer": "ES",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Ato de igualar",
+      "answer": "ACERTADA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Fig.) Habilidade, jeito",
+      "answer": "TATO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Comunidade comercial e financeira de uma cidade",
+      "answer": "PRAÇA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Uma grande ilha do Pará",
+      "answer": "MARAJO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Trama",
+      "answer": "ENREDO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Vinho enfraquecido pela adição de água e açúcar",
+      "answer": "SANGRIA",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Arquipélago pertencente à Espanha",
+      "answer": "CANARIAS",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "(Pop.) Ficar olhando de fora",
+      "answer": "SAPEAR",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Um pato das histórias de Walt Disney",
+      "answer": "DONALD",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "(Mús.) Composição para oito instrumentos",
+      "answer": "OCTETO",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "(Pop.) Endoidar",
+      "answer": "PIRAR",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Macaxeira",
+      "answer": "AIPIM",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Guindaste",
+      "answer": "GRUA",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Barro",
+      "answer": "LAMA",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "(Trigon.) Símbolo da função cotangente",
+      "answer": "COT",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Biblioteca Nacional",
+      "answer": "BN",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

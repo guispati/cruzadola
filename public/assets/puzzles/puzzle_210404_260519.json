@@ -1,0 +1,294 @@
+{
+  "across": {
+    "1": {
+      "clue": "Sair da direção prevista",
+      "answer": "DESCAMBAR",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Modelo de perfeição",
+      "answer": "IDEAL",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Região industrial próxima a São Paulo",
+      "answer": "ABCD",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "1/5 de XXX",
+      "answer": "VI",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Determinar a altura de",
+      "answer": "MEDIR",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Abreviatura de isto é",
+      "answer": "IE",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Sufixo diminutivo masculino",
+      "answer": "ETO",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Não banha nem o MT nem o AC",
+      "answer": "MAR",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "O Peter da \"Terra do Nunca\"",
+      "answer": "PAN",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Homem eletrônico",
+      "answer": "ROBO",
+      "row": 4,
+      "col": 0
+    },
+    "23": {
+      "clue": "Abrev.: senhorita",
+      "answer": "SRTA",
+      "row": 4,
+      "col": 5
+    },
+    "25": {
+      "clue": "Poste do gol",
+      "answer": "TRAVE",
+      "row": 5,
+      "col": 0
+    },
+    "27": {
+      "clue": "Ponto cardeal à esquerda de quem olha para o norte",
+      "answer": "OESTE",
+      "row": 5,
+      "col": 6
+    },
+    "29": {
+      "clue": "(Lisa) A mais conhecida obra de Leonardo da Vinci",
+      "answer": "MONA",
+      "row": 6,
+      "col": 2
+    },
+    "31": {
+      "clue": "Vestir, trajar",
+      "answer": "USAR",
+      "row": 6,
+      "col": 7
+    },
+    "32": {
+      "clue": "Teste que examina genes, para reconhecimento de paternidade",
+      "answer": "DNA",
+      "row": 7,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Pop.) Interjeição usada como forma de saudação",
+      "answer": "OBA",
+      "row": 7,
+      "col": 4
+    },
+    "36": {
+      "clue": "A letra que separa o ele e o ene",
+      "answer": "EME",
+      "row": 7,
+      "col": 8
+    },
+    "37": {
+      "clue": "(Mús.) Abreviatura de opus (obra)",
+      "answer": "OP",
+      "row": 8,
+      "col": 0
+    },
+    "38": {
+      "clue": "Tempo em que algo deve ser feito",
+      "answer": "PRAZO",
+      "row": 8,
+      "col": 3
+    },
+    "40": {
+      "clue": "O que se acrescenta ao melado para ficar modelado",
+      "answer": "OD",
+      "row": 8,
+      "col": 9
+    },
+    "41": {
+      "clue": "(dera!) Tomara que sucedesse",
+      "answer": "QUEM",
+      "row": 9,
+      "col": 1
+    },
+    "43": {
+      "clue": "Cereal nutritivo, rico em fibras",
+      "answer": "AVEIA",
+      "row": 9,
+      "col": 6
+    },
+    "45": {
+      "clue": "Que incute grande pavor",
+      "answer": "ATERRADOR",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Alegre, engraçado",
+      "answer": "DIVERTIDO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Profissional que produz jornais e revistas",
+      "answer": "EDITOR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sigla de Sergipe",
+      "answer": "SE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Clube Atlético Mineiro",
+      "answer": "CAM",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O mundo dos que se foram",
+      "answer": "ALEM",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Uma área como a Tijuca para o Rio de Janeiro ou o Tatuapé para São Paulo",
+      "answer": "BAIRRO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Segue Mar",
+      "answer": "ABR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Registro Civil",
+      "answer": "RC",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "Tem 24 horas",
+      "answer": "DIA",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "De + as",
+      "answer": "DAS",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Tomar caminho",
+      "answer": "ENVEREDAR",
+      "row": 2,
+      "col": 10
+    },
+    "18": {
+      "clue": "O político norte-americano Barack",
+      "answer": "OBAMA",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "Permissão",
+      "answer": "PASSE",
+      "row": 3,
+      "col": 8
+    },
+    "22": {
+      "clue": "Na França é oeuf",
+      "answer": "OVO",
+      "row": 4,
+      "col": 3
+    },
+    "24": {
+      "clue": "Ave também chamada tovaca",
+      "answer": "TEU",
+      "row": 4,
+      "col": 7
+    },
+    "26": {
+      "clue": "Que sai da norma ou excede as medidas regulares",
+      "answer": "ENORME",
+      "row": 5,
+      "col": 4
+    },
+    "28": {
+      "clue": "Índio de tribo tupi que habitava terras junto à baia da Guanabara",
+      "answer": "TAMOIO",
+      "row": 5,
+      "col": 9
+    },
+    "30": {
+      "clue": "Extremidade",
+      "answer": "ABA",
+      "row": 6,
+      "col": 5
+    },
+    "33": {
+      "clue": "As consoantes entre o M e o R",
+      "answer": "NPQ",
+      "row": 7,
+      "col": 1
+    },
+    "35": {
+      "clue": "O oposto de sorte",
+      "answer": "AZAR",
+      "row": 7,
+      "col": 6
+    },
+    "38": {
+      "clue": "Polímero usado na produção de frascos",
+      "answer": "PET",
+      "row": 8,
+      "col": 3
+    },
+    "39": {
+      "clue": "Cada bolotinha do caviar",
+      "answer": "OVA",
+      "row": 8,
+      "col": 7
+    },
+    "42": {
+      "clue": "A sigla de Unidade Astronômica",
+      "answer": "UA",
+      "row": 9,
+      "col": 2
+    },
+    "44": {
+      "clue": "O músico Motta",
+      "answer": "ED",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Com mais de um elemento diferente (fem.)",
+      "answer": "MISTA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Ato de escapar de algum perigo",
+      "answer": "FUGA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Que se pode mostrar",
+      "answer": "OSTENSIVO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Anel metálico",
+      "answer": "ARGOLA",
+      "row": 2,
+      "col": 2
+    },
+    "13": {
+      "clue": "Parte de um remo que faz o impulso sob a água",
+      "answer": "PA",
+      "row": 2,
+      "col": 9
+    },
+    "14": {
+      "clue": "Cento e um, em algarismos romanos",
+      "answer": "CI",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Cobrir com uma camada de algo",
+      "answer": "REVESTIR",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Pequeno tubo de vidro, plástico ou metal",
+      "answer": "AMPOLA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Pronome pessoal feminino singular",
+      "answer": "ELA",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Pequena elevação em uma planície",
+      "answer": "MORRO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "(Lagoa dos) A maior laguna do Brasil",
+      "answer": "PATOS",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Ingrediente de omelete",
+      "answer": "OVO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Fruto de casca fina, marrom, polpa doce e sementes pretas",
+      "answer": "SAPOTI",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Pensa e age sem dúvidas ou incertezas",
+      "answer": "RESOLUTO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Ondas Tropicais",
+      "answer": "OT",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "(Quím.) Tálio",
+      "answer": "TL",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Amigo",
+      "answer": "COLEGA",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "A atriz mineira Letícia",
+      "answer": "SABATELLA",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "O último dos dentes molares",
+      "answer": "SISO",
+      "row": 10,
+      "col": 1
+    },
+    "36": {
+      "clue": "Pessoa que produz uma obra literária",
+      "answer": "AUTOR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Pop.) Pessoa sem ação",
+      "answer": "MOSCAMORTA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Põe os pingos neles quem quer ser claro",
+      "answer": "IS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Abrev.) Santa",
+      "answer": "STA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Sentimento de medo enorme e incontrolável",
+      "answer": "TERROR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O ator mineiro Antônio",
+      "answer": "ANGELO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Um corte de carne",
+      "answer": "FILE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Os frutos da videira",
+      "answer": "UVAS",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "A UF de Rio Verde e Anápolis",
+      "answer": "GO",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "(Fig.) Derrota expressiva e humilhante",
+      "answer": "SOVA",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Viver à custa de",
+      "answer": "PARASITEAR",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "Aquele que dirige carro de corrida",
+      "answer": "PILOTO",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Que não se mexe",
+      "answer": "IMOVEL",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "Face superior interna de um ambiente",
+      "answer": "TETO",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Vantagens",
+      "answer": "PROS",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Um amigo do Mickey, personagens da Disney",
+      "answer": "PATETA",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "(Fig.) O auge, a culminância de algo",
+      "answer": "APOGEU",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "A cantora sertaneja Miranda",
+      "answer": "SULA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Formam tabas",
+      "answer": "OCAS",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Mamífero típico das florestas e tundras do hemisfério norte",
+      "answer": "LOBO",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Uma tecla dos computadores",
+      "answer": "ALT",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Sistema Internacional",
+      "answer": "SI",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "O músico mineiro Borges",
+      "answer": "LO",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

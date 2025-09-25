@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Fuga precipitada e às ocultas",
+      "answer": "ESCAPADA",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Carla Camurati, cineasta e atriz",
+      "answer": "CC",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "(Diego) Importante cidade dos EUA",
+      "answer": "SAN",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Cidade goiana do sul do estado",
+      "answer": "INDIARA",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Mulher nobre",
+      "answer": "FIDALGA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Que não tem doença",
+      "answer": "BOM",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "A segunda desinência verbal",
+      "answer": "ER",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Parceiro",
+      "answer": "PAR",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Um ponto fixo no tempo",
+      "answer": "DATA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Grosso na região da panturrilha",
+      "answer": "BATATUDO",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Instrumento de percussão de escolas de samba",
+      "answer": "AGOGO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Pimenta-do-) Uma especiaria",
+      "answer": "REINO",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "(Bioquím.) Proteína dos ligamentos e das paredes arteriais",
+      "answer": "ELASTINA",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Ter fé religiosa",
+      "answer": "CRER",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Vermelho, em Los Angeles",
+      "answer": "RED",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "(Quím.) Cobre",
+      "answer": "CU",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Ué",
+      "answer": "UAI",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Dos astros",
+      "answer": "SIDERAL",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Introduzir um vegetal na terra para aí criar raízes",
+      "answer": "PLANTAR",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Abrev.: Doutora",
+      "answer": "DRA",
+      "row": 9,
+      "col": 8
+    },
+    "36": {
+      "clue": "Eletrodinâmico",
+      "answer": "ED",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "(Fig.) Vadiar no trabalho",
+      "answer": "MAROMBAR",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Fig.) Campo, setor",
+      "answer": "ESFERA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Proceder, provir",
+      "answer": "SAIR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Certidão Negativa de Débito",
+      "answer": "CND",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Procurador famoso por lavar suas mãos ao condenar Jesus Cristo",
+      "answer": "PILATOS",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Pequena enseada",
+      "answer": "ANGRA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Débito Direto Autorizado",
+      "answer": "DDA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Artificial Intelligence",
+      "answer": "AI",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Planta de folhas verdes e amarelas e estrias vermelhas",
+      "answer": "CROTON",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O móvel ideal para dormir",
+      "answer": "CAMA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Convento",
+      "answer": "ABADIA",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Deletar",
+      "answer": "APAGAR",
+      "row": 2,
+      "col": 3
+    },
+    "18": {
+      "clue": "(Folc.) Anão dotado de poderes mágicos",
+      "answer": "DUENDE",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "A cabina do caminhão",
+      "answer": "BOLEIA",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Ângulo sólido de três faces",
+      "answer": "TRIEDRO",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "O diretor teatral carioca Thomas",
+      "answer": "GERALD",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Diz-se da testemunha que viu",
+      "answer": "OCULAR",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Fazer a escolha de",
+      "answer": "TRIAR",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Um modelo de carro",
+      "answer": "CUPE",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Não barata",
+      "answer": "CARA",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Abreviatura de santa",
+      "answer": "STA",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Um investimento",
+      "answer": "RDB",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Nicolau Maquiavel (1469-1527), escritor e político italiano",
+      "answer": "NM",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

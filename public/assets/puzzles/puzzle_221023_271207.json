@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Árvore da Mata Atlântica, de frutos comestíveis",
+      "answer": "CAMBUCI",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Colocar, botar ovos",
+      "answer": "POR",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Eu, em latim",
+      "answer": "EGO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Uma das três armas da esgrima",
+      "answer": "FLORETE",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Ato de tornar seco demais",
+      "answer": "TORRA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "O mais alegre dos anões de Branca de Neve",
+      "answer": "FELIZ",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "O até logo dos caipiras",
+      "answer": "INTE",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Vasco da) Navegador português (1469-1524), realizou a primeira viagem marítima da Europa à Ásia",
+      "answer": "GAMA",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Estômago moedor das aves, que tritura os alimentos",
+      "answer": "MOELA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "(Pop.) Não aderir a",
+      "answer": "FURAR",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "O mês do descobrimento do Brasil",
+      "answer": "ABRIL",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Pura, imaculada",
+      "answer": "CASTA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Sugar (o bebê) o leite materno",
+      "answer": "MAMAR",
+      "row": 6,
+      "col": 6
+    },
+    "29": {
+      "clue": "Cá",
+      "answer": "AQUI",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Qualidade física, intelectual ou moral",
+      "answer": "DOTE",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Trecho sinuoso de uma estrada",
+      "answer": "CURVA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Bárbaros) Grupo musical dos anos 1970 e 1980",
+      "answer": "DOCES",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Microrganismo que tem necessidade de oxigênio para viver",
+      "answer": "AEROBIO",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Exclamação que expressa incerteza ou indiferença",
+      "answer": "HUM",
+      "row": 9,
+      "col": 8
+    },
+    "37": {
+      "clue": "Certa, determinada",
+      "answer": "UMA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Apreensiva, temerosa",
+      "answer": "RECEOSA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um tecido lustroso e macio",
+      "answer": "CETIM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Geom.) Sem ângulos",
+      "answer": "AGONO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Fig.) Destruição ou ruína de uma coisa que vinha durando muito tempo",
+      "answer": "MORTE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Ainda bem!",
+      "answer": "UFA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Clarice Lispector (1920-1977), romancista e novelista",
+      "answer": "CL",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Imposto sobre Operações Financeiras",
+      "answer": "IOF",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Estar muito quente",
+      "answer": "PELAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Muito boa",
+      "answer": "OTIMA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Dirigir preces e súplicas a Deus",
+      "answer": "REZAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Ajustado",
+      "answer": "REGULADO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Que depende de outra coisa",
+      "answer": "RELATIVO",
+      "row": 2,
+      "col": 3
+    },
+    "19": {
+      "clue": "Saliência de telhado",
+      "answer": "ABA",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Ruína",
+      "answer": "FIM",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "(Costa do) A região baiana com Ilhéus e Itacaré",
+      "answer": "CACAU",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "(de) Abaixo de",
+      "answer": "AQUEM",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Sova, pau",
+      "answer": "SURRA",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Sem chifres",
+      "answer": "MOCHO",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Não creem em Deus",
+      "answer": "ATEUS",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Quinhentas folhas de papel",
+      "answer": "RESMA",
+      "row": 6,
+      "col": 10
+    },
+    "32": {
+      "clue": "Precede Mai",
+      "answer": "ABR",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Documento de Ordem de Crédito",
+      "answer": "DOC",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Instituto de Engenharia",
+      "answer": "IE",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

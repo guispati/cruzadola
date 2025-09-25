@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "O órgão masculino da flor",
+      "answer": "ESTAME",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Parte onde se formam as imagens da TV",
+      "answer": "TELA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Líquido de planta",
+      "answer": "SEIVA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Impor silêncio a alguém",
+      "answer": "CALAR",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "(Ingl.) Um dispositivo para controlar o tempo",
+      "answer": "TIMER",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "A menina de uma história do escritor Lewis Carroll",
+      "answer": "ALICE",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Seduzir para o mal",
+      "answer": "ATENTAR",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Para",
+      "answer": "PRA",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Naquele lugar",
+      "answer": "LA",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Doença causada por carne de porco contaminada",
+      "answer": "TENIASE",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Substância usada como fertilizante",
+      "answer": "SALITRE",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Espécie de polvo",
+      "answer": "CALAMAR",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Cristiano Ronaldo, craque português de futebol",
+      "answer": "CR",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "Substância que tem ação na digestão das gorduras",
+      "answer": "FEL",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Pingar",
+      "answer": "GOTEJAR",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "A língua do Alcorão, a \"bíblia\" do islamismo",
+      "answer": "ARABE",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Velho",
+      "answer": "IDOSO",
+      "row": 8,
+      "col": 6
+    },
+    "30": {
+      "clue": "Ordinário, trivial, corriqueiro",
+      "answer": "COMUM",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "(Gír.) Pessoa sem ocupação",
+      "answer": "VAGAL",
+      "row": 9,
+      "col": 6
+    },
+    "32": {
+      "clue": "Mais à frente",
+      "answer": "ALEM",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Indígena do MT, de uma das maiores tribos que o Brasil já teve",
+      "answer": "BORORO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ruído forte e repentino",
+      "answer": "ESTALO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Sociedade secreta",
+      "answer": "SEITA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Equipe de futebol",
+      "answer": "TIME",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Proteção usada por chapeiros",
+      "answer": "AVENTAL",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Série prolongada de golpes, pancadas",
+      "answer": "MARTELAGEM",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(e qual) Exatamente como",
+      "answer": "TAL",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Geom.) Uma seção de um cone",
+      "answer": "ELIPSE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Aquilo que serve para fechar",
+      "answer": "LACRE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "No futebol há a grande e a pequena",
+      "answer": "AREA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Esmoler",
+      "answer": "CARITATIVO",
+      "row": 1,
+      "col": 6
+    },
+    "15": {
+      "clue": "Falta ao preguiçoso",
+      "answer": "ANIMO",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Afastar",
+      "answer": "ARREDAR",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Um aperitivo de carne de porco",
+      "answer": "SALAME",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "Canto para ninar",
+      "answer": "ARROLO",
+      "row": 5,
+      "col": 10
+    },
+    "22": {
+      "clue": "Vidro moído, na linha da pipa",
+      "answer": "CEROL",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Harmonizar",
+      "answer": "CASAR",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "Talher usado para fatiar",
+      "answer": "FACA",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Passatempo infantil",
+      "answer": "JOGO",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "O som de uma batida, nas HQs",
+      "answer": "BUM",
+      "row": 8,
+      "col": 3
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ser vítima de males físicos",
+      "answer": "PENAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Setecentos menos seiscentos",
+      "answer": "CEM",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Escavação subterrânea, destinada a sepultura",
+      "answer": "CATACUMBA",
+      "row": 1,
+      "col": 1
+    },
+    "13": {
+      "clue": "(Pop.) Pessoa ou coisa muito graciosa",
+      "answer": "TETEIA",
+      "row": 2,
+      "col": 2
+    },
+    "14": {
+      "clue": "Nelson Gonçalves, cantor",
+      "answer": "NG",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "O Deus único do Islã",
+      "answer": "ALA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Interjeição de alegria",
+      "answer": "OBA",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Possuir",
+      "answer": "TER",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Bailado",
+      "answer": "BALE",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Conseguida, alcançada",
+      "answer": "OBTIDA",
+      "row": 4,
+      "col": 5
+    },
+    "24": {
+      "clue": "Famoso cantor e guitarrista inglês",
+      "answer": "ERICCLAPTON",
+      "row": 5,
+      "col": 0
+    },
+    "26": {
+      "clue": "Pequeno barco a vela, de recreio",
+      "answer": "DINGUE",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Personagem lendário",
+      "answer": "MITO",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Período de 12 meses",
+      "answer": "ANO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Ben) O famoso sino londrino",
+      "answer": "BIG",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "O ligante da alvenaria, que se mistura com o cimento",
+      "answer": "CAL",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Luciana Gimenez, apresentadora de TV",
+      "answer": "LG",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Interjeição usada nos cultos afro-brasileiros",
+      "answer": "SARAVA",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "O E da CEF",
+      "answer": "ECONOMICA",
+      "row": 9,
+      "col": 1
+    },
+    "38": {
+      "clue": "Rede de canais de filmes da TV paga",
+      "answer": "HBO",
+      "row": 10,
+      "col": 2
+    },
+    "39": {
+      "clue": "(Pop.) Dinheiro, grana",
+      "answer": "ARAME",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Emenda Constitucional",
+      "answer": "EC",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Relativo ao dia 25/12",
+      "answer": "NATALINO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Ainda",
+      "answer": "ATE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Animal que pode transmitir a peste bubônica",
+      "answer": "RATO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "A capital de um dos estados com o Pantanal",
+      "answer": "CUIABA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Uma ave que tem um andar balançado característico",
+      "answer": "EMA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Mercedes-Benz",
+      "answer": "MB",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Produtor de um bulbo muito usado na cozinha",
+      "answer": "CEBOLEIRO",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Piada",
+      "answer": "ANEDOTA",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Conjunto de todos os bens de um indivíduo",
+      "answer": "CABEDAL",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Mix de cereais, passas, nozes etc.",
+      "answer": "GRANOLA",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "O principal órgão da voz",
+      "answer": "LARINGE",
+      "row": 3,
+      "col": 1
+    },
+    "19": {
+      "clue": "O mais alto lago do mundo (3.810 m)",
+      "answer": "TITICACA",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Eletrocardiograma",
+      "answer": "ECG",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Tensão Pré-Menstrual",
+      "answer": "TPM",
+      "row": 4,
+      "col": 7
+    },
+    "25": {
+      "clue": "Relativo ao único país comunista da América Central",
+      "answer": "CUBANO",
+      "row": 5,
+      "col": 4
+    },
+    "30": {
+      "clue": "Uma das regiões administrativas do DF",
+      "answer": "GAMA",
+      "row": 7,
+      "col": 6
+    },
+    "33": {
+      "clue": "Durante o governo de",
+      "answer": "SOB",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Caminhar para cá",
+      "answer": "VIR",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "Charlton Heston, ator de \"O Planeta dos Macacos\"",
+      "answer": "CH",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "Sigla do estado de Manacapuru e Eirunepé",
+      "answer": "AM",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Acompanham garfos e colheres nas refeições",
+      "answer": "FACAS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Um osso da perna",
+      "answer": "TIBIA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Do estudo das doenças do ouvido",
+      "answer": "OTOLOGICO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Ferido",
+      "answer": "SANGRADO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Um apelido para Luciana",
+      "answer": "LU",
+      "row": 2,
+      "col": 9
+    },
+    "14": {
+      "clue": "O quarto elemento mais abundante da Terra",
+      "answer": "FERRO",
+      "row": 3,
+      "col": 2
+    },
+    "15": {
+      "clue": "X",
+      "answer": "XIS",
+      "row": 3,
+      "col": 8
+    },
+    "16": {
+      "clue": "O ex-craque de futebol da Guia",
+      "answer": "ADEMIR",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Fruto comestível de sabor amargo",
+      "answer": "JILO",
+      "row": 4,
+      "col": 7
+    },
+    "19": {
+      "clue": "Ave da família dos papagaios, brasileira",
+      "answer": "ARARAJUBA",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Erva-doce",
+      "answer": "ANIS",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "De grande reputação",
+      "answer": "FAMOSO",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "Testemunhar, assistir",
+      "answer": "VER",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Um local para angorás e persas",
+      "answer": "GATIL",
+      "row": 7,
+      "col": 4
+    },
+    "26": {
+      "clue": "Sigla do estado de Vila Velha e Vitória",
+      "answer": "ES",
+      "row": 8,
+      "col": 0
+    },
+    "27": {
+      "clue": "Secreção de suor",
+      "answer": "SUDORESE",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "Deixar sem moradores",
+      "answer": "DESABITAR",
+      "row": 9,
+      "col": 2
+    },
+    "30": {
+      "clue": "Pequena baía ou enseada",
+      "answer": "ANGRA",
+      "row": 10,
+      "col": 0
+    },
+    "31": {
+      "clue": "Um parasito intestinal",
+      "answer": "AMEBA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Câmara subterrânea para despejo de dejetos",
+      "answer": "FOSSA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Outro nome da fruta pinha",
+      "answer": "ATA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ver se está certo",
+      "answer": "CONFERIR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Bracelete usado para prender bandidos",
+      "answer": "ALGEMAS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Demonstrar alegria, felicidade",
+      "answer": "SORRIR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Considerado, julgado",
+      "answer": "TIDO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Árvore da caatinga nordestina",
+      "answer": "ICO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "A sílaba que se repete em boboca",
+      "answer": "BO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Excesso, no poder",
+      "answer": "ABUSO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Golpe dado com um recipiente para líquidos",
+      "answer": "GARRAFADA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Flor de cor arroxeada",
+      "answer": "LILAS",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Senha",
+      "answer": "XIBOLETE",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Da nação de Copenhague e Aarhus",
+      "answer": "DANES",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "Cidade paulista da região de Piracicaba",
+      "answer": "JUMIRIM",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Uma grande árvore brasileira",
+      "answer": "JATOBA",
+      "row": 5,
+      "col": 6
+    },
+    "21": {
+      "clue": "Cereal de granola",
+      "answer": "AVEIA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Um espetáculo musical como \"As Bodas de Fígaro\"",
+      "answer": "OPERA",
+      "row": 6,
+      "col": 10
+    },
+    "25": {
+      "clue": "Um tipo de ferro",
+      "answer": "GUSA",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Pertencer",
+      "answer": "SER",
+      "row": 8,
+      "col": 3
+    },
+    "28": {
+      "clue": "Antecede Dom",
+      "answer": "SAB",
+      "row": 8,
+      "col": 9
+    },
+    "29": {
+      "clue": "David Gilmour, músico britânico do Pink Floyd",
+      "answer": "DG",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

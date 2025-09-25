@@ -1,0 +1,294 @@
+{
+  "across": {
+    "1": {
+      "clue": "O escritor Jorge (1912-2001), de \"Jubiabá\"",
+      "answer": "AMADO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Fig.) Aumentar rapidamente",
+      "answer": "PULAR",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Diz-se de sono que se interrompe facilmente",
+      "answer": "LEVE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "(Pop.) Vale profundo e escarpado",
+      "answer": "PAVUNA",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "A parte do nosso planeta em que é possível a vida",
+      "answer": "BIOSFERA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Camila Pitanga, atriz",
+      "answer": "CP",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Ave colorida, parecida com o sanhaço",
+      "answer": "SAIRA",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "(Trigon.) Símbolo da função cotangente",
+      "answer": "COT",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Marília Pêra (1943-2015), atriz",
+      "answer": "MP",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Disputa com o Flu um clássico do futebol",
+      "answer": "FLA",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "(Gír.) Conversa-mole",
+      "answer": "LERO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Tempo que se pode dispor",
+      "answer": "OCIO",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "(Pop.) Bonita e graciosa",
+      "answer": "FOFA",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "O de sogra é um doce de festas",
+      "answer": "OLHO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Marca de canetas",
+      "answer": "BIC",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Renato Machado, jornalista carioca",
+      "answer": "RM",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "(Abrev.) Senador",
+      "answer": "SEN",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Mortal",
+      "answer": "FATAL",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Tiro de Guerra",
+      "answer": "TG",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Indivíduo sempre pronto a defender os oprimidos e a lutar por causas justas",
+      "answer": "PALADINO",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Série ininterrupta de tiros",
+      "answer": "RAJADA",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Filho de Iemanjá, orixá guerreiro e lutador",
+      "answer": "OGUM",
+      "row": 9,
+      "col": 7
+    },
+    "37": {
+      "clue": "Antigo estádio",
+      "answer": "ARENA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Carvão aceso, usado na churrasqueira",
+      "answer": "BRASA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Caderno para selos",
+      "answer": "ALBUM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um tipo de empresa",
+      "answer": "MEI",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Pais dos pais",
+      "answer": "AVOS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Ato de provocar alguém para duelo",
+      "answer": "DESAFIO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Preposição que expressa o sentido de intenção",
+      "answer": "PARA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "O fruto da videira",
+      "answer": "UVA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Lutécio, elemento químico",
+      "answer": "LU",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Comandar jornal na TV",
+      "answer": "ANCORAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Apossamento de coisas pela violência",
+      "answer": "RAPTO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Fruto de forma vagamente cônica",
+      "answer": "PERA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Tecido leve e transparente",
+      "answer": "FILO",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Um grande banco do Brasil",
+      "answer": "CEF",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "O dedo mais grosso da mão",
+      "answer": "POLEGAR",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Aquele que aluga",
+      "answer": "LOCADOR",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "China",
+      "answer": "CHN",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Filme cinematográfico",
+      "answer": "FITA",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Molusco que produz pérolas",
+      "answer": "OSTRA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Guloseima como a antiga Juquinha ou a Soft",
+      "answer": "BALA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "(Med.) Tumor muscular",
+      "answer": "MIOMA",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Uma personagem como Sininho, de \"Peter Pan\"",
+      "answer": "FADA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "União resultante da mistura de duas ou mais substâncias",
+      "answer": "LIGA",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "O Peter que desafia o Capitão Gancho",
+      "answer": "PAN",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Sem roupas (pl.)",
+      "answer": "NUS",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "Justiça Eleitoral",
+      "answer": "JE",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

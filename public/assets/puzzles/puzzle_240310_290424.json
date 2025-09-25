@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Ingl.) Sucede six",
+      "answer": "SEVEN",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Agravamento",
+      "answer": "PIORA",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Sentimento de aversão",
+      "answer": "ANIMOSIDADE",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Insumo Farmacêutico Ativo",
+      "answer": "IFA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Cigarro eletrônico",
+      "answer": "VAPE",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "O bromo, em química",
+      "answer": "BR",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "(Abrev.) Ponto do horizonte intermediário entre o Norte e o Leste",
+      "answer": "NE",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Um dos mais tradicionais times de futebol da Argentina",
+      "answer": "RACING",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Tecido resistente usado para forrar pisos",
+      "answer": "TAPETE",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Bloco de madeira que constitui a fôrma da xilogravura",
+      "answer": "TACO",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Passado",
+      "answer": "DECORRIDO",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Um grupo musical de vozes",
+      "answer": "CORO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Imergir em água fervida com cinzas, para lavagem de tecidos",
+      "answer": "DECOAR",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Peso de 15 kg",
+      "answer": "ARROBA",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Eduardo, para os íntimos",
+      "answer": "DU",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "As iniciais do músico Haley (1925-1981), um dos criadores do rock'n'roll",
+      "answer": "BH",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Qualidade apreciável, mérito de uma pessoa",
+      "answer": "DOTE",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Onomatopeia de som de tambor",
+      "answer": "BUM",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "Grupo que se diverte com um ritmo musical bem brasileiro",
+      "answer": "RODADECHORO",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Pequena baía",
+      "answer": "ANGRA",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Resina para joias",
+      "answer": "AMBAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(-Tropez) Cidade da Riviera Francesa, destino turístico",
+      "answer": "SAINT",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Que perdeu a graça ou beleza",
+      "answer": "ENFEADO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(de regra) Habitualmente, geralmente",
+      "answer": "VIA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Preposição que forma diversas contrações",
+      "answer": "EM",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Principiante",
+      "answer": "NOVATO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Xixi",
+      "answer": "PIPI",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Fem.) Tal e qual",
+      "answer": "IDENTICA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "As iniciais do chef Anquier",
+      "answer": "OA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Um investimento",
+      "answer": "RDB",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Transporte feito através de aviões",
+      "answer": "AEREO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Padre",
+      "answer": "SACERDOTE",
+      "row": 1,
+      "col": 5
+    },
+    "17": {
+      "clue": "Lembrar",
+      "answer": "RECORDAR",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Bois e vacas",
+      "answer": "GADO",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "(Elet.) Interruptor que tem a forma de uma fruta",
+      "answer": "PERA",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Infiltração",
+      "answer": "COADURA",
+      "row": 4,
+      "col": 9
+    },
+    "24": {
+      "clue": "A ginasta campeã mundial Andrade",
+      "answer": "REBECA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Um animal como a cascavel ou a coral",
+      "answer": "COBRA",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Burburinho",
+      "answer": "RUMOR",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "(Fig.) Círculo de pessoas",
+      "answer": "RODA",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Abreviatura (em português) de Honduras",
+      "answer": "HON",
+      "row": 8,
+      "col": 1
+    },
+    "34": {
+      "clue": "O skatista Burnquist",
+      "answer": "BOB",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "A abreviatura de 0,0001 kg",
+      "answer": "DG",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "Henri Matisse, pintor",
+      "answer": "HM",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

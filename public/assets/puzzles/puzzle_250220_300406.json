@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Campo relvoso",
+      "answer": "PRADO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Polir as rugosidades do ferro",
+      "answer": "LIMAR",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Conserto no calçado",
+      "answer": "REMONTE",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Vale 1.000, em romanos",
+      "answer": "EME",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Tempo que se pode dispor",
+      "answer": "OCIO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Uma das línguas mais faladas no mundo",
+      "answer": "INGLES",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Incapacidade de escrever consecutiva a uma lesão cerebral",
+      "answer": "AGRAFIA",
+      "row": 3,
+      "col": 1
+    },
+    "18": {
+      "clue": "Ney Matogrosso, cantor da MPB",
+      "answer": "NM",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Pronome pessoal feminino singular",
+      "answer": "ELA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Diz-se da polícia que faz a guarda sob cavalo",
+      "answer": "MONTADA",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Mário Quintana (1906-1994), poeta",
+      "answer": "MQ",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Roto",
+      "answer": "RASGADO",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Saltador",
+      "answer": "PULADOR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Forma oblíqua de eu",
+      "answer": "MIM",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "O R do RU",
+      "answer": "REINO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Na parte mais elevada",
+      "answer": "ACIMA",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Corresponder aos gostos, aos desejos",
+      "answer": "AGRADAR",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "Nação com capital Acra, banhado pelo Atlântico",
+      "answer": "GANA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "De cor vermelha-clara",
+      "answer": "ROSADA",
+      "row": 9,
+      "col": 5
+    },
+    "37": {
+      "clue": "(Anat.) Um órgão que só as mulheres têm",
+      "answer": "OVARIO",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "R",
+      "answer": "ERRE",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Em benefício de",
+      "answer": "PRO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Complexo",
+      "answer": "RECALQUE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Colega, companheira",
+      "answer": "AMIGA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Ingl.) Porta",
+      "answer": "DOOR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O contrário de off",
+      "answer": "ON",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "A cidade russa que voltou a chamar-se São Petersburgo",
+      "answer": "LENINGRADO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Fig.) Qualquer coisa bem doce",
+      "answer": "MEL",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O principal ingrediente do pé de moleque",
+      "answer": "AMENDOIM",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "500 folhas de papel",
+      "answer": "RESMA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Adoentado pelo bacilo de Eberth",
+      "answer": "TIFOSO",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "(borralheira) Uma personagem de contos infantis",
+      "answer": "GATA",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Se dedica ao esporte sem interesse econômico",
+      "answer": "AMADOR",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Ocupação, trabalho",
+      "answer": "EMPREGO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Observar com prazer",
+      "answer": "ADMIRAR",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "(Gír.) Comer",
+      "answer": "RANGAR",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Cipó lenhoso",
+      "answer": "LIANA",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Cidade do Rio de Janeiro",
+      "answer": "MACAE",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "A atriz e apresentadora Regina",
+      "answer": "CASE",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "A peça onde se encaixa o pneu",
+      "answer": "ARO",
+      "row": 8,
+      "col": 5
+    },
+    "34": {
+      "clue": "Alceu Valença, músico de \"Cavalo de Pau\"",
+      "answer": "AV",
+      "row": 9,
+      "col": 1
+    },
+    "36": {
+      "clue": "(Abrev.) Doutor",
+      "answer": "DR",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

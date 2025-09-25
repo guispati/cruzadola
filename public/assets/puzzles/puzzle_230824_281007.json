@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "A mesa sagrada da missa",
+      "answer": "ALTAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Dança e música muito difundida na Argentina",
+      "answer": "TANGO",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Que pode ser repetido",
+      "answer": "REITERAVEL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Revolta em penitenciária",
+      "answer": "MOTIM",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "Qualquer substância convertida à forma gasosa",
+      "answer": "VAPOR",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Prova do MEC",
+      "answer": "ENEM",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Que não se encontra facilmente",
+      "answer": "RARO",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "A sílaba que se repete em perereca",
+      "answer": "RE",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Flor da mesma espécie do narciso",
+      "answer": "AMARILIS",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Descendência pela linha paterna",
+      "answer": "VARONIA",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "American Airlines",
+      "answer": "AA",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Som agudo, serve de aviso",
+      "answer": "BIP",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Para trás",
+      "answer": "RETRO",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "Cidade paulista próxima à capital",
+      "answer": "ATIBAIA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Animal de grande porte, abatido para alimentação",
+      "answer": "BOI",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Oriundo",
+      "answer": "NATIVO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Cume agudo e isolado de monte",
+      "answer": "PICO",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Esquema de programação periódica de uma TV",
+      "answer": "GRADE",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Parte do leite com a qual de faz manteiga",
+      "answer": "NATA",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Pessoa que pertence a uma ordem monástica",
+      "answer": "RELIGIOSO",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Alistar no Exército",
+      "answer": "ARMAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O cantor Jaime, de \"Solange\"",
+      "answer": "LEO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um técnico gaúcho de futebol",
+      "answer": "TITE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Acertar em cheio",
+      "answer": "ATINAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Digno de se recordar",
+      "answer": "REMEMORAVEL",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Trem de Alta Velocidade",
+      "answer": "TAV",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Provocar um prejuízo, um estrago",
+      "answer": "AVARIAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "A nação de Katmandu",
+      "answer": "NEPAL",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Prova de respeito e veneração",
+      "answer": "GLORIA",
+      "row": 0,
+      "col": 9
+    },
+    "13": {
+      "clue": "Reza católica dedicada à Virgem Maria",
+      "answer": "ROSARIO",
+      "row": 2,
+      "col": 10
+    },
+    "15": {
+      "clue": "Trabalho manual",
+      "answer": "MANEIO",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Abster-se de uma ação",
+      "answer": "EVITAR",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "A cantora Lee, de \"Reza\"",
+      "answer": "RITA",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "(Esp.) Atuar como juiz",
+      "answer": "APITAR",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Time do futebol do RJ",
+      "answer": "BANGU",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Morte (na linguagem estilística)",
+      "answer": "OBITO",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Bacia oblonga para lavagem, instalada em banheiros",
+      "answer": "BIDE",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "As habitações que formam a taba",
+      "answer": "OCAS",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "O dos burros é um sinônimo para dicionário",
+      "answer": "PAI",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Nomenclatura Geral",
+      "answer": "NG",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

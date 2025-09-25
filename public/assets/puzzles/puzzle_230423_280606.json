@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O Woody, cineasta de \"Meia-Noite em Paris\"",
+      "answer": "ALLEN",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Espécie de bala, de várias cores e formas",
+      "answer": "DROPE",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Ombro",
+      "answer": "ESPADUA",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Odair José, cantor",
+      "answer": "OJ",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Certidão Negativa de Débito",
+      "answer": "CND",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Do molar ou do canino",
+      "answer": "DENTAL",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Interjeição de impressão de perigo próximo",
+      "answer": "IH",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Fricção terapêutica",
+      "answer": "MASSAGEM",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Pessoa que vaga sem domicílio fixo",
+      "answer": "NOMADE",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Região, área",
+      "answer": "ZONA",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Assentar",
+      "answer": "ACAMPAR",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Um chá",
+      "answer": "MATE",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Chapéu de verão, de palha finíssima",
+      "answer": "PANAMA",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Outro nome da planta carqueja",
+      "answer": "AMARGOSA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "O sujeito de minto ou trabalho",
+      "answer": "EU",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Cidade de SP",
+      "answer": "ARARAS",
+      "row": 8,
+      "col": 1
+    },
+    "32": {
+      "clue": "Repetição",
+      "answer": "BIS",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Paládio, elemento químico",
+      "answer": "PD",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "O oposto de passageiro",
+      "answer": "DURADOR",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "Nevoeiro fino",
+      "answer": "GAROA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Regular o preço de",
+      "answer": "TAXAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Peça grossa e robusta de madeira",
+      "answer": "LENHO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Droga alucinógena extraída de um fungo",
+      "answer": "LSD",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Eliana Pittman, cantora carioca",
+      "answer": "EP",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Pop.) Mergulho em águas, para lazer ou atividade física",
+      "answer": "NADADA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "De + um (pl.)",
+      "answer": "DUNS",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Roedor também chamado guabiru",
+      "answer": "RATAZANA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Pó da fecundação das flores",
+      "answer": "POLEN",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Elton John, músico",
+      "answer": "EJ",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Tirar o pó",
+      "answer": "DESEMPOAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Sala que mostra filmes",
+      "answer": "CINEMA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Já",
+      "answer": "AGORA",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "(Fig.) Dominado",
+      "answer": "MACERADO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "A capital do AM",
+      "answer": "MANAUS",
+      "row": 3,
+      "col": 10
+    },
+    "20": {
+      "clue": "(Gír.) Cabular aulas",
+      "answer": "MATAR",
+      "row": 4,
+      "col": 2
+    },
+    "23": {
+      "clue": "Um carro da VW",
+      "answer": "PASSAT",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Namorada",
+      "answer": "AMADA",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "O ator Tarcísio",
+      "answer": "MEIRA",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Um tipo de guindaste",
+      "answer": "GRUA",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Caixa, em inglês",
+      "answer": "BOX",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Pago",
+      "answer": "PG",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Dante Alighieri (1265-1321), poeta italiano",
+      "answer": "DA",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

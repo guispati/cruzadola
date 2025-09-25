@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Interjeição de saudação",
+      "answer": "SALVE",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Interruptor elétrico",
+      "answer": "CHAVE",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Cano por onde correm as águas dos telhados",
+      "answer": "AGUEIRO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Espaço onde se movem os aviões",
+      "answer": "CEU",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "O músico Santos, de \"Um Certo Alguém\"",
+      "answer": "LULU",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Fluir",
+      "answer": "ESCOAR",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Débito Direto Autorizado",
+      "answer": "DDA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Morosidade",
+      "answer": "RETARDO",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Gago sem gês",
+      "answer": "AO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "O conserto de parte de um tecido rasgado",
+      "answer": "REMENDO",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Ação bélica",
+      "answer": "COMBATE",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Que ficou menos denso",
+      "answer": "RALEADO",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Goiás",
+      "answer": "GO",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "Competição atlética composta de dez provas",
+      "answer": "DECATLO",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Ficar na presença de",
+      "answer": "VER",
+      "row": 7,
+      "col": 8
+    },
+    "26": {
+      "clue": "Fábrica de vasos, tijolos, telhas etc.",
+      "answer": "OLARIA",
+      "row": 8,
+      "col": 0
+    },
+    "27": {
+      "clue": "Pescoço",
+      "answer": "COLO",
+      "row": 8,
+      "col": 7
+    },
+    "28": {
+      "clue": "(Poét.) Qualquer navio",
+      "answer": "NAU",
+      "row": 9,
+      "col": 0
+    },
+    "29": {
+      "clue": "No futebol, o mesmo que fintar",
+      "answer": "DRIBLAR",
+      "row": 9,
+      "col": 4
+    },
+    "31": {
+      "clue": "Combinação do oxigênio com um corpo simples, metal ou metalóide",
+      "answer": "OXIDO",
+      "row": 10,
+      "col": 0
+    },
+    "32": {
+      "clue": "Estrela",
+      "answer": "ASTRO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Quitar a dívida",
+      "answer": "SALDAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um ângulo menor que 90 graus",
+      "answer": "AGUDO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O molusco do qual se extrai a tinta sépia",
+      "answer": "LULA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Tecido, leve e fino, usado pelas mulheres sobre a cabeça",
+      "answer": "VEU",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Estado Islâmico",
+      "answer": "EI",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Percorrido pelas margens (diz-se de litoral, rio etc.)",
+      "answer": "COSTEADO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Conjunto harmônico de notas tocadas simultaneamente",
+      "answer": "ACORDE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Animal de cornos ramificados",
+      "answer": "VEADO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Moeda única dos países da União Europeia",
+      "answer": "EURO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Empacotar novamente",
+      "answer": "REEMBALAR",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Qualquer lugar",
+      "answer": "CANTO",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Enviado, expedido",
+      "answer": "REMETIDO",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Avançar como uma bola",
+      "answer": "ROLAR",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Árvore que, das sementes, se faz chocolate",
+      "answer": "CACAUI",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "Veado brasileiro, o menor de nossa fauna",
+      "answer": "BORORO",
+      "row": 5,
+      "col": 10
+    },
+    "22": {
+      "clue": "Distensão física e psíquica",
+      "answer": "RELAX",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Resfriar",
+      "answer": "GELAR",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "Empregador",
+      "answer": "DONO",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Uma unidade de medida da energia elétrica",
+      "answer": "VOLT",
+      "row": 7,
+      "col": 8
+    },
+    "27": {
+      "clue": "Rede de comunicação dos EUA",
+      "answer": "CBS",
+      "row": 8,
+      "col": 7
+    },
+    "30": {
+      "clue": "Instituto de Antropologia",
+      "answer": "IA",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

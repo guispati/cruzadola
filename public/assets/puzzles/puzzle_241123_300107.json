@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Velocípede de três rodas",
+      "answer": "TRICICLO",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Grande Prêmio",
+      "answer": "GP",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Conjunto de animais criados para corte",
+      "answer": "REBANHO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "(Lorenzo) Equipe argentina de futebol",
+      "answer": "SAN",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "Estação de Tratamento de Água",
+      "answer": "ETA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Defeito de gaguejar",
+      "answer": "CACOETE",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "O símbolo químico do gálio",
+      "answer": "GA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Imenso, enorme",
+      "answer": "GIGANTEU",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "(de câmbio) Loja que comercializa dólares, euros etc.",
+      "answer": "CASA",
+      "row": 4,
+      "col": 2
+    },
+    "18": {
+      "clue": "Possui 24 horas",
+      "answer": "DIA",
+      "row": 4,
+      "col": 7
+    },
+    "19": {
+      "clue": "Partícula microscópica",
+      "answer": "ATOMO",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Osso da coxa",
+      "answer": "FEMUR",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Advérbio que significa no máximo",
+      "answer": "ATE",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "(Geom.) r",
+      "answer": "RAIO",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Relativo a dor nos músculos",
+      "answer": "MIALGICO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Fernando Diniz, técnico de futebol",
+      "answer": "FD",
+      "row": 7,
+      "col": 9
+    },
+    "28": {
+      "clue": "Armação sobre a qual trabalham os operários nas construções",
+      "answer": "ANDAIME",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "(dos burros) Dicionário",
+      "answer": "PAI",
+      "row": 8,
+      "col": 8
+    },
+    "30": {
+      "clue": "Senhor",
+      "answer": "NHO",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Ave que habita as praias, também chamada narceja",
+      "answer": "BATUIRA",
+      "row": 9,
+      "col": 4
+    },
+    "33": {
+      "clue": "Olivier Anquier, chef e apresentador de TV",
+      "answer": "OA",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Grande flor que fornece um óleo comestível",
+      "answer": "GIRASSOL",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Cessação temporária de hostilidades",
+      "answer": "TREGUA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O menor caminho entre dois pontos",
+      "answer": "RETA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Instituto de Belas Artes",
+      "answer": "IBA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "K",
+      "answer": "CA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Subdivisão de artigo de lei",
+      "answer": "INCISO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Ferida aberta, supurada",
+      "answer": "CHAGA",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Gruta pequena",
+      "answer": "LOCA",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "(Petit) Uma sobremesa",
+      "answer": "GATEAU",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Objeto que se conserta na borracharia",
+      "answer": "PNEU",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Aquele que antecede o oitavo",
+      "answer": "SETIMO",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Movimento das águas do mar",
+      "answer": "ONDEIO",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Vasilha usada para dar comida à criação",
+      "answer": "GAMELA",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Bem conceituado",
+      "answer": "COTADO",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Peixe de mar que desova em água doce",
+      "answer": "TAINHA",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Área de desgaste em um dente devido à mastigação",
+      "answer": "FACETA",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "De um osso do antebraço",
+      "answer": "RADIAL",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "Procurar a assonância dos versos",
+      "answer": "RIMAR",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "(Pop.) Amigo muito íntimo, camarada",
+      "answer": "MANO",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Revista em quadrinhos",
+      "answer": "GIBI",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "O Rodrigo apresentador de TV",
+      "answer": "FARO",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Programa de Integração Social",
+      "answer": "PIS",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Abreviatura inglesa de Estados Unidos (nos dólares)",
+      "answer": "US",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

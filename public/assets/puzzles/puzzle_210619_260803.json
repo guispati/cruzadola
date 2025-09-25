@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um estado brasileiro que não é banhado pelo mar",
+      "answer": "ACRE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Lugar onde não bate luz",
+      "answer": "SOMBRA",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "(Miner.) Material vulcânico, compacto e grosseiro, com fragmentos de rochas",
+      "answer": "TRASSE",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "O naipe com a figura de uma folha de trevo",
+      "answer": "PAUS",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Demorada como tartaruga",
+      "answer": "LENTA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "De novo",
+      "answer": "BIS",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Examinar questionando ou interrogando",
+      "answer": "ARGUIR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Fruto de forma vagamente cônica",
+      "answer": "PERA",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "De sequência ordenada",
+      "answer": "ORDINAL",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Fazer ingerir droga",
+      "answer": "DOPAR",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "O do Caribe é uma famosa série de filmes de aventura",
+      "answer": "PIRATAS",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Estado norte-americano cuja capital é Columbus",
+      "answer": "OHIO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "(It.) Uma forma de execução musical",
+      "answer": "RUBATO",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "Abreviatura de dicionário",
+      "answer": "DIC",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Dar nova vista d'olhos no texto",
+      "answer": "RELER",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Lâmina que recobre a parte terminal dos dedos",
+      "answer": "UNHA",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Um profissional como Nelson Gonçalves",
+      "answer": "CANTOR",
+      "row": 9,
+      "col": 5
+    },
+    "34": {
+      "clue": "Aparelho triturador",
+      "answer": "MOEDOR",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Parte aquosa que fica do leite coalhado",
+      "answer": "SORO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Coleção de mapas",
+      "answer": "ATLAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ter plena convicção",
+      "answer": "CRER",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Gír.) Comida",
+      "answer": "RANGO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Esquisito, excêntrico, extravagante",
+      "answer": "ESTURDIO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Visto que, uma vez que",
+      "answer": "SE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Medida Provisória",
+      "answer": "MP",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Bíbl.) A torre que tentaram erguer para escalar o céu",
+      "answer": "BABEL",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Desmoronar-se, desabar",
+      "answer": "RUIR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Expor à alta temperatura de um forno, para cozinhar",
+      "answer": "ASSAR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Aquele que deixa um local",
+      "answer": "SAIDOR",
+      "row": 1,
+      "col": 4
+    },
+    "16": {
+      "clue": "Pregar sarrafos em",
+      "answer": "RIPAR",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Felicitações",
+      "answer": "PARABENS",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Marca de produtos cosméticos",
+      "answer": "NATURA",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Cheiro forte e desagradável de suor",
+      "answer": "BODUM",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "Substância que reveste ruas e estradas",
+      "answer": "PICHE",
+      "row": 6,
+      "col": 2
+    },
+    "23": {
+      "clue": "Uma característica dos sapatos femininos",
+      "answer": "SALTO",
+      "row": 6,
+      "col": 8
+    },
+    "24": {
+      "clue": "Espaço entre o telhado e o teto",
+      "answer": "FORRO",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "O nacional da França é \"A Marselhesa\"",
+      "answer": "HINO",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Conteúdo de um escrito",
+      "answer": "TEOR",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Assembleia de Deus",
+      "answer": "AD",
+      "row": 9,
+      "col": 3
+    },
+    "33": {
+      "clue": "Cristiano Ronaldo, craque do futebol",
+      "answer": "CR",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

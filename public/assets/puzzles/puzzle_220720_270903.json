@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "A capital roraimense",
+      "answer": "BOAVISTA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Sigla da UF de Campina Grande",
+      "answer": "PB",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Posição ocupada por um ou mais elementos",
+      "answer": "MODO",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "Carne ensacada, ingrediente da feijoada",
+      "answer": "PAIO",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Sem brilho",
+      "answer": "OPACO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Tirar uma pequena porção de",
+      "answer": "BICAR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Parte alta dos chapéus",
+      "answer": "COPA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Pequeno fragmento",
+      "answer": "CACO",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Aquele que não sabe ler nem escrever",
+      "answer": "ANALFABETO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "O Bruce (1940-1973) dos filmes de artes marciais",
+      "answer": "LEE",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "N",
+      "answer": "ENE",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "Uma saudação",
+      "answer": "OPA",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Que não se pode transgredir",
+      "answer": "INVIOLAVEL",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Erva leguminosa da qual se produz o queijo tofu",
+      "answer": "SOJA",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Sem complexidade, sem importância (fem.)",
+      "answer": "MERA",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "(Ribeirão) Cidade do interior de SP",
+      "answer": "PRETO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Flor de cor arroxeada",
+      "answer": "LILAS",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Pode ser horário",
+      "answer": "FUSO",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Corrida não autorizada de automóveis",
+      "answer": "PEGA",
+      "row": 9,
+      "col": 5
+    },
+    "35": {
+      "clue": "Abreviatura de centímetro",
+      "answer": "CM",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Estabelecimento em que se corta madeira",
+      "answer": "SERRARIA",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um enfeite para fantasias",
+      "answer": "BROCAL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Nascidos no AP",
+      "answer": "AMAPAENSES",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Que se expressa pela voz",
+      "answer": "VOCAL",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Que já não existe",
+      "answer": "IDO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Abandonado",
+      "answer": "SO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "A ponta do cone",
+      "answer": "APICE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Menino mestiço de indígena com branco",
+      "answer": "PIA",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Elemento químico de símbolo B",
+      "answer": "BORO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Dar encontrões em",
+      "answer": "ACOTOVELAR",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Cavalo pequeno, com pelo longo",
+      "answer": "PONEI",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "(Fig.) Desordem e confusão",
+      "answer": "BABEL",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Barco típico de povos primitivos",
+      "answer": "CANOA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "(Padre) Religioso e político brasileiro (1784-1843)",
+      "answer": "FEIJO",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Um espetáculo musical como \"Carmen\"",
+      "answer": "OPERA",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Estado dos EUA que tem Juneau como capital",
+      "answer": "ALASCA",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Sufrágios",
+      "answer": "VOTOS",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Companheira, colega",
+      "answer": "AMIGA",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "São Paulo Futebol Clube",
+      "answer": "SPFC",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Uma aguardente do melaço da cana",
+      "answer": "RUM",
+      "row": 8,
+      "col": 1
+    },
+    "32": {
+      "clue": "Reconhecer as palavras pelos sinais da escrita",
+      "answer": "LER",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Sigla do estado de Foz do Iguaçu",
+      "answer": "PR",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

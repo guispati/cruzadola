@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Enganar, no jogo de baralho",
+      "answer": "BLEFAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Mús.) Espécie de sanfona",
+      "answer": "FOLE",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Importante prêmio do cinema mundial",
+      "answer": "OSCAR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Antigo tecido de lã, usado como luto",
+      "answer": "ARBIM",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Corpo humano",
+      "answer": "ORGANISMO",
+      "row": 2,
+      "col": 2
+    },
+    "14": {
+      "clue": "Cujo as despesas são pagas por outrem",
+      "answer": "MANTEUDO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Paula Toller, cantora",
+      "answer": "PT",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Enfermo",
+      "answer": "DOENTE",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "Indivíduo que tem um ou mais filhos",
+      "answer": "PAI",
+      "row": 4,
+      "col": 8
+    },
+    "19": {
+      "clue": "Forma oblíqua tônica do pronome eu",
+      "answer": "MIM",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Ato de tornar muito seco",
+      "answer": "TORRA",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "Período histórico",
+      "answer": "EPOCA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Epidemia",
+      "answer": "SURTO",
+      "row": 6,
+      "col": 6
+    },
+    "26": {
+      "clue": "Interjeição própria para espantar galinhas",
+      "answer": "XO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Impor a alguém",
+      "answer": "IRROGAR",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "Uma exclamação de aprovação",
+      "answer": "ISSO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Aborrecer, molestar",
+      "answer": "ANOJAR",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Pendências judiciais",
+      "answer": "CAUSAS",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Uma cobertura para casebres",
+      "answer": "SAPE",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "Lamacento",
+      "answer": "LODOSO",
+      "row": 10,
+      "col": 2
+    },
+    "37": {
+      "clue": "Grito que expressa dor",
+      "answer": "AI",
+      "row": 10,
+      "col": 9
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Ingl.) Fase de grande expansão econômica",
+      "answer": "BOOM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Lulu Santos, músico",
+      "answer": "LS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Administrador de bens ou rendas de outrem",
+      "answer": "ECONOMO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Variedade de doce em que entram amêndoa e açúcar",
+      "answer": "FARTE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Banhar, cobrir de prata, pratear",
+      "answer": "ARGENTAR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "O antônimo de quente",
+      "answer": "FRIO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Observação",
+      "answer": "OBS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Que não está suja",
+      "answer": "LIMPA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Que se comove com facilidade",
+      "answer": "EMOTIVO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "O atleta Silva do MMA",
+      "answer": "ANDERSON",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "O da Compadecida é uma obra de Suassuna",
+      "answer": "AUTO",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Gordurosa",
+      "answer": "ADIPOSA",
+      "row": 3,
+      "col": 1
+    },
+    "18": {
+      "clue": "Chuva forte e rápida no litoral baiano",
+      "answer": "PARAJA",
+      "row": 4,
+      "col": 8
+    },
+    "19": {
+      "clue": "O país que separa os EUA da América Central",
+      "answer": "MEXICO",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Enrugado",
+      "answer": "RUGOSO",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "Zeloso, cuidadoso",
+      "answer": "CIOSO",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Cova para apanhar feras",
+      "answer": "TRAPA",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "(Geom.) Ângulo igual a 180º",
+      "answer": "RASO",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "Um dos quatro pontos cardeais",
+      "answer": "SUL",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "Monarca",
+      "answer": "REI",
+      "row": 8,
+      "col": 10
+    },
+    "34": {
+      "clue": "Altemar Dutra (1940-1983), cantor",
+      "answer": "AD",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "Íngreme, alcantilada",
+      "answer": "ESCARPADA",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Que não existe",
+      "answer": "IRREAL",
+      "row": 1,
+      "col": 1
+    },
+    "10": {
+      "clue": "Dira Paes, atriz",
+      "answer": "DP",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "Unidade de medida usada em equipamentos de ar condicionado",
+      "answer": "BTU",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Dispor de certa maneira (as dobras de uma roupa)",
+      "answer": "DRAPEAR",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Lamento triste e doloroso",
+      "answer": "AI",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Um produto químico para análises",
+      "answer": "REAGENTE",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Homem mecânico",
+      "answer": "ROBO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "O ator carioca Daniel",
+      "answer": "DANTAS",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Lustrar (assoalhos)",
+      "answer": "ENCERAR",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Palavra latina que significa no mesmo lugar",
+      "answer": "IBIDEM",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Uma iguaria como o quindim ou o pé de moleque",
+      "answer": "DOCE",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Norma de conduta",
+      "answer": "DIRETIVA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Humberto Carrão, ator",
+      "answer": "HC",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Branco-azulado",
+      "answer": "OPALINO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "(Por um) Por um triz",
+      "answer": "FIO",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "O ator Harris, de \"A Rocha\"",
+      "answer": "ED",
+      "row": 9,
+      "col": 1
+    },
+    "33": {
+      "clue": "O estilista Klein",
+      "answer": "CALVIN",
+      "row": 9,
+      "col": 4
+    },
+    "35": {
+      "clue": "Habituar",
+      "answer": "ACOSTUMAR",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Pequena fazenda",
+      "answer": "SITIO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Que não passou por nenhum preparo ou processo",
+      "answer": "CRU",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A substância que enche os pulmões",
+      "answer": "AR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Material usado em pescarias e caçadas",
+      "answer": "REDE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Cidade do noroeste de MG",
+      "answer": "PARADEMINAS",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Cobrir de águas",
+      "answer": "ALAGAR",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Em direção à parte interior de",
+      "answer": "ADENTRO",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "Um animal como a Margarida, da Disney",
+      "answer": "PATA",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Grito característico do elefante",
+      "answer": "BARRIDO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Alma) Indivíduo desorientado, que não sabe para onde ir nem o que fazer",
+      "answer": "PENADA",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Extremamente desprovido de umidade",
+      "answer": "RESSECO",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Um tipo de poema",
+      "answer": "RONDEL",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Região adjacente",
+      "answer": "BEIRADA",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Incrédulo",
+      "answer": "CETICO",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Um sinal sonoro produzido por aparelho eletrônico",
+      "answer": "BIPE",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "País que faz fronteira com Rússia e Índia",
+      "answer": "CHINA",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Unidade de medida da energia elétrica",
+      "answer": "VOLT",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Término da existência de algo",
+      "answer": "FIM",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "(Déjà) Sensação de já ter vivido algo",
+      "answer": "VU",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

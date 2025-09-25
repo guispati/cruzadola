@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Intangível, intocável",
+      "answer": "INTATIL",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Big Brother Brasil",
+      "answer": "BBB",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Conflito envolvendo várias pessoas",
+      "answer": "RUAÇA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Vogais ao contrário",
+      "answer": "UOIEA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "(Fig.) Vínculo, ligação",
+      "answer": "LAÇO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O matemático Blaise (1623-1662), do cálculo das probabilidades",
+      "answer": "PASCAL",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Planta picante usada como condimento",
+      "answer": "AIPO",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Busca",
+      "answer": "CATA",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Ney Latorraca, ator",
+      "answer": "NL",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "(Pop.) Bater, surrar",
+      "answer": "TASCAR",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Digestivo",
+      "answer": "DIGESTOR",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Sigla de um estado que faz divisa com MG e ES",
+      "answer": "BA",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Abreviatura do quarto mês do ano",
+      "answer": "ABR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Outro nome do camundongo",
+      "answer": "CATITO",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "Agitar dando voltas",
+      "answer": "REVOLUTEAR",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "Costume esquisito, peculiar",
+      "answer": "MANIA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Face",
+      "answer": "ROSTO",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "O cineasta e ator estadunidense Woody, de \"O Escorpião de Jade\"",
+      "answer": "ALLEN",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Pronome que indica pessoa certa, mas não expressa diretamente",
+      "answer": "TAL",
+      "row": 9,
+      "col": 8
+    },
+    "36": {
+      "clue": "Molusco marítimo do qual se extrai a tinta chamada sépia",
+      "answer": "LULA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Ritmo espanhol de música e dança",
+      "answer": "BOLERO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Dublin é a capital deste país europeu",
+      "answer": "IRLANDA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Privada de vestuários",
+      "answer": "NUA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Copo usado para beber champanhe",
+      "answer": "TAÇA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Chicote com tiras de couro",
+      "answer": "AÇOITE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O tântalo, em química",
+      "answer": "TA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "A meta alcançada pelos astronautas em 1969",
+      "answer": "LUA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Comer ou beber (diz-se de ave)",
+      "answer": "BICAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Compasso quaternário acentuado, principal característica do rock",
+      "answer": "BEAT",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Canção pop romântica, de ritmo lento",
+      "answer": "BALADA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Um dos mais populares cômicos do Brasil (1906-1970)",
+      "answer": "OSCARITO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "O P do CEP",
+      "answer": "POSTAL",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "O monte baiano avistado por Pedro Álvares Cabral",
+      "answer": "PASCOAL",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Signo do zodíaco, entre 23 de setembro e 22 de outubro",
+      "answer": "LIBRA",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Bota de soldado",
+      "answer": "COTURNO",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Abreviatura do clássico gaúcho de futebol",
+      "answer": "GRENAL",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Propalar notícias infundadas",
+      "answer": "BOATAR",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Prova",
+      "answer": "TESTE",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "A Sésamo foi uma série de TV, com personagens como Garibaldo e Caco",
+      "answer": "VILA",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Cilindro compressor",
+      "answer": "ROLO",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Fluido açucarado produzido por abelhas",
+      "answer": "MEL",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Eduardo Bueno, jornalista e escritor",
+      "answer": "EB",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

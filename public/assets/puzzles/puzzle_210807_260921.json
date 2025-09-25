@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Inseto em formação",
+      "answer": "LARVA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Embocadura de rio",
+      "answer": "FOZ",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Cidade litorânea da zona cacaueira da Bahia",
+      "answer": "UNA",
+      "row": 1,
+      "col": 0
+    },
+    "9": {
+      "clue": "Pode ser elástica",
+      "answer": "MEIA",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Quociente Intelectual",
+      "answer": "QI",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Que provoca admiração",
+      "answer": "PASMOSO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Interj.: dúvida",
+      "answer": "HUM",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Uma conjunção explicativa",
+      "answer": "POIS",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "A armação de fios da aranha",
+      "answer": "TEIA",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Um poema musical",
+      "answer": "CANTABILE",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Que rouba (fem.)",
+      "answer": "LADRA",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "O pequeno instrumento de sopro usado pelo juiz de futebol",
+      "answer": "APITO",
+      "row": 5,
+      "col": 6
+    },
+    "21": {
+      "clue": "Especulativo",
+      "answer": "TEORETICO",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Tecido leve",
+      "answer": "TULE",
+      "row": 7,
+      "col": 0
+    },
+    "24": {
+      "clue": "A parte que inicia o intestino grosso",
+      "answer": "CECO",
+      "row": 7,
+      "col": 5
+    },
+    "26": {
+      "clue": "Atleta que atua pela lateral",
+      "answer": "ALA",
+      "row": 8,
+      "col": 0
+    },
+    "27": {
+      "clue": "João Pessoa é sua capital",
+      "answer": "PARAIBA",
+      "row": 8,
+      "col": 4
+    },
+    "29": {
+      "clue": "Interjeição própria para espantar aves",
+      "answer": "XO",
+      "row": 9,
+      "col": 0
+    },
+    "30": {
+      "clue": "Comissão julgadora",
+      "answer": "JURI",
+      "row": 9,
+      "col": 3
+    },
+    "31": {
+      "clue": "Em consequência",
+      "answer": "DAI",
+      "row": 9,
+      "col": 8
+    },
+    "32": {
+      "clue": "Entre Sex e Dom",
+      "answer": "SAB",
+      "row": 10,
+      "col": 2
+    },
+    "33": {
+      "clue": "Palavra usada em despedidas",
+      "answer": "ADEUS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Lente de aumento",
+      "answer": "LUPA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A Maria Braga da TV",
+      "answer": "ANA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Desbaste pouco profundo",
+      "answer": "RASPADELA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Esconder",
+      "answer": "AMOITAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Cabo usado em telefonia",
+      "answer": "FIO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "As iniciais do político Aranha (1894-1960)",
+      "answer": "OA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Uma laranja agridoce",
+      "answer": "LIMA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Aquela mulher",
+      "answer": "ESSA",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Que não se move",
+      "answer": "QUIETO",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "A Marilyn atriz (1926-1962)",
+      "answer": "MONROE",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Em caracol",
+      "answer": "HELICOIDE",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Característica",
+      "answer": "TIPICA",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "(da Paixão Cearense) O poeta de \"Luar do Sertão\"",
+      "answer": "CATULO",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "Pilha eletroquímica",
+      "answer": "BATERIA",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Avisar gritando",
+      "answer": "ECAR",
+      "row": 6,
+      "col": 5
+    },
+    "23": {
+      "clue": "Encargo",
+      "answer": "TAXA",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Com adição de",
+      "answer": "MAIS",
+      "row": 7,
+      "col": 10
+    },
+    "27": {
+      "clue": "O típico bar dos ingleses",
+      "answer": "PUB",
+      "row": 8,
+      "col": 4
+    },
+    "28": {
+      "clue": "Uma grande caixa com tampa",
+      "answer": "BAU",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "José Aldo, lutador de MMA",
+      "answer": "JA",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

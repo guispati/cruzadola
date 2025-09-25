@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Emparedar",
+      "answer": "MURAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "A atriz e apresentadora carioca Guimarães",
+      "answer": "CISSA",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Lista de itens oferecidos em um restaurante",
+      "answer": "MENU",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Era hoje até hoje",
+      "answer": "ONTEM",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Abastecer (os engenhos) de canas-de-açúcar para os plantios",
+      "answer": "SEMENTAR",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Preso, unido",
+      "answer": "AFIXO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Pequena sela rasa",
+      "answer": "SELIM",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Completo",
+      "answer": "TODO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Um molusco de concha muito ornamentada",
+      "answer": "MURICE",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "A letra 6",
+      "answer": "EFE",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "O músico baiano Zé",
+      "answer": "TOM",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Pelados, despidos",
+      "answer": "NUS",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Volteador",
+      "answer": "RONDADOR",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Luiz Melodia, músico",
+      "answer": "LM",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Pico",
+      "answer": "CUME",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Pronome demonstrativo feminino",
+      "answer": "ESTA",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Aparelho que determina grau de acidez",
+      "answer": "ACIDIMETRO",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Um naipe preto das cartas de jogar",
+      "answer": "PAUS",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "Bastão usado por antigos reis",
+      "answer": "CETRO",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "Uma forma de abreviar o nome do mês 7",
+      "answer": "JUL",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "(dos Reis) A cidade fluminense das usinas atômicas",
+      "answer": "ANGRA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "1",
+      "answer": "UM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Diz-se de bairro, região destinada a construção de casas",
+      "answer": "RESIDENCIAL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Anat.) Parte acessória de uma estrutura principal",
+      "answer": "ANEXO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Direção",
+      "answer": "RUMO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Ação de usar, gastar",
+      "answer": "CONSUMO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Prefixo: entre, no meio de",
+      "answer": "INTER",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O ditador georgiano Joseph (1879-1953)",
+      "answer": "STALIN",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Que cultiva seda ou desenvolve essa atividade",
+      "answer": "SERICULTOR",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "(Rád.) Amplitude Modulada",
+      "answer": "AM",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Instrumento de banda de rock",
+      "answer": "BATERIA",
+      "row": 2,
+      "col": 0
+    },
+    "16": {
+      "clue": "Macio",
+      "answer": "FOFO",
+      "row": 3,
+      "col": 1
+    },
+    "18": {
+      "clue": "Que é exatamente igual a outra",
+      "answer": "MESMA",
+      "row": 3,
+      "col": 10
+    },
+    "20": {
+      "clue": "Aparelho para transmissão de dados",
+      "answer": "MODEM",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "O rio que banha Londres, na Inglaterra",
+      "answer": "TAMISA",
+      "row": 5,
+      "col": 4
+    },
+    "25": {
+      "clue": "O sambista carioca Nobre",
+      "answer": "DUDU",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Conservar",
+      "answer": "RETER",
+      "row": 6,
+      "col": 7
+    },
+    "30": {
+      "clue": "Abreviatura de senhorita",
+      "answer": "SRTA",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "(Ingl., inform.) Unidade Central de Processamento",
+      "answer": "CPU",
+      "row": 8,
+      "col": 1
+    },
+    "33": {
+      "clue": "Abreviatura de eletrocardiograma",
+      "answer": "ECG",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "A conjunção que sugere opção",
+      "answer": "OU",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

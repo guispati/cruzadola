@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Repercutir, soando ou ressoando",
+      "answer": "PULSAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Microprocessador, elemento essencial de um computador",
+      "answer": "CHIP",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Roedor comum em grandes centros urbanos",
+      "answer": "RATO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Mostrar",
+      "answer": "EXIBIR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Pois não!",
+      "answer": "OI",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Homem que não tem morada fixa e vive de expedientes",
+      "answer": "CIGANO",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Relacionado, ligado",
+      "answer": "CONEXO",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Eddie Murphy, ator de \"As Mil Palavras\"",
+      "answer": "EM",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Interjeição de alegria, admiração",
+      "answer": "EBA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Marcado (palavra ou número) destacando o trecho",
+      "answer": "GRIFADO",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Descida de um paredão com a ajuda de cordas e mosquetões",
+      "answer": "RAPEL",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Red.) Saia que deixa parte da coxa à mostra",
+      "answer": "MINI",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Tempo livre de compromissos",
+      "answer": "LAZER",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Jogo que usa cartelas numeradas de 1 a 90",
+      "answer": "LOTO",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Bastonete usado para escrever em lousas",
+      "answer": "GIZ",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Prejudicar intencional e, em geral, clandestinamente",
+      "answer": "SABOTAR",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "As letras extremas do nosso alfabeto",
+      "answer": "AZ",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Peça de roupa mais usada por mulheres do que por homens",
+      "answer": "SAIA",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "O Babá herói das \"Mil e Uma Noites\"",
+      "answer": "ALI",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "A Coutinho jornalista e apresentadora",
+      "answer": "MAJU",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Antecedem o E",
+      "answer": "ABCD",
+      "row": 9,
+      "col": 5
+    },
+    "39": {
+      "clue": "O menor que perdeu um ou ambos os pais",
+      "answer": "ORFÃO",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Exceto",
+      "answer": "AFORA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Abastecer",
+      "answer": "PROVER",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Interjeição que exprime espanto",
+      "answer": "UAI",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Leon Tolstói (1828-1910), romancista e filósofo russo",
+      "answer": "LT",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Tapa de mão fechada",
+      "answer": "SOCO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Dirigir uma orquestra",
+      "answer": "REGER",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Criador e conhecedor de cães",
+      "answer": "CINOFILO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Canal de filmes da TV paga",
+      "answer": "HBO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Dois, em algarismos romanos",
+      "answer": "II",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Instrumento para indicar a direção vertical",
+      "answer": "PRUMO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Uma base para orquídeas",
+      "answer": "XAXIM",
+      "row": 1,
+      "col": 6
+    },
+    "15": {
+      "clue": "(Chave) Uma ferramenta",
+      "answer": "INGLESA",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Qualificado para o desempenho de certa função",
+      "answer": "CAPAZ",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Aviso público da realização de ato administrativo ou judicial",
+      "answer": "EDITAL",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Limitar, demarcar",
+      "answer": "BALIZAR",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Registrado",
+      "answer": "ANOTADO",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Sufixo que denota qualidade",
+      "answer": "EZ",
+      "row": 5,
+      "col": 3
+    },
+    "26": {
+      "clue": "Em competições de natação, cada divisão de uma piscina",
+      "answer": "RAIA",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Divindade do candomblé",
+      "answer": "ORIXA",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Animal semelhante a um veado",
+      "answer": "GAMO",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "A profissional que cuida de crianças",
+      "answer": "BABA",
+      "row": 7,
+      "col": 6
+    },
+    "33": {
+      "clue": "Vértebra de suíno, usada na alimentação",
+      "answer": "SUÃ",
+      "row": 8,
+      "col": 3
+    },
+    "36": {
+      "clue": "Justiça Federal",
+      "answer": "JF",
+      "row": 9,
+      "col": 2
+    },
+    "38": {
+      "clue": "Custo e frete",
+      "answer": "CF",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

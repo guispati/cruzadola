@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "País com capital N'Djamena",
+      "answer": "CHADE",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Friday) Um dia de descontos no comércio",
+      "answer": "BLACK",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Rota regular de aviões comerciais",
+      "answer": "AEROVIA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Um grande animal mamífero",
+      "answer": "BOI",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "Luta",
+      "answer": "BRIGA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Time pernambucano de futebol",
+      "answer": "SPORT",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Uma letra que pode valer mil",
+      "answer": "EME",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "O planeta depois de Urano",
+      "answer": "NETUNO",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Sentimento de insatisfação",
+      "answer": "DESAGRADO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Uma carta do baralho",
+      "answer": "AS",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Colina",
+      "answer": "CERRO",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Característica que encanta, charme",
+      "answer": "IT",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Local onde se realizam provas de ciclismo",
+      "answer": "VELODROMO",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "A atriz Fraga",
+      "answer": "DENISE",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Grau de intensidade de um som",
+      "answer": "TOM",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Que se movimenta com rapidez",
+      "answer": "VELOZ",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Dinâmica",
+      "answer": "ATIVA",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "A terceira pessoa gramatical (fem.)",
+      "answer": "ELA",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "A cavidade com as vísceras",
+      "answer": "ABDOMEN",
+      "row": 9,
+      "col": 4
+    },
+    "33": {
+      "clue": "Retornar ao 0",
+      "answer": "ZERAR",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Pedra de reflexos iridescentes",
+      "answer": "OPALA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Experiência, conhecimento",
+      "answer": "CABEDAL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O da Fonseca, político e militar gaúcho (1855-1923), ex-presidente do Brasil",
+      "answer": "HERMES",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O signo que vai de 21 de março a 20 de abril",
+      "answer": "ARIES",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Hot) Um lanche de pão com salsicha",
+      "answer": "DOG",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Converter ao Cristianismo",
+      "answer": "EVANGELIZAR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Degenerado",
+      "answer": "BASTARDEADO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Perdão por ausência ao trabalho",
+      "answer": "ABONO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Coral musical",
+      "answer": "CORO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Pode ser de primeiros socorros",
+      "answer": "KIT",
+      "row": 0,
+      "col": 10
+    },
+    "14": {
+      "clue": "Vergonha",
+      "answer": "PUDOR",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Enganos, equívocos",
+      "answer": "ERROS",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Sinal que se faz para alguém",
+      "answer": "ACENO",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Móvel reclinável com colchão, que pode servir de leito",
+      "answer": "OTOMANA",
+      "row": 4,
+      "col": 10
+    },
+    "23": {
+      "clue": "Propriedade como um terreno ou um apartamento",
+      "answer": "IMOVEL",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Passar a noite junto a um falecido",
+      "answer": "VELAR",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Muito boa",
+      "answer": "OTIMA",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Daquele homem",
+      "answer": "DELE",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Cada ocasião de um tempo que se repete",
+      "answer": "VEZ",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "A model é a que desfila na alta moda",
+      "answer": "TOP",
+      "row": 8,
+      "col": 7
+    }
+  }
+}

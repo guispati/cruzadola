@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um licor de origem africana",
+      "answer": "AMARULA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "(Abrev.) A vacina contra a tuberculose",
+      "answer": "BCG",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Pelo da orla das pálpebras",
+      "answer": "CILIO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Celeiro",
+      "answer": "PAIOL",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Que é branco",
+      "answer": "ALVO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Um famoso goleiro do futebol brasileiro",
+      "answer": "CASSIO",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Do abaixo-assinado",
+      "answer": "MEU",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "(Abrir as) Ajudar, facilitar a obtenção de algo",
+      "answer": "PORTAS",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Dar cambalhotas",
+      "answer": "PIRUETAR",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Astatínio, para os químicos",
+      "answer": "AT",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Tirar do lugar",
+      "answer": "ARREDAR",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Raios Xis",
+      "answer": "RX",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Pop.) Bofetada ou chute violento",
+      "answer": "TIJOLADA",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Unir pela amizade",
+      "answer": "AMIGAR",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Satisfatório, adequado",
+      "answer": "BOM",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Estampido",
+      "answer": "FRAGOR",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Aquele que substitui o presidente ou o titular de um cargo",
+      "answer": "VICE",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Bispos, torres e peões, como parte do xadrez",
+      "answer": "PEÇAS",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Da velhice",
+      "answer": "SENIL",
+      "row": 9,
+      "col": 6
+    },
+    "34": {
+      "clue": "Um prato com partes do porco",
+      "answer": "SUÃ",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Fruto semelhante à cereja",
+      "answer": "ACEROLA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Usar barracas ao ar livre",
+      "answer": "ACAMPAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O Javier presidente argentino",
+      "answer": "MILEI",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Brancura",
+      "answer": "ALVURA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O R do RN",
+      "answer": "RIO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Fundo de vácuo",
+      "answer": "UO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Aquele que desbasta, corta o excesso de",
+      "answer": "APARADOR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Pop.) A mãe da mãe da mãe",
+      "answer": "BISA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O que acontece",
+      "answer": "COISA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Garantia da Lei e da Ordem",
+      "answer": "GLO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "(Alto-) Diz-se de ocasião que proporciona o bem, positiva",
+      "answer": "ASTRAL",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Pôr em paralelo",
+      "answer": "COTEJAR",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Que pode ter risco (curva etc.)",
+      "answer": "PERIGOSA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Planta de folhas irritantes",
+      "answer": "URTIGA",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Fechadura rudimentar",
+      "answer": "TRAMELA",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "O chefe de uma sinagoga",
+      "answer": "RABINO",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Peixe também chamado guaracema",
+      "answer": "XAREU",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Que se submete sem oferecer resistência",
+      "answer": "DOCIL",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "(do rosto) A parte saliente da face, abaixo dos olhos, formada pelo osso malar",
+      "answer": "MAÇÃ",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Fator de Proteção Solar",
+      "answer": "FPS",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Olhar",
+      "answer": "VER",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Sigla de Sergipe",
+      "answer": "SE",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

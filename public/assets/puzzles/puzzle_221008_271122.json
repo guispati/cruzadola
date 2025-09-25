@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cuspo",
+      "answer": "SALIVA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "A forma do principal ingrediente da omelete",
+      "answer": "OVAL",
+      "row": 0,
+      "col": 7
+    },
+    "11": {
+      "clue": "Que tem a forma de um corpo alongado e roliço",
+      "answer": "CILINDRICO",
+      "row": 1,
+      "col": 1
+    },
+    "13": {
+      "clue": "Tempero usado na conservação da carne e do peixe",
+      "answer": "SAL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Abrasar",
+      "answer": "ATEAR",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Servir-se de",
+      "answer": "USAR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Casamento",
+      "answer": "ENLACE",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Depositar dinheiro de aposta",
+      "answer": "CASAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Gír.) Agente de polícia",
+      "answer": "TIRA",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Orígenes Lessa (1903-1986), escritor",
+      "answer": "OL",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Ferramenta para agarrar pregos",
+      "answer": "TENAZ",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "As iniciais do cantor Carlos, de \"Eu Sou Terrível\"",
+      "answer": "RC",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Eficiente",
+      "answer": "AGIL",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "A lima do carpinteiro",
+      "answer": "RASPA",
+      "row": 6,
+      "col": 6
+    },
+    "30": {
+      "clue": "Antecipar o futuro",
+      "answer": "PREVER",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Desmoronar",
+      "answer": "RUIR",
+      "row": 7,
+      "col": 7
+    },
+    "33": {
+      "clue": "Notícias de fato recente",
+      "answer": "NOVAS",
+      "row": 8,
+      "col": 2
+    },
+    "35": {
+      "clue": "Que foi ou se foi",
+      "answer": "IDO",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "O sabor deixado na boca pelo vinho após alguns instantes de deglutido",
+      "answer": "RETROGOSTO",
+      "row": 9,
+      "col": 0
+    },
+    "39": {
+      "clue": "Substância gordurosa em estado líquido",
+      "answer": "OLEO",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Ferida ou chaga",
+      "answer": "ULCERA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Juntar macho e fêmea para procriação",
+      "answer": "ACASALAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Tom claro do roxo",
+      "answer": "LILAS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Ivan Lins, músico de \"Madalena\"",
+      "answer": "IL",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A férrea é um caminho para trens",
+      "answer": "VIA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Em frente de",
+      "answer": "ANTE",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Tornar pronunciado (por oposição a escrito)",
+      "answer": "ORALIZAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Despejar, entornar",
+      "answer": "VIRAR",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "As iniciais da cantora e compositora Calcanhotto",
+      "answer": "AC",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Terreno de pequenas dimensões, urbano ou rural",
+      "answer": "LOTE",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Morder",
+      "answer": "DENTAR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Líquido nutritivo extraído de frutas",
+      "answer": "SUCO",
+      "row": 2,
+      "col": 0
+    },
+    "16": {
+      "clue": "Um animal como o gato (em relação à sua presa)",
+      "answer": "RATIVORO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Aquele que arranca ervas daninhas",
+      "answer": "CARPIDOR",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "Altos e baixos de uma região",
+      "answer": "RELEVO",
+      "row": 4,
+      "col": 4
+    },
+    "25": {
+      "clue": "O contrário de barato",
+      "answer": "CARO",
+      "row": 5,
+      "col": 10
+    },
+    "27": {
+      "clue": "Povo",
+      "answer": "GENTE",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "Quarto com banheiro anexo",
+      "answer": "SUITE",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "Furinho por onde a pele respira",
+      "answer": "PORO",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Ensopado de carne com legumes, em molho abundante",
+      "answer": "RAGU",
+      "row": 7,
+      "col": 5
+    },
+    "34": {
+      "clue": "A quinta nota musical",
+      "answer": "SOL",
+      "row": 8,
+      "col": 6
+    },
+    "37": {
+      "clue": "(Greco) Um famoso pintor nascido na ilha de Creta",
+      "answer": "EL",
+      "row": 9,
+      "col": 1
+    },
+    "38": {
+      "clue": "Sigla de um estado sulino",
+      "answer": "SC",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

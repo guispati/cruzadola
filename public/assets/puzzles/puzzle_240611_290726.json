@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Sustentar, firmar",
+      "answer": "APOIAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Recipiente para pomadas",
+      "answer": "POTE",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "(Ingl.) O ene de NY",
+      "answer": "NEW",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Grande rio do MT e PA",
+      "answer": "TAPAJOS",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Jornal Nacional",
+      "answer": "JN",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O violonista e compositor Powell (1937-2000)",
+      "answer": "BADEN",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Nelson Freire (1944-2021), pianista",
+      "answer": "NF",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Dar forma octogonal a",
+      "answer": "OITAVAR",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Adeus, em inglês",
+      "answer": "BYE",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Planta considerada uma das piores ervas daninhas",
+      "answer": "TIRIRICA",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Bastão de apoio usado outrora pelos reis e generais",
+      "answer": "CETRO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Negação absoluta",
+      "answer": "NUNCA",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Cada um dos sete amiguinhos da Branca de Neve",
+      "answer": "ANÃO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(-fumaça) Locomotiva a vapor",
+      "answer": "MARIA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Mil e cem, em romanos",
+      "answer": "MC",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Acordos, pactos",
+      "answer": "TRATADOS",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Uma tradicional forma de se servir carne",
+      "answer": "BIFEACAVALO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Interjeição que indica grande admiração ou surpresa",
+      "answer": "UAU",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Embarcação a remos e velas, usada na Antiguidade pelos gregos",
+      "answer": "GALE",
+      "row": 9,
+      "col": 4
+    },
+    "34": {
+      "clue": "(Quím.) O símbolo do háfnio",
+      "answer": "HF",
+      "row": 9,
+      "col": 9
+    },
+    "35": {
+      "clue": "País árabe com capital Bagdá",
+      "answer": "IRAQUE",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "(Serra) Pequeno país africano rico em diamantes",
+      "answer": "LEOA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Fig.) Criança quieta, tranquila",
+      "answer": "ANJO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Pagar (pecado, falta, crime)",
+      "answer": "PENITENCIAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "As iniciais do ator e cineasta Orson (1915-1985), de \"Cidadão Kane\"",
+      "answer": "OW",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Ornato",
+      "answer": "ATAVIO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Equipamento usado para detectar veículos em velocidade acima do permitido",
+      "answer": "RADAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O Peter que desafia o Capitão Gancho na história infantil",
+      "answer": "PAN",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Dir.) Orientações Jurisprudenciais",
+      "answer": "OJ",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O músico Bellotto, dos \"Titãs\"",
+      "answer": "TONY",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Fig.) Área em que se exerce autoridade, poder ou atribuições",
+      "answer": "ESFERA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Diz-se dos períodos imediatamente anterior e posterior ao parto",
+      "answer": "PERINATAL",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Viga",
+      "answer": "BARROTE",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "(Fig.) Guindaste de grande potência",
+      "answer": "TITÃ",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Expulsa",
+      "answer": "BANIDA",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Que se pode sanar (uma doença)",
+      "answer": "CURAVEL",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Arvoreta brasileira de frutos comestíveis",
+      "answer": "CAMBUI",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Torto de uma das vistas",
+      "answer": "CAOLHO",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Cidade do RJ",
+      "answer": "MACAE",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Ensopado de carne",
+      "answer": "RAGU",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Móvel ideal para assistir TV",
+      "answer": "SOFA",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "(Pop.) Conflito, briga",
+      "answer": "FUA",
+      "row": 8,
+      "col": 2
+    }
+  }
+}

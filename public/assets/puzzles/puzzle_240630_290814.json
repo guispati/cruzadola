@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Outro nome do jumento",
+      "answer": "ASNO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Ingl.) Dispositivo eletrônico portátil",
+      "answer": "GADGET",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Uma ilha da Nova Zelândia, no Pacífico",
+      "answer": "CAMPBELL",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Um apelido para Juliana",
+      "answer": "JU",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Usain Bolt, atleta",
+      "answer": "UB",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O dinheiro japonês",
+      "answer": "IENE",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Abrev.: Medicina",
+      "answer": "MED",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Suco congelado num saquinho plástico",
+      "answer": "SACOLE",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Pref.: inferior",
+      "answer": "SOTO",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "(Esp.) Diz-se de partida que não é válida para um torneio",
+      "answer": "AMISTOSA",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Jovem",
+      "answer": "RAPAZ",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Abundantemente produtivo",
+      "answer": "UBERE",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Que se pode mover de um lado para outro",
+      "answer": "MENEAVEL",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Tecido leve e transparente",
+      "answer": "FILO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Um instrumento musical de percussão",
+      "answer": "MARACA",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "Patroa",
+      "answer": "AMA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Aba de boné",
+      "answer": "PALA",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Al Pacino, ator norte-americano de \"Amigos Inseparáveis\"",
+      "answer": "AP",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "A nota musical F",
+      "answer": "FA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Abandono voluntário de um direito",
+      "answer": "RENUNCIA",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "A dentária fica na boca",
+      "answer": "ARCADA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Aniversário",
+      "answer": "ANOS",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Incriminar",
+      "answer": "ACUSAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um descanso religioso dos judeus",
+      "answer": "SABA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Nelson Mandela (1918-2013), político sul-africano",
+      "answer": "NM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Que apresenta dependência de uma droga usada na produção de morfina",
+      "answer": "OPIOMANO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Biol.) Os fatores dos caracteres hereditários",
+      "answer": "GENES",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Cerveja fabricada com malte pouco torrado",
+      "answer": "ALE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Abrev.) Decilitro",
+      "answer": "DL",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Expelir",
+      "answer": "EJETAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Faz-) Indivíduo que se dedica a vários ofícios",
+      "answer": "TUDO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "A nação de Belmopan",
+      "answer": "BELIZE",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Rio da França, Luxemburgo e Alemanha, afluente do Reno",
+      "answer": "MOSELA",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Lugar para se fazer orações",
+      "answer": "CAPELA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Aquela que tem grande influência ou poder",
+      "answer": "SOBERANA",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "País cuja capital é Fongafale",
+      "answer": "TUVALU",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Atrair com agrado ou promessas, cativar com ternura",
+      "answer": "AMIMAR",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Fases",
+      "answer": "ETAPAS",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Outro nome do aruaná, peixe da Amazônia",
+      "answer": "AMANA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "A cantora de Belém",
+      "answer": "FAFA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "O jornalista paulista Blinder",
+      "answer": "CAIO",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "O que transforma risco em pedrisco",
+      "answer": "PED",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "Renato Aragão, humorista",
+      "answer": "RA",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "O símbolo químico do cianogênio",
+      "answer": "CN",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

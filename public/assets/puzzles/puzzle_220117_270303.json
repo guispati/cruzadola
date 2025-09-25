@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Peixe parecido com a piranha",
+      "answer": "PACU",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Urgência",
+      "answer": "PRESSA",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Atração recíproca",
+      "answer": "AFINIDADE",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Uma das maiores serpentes",
+      "answer": "PITON",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Castigar",
+      "answer": "PUNIR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "A décima terceira hora",
+      "answer": "UMA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Grave forma de conjuntivite",
+      "answer": "TRACOMA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Molusco marinho comestível",
+      "answer": "VIEIRA",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Interjeição de dor",
+      "answer": "AI",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Tecido pesado, muito usado para roupas jeans",
+      "answer": "DENIM",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "A linha sem curvas",
+      "answer": "RETA",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "Dizer palavras sem nexo",
+      "answer": "DELIRAR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Fluido açucarado, produzido por abelhas",
+      "answer": "MEL",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Administração Fazendária",
+      "answer": "AF",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Precisar",
+      "answer": "CARECER",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Determinar a extensão",
+      "answer": "MEDIR",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Corrosão dos dentes",
+      "answer": "CARIE",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "O continente com a Grande Muralha",
+      "answer": "ASIA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Objeto qualquer (pl.)",
+      "answer": "COISAS",
+      "row": 9,
+      "col": 5
+    },
+    "36": {
+      "clue": "Pavimento de madeira",
+      "answer": "SOALHO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Sem vigor",
+      "answer": "MOLE",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Erva forrageira, também chamada capim-marmelada",
+      "answer": "PAPUÃ",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Próximo",
+      "answer": "AFIM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Digno de ser transcrito",
+      "answer": "CITAVEL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um jogo de cartas com números e cores",
+      "answer": "UNO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Patrick Dempsey, ator",
+      "answer": "PD",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Deixar careca",
+      "answer": "RAPAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Formar o caráter de",
+      "answer": "EDUCAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Matem.) Sen",
+      "answer": "SENO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Vilarejo",
+      "answer": "ARRAIAL",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Completar",
+      "answer": "INTEIRAR",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Espiritual",
+      "answer": "IMATERIAL",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Combinar casamento com lamento",
+      "answer": "RIMAR",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "A primeira letra de uma palavra",
+      "answer": "INICIAL",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Que não é permitido",
+      "answer": "DEFESO",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Que veio à tona da água",
+      "answer": "EMERSO",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Um jogo",
+      "answer": "DAMAS",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Soldado recém-incorporado",
+      "answer": "RECO",
+      "row": 6,
+      "col": 6
+    },
+    "29": {
+      "clue": "(Bíbl.) O primeiro filho de Adão e Eva",
+      "answer": "CAIM",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "O D é o escolhido para a realização de algo muito importante",
+      "answer": "DIA",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "Abreviatura do ponto cardeal és-sudeste",
+      "answer": "ESE",
+      "row": 8,
+      "col": 10
+    },
+    "35": {
+      "clue": "O símbolo químico do cobalto",
+      "answer": "CO",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ranger por falta de óleo",
+      "answer": "CHIAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(À) Uma forma de servir o arroz",
+      "answer": "GREGA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Brinde",
+      "answer": "CORTESIA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Responsável Técnico",
+      "answer": "RT",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "901, em algarismos romanos",
+      "answer": "CMI",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Matar com tiro de arma de fogo",
+      "answer": "FUZILAR",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Plutônio, elemento químico",
+      "answer": "PU",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Serviço de Inspeção Federal",
+      "answer": "SIF",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Extensão de território com características que o distinguem dos demais",
+      "answer": "ZONA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Prova de esqui feita em percurso sinuoso entre obstáculos",
+      "answer": "SLALOM",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Xe ou Rn",
+      "answer": "GAS",
+      "row": 4,
+      "col": 8
+    },
+    "24": {
+      "clue": "Um fruto que possui coroa",
+      "answer": "ABACAXI",
+      "row": 5,
+      "col": 2
+    },
+    "26": {
+      "clue": "Órgão que consulta crédito",
+      "answer": "SPC",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Tradicional time do futebol argentino",
+      "answer": "RACING",
+      "row": 6,
+      "col": 4
+    },
+    "30": {
+      "clue": "Trabalho, em inglês",
+      "answer": "WORK",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Agnus) Um cântico da missa",
+      "answer": "DEI",
+      "row": 7,
+      "col": 5
+    },
+    "33": {
+      "clue": "Robert Plant, roqueiro do \"Led Zeppelin\"",
+      "answer": "RP",
+      "row": 7,
+      "col": 9
+    },
+    "35": {
+      "clue": "Aquele que refina açúcar",
+      "answer": "AREADOR",
+      "row": 8,
+      "col": 0
+    },
+    "37": {
+      "clue": "Misericordiosa, caridosa",
+      "answer": "BOA",
+      "row": 8,
+      "col": 8
+    },
+    "38": {
+      "clue": "Luiza Trajano, empresária",
+      "answer": "LT",
+      "row": 9,
+      "col": 0
+    },
+    "39": {
+      "clue": "Um típico doce italiano",
+      "answer": "TIRAMISU",
+      "row": 9,
+      "col": 3
+    },
+    "41": {
+      "clue": "(Pra) Expressão popular que significa muito",
+      "answer": "DEDEU",
+      "row": 10,
+      "col": 0
+    },
+    "42": {
+      "clue": "Flores muito usadas em buquês",
+      "answer": "ROSAS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A sigla (em russo) da antiga União Soviética",
+      "answer": "CCCP",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Pasta de sementes de grão-de-bico",
+      "answer": "HOMUS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Outro nome da palmeira brejaúva",
+      "answer": "IRI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Astatínio, elemento químico",
+      "answer": "AT",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Cortar ao longo das margens",
+      "answer": "REFILAR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Bastonete próprio para escrever em quadros-negros",
+      "answer": "GIZ",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Sustenta a planta",
+      "answer": "RAIZ",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Gír.) Dinheiro",
+      "answer": "GRANA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Retardamento",
+      "answer": "ATRASO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Fig.) Opressor",
+      "answer": "SUFOCADOR",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "(Ingl.) Acesso a um programa",
+      "answer": "LOGIN",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Entre Sex e Dom",
+      "answer": "SAB",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Material plástico para vedar garrafas",
+      "answer": "LACRE",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Machucar um corpo para extrair-lhe o suco",
+      "answer": "MACERAR",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "O escritor de Andrade (1890-1954), do Modernismo",
+      "answer": "OSWALD",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "12, em algarismos romanos",
+      "answer": "XII",
+      "row": 5,
+      "col": 7
+    },
+    "27": {
+      "clue": "Aspecto do corpo humano, postura, elegância etc.",
+      "answer": "PORTE",
+      "row": 6,
+      "col": 1
+    },
+    "29": {
+      "clue": "Conjunto de 12 dúzias",
+      "answer": "GROSA",
+      "row": 6,
+      "col": 9
+    },
+    "31": {
+      "clue": "A atriz Winslet, de \"O Amor Não Tira Férias\"",
+      "answer": "KATE",
+      "row": 7,
+      "col": 3
+    },
+    "34": {
+      "clue": "O naipe do trevo",
+      "answer": "PAUS",
+      "row": 7,
+      "col": 10
+    },
+    "36": {
+      "clue": "Dispositivo usado como anticoncepcional",
+      "answer": "DIU",
+      "row": 8,
+      "col": 4
+    },
+    "37": {
+      "clue": "De novo",
+      "answer": "BIS",
+      "row": 8,
+      "col": 8
+    },
+    "40": {
+      "clue": "Cercam o N",
+      "answer": "MO",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

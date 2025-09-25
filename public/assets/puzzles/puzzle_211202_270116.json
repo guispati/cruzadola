@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um prato típico da Bahia",
+      "answer": "VATAPA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Capaz",
+      "answer": "APTO",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Aquele que apresenta para ser aceito",
+      "answer": "OFERECEDOR",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Som para indicar o início e o fim das aulas",
+      "answer": "SINAL",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Rs",
+      "answer": "RISOS",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Estima especial",
+      "answer": "XODO",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "O navegador português da Gama (1469-1524)",
+      "answer": "VASCO",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "Grupo musical somente de canto",
+      "answer": "CORO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Formar par",
+      "answer": "PAREAR",
+      "row": 4,
+      "col": 5
+    },
+    "19": {
+      "clue": "O polo com os pinguins",
+      "answer": "SUL",
+      "row": 5,
+      "col": 4
+    },
+    "20": {
+      "clue": "Os povos que habitam uma grande península asiática",
+      "answer": "ARABES",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Neol.) Post que se multiplica facilmente",
+      "answer": "MEME",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Uma formação de fungos",
+      "answer": "BOLOR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Relação amorosa clandestina",
+      "answer": "CASO",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "Arranhar com a ponta dos dedos",
+      "answer": "UNHAR",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "O contrário de depois",
+      "answer": "ANTES",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "(Fig.) Estimulado, incentivado",
+      "answer": "CATALISADO",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "Prêmio, acúmulo de apostas",
+      "answer": "BOLO",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Libertino",
+      "answer": "IMORAL",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O sujeito de pensais ou entendeis",
+      "answer": "VOS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Preso, unido",
+      "answer": "AFIXO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "No canto, a voz de homem adulto mais alta",
+      "answer": "TENOR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um antiquíssimo instrumento agrícola",
+      "answer": "ARADO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Um fio de barba",
+      "answer": "PELO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Sigla do estado de Cruzeiro do Sul e Rio Branco",
+      "answer": "AC",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Deixar para outra ocasião",
+      "answer": "ADIAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Estado de quem é proprietário de uma coisa",
+      "answer": "POSSE",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Conversão, mudança, transformação",
+      "answer": "TROCA",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Plantação de mate",
+      "answer": "ERVAL",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "O contrário de azar",
+      "answer": "SORTE",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Estouro chocho e imprevisto de foguete malfeito",
+      "answer": "CHABU",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Líquido amarelado de ferida infeccionada",
+      "answer": "PUS",
+      "row": 4,
+      "col": 5
+    },
+    "19": {
+      "clue": "A do Mar se estende desde SC até o RJ",
+      "answer": "SERRA",
+      "row": 5,
+      "col": 4
+    },
+    "21": {
+      "clue": "Barulho alto da respiração no sono",
+      "answer": "RONCO",
+      "row": 6,
+      "col": 1
+    },
+    "22": {
+      "clue": "Plantação de alhos",
+      "answer": "ALHAL",
+      "row": 6,
+      "col": 2
+    },
+    "23": {
+      "clue": "Zunzum, mexerico",
+      "answer": "BOATO",
+      "row": 6,
+      "col": 3
+    },
+    "24": {
+      "clue": "Pacato",
+      "answer": "MANSO",
+      "row": 6,
+      "col": 7
+    },
+    "25": {
+      "clue": "Achar-se presente",
+      "answer": "ESTAR",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Unidade monetária cunhada pelo Estado",
+      "answer": "MOEDA",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "(Bíbl.) O primeiro filho de Adão e Eva",
+      "answer": "CAIM",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "O astro do dia",
+      "answer": "SOL",
+      "row": 8,
+      "col": 10
+    },
+    "33": {
+      "clue": "O lítio, entre os químicos",
+      "answer": "LI",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

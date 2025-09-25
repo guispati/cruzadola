@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "A nouvelle do cinema francês",
+      "answer": "VAGUE",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "A voz de muitos gatos",
+      "answer": "MIADA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Pingente para orelha",
+      "answer": "BRINCO",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "(Ingl.) Ônibus",
+      "answer": "BUS",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "(Pop.) Reprovação em exame",
+      "answer": "PAU",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Transpor, saltando por cima",
+      "answer": "GALGAR",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Esforço incomum",
+      "answer": "LIDA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Variedade de vinha típica de Bordeaux (França)",
+      "answer": "MERLOT",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "(Mil.) Manobra regular para treinar soldados",
+      "answer": "EXERCICIO",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Antônio Olinto (1919-2009), jornalista e poeta",
+      "answer": "AO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "O tabuleiro de xadrez possui 64",
+      "answer": "CASAS",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Sigla do estado de Santa Catarina",
+      "answer": "SC",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "As do Iguaçu situam-se na fronteira entre Brasil, Paraguai e Argentina",
+      "answer": "CATARATAS",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Encher de nós",
+      "answer": "ENODAR",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Fig.) Quem cumpre mecanicamente as ordens recebidas",
+      "answer": "ROBO",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Fábrica de telhas, tijolos etc.",
+      "answer": "OLARIA",
+      "row": 8,
+      "col": 1
+    },
+    "32": {
+      "clue": "O Peter personagem de história infantil",
+      "answer": "PAN",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "(burro) Grande quantidade",
+      "answer": "PRA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Derrapar (o automóvel) nas rodas traseiras",
+      "answer": "RABEAR",
+      "row": 9,
+      "col": 4
+    },
+    "36": {
+      "clue": "O talher com dentes",
+      "answer": "GARFO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Carro off-road produzido até a década de 1970 no Brasil",
+      "answer": "RURAL",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Oposto de acima",
+      "answer": "ABAIXO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Cola feita de farinha de trigo ou de qualquer outro polvilho",
+      "answer": "GRUDE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Palavrinha que expressa dor",
+      "answer": "UI",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O que transforma bala em bengala",
+      "answer": "ENG",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Agir como garoto",
+      "answer": "MOLECAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Tremor de terra",
+      "answer": "ABALO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Difícil de ceder",
+      "answer": "DURO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "As iniciais do ator Schwarzenegger, de \"O Exterminador do Futuro\"",
+      "answer": "AS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Loja de roupas geralmente masculinas",
+      "answer": "CAMISARIA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Por favor, em inglês",
+      "answer": "PLEASE",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Tornar-se cinzento",
+      "answer": "GRISAR",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "A dentária fica na boca",
+      "answer": "ARCADA",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Importante cidade dos EUA, no Arizona",
+      "answer": "TUCSON",
+      "row": 3,
+      "col": 10
+    },
+    "21": {
+      "clue": "Secreção de mucosa inflamada",
+      "answer": "CATARRO",
+      "row": 4,
+      "col": 4
+    },
+    "24": {
+      "clue": "Cidade histórica mineira",
+      "answer": "SABARA",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Receber grau superior",
+      "answer": "COLAR",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Aceitar",
+      "answer": "TOPAR",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Parenta que se opõe à sogra",
+      "answer": "NORA",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "Abril",
+      "answer": "ABR",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Paul Gauguin (1848-1903), pintor francês",
+      "answer": "PG",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "O sujeito de critico ou aceito",
+      "answer": "EU",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

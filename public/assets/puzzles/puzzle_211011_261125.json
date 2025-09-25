@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma constelação boreal",
+      "answer": "ANDROMEDA",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Botequim",
+      "answer": "BAR",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "(Pop.) Gostar de alguém",
+      "answer": "CURTIR",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Nicho para imagens",
+      "answer": "EDICULA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Ingrediente alcoólico da cuba-libre",
+      "answer": "RUM",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Um óleo da culinária",
+      "answer": "CANOLA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "A atriz Fischer",
+      "answer": "VERA",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "(Ingl.) Estojo que abriga um conjunto de peças",
+      "answer": "KIT",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Fibra vegetal áspera e resistente, de boa qualidade",
+      "answer": "SISAL",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Curar",
+      "answer": "SARAR",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Fechar",
+      "answer": "TAPAR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Depois de",
+      "answer": "POS",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "A atriz mineira Valverde",
+      "answer": "ISIS",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Fundamentar",
+      "answer": "BASEAR",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "Peça que sustenta o peso do voo",
+      "answer": "ASA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "O principal rio do Rio Grande do Norte, desemboca na capital do estado",
+      "answer": "POTENGI",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Precede o inverno",
+      "answer": "OUTONO",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "A região de Foz do Iguaçu e da Lagoa dos Patos",
+      "answer": "SUL",
+      "row": 9,
+      "col": 8
+    },
+    "35": {
+      "clue": "Que não se refere a uma pessoa em particular",
+      "answer": "IMPESSOAL",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Região paulista com grande concentração de indústrias",
+      "answer": "ABECE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O contrário de tudo",
+      "answer": "NADA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Ingl.) Bebida alcoólica",
+      "answer": "DRINK",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Não mostrar",
+      "answer": "OCULTAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Gír.) Pessoa que transporta droga clandestinamente",
+      "answer": "MULA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Época histórica",
+      "answer": "ERA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Donald Trump, ex-presidente dos EUA",
+      "answer": "DT",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Buenos) A capital da Argentina",
+      "answer": "AIRES",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "Do campo",
+      "answer": "RURAL",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Objeto qualquer (pl.)",
+      "answer": "COISAS",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "De modo negativo ou inflexível",
+      "answer": "MAL",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Doença transmitida por vírus",
+      "answer": "VIROSE",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Protegem os pés",
+      "answer": "SAPATOS",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "Marcha, andamento",
+      "answer": "PASSO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "A mulher do irmão do pai",
+      "answer": "TIA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Um estado da região Nordeste",
+      "answer": "PIAUI",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Discernimento",
+      "answer": "SENSO",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "(Ingl.) Acessório de cozinha usado para grelhar alimentos",
+      "answer": "GRILL",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "Uma cobertura para proteção contra o sol",
+      "answer": "BONE",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "Elemento indispensável à vida",
+      "answer": "AGUA",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "(Red.) Popular",
+      "answer": "POP",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Tim Maia (1942-1998), cantor e compositor",
+      "answer": "TM",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

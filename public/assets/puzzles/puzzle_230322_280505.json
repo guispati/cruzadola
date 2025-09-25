@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "A atriz Brigitte, de \"E Deus Criou a Mulher\"",
+      "answer": "BARDOT",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Linhagem ou tronco de família",
+      "answer": "CEPA",
+      "row": 0,
+      "col": 7
+    },
+    "11": {
+      "clue": "Diarreia",
+      "answer": "PIRIRI",
+      "row": 1,
+      "col": 1
+    },
+    "13": {
+      "clue": "Precede Ago",
+      "answer": "JUL",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Pó",
+      "answer": "COCA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "A cantora Rô Rô",
+      "answer": "ANGELA",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Assembleia Geral Ordinária",
+      "answer": "AGO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Que incita",
+      "answer": "INDUTOR",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Sudeste",
+      "answer": "SE",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Higiene",
+      "answer": "ASSEIO",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Iguaria, salgada ou doce, assada em forno",
+      "answer": "SUFLE",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Mapa",
+      "answer": "CARTA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Fraqueza física ou espiritual",
+      "answer": "LANGOR",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "(Fís.) Símbolo de rutherford",
+      "answer": "RD",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Ancorar num porto",
+      "answer": "APORTAR",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Federação Internacional de Automobilismo",
+      "answer": "FIA",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Conjunto de técnicas que visam ao ajustamento do indivíduo ao trabalho",
+      "answer": "ERGONOMIA",
+      "row": 8,
+      "col": 1
+    },
+    "33": {
+      "clue": "A frente que derruba a temperatura",
+      "answer": "FRIA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Torturado fisicamente",
+      "answer": "ASPADO",
+      "row": 9,
+      "col": 5
+    },
+    "36": {
+      "clue": "(Pop.) Pouco inteligente",
+      "answer": "BURRO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "(Zequinha de) O compositor de \"Tico-Tico no Fubá\"",
+      "answer": "ABREU",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Grau máximo",
+      "answer": "APOGEU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Porto) O território de San Juan",
+      "answer": "RICO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A abreviatura que precede o nome da médica",
+      "answer": "DRA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Uma saudação muito usada",
+      "answer": "OI",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Red.) Transgênero",
+      "answer": "TRANS",
+      "row": 0,
+      "col": 5
+    },
+    "8": {
+      "clue": "Aparelho regulador da saída de líquidos ou gases",
+      "answer": "EJETOR",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O passo do sapo",
+      "answer": "PULO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Sobressaltada, posta em apreensão",
+      "answer": "ALARMADA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Vergonhosa, obscena",
+      "answer": "INDECOROSA",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "A cantora Eller (1962-2001)",
+      "answer": "CASSIA",
+      "row": 2,
+      "col": 0
+    },
+    "16": {
+      "clue": "Dirigir (um carro)",
+      "answer": "GUIAR",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "Imune",
+      "answer": "ISENTO",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Ampliar",
+      "answer": "ALARGAR",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Desabrochar",
+      "answer": "FLORIR",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Conjunto de três pessoas ou de três coisas",
+      "answer": "TRIADE",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "A nação africana de Acra",
+      "answer": "GANA",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "Lima é a capital deste país americano",
+      "answer": "PERU",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Tecer",
+      "answer": "FIAR",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Um estilo musical",
+      "answer": "MPB",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Facebook",
+      "answer": "FB",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Também conhecido como",
+      "answer": "OU",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

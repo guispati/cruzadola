@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Traste velho",
+      "answer": "TARECO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Voz onomatopaica de um disparo de arma de fogo",
+      "answer": "BANG",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Pequena árvore, também conhecida como urze",
+      "answer": "ERICA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Centrais Elétricas de Minas Gerais",
+      "answer": "CEMIG",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Secreção comum na gripe",
+      "answer": "CATARRO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Escola Paulista de Medicina",
+      "answer": "EPM",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Símbolo de nor-noroeste",
+      "answer": "NNO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "O ator recifense Góes",
+      "answer": "RENATO",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Interjeição que designa espanto",
+      "answer": "IH",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Em oposição direta a alguém ou a algo",
+      "answer": "CONTRA",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Ator de \"Bicho de Sete Cabeças\" e \"Olga\"",
+      "answer": "CACOCIOCLER",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Liga natural de ouro e prata",
+      "answer": "ELETRO",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "O xenônio, em química",
+      "answer": "XE",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "O astronauta Edwin, que participou do primeiro voo à Lua",
+      "answer": "ALDRIN",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Uma empresa aérea lusitana",
+      "answer": "TAP",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Canal de variedades da TV paga",
+      "answer": "GNT",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Romance de José de Alencar (1865)",
+      "answer": "IRACEMA",
+      "row": 8,
+      "col": 4
+    },
+    "31": {
+      "clue": "Voz do verbo em que o sujeito pratica a ação",
+      "answer": "ATIVA",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Fazer demorar",
+      "answer": "DETER",
+      "row": 9,
+      "col": 6
+    },
+    "34": {
+      "clue": "O Jagger vocalista dos \"Rolling Stones\"",
+      "answer": "MICK",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Que provoca o riso",
+      "answer": "JOCOSO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Habilidade especial de fazer algo",
+      "answer": "TECNICA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Animal como a viúva-negra",
+      "answer": "ARANHA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Liturgia",
+      "answer": "RITO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Interjeição que exprime desprazer",
+      "answer": "ECA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Superestrutura aplicada ao chassi de um veículo automóvel",
+      "answer": "CARROCERIA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "O nome da letra do alfabeto que segue o á",
+      "answer": "BE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Elemento químico mau condutor de calor e de eletricidade",
+      "answer": "AMETAL",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Elem. de comp.: japonês",
+      "answer": "NIPO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Gabriel García Márquez (1927-2014), escritor colombiano",
+      "answer": "GGM",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Circundado, rodeado",
+      "answer": "CONTORNADO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Recusar a obedecer",
+      "answer": "RENITIR",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Trecho de uma curva limitado por dois pontos",
+      "answer": "ARCO",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Frio, em inglês",
+      "answer": "COLD",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Treino",
+      "answer": "PREPARO",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Um clube escocês de futebol",
+      "answer": "CELTIC",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Provas para avaliar conhecimentos de um aluno",
+      "answer": "EXAMES",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Pref.: oposição",
+      "answer": "ANTI",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "(Fig.) Casa, morada",
+      "answer": "TETO",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Abrev.: Gâmbia",
+      "answer": "GAM",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Sigla do Cruzeiro",
+      "answer": "CEC",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Vitor Kley, músico",
+      "answer": "VK",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

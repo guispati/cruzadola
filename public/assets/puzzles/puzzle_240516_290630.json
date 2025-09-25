@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Audácia",
+      "answer": "VALENTIA",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Arthur Zanetti, ginasta",
+      "answer": "AZ",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Publicar uma obra impressa",
+      "answer": "EDITAR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Bolor",
+      "answer": "MOFO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Direção do movimento da embarcação",
+      "answer": "RUMO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O ato de endireitar, ajustar",
+      "answer": "ACERTO",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Teste que examina a genealogia genética",
+      "answer": "DNA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Caderno de compromissos",
+      "answer": "AGENDA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "As iniciais do \"Tremendão\" Carlos",
+      "answer": "EC",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "A copa das árvores",
+      "answer": "FRONDE",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "O ex-pugilista paulistano Éder",
+      "answer": "JOFRE",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Queda",
+      "answer": "TOMBO",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Maciez",
+      "answer": "LISURA",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Ivete Sangalo, cantora de \"Macetando\"",
+      "answer": "IS",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Suporte de bandeira",
+      "answer": "MASTRO",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Àqueles",
+      "answer": "AOS",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "A capital de uma Guiné africana",
+      "answer": "BISSAU",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Qualquer coisa",
+      "answer": "ALGO",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Sufixo: pequeno",
+      "answer": "ICHO",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Atribuir má fama a",
+      "answer": "TACHAR",
+      "row": 9,
+      "col": 5
+    },
+    "35": {
+      "clue": "Terra que a passagem de veículos levanta nas estradas",
+      "answer": "PO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Que provoca repugnância",
+      "answer": "NAUSEOSO",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ato de começar a brotar, a nascer (diz-se de planta)",
+      "answer": "VERDEJO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Recurvado como um gancho",
+      "answer": "ADUNCO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A capital peruana",
+      "answer": "LIMA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Sufixo químico",
+      "answer": "ETO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Em + a",
+      "answer": "NA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Pequena porção de bebida",
+      "answer": "TRAGO",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Um ingrediente do torrone",
+      "answer": "AMENDOA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Pústula da mucosa bucal",
+      "answer": "AFTA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Red.) Uma reserva com répteis, aves e mamíferos",
+      "answer": "ZOO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Determinação de autoridade",
+      "answer": "ORDEM",
+      "row": 1,
+      "col": 8
+    },
+    "15": {
+      "clue": "Coisa que se destaca por sua importância",
+      "answer": "CENTRO",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Quina",
+      "answer": "ARESTA",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "(Fig.) Animação, vibração de um grupo de pessoas",
+      "answer": "FRISSON",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Grande cidade do Rio Grande do Norte",
+      "answer": "MOSSORO",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Em TV e cinema, cena muito rápida",
+      "answer": "FLASH",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Um combustível alternativo",
+      "answer": "BIOGAS",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Uma cobra venenosa",
+      "answer": "URUTU",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "(Gír.) Situação extremamente embaraçosa ou vexatória",
+      "answer": "MICO",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "O bulbo que, segundo a lenda, afasta os vampiros",
+      "answer": "ALHO",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Som produzido por aparelho eletrônico",
+      "answer": "BIP",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "(Pal. ingl.) No tênis, saque sem defesa",
+      "answer": "ACE",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "São quatro em Itabaiana",
+      "answer": "AS",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

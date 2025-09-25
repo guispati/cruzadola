@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Efetuar a desobstrução de",
+      "answer": "ABRIR",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Mulher com pouquíssima gordura",
+      "answer": "MAGRA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Junto de, em cima de (fem.)",
+      "answer": "NA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Correlação",
+      "answer": "NEXO",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Elemento de composição: nove",
+      "answer": "NON",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Diplomado",
+      "answer": "GRADUADO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "As iniciais da atriz Secco",
+      "answer": "DS",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Parte do universo habitada pelos homens",
+      "answer": "MUNDO",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Norma definida pelo Estado",
+      "answer": "LEI",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Revogar",
+      "answer": "ABOLIR",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Peça destinada a amortecer as trepidações das rodas de um carro",
+      "answer": "MOLA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Pensativa",
+      "answer": "ENTRETIDA",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Grave sentimento de aversão e inimizade",
+      "answer": "ODIO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Cuidadoso",
+      "answer": "ZELOSO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Pode ser nova, crescente, minguante ou cheia",
+      "answer": "LUA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "O agente secreto Bond, do cinema",
+      "answer": "JAMES",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "O oi inglês",
+      "answer": "HI",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Designação que serve para ocultar a identidade de alguém",
+      "answer": "CODINOME",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "A baiana Marcela, maratonista da natação",
+      "answer": "ANA",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Inteira",
+      "answer": "TODA",
+      "row": 9,
+      "col": 4
+    },
+    "34": {
+      "clue": "Expressão do rosto",
+      "answer": "AR",
+      "row": 9,
+      "col": 9
+    },
+    "35": {
+      "clue": "(Fig.) Coisa muito dura",
+      "answer": "ROCHA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Divindade de cultos afro-brasileiros",
+      "answer": "ORIXA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(dos Reis) A cidade fluminense das usinas atômicas",
+      "answer": "ANGRA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Espaço com balcão onde se servem bebidas",
+      "answer": "BAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Graça concedido pelo Papa",
+      "answer": "INDULTO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Anexar",
+      "answer": "REUNIR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Em música, maneira como se dispõem os intervalos de tom e meio-tom numa escala",
+      "answer": "MODO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Guiomar Novaes (1894-1979), pianista paulista",
+      "answer": "GN",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Fatias circulares",
+      "answer": "RODELAS",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Sensação de desconforto físico causada por uma pressão na região peitoral",
+      "answer": "ANSIA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Com quadrados de cores alternadas, como o tabuleiro de certo jogo de mesa",
+      "answer": "XADREZADO",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Solução química aquosa, incolor e de odor intenso",
+      "answer": "AMONIA",
+      "row": 2,
+      "col": 2
+    },
+    "17": {
+      "clue": "Lamacento",
+      "answer": "LODOSO",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Árabe nômade do deserto",
+      "answer": "BEDUINO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Velho de dez séculos",
+      "answer": "MILENAR",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Que causa medo",
+      "answer": "TEMIDO",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "A capacidade visual",
+      "answer": "OLHAR",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Um espetáculo como \"Madame Butterfly\"",
+      "answer": "OPERA",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "J",
+      "answer": "JOTA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "(de Castro) Compositor, multiinstrumentista e produtor musical",
+      "answer": "MAX",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Adriana Calcanhotto, cantora gaúcha",
+      "answer": "AC",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

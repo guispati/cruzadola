@@ -1,0 +1,240 @@
+{
+  "across": {
+    "1": {
+      "clue": "Deusas inspiradoras das artes e ciências",
+      "answer": "MUSAS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Burkina) País que era chamado Alto Volta",
+      "answer": "FASSO",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Que não é permitido a todos, só a algumas pessoas",
+      "answer": "PRIVATIVO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Grande lago da América do Norte, um dos maiores da Terra",
+      "answer": "HURON",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "Brinde",
+      "answer": "BONUS",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Cobrir de tinta ou de cores",
+      "answer": "PINTAR",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Sufixo diminutivo feminino",
+      "answer": "OTA",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "(Ingl.) Atraso na comunicação entre computadores",
+      "answer": "LAG",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Sobrevir",
+      "answer": "OCORRER",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Associar",
+      "answer": "AGREMIAR",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Famoso jogador de basquete da seleção brasileira bicampeã mundial",
+      "answer": "UBIRATAN",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Inquérito Policial",
+      "answer": "IP",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Proteção ao menor",
+      "answer": "TUTELA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Erupção na pele",
+      "answer": "ACNE",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Não imaginário",
+      "answer": "REAL",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Azedar (o leite) ao ser fervido",
+      "answer": "TALHAR",
+      "row": 8,
+      "col": 5
+    },
+    "32": {
+      "clue": "Executivo Nacional",
+      "answer": "EN",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Anat.) Pequeno osso da raiz da língua",
+      "answer": "HIOIDE",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Companhia de Habitação Popular",
+      "answer": "COHAB",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Pequena fazenda",
+      "answer": "SITIO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Abrev.) Milhas por Hora",
+      "answer": "MPH",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Cidade da região de Ji-Paraná, em RO",
+      "answer": "URUPA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Pop.) Mulher que usa requebros para seduzir, atrair",
+      "answer": "SIRIGAITA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Uma marca de cosméticos",
+      "answer": "AVON",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Livro a respeito da vida dos santos",
+      "answer": "SANTORAL",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Tumor benigno de tecido conjuntivo",
+      "answer": "FIBROMA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Pai do pai",
+      "answer": "AVO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "De som agradável (fem.)",
+      "answer": "SONORA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Tentar corajosamente",
+      "answer": "OUSAR",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Diz-se de uma artéria exclusivamente feminina",
+      "answer": "UTERINA",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Base de filme fotográfico",
+      "answer": "ACETATO",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "O pintor Toulouse (1864-1901)",
+      "answer": "LAUTREC",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "A atriz paulistana Bianca",
+      "answer": "RINALDI",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Pequena grade de ferro para churrasqueira",
+      "answer": "GRELHA",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "A tenista Maria Esther (1939-2018)",
+      "answer": "BUENO",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "O contrário de longe",
+      "answer": "PERTO",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "O trompetista de jazz Baker (1929-1988)",
+      "answer": "CHET",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Lamúrias, queixas",
+      "answer": "AIS",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Instituto Butantan",
+      "answer": "IB",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

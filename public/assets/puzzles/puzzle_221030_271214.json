@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Base em que se arma algo",
+      "answer": "CHASSI",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Hectolitro",
+      "answer": "HL",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Tufo de plantas rasteiras ou arbustivas",
+      "answer": "MOITA",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "Interjeição que indica grande admiração",
+      "answer": "UAU",
+      "row": 1,
+      "col": 8
+    },
+    "11": {
+      "clue": "Tranquilizador",
+      "answer": "ACALMADOR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Peça que puxa água para o ralo",
+      "answer": "RODO",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Membros inferiores",
+      "answer": "PERNAS",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Um estilo de luta muito violenta",
+      "answer": "MMA",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Proteger com muro, valo ou grade",
+      "answer": "CERCAR",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Epitácio Pessoa (1865-1942), presidente da República de 1919 a 1922",
+      "answer": "EP",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "(Geog.) As terras banhadas por um rio e seus afluentes",
+      "answer": "BACIA",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "Luiz Gonzaga, músico de \"Asa Branca\"",
+      "answer": "LG",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Ter novamente a posse",
+      "answer": "REAVER",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Espaço onde se movem os aviões",
+      "answer": "CEU",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Desgarrar",
+      "answer": "LARGAR",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Tereza, para os íntimos",
+      "answer": "TETE",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Que se pode livrar, libertar",
+      "answer": "REDIMIVEL",
+      "row": 8,
+      "col": 2
+    },
+    "30": {
+      "clue": "Processo Judicial Eletrônico",
+      "answer": "PJE",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "O oposto de abaixo",
+      "answer": "ACIMA",
+      "row": 9,
+      "col": 4
+    },
+    "33": {
+      "clue": "Angelina Jolie, atriz de \"A Troca\"",
+      "answer": "AJ",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Atento",
+      "answer": "ALERTA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Característica atraente",
+      "answer": "CHARME",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Namorada",
+      "answer": "AMADA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Trecho musical tocado por uma pessoa apenas",
+      "answer": "SOLO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Uma resposta positiva",
+      "answer": "SIM",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(da Serra) Um município da Grande São Paulo",
+      "answer": "ITAPECERICA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Hânio, para os químicos",
+      "answer": "HA",
+      "row": 0,
+      "col": 9
+    },
+    "7": {
+      "clue": "Os satélites de Saturno e Júpiter",
+      "answer": "LUAS",
+      "row": 0,
+      "col": 10
+    },
+    "9": {
+      "clue": "Colar",
+      "answer": "ADERIR",
+      "row": 1,
+      "col": 6
+    },
+    "10": {
+      "clue": "Equipamento usado para coletar votos",
+      "answer": "URNA",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "O oposto de venda",
+      "answer": "COMPRA",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "Cetáceo típico dos mares frios, também chamado baleia-assassina",
+      "answer": "ORCA",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "A atriz pernambucana Salles",
+      "answer": "ARLETE",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Uma manobra do surfista",
+      "answer": "CAVADA",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Importante cidade do Rio Grande do Sul",
+      "answer": "BAGE",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Aparelho respiratório dos animais que vivem na água",
+      "answer": "GUELRA",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "R",
+      "answer": "ERRE",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Nutrir, alimentar",
+      "answer": "CEVAR",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Caverna",
+      "answer": "LAPA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Equipe de modalidade esportiva",
+      "answer": "TIME",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Segue o 999",
+      "answer": "MIL",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "James Joyce (1882-1941), escritor irlandês de \"Ulisses\"",
+      "answer": "JJ",
+      "row": 9,
+      "col": 1
+    }
+  }
+}

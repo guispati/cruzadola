@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Gír.) Causar impressão muito boa",
+      "answer": "ARRASAR",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Um sistema de localização global",
+      "answer": "GPS",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Movimento de um corpo que cai",
+      "answer": "QUEDA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Fuga em massa",
+      "answer": "EXODO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Uma entrada para conexão do computador",
+      "answer": "USB",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Que é inevitável",
+      "answer": "FATAL",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Corpo que interrompe a comunicação da eletricidade",
+      "answer": "ISOLADOR",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Guimarães Rosa (1908-1967), escritor de \"Grande Sertão: Veredas\"",
+      "answer": "GR",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "De sabor áspero como o do vinagre",
+      "answer": "ACIDO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Mãe de potros",
+      "answer": "EGUA",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Início de um programa de rádio ou de TV",
+      "answer": "ABERTURA",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Estimar muito",
+      "answer": "PREZAR",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "No de 1970 o Brasil sagrou-se tricampeão mundial de futebol, no México",
+      "answer": "ANO",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Indivíduo de tribo à qual pertencem muitos índios tapuias",
+      "answer": "JE",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Peça para refrigerar motores",
+      "answer": "RADIADOR",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "A famosa marca italiana de automóveis Romeo",
+      "answer": "ALFA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Vinte e um menos dez",
+      "answer": "ONZE",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Mulher que apresenta sinais de insanidade",
+      "answer": "DOIDA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "A parte que protege o fruto",
+      "answer": "CASCA",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "Explodir",
+      "answer": "ESTOURAR",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Paraná",
+      "answer": "PR",
+      "row": 10,
+      "col": 9
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Cá",
+      "answer": "AQUI",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Roleta) Um jogo que pode ser fatal",
+      "answer": "RUSSA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Guinchar um carro avariado",
+      "answer": "REBOCAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Assembleia de Deus",
+      "answer": "AD",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Falta de pudor",
+      "answer": "SAFADEZA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "O contrário de curvo",
+      "answer": "RETO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Fut.) Arco, meta",
+      "answer": "GOL",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O símbolo químico do paládio",
+      "answer": "PD",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A mãe da esposa",
+      "answer": "SOGRA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Um peixe capturado em pesca esportiva",
+      "answer": "XAREU",
+      "row": 1,
+      "col": 7
+    },
+    "15": {
+      "clue": "Reverenciado",
+      "answer": "ADORADO",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Solto, livre",
+      "answer": "LIBERADO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Adubo de excrementos de aves e morcegos",
+      "answer": "GUANO",
+      "row": 3,
+      "col": 9
+    },
+    "21": {
+      "clue": "As armações de barras de ferro cruzadas usadas para proteção de janelas",
+      "answer": "GRADES",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Qualquer abertura estreita",
+      "answer": "TRINCA",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Os elementos que formam a barba",
+      "answer": "PELOS",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Enfeitar",
+      "answer": "ORNAR",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Pedra dura, esverdeada como a azeitona",
+      "answer": "JADE",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "O contrário de sorte",
+      "answer": "AZAR",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "(Dry) Tecido para roupas esportivas",
+      "answer": "FIT",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "O som do latido de um cachorro",
+      "answer": "AU",
+      "row": 9,
+      "col": 4
+    },
+    "36": {
+      "clue": "Caixa Postal",
+      "answer": "CP",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

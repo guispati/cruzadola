@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "Proteger com muro ou aramado",
+      "answer": "CERCAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "A cantora Possi, da MPB",
+      "answer": "ZIZI",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "O maestro Karabtchevski",
+      "answer": "ISAAC",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Lituânia",
+      "answer": "LIT",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "Espécie de uva para vinhos",
+      "answer": "MALBEC",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Sujeira, imundície",
+      "answer": "XILA",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Congruente",
+      "answer": "ARRAZOADO",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Lugar desabitado, deserto",
+      "answer": "ERMO",
+      "row": 4,
+      "col": 3
+    },
+    "18": {
+      "clue": "Departamento de Aviação Civil",
+      "answer": "DAC",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "Morador do mato",
+      "answer": "CAIPORA",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Um pouco de... humor",
+      "answer": "UMO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Neol.) Mensagem que se multiplica facilmente e rapidamente",
+      "answer": "MEME",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "O regente português que veio para Brasil em 1808",
+      "answer": "DOMJOÃOVI",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Canal de TV, de esportes",
+      "answer": "ESPN",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "A proveniência de uma família",
+      "answer": "ORIGEM",
+      "row": 8,
+      "col": 5
+    },
+    "32": {
+      "clue": "Abreviatura (em português) da Ucrânia",
+      "answer": "UCR",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Marinha de guerra",
+      "answer": "FROTA",
+      "row": 9,
+      "col": 6
+    },
+    "34": {
+      "clue": "Fábrica sueca de veículos, associada à Scania",
+      "answer": "SAAB",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "O cômico Jô e a cantora Elza",
+      "answer": "SOARES",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Topo",
+      "answer": "CIMO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Escola de Sargento das Armas",
+      "answer": "ESA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Aguada (sopa)",
+      "answer": "RALA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Cabo náutico grosso",
+      "answer": "CABREA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Tenazmente adverso",
+      "answer": "ACERRIMO",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Famoso poema clássico",
+      "answer": "ILIADA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Uma Maria atriz",
+      "answer": "ZILDA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Furna",
+      "answer": "ITAOCA",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "O primeiro lugar em uma competição",
+      "answer": "CAMPEÃO",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Sai, pombinha!",
+      "answer": "XO",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Que apresenta forma de animal",
+      "answer": "ZOOMORFO",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Os fiéis que frequentam a sinagoga",
+      "answer": "JUDEUS",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Ato de adquirir algo pagando por isso",
+      "answer": "COMPRA",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "(Norte) Certa dança negra",
+      "answer": "REVIRA",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "O ponto central de um alvo",
+      "answer": "MOSCA",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Jornal Nacional",
+      "answer": "JN",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "O ator paranaense Rickli",
+      "answer": "IGOR",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Correlativo de outras",
+      "answer": "UMAS",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Um sufixo diminutivo",
+      "answer": "ETE",
+      "row": 8,
+      "col": 9
+    }
+  }
+}

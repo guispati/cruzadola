@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cor entre o marrom e o amarelo",
+      "answer": "BEGE",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "Aves das praças",
+      "answer": "POMBOS",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Unir em matrimônio",
+      "answer": "ESPOSAR",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Empresa de Assistência Técnica e Extensão Rural",
+      "answer": "EMATER",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Variedade de pelica",
+      "answer": "NAPA",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Predestinar",
+      "answer": "FADAR",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Poder estar num lugar",
+      "answer": "CABER",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "H",
+      "answer": "AGA",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Aquele que garante uma obrigação",
+      "answer": "FIADOR",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "(Quím.) Rutênio",
+      "answer": "RU",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Típica dança cubana",
+      "answer": "RUMBA",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Sigla de Santa Catarina",
+      "answer": "SC",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Auxílio, ajuda",
+      "answer": "ADEMÃO",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Astro luminoso, centro do nosso sistema planetário",
+      "answer": "SOL",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "O dental serve para higiene bucal",
+      "answer": "CREME",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "O pelo do pescoço e da cauda do cavalo",
+      "answer": "CRINA",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "Canto patriótico ou religioso",
+      "answer": "HINO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Descer voando de motor desligado",
+      "answer": "PLANAR",
+      "row": 8,
+      "col": 5
+    },
+    "32": {
+      "clue": "Perda, insucesso",
+      "answer": "DERROTA",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Em economia, a soma dos produtos ou dos serviços oferecidos à venda",
+      "answer": "OFERTA",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "O mundo dos que se foram",
+      "answer": "ALEM",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Enganar, iludir",
+      "answer": "BLEFAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Orvalho congelado",
+      "answer": "GEADA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Pronome demonstrativo feminino",
+      "answer": "ESTA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Vestir",
+      "answer": "POR",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "Artigo definido masculino plural",
+      "answer": "OS",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Rebanho de gado",
+      "answer": "MANADA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Valentão",
+      "answer": "BRABO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Gotejar líquido pela pele após algum esforço físico intenso",
+      "answer": "SUAR",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Exalação cheirosa",
+      "answer": "PERFUME",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Garça também chamada socó-grande",
+      "answer": "MAGUARI",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "A non grata não é bem-vinda",
+      "answer": "PERSONA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Mestiço de branco com índio",
+      "answer": "CABOCLO",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Objeto que atrai o ferro",
+      "answer": "IMÃ",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Pensar e repensar sobre algo",
+      "answer": "REMOER",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Um tipo de corneta de som agudo",
+      "answer": "CLARIM",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Óleo essencial à culinária afro-brasileira",
+      "answer": "DENDE",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Adiantamento de dinheiro",
+      "answer": "SINAL",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Superfície que pode ser pisada e servir de base ou apoio para as coisas",
+      "answer": "CHÃO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Frase errada, inoportuna",
+      "answer": "RATA",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "(dedéu) Muito, bastante",
+      "answer": "PRA",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Responsável Técnico",
+      "answer": "RT",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

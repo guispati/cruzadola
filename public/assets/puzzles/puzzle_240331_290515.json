@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Expedição para caça, especialmente na África",
+      "answer": "SAFARI",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O ator Richard, de \"Infidelidade\"",
+      "answer": "GERE",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Ferro esmaltado",
+      "answer": "AGATE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Colheita",
+      "answer": "SAFRA",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "O sobrenome dos pilotos de F1 Nico e Keke",
+      "answer": "ROSBERG",
+      "row": 2,
+      "col": 2
+    },
+    "14": {
+      "clue": "Estado da atmosfera, clima",
+      "answer": "TEMPERIE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Fernanda Lima, modelo e apresentadora de TV",
+      "answer": "FL",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "(Baixos) Outro nome da Holanda",
+      "answer": "PAISES",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "Abrev.: Grécia",
+      "answer": "GRE",
+      "row": 4,
+      "col": 8
+    },
+    "19": {
+      "clue": "(Pop.) Urucubaca",
+      "answer": "ZICA",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "(Fig.) Funesto, que dá medo",
+      "answer": "CRIS",
+      "row": 5,
+      "col": 7
+    },
+    "21": {
+      "clue": "Pequena árvore da caatinga nordestina",
+      "answer": "ICO",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "Cidade rondoniana, centro regional",
+      "answer": "CACOAL",
+      "row": 6,
+      "col": 4
+    },
+    "24": {
+      "clue": "Compaixão",
+      "answer": "DO",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Fazer desordem, confusão",
+      "answer": "BADERNAR",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "Obra literária, teatral, musical etc. que imita outra obra",
+      "answer": "PARODIA",
+      "row": 8,
+      "col": 2
+    },
+    "28": {
+      "clue": "Negação absoluta",
+      "answer": "NUNCA",
+      "row": 9,
+      "col": 0
+    },
+    "30": {
+      "clue": "O escultor francês Auguste (1840-1917), de \"O Pensador\"",
+      "answer": "RODIN",
+      "row": 9,
+      "col": 6
+    },
+    "32": {
+      "clue": "(das Artes) Cidade próxima a São Paulo",
+      "answer": "EMBU",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Macaco africano, o que mais se assemelha aos humanos (98% do DNA)",
+      "answer": "BONOBO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Lake City) A capital do Utah, nos EUA",
+      "answer": "SALT",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ariana Grande, atriz e cantora",
+      "answer": "AG",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Medicamento",
+      "answer": "FARMACO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Med.) Tendência hereditária a desenvolver manifestações alérgicas, como rinites e asma, por exemplo",
+      "answer": "ATOPIA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Animais quadrúpedes abatidos para a alimentação do homem",
+      "answer": "RESES",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Estação de estrada de ferro",
+      "answer": "GARE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "As letras que separam o D e o H",
+      "answer": "EFG",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Uma UF do norte",
+      "answer": "RR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O grupo de rock famoso pela música \"Hotel California\"",
+      "answer": "EAGLES",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "6",
+      "answer": "SEIS",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Freado",
+      "answer": "BRECADO",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Que celebra temas e lendas heróicas",
+      "answer": "EPICO",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "(Pop.) Trabalho avulso realizado por profissional de publicidade",
+      "answer": "FRILA",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Reduzido a grãos muito pequenos",
+      "answer": "GRANADO",
+      "row": 4,
+      "col": 8
+    },
+    "19": {
+      "clue": "Um craque do futebol francês, algoz do Brasil na Copa de 1998",
+      "answer": "ZIDANE",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Membrana que reveste o ovo de diversos animais",
+      "answer": "CORION",
+      "row": 5,
+      "col": 7
+    },
+    "22": {
+      "clue": "Outro nome do inhame-da-china",
+      "answer": "CARA",
+      "row": 6,
+      "col": 4
+    },
+    "23": {
+      "clue": "A árvore tradicional do Líbano",
+      "answer": "CEDRO",
+      "row": 6,
+      "col": 6
+    },
+    "25": {
+      "clue": "Peixe de água doce da Amazônia",
+      "answer": "BACU",
+      "row": 7,
+      "col": 3
+    },
+    "26": {
+      "clue": "Pref.: nariz",
+      "answer": "RINO",
+      "row": 7,
+      "col": 10
+    },
+    "27": {
+      "clue": "Produto Nacional Bruto",
+      "answer": "PNB",
+      "row": 8,
+      "col": 2
+    },
+    "29": {
+      "clue": "Duas metades juntas",
+      "answer": "UM",
+      "row": 9,
+      "col": 1
+    },
+    "31": {
+      "clue": "Ibidem (no mesmo lugar)",
+      "answer": "IB",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Tchau de matuto",
+      "answer": "INTE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Cola) Um refrigerante",
+      "answer": "COCA",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Ema",
+      "answer": "NHANDU",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Canto de glorificação",
+      "answer": "HINO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Espécie de boina ou barrete",
+      "answer": "GORRO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Atingir com uma arma",
+      "answer": "FERIR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Um ex-técnico da seleção brasileira de futebol",
+      "answer": "DUNGA",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Tecla do PC",
+      "answer": "ESC",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Um tipo de refrigerador para guardar vinhos",
+      "answer": "ADEGA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "O ex-piloto de F1 Felipe",
+      "answer": "MASSA",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "O mês da morte de Tiradentes",
+      "answer": "ABRIL",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "O Rizek jornalista esportivo",
+      "answer": "ANDRE",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Região da Itália, centro histórico do Império Romano",
+      "answer": "LACIO",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Abreviatura de santa",
+      "answer": "STA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "(Fig.) Pessoa que ignora um assunto",
+      "answer": "LEIGO",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Ato de temperar com sal peixe ou carne",
+      "answer": "SALGA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Para que lugar?",
+      "answer": "AONDE",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Mosca",
+      "answer": "ALVO",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Sem despesa, de favor",
+      "answer": "GRATIS",
+      "row": 9,
+      "col": 5
+    },
+    "35": {
+      "clue": "(Mala sem) Pessoa chata, inconveniente",
+      "answer": "ALÇA",
+      "row": 10,
+      "col": 2
+    },
+    "36": {
+      "clue": "Pancada dada com a mão fechada",
+      "answer": "SOCO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Inchaço na região da virilha",
+      "answer": "INGUA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Redução de senhor",
+      "answer": "NHO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Período que vai do meio-dia ao começo da noite",
+      "answer": "TARDE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Marcar com vincos",
+      "answer": "ENRUGAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Quím.) Cobre",
+      "answer": "CU",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Guevara) Revolucionário participante da revolução cubana",
+      "answer": "CHE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Buenos) A capital argentina",
+      "answer": "AIRES",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Um jogo de adivinhação de palavras",
+      "answer": "FORCA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Uma personagem da \"Escolinha do Professor Raimundo\"",
+      "answer": "DONABELA",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Aquele que nasceu no Brasil, de pais japoneses",
+      "answer": "NISSEI",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Bem-conhecido",
+      "answer": "FAMILIAR",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "Do molar",
+      "answer": "DENTAL",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "O estado AL",
+      "answer": "ALAGOAS",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Em quantidade suficiente",
+      "answer": "ASSAZ",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "A cantora de Oliveira (1917-1972), de \"Bandeira Branca\"",
+      "answer": "DALVA",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Narrativa breve e concisa",
+      "answer": "CONTO",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Aquele que tem gordura supérflua",
+      "answer": "OBESO",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Um dos carros mais fabricados do Brasil",
+      "answer": "GOL",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Abreviatura de dicionário",
+      "answer": "DIC",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "(Quím.) Gálio",
+      "answer": "GA",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

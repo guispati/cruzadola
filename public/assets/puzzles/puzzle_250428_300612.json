@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Pop.) Preguiça",
+      "answer": "LOMBA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Como a voz da soprano",
+      "answer": "AGUDA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Diâmetro exterior de um projétil",
+      "answer": "CALIBRE",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Nelson Sargento (1924-2021), cantor e compositor",
+      "answer": "NS",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Obra literária que compõe um volume",
+      "answer": "LIVRO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Dan Stulbach, ator e apresentador paulistano",
+      "answer": "DS",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Não mais solteiro",
+      "answer": "CASADO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Limpador de rua",
+      "answer": "GARI",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Égua sem gê",
+      "answer": "EUA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Cantos, arestas",
+      "answer": "ANGULOS",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Seis de janeiro",
+      "answer": "DIADEREIS",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Pequena nascente de água",
+      "answer": "FONTELA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Com nitidez",
+      "answer": "BEM",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Esta coisa",
+      "answer": "ISTO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Cidade paranaense, na divisa com SP",
+      "answer": "ANDIRA",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "Grande Otelo (1915-1993), ator de \"Macunaíma\"",
+      "answer": "GO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Outro nome da planta açucena",
+      "answer": "LIRIO",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Astatínio, elemento químico",
+      "answer": "AT",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "Instrumento apto a abrir ilhós",
+      "answer": "VAZADOR",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Espumante feito com maçãs",
+      "answer": "SIDRA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Uma parte do corpo como o fígado",
+      "answer": "ORGÃO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Animal de cauda curta e tufos de pelos nas orelhas",
+      "answer": "LINCE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Abreviatura de megaciclo",
+      "answer": "MC",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Uma guloseima que serve de troco",
+      "answer": "BALA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Dispositivo usado em alguns instrumentos ópticos para medição de ângulos",
+      "answer": "ALIDADE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Parte de... abril",
+      "answer": "ABR",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Diz-se de quem está meio tonto, por efeito de álcool",
+      "answer": "GROGUE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "União Europeia",
+      "answer": "UE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Cidade paulista do sudoeste do estado",
+      "answer": "ASSIS",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "A sambista de \"Sonho Meu\" e \"Partido Alto\"",
+      "answer": "IVONELARA",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Que se lembra com ternura",
+      "answer": "SAUDOSO",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Uma planta carnívora",
+      "answer": "DROSERA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "(-Tropez) Cidade francesa, destino turístico",
+      "answer": "SAINT",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Justificação aceitável",
+      "answer": "ALIBI",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Aspereza na superfície de certos papéis",
+      "answer": "GRANIDO",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Afundar-se na lama",
+      "answer": "ATOLAR",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Gestos feitos com o intuito de afastar o azar",
+      "answer": "FIGAS",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Matagal",
+      "answer": "MATÃO",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Porta, em Washington",
+      "answer": "DOOR",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Cantora e apresentadora carioca",
+      "answer": "IZA",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "Velocidade Diferencial",
+      "answer": "VD",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Um dado da cédula de identidade",
+      "answer": "RG",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Fr.) Cozinheiro",
+      "answer": "CHEF",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(e rolar) Agir segundo o comando dos desejos, sem levar em consideração qualquer limite",
+      "answer": "DEITAR",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Tornar-se cor-de-rosa",
+      "answer": "ROSEAR",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Disputa, competição",
+      "answer": "RIXA",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "(Pop.) Ação de arrumar, dispor convenientemente",
+      "answer": "AJEITADA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Sufixo que denota qualidade",
+      "answer": "EZ",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "V",
+      "answer": "VE",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "A língua falada em Bucareste",
+      "answer": "ROMENO",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "O pássaro que simboliza a seleção brasileira de futebol",
+      "answer": "CANARINHO",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Sen em trigonometria",
+      "answer": "SENO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Categoria",
+      "answer": "RAÇA",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Uma unidade de medida elétrica V",
+      "answer": "VOLT",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Sanção prevista na lei para o autor de um crime",
+      "answer": "PENA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Arquivo Nacional",
+      "answer": "AN",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Resultado feliz",
+      "answer": "EXITO",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "Plutônio",
+      "answer": "PU",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "São dois na pizza",
+      "answer": "ZES",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Oprimir com uma luz de muita intensidade",
+      "answer": "OFUSCAR",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "Aceitar uma chamada telefônica",
+      "answer": "ATENDER",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Período geológico",
+      "answer": "ERA",
+      "row": 9,
+      "col": 8
+    },
+    "37": {
+      "clue": "Quase áfono",
+      "answer": "ROUCO",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Deste tempo",
+      "answer": "ATUAL",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Mús.) Instrumento de teclas que antecedeu o piano",
+      "answer": "CRAVO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O amanhã de ontem",
+      "answer": "HOJE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Abreviatura de és-sudeste",
+      "answer": "ESE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um comerciante sem sede fixa",
+      "answer": "FEIRANTE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Tragédia",
+      "answer": "DRAMA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Nascidos no país que tem Teerã como capital",
+      "answer": "IRANIANOS",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Tu, em certos casos",
+      "answer": "TI",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Saudação afro-baiana",
+      "answer": "AXE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Causa, motivo",
+      "answer": "RAZÃO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Diz-se da palavra, sílaba ou vogal destituída de acento de intensidade",
+      "answer": "ATONO",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Passagem ao estado líquido, por efeito do calor",
+      "answer": "DERRETURA",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "A pintada é um felino de grande porte",
+      "answer": "ONÇA",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Abrev.: coronel",
+      "answer": "CEL",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Hânio, elemento químico",
+      "answer": "HA",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Clássica composição em rima",
+      "answer": "SONETO",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Baixar (a maré)",
+      "answer": "VAZAR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Pop.) Pequena flauta de madeira",
+      "answer": "PIFE",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Agrícola",
+      "answer": "RURAL",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "Carinho especial por pessoa, animal ou coisa",
+      "answer": "XODO",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "O estado PA",
+      "answer": "PARA",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Pertencente a ele",
+      "answer": "SEU",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "O espaço onde ficam estrelas e planetas",
+      "answer": "CEU",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "Nelson Cavaquinho, sambista",
+      "answer": "NC",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

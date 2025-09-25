@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "Desvio repentino para um lado",
+      "answer": "GUINADA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Sacola, em inglês",
+      "answer": "BAG",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "O humorista Marcelo",
+      "answer": "ADNET",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Animal típico da região andina, apreciado por sua lã",
+      "answer": "LHAMA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "O marido da falecida esposa",
+      "answer": "VIUVO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Pintar com produto ou substância branca",
+      "answer": "CAIAR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Uma tecla do computadores",
+      "answer": "ENTER",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Madeira escura e resistente",
+      "answer": "EBANO",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "As três primeiras vogais",
+      "answer": "AEI",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Cá",
+      "answer": "AQUI",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Arnaldo Antunes, poeta e músico de \"Já É\"",
+      "answer": "AA",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "O que transforma soda em sólida",
+      "answer": "LI",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Abreviatura de long-play, disco sonoro",
+      "answer": "LP",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "Angelina Jolie, atriz de \"Sr. e Sra. Smith\"",
+      "answer": "AJ",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "O Papai das festas natalinas",
+      "answer": "NOEL",
+      "row": 6,
+      "col": 3
+    },
+    "30": {
+      "clue": "(Gír.) Cachaça, pinga",
+      "answer": "UCA",
+      "row": 6,
+      "col": 8
+    },
+    "33": {
+      "clue": "(Chutar o) Exagerar",
+      "answer": "BALDE",
+      "row": 7,
+      "col": 0
+    },
+    "35": {
+      "clue": "Mandar com autoridade",
+      "answer": "IMPOR",
+      "row": 7,
+      "col": 6
+    },
+    "37": {
+      "clue": "Os elos de uma corrente",
+      "answer": "ANEIS",
+      "row": 8,
+      "col": 0
+    },
+    "38": {
+      "clue": "Espécie de formão de carpinteiro",
+      "answer": "GOIVA",
+      "row": 8,
+      "col": 6
+    },
+    "39": {
+      "clue": "Um tipo de caractere das artes gráficas",
+      "answer": "DIDOT",
+      "row": 9,
+      "col": 0
+    },
+    "40": {
+      "clue": "Gênero de caracóis como o escargot",
+      "answer": "HELIX",
+      "row": 9,
+      "col": 6
+    },
+    "41": {
+      "clue": "As vogais de método",
+      "answer": "EOO",
+      "row": 10,
+      "col": 0
+    },
+    "42": {
+      "clue": "Rodovia",
+      "answer": "ESTRADA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Bairro carioca com a sede do Flamengo",
+      "answer": "GAVEA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Cidade e província do norte da Itália",
+      "answer": "UDINE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sem proveito",
+      "answer": "INUTIL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Uma característica dos picos mais altos",
+      "answer": "NEVE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Segmento de tronco de árvore",
+      "answer": "ATORA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "O cantor Valença, de \"Cavalo de Pau\"",
+      "answer": "ALCEU",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Compartimento individual para cavalos e éguas",
+      "answer": "BAIA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Outro nome do aruaná, peixe da Amazônia",
+      "answer": "AMANA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Terra da) Um apelido para a cidade de São Paulo",
+      "answer": "GAROA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Ligeiro, ágil",
+      "answer": "HABIL",
+      "row": 1,
+      "col": 7
+    },
+    "19": {
+      "clue": "Alguma coisa",
+      "answer": "QUE",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "In",
+      "answer": "INDIO",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Uma parte do olho",
+      "answer": "PUPILA",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "Um religioso",
+      "answer": "ABADE",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "O ex-Presidente Quadros (1917-1992)",
+      "answer": "JANIO",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Lado esquerdo de quem olha para o Norte",
+      "answer": "OESTE",
+      "row": 6,
+      "col": 4
+    },
+    "29": {
+      "clue": "Luz, em inglês",
+      "answer": "LIGHT",
+      "row": 6,
+      "col": 6
+    },
+    "31": {
+      "clue": "Sigla para a doença responsável pela atual pandemia",
+      "answer": "COVID",
+      "row": 6,
+      "col": 9
+    },
+    "32": {
+      "clue": "Estância mineira famosa por suas águas",
+      "answer": "ARAXA",
+      "row": 6,
+      "col": 10
+    },
+    "34": {
+      "clue": "O poeta Ivo, membro da ABL",
+      "answer": "LEDO",
+      "row": 7,
+      "col": 2
+    },
+    "36": {
+      "clue": "Reduzir a fragmentos pequenos",
+      "answer": "MOER",
+      "row": 7,
+      "col": 7
+    }
+  }
+}

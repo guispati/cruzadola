@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Trazer para si",
+      "answer": "ATRAIR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Período",
+      "answer": "FASE",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Ser doloroso ou penoso",
+      "answer": "DOER",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Substância utilizada para reduzir o atrito",
+      "answer": "OLEO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Aquele que conta os votos",
+      "answer": "APURADOR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "As iniciais do ator paulistano Cuoco",
+      "answer": "FC",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "O de cabra é uma alavanca",
+      "answer": "PE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Mencionado",
+      "answer": "ALEGADO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Macaco",
+      "answer": "SIMIO",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Região do estado de São Paulo em que há grande concentração de indústrias",
+      "answer": "ABC",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "(Mús.) Composição que tem o andamento lento",
+      "answer": "ADAGIO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "O elétrico é um carro de som usado no carnaval e outras festas",
+      "answer": "TRIO",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "Imprecar, suplicar",
+      "answer": "ROGAR",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Pôr limites a uma pessoa, a um comportamento",
+      "answer": "PODAR",
+      "row": 6,
+      "col": 6
+    },
+    "26": {
+      "clue": "Próprio do ensino",
+      "answer": "DIDATICO",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Um veículo de duas rodas",
+      "answer": "MOTONETA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "As consoantes de base",
+      "answer": "BS",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Possui 24 horas",
+      "answer": "DIA",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Que foi alvo de deslealdade",
+      "answer": "TRAIDO",
+      "row": 9,
+      "col": 4
+    },
+    "33": {
+      "clue": "A ele ou a ela",
+      "answer": "LHE",
+      "row": 10,
+      "col": 2
+    },
+    "34": {
+      "clue": "Um dos ossos do antebraço",
+      "answer": "RADIO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Aplicar convenientemente",
+      "answer": "ADAPTAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Choque de corpos",
+      "answer": "TOPE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Indiciado em inquérito criminal",
+      "answer": "REU",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Enraizado",
+      "answer": "ARRAIGADO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Volta, giro em redor de algo",
+      "answer": "RODEIO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Pop.) Indivíduo exímio no que faz",
+      "answer": "FERA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "As vogais de prato",
+      "answer": "AO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Abreviatura latina de e outras coisas",
+      "answer": "ETC",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Rapidamente",
+      "answer": "LOGO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "O mais alto posto da Marinha de Guerra",
+      "answer": "ALMIRANTE",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Medo exagerado",
+      "answer": "FOBIA",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Pequena lança",
+      "answer": "DARDO",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "(Bot.) Que tem forma de seta",
+      "answer": "SAGITAL",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "As primárias são o vermelho, o amarelo e o azul",
+      "answer": "CORES",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "(Inf.) Dor, doença",
+      "answer": "DODOI",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Emboscada",
+      "answer": "TOCAIA",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "(Pop.) Fumar",
+      "answer": "PITAR",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Possuir para uso",
+      "answer": "TER",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "(Sigla) Um tipo de madeira usada em armários, mesas etc.",
+      "answer": "MDF",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Animal abatido para alimentação, fornecimento de couro etc.",
+      "answer": "BOI",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Dolores Duran (1930-1959), cantora carioca",
+      "answer": "DD",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

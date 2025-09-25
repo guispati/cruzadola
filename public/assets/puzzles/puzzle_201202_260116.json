@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Silenciar",
+      "answer": "CALAR",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Pele",
+      "answer": "CUTIS",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "(Ouro) Um apelido dado à água, pelo seu alto valor econômico",
+      "answer": "AZUL",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Grande flor, de várias cores, porém, sem perfume",
+      "answer": "DALIA",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "A vigésima quarta hora do dia",
+      "answer": "MEIANOITE",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Biscoito wafer de chocolate muito consumido",
+      "answer": "BIS",
+      "row": 3,
+      "col": 0
+    },
+    "14": {
+      "clue": "Fricção entre dois corpos, roçando um no outro",
+      "answer": "ATRITO",
+      "row": 3,
+      "col": 4
+    },
+    "16": {
+      "clue": "Um pouco de... luto",
+      "answer": "UT",
+      "row": 4,
+      "col": 0
+    },
+    "17": {
+      "clue": "Ainda",
+      "answer": "ATE",
+      "row": 4,
+      "col": 3
+    },
+    "18": {
+      "clue": "O período de aleitamento",
+      "answer": "MAMA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Intimamente ligado",
+      "answer": "COESO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "A luz mais forte dos automóveis",
+      "answer": "FAROL",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Instituto Nacional de Seguro Social",
+      "answer": "INSS",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Substância amarelada que se forma em feridas",
+      "answer": "PUS",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Ponto de Venda",
+      "answer": "PV",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Tornar fino ou delgado",
+      "answer": "AFILAR",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "(Pop.) Dica",
+      "answer": "PLA",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Cansar em demasia",
+      "answer": "ESTROPIAR",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "Religioso sujeito a certa regra",
+      "answer": "FRADE",
+      "row": 9,
+      "col": 1
+    },
+    "32": {
+      "clue": "Pronome demonstrativo (masc.)",
+      "answer": "ESTE",
+      "row": 9,
+      "col": 7
+    },
+    "33": {
+      "clue": "Messe",
+      "answer": "SEARA",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Músculo que permite a rotação externa e a flexão da coxa",
+      "answer": "PSOAS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Árvore frutífera que emprestou seu nome a um tradicional bairro da capital paulista",
+      "answer": "CAMBUCI",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Fruto, verde ou preto, servido como aperitivo",
+      "answer": "AZEITONA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O Fernando Veríssimo escritor gaúcho",
+      "answer": "LUIS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um lado da formação militar",
+      "answer": "ALA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Ser vítima de golpe, de enganação",
+      "answer": "CAIR",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "A extrema miséria",
+      "answer": "ULTIMAS",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Gír.) Proceder como fã",
+      "answer": "TIETAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Itamar Assumpção (1949-2003), músico",
+      "answer": "IA",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Bens que a noiva leva ao marido",
+      "answer": "DOTE",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Que é de nascença",
+      "answer": "NATO",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Outro nome da escápula",
+      "answer": "OMOPLATA",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Ajuizar",
+      "answer": "ASSISAR",
+      "row": 4,
+      "col": 3
+    },
+    "19": {
+      "clue": "Um sobrenome do Pedro navegador português",
+      "answer": "ALVARES",
+      "row": 4,
+      "col": 10
+    },
+    "21": {
+      "clue": "(Fig.) Campo, setor",
+      "answer": "ESFERA",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Notícia importante, dada com exclusividade",
+      "answer": "FURO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Placa de trânsito que obriga que se diminua a velocidade a zero",
+      "answer": "PARE",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Limitada",
+      "answer": "LTDA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Andar de um edifício",
+      "answer": "PISO",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "São dois em pipoca",
+      "answer": "PES",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "Confiança",
+      "answer": "FE",
+      "row": 9,
+      "col": 1
+    }
+  }
+}

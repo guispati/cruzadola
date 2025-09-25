@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Caldo de cana-de-açúcar",
+      "answer": "GARAPA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Inform.) Vínculo, ligação",
+      "answer": "LINK",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Preparado farmacêutico de aparência e consistência leitosas",
+      "answer": "EMULSÃO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Que causa desgraça",
+      "answer": "NEFASTO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Departamento de Engenharia de Tráfego",
+      "answer": "DET",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Ter fé religiosa",
+      "answer": "CRER",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "As sonoras podem ser percebidas pelo sistema auditivo humano",
+      "answer": "ONDAS",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Macho adulto da espécie humana",
+      "answer": "HOMEM",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "(Fís.) Hz",
+      "answer": "HERTZ",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "O astatínio, elemento químico",
+      "answer": "AT",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Peças do vestuário que cobrem as mãos",
+      "answer": "LUVAS",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Renato Aragão, dos \"Trapalhões\"",
+      "answer": "RA",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Sortear com bilhetes numerados",
+      "answer": "RIFAR",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Aparelho que acusa abusos de velocidade",
+      "answer": "RADAR",
+      "row": 6,
+      "col": 6
+    },
+    "29": {
+      "clue": "Restituir a saúde",
+      "answer": "CURAR",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "Pode ser livre, borboleta etc.",
+      "answer": "NADO",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "(Hot) Pão com salsicha e outros ingredientes",
+      "answer": "DOG",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Diz-se do sistema métrico adotado pela maior parte dos países",
+      "answer": "DECIMAL",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "Romance indianista de José de Alencar (1865)",
+      "answer": "IRACEMA",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "Pode ser alta ou baixa",
+      "answer": "MARE",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Antagônico",
+      "answer": "OPOSTO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Agarrar com certa peça recurvada usada para suspender pesos",
+      "answer": "GANCHAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Pessoa sequestrada, como garantia do cumprimento de certas condições",
+      "answer": "REFEM",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "(Fig.) Desistir, por medo de enfrentar situação difícil",
+      "answer": "AMARELAR",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Uma secreção da inflamação",
+      "answer": "PUS",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Desenvolvido verticalmente",
+      "answer": "ALTO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Tecido mais usado no inverno que no verão",
+      "answer": "LÃ",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Aplicar I",
+      "answer": "IODAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Kat) Um wafer coberto com chocolate",
+      "answer": "KIT",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Ter pesadelos",
+      "answer": "SONHAR",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Que se inspira no amor",
+      "answer": "EROTICO",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Qualquer via de transporte terrestre",
+      "answer": "ESTRADA",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Abatimento",
+      "answer": "DESANIMO",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Paredão",
+      "answer": "MURADA",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Cego de uma vista",
+      "answer": "ZAROLHO",
+      "row": 4,
+      "col": 10
+    },
+    "26": {
+      "clue": "Escapar de algo ameaçador",
+      "answer": "FUGIR",
+      "row": 6,
+      "col": 2
+    },
+    "28": {
+      "clue": "São quatro em um maço de baralho",
+      "answer": "DAMAS",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "Recruta",
+      "answer": "RECO",
+      "row": 7,
+      "col": 5
+    },
+    "32": {
+      "clue": "Domingo",
+      "answer": "DOM",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Os números que indicam um endereço",
+      "answer": "CEP",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "Mulher a ser julgada",
+      "answer": "RE",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

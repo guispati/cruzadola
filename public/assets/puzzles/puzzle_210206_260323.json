@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um doce como o \"Serenata de Amor\"",
+      "answer": "BOMBOM",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Tempero usado para refogar alimentos",
+      "answer": "ALHO",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "O de sogra é um doce tradicional",
+      "answer": "OLHO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Pronome demonstrativo feminino",
+      "answer": "ESTA",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Certa ocasião",
+      "answer": "VEZ",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "O oposto de melhor",
+      "answer": "PIOR",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Colômbio",
+      "answer": "CB",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "As vogais de velho",
+      "answer": "EO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Pequeno órgão transportável que toca música pelas ruas",
+      "answer": "REALEJO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Veste usada nos ombros",
+      "answer": "XALE",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Ostentoso padrão de vida",
+      "answer": "LUXO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "O de alimentos corta, pica, mói temperos, verduras, carnes etc.",
+      "answer": "PROCESSADOR",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "O da Compadecida é uma obra de Ariano Suassuna",
+      "answer": "AUTO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Qualquer (pessoa ou coisa indeterminada)",
+      "answer": "TODO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "(Touro) Famoso chefe indígena sioux, nos EUA",
+      "answer": "SENTADO",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Pernambuco",
+      "answer": "PE",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "(Quím.) Sigla usada para determinar se uma uma solução é acida ou básica",
+      "answer": "PH",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Copo para vinho",
+      "answer": "TAÇA",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "(Olho de) O nome como ficou conhecida a primeira série de selos postais do Brasil",
+      "answer": "BOI",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Homem bonito, elegante",
+      "answer": "GALÃ",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Aparecer, nascer",
+      "answer": "SAIR",
+      "row": 9,
+      "col": 7
+    },
+    "34": {
+      "clue": "Ter plena convicção",
+      "answer": "CRER",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Que não é agudo ou bicudo",
+      "answer": "OBTUSO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Bolsa de Valores de São Paulo",
+      "answer": "BOVESPA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Azeite",
+      "answer": "OLEO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Símbolo de megahertz",
+      "answer": "MHZ",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Bolinha sem linha",
+      "answer": "BO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O outono ou a primavera",
+      "answer": "MEIAESTAÇÃO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Preso (animal) à viatura",
+      "answer": "ATRELADO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Fontaine) Escritor francês famoso por suas fábulas",
+      "answer": "LA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Sigla da entidade que representa os advogados",
+      "answer": "OAB",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "A quinta nota musical",
+      "answer": "SOL",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "O eterno rei do futebol",
+      "answer": "PELE",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Capenga",
+      "answer": "COXO",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Relatar, narrar",
+      "answer": "RACONTAR",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "A modalidade esportiva de Rafaela Silva e Mayra Aguiar",
+      "answer": "JUDO",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Dança de salão típica dos bailes populares nordestinos",
+      "answer": "XOTE",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Metódico",
+      "answer": "ORDEIRO",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "(Ingl.) A hora de maior congestionamento no trânsito",
+      "answer": "RUSH",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Refrigerante preparado com água saturada de ácido carbônico",
+      "answer": "SODA",
+      "row": 5,
+      "col": 6
+    },
+    "27": {
+      "clue": "Desse jeito",
+      "answer": "TAL",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Conjunção que denota uma justificação para o que foi dito anteriormente",
+      "answer": "POIS",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Pontifícia Universidade Católica",
+      "answer": "PUC",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Caixa usada para guardar roupas, documentos etc.",
+      "answer": "BAU",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "G",
+      "answer": "GE",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Substituição Tributária",
+      "answer": "ST",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

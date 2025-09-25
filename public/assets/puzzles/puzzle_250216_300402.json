@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ato de ficar mais ruim",
+      "answer": "PIORA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Banana) Um sorvete com fruta",
+      "answer": "SPLIT",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Árvore de frutos redondos, amarelos e sumarentos",
+      "answer": "LIMEIRA",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Milton Nascimento, músico de \"Maria Maria\"",
+      "answer": "MN",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Interjeição: chega!",
+      "answer": "BASTA",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Verbo",
+      "answer": "VB",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "(Gír.) Sapato ou calçado",
+      "answer": "PISANTE",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Peixe de água-doce, de até 2 metros",
+      "answer": "JAU",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Escondido",
+      "answer": "OCULTO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "A extremidade posterior do navio",
+      "answer": "POPA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Próprio para se mostrar ou demonstrar",
+      "answer": "OSTENSIVO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Uma porção de terra como Bananal ou Madagáscar",
+      "answer": "ILHA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Chimarrão de água fria",
+      "answer": "TERERE",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Nesse ponto",
+      "answer": "DAI",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Tapar, pegar com alcatrão mineral",
+      "answer": "BETUMAR",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Símbolo de um metal precioso",
+      "answer": "AU",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Casa noturna de diversões",
+      "answer": "BOATE",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "Sigla de um estado extremo",
+      "answer": "RR",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "O texto de uma ópera",
+      "answer": "LIBRETO",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "Letra grega, símbolo de fim",
+      "answer": "OMEGA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Cortar os cabelos rente à pele",
+      "answer": "RAPAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Peixe do Atlântico, também chamado piraroba",
+      "answer": "PAMPO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ondas Longas",
+      "answer": "OL",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "(Fig.) A atividade teatral",
+      "answer": "RIBALTA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Apreciador",
+      "answer": "AMANTE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Pal. ingl.) Um endereço na internet",
+      "answer": "SITE",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Contração da preposição para",
+      "answer": "PRA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "A sexta nota musical",
+      "answer": "LA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Uma peça de madeira",
+      "answer": "TABUA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Fazer perder o equilíbrio",
+      "answer": "ESTONTEAR",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "O Copérnico (1473-1543) astrônomo polonês",
+      "answer": "NICOLAU",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Exalar fragrâncias",
+      "answer": "VAPORAR",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Prato japonês, bolinho de arroz envolto em alga",
+      "answer": "SUSHI",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Recente",
+      "answer": "JOVEM",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Rodopio sobre um pé",
+      "answer": "PIRUETA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Cão elegante, de orelhas caídas e longo pelo sedoso",
+      "answer": "SETTER",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Estado dos EUA com capital Boise",
+      "answer": "IDAHO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Não acertar",
+      "answer": "ERRAR",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Tonta, tola",
+      "answer": "BOBA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "(Mac) Um dos sanduíches mais famosos",
+      "answer": "BIG",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "(Monde) Importante jornal francês",
+      "answer": "LE",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "Ordem de Pagamento",
+      "answer": "OP",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

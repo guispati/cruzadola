@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ponto de vendas de publicações periódicas",
+      "answer": "BANCA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Números como 2, 16 e 398",
+      "answer": "PARES",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Verme comum na água doce e no solo úmido",
+      "answer": "GORDIO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Nós, em inglês",
+      "answer": "WE",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Dira Paes, atriz",
+      "answer": "DP",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Máquina para comprimir",
+      "answer": "PRENSA",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Fora de uso por antiguidade",
+      "answer": "ARCAICO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "(Ingl.) Um espaço para o chuveiro",
+      "answer": "BOX",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Pôr em sequência",
+      "answer": "SERIAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "A dor pela morte de pessoa querida",
+      "answer": "LUTO",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "O último prato da refeição",
+      "answer": "SOBREMESA",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Doença caracterizada pela dificuldade respiratória",
+      "answer": "ASMA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "A Klink velejadora",
+      "answer": "TAMARA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "(Passar) Um sucesso da MPB",
+      "answer": "VAI",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Revestimento interno decorativo de parede",
+      "answer": "LAMBRIL",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Aquele que prende",
+      "answer": "ATADOR",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "Uma interjeição de espanto",
+      "answer": "OH",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Distrito Federal",
+      "answer": "DF",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Amar com devoção",
+      "answer": "ADORAR",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "Que ocupa vasto espaço",
+      "answer": "AMPLO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Plantação de mate",
+      "answer": "ERVAL",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Festa para celebração das núpcias",
+      "answer": "BODAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Nelson Gonçalves, cantor",
+      "answer": "NG",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Árvore que produz um óleo de propriedades medicinais",
+      "answer": "COPAIBA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Baixar, pôr no chão",
+      "answer": "ARRIAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Bater) Estar em más condições mentais",
+      "answer": "PINO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Àqueles",
+      "answer": "AOS",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Eva Wilma (1933-2021), atriz",
+      "answer": "EW",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Pedra pequena, solta, lisa",
+      "answer": "SEIXO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Determinado, resolvido",
+      "answer": "DECRETADO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Desejo de fazer rapidamente",
+      "answer": "PRESSA",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Usar de maneira imprópria, inadequada",
+      "answer": "ABUSAR",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Conjunto de cores",
+      "answer": "CROMIA",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Indivíduo tolo",
+      "answer": "OTARIO",
+      "row": 3,
+      "col": 9
+    },
+    "21": {
+      "clue": "Trazer à memória",
+      "answer": "LEMBRAR",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Rio do norte do país, formador do Madeira",
+      "answer": "MAMORE",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Ambiciosa",
+      "answer": "AVIDA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Plantação de alhos",
+      "answer": "ALHAL",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "Flanco",
+      "answer": "LADO",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "(e qual) Exatamente como",
+      "answer": "TAL",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "(Mús.) Fá menor",
+      "answer": "FM",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "Ronnie Von, cantor",
+      "answer": "RV",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Aceitar (uma proposta)",
+      "answer": "TOPAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Bombas de festejos populares",
+      "answer": "FOGOS",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Que se tem desde o nascimento (por oposição a adquirido)",
+      "answer": "INATO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Faz plantas crescerem",
+      "answer": "ADUBO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "(Buenos) A capital dos argentinos",
+      "answer": "AIRES",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Objeto que decora e prende o cabelo",
+      "answer": "TIARA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Relativo a duas nações, Estados ou países",
+      "answer": "BINACIONAL",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "Sem impurezas (fem.)",
+      "answer": "PURA",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Hectare (10.000 m²)",
+      "answer": "HA",
+      "row": 4,
+      "col": 5
+    },
+    "19": {
+      "clue": "Artigo (plural)",
+      "answer": "OS",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Ave de lindas cores, parecida com o sanhaço",
+      "answer": "SAIRA",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "(Elet.) Símbolo do volt-ampère, unidade de potência",
+      "answer": "VA",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Poder Legislativo",
+      "answer": "PL",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Ter plena convicção",
+      "answer": "CRER",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Julgar",
+      "answer": "CONCEITUAR",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Plantação de alhos",
+      "answer": "ALHAL",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "São dois no chassi",
+      "answer": "ESSES",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Campo de cereais",
+      "answer": "SEARA",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Arrolhar",
+      "answer": "TAPAR",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "Cortar o pelo de animais lanígeros",
+      "answer": "TOSAR",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Ave da ordem do papagaio",
+      "answer": "ARARA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um membro da família",
+      "answer": "TIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Veículo para transporte de passageiros",
+      "answer": "ONIBUS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Expulsar o feto do útero",
+      "answer": "PARIR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A capital do país banhado pelos mares Egeu, Jônico e Mediterrâneo",
+      "answer": "ATENAS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O ator Murilo",
+      "answer": "ROSA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Partir em pedaços",
+      "answer": "FATIAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Inverso de amor",
+      "answer": "ODIO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Fertilizante feito de excrementos de aves",
+      "answer": "GUANO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Trabalho de construção ou reparação de um edifício",
+      "answer": "OBRA",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Colocar piso de tábuas",
+      "answer": "SOALHAR",
+      "row": 0,
+      "col": 10
+    },
+    "16": {
+      "clue": "Uma pimenta mexicana",
+      "answer": "CHILI",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "(Inform.) Canal de áudio para notícias, palestras etc.",
+      "answer": "PODCAST",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Recorrer a tribunal superior",
+      "answer": "APELAR",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "Processar judicialmente",
+      "answer": "ACUSAR",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "Exercer as funções de edil",
+      "answer": "VEREAR",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "As lâminas córneas das pontas dos dedos",
+      "answer": "UNHAS",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Resíduo de comida na panela",
+      "answer": "RASPA",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Gordura usada em cozinha para preparação de alimentos",
+      "answer": "OLEO",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Rosto",
+      "answer": "CARA",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "Mamata",
+      "answer": "TETA",
+      "row": 7,
+      "col": 6
+    },
+    "34": {
+      "clue": "A abreviatura que segue Exma.",
+      "answer": "SRA",
+      "row": 8,
+      "col": 10
+    }
+  }
+}

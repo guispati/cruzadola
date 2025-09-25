@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Signo do zodíaco, vai de 21/3 a 20/4",
+      "answer": "ARIES",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Denguice",
+      "answer": "MANHA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Falta de variedade",
+      "answer": "MESMICE",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "O número de jogadores de linha no futebol",
+      "answer": "DEZ",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Por efeito de",
+      "answer": "ANTE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Mesa sagrada em uma igreja",
+      "answer": "ALTAR",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "O Capibaribe corta Recife",
+      "answer": "RIO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Um pãozinho doce de fubá e ovos",
+      "answer": "BROA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "(Quím.) O símbolo do ósmio",
+      "answer": "OS",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "As vogais de dentro",
+      "answer": "EO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Mús.) A arte de desempenhar a função de maestro",
+      "answer": "REGENCIA",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Um religioso como o padre Anchieta",
+      "answer": "JESUITA",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Homem que viola a fidelidade conjugal",
+      "answer": "ADULTERO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Tecido fino como escumilha",
+      "answer": "LO",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "(Dir.) Mulher a ser julgada",
+      "answer": "RE",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Riacho, regato",
+      "answer": "VEIO",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "Ser proveniente de",
+      "answer": "VIR",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Ser infiel",
+      "answer": "TRAIR",
+      "row": 8,
+      "col": 1
+    },
+    "32": {
+      "clue": "Corpo vegetativo das algas e fungos",
+      "answer": "TALO",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "A ti",
+      "answer": "TEU",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Fatias cortadas em forma circular",
+      "answer": "RODELAS",
+      "row": 9,
+      "col": 4
+    },
+    "36": {
+      "clue": "A Castro Alves fica em Salvador",
+      "answer": "PRAÇA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Encarcerado",
+      "answer": "PRESO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Fig.) Desistir, por medo",
+      "answer": "AMARELAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Metal muito duro, de símbolo Re",
+      "answer": "RENIO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Esta coisa",
+      "answer": "ISTO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "M",
+      "answer": "EME",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Nota musical que segue o lá",
+      "answer": "SI",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Planta de frutos arredondados, saborosos",
+      "answer": "MELOEIRO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Nenhuma das Alternativas",
+      "answer": "NDA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Protagonista de obra literária",
+      "answer": "HEROI",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Os extremos do alfabeto",
+      "answer": "AZ",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Um navio com contêineres",
+      "answer": "CARGUEIRO",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Tão grande",
+      "answer": "TANTO",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Ato impensado",
+      "answer": "BESTEIRA",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Agradável ao paladar",
+      "answer": "SABOROSO",
+      "row": 3,
+      "col": 10
+    },
+    "21": {
+      "clue": "Camada fina e rasteira de pequenas plantas",
+      "answer": "RELVA",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Neste lugar",
+      "answer": "CA",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Juliana para íntimos",
+      "answer": "JU",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Não deixar ir",
+      "answer": "DETER",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Tom claro do roxo",
+      "answer": "LILAS",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "(Pop.) Adiantamento de salário",
+      "answer": "VALE",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "É calle na Argentina",
+      "answer": "RUA",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "Dar nascimento a filhos",
+      "answer": "TER",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Tom Petty, músico norte-americano de \"Free Fallin\"",
+      "answer": "TP",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Departamento de Pessoal",
+      "answer": "DP",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

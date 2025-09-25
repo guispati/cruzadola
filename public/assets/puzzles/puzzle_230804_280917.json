@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um instrumento musical que possui teclado",
+      "answer": "CRAVO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Um tom entre o branco e o preto",
+      "answer": "CINZA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "A tendência de quem assistiu a uma cena engraçada",
+      "answer": "RIR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O contrário de escurecer",
+      "answer": "CLAREAR",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Inaugurar",
+      "answer": "ESTREAR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Ministério da Pesca e Aquicultura",
+      "answer": "MPA",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Que contorna",
+      "answer": "RODEADOR",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Executivo Nacional",
+      "answer": "EN",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Elem. de comp.: arte, ofício, habilidade",
+      "answer": "TECNO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Extended Play, tipo de gravação de álbuns de música",
+      "answer": "EP",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Outro nome da papeira, hipertrofia da tireoide",
+      "answer": "BOCIO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Peixe de água doce, de coloração variada",
+      "answer": "CARPA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Olívia Byington, cantora",
+      "answer": "OB",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "(Gír.) Travar (celular, computador etc.)",
+      "answer": "BUGAR",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Igreja Presbiteriana",
+      "answer": "IP",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Concorrente",
+      "answer": "OPOSITOR",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "Pessoa que se julga o maioral",
+      "answer": "TAL",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Substância concentrada, preparada de outra",
+      "answer": "EXTRATO",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "Articulação do braço, entre o úmero e o cúbito",
+      "answer": "TROCLEA",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Sigla usada em bancos",
+      "answer": "DOC",
+      "row": 9,
+      "col": 8
+    },
+    "38": {
+      "clue": "Direção oposta ao leste",
+      "answer": "OESTE",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "A banda do sucesso \"Vou Deixar\"",
+      "answer": "SKANK",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Estar convencido de que algo é verdadeiro",
+      "answer": "CRER",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um prato que mistura arroz, manteiga, queijo ralado e outros ingredientes",
+      "answer": "RISOTO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Estilo decorativo dos anos 1930",
+      "answer": "ARTDECO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A massa de água que circunda os continentes",
+      "answer": "OCEANO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Querido",
+      "answer": "CARO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Mover-se de um lugar a outro com as próprias pernas ou com um meio de transporte",
+      "answer": "IR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "E não, e ninguém",
+      "answer": "NEM",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A carta mais importante no jogo do truco",
+      "answer": "ZAPE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Um animal como a armadeira e a viúva-negra",
+      "answer": "ARANHA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Partido, facção, grupo",
+      "answer": "LADO",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Comprovante de entrega ou pagamento",
+      "answer": "RECIBO",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "Revidar à provocação",
+      "answer": "REAGIR",
+      "row": 3,
+      "col": 7
+    },
+    "21": {
+      "clue": "Conteúdo de um prato de comida bem cheio",
+      "answer": "PRATADA",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "O artista plástico pernambucano Romero",
+      "answer": "BRITTO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Despesas feitas em processo judicial",
+      "answer": "CUSTAS",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Partícula que constitui o núcleo do átomo",
+      "answer": "PROTON",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "O esporte de George Foreman e Joe Frazier",
+      "answer": "BOXE",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Placa de trânsito que exige a suspensão do movimento",
+      "answer": "PARE",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "O maior jogador de futebol de todos os tempos",
+      "answer": "PELE",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "O estilo musical dos grupos \"Led Zeppelin\" e \"Deep Purple\"",
+      "answer": "ROCK",
+      "row": 7,
+      "col": 10
+    },
+    "33": {
+      "clue": "A banda Hermanos",
+      "answer": "LOS",
+      "row": 8,
+      "col": 2
+    },
+    "36": {
+      "clue": "Claude Troisgros, chef e apresentador",
+      "answer": "CT",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

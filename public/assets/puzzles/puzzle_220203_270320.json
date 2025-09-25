@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma festa anual dos cristãos",
+      "answer": "PASCOA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Sentir grande afeição por alguém ou algo",
+      "answer": "AMAR",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Ímpio",
+      "answer": "ATEU",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Uma palmeira de semente oleaginosa",
+      "answer": "BABAÇU",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "(Pig) Uma porquinha cor-de-rosa, de histórias infantis",
+      "answer": "PEPPA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Ficar acordado, em vigília",
+      "answer": "VELAR",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Assentar certa cobertura de construções",
+      "answer": "ENTELHAR",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Instituto Agronômico",
+      "answer": "IA",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Norma que regulamenta direitos e deveres",
+      "answer": "LEI",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "O tecido para uma roupa",
+      "answer": "CORTE",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Nascida em Kiev",
+      "answer": "UCRANIANA",
+      "row": 5,
+      "col": 1
+    },
+    "26": {
+      "clue": "Nem esta nem aquela",
+      "answer": "OUTRA",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Gás de cozinha",
+      "answer": "GLP",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Abreviatura de ante Meridiem (antes do meio-dia)",
+      "answer": "AM",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Que tem as honras de um posto ou grau",
+      "answer": "GRADUADO",
+      "row": 7,
+      "col": 3
+    },
+    "33": {
+      "clue": "Peça íntima feminina",
+      "answer": "SUTIÃ",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "A véspera de hoje",
+      "answer": "ONTEM",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "Lavrador",
+      "answer": "ARADOR",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "A Garcia da obra de Machado de Assis (1878)",
+      "answer": "IAIA",
+      "row": 9,
+      "col": 7
+    },
+    "39": {
+      "clue": "(Mús.) Executado por apenas uma pessoa",
+      "answer": "SOLO",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Sair com ímpeto (um líquido)",
+      "answer": "JORRAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um material onde se pode escrever",
+      "answer": "PAPEL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um instituto de estudos superiores",
+      "answer": "ATENEU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Que provoca infecção",
+      "answer": "SEPTICO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um carro de duas portas",
+      "answer": "CUPE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "As duas primeiras letras do alfabeto",
+      "answer": "AB",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O oposto de fechada",
+      "answer": "ABERTA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Doença, enfermidade",
+      "answer": "MAL",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Um fruto roxo-escuro, tido como energéticos",
+      "answer": "AÇAI",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Da roça",
+      "answer": "RURAL",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Danificado, estragado",
+      "answer": "AVARIADO",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Substância que se obtém com a queima do tabaco",
+      "answer": "ALCATRÃO",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "Função ou lugar de destaque numa escala hierárquica",
+      "answer": "HONRA",
+      "row": 3,
+      "col": 5
+    },
+    "21": {
+      "clue": "Colocar (o motorista) uma marcha",
+      "answer": "ENGATAR",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "O urro do leão",
+      "answer": "RUGIDO",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Povoação de poucas casas",
+      "answer": "ALDEIA",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "No xadrez são 64",
+      "answer": "CASAS",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Jardim de laranjeiras, jabuticabeiras, limoeiros etc.",
+      "answer": "POMAR",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Uma parede para grafites",
+      "answer": "MURO",
+      "row": 7,
+      "col": 1
+    },
+    "32": {
+      "clue": "Casar",
+      "answer": "UNIR",
+      "row": 7,
+      "col": 7
+    },
+    "34": {
+      "clue": "Esse, isso etc.",
+      "answer": "TAL",
+      "row": 8,
+      "col": 2
+    },
+    "37": {
+      "clue": "A UF de Vassouras e Niterói",
+      "answer": "RJ",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

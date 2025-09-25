@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O acetilsalicílico é um remédio para dor de cabeça",
+      "answer": "ACIDO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Extensão de terra fértil no meio de um deserto",
+      "answer": "OASIS",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "A capital das Filipinas",
+      "answer": "MANILA",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Antes da ocasião própria",
+      "answer": "CEDO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Famoso religioso indiano",
+      "answer": "BUDA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Quadro com instrumentos de comando em automóvel, avião etc.",
+      "answer": "PAINEL",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "O Babá das \"Mil e Uma Noites\"",
+      "answer": "ALI",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Cidade dos EUA, grande centro automobilístico",
+      "answer": "DETROIT",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Prescrever como médico",
+      "answer": "RECEITAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "A combinação de uma preposição com um pronome demonstrativo",
+      "answer": "AO",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Distender",
+      "answer": "ESTICAR",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "(Red.) Uma das mais importantes instituições privadas de ensino superior do Brasil",
+      "answer": "GV",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Uma lesão ocular",
+      "answer": "CATARATA",
+      "row": 6,
+      "col": 3
+    },
+    "29": {
+      "clue": "Aquele que aluga",
+      "answer": "LOCADOR",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Trazer consigo ou em si",
+      "answer": "TER",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Objeto que ajuda a ver ou ler",
+      "answer": "OCULOS",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "O dinheiro japonês",
+      "answer": "IENE",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Bonita",
+      "answer": "BELA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Afluxo de líquidos",
+      "answer": "ONDADA",
+      "row": 9,
+      "col": 5
+    },
+    "37": {
+      "clue": "Molusco que produz pérolas",
+      "answer": "OSTRA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Deixar de funcionar",
+      "answer": "PARAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Substância fóssil usada em bijuteria e joalheria",
+      "answer": "AMBAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O sustentáculo da flor",
+      "answer": "CAULE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A lista dos capítulos",
+      "answer": "INDICE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Tempo de 24 horas",
+      "answer": "DIA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Orígenes Lessa (1903-1986), romancista paulista",
+      "answer": "OL",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Aumentar a agressividade de",
+      "answer": "ACIRRAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Matem.) Sen",
+      "answer": "SENO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Noção ou conhecimento",
+      "answer": "IDEIA",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Que não está preso",
+      "answer": "SOLTO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Estimulante (alimento)",
+      "answer": "APETITOSO",
+      "row": 1,
+      "col": 5
+    },
+    "16": {
+      "clue": "Agredir física ou moralmente",
+      "answer": "ATACAR",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "Um exercício para quem está aprendendo a ler e escrever",
+      "answer": "DITADO",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Subir com cordas e cravos",
+      "answer": "ESCALAR",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Dividir proporcionalmente",
+      "answer": "RATEAR",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "A esfera terrestre",
+      "answer": "GLOBO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Aqueles a quem se fala ou se escreve",
+      "answer": "VOCES",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Barraca",
+      "answer": "TENDA",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Purificar (açúcar)",
+      "answer": "AREAR",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "(The) A banda de rock do sucesso \"She Sells Sanctuary\"",
+      "answer": "CULT",
+      "row": 7,
+      "col": 2
+    },
+    "33": {
+      "clue": "A viagem que faz pressupor um regresso",
+      "answer": "IDA",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "O símbolo do netúnio",
+      "answer": "NP",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

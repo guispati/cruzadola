@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "(e Hezergovina) Nação dos Balcãs, com capital Sarajevo",
+      "answer": "BOSNIA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O \"de pernas tortas\" era o jogador Garrincha",
+      "answer": "ANJO",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "A moeda da França e da Alemanha",
+      "answer": "EURO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Passar (um rio) perto de",
+      "answer": "BANHAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Aeronáutica",
+      "answer": "AVIAÇÃO",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Ovo, na Inglaterra",
+      "answer": "EGG",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "O mais velho membro de uma comunidade",
+      "answer": "DEÃO",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Ferramenta para recolher entulho",
+      "answer": "PA",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "(Fís.) O símbolo do méson",
+      "answer": "MU",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Jogo de azar com cartelas numeradas de 1 a 90",
+      "answer": "LOTO",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "(Salvador) A capital de El Salvador",
+      "answer": "SAN",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Isento, livre",
+      "answer": "IMUNE",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "O músico Melodia (1951-2017), de \"Pérola Negra\"",
+      "answer": "LUIZ",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "O fundador do Islamismo",
+      "answer": "MAOME",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Lima serreada de finos dentes",
+      "answer": "MURÇA",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Tocadora de um instrumento de cordas comum em festas populares",
+      "answer": "VIOLEIRA",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "(Red., ingl.) Adolescente",
+      "answer": "TEEN",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Que não está no domínio de suas faculdades mentais",
+      "answer": "INSANO",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Chamado a si",
+      "answer": "ATRAIDO",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Recibo de Depósito Bancário",
+      "answer": "RDB",
+      "row": 9,
+      "col": 8
+    },
+    "36": {
+      "clue": "Tecido ralo e fino",
+      "answer": "LO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "A capital do Tibete",
+      "answer": "LHASA",
+      "row": 10,
+      "col": 3
+    },
+    "38": {
+      "clue": "(Open) Importante torneio de tênis realizado nos EUA",
+      "answer": "US",
+      "row": 10,
+      "col": 9
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A capital da UF PA",
+      "answer": "BELEM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Conjunção que indica alternativa",
+      "answer": "OU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Síndrome Respiratória Aguda Grave",
+      "answer": "SRAG",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Abrev.: o mês 11",
+      "answer": "NOV",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Lagoa da capital baiana, ponto turístico",
+      "answer": "ABAETE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Um personagem como Atchim ou Feliz",
+      "answer": "ANÃO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Lau) Um personagem de Maurício de Sousa",
+      "answer": "NHO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Juliana Alves, atriz carioca",
+      "answer": "JA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Tecido fino e transparente",
+      "answer": "ORGANZA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "(de Graças) Importante feriado dos EUA e Canadá",
+      "answer": "AÇÃO",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Capaz",
+      "answer": "IDONEO",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "(Ademir da) Um ídolo do futebol brasileiro",
+      "answer": "GUIA",
+      "row": 3,
+      "col": 1
+    },
+    "18": {
+      "clue": "Cidade paranaense próxima a Maringá",
+      "answer": "PAIÇANDU",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "Uma substância sedativa",
+      "answer": "LUMINAL",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Maltratar com pancadas",
+      "answer": "SURRAR",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Deslocar",
+      "answer": "MOVER",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "(São) A capital maranhense",
+      "answer": "LUIS",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "Matéria como o cobre ou o alumínio",
+      "answer": "METAL",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Em menor grau ou quantidade",
+      "answer": "MENOS",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "Esforço fora do comum",
+      "answer": "LIDA",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "Sufixo diminutivo",
+      "answer": "ETO",
+      "row": 8,
+      "col": 1
+    },
+    "32": {
+      "clue": "Abreviatura de observação, usada em cartas náuticas",
+      "answer": "OBS",
+      "row": 8,
+      "col": 10
+    },
+    "34": {
+      "clue": "Interjeição de admiração, espanto",
+      "answer": "IH",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

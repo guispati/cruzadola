@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Ingl.) Uma intervenção estética",
+      "answer": "LIFTING",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Abreviatura do nome do mês entre Jan e Mar",
+      "answer": "FEV",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Opinião, modo de pensar",
+      "answer": "IDEIA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Excesso",
+      "answer": "ABUSO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Fim, limite, termo",
+      "answer": "META",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Rugoso",
+      "answer": "CRESPO",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Empregada doméstica que cuida das crianças",
+      "answer": "AMA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Uma proteção contra arrombamentos",
+      "answer": "TRANCA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Suco feito de uma fruta rica em vitamina C",
+      "answer": "LARANJADA",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Epitácio Pessoa, político",
+      "answer": "EP",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Usado",
+      "answer": "GASTO",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "(Abrev.) Avenida",
+      "answer": "AV",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Carrapateiro, rícino",
+      "answer": "MAMONEIRO",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Pegar com anzol",
+      "answer": "PESCAR",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Cidade litorânea da zona cacaueira da Bahia",
+      "answer": "UNA",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Um roedor do hemisfério norte, de cauda em forma de remo",
+      "answer": "CASTOR",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Composto solvente",
+      "answer": "ETER",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Gargalhadas",
+      "answer": "RISOS",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Ídolo",
+      "answer": "HEROI",
+      "row": 9,
+      "col": 6
+    },
+    "34": {
+      "clue": "Típica exclamação do caipira",
+      "answer": "UAI",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Erva usada em pizzas",
+      "answer": "OREGANO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Polimento",
+      "answer": "LIMAGEM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A mesma coisa de antes",
+      "answer": "IDEM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Relativo ao embrião em fase de desenvolvimento",
+      "answer": "FETAL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Nastácia) Personagem do \"Sítio do Pica-pau Amarelo\"",
+      "answer": "TIA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Instituto Agronômico",
+      "answer": "IA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Assegurar formalmente",
+      "answer": "GARANTIR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Um carro da VW, não mais fabricado",
+      "answer": "FUSCA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Peixe muito procurado na pesca esportiva",
+      "answer": "ESPADA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Viagem de avião",
+      "answer": "VOO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "O Jorge músico de \"Fio Maravilha\"",
+      "answer": "BENJOR",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Colocar o sinal de fusão de duas vogais idênticas numa só",
+      "answer": "CRASEAR",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Famosa vila de Porto Seguro, na Bahia, destino turístico",
+      "answer": "TRANCOSO",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "O mês em que foram lançadas as bombas atômicas sobre as cidades japonesas",
+      "answer": "AGOSTO",
+      "row": 4,
+      "col": 3
+    },
+    "19": {
+      "clue": "Viveiro de aves",
+      "answer": "AVIARIO",
+      "row": 4,
+      "col": 10
+    },
+    "21": {
+      "clue": "Pequeno mamão",
+      "answer": "PAPAIA",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Um dos melhores jogadores da história do futebol",
+      "answer": "MESSI",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Nem esta nem aquela",
+      "answer": "OUTRA",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Pequeno peixe comum em aquários",
+      "answer": "NEON",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Diz-se de alimento não cozido",
+      "answer": "CRU",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Abreviatura de eletrencefalograma",
+      "answer": "EEG",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Ele, em inglês",
+      "answer": "HE",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

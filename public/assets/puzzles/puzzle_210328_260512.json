@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "A emocionante montanha encontrada em parques de diversões",
+      "answer": "RUSSA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O gênero musical no qual B.B. King é um ícone",
+      "answer": "BLUES",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "O físico inventor de uma escala de temperaturas",
+      "answer": "CELSIUS",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "As iniciais do ator Vereza",
+      "answer": "CV",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Historinha engraçada",
+      "answer": "PIADA",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Hanna-Barbera",
+      "answer": "HB",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Jogo de ferramentas",
+      "answer": "KIT",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Fazer brotar fogo de",
+      "answer": "ACENDER",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Animal amarronzado, de cornos ramificados, pernas longas e cauda curta",
+      "answer": "VEADO",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Monte de areia típico de Jericoacoara e Natal",
+      "answer": "DUNA",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Peixe de água doce, comum em aquários",
+      "answer": "BARBO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "A cor oficial do exército brasileiro",
+      "answer": "VERDE",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Presilha para transporte de uma mala",
+      "answer": "ALÇA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Remendar",
+      "answer": "COSER",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Que tem vida eterna",
+      "answer": "IMORTAL",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Letra que vale 10 em algarismos romanos",
+      "answer": "XIS",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Título dos antigos reis iranianos",
+      "answer": "XA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "As primárias são o vermelho, o amarelo e o azul",
+      "answer": "CORES",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Um pouco de... luxúria",
+      "answer": "XU",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "Pequena cidade pernambucana da região da Mata Meridional, na divisa com Alagoas",
+      "answer": "MARAIAL",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Espécie de vinho feito com o suco fermentado das maçãs",
+      "answer": "SIDRA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Fácil de ver, de entender",
+      "answer": "OBVIO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O estilo musical dos \"Rolling Stones\"",
+      "answer": "ROCK",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Sigla do estado de Brusque e Camboriú",
+      "answer": "SC",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Sociedade Esportiva Palmeiras",
+      "answer": "SEP",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Unido por um pacto",
+      "answer": "ALIADO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Um dos vasos do banheiro",
+      "answer": "BIDE",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Um angolano nascido na capital",
+      "answer": "LUANDES",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O que transforma mico em músico",
+      "answer": "US",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Sigla de Serviço Brasileiro de Apoio às Micro e Pequenas Empresas",
+      "answer": "SEBRAE",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "(Pop.) Amolação, chatice",
+      "answer": "SACO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Alguém, alguma pessoa",
+      "answer": "VIVALMA",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "O roqueiro Jimi (1942-1970)",
+      "answer": "HENDRIX",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Parte do rosário, composta de cinco mistérios",
+      "answer": "TERÇO",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Fita adesiva",
+      "answer": "DUREX",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Conter em si, abranger",
+      "answer": "ABARCAR",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "(Países) Outro nome da Holanda",
+      "answer": "BAIXOS",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Fut.) Uma forma de chutar a bola no ar",
+      "answer": "VOLEIO",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "(Gír.) Indivíduo",
+      "answer": "CARA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Grande tronco de madeira, sem a casca",
+      "answer": "TORA",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Luta japonesa, de homens corpulentos",
+      "answer": "SUMO",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "Entre Sex e Dom",
+      "answer": "SAB",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Michael Douglas, ator de \"Assédio Sexual\"",
+      "answer": "MD",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Cinquenta e cinco, em algarismos romanos",
+      "answer": "LV",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

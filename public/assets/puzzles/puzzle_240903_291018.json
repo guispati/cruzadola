@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Bíbl.) O irmão de Caim",
+      "answer": "ABEL",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Don) Personagem da literatura, sedutor, orgulhoso e sem escrúpulos",
+      "answer": "JUAN",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "A maior cavidade do estômago dos bovinos",
+      "answer": "RUMEN",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Acima",
+      "answer": "SUPRA",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Investigar como agente secreto",
+      "answer": "ESPIONAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Astor Piazzolla (1921-1992), músico argentino",
+      "answer": "AP",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Santo",
+      "answer": "STO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Outro nome do bumbo, instrumento de percussão",
+      "answer": "ZABUMBA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Boba",
+      "answer": "TOLA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Fino",
+      "answer": "TENUE",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "(Fig.) O que está muito alto",
+      "answer": "ALTURAS",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Remarcar para data futura",
+      "answer": "ADIAR",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Destino cheio de amarguras",
+      "answer": "SINA",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Um imposto trabalhista",
+      "answer": "ESOCIAL",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Clube Atlético Mineiro",
+      "answer": "CAM",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "O símbolo do netúnio, elemento radiativo",
+      "answer": "NP",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Nivelado",
+      "answer": "APLANADO",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Tão numerosa",
+      "answer": "TANTA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Ministrar tranquilizantes",
+      "answer": "SEDAR",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "E",
+      "answer": "ESTE",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "(Pop.) Que se move devagar",
+      "answer": "MOLE",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Canto, quina",
+      "answer": "ARESTA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Seios",
+      "answer": "BUSTO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Muito cheio de si",
+      "answer": "EMPOLADO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Disciplina social",
+      "answer": "LEI",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Indígenas que habitam o alto do rio Xingu (MT)",
+      "answer": "JURUNAS",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "Um carro da VW",
+      "answer": "UP",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Indivíduo de um povo afro-asiático",
+      "answer": "ARABE",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "(Valley) Famosa região vinífera dos EUA",
+      "answer": "NAPA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "A forma do que é nuciforme",
+      "answer": "NOZ",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Conhecer",
+      "answer": "SABER",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Relativo à natureza",
+      "answer": "NATURAL",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Feito para a arte dos sons e do canto",
+      "answer": "MUSICADO",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Ferramenta de mecânico",
+      "answer": "ALICATE",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Parede de barro aplicado sobre grades",
+      "answer": "TAIPA",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Rio que, junto com o Beni, formar o Madeira",
+      "answer": "MAMORE",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "Os sinais que delimitam uma citação",
+      "answer": "ASPAS",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "O tenista Rafael, um ícone da modalidade",
+      "answer": "NADAL",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Tudo o que se crê existir",
+      "answer": "ENTE",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "(Leñas) Uma estação argentina de esqui",
+      "answer": "LAS",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Também não",
+      "answer": "NEM",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Novo Testamento",
+      "answer": "NT",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

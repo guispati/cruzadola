@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Violento",
+      "answer": "BRUTAL",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Uma multinacional do ramo esportivo",
+      "answer": "NIKE",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "A figura de maior valor no baralho",
+      "answer": "REI",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Diz-se de campo pronto para explodir",
+      "answer": "MINADO",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Abreviatura latina de ibidem (no mesmo lugar)",
+      "answer": "IB",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Renomada",
+      "answer": "FAMOSA",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Em informática, dados sobre outros dados",
+      "answer": "METADATA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Ferramenta para recolher entulho",
+      "answer": "PA",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Maciez",
+      "answer": "LISURA",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Um aparelho de comunicação",
+      "answer": "FAX",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "Guia",
+      "answer": "LIDER",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Folia",
+      "answer": "FARRA",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Tanto",
+      "answer": "TÃO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "O cantor Santiago (1946-2013), da MPB",
+      "answer": "EMILIO",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Diário Oficial",
+      "answer": "DO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Indivíduo que vive na dependência de outro",
+      "answer": "ACOSTADO",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "Relação de nomes ou objetos",
+      "answer": "ELENCO",
+      "row": 8,
+      "col": 2
+    },
+    "30": {
+      "clue": "(Ingl.) Na moda",
+      "answer": "IN",
+      "row": 8,
+      "col": 9
+    },
+    "31": {
+      "clue": "Com atenção",
+      "answer": "ALERTA",
+      "row": 9,
+      "col": 1
+    },
+    "32": {
+      "clue": "(e amor) Slogan hippie dos anos 1960/70",
+      "answer": "PAZ",
+      "row": 9,
+      "col": 8
+    },
+    "33": {
+      "clue": "(dera!) Tomara que sucedesse",
+      "answer": "QUEM",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Um contrário de triste",
+      "answer": "ALEGRE",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Tecido empregado na confecção de roupas",
+      "answer": "BRIM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Agitação, insurreição",
+      "answer": "REBELIÃO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Uma interjeição de surpresa",
+      "answer": "UI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Fig.) Tornar experiente",
+      "answer": "AMADURECER",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Polir as rugosidades do ferro",
+      "answer": "LIMAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O centro espacial e aeronáutico dos EUA",
+      "answer": "NASA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Metade da viagem",
+      "answer": "IDA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Nocaute",
+      "answer": "KO",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Documento que relaciona as mercadorias ou os serviços pagos por um usufrutuário",
+      "answer": "NOTAFISCAL",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Momento sucessivo e diferente",
+      "answer": "FASE",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Preço cobrado ao usuário pela prestação de algum serviço",
+      "answer": "TAXA",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Considerado",
+      "answer": "TIDO",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Imitar comicamente",
+      "answer": "PARODIAR",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "(Gír.) Dificuldade, situação adversa",
+      "answer": "FRIA",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "(Abrev.) Limitada",
+      "answer": "LTDA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "O da Boa Vista é o bairro carioca onde fica o Cristo Redentor e a Vista Chinesa",
+      "answer": "ALTO",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "Soma",
+      "answer": "MONTA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "(Paraíba) Cidade mineira da divisa com o Rio de Janeiro",
+      "answer": "ALEM",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Seis mais cinco",
+      "answer": "ONZE",
+      "row": 7,
+      "col": 10
+    },
+    "29": {
+      "clue": "Segue o cá",
+      "answer": "ELE",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "Som que imita o latido de um cão",
+      "answer": "AU",
+      "row": 9,
+      "col": 1
+    },
+    "32": {
+      "clue": "Paulo Goulart, ator",
+      "answer": "PG",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

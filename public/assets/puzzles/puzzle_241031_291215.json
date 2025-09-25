@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cinza-escuro",
+      "answer": "CHUMBO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Abrev.) Limitada",
+      "answer": "LTDA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "(Zequinha de) O compositor (1880-1935) de \"Tico-Tico no Fubá\"",
+      "answer": "ABREU",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "A terceira maior cidade inglesa",
+      "answer": "LEEDS",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "(Fr.) Rua larga, arborizada",
+      "answer": "BOULEVARD",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O médico Burnier (1881-1971), da oftalmologia",
+      "answer": "PENIDO",
+      "row": 3,
+      "col": 2
+    },
+    "15": {
+      "clue": "Crença em Deus",
+      "answer": "FE",
+      "row": 3,
+      "col": 9
+    },
+    "16": {
+      "clue": "Bravura",
+      "answer": "DENODO",
+      "row": 4,
+      "col": 1
+    },
+    "17": {
+      "clue": "Uma marca de canetas",
+      "answer": "BIC",
+      "row": 4,
+      "col": 8
+    },
+    "18": {
+      "clue": "Grande quantidade, abundância",
+      "answer": "SOMA",
+      "row": 5,
+      "col": 0
+    },
+    "19": {
+      "clue": "Abobada, ingênua",
+      "answer": "TOLA",
+      "row": 5,
+      "col": 7
+    },
+    "20": {
+      "clue": "Menino mestiço de indígena com branco",
+      "answer": "PIA",
+      "row": 6,
+      "col": 0
+    },
+    "21": {
+      "clue": "Um gesto de carinho",
+      "answer": "CAFUNE",
+      "row": 6,
+      "col": 4
+    },
+    "23": {
+      "clue": "Sigla do estado de Passo Fundo",
+      "answer": "RS",
+      "row": 7,
+      "col": 0
+    },
+    "24": {
+      "clue": "Um doce de amendoim",
+      "answer": "PAÇOCA",
+      "row": 7,
+      "col": 3
+    },
+    "26": {
+      "clue": "Do período geológico do aparecimento das aves",
+      "answer": "JURASSICO",
+      "row": 8,
+      "col": 2
+    },
+    "28": {
+      "clue": "(Pop.) Irritabilidade fácil",
+      "answer": "NEURA",
+      "row": 9,
+      "col": 0
+    },
+    "30": {
+      "clue": "Que tem cor avermelhada",
+      "answer": "CORAL",
+      "row": 9,
+      "col": 6
+    },
+    "31": {
+      "clue": "Tecido usado em véus",
+      "answer": "TULE",
+      "row": 10,
+      "col": 0
+    },
+    "32": {
+      "clue": "Em TV, intervalo deixado nos programas para inserção de comerciais",
+      "answer": "JANELA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A parte por onde se pega uma picareta",
+      "answer": "CABO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Canal de filmes da TV paga",
+      "answer": "HBO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(NE) Peneira de fibra vegetal",
+      "answer": "URUPEMA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Cabelo comprido",
+      "answer": "MELENA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A tenista paulistana Maria Esther (1939-2018)",
+      "answer": "BUENO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Gír.) Conversa-mole",
+      "answer": "LERO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Transferência Eletrônica Disponível",
+      "answer": "TED",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Denis Diderot, filósofo",
+      "answer": "DD",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Povo indígena que habitava o México",
+      "answer": "ASTECA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Partido, facção",
+      "answer": "LADO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Caixilho para janela",
+      "answer": "VIDRAÇA",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Um corte especial de carne",
+      "answer": "FILE",
+      "row": 3,
+      "col": 9
+    },
+    "16": {
+      "clue": "Número par",
+      "answer": "DOIS",
+      "row": 4,
+      "col": 1
+    },
+    "17": {
+      "clue": "Ilha das Antilhas Holandesas, no Caribe",
+      "answer": "BONAIRE",
+      "row": 4,
+      "col": 8
+    },
+    "18": {
+      "clue": "(Ingl.) Momento de maior velocidade no final de uma corrida",
+      "answer": "SPRINT",
+      "row": 5,
+      "col": 0
+    },
+    "19": {
+      "clue": "Cidade do Arizona, nos EUA",
+      "answer": "TUCSON",
+      "row": 5,
+      "col": 7
+    },
+    "21": {
+      "clue": "O oposto da coroa",
+      "answer": "CARA",
+      "row": 6,
+      "col": 4
+    },
+    "22": {
+      "clue": "Escura, sem brilho",
+      "answer": "FOSCA",
+      "row": 6,
+      "col": 6
+    },
+    "24": {
+      "clue": "Pode ser de batatas",
+      "answer": "PURE",
+      "row": 7,
+      "col": 3
+    },
+    "25": {
+      "clue": "Parte de baixo do tênis",
+      "answer": "SOLA",
+      "row": 7,
+      "col": 10
+    },
+    "26": {
+      "clue": "Segue Jun",
+      "answer": "JUL",
+      "row": 8,
+      "col": 2
+    },
+    "27": {
+      "clue": "Pó branco usado na construção civil",
+      "answer": "CAL",
+      "row": 8,
+      "col": 9
+    },
+    "29": {
+      "clue": "A primeira pessoa do singular",
+      "answer": "EU",
+      "row": 9,
+      "col": 1
+    }
+  }
+}

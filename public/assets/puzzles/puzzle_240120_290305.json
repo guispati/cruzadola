@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Pop.) Briga em que se envolvem numerosas pessoas",
+      "answer": "RIFIFI",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Ave que briga numa rinha",
+      "answer": "GALO",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Vagaroso",
+      "answer": "MOROSO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Executivo Nacional",
+      "answer": "EN",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Diz-se de pessoa que não tem boas qualidades",
+      "answer": "MA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Argola de ferro com que se prendiam os escravos fujões",
+      "answer": "PEGA",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Abrev.: Indústria",
+      "answer": "IND",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Borracha usada na confecção de brinquedos",
+      "answer": "EVA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Diz-se da erva que infesta uma plantação",
+      "answer": "DANINHA",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Lutador de uma arte marcial oriental",
+      "answer": "NINJA",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "A coletividade em seu conjunto",
+      "answer": "TODOS",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Que está na medida certa (fem.)",
+      "answer": "AJUSTADA",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "(Ingl.) Na guerra, setor mais avançado das tropas",
+      "answer": "FRONT",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Pintar com substância branca",
+      "answer": "CAIAR",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "Lamúrias, queixas",
+      "answer": "AIS",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Igualada na borda",
+      "answer": "APARADA",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Rebeca Andrade, ginasta",
+      "answer": "RA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Cabos de energia",
+      "answer": "FIOS",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Claridade emitida pela lanterna",
+      "answer": "LUZ",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "A cantora Carey",
+      "answer": "MARIAH",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Grande admirador",
+      "answer": "FÃ",
+      "row": 9,
+      "col": 9
+    },
+    "37": {
+      "clue": "As saliências de uma engrenagem",
+      "answer": "DENTES",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Olá, em Roma",
+      "answer": "CIAO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Grande cavidade do estômago dos bovinos",
+      "answer": "RUMEN",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um sistema de transmissão de rádio",
+      "answer": "FM",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Três letras que ficam juntas no lado direito do teclado",
+      "answer": "IOP",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Ator e dançarino estadunidense de \"Ao Compasso do Amor\"",
+      "answer": "FREDASTAIRE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Prática indiana",
+      "answer": "IOGA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "A UF de Pirenópolis e Goiânia",
+      "answer": "GO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Peça grossa e robusta de madeira",
+      "answer": "LENHO",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "O local de trabalho de Filipe Toledo (pl.)",
+      "answer": "ONDAS",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Uma instituição de assistência hospitalar",
+      "answer": "SANTACASA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Das aves (fem.)",
+      "answer": "AVIARIA",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Cidade catarinense da região de Blumenau",
+      "answer": "INDAIAL",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "(Augusto dos) Famoso poeta paraibano (1884-1914)",
+      "answer": "ANJOS",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Misturar com o elemento químico I",
+      "answer": "IODAR",
+      "row": 3,
+      "col": 7
+    },
+    "21": {
+      "clue": "Uma abreviatura do nome do mês 6",
+      "answer": "JUN",
+      "row": 4,
+      "col": 3
+    },
+    "24": {
+      "clue": "Unidade de capacidade elétrica, de símbolo F",
+      "answer": "FARAD",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Mó dos lagares de azeite que esmaga a azeitona",
+      "answer": "ADUFA",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Causa, motivo",
+      "answer": "RAZÃO",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Uma conjunção explicativa",
+      "answer": "POIS",
+      "row": 7,
+      "col": 5
+    },
+    "32": {
+      "clue": "Fundo de Amparo ao Trabalhador",
+      "answer": "FAT",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Milton Neves, jornalista esportivo",
+      "answer": "MN",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Habeas corpus",
+      "answer": "HC",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

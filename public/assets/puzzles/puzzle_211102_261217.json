@@ -1,0 +1,246 @@
+{
+  "across": {
+    "2": {
+      "clue": "Flor semelhante à papoula",
+      "answer": "ANEMONA",
+      "row": 0,
+      "col": 2
+    },
+    "9": {
+      "clue": "Caminhonete fabricada pela Toyota",
+      "answer": "HILUX",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Livre de risco",
+      "answer": "SALVO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Índigo",
+      "answer": "ANIL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Livrar-se, ficar livre",
+      "answer": "SAIR",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Carnívoro aquático de pele valiosa",
+      "answer": "VISOM",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Andar sem destino",
+      "answer": "VAGAR",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Ave sul-americana, espécie de avestruz, porém, menor",
+      "answer": "EMA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Enrolado",
+      "answer": "ANELADO",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Rolante",
+      "answer": "GIRADOR",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Uma aguardente do melaço da cana",
+      "answer": "RUM",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Egberto Gismonti, músico carioca",
+      "answer": "EG",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Utensílio para engarrafar líquidos",
+      "answer": "FUNIL",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Tonico Pereira, ator",
+      "answer": "TP",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Cortar completamente os cabelos",
+      "answer": "RAPAR",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Inf.) Dor, doença",
+      "answer": "DODOI",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Com o sangue empobrecido",
+      "answer": "ANEMICO",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "A mais alta capital sul-americana (mais de 3.600 m de altitude)",
+      "answer": "LAPAZ",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Descamação do couro cabeludo",
+      "answer": "CASPA",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "O contrário da coroa",
+      "answer": "CARA",
+      "row": 10,
+      "col": 1
+    },
+    "38": {
+      "clue": "Substância usada para fritar",
+      "answer": "OLEO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Uma forma de proteção da instalação elétrica",
+      "answer": "CHAVEGERAL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Desencaracolar o cabelo",
+      "answer": "ALISAR",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Sem valor",
+      "answer": "NULO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Diz-se de namorados que brigaram",
+      "answer": "EX",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Ósmio",
+      "answer": "OS",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Uma consoante como o N ou o M",
+      "answer": "NASAL",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Transbordar",
+      "answer": "ALAGAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Estragada moralmente",
+      "answer": "CORROMPIDA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Opositora",
+      "answer": "INIMIGA",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "(do Chá) Grande obra do centro de SP",
+      "answer": "VIADUTO",
+      "row": 1,
+      "col": 9
+    },
+    "16": {
+      "clue": "Antigo curso complementar",
+      "answer": "MADUREZA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Verdadeiro, autêntico",
+      "answer": "VERIDICO",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "(-stop) Sem interrupção",
+      "answer": "NON",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "(Gír.) Passar a mão em",
+      "answer": "AFANAR",
+      "row": 5,
+      "col": 3
+    },
+    "26": {
+      "clue": "Diz-se da anestesia circunscrita a determinada área do corpo",
+      "answer": "LOCAL",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Uma comida amolecida após o cozimento",
+      "answer": "PAPA",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "Porção de remédio",
+      "answer": "DOSE",
+      "row": 7,
+      "col": 8
+    },
+    "34": {
+      "clue": "Altamiro Carrilho, flautista",
+      "answer": "AC",
+      "row": 9,
+      "col": 1
+    },
+    "36": {
+      "clue": "Poeira",
+      "answer": "PO",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

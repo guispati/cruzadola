@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "A nação de Málaga",
+      "answer": "ESPANHA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "(Diego) Cidade dos EUA, na Califórnia",
+      "answer": "SAN",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Cordão de fibras motoras e sensitivas",
+      "answer": "NERVO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O coágulo do sangue fora das veias",
+      "answer": "GRUMO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Época da procriação animal",
+      "answer": "CIO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Uma forma de derrubar os frutos de uma árvore",
+      "answer": "VAREJAR",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "(Kong) Território asiático",
+      "answer": "HONG",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Bela, vistosa, no nordeste",
+      "answer": "RETADA",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Calafetado com uma sobra grosseira do linho",
+      "answer": "ESTOPADO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Cuja identidade do autor é desconhecida (fem.)",
+      "answer": "ANONIMA",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Difamar, denegrir",
+      "answer": "DETRATAR",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Sarrafo",
+      "answer": "VIGOTE",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Amor com dor",
+      "answer": "RIMA",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Um exame de laboratório",
+      "answer": "ANALISE",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Um sobrenome do escritor português Camões",
+      "answer": "VAZ",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "São quatro nas hienas",
+      "answer": "PATAS",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Um aerofólio auxiliar",
+      "answer": "FLAPE",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Pequena argola de corrente",
+      "answer": "ELO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Divertir",
+      "answer": "ALEGRAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Sobrecarregar, cumular",
+      "answer": "ENCHER",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Os da face se inflamam na sinusite",
+      "answer": "SEIOS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Concluída, terminada",
+      "answer": "PRONTA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Antonio Vivaldi (1678-1741), compositor italiano",
+      "answer": "AV",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Uma forma de abreviar o nome do mês 11",
+      "answer": "NOV",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Atacar",
+      "answer": "AGREDIR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Não limpa",
+      "answer": "SUJA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O escritor Jorge (1912-2001), de \"Cacau\"",
+      "answer": "AMADO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A mulher do filho",
+      "answer": "NORA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Continuar depois de uma interrupção",
+      "answer": "RETOMAR",
+      "row": 1,
+      "col": 7
+    },
+    "15": {
+      "clue": "Um dos sobrenomes de Pelé",
+      "answer": "ARANTES",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Prateleira de supermercado",
+      "answer": "GONDOLA",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Uma escritora como Adélia Prado ou Cora Coralina",
+      "answer": "POETISA",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Dar impulso a",
+      "answer": "ATIVAR",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Ter consigo",
+      "answer": "TRAZER",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "(Por) Por falar nisso",
+      "answer": "SINAL",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Macapá é a sua capital",
+      "answer": "AMAPA",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Cigarro eletrônico",
+      "answer": "VAPE",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "No jogo do bicho, as dezenas de 53 a 56",
+      "answer": "GATO",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "A 6ª letra do nosso alfabeto",
+      "answer": "EFE",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Luiz Gonzaga, músico",
+      "answer": "LG",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

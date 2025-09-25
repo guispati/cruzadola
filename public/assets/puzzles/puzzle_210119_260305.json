@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Que não tem capacidade",
+      "answer": "INAPTO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O José Carlos (1944-1977), piloto paulista de F1, falecido precocemente",
+      "answer": "PACE",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Proprietária de algo",
+      "answer": "DONA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Vereda, encurta-caminho",
+      "answer": "ATALHO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "A capital da Escócia",
+      "answer": "EDIMBURGO",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Diz-se de relevo não montanhoso",
+      "answer": "PLANO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Sanduíche que leva o nome de uma cidade do interior de São Paulo",
+      "answer": "BAURU",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Muito curto",
+      "answer": "RENTE",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Direção do trânsito nas ruas e estradas",
+      "answer": "MÃO",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Rodolfo Valentino (1895-1926), ator italiano",
+      "answer": "RV",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Pop.) Cerveja ou chope claro",
+      "answer": "LOIRA",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Interjeição usada em chamamentos",
+      "answer": "OI",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "As letras que separam o C e o G",
+      "answer": "DEF",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Árvore com característico tronco de grande porte",
+      "answer": "BAOBA",
+      "row": 6,
+      "col": 4
+    },
+    "30": {
+      "clue": "Pedra preciosa, variedade de quartzo",
+      "answer": "AGATA",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Pastagem onde o gado se refaz",
+      "answer": "SOLTA",
+      "row": 7,
+      "col": 6
+    },
+    "34": {
+      "clue": "Aquilo que é secundário",
+      "answer": "ACESSORIO",
+      "row": 8,
+      "col": 1
+    },
+    "36": {
+      "clue": "Fundo Internacional de Emergência das Nações Unidas para a Infância",
+      "answer": "UNICEF",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Cubo numerado usado em jogos",
+      "answer": "DADO",
+      "row": 9,
+      "col": 7
+    },
+    "39": {
+      "clue": "O Sul foi descoberto por Roald Amundsen, em 1911",
+      "answer": "POLO",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "O oposto de rir",
+      "answer": "CHORAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Psic.) Uma das três divisões da personalidade humana propostas por Freud",
+      "answer": "ID",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O Papai de 25/12",
+      "answer": "NOEL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ir mal e mal (de saúde)",
+      "answer": "ANDAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Outdoor",
+      "answer": "PAINEL",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A entidade que representa os advogados",
+      "answer": "OAB",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O estado com a Ilha de Marajó",
+      "answer": "PARA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Número indeterminado",
+      "answer": "ALGUM",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Árvore também conhecida como salgueiro",
+      "answer": "CHORÃO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Cleo sem consoantes",
+      "answer": "EO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "(Bot.) Que tem protuberância de forma arredondada",
+      "answer": "TUBEROSO",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "(Bot.) Que se implanta por um só ponto",
+      "answer": "MONOBASE",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Fato de deixar de possuir ou de ter algo",
+      "answer": "PERDA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "As vogais do alfabeto, invertidas",
+      "answer": "UOIEA",
+      "row": 3,
+      "col": 10
+    },
+    "19": {
+      "clue": "A mulher do irmão da mãe",
+      "answer": "TIA",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Um consumidor de hortaliças, legumes, frutas e cereais",
+      "answer": "VEGANO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "(Mar.) Ato de atracar um navio a um ponto de terra",
+      "answer": "ABORDO",
+      "row": 5,
+      "col": 7
+    },
+    "27": {
+      "clue": "Sem dificuldade alguma",
+      "answer": "FACIL",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "Reunir por interesse comum",
+      "answer": "ALIAR",
+      "row": 6,
+      "col": 8
+    },
+    "31": {
+      "clue": "Peteleco",
+      "answer": "TECO",
+      "row": 7,
+      "col": 3
+    },
+    "33": {
+      "clue": "Inteira, completa",
+      "answer": "TODA",
+      "row": 7,
+      "col": 9
+    },
+    "35": {
+      "clue": "Santos Futebol Clube",
+      "answer": "SFC",
+      "row": 8,
+      "col": 5
+    },
+    "36": {
+      "clue": "Automóvel compacto da VW",
+      "answer": "UP",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "O que transforma teia em teoria",
+      "answer": "OR",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

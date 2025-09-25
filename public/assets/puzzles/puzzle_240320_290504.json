@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Caldo de cana-de-açúcar",
+      "answer": "GARAPA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "(Bee) Banda britânica de música pop",
+      "answer": "GEES",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Espaço de tempo indeterminado, geralmente breve",
+      "answer": "MOMENTO",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "A metade de XII, em romanos",
+      "answer": "VI",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Capcioso, intencionalmente enganador",
+      "answer": "FALAZ",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Carro off-road produzido até a década de 1970",
+      "answer": "RURAL",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Falar em público",
+      "answer": "ORAR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Couro",
+      "answer": "PELE",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Vermes parasitas, de corpos delgados com forma cilíndrica",
+      "answer": "NEMATOIDES",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "O valor que está escrito nas notas de um dólar",
+      "answer": "ONE",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Separam o Q do U",
+      "answer": "RST",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "(Fotogr.) Unidade de medida da sensibilidade de filmes",
+      "answer": "DIN",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "Substância química estimulante do sistema nervoso central",
+      "answer": "ANFETAMINA",
+      "row": 6,
+      "col": 1
+    },
+    "29": {
+      "clue": "Aparelho eletrônico para entretenimento e informação",
+      "answer": "TEVE",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "A profissão de Mateus Solano",
+      "answer": "ATOR",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "(Med.) Tumor derivado do tecido muscular",
+      "answer": "MIOMA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Carreira",
+      "answer": "FIADA",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Polvilho",
+      "answer": "PO",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Ato de olhar ligeiramente",
+      "answer": "ESPIADA",
+      "row": 9,
+      "col": 3
+    },
+    "37": {
+      "clue": "Filhote ainda novo de ovelha",
+      "answer": "ANHO",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Pequena casa",
+      "answer": "CASOLA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "(Bot.) Leguminosa, semelhante ao trevo",
+      "answer": "AMARENA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Esp.) Instante do salto em altura no qual o corpo volta sobre o sarrafo",
+      "answer": "ROLAMENTO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Azeda, não doce",
+      "answer": "AMARA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Outro nome do piche",
+      "answer": "PEZ",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Sigla) Arquivo Nacional",
+      "answer": "AN",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "O pianista Glenn (1932-1992), intérprete de Bach",
+      "answer": "GOULD",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Sigla) Borracha sintética usada para fazer brinquedos, brindes etc.",
+      "answer": "EVA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Depósito para armazenar cereais",
+      "answer": "SILO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Pegada, rasto",
+      "answer": "TREITA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "(Red.) Médico da voz e da fala",
+      "answer": "FONO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Publicado de novo",
+      "answer": "REEDITADO",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "(Fig.) Pessoa muito alta",
+      "answer": "POSTE",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Escuridão profunda",
+      "answer": "TREVAS",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "De um concílio de sacerdotes ou de bispos",
+      "answer": "SINODAL",
+      "row": 4,
+      "col": 9
+    },
+    "24": {
+      "clue": "A cantora Leão (1942-1989)",
+      "answer": "NARA",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Relativo a mulheres",
+      "answer": "FEMEO",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Povo índio da América Central e México",
+      "answer": "MAIAS",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Estaca a que se liga a videira",
+      "answer": "EMPA",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Partícula atômica ou molecular carregada de eletricidade",
+      "answer": "ION",
+      "row": 8,
+      "col": 1
+    },
+    "33": {
+      "clue": "Federação Internacional de Automobilismo",
+      "answer": "FIA",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "Penélope Cruz, atriz",
+      "answer": "PC",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Que causa o fechamento de uma abertura",
+      "answer": "OCLUSOR",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "O estilo musical de Caetano e Gil",
+      "answer": "MPB",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Caridosa",
+      "answer": "BOA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Tornar obscuro",
+      "answer": "ENEVOAR",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Poluir",
+      "answer": "SUJAR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Combinação de preposição com pronome",
+      "answer": "NELE",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "O número de porquinhos da história infantil",
+      "answer": "TRES",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Aleijado da mão",
+      "answer": "MANETA",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Vogais em amor",
+      "answer": "AO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Pouco íngreme",
+      "answer": "SUAVE",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Érico Veríssimo (1905-1975), autor de \"O Tempo e o Vento\"",
+      "answer": "EV",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Da nação com capital Budapeste",
+      "answer": "HUNGARO",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "T",
+      "answer": "TE",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Med.) Tumor muscular benigno",
+      "answer": "MIOMA",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Tarcísio Meira, ator",
+      "answer": "TM",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "(Pop.) Elegância no trajar",
+      "answer": "ESTICA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Cabeça-) Burro",
+      "answer": "DURA",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Completa",
+      "answer": "TODA",
+      "row": 8,
+      "col": 1
+    },
+    "33": {
+      "clue": "Manifestar desagrado quando o time joga mal",
+      "answer": "VAIAR",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Que é formado por dois nomes",
+      "answer": "BINOMIO",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "O século que vai do ano 601 a 700",
+      "answer": "VII",
+      "row": 9,
+      "col": 8
+    },
+    "37": {
+      "clue": "(Ingl.) Funcionário que faz entregas, pagamentos etc.",
+      "answer": "BOY",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Aquela que cuida de rebanhos de ovelhas",
+      "answer": "PASTORA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Não) Entretanto",
+      "answer": "OBSTANTE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Pele grossa de certos animais",
+      "answer": "COURO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Bloco de concreto armado",
+      "answer": "LAJE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Estar, existir",
+      "answer": "SER",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "As iniciais do arquiteto Niemeyer",
+      "answer": "ON",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Registro Nacional de Veículos Automotores",
+      "answer": "RENAVAM",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O contrário de duro",
+      "answer": "MOLE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Tecido bordado com lantejoulas",
+      "answer": "PAETE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Sufixo do Brasil, nos endereços da internet",
+      "answer": "BR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Que inspira respeito (fem.)",
+      "answer": "VENERADA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Diz-se daquele que admite suas posturas de vida",
+      "answer": "ASSUMIDO",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "Sentimento de aflição, pena",
+      "answer": "MAGOA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Cada conta menor de um rosário ou terço",
+      "answer": "AVEMARIA",
+      "row": 3,
+      "col": 10
+    },
+    "21": {
+      "clue": "Universidade Estadual de Campinas",
+      "answer": "UNICAMP",
+      "row": 4,
+      "col": 4
+    },
+    "25": {
+      "clue": "Tempo quente e seco",
+      "answer": "ESTIO",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Ser infiel",
+      "answer": "TRAIR",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "O ator Ramos das novelas",
+      "answer": "TONY",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "Voz triste e aguda característica dos cães, raposas e lobos",
+      "answer": "UIVO",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "Um pronome pessoal",
+      "answer": "VOS",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Brigitte Bardot, atriz francesa",
+      "answer": "BB",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Instituto Agronômico",
+      "answer": "IA",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

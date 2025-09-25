@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Paul, brejo",
+      "answer": "SAPAL",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Uma membrana nasal",
+      "answer": "SEPTO",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "A primeira hora",
+      "answer": "UMA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Erguer, construindo",
+      "answer": "ERIGIR",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "(Ingl.) Gênero de desenho humorístico e satírico, acompanhado ou não de palavras",
+      "answer": "CARTOON",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Os dígitos que indicam um endereço postal",
+      "answer": "CEP",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Massa de água que se move e se eleva no mar, quebrando-se na praia",
+      "answer": "ONDA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Que se encontra no estado aeriforme",
+      "answer": "GASOSO",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Ilha das Antilhas, a maior e mais importante das ilhas Virgens",
+      "answer": "TORTOLA",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Dor moral",
+      "answer": "PESAR",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "(in Chains) Banda norte-americana de rock",
+      "answer": "ALICE",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Grupo de duas letras que representa um único som",
+      "answer": "DIGRAMA",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "(Fig.) Improdutivo, estéril, inútil",
+      "answer": "OCIOSO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "A minha família",
+      "answer": "MEUS",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Estrela que é centro de um sistema planetário",
+      "answer": "SOL",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "De um importante sistema montanhoso da Europa",
+      "answer": "ALPENSE",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "{ e }",
+      "answer": "CHAVES",
+      "row": 9,
+      "col": 1
+    },
+    "37": {
+      "clue": "Precede Dom",
+      "answer": "SAB",
+      "row": 9,
+      "col": 8
+    },
+    "38": {
+      "clue": "Passado por crivo",
+      "answer": "COADO",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "A parte mais mole do pão",
+      "answer": "MIOLO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O líquido da laranja",
+      "answer": "SUCO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Apreciador",
+      "answer": "AMANTE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Mulatos",
+      "answer": "PARDOS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O jornalista esportivo Batista",
+      "answer": "LEO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Pôr em evidência",
+      "answer": "SINALAR",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Egberto Gismonti, músico fluminense",
+      "answer": "EG",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Pop.) Dose de entorpecente injetada de uma vez",
+      "answer": "PICO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "3",
+      "answer": "TRES",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Súplica",
+      "answer": "ROGO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Que comete crimes sexuais, por desequilíbrio mental",
+      "answer": "TARADO",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Atitude ou posição corporal",
+      "answer": "POSE",
+      "row": 2,
+      "col": 10
+    },
+    "18": {
+      "clue": "Embutido de carne de porco triturada e salgada",
+      "answer": "SALAME",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "O pai do bisavô",
+      "answer": "TRISAVO",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Conveniências",
+      "answer": "PROS",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "De grandeza incomensurável",
+      "answer": "IMENSO",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Origem",
+      "answer": "CAUSAL",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Porção de qualquer bebida que se toma de cada vez",
+      "answer": "GOLE",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Um ingrediente da queijadinha",
+      "answer": "COCO",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Uma porção de terra como Madagáscar",
+      "answer": "ILHA",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "Loja onde livros usados são negociados",
+      "answer": "SEBO",
+      "row": 7,
+      "col": 10
+    },
+    "34": {
+      "clue": "Pronto Socorro Municipal",
+      "answer": "PSM",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "(Sigla) Ativo Disponível",
+      "answer": "AD",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

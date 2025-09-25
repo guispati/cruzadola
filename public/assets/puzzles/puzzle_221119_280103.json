@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O templo da arte cênica",
+      "answer": "TEATRO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Podem ser fritos ou poché",
+      "answer": "OVOS",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Vasilha própria para tomar o mate",
+      "answer": "CUIA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "(Pop.) Profissional amplamente reconhecido por sua competência",
+      "answer": "PAPA",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Um instrumento musical",
+      "answer": "HARPA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Local para apresentação de artistas",
+      "answer": "PALCO",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Mover mexendo os quadris",
+      "answer": "BAMBOLEAR",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Enraivecida",
+      "answer": "FURIOSA",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Letra do Tesouro",
+      "answer": "LT",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "Todavia",
+      "answer": "MAS",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Um elemento como o hélio ou o argônio",
+      "answer": "GAS",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "Um pronome pessoal",
+      "answer": "VOS",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Os extremos do alfabeto",
+      "answer": "AZ",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Espaço entre dois lances de escadas",
+      "answer": "PATAMAR",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Um produto de limpeza",
+      "answer": "REMOVEDOR",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Esquema de uma programação periódica",
+      "answer": "GRADE",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "O fruto que produz um óleo utilizado em culinária",
+      "answer": "OLIVA",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Epiderme",
+      "answer": "PELE",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "(-pontos) :",
+      "answer": "DOIS",
+      "row": 9,
+      "col": 7
+    },
+    "35": {
+      "clue": "Chegar ao meio",
+      "answer": "MEAR",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "A arte de escrever textos como os de Drummond",
+      "answer": "POESIA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Pop.) Encanto pessoal, charme",
+      "answer": "TCHÃ",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A sigla do país com o Grand Canyon",
+      "answer": "EUA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Uma indústria de grandes aviões",
+      "answer": "AIRBUS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Arrolhar",
+      "answer": "TAPAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Osmar Prado, ator",
+      "answer": "OP",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Pedra preciosa de algum valor",
+      "answer": "OPALA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Uma depressão entre montes",
+      "answer": "VALE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Ingl.) Tipo de calção curto, esportivo",
+      "answer": "SHORTS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Assenhoreado, dominado",
+      "answer": "APOSSADO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Realizado de maneira conciliadora, por mútuo consentimento",
+      "answer": "AMIGAVEL",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Uma característica da temperatura do deserto",
+      "answer": "CALOR",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Casa de diversões onde se bebe e dança",
+      "answer": "BOATE",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Fabricar, manufaturar",
+      "answer": "FAZER",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Beira",
+      "answer": "MARGEM",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Muitos",
+      "answer": "VARIOS",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Controle sobre pessoas e atividades",
+      "answer": "PODER",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Modelo de qualquer coisa pelo qual se reproduz algo",
+      "answer": "MOLDE",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Desenho da superfície de uma região do globo terrestre",
+      "answer": "MAPA",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "O centro espacial e aeronáutico dos EUA",
+      "answer": "NASA",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "7, em algarismos romanos",
+      "answer": "VII",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Elvis Presley (1935-1977), ícone do rock",
+      "answer": "EP",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

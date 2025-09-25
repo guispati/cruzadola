@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Serviço eventual, de curta duração, não regular",
+      "answer": "BISCATE",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "O skatista carioca Burnquist",
+      "answer": "BOB",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Reduzir a migalhas",
+      "answer": "ESFARELAR",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Sigla do estado de Canoas",
+      "answer": "RS",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Subdivisão de uma região",
+      "answer": "SETOR",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Lupicínio Rodrigues (1914-1974), músico",
+      "answer": "LR",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Do centro da civilização latina (fem.)",
+      "answer": "ROMANA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Sentimento de honra, dignidade",
+      "answer": "BRIO",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Observação",
+      "answer": "OBS",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Composição poética do gênero épico, dividida em cantos",
+      "answer": "POEMA",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "(Dir.) Assistência prescrita por lei em favor de indivíduos incapacitados",
+      "answer": "CURADORIA",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Rugir",
+      "answer": "URRAR",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Plano de Integração Nacional",
+      "answer": "PIN",
+      "row": 6,
+      "col": 6
+    },
+    "25": {
+      "clue": "Elemento químico usado em iluminação",
+      "answer": "NEON",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Anat.) Membrana que reveste as paredes das cavidades internas do organismo",
+      "answer": "MUCOSA",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "Glauber Rocha, cineasta de \"Terra em Transe\"",
+      "answer": "GR",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Grosseiro",
+      "answer": "CHULO",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "O que faz neto virar Netuno",
+      "answer": "UN",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Que leva água em abundância",
+      "answer": "CAUDALOSO",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Recibo de Depósito Bancário",
+      "answer": "RDB",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "A região europeia da cidade checa de Brno",
+      "answer": "MORAVIA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Brado",
+      "answer": "BERRO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Muito bem!",
+      "answer": "ISSO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sigmund Freud (1856-1939), médico austríaco",
+      "answer": "SF",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A residência oficial do presidente dos EUA, em Washington",
+      "answer": "CASABRANCA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Soltar a voz (o cisne)",
+      "answer": "ARENSAR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Mama, seio",
+      "answer": "TETA",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "(Fig.) Vínculo, união espiritual ou moral",
+      "answer": "ELO",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "O símbolo químico do bromo",
+      "answer": "BR",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "(Batata-) Mandioquinha-salsa",
+      "answer": "BAROA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Que vive ou mora sobre as árvores",
+      "answer": "ARBORICOLA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Um tipo de laranja com sabor agridoce",
+      "answer": "LIMA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Muçulmano, islamita",
+      "answer": "MOURO",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "(Fig.) Lugar ou esfera em que alguém ou algo domina",
+      "answer": "REINO",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "O P do MPB",
+      "answer": "POPULAR",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Ter confiança",
+      "answer": "CRER",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Aplicar óleos consagrados a",
+      "answer": "UNGIR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Pop.) Pão francês cortado em duas fatias, sem o miolo",
+      "answer": "CANOA",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Que não se expressa por palavras",
+      "answer": "MUDO",
+      "row": 7,
+      "col": 5
+    },
+    "27": {
+      "clue": "A Barbie brasileira",
+      "answer": "SUSI",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Exclamação de incerteza, incredulidade ou indiferença",
+      "answer": "HUM",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Corpo de Bombeiros",
+      "answer": "CB",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Ocimar Versolato, estilista",
+      "answer": "OV",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

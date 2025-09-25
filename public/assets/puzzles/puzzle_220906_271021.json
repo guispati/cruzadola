@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um time do futebol pernambucano",
+      "answer": "SPORT",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Banana) Uma sobremesa com sorvete, frutas, castanhas etc.",
+      "answer": "SPLIT",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "De certa qualidade",
+      "answer": "TAL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "(Pop.) Cara-de-pau",
+      "answer": "ATIRADO",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Lugar com areia em abundância",
+      "answer": "AREAL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Elemento de composição: há pouco tempo",
+      "answer": "RECEM",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Símbolo da unidade física rutherford",
+      "answer": "RD",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Um pintor como Picasso",
+      "answer": "CUBISTA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "(Pop.) Que bebeu demais",
+      "answer": "TOMADO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Boba",
+      "answer": "TOLA",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Quinas",
+      "answer": "ARESTAS",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "(Gír.) Faniquito nervoso",
+      "answer": "PITI",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "A Marieta atriz carioca",
+      "answer": "SEVERO",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Meio publicitário",
+      "answer": "RECLAME",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Quatro menos três",
+      "answer": "UM",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "A Júlia Coutinho jornalista e apresentadora de TV",
+      "answer": "MARIA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Pena de ave",
+      "answer": "PLUMA",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Que pode ser transferido para outro dia",
+      "answer": "ADIAVEL",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "A luz do dia",
+      "answer": "SOL",
+      "row": 9,
+      "col": 8
+    },
+    "36": {
+      "clue": "O maior deserto do globo",
+      "answer": "SAARA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "A região com a escápula",
+      "answer": "OMBRO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Ingl.) Iniciar uma empresa, colocá-la em funcionamento",
+      "answer": "STARTUP",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um papel usado para embalagem",
+      "answer": "PARDO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "No futebol, série de dribles",
+      "answer": "OLE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Margem de uma estrada",
+      "answer": "TALUDE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Um crustáceo marinho",
+      "answer": "SIRI",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Que pode ter serventia",
+      "answer": "PRESTAVEL",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Açúcar do leite",
+      "answer": "LACTOSE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Favorável, propício",
+      "answer": "IDEAL",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Medida de distâncias entre intervalos musicais",
+      "answer": "TOM",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Tocar afetuosamente com as mãos",
+      "answer": "ACARICIAR",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "(Nova) Um estilo musical brasileiro",
+      "answer": "BOSSA",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Substância física",
+      "answer": "MATERIA",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Que tem irregularidade de caracteres (diz-se de pessoa ou coisa)",
+      "answer": "ANOMALO",
+      "row": 4,
+      "col": 10
+    },
+    "23": {
+      "clue": "Edifício destinado ao culto religioso",
+      "answer": "TEMPLO",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Nervosa",
+      "answer": "IRADA",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Barulho",
+      "answer": "RUMOR",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Massa pastosa que sai dos vulcões",
+      "answer": "LAVA",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Todavia",
+      "answer": "MAS",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Conexão de PC",
+      "answer": "USB",
+      "row": 8,
+      "col": 8
+    }
+  }
+}

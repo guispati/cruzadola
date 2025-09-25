@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "A maior cidade do Vietnã",
+      "answer": "HOCHIMINH",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Sujeira, porcaria",
+      "answer": "LIXO",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "Uma prática indiana",
+      "answer": "IOGA",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "O estado de Augusta, nos EUA",
+      "answer": "MAINE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Seres divinos",
+      "answer": "ANJOS",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Lugar desabitado, deserto",
+      "answer": "ERMO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Coisa",
+      "answer": "OBJETO",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Sem roupas (fem.)",
+      "answer": "NUA",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Sem elementos estranhos (fem.)",
+      "answer": "PURA",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "(Red.) Um instrumento musical de sopro",
+      "answer": "SAX",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Uma ave marinha",
+      "answer": "ATI",
+      "row": 5,
+      "col": 4
+    },
+    "21": {
+      "clue": "As consoantes de Macapá",
+      "answer": "MCP",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Menina, garota, em inglês",
+      "answer": "GIRL",
+      "row": 6,
+      "col": 3
+    },
+    "24": {
+      "clue": "Planta também chamada araça-do-campo",
+      "answer": "AUI",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "Do ouro (fem.)",
+      "answer": "AURICA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Qualidade de açúcar refinado",
+      "answer": "PILE",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Colheita",
+      "answer": "SEARA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "O ex-nadador Cielo",
+      "answer": "CESAR",
+      "row": 8,
+      "col": 6
+    },
+    "30": {
+      "clue": "Interjeição para pedir silêncio",
+      "answer": "PSIU",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Fruto comestível, de sabor amargo",
+      "answer": "JILO",
+      "row": 9,
+      "col": 5
+    },
+    "32": {
+      "clue": "Nascido na nação africana de Lusaka",
+      "answer": "ZAMBIENSE",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A raça humana",
+      "answer": "HOMENS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ponto culminante do enredo de uma obra literária",
+      "answer": "CLIMAX",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "O francês é conhecido como \"A Marselhesa\"",
+      "answer": "HINO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Exclamação irônica",
+      "answer": "IXE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Pedra de amolar facas",
+      "answer": "MO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Lutador de uma arte marcial japonesa",
+      "answer": "NINJA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O amanhã de ontem",
+      "answer": "HOJE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Privada, latrina",
+      "answer": "VASO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Pequena quantidade de líquido",
+      "answer": "GOTICULA",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Um grande grupo indígena",
+      "answer": "ARUAQUES",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "O mês com o dia da sogra (28)",
+      "answer": "ABRIL",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Nem esta nem aquela",
+      "answer": "OUTRA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Uma unidade de medida em artes gráficas",
+      "answer": "PAICA",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Casa, em francês",
+      "answer": "MAISON",
+      "row": 5,
+      "col": 8
+    },
+    "22": {
+      "clue": "O Cardin, famoso estilista",
+      "answer": "PIERRE",
+      "row": 5,
+      "col": 10
+    },
+    "23": {
+      "clue": "Cidade gaúcha da região de Santo Ângelo",
+      "answer": "GIRUA",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Antigo instrumento de tortura",
+      "answer": "ASPA",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Ramo subterrâneo de planta",
+      "answer": "RAIZ",
+      "row": 7,
+      "col": 2
+    },
+    "27": {
+      "clue": "Excepcional, incomparável",
+      "answer": "PELE",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Cento e dois, em algarismos romanos",
+      "answer": "CII",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Jesuíta Barbosa, ator pernambucano",
+      "answer": "JB",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

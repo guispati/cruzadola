@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O maior município de São Paulo",
+      "answer": "IGUAPE",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Fragmento de telha, ladrilho etc.",
+      "answer": "CACO",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Mulher prestes a casar",
+      "answer": "NOIVA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Fazer ingerir droga",
+      "answer": "DOPAR",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Redução de televisão",
+      "answer": "TEVE",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "O músico jamaicano de reggae Tosh (1944-1987)",
+      "answer": "PETER",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Estender o comprimento de",
+      "answer": "ELONGAR",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Uma tecla muito utilizada pelos usuários de computadores",
+      "answer": "ALT",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Rebeca Andrade, ginasta campeã mundial",
+      "answer": "RA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Um período da Revolução Francesa",
+      "answer": "TERMIDOR",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "(Rel.) Jardim do Éden",
+      "answer": "PARAISO",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Que solta vapores, perfumes, etc.",
+      "answer": "EXALANTE",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Torben Grael, iatista",
+      "answer": "TG",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Cútis",
+      "answer": "TEZ",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Que está com falta de saúde e de vigor",
+      "answer": "DOENTIO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Pequeno barco movido a remo",
+      "answer": "CANOA",
+      "row": 8,
+      "col": 1
+    },
+    "30": {
+      "clue": "(Red., ingl.) Adolescente",
+      "answer": "TEEN",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "Predestinar",
+      "answer": "FADAR",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Culpa leve",
+      "answer": "FALTA",
+      "row": 9,
+      "col": 6
+    },
+    "33": {
+      "clue": "Unidade de medida de um ângulo",
+      "answer": "GRAU",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "O país que vive em guerra contra a Palestina",
+      "answer": "ISRAEL",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Web",
+      "answer": "INTERNET",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Pop.) Indivíduo que conta muita vantagem",
+      "answer": "GOELA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A voz triste dos cães",
+      "answer": "UIVO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Proteção usada por cozinheiros",
+      "answer": "AVENTAL",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Ferramenta para acumular ou desfazer montes de terra, areia etc.",
+      "answer": "PA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Matem.) Símbolo de cotangente",
+      "answer": "COT",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Descido de animal de sela",
+      "answer": "APEADO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Monte) Um distrito do Principado de Mônaco",
+      "answer": "CARLO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Uma alternativa inglesa",
+      "answer": "OR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Inflamação da pele",
+      "answer": "DERMITE",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "O grande lago da capital federal",
+      "answer": "PARANOA",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Criador, causador",
+      "answer": "GERADOR",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Com 3 ângulos",
+      "answer": "TRIGONAL",
+      "row": 3,
+      "col": 10
+    },
+    "20": {
+      "clue": "Excluir",
+      "answer": "ISENTAR",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "A quantidade de uma pá cheia",
+      "answer": "PAZADA",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Dar mate ao rei no xadrez",
+      "answer": "XECAR",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Admiradora fanática de um artista",
+      "answer": "TIETE",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Tecido preso a um chassi, sobre o qual se pintam quadros",
+      "answer": "TELA",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Barco antigo",
+      "answer": "NAU",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Francisco de Goya (1746-1828), pintor espanhol",
+      "answer": "FG",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Força Sindical",
+      "answer": "FS",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

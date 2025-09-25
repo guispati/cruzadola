@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "Aguardente de uva",
+      "answer": "GRAPA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Canyon) Grande desfiladeiro do Arizona, formado pelo rio Colorado (EUA)",
+      "answer": "GRAND",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Oposto de bonito",
+      "answer": "FEIO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Produzir som semelhante à voz das aves",
+      "answer": "PIPIAR",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Que ocupa o primeiro lugar",
+      "answer": "PRIMAZ",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "A marca dos carros Picanto e Soul",
+      "answer": "KIA",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Agarrar, capturar",
+      "answer": "PRESAR",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Área destinada à pessoas de prestígio",
+      "answer": "VIP",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Àqueles",
+      "answer": "AOS",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Errantes, vagamundos",
+      "answer": "NOMADES",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Roberto Benigni, ator italiano",
+      "answer": "RB",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Divisão equitativa",
+      "answer": "RATEIO",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Importante cidade capixaba, às margens do rio Doce",
+      "answer": "COLATINA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Mús.) Si menor",
+      "answer": "BM",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Pouco molhado",
+      "answer": "UMIDO",
+      "row": 7,
+      "col": 2
+    },
+    "27": {
+      "clue": "Microempreendedor Individual",
+      "answer": "MEI",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Uma lente de aumento",
+      "answer": "LUPA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Náut.) Cabo fixo na proa, que aguenta a mastreação",
+      "answer": "ESTAI",
+      "row": 8,
+      "col": 5
+    },
+    "32": {
+      "clue": "Parte sonora de um filme ou da transmissão de TV",
+      "answer": "AUDIO",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "O mau é o demônio",
+      "answer": "ANJO",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "A passagem de sólido para líquido",
+      "answer": "FUSÃO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "As coberturas de borracha que revestem as rodas dos veículos",
+      "answer": "PNEUS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Gustave Flaubert, (1821-1880), autor de \"Madame Bovary\"",
+      "answer": "GF",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Que foi banido da sociedade",
+      "answer": "REPROBO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Buenos) A capital dos argentinos",
+      "answer": "AIRES",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Visto que, porque",
+      "answer": "POIS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Um material usado por professores",
+      "answer": "GIZ",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Ricardo Prado, ex-nadador",
+      "answer": "RP",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Uma arte marcial",
+      "answer": "AIKIDO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Copas ou paus",
+      "answer": "NAIPE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Abreviatura que precede o nome da médica e da advogada",
+      "answer": "DRA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Relativo à mais importante das glândulas salivares",
+      "answer": "PAROTIDEO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Outro nome do peixe-boi",
+      "answer": "MANATI",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Rochedo à flor da água",
+      "answer": "PARCEL",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Uma manifestação de insatisfação em jogos, apresentações etc.",
+      "answer": "VAIA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Em menor grau, intensidade, superioridade ou quantidade",
+      "answer": "MENOS",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "Elemento de composição: metade",
+      "answer": "SEMI",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Jejum dos muçulmanos",
+      "answer": "RAMADÃ",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Inflamação crônica da pele, com ulcerações ou manchas",
+      "answer": "LUPUS",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Bolo de massa de mandioca",
+      "answer": "BEIJU",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "(Pop.) Indivíduo sem capacidade, pouco inteligente",
+      "answer": "MANE",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Demais!",
+      "answer": "UAU",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "Abrev.: Tanzânia",
+      "answer": "TAN",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Tio sem tê",
+      "answer": "IO",
+      "row": 9,
+      "col": 4
+    },
+    "35": {
+      "clue": "O ósmio, para os químicos",
+      "answer": "OS",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

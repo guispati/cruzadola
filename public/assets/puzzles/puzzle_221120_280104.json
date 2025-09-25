@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "Papel muito usado em embalagens e sacos",
+      "answer": "KRAFT",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Arpão de pesca",
+      "answer": "FISGA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "No passado",
+      "answer": "OUTRORA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Extremidades dos membros inferiores abaixo das articulações dos tornozelos",
+      "answer": "PES",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Enfermidade infecciosa, virótica, contagiosa",
+      "answer": "GRIPE",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "O sufixo da net para empresas comerciais",
+      "answer": "COM",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Normas",
+      "answer": "LEIS",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "O engenheiro Sampaio (1875-1942), um dos pioneiros no emprego de levantamentos aerofotogamétricos",
+      "answer": "CORREA",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Aparelho para reprodução de sons, atualmente pouco utilizado",
+      "answer": "TOCAFITAS",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Insumo Farmacêutico Ativo",
+      "answer": "IFA",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Animais como o tuiuiu e o cambacica",
+      "answer": "AVES",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Seguem o R",
+      "answer": "ST",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "(Med.) Uma intervenção para impedir a expulsão precoce do feto",
+      "answer": "CERCLAGEM",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Roberto Leal, cantor português",
+      "answer": "RL",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Tempo de 3.600s",
+      "answer": "HORA",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Interjeição usada como saudação",
+      "answer": "ALO",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Coleção de mapas",
+      "answer": "ATLAS",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Carne ensopada ou guisada, com legumes e molho abundante",
+      "answer": "RAGU",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "Seu domingo precede o dia de Páscoa",
+      "answer": "RAMOS",
+      "row": 9,
+      "col": 1
+    },
+    "38": {
+      "clue": "(Pop.) Correr rapidamente",
+      "answer": "VOAR",
+      "row": 9,
+      "col": 7
+    },
+    "40": {
+      "clue": "Tronco de árvore serrado",
+      "answer": "TORA",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "Um parente do crocodilo",
+      "answer": "JACARE",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Abrev.) Uma derrota no boxe",
+      "answer": "KO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Pó para as maçãs do rosto",
+      "answer": "RUGE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Desentender-se com alguém",
+      "answer": "ATRITAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Banda ou tira pintada em parede",
+      "answer": "FRISO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A model é uma manequim da alta moda",
+      "answer": "TOP",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "As iniciais do ator Assunção",
+      "answer": "FA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Um time de futebol do Recife (PE)",
+      "answer": "SPORT",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Duas irmãs iguais",
+      "answer": "GEMEAS",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O \"A\" do baralho",
+      "answer": "AS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Revolver a terra várias vezes",
+      "answer": "RECAVAR",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Estado de súbito desequilíbrio nervoso, emocional",
+      "answer": "CRISE",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Um fio têxtil sintético",
+      "answer": "LAICRA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Respirar, de forma audível, num ritmo curto",
+      "answer": "OFEGAR",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Cometa, estrela ou planeta",
+      "answer": "ASTRO",
+      "row": 3,
+      "col": 10
+    },
+    "20": {
+      "clue": "Que tem endurecimento epidérmico",
+      "answer": "CALOSO",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Tecido que se usa no revestimento de mesas de bilhar",
+      "answer": "FELTRO",
+      "row": 5,
+      "col": 1
+    },
+    "26": {
+      "clue": "Labareda",
+      "answer": "CHAMA",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Sentimento de aflição, pena",
+      "answer": "MAGOA",
+      "row": 6,
+      "col": 8
+    },
+    "31": {
+      "clue": "O clarão do astro prateado",
+      "answer": "LUAR",
+      "row": 7,
+      "col": 9
+    },
+    "33": {
+      "clue": "A família, na sua intimidade",
+      "answer": "LAR",
+      "row": 8,
+      "col": 2
+    },
+    "35": {
+      "clue": "Um dano cerebral",
+      "answer": "AVC",
+      "row": 8,
+      "col": 7
+    },
+    "37": {
+      "clue": "Steve Jobs, criador da Apple",
+      "answer": "SJ",
+      "row": 9,
+      "col": 5
+    },
+    "39": {
+      "clue": "A nota musical entre dó e mi",
+      "answer": "RE",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

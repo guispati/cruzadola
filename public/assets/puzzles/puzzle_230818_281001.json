@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cidade paulista da região de Auriflama",
+      "answer": "MAGDA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Orientar",
+      "answer": "GUIAR",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Acomodar, harmonizar",
+      "answer": "ADAPTAR",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Um curso de água como o Solimões",
+      "answer": "RIO",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Mete-os pelas mãos quem faz bobagens",
+      "answer": "PES",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Auge",
+      "answer": "APICE",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Coisa que existiu ou aconteceu em tempo anterior",
+      "answer": "ANTECEDENTE",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Cortar rente o cabelo de",
+      "answer": "TOSAR",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "A atriz Leandra",
+      "answer": "LEAL",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "O símbolo do érbio, em química",
+      "answer": "ER",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "(e Castigo) Uma obra-prima de Dostoiévski",
+      "answer": "CRIME",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Está bem",
+      "answer": "TA",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Fécula de algumas plantas, muito usada para sobremesas",
+      "answer": "SAGU",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Parte do dia entre a manhã e a noite",
+      "answer": "TARDE",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "Relativo ao sacerdote",
+      "answer": "PRESBITERAL",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Doença também chamada hidrofobia",
+      "answer": "RAIVA",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "Peru, carcará ou tuim",
+      "answer": "AVE",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Rebordo de chapéu",
+      "answer": "ABA",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "(Estrada de) O mesmo que rodovia",
+      "answer": "RODAGEM",
+      "row": 9,
+      "col": 4
+    },
+    "38": {
+      "clue": "Tipo de doce, também chamado rocambole",
+      "answer": "ROLÃO",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Pedra preciosa branco-azulada",
+      "answer": "OPALA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Gráfico, quadro",
+      "answer": "MAPA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Fazer penetrar",
+      "answer": "ADENTRAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Despesa",
+      "answer": "GASTO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Distrito Policial",
+      "answer": "DP",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Passar à ofensiva",
+      "answer": "ATACAR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Formação na F1",
+      "answer": "GRID",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "A atriz carioca Ravache",
+      "answer": "IRENE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O ditongo de pai",
+      "answer": "AI",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Fatia circular",
+      "answer": "RODELA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Bebida para estimular o apetite",
+      "answer": "APERITIVO",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Veloz, rápido",
+      "answer": "CELERE",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Desculpa, pretexto",
+      "answer": "ESCUSA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Que se pode apalpar",
+      "answer": "TATEAVEL",
+      "row": 3,
+      "col": 9
+    },
+    "21": {
+      "clue": "Observar e escutar às escondidas",
+      "answer": "ESPIAR",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Pop.) Malfeito",
+      "answer": "MATADO",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "Que é comum à maioria",
+      "answer": "GERAL",
+      "row": 6,
+      "col": 2
+    },
+    "28": {
+      "clue": "Máquina para limpeza de leitos de rios",
+      "answer": "DRAGA",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "Escrivaninha com gavetas",
+      "answer": "BIRO",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Slogan",
+      "answer": "LEMA",
+      "row": 7,
+      "col": 10
+    },
+    "35": {
+      "clue": "Sílaba que se repete em abóbora",
+      "answer": "BO",
+      "row": 9,
+      "col": 1
+    },
+    "37": {
+      "clue": "A sigla do estado que faz divisa somente com o PA",
+      "answer": "AP",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

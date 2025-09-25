@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Vegetação que o mar lança à praia",
+      "answer": "ALGAÇO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Hábil, capaz",
+      "answer": "APTO",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "A indústria do Ka e do Fiesta",
+      "answer": "FORD",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Tomar (cerveja, pinga etc.)",
+      "answer": "BEBER",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "(Pal. ingl.) Subdivisão de uma partida, no tênis",
+      "answer": "GAME",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Em + elas",
+      "answer": "NELAS",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Finlândia",
+      "answer": "FIN",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Que come ou bebe com avidez",
+      "answer": "SOFREGO",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Encher de vaidade ou presunção",
+      "answer": "ENFATUAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "As iniciais do ator Prado",
+      "answer": "OP",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Encher com mistura de solos, rochas, entulho etc.",
+      "answer": "ATERRAR",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Segue o 0",
+      "answer": "UM",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Que determina ou modifica a contratilidade das fibras musculares",
+      "answer": "INOTROPO",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "Mofada, bolorenta",
+      "answer": "RANÇOSA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Pronome oblíquo da 1ª pessoa do plural",
+      "answer": "NOS",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Correntes do mar",
+      "answer": "AGUAS",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Malha que segura a bola dentro do gol",
+      "answer": "REDE",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Indicador (dedo)",
+      "answer": "INDEX",
+      "row": 9,
+      "col": 1
+    },
+    "36": {
+      "clue": "Elemento de composição: luz",
+      "answer": "FOTO",
+      "row": 9,
+      "col": 7
+    },
+    "38": {
+      "clue": "Rixa",
+      "answer": "CASO",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Abreviatura do clássico gaúcho de futebol",
+      "answer": "GRENAL",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Aretha Franklin (1942-2018), cantora de jazz",
+      "answer": "AF",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Ingl., inform.) Nome que identifica um usuário em um sistema de computadores",
+      "answer": "LOGIN",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Gír.) Pessoa rica e requintada",
+      "answer": "GRANFA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Uma abreviatura para administração",
+      "answer": "ADM",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Olavo Bilac (1865-1918), poeta carioca",
+      "answer": "OB",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Afastar-se desordenadamente do justo, do normal",
+      "answer": "ABERRAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Órgão que envolve o nosso corpo",
+      "answer": "PELE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Porção de fumaça de cigarro inalada",
+      "answer": "TRAGO",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "(Med.) Entupir uma artéria (do coração, por exemplo)",
+      "answer": "ENFARTAR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "(Patol.) Estreitamento de qualquer canal ou orifício",
+      "answer": "ESTENOSE",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Fagote, trombone, gaita etc.",
+      "answer": "SOPROS",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Um antônimo de boniteza",
+      "answer": "FEIURA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Naipe vermelho do baralho",
+      "answer": "OUROS",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Instigado, açulado",
+      "answer": "ATIÇADO",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "(Marechal) Grande rodovia paulista",
+      "answer": "RONDON",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "Obra de feitiçaria",
+      "answer": "MAGIA",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Aquele que faz versos",
+      "answer": "POETA",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Em uns",
+      "answer": "NUNS",
+      "row": 7,
+      "col": 2
+    },
+    "33": {
+      "clue": "A sexta letra do nosso alfabeto",
+      "answer": "EFE",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "Uma medida padrão para tamanho de roupas",
+      "answer": "XG",
+      "row": 9,
+      "col": 5
+    },
+    "37": {
+      "clue": "(Quím.) Terminação dos álcoois",
+      "answer": "OL",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

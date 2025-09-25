@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma fonte artificial de luz",
+      "answer": "LAMPADA",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "(de Carvalho) O músico mineiro autor de \"Maringá\" e \"Taí\" (1900-1977)",
+      "answer": "JOUBERT",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "As letras que cercam o Q",
+      "answer": "PR",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Que representa uma categoria social",
+      "answer": "CLASSISTA",
+      "row": 2,
+      "col": 2
+    },
+    "14": {
+      "clue": "Tratamento que os escravos davam aos senhores",
+      "answer": "NHO",
+      "row": 3,
+      "col": 1
+    },
+    "15": {
+      "clue": "A Holtz atriz de \"Eu, a Vó e a Boi\"",
+      "answer": "VERA",
+      "row": 3,
+      "col": 5
+    },
+    "16": {
+      "clue": "O companheiro de Victor na dupla sertaneja",
+      "answer": "LEO",
+      "row": 4,
+      "col": 0
+    },
+    "17": {
+      "clue": "De cor vermelha",
+      "answer": "CINABRE",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "1/4 de XVI",
+      "answer": "IV",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Expulsar do útero (feto)",
+      "answer": "PARIR",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "Palavra que expressa dor",
+      "answer": "UI",
+      "row": 5,
+      "col": 9
+    },
+    "22": {
+      "clue": "Marca que serve para lembrar qualquer coisa",
+      "answer": "MEMENTO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Curso de água natural e perene",
+      "answer": "RIO",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "Interjeição para chamar uma pessoa",
+      "answer": "PSIU",
+      "row": 7,
+      "col": 2
+    },
+    "26": {
+      "clue": "O som de um tiro",
+      "answer": "BUM",
+      "row": 7,
+      "col": 7
+    },
+    "27": {
+      "clue": "(Gír.) Tornar difícil",
+      "answer": "EMBANANAR",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Zeca Camargo, apresentador",
+      "answer": "ZC",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Fatias circulares",
+      "answer": "RODELAS",
+      "row": 9,
+      "col": 3
+    },
+    "33": {
+      "clue": "País cuja capital é Mogadíscio",
+      "answer": "SOMALIA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Angelina Jolie, de \"Salt\"",
+      "answer": "AJ",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sem chifres",
+      "answer": "MOCHO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(João do) Um dos grande nomes do esporte brasileiro(1954-1999)",
+      "answer": "PULO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A parte do chapéu que rodeia a copa",
+      "answer": "ABA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Mal interpretado",
+      "answer": "DESVIRTUADO",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "O As da química",
+      "answer": "ARSENIO",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Maneira particular de dizer ou escrever algo",
+      "answer": "FRASEIO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Diminuir, subtrair",
+      "answer": "TIRAR",
+      "row": 1,
+      "col": 7
+    },
+    "11": {
+      "clue": "A platina, para os químicos",
+      "answer": "PT",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Sábado",
+      "answer": "SAB",
+      "row": 2,
+      "col": 8
+    },
+    "14": {
+      "clue": "Uma característica das paisagens da Antártica",
+      "answer": "NEVE",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Higiene",
+      "answer": "LIMPEZA",
+      "row": 4,
+      "col": 0
+    },
+    "17": {
+      "clue": "Os dentes que faltam aos roedores",
+      "answer": "CANINOS",
+      "row": 4,
+      "col": 4
+    },
+    "18": {
+      "clue": "De desempenho insatisfatório",
+      "answer": "RUIM",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "Desgosto",
+      "answer": "PESAR",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Música Popular Brasileira",
+      "answer": "MPB",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Do campo",
+      "answer": "RURAL",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Doce usado como troco",
+      "answer": "BALA",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Abreviatura de megaciclo",
+      "answer": "MC",
+      "row": 8,
+      "col": 1
+    },
+    "29": {
+      "clue": "Junção de e + não",
+      "answer": "NEM",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "A última nota da escala",
+      "answer": "SI",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

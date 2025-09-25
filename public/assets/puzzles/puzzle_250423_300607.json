@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Sabão líquido",
+      "answer": "XAMPU",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Testemunhar",
+      "answer": "DEPOR",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Mãe de potros",
+      "answer": "EGUA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O lexicógrafo Caldas (1823-1878), do famoso dicionário",
+      "answer": "AULETE",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Que se desbastou",
+      "answer": "RASCADO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Chão de) Um sucesso de Zé Ramalho",
+      "answer": "GIZ",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "A hidrelétrica da fronteira entre Brasil e Paraguai",
+      "answer": "ITAIPU",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Órgão capaz de secretar leite",
+      "answer": "MAMA",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "A nota musical F",
+      "answer": "FA",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Que possui brilho e luz amarelada",
+      "answer": "FULVIDO",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Planta cujo fruto é de um azul quase preto, usada em geleias",
+      "answer": "MIRTILO",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Defeito de gaguejar",
+      "answer": "CACOETE",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Neste instante",
+      "answer": "JA",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "Lugar onde se discutem os assuntos públicos",
+      "answer": "FORO",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Limpar ou retirar, esfregando",
+      "answer": "RASPAR",
+      "row": 7,
+      "col": 5
+    },
+    "27": {
+      "clue": "Precedem o D",
+      "answer": "ABC",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "1/1000 de are",
+      "answer": "MILIARE",
+      "row": 8,
+      "col": 4
+    },
+    "29": {
+      "clue": "Diz-se de cavalo que anda a trote",
+      "answer": "TROTÃO",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Mulher muito calada",
+      "answer": "MUDA",
+      "row": 9,
+      "col": 7
+    },
+    "32": {
+      "clue": "Lado esquerdo de quem olha para o Norte",
+      "answer": "OESTE",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "O dente que tritura",
+      "answer": "MOLAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Em tom depreciativo, chefe, fiscal",
+      "answer": "XERIFE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Uma pedra preciosa",
+      "answer": "AGATA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A mulher amada, fonte de inspiração de um poeta, um músico etc.",
+      "answer": "MUSA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um oceano",
+      "answer": "PACIFICO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Dupla de cantores ou executantes",
+      "answer": "DUO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Precede Niño no fenômeno climático",
+      "answer": "EL",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Grudado",
+      "answer": "PEGADO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O que é bom demais",
+      "answer": "OTIMO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Oração, prece",
+      "answer": "REZA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Violação da fidelidade conjugal",
+      "answer": "ADULTERIO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Situação difícil, delicada",
+      "answer": "APURO",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "1.000º",
+      "answer": "MILESIMO",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Fundamental para a existência",
+      "answer": "VITAL",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "O ator mineiro Frota",
+      "answer": "MARCOS",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "Enjoar (a bordo de um barco)",
+      "answer": "MAREAR",
+      "row": 5,
+      "col": 10
+    },
+    "22": {
+      "clue": "Material usado em fios elétricos",
+      "answer": "COBRE",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "0,914 m",
+      "answer": "JARDA",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "Acontecimento",
+      "answer": "FATO",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "O Cèzanne (1839-1906) pintor francês",
+      "answer": "PAUL",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Fêmea animal que teve cria",
+      "answer": "MÃE",
+      "row": 8,
+      "col": 4
+    },
+    "30": {
+      "clue": "Tina Turner, cantora de \"Private Dancer\"",
+      "answer": "TT",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

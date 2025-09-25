@@ -1,0 +1,96 @@
+{
+  "across": {
+    "2": {
+      "clue": "O tipo de hotel onde se passa a série \"Além da Ilha\", com Paulo Gustavo e Katiuscia Canoro, dentre outros",
+      "answer": "RESORT",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O Miguel autor da série \"Eu, a Vó e a Boi\"",
+      "answer": "FALABELLA",
+      "row": 3,
+      "col": 0
+    },
+    "7": {
+      "clue": "A Werneck, que contracena com Eduardo Sterblitch em \"Shippados\"",
+      "answer": "TATA",
+      "row": 5,
+      "col": 2
+    },
+    "8": {
+      "clue": "A Taís que, com Lázaro Ramos, vive os dilemas de um casal durante o isolamento, em \"Amor e Sorte\"",
+      "answer": "ARAUJO",
+      "row": 7,
+      "col": 0
+    },
+    "11": {
+      "clue": "A Falabella é Natalie, ativista ambiental e jornalista em \"Aruanas\"",
+      "answer": "DEBORA",
+      "row": 9,
+      "col": 0
+    },
+    "13": {
+      "clue": "O Mello psicanalista da \"Sessão de Terapia\"",
+      "answer": "SELTON",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A Holtz que faz uma das vizinhas que vivem brigando em \"Eu, a Vó e a Boi\"",
+      "answer": "VERA",
+      "row": 0,
+      "col": 1
+    },
+    "2": {
+      "clue": "(Arcanjo) Série policial protagonizada por Marcello Melo Jr. e Erika Januza",
+      "answer": "RENEGADO",
+      "row": 0,
+      "col": 5
+    },
+    "3": {
+      "clue": "A Arlete que interpreta a outra vizinha briguenta em \"Eu, a Vó e a Boi\"",
+      "answer": "SALLES",
+      "row": 0,
+      "col": 7
+    },
+    "4": {
+      "clue": "(e Beijos) Fátima e Sueli continuam suas histórias engraçadas, interpretadas por Fernanda Torres e Andrea Beltrão",
+      "answer": "TAPAS",
+      "row": 0,
+      "col": 10
+    },
+    "5": {
+      "clue": "O estilo da série \"Sob Pressão\", estrelada por Marjorie Estiano e Júlio Andrade, dentre outros",
+      "answer": "DRAMA",
+      "row": 1,
+      "col": 3
+    },
+    "6": {
+      "clue": "A Young (1970-2019), das séries \"Os Normais\" e \"Shippados\"",
+      "answer": "FERNANDA",
+      "row": 3,
+      "col": 0
+    },
+    "9": {
+      "clue": "A Leandra que interpreta a ambientalista Luisa, em Aruanas",
+      "answer": "LEAL",
+      "row": 7,
+      "col": 7
+    },
+    "10": {
+      "clue": "O Eriberto, de \"Ilha de Ferro\", que ainda conta com Cauã Reymond e Maria Casadevall",
+      "answer": "LEÃO",
+      "row": 7,
+      "col": 9
+    },
+    "12": {
+      "clue": "As iniciais do escritor Suassuna (1927-2014), de \"O Auto da Compadecida\", minissérie estrelada por Matheus Nachtergaele e Selton Mello",
+      "answer": "AS",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

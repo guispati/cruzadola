@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Trejeitos",
+      "answer": "MOMICES",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Um documento fundamental para o cidadão brasileiro",
+      "answer": "CPF",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Perfume artificial",
+      "answer": "AROMA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "A matéria-prima do oleiro",
+      "answer": "BARRO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Uma famosa e antiga indústria automobilística italiana",
+      "answer": "LANCIA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Fr.) Um tipo de arte",
+      "answer": "NAIF",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "As consoantes de birita",
+      "answer": "BRT",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Movimento literário que lança o modernismo português, de Fernando Pessoa",
+      "answer": "ORFISMO",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Volume, pacote",
+      "answer": "EMBRULHO",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Césio, elemento químico",
+      "answer": "CS",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Pequena asa",
+      "answer": "ALETA",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Sérgio Groisman, jornalista e apresentador",
+      "answer": "SG",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Inflamação combatida com Hipoglós",
+      "answer": "ASSADURA",
+      "row": 6,
+      "col": 1
+    },
+    "29": {
+      "clue": "Inscrever nas forças armadas",
+      "answer": "ALISTAR",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Red.) Diz-se de cheque para ser descontado em data futura",
+      "answer": "PRE",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Ave semelhante à pomba",
+      "answer": "ROLA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Agir de modo impetuoso",
+      "answer": "ROMPER",
+      "row": 8,
+      "col": 5
+    },
+    "35": {
+      "clue": "Doença virótica",
+      "answer": "COVID",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Colar um papelzinho como o Olho de Boi num envelope",
+      "answer": "SELAR",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "Sufixo feminino de ão",
+      "answer": "ONA",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Tempestade no mar, com ventos e grandes ondas",
+      "answer": "PROCELA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Uva que produz ótimos vinhos",
+      "answer": "MALBEC",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Falar em público",
+      "answer": "ORAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O Roraima é a fronteira natural entre Brasil, Venezuela e Guiana",
+      "answer": "MONTE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Índice de Massa Corporal",
+      "answer": "IMC",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Ator de \"O Ano em que Meus Pais Saíram de Férias\"",
+      "answer": "CAIOBLAT",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Sônia Bridi, jornalista catarinense",
+      "answer": "SB",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Ingl.) Queda repentina dos valores negociados em bolsas de valores",
+      "answer": "CRASH",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Os filhos dos tios",
+      "answer": "PRIMOS",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Pop.) Bonito e gracioso",
+      "answer": "FOFO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Pintar, tingir de azul",
+      "answer": "ANILAR",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Afastar",
+      "answer": "ARREDAR",
+      "row": 2,
+      "col": 5
+    },
+    "18": {
+      "clue": "Promissor, prometedor",
+      "answer": "FUTUROSO",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "Indivíduo de um povo do Quênia e da Tanzânia",
+      "answer": "MASSAI",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "(Ingl.) O bar do faroeste",
+      "answer": "SALOON",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "O contrário de paz",
+      "answer": "GUERRA",
+      "row": 5,
+      "col": 10
+    },
+    "27": {
+      "clue": ".O lutador de MMA e boxe Anderson",
+      "answer": "SILVA",
+      "row": 6,
+      "col": 2
+    },
+    "28": {
+      "clue": "(Ingl.) Maçã",
+      "answer": "APPLE",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "O do Triunfo é um monumento parisiense",
+      "answer": "ARCO",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Que existe verdadeiramente",
+      "answer": "REAL",
+      "row": 7,
+      "col": 9
+    },
+    "34": {
+      "clue": "Ministério da Educação",
+      "answer": "MEC",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "Distrito Policial",
+      "answer": "DP",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

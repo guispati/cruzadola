@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Automóvel que era fabricado pela GM",
+      "answer": "ASTRA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Microrganismo que é um parasita intestinal do homem",
+      "answer": "AMEBA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Haver à mão",
+      "answer": "TER",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Enxergar",
+      "answer": "DIVISAR",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Inezita Barroso (1925-2015), cantora e apresentadora",
+      "answer": "IB",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Que tem membros de dupla natureza (diz-se dos Centauros, da mitologia)",
+      "answer": "BIMEMBRE",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Os jotas das cartas",
+      "answer": "VALETES",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Relativo ao olho ou à vista",
+      "answer": "OCULAR",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "(João do) Ex-recordista mundial de salto triplo (1954-1999)",
+      "answer": "PULO",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "(Pint.) Camada leve de tinta aplicada sobre uma pintura",
+      "answer": "ESFREGAÇO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Sem rabo",
+      "answer": "COTO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Uma arte marcial",
+      "answer": "CARATE",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Desobrigar, isentar",
+      "answer": "LIBERAR",
+      "row": 7,
+      "col": 4
+    },
+    "26": {
+      "clue": "Extermínio deliberado de um ecossistema regional ou comunidade",
+      "answer": "ECOCIDIO",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "David Bowie (1947-2016), cantor inglês de rock",
+      "answer": "DB",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Indiferença por pessoas ou coisas",
+      "answer": "DESAMOR",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Grande mamífero muito abatido para alimentação",
+      "answer": "BOI",
+      "row": 9,
+      "col": 8
+    },
+    "32": {
+      "clue": "Um antigo carro da Chevrolet",
+      "answer": "OPALA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "O órgão onde se desenvolve o feto",
+      "answer": "UTERO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Diz-se de vulcão que pode entrar em erupção",
+      "answer": "ATIVO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um cisto glandular",
+      "answer": "SEBACEO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Tony Ramos, ator de \"Se Eu Fosse Você\"",
+      "answer": "TR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Acrescentar",
+      "answer": "ADITAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Saíras, socós e suindaras",
+      "answer": "AVES",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Forma oblíqua tônica do pronome eu",
+      "answer": "MIM",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Escavar a terra para o plantio de mudas de videira",
+      "answer": "ESBOUÇAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Boteco",
+      "answer": "BAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Grande areal",
+      "answer": "AREÃO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Recebido injustamente",
+      "answer": "IMERECIDO",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Que tem beiços grossos",
+      "answer": "BELFO",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Reluzente (fem.)",
+      "answer": "LUSTROSA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Corrida de cavalos",
+      "answer": "PAREO",
+      "row": 4,
+      "col": 7
+    },
+    "19": {
+      "clue": "Aquele que fixa, determina o número de",
+      "answer": "LOTADOR",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Conquistador de mulheres",
+      "answer": "GABIRU",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Interjeição de espanto, aversão",
+      "answer": "CREDO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Er em química",
+      "answer": "ERBIO",
+      "row": 6,
+      "col": 10
+    },
+    "25": {
+      "clue": "A capital peruana",
+      "answer": "LIMA",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Os 8 dígitos que indicam um endereço postal",
+      "answer": "CEP",
+      "row": 8,
+      "col": 1
+    },
+    "28": {
+      "clue": "O ligante da alvenaria, que se mistura com o cimento",
+      "answer": "CAL",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "B",
+      "answer": "BE",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Medida igual a 25,40 mm",
+      "answer": "POLEGADA",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Compact Disc",
+      "answer": "CD",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Instituto de estudos superiores",
+      "answer": "ATENEU",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Guloseima como a antiga Juquinha ou a Soft",
+      "answer": "BALA",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Um cosmético para maquiagem",
+      "answer": "RIMEL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Jogo de tabuleiro entre dois concorrentes",
+      "answer": "DAMAS",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "M",
+      "answer": "EME",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Lisonjear alguém exageradamente",
+      "answer": "ADULAR",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "O Borges músico de \"Feira Moderna\"",
+      "answer": "LO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Devoto de um culto religioso",
+      "answer": "ADORADOR",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Reduzido a cinzas (um cadáver)",
+      "answer": "CREMADO",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Danificado, estragado",
+      "answer": "AVARIADO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "O símbolo químico do seabórgio",
+      "answer": "SG",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Entulho com que se enche um fosso ou depressão de terreno, ou com que se nivela ou eleva um local",
+      "answer": "ATERRO",
+      "row": 7,
+      "col": 1
+    },
+    "26": {
+      "clue": "Homem que pode ser condenado",
+      "answer": "REU",
+      "row": 7,
+      "col": 8
+    },
+    "27": {
+      "clue": "Voz de gatos",
+      "answer": "MIADA",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Habitual",
+      "answer": "USUAL",
+      "row": 8,
+      "col": 6
+    },
+    "30": {
+      "clue": "(Amaz.) Sereia dos rios e lagos",
+      "answer": "IARA",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Sóror, monja",
+      "answer": "FREIRA",
+      "row": 9,
+      "col": 5
+    },
+    "32": {
+      "clue": "Lupicínio Rodrigues (1914-1974), músico",
+      "answer": "LR",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Modificar para melhor",
+      "answer": "REFORMAR",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Conjunto de dois animais, especialmente de carga",
+      "answer": "PARELHA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O que é demasiadamente bom",
+      "answer": "OTIMO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Peça que imprime a um barco a direção da rota",
+      "answer": "LEME",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Símbolo de és-nordeste",
+      "answer": "ENE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Refrigerador",
+      "answer": "GELADEIRA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Som que imita o latido de cães",
+      "answer": "AU",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Perturbado por desgostos",
+      "answer": "ABALADO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Que recebe muita luz",
+      "answer": "CLARO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Um boleto federal",
+      "answer": "DAS",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Querido, adorado",
+      "answer": "AMADO",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Que pode resistir por muito tempo",
+      "answer": "DURADOURO",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Tornar dóceis animais ferozes ou selvagens",
+      "answer": "DOMAR",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Afastar",
+      "answer": "ARREDAR",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Reduzir aos justos limites",
+      "answer": "REGULAR",
+      "row": 4,
+      "col": 10
+    },
+    "21": {
+      "clue": "O país da Arábia que possui a maior renda per capita do mundo",
+      "answer": "CATAR",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Apupar",
+      "answer": "VAIAR",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Campo de cereais",
+      "answer": "SEARA",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "O contrário de bom",
+      "answer": "RUIM",
+      "row": 7,
+      "col": 8
+    },
+    "27": {
+      "clue": "Setecentos mais trezentos",
+      "answer": "MIL",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Ocorrer",
+      "answer": "SER",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "(Mús.) Fortíssimo",
+      "answer": "FF",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

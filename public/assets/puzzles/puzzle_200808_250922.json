@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Árvore espinhosa de jardim",
+      "answer": "ACACIA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Abreviatura de limitada",
+      "answer": "LTDA",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Uma cobertura para proteção contra o sol",
+      "answer": "BONE",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "A atriz Fersoza, das novelas",
+      "answer": "THAIS",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Cadastro de Pessoa Física",
+      "answer": "CPF",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "A cantora Gil",
+      "answer": "PRETA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Maluquice",
+      "answer": "DOIDEIRA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Abreviatura latina de ibidem (no mesmo lugar)",
+      "answer": "IB",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Algazarra, desordem",
+      "answer": "BANZE",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Casa da Moeda do Brasil",
+      "answer": "CMB",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "Dança e música popular portuguesa",
+      "answer": "VIRA",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "(Pop.) Encanto pessoal, charme",
+      "answer": "TCHÃ",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Em tal grau",
+      "answer": "TÃO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Qualquer bebida alcoólica, especialmente a pinga",
+      "answer": "CHICA",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "Um símbolo bíblico de morte",
+      "answer": "PO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Gordura dos porcos, subjacente à pele, com o respectivo couro",
+      "answer": "TOUCINHO",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Uma obra como \"Os Sertões\" ou \"Dom Casmurro\"",
+      "answer": "LIVRO",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "Trazer consigo",
+      "answer": "TER",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Um número como o 9 ou o 45",
+      "answer": "IMPAR",
+      "row": 9,
+      "col": 1
+    },
+    "33": {
+      "clue": "Preço fixo regulamentado por convenção ou pelo uso",
+      "answer": "TAXA",
+      "row": 9,
+      "col": 7
+    },
+    "34": {
+      "clue": "O de boca é a cortina que separa o palco da plateia",
+      "answer": "PANO",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Tumor gangrenável e inflamatório",
+      "answer": "ANTRAZ",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "As cinco primeiras letras do alfabeto",
+      "answer": "ABCDE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Recipiente de vidro, plástico etc., usado para consumir bebidas",
+      "answer": "COPO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Animal ou vegetal que vive tanto na água como fora dela",
+      "answer": "ANFIBIO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Sigla do estado de Ubajara e Fortaleza",
+      "answer": "CE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A profissão de Lilia Cabral",
+      "answer": "ATRIZ",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Recipiente feito de folha-de-flandres",
+      "answer": "LATA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "A irmã da mãe ou do pai",
+      "answer": "TIA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "As iniciais do humorista Santana",
+      "answer": "DS",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Descrente",
+      "answer": "HERETICO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Locução que significa pessoa envelhecida, doente, acabada",
+      "answer": "PENACOVA",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "(Sigla) Um famoso reality show",
+      "answer": "BBB",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Efetuar, executar um movimento corporal",
+      "answer": "DAR",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "(Fig.) Coisa que atrai",
+      "answer": "IMÃ",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Reproduzir por estaca",
+      "answer": "CHANTAR",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "Que não teve utilidade alguma",
+      "answer": "VÃO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "201... romanos",
+      "answer": "CCI",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "(Abrev.) Uma síndrome que atinge somente mulheres",
+      "answer": "TPM",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Segue o duplo hip",
+      "answer": "HURRA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Ávido de alimento",
+      "answer": "VORAZ",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "Modo de interpretar característico de um ator",
+      "answer": "TIPO",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "(Red.) Equipe seis vezes campeã",
+      "answer": "HEXA",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "As letras que separam o K e o O",
+      "answer": "LMN",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "O centro de... Riad",
+      "answer": "IA",
+      "row": 9,
+      "col": 1
+    },
+    "33": {
+      "clue": "As iniciais do ator e cantor Tornado",
+      "answer": "TT",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

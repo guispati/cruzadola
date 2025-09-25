@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma bebida aromática e excitante",
+      "answer": "CAFE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Uma marca de carros",
+      "answer": "FIAT",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "O Woody cineasta de \"A Era do Rádio\"",
+      "answer": "ALLEN",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Aguardente de cana",
+      "answer": "PINGA",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Embarcação de transporte entre o Norte e o Sul do Brasil",
+      "answer": "ITA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Escola de Belas Artes",
+      "answer": "EBA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Exclamação que expressa incerteza ou indiferença",
+      "answer": "HUM",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Sem apoio ou ajuda",
+      "answer": "SO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Colocado em lugar conveniente",
+      "answer": "GUARDADO",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Fazer um atchim",
+      "answer": "ESPIRRAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Interjeição popular usada como saudação",
+      "answer": "OI",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Ir em socorro",
+      "answer": "ACORRER",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Cerimônia religiosa",
+      "answer": "CULTO",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Sem roupas (pl.)",
+      "answer": "NUS",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Cidade sul-mato-grossense, no sudoeste do estado",
+      "answer": "JATEI",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Poder entrar num lugar",
+      "answer": "CABER",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "Registro escrito de uma reunião",
+      "answer": "ATA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Convencido à força",
+      "answer": "COAGIDO",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "O zircônio, para os químicos",
+      "answer": "ZR",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "A respeito de",
+      "answer": "SOBRE",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "O meio do... lado",
+      "answer": "AD",
+      "row": 9,
+      "col": 9
+    },
+    "36": {
+      "clue": "O dono de uma famosa cabeleira, na marchinha carnavalesca",
+      "answer": "ZEZE",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Um produto usado em maquiagem",
+      "answer": "SOMBRA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Designação do imperador na Alemanha, do século XIX até a instituição da República",
+      "answer": "CAISER",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(e baixos) Infortúnios, contratempos",
+      "answer": "ALTOS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Abreviatura do nome de um time carioca de futebol",
+      "answer": "FLA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Tetê sem consoantes",
+      "answer": "EE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Fundos de Investimento",
+      "answer": "FI",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "(Fem.) Sufixo diminutivo",
+      "answer": "INHA",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "(Mús.) O contrário de grave",
+      "answer": "AGUDO",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Índio de tribo que habitava a região da baia da Guanabara",
+      "answer": "TAMOIO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Um que sofre por ansiedade ou fobia",
+      "answer": "NEUROTICO",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Impedir o movimento",
+      "answer": "PARAR",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "A matéria-prima do oleiro",
+      "answer": "BARRO",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "(Mecan.) Peça que dosa a gasolina para a carburação",
+      "answer": "GICLE",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Escoamento das águas de terrenos com umidade excessiva",
+      "answer": "DRENAGEM",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "(Mús.) As cinco linhas horizontais da partitura",
+      "answer": "PAUTA",
+      "row": 4,
+      "col": 2
+    },
+    "23": {
+      "clue": "Uma pedra preciosa vermelha",
+      "answer": "RUBI",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Cama dobrável, de lona, para viagem",
+      "answer": "CATRE",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Ministrar calmantes e tranquilizantes",
+      "answer": "SEDAR",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "O estilo musical de Nina Simone e Chet Baker",
+      "answer": "JAZZ",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Querido, estimado",
+      "answer": "CARO",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "Cada um dos apoios do carro no chão",
+      "answer": "RODA",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "Abrev.: observação",
+      "answer": "OBS",
+      "row": 8,
+      "col": 5
+    },
+    "34": {
+      "clue": "Sigla do Sergipe",
+      "answer": "SE",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

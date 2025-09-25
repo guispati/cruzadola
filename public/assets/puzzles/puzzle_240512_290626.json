@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "Brocha larga e espalmada",
+      "answer": "TRINCHA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Marca chinesa de carros",
+      "answer": "JAC",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "(Bull) Uma famosa bebida energética",
+      "answer": "RED",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Que é composto de elementos diferentes",
+      "answer": "HIBRIDO",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Émile Zola (1840-1902), escritor francês",
+      "answer": "EZ",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Prega costurada pelo avesso do tecido para ajustar a roupa ao corpo",
+      "answer": "PENCE",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Carro compacto da VW",
+      "answer": "UP",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Ferramenta para a troca de um pneu",
+      "answer": "MACACO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "O compositor carioca Lamartine",
+      "answer": "BABO",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Cada uma das peças de cor escura ou negra em certos jogos, como o xadrez, damas, etc.",
+      "answer": "PRETA",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Em geometria, ângulo de 180º",
+      "answer": "RASO",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "A classe das tartarugas e dos lagartos",
+      "answer": "REPTEIS",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "(Náut.) Nó simples, feito no chicote de um cabo de embarcação",
+      "answer": "COTE",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Resultado satisfatório",
+      "answer": "EXITO",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Ilha da Indonésia, destino turístico e de surfistas",
+      "answer": "BALI",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Provas para a avaliar os conhecimentos dos alunos",
+      "answer": "EXAMES",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "A sigla do estado que faz divisa com o sul da BA e com o norte do RJ",
+      "answer": "ES",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Buscar",
+      "answer": "CATAR",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Natuza Nery, jornalista",
+      "answer": "NN",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Sopro brando e interrompido",
+      "answer": "BAFAGEM",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "7, em algarismos romanos",
+      "answer": "VII",
+      "row": 9,
+      "col": 8
+    },
+    "36": {
+      "clue": "O sujeito de rouba ou delata",
+      "answer": "ELE",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Saibroso",
+      "answer": "ARENOSO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Suporte para panelas, nos fogões",
+      "answer": "TREMPE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Dizer orações",
+      "answer": "REZAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Psic.) Uma das grandes divisões da personalidade humana",
+      "answer": "ID",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Exame de saúde geral",
+      "answer": "CHECAPE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Na liturgia cristã, cântico de louvor a Deus",
+      "answer": "HINO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "As três primeiras letras",
+      "answer": "ABC",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "As iniciais do cantor Iglesias",
+      "answer": "JI",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Substância que torna a terra mais produtiva",
+      "answer": "ADUBO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Recipiente geralmente cilíndrico, usado para bebidas",
+      "answer": "COPO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Transferir para categoria inferior",
+      "answer": "REBAIXAR",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Que produz sentimento de piedade (fem.)",
+      "answer": "PATETICA",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "Preparado para cortar linhas de pipas",
+      "answer": "CEROL",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "(Caminha a Humanidade) Famoso filme de 1956",
+      "answer": "ASSIM",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Nova análise",
+      "answer": "REEXAME",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "De um país do centro-sul da Europa",
+      "answer": "BOSNIO",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "Duas pessoas que vivem em relação íntima",
+      "answer": "CASAL",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "O esporte de Bia Haddad e Thiago Wild",
+      "answer": "TENIS",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Criança recém-nascida",
+      "answer": "BEBE",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Substância usada como solvente e antisséptico",
+      "answer": "ETER",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "A 8ª letra do alfabeto",
+      "answer": "AGA",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "Ferro",
+      "answer": "FE",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "O pai do pai ou da mãe",
+      "answer": "VO",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

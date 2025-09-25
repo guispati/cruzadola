@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Fazer subir",
+      "answer": "ELEVAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Itens de um patrimônio",
+      "answer": "BENS",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Famosa apresentadora da TV",
+      "answer": "XUXA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "(Belle) Fase vivida na Europa, entre o final do século XIX e início do século XX, caracterizada por grande produção artística",
+      "answer": "EPOQUE",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Péssima",
+      "answer": "MA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Pelo da orla das pálpebras",
+      "answer": "CILIO",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Meg Ryan, atriz de \"Cidade dos Anjos\"",
+      "answer": "MR",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Um tecido comum em sementes",
+      "answer": "ANFIDERME",
+      "row": 3,
+      "col": 0
+    },
+    "20": {
+      "clue": "Nociva, prejudicial",
+      "answer": "DANOSA",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "(Abrev.) Um exame de imagem",
+      "answer": "RMN",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Plantação de certos frutos cônicos",
+      "answer": "PERAL",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "A mecha que queima na vela",
+      "answer": "PAVIO",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "Um alucinógeno muito perigoso",
+      "answer": "LSD",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Provocar muita pressa a",
+      "answer": "AFOBAR",
+      "row": 6,
+      "col": 4
+    },
+    "29": {
+      "clue": "Um apelido do estado de Minas Gerais",
+      "answer": "ALTEROSAS",
+      "row": 7,
+      "col": 2
+    },
+    "32": {
+      "clue": "Unidade de Conservação",
+      "answer": "UC",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Equipar para a guerra",
+      "answer": "ARMAR",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Despido",
+      "answer": "NU",
+      "row": 8,
+      "col": 9
+    },
+    "36": {
+      "clue": "O ritmo musical de Bob Marley",
+      "answer": "REGGAE",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Completa",
+      "answer": "TODA",
+      "row": 9,
+      "col": 7
+    },
+    "40": {
+      "clue": "O oposto de baixo",
+      "answer": "ALTO",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "Dar pousada",
+      "answer": "ALOJAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Abreviatura de excelentíssima",
+      "answer": "EXMA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Angolano da capital",
+      "answer": "LUANDES",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Prefixo: fora de",
+      "answer": "EX",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Uma substância como a B.C.G.",
+      "answer": "VACINA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "De pouco valor",
+      "answer": "RELES",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Ingl.) Fase de grande expansão econômica",
+      "answer": "BOOM",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Escola de Química",
+      "answer": "EQ",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Em um",
+      "answer": "NUM",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Limpo de nuvens",
+      "answer": "SERENO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Município mineiro, no Norte do estado",
+      "answer": "PIRAPORA",
+      "row": 1,
+      "col": 6
+    },
+    "15": {
+      "clue": "Admirador fanático",
+      "answer": "IDOLATRA",
+      "row": 2,
+      "col": 4
+    },
+    "18": {
+      "clue": "Uniforme militar",
+      "answer": "FARDA",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Plantas como o coentro e o alecrim",
+      "answer": "ERVAS",
+      "row": 3,
+      "col": 8
+    },
+    "22": {
+      "clue": "O Luís ator baiano",
+      "answer": "MIRANDA",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "A membrana que recobre os pulmões",
+      "answer": "PLEURA",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Med.) Feto prematuramente expelido",
+      "answer": "ABORTO",
+      "row": 5,
+      "col": 7
+    },
+    "28": {
+      "clue": "Um antônimo para macho",
+      "answer": "FEMEA",
+      "row": 6,
+      "col": 5
+    },
+    "30": {
+      "clue": "(Titicaca) Fica entre a Bolívia e o Peru e é o mais alto do mundo",
+      "answer": "LAGO",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "(Fig.) Fazer enormes esforços",
+      "answer": "SUAR",
+      "row": 7,
+      "col": 10
+    },
+    "33": {
+      "clue": "Abrev.: Coronel",
+      "answer": "CEL",
+      "row": 8,
+      "col": 1
+    },
+    "37": {
+      "clue": "Gata sem ás",
+      "answer": "GT",
+      "row": 9,
+      "col": 2
+    },
+    "39": {
+      "clue": "Odair José, cantor",
+      "answer": "OJ",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

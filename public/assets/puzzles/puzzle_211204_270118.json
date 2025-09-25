@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Saliência de telhado",
+      "answer": "ABA",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "Os pertences de quem viaja, para uso pessoal",
+      "answer": "BAGAGEM",
+      "row": 0,
+      "col": 4
+    },
+    "10": {
+      "clue": "Cortar os cabelos rente ao couro cabeludo",
+      "answer": "RAPAR",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Mordiscado",
+      "answer": "ROIDO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Grande deserto do norte do Chile",
+      "answer": "ATACAMA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Por) De minha parte",
+      "answer": "MIM",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "A data limite para uso de alimentos e outros produtos",
+      "answer": "VALIDADE",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Sigla de um estado que faz divisa com MA e BA",
+      "answer": "TO",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Ação judicial",
+      "answer": "PROCESSO",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "(do Sertão) Famosa música",
+      "answer": "LUAR",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Tronco serrado",
+      "answer": "TORA",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "Fazer desenho com spray de tinta, nas paredes, muros etc.",
+      "answer": "GRAFITAR",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Àquele lugar",
+      "answer": "LA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Calcular de novo",
+      "answer": "RECONTAR",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "Correlativo de outros",
+      "answer": "UNS",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Lugar, real ou fictício, a que se dirige uma pessoa ou se envia alguma coisa",
+      "answer": "DESTINO",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "Voo curto sem direção certa",
+      "answer": "ADEJO",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Transferir a posse",
+      "answer": "CEDER",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "(Quím.) O elemento Sm",
+      "answer": "SAMARIO",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Saudação entre amigos",
+      "answer": "OLA",
+      "row": 10,
+      "col": 8
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Cultivável",
+      "answer": "ARAVEL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Uma roupa para grávidas",
+      "answer": "BATA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Tatear",
+      "answer": "APALPAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Voz forte e enérgica",
+      "answer": "BRADO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Peça de madeira ou de ferro para moldar telhas ou tijolos",
+      "answer": "GRADE",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Antônio Olinto (1919-2009), membro da ABL",
+      "answer": "AO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Ingrediente alcoólico de muitos aperitivos",
+      "answer": "GIM",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Profissional que produz livros e jornais",
+      "answer": "EDITOR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O rei que só é lembrado na época do carnaval",
+      "answer": "MOMO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Aumentar agressividade ou reação agressiva de",
+      "answer": "ACIRRAR",
+      "row": 1,
+      "col": 3
+    },
+    "14": {
+      "clue": "Comportamento másculo, varonil",
+      "answer": "MACHICE",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Móvel com prateleiras",
+      "answer": "ESTANTE",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Que tem grande variedade de mercadorias",
+      "answer": "SORTIDO",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Nação cuja capital é Kampala",
+      "answer": "UGANDA",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Grande vinícola brasileira",
+      "answer": "AURORA",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Mau cheiro",
+      "answer": "FEDOR",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "Grosseiro",
+      "answer": "TOSCO",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "Satélites",
+      "answer": "LUAS",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Cada formação anelar que gravita ao redor de Saturno",
+      "answer": "ANEL",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Que não possui",
+      "answer": "SEM",
+      "row": 8,
+      "col": 2
+    },
+    "35": {
+      "clue": "Sem demora",
+      "answer": "JA",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

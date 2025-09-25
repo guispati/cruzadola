@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "O ator de filmes de faroeste Wayne (1907-1979)",
+      "answer": "JOHN",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "A atriz Oliveira",
+      "answer": "PAOLLA",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "A crista do osso do quadril",
+      "answer": "ILIACA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "(do Sertão) Uma das mais famosas toadas brasileiras",
+      "answer": "LUAR",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "(Quím.) Hânio",
+      "answer": "HA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O poeta Alighieri (1265-1321), de \"A Divina Comédia\"",
+      "answer": "DANTE",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Multinacional de eletroeletrônicos",
+      "answer": "GE",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Importante artéria do coração",
+      "answer": "AORTA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Àqueles",
+      "answer": "AOS",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "O número de pinos do boliche",
+      "answer": "DEZ",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Casa de habitação",
+      "answer": "MORADA",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "Aparelho para transmitir a fala",
+      "answer": "TELEFONE",
+      "row": 5,
+      "col": 1
+    },
+    "26": {
+      "clue": "Relativo à maior cordilheira sul-americana",
+      "answer": "ANDINO",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "A primeira emissora de TV brasileira",
+      "answer": "TUPI",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "O poeta Gonçalves (1823-1864), de \"Segundos Cantos\"",
+      "answer": "DIAS",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "O médico mineiro Vital (1865-1950)",
+      "answer": "BRASIL",
+      "row": 7,
+      "col": 5
+    },
+    "32": {
+      "clue": "(Quím.) O sódio",
+      "answer": "NA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Flutuar",
+      "answer": "BOIAR",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Stanley Kubrick, cineasta de \"Laranja Mecânica\"",
+      "answer": "SK",
+      "row": 8,
+      "col": 9
+    },
+    "36": {
+      "clue": "De forma tola",
+      "answer": "BOBAMENTE",
+      "row": 9,
+      "col": 2
+    },
+    "38": {
+      "clue": "O poeta Antônio Gonzaga (1744-1810), de \"Marília de Dirceu\"",
+      "answer": "TOMAS",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Expor à alta temperatura de um forno, para cozinhar",
+      "answer": "ASSAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Guerra santa muçulmana",
+      "answer": "JIHAD",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Movimento em onda, feito por torcidas",
+      "answer": "OLA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Oi, nos EUA",
+      "answer": "HI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O crawl é o mais praticado nas piscinas",
+      "answer": "NADO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Medo de tudo",
+      "answer": "PANTOFOBIA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "No futebol, série de dribles sobre o adversário",
+      "answer": "OLE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Lutécio",
+      "answer": "LU",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A Rodrigo de Freitas se localiza na cidade do Rio de Janeiro",
+      "answer": "LAGOA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Clima",
+      "answer": "ARES",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Ópera de ambiente espanhol",
+      "answer": "CARMEN",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Um baralho",
+      "answer": "TARO",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Ácida",
+      "answer": "AZEDA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Palavra usada em despedidas",
+      "answer": "ADEUS",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Raça",
+      "answer": "ETNIA",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "(Astron.) Grande estrela de Escorpião",
+      "answer": "ANTARES",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "A capital de Portugal",
+      "answer": "LISBOA",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "O ator José (1944-2014)",
+      "answer": "WILKER",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "O Marcelo humorista",
+      "answer": "ADNET",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Parte de um salão reservada a dançarinos",
+      "answer": "PISTA",
+      "row": 6,
+      "col": 9
+    },
+    "31": {
+      "clue": "Folhagem",
+      "answer": "RAMA",
+      "row": 7,
+      "col": 6
+    },
+    "34": {
+      "clue": "Abrev.: observação",
+      "answer": "OBS",
+      "row": 8,
+      "col": 4
+    },
+    "36": {
+      "clue": "Em música, si menor",
+      "answer": "BM",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "Nelson Sargento, cantor e compositor carioca",
+      "answer": "NS",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Loja em que se vende óculos, lentes, binóculos etc.",
+      "answer": "OTICA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Cova para apanhar feras",
+      "answer": "TRAPA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Palavra da bandeira da Paraíba",
+      "answer": "NEGO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "A atriz Patrícia, de \"Zuzu Angel\"",
+      "answer": "PILLAR",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Zona do Interior",
+      "answer": "ZI",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Fig.) Remédio, solução",
+      "answer": "CURA",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Voz que imita a explosão de um tiro",
+      "answer": "TUM",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Marido",
+      "answer": "ESPOSO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Escavação própria para receber encanamentos",
+      "answer": "VALA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Bicar no solo, à cata de insetos, migalhas etc.",
+      "answer": "MARISCAR",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "O ator britânico Firth, Oscar em 2011 por \"O Discurso do Rei\"",
+      "answer": "COLIN",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Um instrumento do samba",
+      "answer": "AGOGO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "(Pop.) Parado em um local por bastante tempo",
+      "answer": "ACAMPADO",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Ponto que se procura atingir",
+      "answer": "ALVO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Que não está certa",
+      "answer": "ERRADA",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "Vermelho ou amarelo",
+      "answer": "COR",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "O antônimo de quente",
+      "answer": "FRIO",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "As letras extremas do nosso alfabeto",
+      "answer": "AZ",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Mosteiro",
+      "answer": "ABADIA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Boca de) Sigilo",
+      "answer": "SIRI",
+      "row": 9,
+      "col": 7
+    },
+    "37": {
+      "clue": "Planta também conhecida como absinto",
+      "answer": "LOSNA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Decadência",
+      "answer": "CAIDA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Cinco mais seis",
+      "answer": "ONZE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Crença numa divindade pessoal e única",
+      "answer": "TEISMO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Instituto de Geografia",
+      "answer": "IG",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O som do canto de um galo",
+      "answer": "COCORICO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Nastácia) Personagem de Monteiro Lobato",
+      "answer": "TIA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Rita Lee, cantora de \"Ovelha Negra\"",
+      "answer": "RL",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "A elite",
+      "answer": "ALTARODA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Pântano",
+      "answer": "PAUL",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Aparelhado, munido",
+      "answer": "ARMADO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Vantagens, conveniências",
+      "answer": "PROS",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Instalação destinada à geração de energia",
+      "answer": "USINA",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "Promessas falsas",
+      "answer": "PALAVRAS",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Lenta",
+      "answer": "VAGAROSA",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Ilha da Itália, destino turístico",
+      "answer": "CAPRI",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Animal parecido com a raposa e com o lobo",
+      "answer": "CHACAL",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "O cineasta francês Jean-Luc, de \"Je Vous Salue Marie\"",
+      "answer": "GODARD",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Banal (fem.)",
+      "answer": "MERA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Canídeo encontrado no hemisfério norte",
+      "answer": "LOBO",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Sensação de queimação no esôfago",
+      "answer": "AZIA",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Instituição que organiza corridas de carros",
+      "answer": "FIA",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "Dudu Nobre, sambista de \"Vou Botar Teu Nome na Macumba\"",
+      "answer": "DN",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "Didi sem dês",
+      "answer": "II",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

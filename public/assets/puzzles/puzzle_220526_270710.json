@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Álcool etílico",
+      "answer": "ETANOL",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "A Fitzgerald cantora de jazz (1917-1996)",
+      "answer": "ELLA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "O Alexandre ator paranaense",
+      "answer": "NERO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Doce cilíndrico recheado de chocolate ou creme",
+      "answer": "ECLAIR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Quase nada",
+      "answer": "TRIZ",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Mulher japonesa de tradição milenar",
+      "answer": "GUEIXA",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Educação a Distância",
+      "answer": "EAD",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Mensagem escrita, enviada num envelope",
+      "answer": "CARTA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "(Pop.) Andar de bike",
+      "answer": "PEDALAR",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "A 3ª consoante",
+      "answer": "DE",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "Alegar",
+      "answer": "DIZER",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Pop.) Os sofrimentos do trabalho de parto",
+      "answer": "DORES",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Interjeição que exprime asco, desprezo",
+      "answer": "IA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "O cantor Wilson (1939-2000), da bossa-nova",
+      "answer": "SIMONAL",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Jogar para longe, com ímpeto e força",
+      "answer": "TACAR",
+      "row": 7,
+      "col": 2
+    },
+    "27": {
+      "clue": "Tecnologia",
+      "answer": "TEC",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Mandar, em tom autoritário",
+      "answer": "EXIGIR",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Argola de ferro com que se prendiam escravos",
+      "answer": "PEGA",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Fazer o cerco de tropas para o ataque",
+      "answer": "SITIAR",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Fernão) A BR 381",
+      "answer": "DIAS",
+      "row": 9,
+      "col": 7
+    },
+    "34": {
+      "clue": "O Carreiro (1934-1993) violeiro e cantor sertanejo",
+      "answer": "TIÃO",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Um vegetal como uma paineira",
+      "answer": "ARVORE",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Filos.) Aquilo que é",
+      "answer": "ENTE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Tratamento de doenças",
+      "answer": "TERAPIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um antônimo de fertilidade",
+      "answer": "ARIDEZ",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Fruto de noz",
+      "answer": "NOZ",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Pop.) Muito bom, excelente",
+      "answer": "LEGAL",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Um componente do átomo",
+      "answer": "ELETRON",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Categoria (geralmente em tom depreciativo)",
+      "answer": "LAIA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "59, em algarismos romanos",
+      "answer": "LIX",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Povos que habitam uma grande península asiática",
+      "answer": "ARABES",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Aquele que faz sarar",
+      "answer": "CURADOR",
+      "row": 1,
+      "col": 6
+    },
+    "16": {
+      "clue": "Um gesto de afeto",
+      "answer": "CARICIA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Diferença entre o valor real e o nominal de uma moeda, quando este é superior àquele",
+      "answer": "DESAGIO",
+      "row": 4,
+      "col": 3
+    },
+    "19": {
+      "clue": "Encarregar por procuração",
+      "answer": "DELEGAR",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "(Reader's) Uma revista de variadades",
+      "answer": "DIGEST",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Ato de dividir segundo a proporção que cabe a cada um",
+      "answer": "RATEIO",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "(Na) Contra a vontade, à força",
+      "answer": "MARRA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Gigante mitológico",
+      "answer": "TITÃ",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "A atriz e comediante Regina",
+      "answer": "CASE",
+      "row": 7,
+      "col": 10
+    },
+    "30": {
+      "clue": "12, em romanos",
+      "answer": "XII",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "Ponto de Venda",
+      "answer": "PDV",
+      "row": 8,
+      "col": 7
+    }
+  }
+}

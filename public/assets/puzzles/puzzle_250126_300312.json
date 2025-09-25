@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Tornar a revelar",
+      "answer": "REDESCOBRIR",
+      "row": 0,
+      "col": 0
+    },
+    "11": {
+      "clue": "Que só tem uma",
+      "answer": "UNICA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "A escritora paulista Hilst (1930-2004)",
+      "answer": "HILDA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Pedra, rochedo, em tupi-guarani",
+      "answer": "ITA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Plataforma para embarque e desembarque num porto",
+      "answer": "CAIS",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "São três em piriri",
+      "answer": "IS",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Falta de vergonha",
+      "answer": "DESCARO",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "(Hot) Pão, salsicha, mostarda e ketchup",
+      "answer": "DOG",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Cada uma das estruturas que revestem o corpo das aves",
+      "answer": "PENA",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Presente de pouco valor, mas que demonstra carinho, afeto",
+      "answer": "MIMO",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Formiga da Amazônia, de picada muito dolorosa",
+      "answer": "TOCANDIRA",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Grande peixe marinho, de ótima carne",
+      "answer": "MERO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Em) Teoricamente",
+      "answer": "TESE",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "A top model mineira Beatriz Barros",
+      "answer": "ANA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "A atriz Lange, de \"Cabo do Medo\"",
+      "answer": "JESSICA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Gran Turismo",
+      "answer": "GT",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Um sinal musical",
+      "answer": "FUSA",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "O barulho de uma explosão",
+      "answer": "TUM",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Inferior em extensão",
+      "answer": "MENOR",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Grande quantidade de pessoas juntas",
+      "answer": "TROPA",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "Nascidos em Itacoatiara ou Parintins",
+      "answer": "AMAZONENSES",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Som que perturba os ouvidos",
+      "answer": "RUIDO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ser",
+      "answer": "ENTE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Dispersão dos judeus, no decorrer dos séculos, por todo o mundo",
+      "answer": "DIASPORA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Eric Clapton, músico de \"Tears in Heaven\"",
+      "answer": "EC",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Que não tem caráter",
+      "answer": "SACANA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "O estado dos EUA com capital Columbus",
+      "answer": "OHIO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Um biscoito muito consumido",
+      "answer": "BIS",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Rosa Luxemburgo, filósofa alemã (1871-1919)",
+      "answer": "RL",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "A língua de uma nação",
+      "answer": "IDIOMA",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Corte",
+      "answer": "RASGO",
+      "row": 0,
+      "col": 10
+    },
+    "15": {
+      "clue": "O músico Guilherme, de \"Brincar de Viver\"",
+      "answer": "ARANTES",
+      "row": 2,
+      "col": 5
+    },
+    "18": {
+      "clue": "(Anat.) O início do intestino grosso",
+      "answer": "CECO",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Prerrogativas trabalhistas que a lei faculta a alguém",
+      "answer": "DIREITOS",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Título que se dá à rainha da beleza",
+      "answer": "MISS",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Planta também chamada erva-de-passarinho",
+      "answer": "TENTEM",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Ato de soltar o nó",
+      "answer": "DESATE",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Substância que sai do vulcão",
+      "answer": "MAGMA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Um movimento político palestino",
+      "answer": "HAMAS",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "Lucro obtido por empréstimo de dinheiro",
+      "answer": "JURO",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Modelo de carro",
+      "answer": "CUPE",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "(do Iguaçú) Cidade paranaense",
+      "answer": "FOZ",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "A cantora Ozzetti, de \"Meu Quintal\"",
+      "answer": "NA",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "A sigla do estado com Genipabu e Atol das Rocas",
+      "answer": "RN",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Inform.) Atualização de programas",
+      "answer": "UPDATE",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Tira de madeira comprida e estreita",
+      "answer": "RIPA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Estrada de rodagem",
+      "answer": "RODOVIA",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Linguagem de Sinais",
+      "answer": "LS",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Velho, decrépito",
+      "answer": "SENIL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O rei que transformava em ouro tudo o que tocasse",
+      "answer": "MIDAS",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Com asas, como a ave",
+      "answer": "ALADO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Tecido brilhante",
+      "answer": "PAETE",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "(Mão-) Movimento dissimulado para tentativa de roubo",
+      "answer": "BOBA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "(Abrev.) Uma derrota no ringue",
+      "answer": "KO",
+      "row": 4,
+      "col": 5
+    },
+    "20": {
+      "clue": "Um aparelho eletrônico em desuso",
+      "answer": "FAX",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Uma forma de encadernar",
+      "answer": "ESPIRAL",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Transporte Aéreo Nacional",
+      "answer": "TAN",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Olívia Torres, atriz paulista",
+      "answer": "OT",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "Fruto carnudo e arredondado",
+      "answer": "BAGA",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Peças produzidas num processo judicial",
+      "answer": "AUTOS",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Macaco de cauda felpuda e comprida",
+      "answer": "SAGUI",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "(Gír.) Dinheiro",
+      "answer": "GRANA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "(de) Em seguida",
+      "answer": "ATRAS",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Editores",
+      "answer": "EE",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Dispor de certa maneira (as dobras de pano ou de vestimenta)",
+      "answer": "DRAPEAR",
+      "row": 9,
+      "col": 3
+    },
+    "37": {
+      "clue": "Um chá",
+      "answer": "MATE",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Reforçar (roupa) com entretela",
+      "answer": "FORRAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Aparelho para imprimir",
+      "answer": "PRELO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A vó de Narizinho e Pedrinho, nas histórias de Monteiro Lobato",
+      "answer": "DONABENTA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A marca esportiva das três listras",
+      "answer": "ADIDAS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Que não tem siso",
+      "answer": "TOLO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Elétron-volt",
+      "answer": "EV",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Cada divisão da piscina para competições de natação",
+      "answer": "RAIA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(La) Cidade argentina, capital da província de Buenos Aires",
+      "answer": "PLATA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O á de LGBTQIA+",
+      "answer": "ASSEXUAIS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Aplicar compulsoriamente",
+      "answer": "IMPOR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Danificação propositada para a interrupção de serviços",
+      "answer": "SABOTAGEM",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Provocar, incitar",
+      "answer": "DEFLAGRAR",
+      "row": 2,
+      "col": 8
+    },
+    "19": {
+      "clue": "Conjunto de ferramentas",
+      "answer": "KIT",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Ficar imóvel para ser fotografado",
+      "answer": "POSAR",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Matar animais para o consumo",
+      "answer": "ABATER",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "A lei que libertou os escravos",
+      "answer": "AUREA",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Ave de plumagem vermelha muito intensa",
+      "answer": "GUARA",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "No lugar em que",
+      "answer": "ONDE",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "Anfíbio anuro",
+      "answer": "SAPO",
+      "row": 7,
+      "col": 6
+    },
+    "36": {
+      "clue": "Ana Furtado, apresentadora e atriz da tevê",
+      "answer": "AF",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

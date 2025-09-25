@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Pig) Uma porquinha cor-de-rosa, de histórias infantis",
+      "answer": "PEPPA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Produto de secreção do fígado",
+      "answer": "BILIS",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Diz-se de indivíduo duro e indelicado, por caráter e modos",
+      "answer": "RUDE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Constituído por",
+      "answer": "DOTADO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Marciano",
+      "answer": "ET",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Ação de socorrer",
+      "answer": "AJUDA",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Sigla do estado de Tarauacá e Rio Branco",
+      "answer": "AC",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Erva de que se extrai óleo usado como repelentes de insetos",
+      "answer": "CITRONELA",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "A personagem de Monteiro Lobato que é uma boneca falante",
+      "answer": "EMILIA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Esta coisa",
+      "answer": "ISTO",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Sufixo diminutivo",
+      "answer": "INHO",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "A de detenção é o mesmo que prisão",
+      "answer": "CASA",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "(Fig.) Automóvel desconjuntado, em estado lamentável",
+      "answer": "LATA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Vale sinuoso e profundo",
+      "answer": "CANION",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Gênero de arbustos e ervas, com folhagem fortemente cheirosa",
+      "answer": "ARTEMISIA",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "As iniciais do Falabella, da TV e do teatro",
+      "answer": "MF",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Bicos por onde queimam as chamas no fogão",
+      "answer": "BOCAS",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Salvador Dalí (1904-1989), pintor surrealista espanhol",
+      "answer": "SD",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Sorvete de pauzinho",
+      "answer": "PICOLE",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Outro nome do gol, no futebol",
+      "answer": "META",
+      "row": 9,
+      "col": 7
+    },
+    "37": {
+      "clue": "A parte mais alta do braço",
+      "answer": "OMBRO",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Ingerir uma sopa, uma bebida",
+      "answer": "TOMAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Pedido de graça aos santos",
+      "answer": "PRECE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Sossego de espírito",
+      "answer": "EUTIMIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Quím.) O paládio",
+      "answer": "PD",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Base naval americana atacada na Segunda Guerra Mundial",
+      "answer": "PEARLHARBOR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Gír.) Rebu, bochincho",
+      "answer": "BODE",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Imitação dos costumes do país de Roma",
+      "answer": "ITALIANISMO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Paz) Capital da Bolívia",
+      "answer": "LA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A viagem que faz pressupor um regresso",
+      "answer": "IDA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Parceiro, companheiro",
+      "answer": "SOCIO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Colina de areia",
+      "answer": "DUNA",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Planta daninha que cresce nas plantações de trigo",
+      "answer": "JOIO",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "Matéria com que se imprime, pinta ou escreve",
+      "answer": "TINTA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "(Machado de) O autor de \"Quincas Borba\"",
+      "answer": "ASSIS",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Seguidor de certa religião chinesa",
+      "answer": "TAOISTA",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "O móvel para dormir",
+      "answer": "CAMA",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Sem mancha",
+      "answer": "LIMPO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Pop.) Fedor de suor",
+      "answer": "CECE",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Sustentar-se na água, movendo braços e pernas",
+      "answer": "NADAR",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "Boboca, otário",
+      "answer": "TOLO",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "O antônimo de começo",
+      "answer": "FIM",
+      "row": 8,
+      "col": 1
+    },
+    "34": {
+      "clue": "Cate Blanchett, atriz de \"O Aviador\"",
+      "answer": "CB",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Édouard Manet (1832-1883), pintor francês",
+      "answer": "EM",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

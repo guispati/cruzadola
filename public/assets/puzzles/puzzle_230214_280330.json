@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Que dá coragem",
+      "answer": "CONFORTADOR",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "(Hills) A famosa cidade norte americana",
+      "answer": "BEVERLY",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Milivolt",
+      "answer": "MV",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "O fruto da fava",
+      "answer": "VAGEM",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "UF vizinha do RJ",
+      "answer": "SP",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "(Stop) Parada nos boxes, nas corridas",
+      "answer": "PIT",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Em informática, reiniciar o computador",
+      "answer": "RESETAR",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Trazer para si",
+      "answer": "ATRAIR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Carro próprio para caminhos acidentados",
+      "answer": "JIPE",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "(Quím.) Cr",
+      "answer": "CROMO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Seios, peitos",
+      "answer": "MAMAS",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Um dos esquilos de Walt Disney",
+      "answer": "TICO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Trejeito do rosto",
+      "answer": "CARETA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Fora da regra comum",
+      "answer": "ANORMAL",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Estrela que é o centro de um sistema planetário",
+      "answer": "SOL",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "A letra que precede o E",
+      "answer": "DE",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "O mais importante prêmio mundial para elementos de cultura",
+      "answer": "NOBEL",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "A sétima nota da escala musical",
+      "answer": "SI",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Os jotas do baralho",
+      "answer": "VALETES",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Equipamento que atrai descargas elétricas da atmosfera",
+      "answer": "PARARAIOS",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Comprimido",
+      "answer": "COMPACTADO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "As iniciais da atriz carioca Nicette",
+      "answer": "NB",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Abreviatura do nome do segundo mês",
+      "answer": "FEV",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "(Anat.) Um órgão exclusivamente feminino",
+      "answer": "OVARIO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Administrar",
+      "answer": "REGER",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "No boxe, a quantidade de minutos de um round",
+      "answer": "TRES",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Desejar ardentemente, com ânsia",
+      "answer": "ALMEJAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O símbolo químico do disprósio",
+      "answer": "DY",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Desforra, vingança",
+      "answer": "REPRESALIA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Exposição de artigos",
+      "answer": "VITRINE",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Proteção para os pés",
+      "answer": "SAPATOS",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Dinheiro miúdo",
+      "answer": "TROCO",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "O famoso jornal londrino fundado em 1785",
+      "answer": "TIMES",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Aquecer levemente",
+      "answer": "AMORNAR",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Valise",
+      "answer": "MALETA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Poder entrar num lugar",
+      "answer": "CABER",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Peça que amortece solavancos",
+      "answer": "MOLA",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "(Pop.) Polícia",
+      "answer": "LEI",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "(Elet.) Volt-ampère",
+      "answer": "VA",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Que não tem companhia",
+      "answer": "SO",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

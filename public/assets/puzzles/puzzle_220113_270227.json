@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Pelo qual",
+      "answer": "COMO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Transmitir uma informação",
+      "answer": "AVISAR",
+      "row": 0,
+      "col": 5
+    },
+    "11": {
+      "clue": "(Fig.) Pessoa muito admirada",
+      "answer": "IDOLO",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Microrganismo unicelular que é parasita intestinal do homem",
+      "answer": "AMEBA",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Reorganizar, reconstruir",
+      "answer": "REFAZER",
+      "row": 2,
+      "col": 2
+    },
+    "16": {
+      "clue": "O radialista carioca da Nóbrega (1913-1976), criador da \"Praça da Alegria\"",
+      "answer": "MANOEL",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "A Lobo chef",
+      "answer": "RITA",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Estados Unidos da América",
+      "answer": "EUA",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Jato de água quente que irrompe do solo, típico da Islândia",
+      "answer": "GEISER",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "(Abrev.) Sem Data, usada em bibliografias",
+      "answer": "SD",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Via-) Sacrifício, padecimento",
+      "answer": "SACRA",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "(Sigla) Ondas Curtas",
+      "answer": "OC",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Operação de terraplenagem",
+      "answer": "ATERRO",
+      "row": 6,
+      "col": 1
+    },
+    "29": {
+      "clue": "Época da procriação animal",
+      "answer": "CIO",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "A cor do meio da bandeira da Rússia",
+      "answer": "AZUL",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Aspirar",
+      "answer": "INALAR",
+      "row": 7,
+      "col": 5
+    },
+    "33": {
+      "clue": "Fim",
+      "answer": "TERMINO",
+      "row": 8,
+      "col": 2
+    },
+    "35": {
+      "clue": "Gozação a que os calouros de faculdades são submetidos",
+      "answer": "TROTE",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "A que lugar",
+      "answer": "AONDE",
+      "row": 9,
+      "col": 6
+    },
+    "39": {
+      "clue": "Trazer para si",
+      "answer": "ATRAIR",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Sinal que indica direção",
+      "answer": "SETA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Medo de que a pessoa amada dedique seu afeto a outra pessoa (pl.)",
+      "answer": "CIUMES",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Orlando Dias, cantor",
+      "answer": "OD",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Nem quente nem fria",
+      "answer": "MORNA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Substância usada para fritar alimentos",
+      "answer": "OLEO",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "O sobrenome intermediário do escritor português Camões",
+      "answer": "VAZ",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Coberta de água",
+      "answer": "IMERSA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Filme para tevê, exibido em capítulos",
+      "answer": "SERIE",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "A primeira vogal e a primeira consoante",
+      "answer": "AB",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Subespécie animal",
+      "answer": "RAÇA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Respirar, de forma audível, num ritmo curto",
+      "answer": "OFEGAR",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Arbusto também chamado rosmaninho, cultivado como condimento",
+      "answer": "ALECRIM",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Valente",
+      "answer": "AUDAZ",
+      "row": 3,
+      "col": 1
+    },
+    "19": {
+      "clue": "Um sucesso do cinema, estrelado por Brad Pitt (2004)",
+      "answer": "TROIA",
+      "row": 3,
+      "col": 9
+    },
+    "22": {
+      "clue": "Palavra que exprime o contrário do que parece exprimir",
+      "answer": "IRONIA",
+      "row": 4,
+      "col": 6
+    },
+    "24": {
+      "clue": "Escolha antológica de trechos ou obras literárias",
+      "answer": "SELETA",
+      "row": 5,
+      "col": 3
+    },
+    "26": {
+      "clue": "A túnica do olho",
+      "answer": "CORNEA",
+      "row": 5,
+      "col": 10
+    },
+    "28": {
+      "clue": "Que supervisiona, governa",
+      "answer": "TUTOR",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "(Fig.) Cópia de um original",
+      "answer": "CLONE",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "Ulceração da mucosa da boca",
+      "answer": "AFTA",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Aniversário",
+      "answer": "ANOS",
+      "row": 7,
+      "col": 7
+    },
+    "34": {
+      "clue": "O \"K\" do baralho",
+      "answer": "REI",
+      "row": 8,
+      "col": 4
+    },
+    "36": {
+      "clue": "Renato Teixeira, músico",
+      "answer": "RT",
+      "row": 9,
+      "col": 1
+    },
+    "38": {
+      "clue": "Delirium Tremens",
+      "answer": "DT",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

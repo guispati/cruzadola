@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "Patada",
+      "answer": "COICE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Destinar uma importância para determinado fim",
+      "answer": "DOTAR",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "O modo de ser característico dos habitantes de MG",
+      "answer": "MINEIRICE",
+      "row": 1,
+      "col": 2
+    },
+    "12": {
+      "clue": "Dar por algum tempo",
+      "answer": "EMPRESTAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Vender a crédito",
+      "answer": "FIAR",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Pop.) Padaria",
+      "answer": "PADOCA",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Impetuoso",
+      "answer": "ARROJADO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "O condicionado refresca o ambiente nos dias quentes",
+      "answer": "AR",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "Costurar",
+      "answer": "SUTURAR",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Atacar",
+      "answer": "AGREDIR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Uma filha dos avós",
+      "answer": "TIA",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "(Malvado Favorito) Filme infantil de animação",
+      "answer": "MEU",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Retalhar, golpear",
+      "answer": "AFATIAR",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Árvore de excelente madeira para construção",
+      "answer": "IMBUIA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "R",
+      "answer": "ERRE",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Centopeia",
+      "answer": "LACRAIA",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Amparo, auxílio",
+      "answer": "APOIO",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Ave aquática pernalta, branca",
+      "answer": "GARÇA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Mulher que comanda",
+      "answer": "CHEFA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um número como o 7 ou o 93",
+      "answer": "IMPAR",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Uma doença crônica do fígado",
+      "answer": "CIRROSE",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "A letra que fica entre o eme e o ó",
+      "answer": "ENE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Domínio político, pessoal, autoritário",
+      "answer": "DITADURA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "O formando que fala em nome da turma",
+      "answer": "ORADOR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Explosão",
+      "answer": "TIRO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Antônio Callado (1917-1997), escritor de \"Quarup\"",
+      "answer": "AC",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Banhar (planta) como se fosse uma chuva",
+      "answer": "REGAR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Fazer em pedaços",
+      "answer": "ESPATIFAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Ilusão, sonho",
+      "answer": "MIRAGEM",
+      "row": 2,
+      "col": 1
+    },
+    "16": {
+      "clue": "Apodrecer",
+      "answer": "CARIAR",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Hebraico",
+      "answer": "JUDAICO",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Lançar para longe de si",
+      "answer": "ATIRAR",
+      "row": 5,
+      "col": 8
+    },
+    "22": {
+      "clue": "Colega, companheira",
+      "answer": "AMIGA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "A moeda da Rússia",
+      "answer": "RUBLO",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "(Fig.) Campo de luta",
+      "answer": "ARENA",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "A rede montada pela aranha",
+      "answer": "TEIA",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Ué!",
+      "answer": "UAI",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "(Quím.) A prata",
+      "answer": "AG",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

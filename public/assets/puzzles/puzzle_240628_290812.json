@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ressoar (um som) repetidamente",
+      "answer": "ECOAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Sulcos na pele",
+      "answer": "RUGAS",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "(Fr.) Cozido em fogo forte e com bastante gordura",
+      "answer": "SAUTE",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Inspeção ou pesquisa minuciosa",
+      "answer": "EXAME",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Modalidade de vôlei disputada numa piscina",
+      "answer": "BIRIBOL",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Matem.) Símbolo de logaritmo",
+      "answer": "LOG",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Fazer descorar",
+      "answer": "AMARELECER",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Uma competição automobilística",
+      "answer": "RALI",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "O continente com Filipinas e Malásia",
+      "answer": "ASIA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Interjeição de admiração",
+      "answer": "EH",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Tornar dóceis animais selvagens",
+      "answer": "DOMAR",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Marco Luque, humorista",
+      "answer": "ML",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Um grande clube de futebol paraense",
+      "answer": "REMO",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Por + aquela",
+      "answer": "PELA",
+      "row": 6,
+      "col": 5
+    },
+    "30": {
+      "clue": "(São Luiz do) Cidade turística do Vale do Paraíba",
+      "answer": "PARAITINGA",
+      "row": 7,
+      "col": 1
+    },
+    "33": {
+      "clue": "Abrev.: decagrama",
+      "answer": "DAG",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Tocar mal",
+      "answer": "GAITEAR",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "Cidade paulista próxima a Bauru",
+      "answer": "ITAJU",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Pequena vasilha feita com o fruto da cuieira",
+      "answer": "COITE",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "O oposto de presa",
+      "answer": "SOLTA",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "São oito no punho",
+      "answer": "OSSOS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Atenuar as cores, do mais intenso para o mais delicado",
+      "answer": "ESBATER",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Voz de dor do cão",
+      "answer": "CAIM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ornar com Au",
+      "answer": "OURAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Gatilho de revólver",
+      "answer": "ATIRADOR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O escritor carioca Marques (1907-1973)",
+      "answer": "REBELO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Comutador de comando elétrico",
+      "answer": "RELE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "User Experience, termo usado na informática",
+      "answer": "UX",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "País europeu cuja capital é Cardiff",
+      "answer": "GALES",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O jornalista de TV Paulo Henrique",
+      "answer": "AMORIM",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Segunda-feira",
+      "answer": "SEG",
+      "row": 0,
+      "col": 10
+    },
+    "14": {
+      "clue": "Cidade paulista com um famoso parque aquático",
+      "answer": "OLIMPIA",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "O personagem vivido por Charlie Chaplin",
+      "answer": "CARLITOS",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Um dos sobrenomes do navegador português Pedro",
+      "answer": "ALVARES",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Elemento de composição: fígado",
+      "answer": "HEPATO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Contrário à ciência da moral",
+      "answer": "AETICO",
+      "row": 5,
+      "col": 6
+    },
+    "27": {
+      "clue": "O cantor Sidney",
+      "answer": "MAGAL",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "As características formações que circundam Saturno",
+      "answer": "ANEIS",
+      "row": 6,
+      "col": 8
+    },
+    "31": {
+      "clue": "Agá dois ó",
+      "answer": "AGUA",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Um felino como Garfield",
+      "answer": "GATO",
+      "row": 7,
+      "col": 9
+    },
+    "33": {
+      "clue": "Prefixo de separação, negação",
+      "answer": "DIS",
+      "row": 8,
+      "col": 0
+    },
+    "36": {
+      "clue": "As iniciais do ator Travolta, de \"Pulp Fiction\"",
+      "answer": "JT",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

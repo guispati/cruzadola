@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "Peça do vestuário mais usada em dias frios",
+      "answer": "CASACO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Documento de Arrecadação da Receita Federal",
+      "answer": "DARF",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Educando",
+      "answer": "ALUNO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Um material como o ferro ou o chumbo",
+      "answer": "METAL",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Árvore de casca grossa e rugosa, rica em tanino",
+      "answer": "PARICA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Promessa solene feita aos santos",
+      "answer": "VOTO",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "(Econ.) Oferecer ao mercado mais do que ele pode absorver",
+      "answer": "INFLACIONAR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Um dos \"Três Patetas\"",
+      "answer": "MOE",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Grupo de cem objetos",
+      "answer": "CENTO",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "(Fig.) Muito cansado, exausto",
+      "answer": "MORTO",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Uma característica da temperatura do deserto",
+      "answer": "CALOR",
+      "row": 6,
+      "col": 2
+    },
+    "23": {
+      "clue": "Famosa marca de caneta esferográfica",
+      "answer": "BIC",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "Prática de maus costumes",
+      "answer": "IMORALIDADE",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Barro pegajoso",
+      "answer": "LIMO",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Concordar, respeitar",
+      "answer": "ACATAR",
+      "row": 8,
+      "col": 5
+    },
+    "30": {
+      "clue": "Adversário",
+      "answer": "EMULO",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Aterro para resguardar de inundações",
+      "answer": "AMOTA",
+      "row": 9,
+      "col": 6
+    },
+    "32": {
+      "clue": "Certa quantidade de dinheiro",
+      "answer": "SOMA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Cercar com fios de latão, ferro, alumínio ou cobre",
+      "answer": "ARAMAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Planta que serve de alimento para herbívoros",
+      "answer": "CAPIM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Povo nômade das estepes do mar Negro",
+      "answer": "ALANOS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O esporte de Maya Gabeira",
+      "answer": "SURFE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Substância para tingir de azul",
+      "answer": "ANIL",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Refrigerante produzido desde 1886",
+      "answer": "COCACOLA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Pio",
+      "answer": "DEVOTO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Diz-se de vocábulo sem acento de intensidade",
+      "answer": "ATONO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Pop.) Gafe",
+      "answer": "RATA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A cantora carioca Purim",
+      "answer": "FLORA",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "",
+      "answer": "ACEROLA",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Confundir, tornar obscuro",
+      "answer": "INTRICAR",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Onda pequena",
+      "answer": "MAROLA",
+      "row": 5,
+      "col": 3
+    },
+    "20": {
+      "clue": "Aquele que instrui",
+      "answer": "DIDATA",
+      "row": 5,
+      "col": 9
+    },
+    "21": {
+      "clue": "O trompetista de jazz Davis (1926-1991)",
+      "answer": "MILES",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "Pertencente a muitos",
+      "answer": "COMUM",
+      "row": 6,
+      "col": 2
+    },
+    "23": {
+      "clue": "Cosmético para os lábios",
+      "answer": "BATOM",
+      "row": 6,
+      "col": 8
+    },
+    "24": {
+      "clue": "Lacrar",
+      "answer": "CERAR",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Pequena lembrança",
+      "answer": "MIMO",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Mulher aristocrata",
+      "answer": "DAMA",
+      "row": 7,
+      "col": 7
+    }
+  }
+}

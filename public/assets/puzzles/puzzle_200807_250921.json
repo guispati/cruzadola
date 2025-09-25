@@ -1,0 +1,294 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um dos anões da Branca de Neve",
+      "answer": "ATCHIM",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Gotham) A cidade onde se passam as aventuras de Batman e Robin",
+      "answer": "CITY",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "O mágico é um quebra-cabeça",
+      "answer": "CUBO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Sufixo diminutivo",
+      "answer": "INHO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "As letras entre o G e o K",
+      "answer": "HIJ",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Móvel, estofado ou não, onde podem sentar-se duas ou mais pessoas",
+      "answer": "SOFA",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "As iniciais do ator Swayze, de \"Ghost - Do Outro Lado da Vida\"",
+      "answer": "PS",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Leda sem consoantes",
+      "answer": "EA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Estúpido, idiota, imbecil, néscio, parvo, pateta, tolo",
+      "answer": "PALERMA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Conto lendário",
+      "answer": "MITO",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "O das Lamentações é um local sagrado para os judeus",
+      "answer": "MURO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Árvore cujos frutos são usados em doces, chocolates e licores",
+      "answer": "AVELÃ",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Aparelho que faz a conexão entre o computador e o telefone",
+      "answer": "MODEM",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "A atriz Cláudia",
+      "answer": "RAIA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "A mulher amada, inspiração de um poeta",
+      "answer": "MUSA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Executado (um trecho musical) com a voz",
+      "answer": "CANTADO",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Tese sem vogais",
+      "answer": "TS",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "As iniciais do escritor Aranha (1868-1931), de \"Canaã\"",
+      "answer": "GA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "O Parada Dura foi um grupo musical sertanejo",
+      "answer": "TRIO",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Um produto da destilação do carvão fóssil",
+      "answer": "GAS",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Uma característica do inverno",
+      "answer": "FRIO",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "(Fig.) Pessoa de características físicas ou morais extraordinárias",
+      "answer": "TITÃ",
+      "row": 9,
+      "col": 7
+    },
+    "34": {
+      "clue": "(Pop.) Urucubaca",
+      "answer": "ZICA",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Que volta ao ponto de partida",
+      "answer": "REFLUO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Aproximar uma coisa a outra",
+      "answer": "ACHEGAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Planta utilizada como cerca viva",
+      "answer": "TUIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Confederação Brasileira de Judô",
+      "answer": "CBJ",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O símbolo do hólmio",
+      "answer": "HO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Polpa",
+      "answer": "MIOLO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Dotado de magnetismo pessoal",
+      "answer": "CHARMOSO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Tio sem tê",
+      "answer": "IO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Ingl.) Sim",
+      "answer": "YES",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Nota Fiscal Eletrônica",
+      "answer": "NFE",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Lúcifer, capeta",
+      "answer": "SATÃ",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Alto lá!",
+      "answer": "PARE",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Pessoa desonesta",
+      "answer": "PILANTRA",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Planta criada em viveiro para posterior plantação definitiva",
+      "answer": "MUDA",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Separa o pé do sapato",
+      "answer": "MEIA",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Esquecimento involuntário",
+      "answer": "OMISSÃO",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Um animal que fornece leite",
+      "answer": "VACA",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Um que não fala",
+      "answer": "MUDO",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "De mais idade",
+      "answer": "MAIOR",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "(Red.) O do futebol brasileiro foi no México, em 1970",
+      "answer": "TRI",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Animal desdentado de corpo arredondado",
+      "answer": "TATU",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "O de cera é um material escolar usado para desenhar e colorir",
+      "answer": "GIZ",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "O músico Gilberto, de \"Fé na Festa\"",
+      "answer": "GIL",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "As iniciais do compositor polonês Chopin (1810-1849)",
+      "answer": "FC",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "As consoantes de tifo",
+      "answer": "TF",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

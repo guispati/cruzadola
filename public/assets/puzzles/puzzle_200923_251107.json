@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Droga altamente viciante",
+      "answer": "CRACK",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Grande empresa brasileira produtora de bens de consumo",
+      "answer": "AMBEV",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Um tecido leve, próprio o calor",
+      "answer": "LINHO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "A Emilinha (1923-2005) cantora",
+      "answer": "BORBA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Sufixo diminutivo feminino",
+      "answer": "INHA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Abaixar, descer",
+      "answer": "ARRIAR",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Meio... chuchu",
+      "answer": "CHU",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Triangular",
+      "answer": "TRIGONO",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Importante cidade da Alemanha",
+      "answer": "HAMBURGO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Fileira, série",
+      "answer": "ARREATA",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Madre superiora",
+      "answer": "ABADESSA",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Que entrou em estado de ebulição",
+      "answer": "FERVIDO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Um pedido de socorro",
+      "answer": "SOS",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "No zodíaco, nascido entre 21 de março e 19 de abril",
+      "answer": "ARIANO",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "O bê de BH",
+      "answer": "BELO",
+      "row": 8,
+      "col": 7
+    },
+    "30": {
+      "clue": "Demorada como uma lesma",
+      "answer": "LENTA",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "As divisões de uma piscina para competição",
+      "answer": "RAIAS",
+      "row": 9,
+      "col": 6
+    },
+    "32": {
+      "clue": "Preparar (pão, bolo etc.) no forno",
+      "answer": "ASSAR",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "O gênero musical de Pixinguinha",
+      "answer": "CHORO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Fig.) Banalidade repetida com frequência",
+      "answer": "CLICHE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Briga de galos",
+      "answer": "RINHA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Grande ave semelhante ao peru",
+      "answer": "ANHUMA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Viaduto do) Famosa passagem no centro de São Paulo",
+      "answer": "CHA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Abrev.) Uma derrota no ringue",
+      "answer": "KO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Protegido de perigos",
+      "answer": "ABRIGADO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Um tipo de mexerica",
+      "answer": "MORGOTE",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Qualidade de quem é bravo",
+      "answer": "BRIO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Uma madeira nobre usada em instrumentos musicais",
+      "answer": "EBANO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "(Med.) Voltado para dentro",
+      "answer": "VARO",
+      "row": 0,
+      "col": 10
+    },
+    "14": {
+      "clue": "Pronto (a cavalgadura) para a montaria",
+      "answer": "ARREADO",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Uma forma de tornar o motor mais potente",
+      "answer": "TURBINAR",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Ameaça arrogante",
+      "answer": "BRAVATA",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Higiene",
+      "answer": "ASSEIO",
+      "row": 5,
+      "col": 8
+    },
+    "21": {
+      "clue": "O estado do oxigênio na atmosfera",
+      "answer": "GASOSO",
+      "row": 5,
+      "col": 10
+    },
+    "22": {
+      "clue": "Todas as criaturas",
+      "answer": "SERES",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Do Sol",
+      "answer": "SOLAR",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "A voz humana",
+      "answer": "FALA",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Os órgãos que elaboram a urina",
+      "answer": "RINS",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Uma interjeição típica do gaúcho",
+      "answer": "BAH",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "Roberto Carlos, músico",
+      "answer": "RC",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Espaçoso",
+      "answer": "AMPLO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Disco e folhetos informativos sobre a obra",
+      "answer": "ALBUM",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Grande mala, com tampa convexa",
+      "answer": "BAU",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Exposição de artigos",
+      "answer": "VITRINE",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Não consentido ou permitido",
+      "answer": "ILICITO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Dry) Um tipo de tecido usado em roupas esportivas",
+      "answer": "FIT",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Salve, na macumba",
+      "answer": "SARAVA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Período entre o nascimento e a morte",
+      "answer": "VIDA",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Meg Ryan, atriz de \"Mulheres - O Sexo Forte\"",
+      "answer": "MR",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Partido",
+      "answer": "ROMPIDO",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "O cantor e compositor Zé, de \"Milho aos Pombos\"",
+      "answer": "GERALDO",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Ornamentar",
+      "answer": "DECORAR",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Cento e um, em algarismos romanos",
+      "answer": "CI",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Praga, maldição",
+      "answer": "JURA",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Fruto tropical semelhante ao abacaxi",
+      "answer": "ANANAS",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "A rústica casa dos índios",
+      "answer": "OCA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "De um órgão feminino (fem.)",
+      "answer": "UTERINA",
+      "row": 8,
+      "col": 4
+    },
+    "30": {
+      "clue": "Nação africana",
+      "answer": "ETIOPIA",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "O músico Vinil, do sucesso \"Sou Boy\"",
+      "answer": "KID",
+      "row": 9,
+      "col": 8
+    },
+    "33": {
+      "clue": "Outro nome do absinto, planta medicinal",
+      "answer": "LOSNA",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Plaqueta furada que serve de base à porca",
+      "answer": "RUELA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Fenda vertical na terra, muito profunda",
+      "answer": "ABISMO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um osso da face",
+      "answer": "MALAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Desgastar, friccionando",
+      "answer": "PUIR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Aquele que se alimenta de ovos",
+      "answer": "OVIVORO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Manifestação concreta da vontade",
+      "answer": "ATO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Lázaro Ramos, ator baiano",
+      "answer": "LR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Dividido em dois",
+      "answer": "BIFIDO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Junto",
+      "answer": "UNIDO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Finalidade a alcançar",
+      "answer": "META",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Cidade amazonense da região de Juruá",
+      "answer": "ITAMARATI",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Sem cabelos na cabeça",
+      "answer": "CARECA",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "(Gír.) Ficar gamado, gamar",
+      "answer": "VIDRAR",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Elaborar um roteiro",
+      "answer": "PLANEAR",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "(Minas) O estado dos pães de queijo e das montanhas",
+      "answer": "GERAIS",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Marca que se deixa ao andar",
+      "answer": "PISADA",
+      "row": 5,
+      "col": 10
+    },
+    "23": {
+      "clue": "Canal orgânico",
+      "answer": "DUCTO",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Lugar de criação de bassês, bichons e galgos",
+      "answer": "CANIL",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "(Bíblia) Um dos doze profetas menores",
+      "answer": "JOEL",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Marca esportiva",
+      "answer": "NIKE",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Exprime espanto",
+      "answer": "UPA",
+      "row": 8,
+      "col": 4
+    },
+    "31": {
+      "clue": "(Econ.) Um tipo de ação das bolsas de valores",
+      "answer": "ON",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

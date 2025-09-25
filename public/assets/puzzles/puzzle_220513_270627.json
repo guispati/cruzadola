@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Animais como o pardal e o pombo",
+      "answer": "AVES",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Em artes gráficas, cobrir com tinta uniforme",
+      "answer": "CHAPAR",
+      "row": 0,
+      "col": 5
+    },
+    "11": {
+      "clue": "(Gír.) Comida",
+      "answer": "RANGO",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Indivíduo que tem gordura excessiva",
+      "answer": "OBESO",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Uma tecla dos computadores",
+      "answer": "ALT",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Cargo de juiz de direito",
+      "answer": "VARA",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "A UF do estado de Joinville e Blumenau",
+      "answer": "SC",
+      "row": 2,
+      "col": 9
+    },
+    "18": {
+      "clue": "Margem",
+      "answer": "BEIRADA",
+      "row": 3,
+      "col": 0
+    },
+    "20": {
+      "clue": "Preceito, norma, regra",
+      "answer": "LEI",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "(Maravilha) Um artilheiro do futebol brasileiro",
+      "answer": "DADA",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "1/2",
+      "answer": "MEIO",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Outro nome do eirá, pequeno felino das Américas",
+      "answer": "GATOPRETO",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "A melancólica música popular portuguesa",
+      "answer": "FADO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "A trama usada pela aranha para apanhar comida",
+      "answer": "TEIA",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "A terceira pessoa",
+      "answer": "ELE",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Réptil de corpo alongado, pele escamosa, quatro patas e cauda longa e afilada",
+      "answer": "LAGARTO",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Neônio, elemento químico",
+      "answer": "NE",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "País sul-americano que tem Lima como capital",
+      "answer": "PERU",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Um dos ingredientes alcoólicos do martini",
+      "answer": "GIM",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Que se executa do mesmo modo",
+      "answer": "IGUAL",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Num ponto superior",
+      "answer": "ACIMA",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "O último sobrenome de Tiradentes",
+      "answer": "XAVIER",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "(Fig.) Estado de muita confusão",
+      "answer": "CAOS",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "De qualquer nação islâmica do Norte da África ou do Oriente Médio",
+      "answer": "ARABE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O do Silício, nos EUA, é uma famosa região de desenvolvimento de novas tecnologias",
+      "answer": "VALE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ser",
+      "answer": "ENTIDADE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Sérgio Groisman, jornalista e apresentador",
+      "answer": "SG",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "Tempo significativo por qualquer razão",
+      "answer": "HORA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Projeção de telhado",
+      "answer": "ABA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O de cabra é uma alavanca usada para arrombar portas, abrir caixas etc.",
+      "answer": "PE",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Limpeza, higiene",
+      "answer": "ASSEIO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Orvalho",
+      "answer": "ROCIO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Na forma da bola de rúgbi",
+      "answer": "OVADO",
+      "row": 1,
+      "col": 4
+    },
+    "16": {
+      "clue": "Ajustar uma coisa a outra",
+      "answer": "ADAPTAR",
+      "row": 2,
+      "col": 5
+    },
+    "19": {
+      "clue": "É caçado pelo gato",
+      "answer": "RATO",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Estado de profunda inconsciência, semelhante ao sono",
+      "answer": "LETARGIA",
+      "row": 3,
+      "col": 8
+    },
+    "22": {
+      "clue": "Peça de vestuário que calça um pé",
+      "answer": "MEIA",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "(NE) Mulher loura",
+      "answer": "GALEGA",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "O material escolar usado para fazer medições",
+      "answer": "REGUA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Ave da mitologia; depois de queimada, renascia das cinzas",
+      "answer": "FENIX",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "(de Aquino) Um santo católico",
+      "answer": "TOMAS",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Biruta, doido",
+      "answer": "LELE",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Pequena glândula situada no tórax, involui a partir da puberdade",
+      "answer": "TIMO",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "O dos burros é o mesmo que dicionário",
+      "answer": "PAI",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Abreviatura de ultravioleta, raio que pode provocar câncer de pele",
+      "answer": "UV",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "(Mec.) Abreviatura de cilindradas",
+      "answer": "CC",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

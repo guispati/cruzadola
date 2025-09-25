@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Famosa marca de cerveja",
+      "answer": "HEINEKEN",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Tonico Pereira, ator",
+      "answer": "TP",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "O maior vulcão ativo da Europa, na Sicília (Itália)",
+      "answer": "ETNA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Fazer aumentar",
+      "answer": "ACEDER",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Abismo",
+      "answer": "LERNA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Geom.) Sem ângulos",
+      "answer": "AGONO",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "O tempo passado",
+      "answer": "IDOS",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "A Pavone, cantora italiana de \"Io che Amo Solo Te\"",
+      "answer": "RITA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Unidade de Referência",
+      "answer": "UR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Registrada por escrito",
+      "answer": "ANOTADA",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Abreviatura de telefone",
+      "answer": "TEL",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Diretório Central dos Estudantes",
+      "answer": "DCE",
+      "row": 5,
+      "col": 4
+    },
+    "26": {
+      "clue": "Parte do leite que forma a nata",
+      "answer": "ADO",
+      "row": 5,
+      "col": 8
+    },
+    "28": {
+      "clue": "Parte inferior do vão da porta, ao nível do piso",
+      "answer": "SOLEIRA",
+      "row": 6,
+      "col": 1
+    },
+    "31": {
+      "clue": "Artigo plural",
+      "answer": "OS",
+      "row": 6,
+      "col": 9
+    },
+    "32": {
+      "clue": "(Ingl.) Alta-fidelidade",
+      "answer": "HIFI",
+      "row": 7,
+      "col": 0
+    },
+    "33": {
+      "clue": "A Karenina da obra de Leon Tolstoi",
+      "answer": "ANNA",
+      "row": 7,
+      "col": 5
+    },
+    "35": {
+      "clue": "O ator Gleiser (1934-2015)",
+      "answer": "ELIAS",
+      "row": 8,
+      "col": 0
+    },
+    "37": {
+      "clue": "Naipe vermelho do baralho",
+      "answer": "OUROS",
+      "row": 8,
+      "col": 6
+    },
+    "39": {
+      "clue": "O jogador argentino Messi",
+      "answer": "LIONEL",
+      "row": 9,
+      "col": 0
+    },
+    "41": {
+      "clue": "Índice Nacional de Preços ao Consumidor",
+      "answer": "INPC",
+      "row": 9,
+      "col": 7
+    },
+    "42": {
+      "clue": "A sigla do estado com a serra do Piquiri e a baía de Paranaguá",
+      "answer": "PR",
+      "row": 10,
+      "col": 0
+    },
+    "43": {
+      "clue": "Que tem paixão veemente",
+      "answer": "ARDOROSO",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O político Kohl, um dos mais famosos chanceleres da Alemanha unificada, em 1991",
+      "answer": "HELMUT",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Sufixo diminutivo",
+      "answer": "ETE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sigla, em latim, da locução \"Jesus Nazareno Rei dos Judeus\"",
+      "answer": "INRI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um apelido para Fernanda",
+      "answer": "NANDA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Quiloampere",
+      "answer": "KA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Interjeição que exprime aversão",
+      "answer": "ECA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Preta",
+      "answer": "NEGRA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Seduzido, atraído",
+      "answer": "TENTADO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Uma extremidade do navio",
+      "answer": "PROA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Insana, louca",
+      "answer": "DOIDA",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Para que lugar?",
+      "answer": "AONDE",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "Companheira de negócios",
+      "answer": "SOCIA",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Anular",
+      "answer": "RESILIR",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Vestuário masculino composto por paletó, colete e calça",
+      "answer": "TERNO",
+      "row": 4,
+      "col": 6
+    },
+    "24": {
+      "clue": "Outro nome do peixe-pescador",
+      "answer": "LOFIO",
+      "row": 5,
+      "col": 2
+    },
+    "27": {
+      "clue": "Cidade industrial de SP, próxima à capital",
+      "answer": "OSASCO",
+      "row": 5,
+      "col": 10
+    },
+    "29": {
+      "clue": "Cipó",
+      "answer": "LIANA",
+      "row": 6,
+      "col": 3
+    },
+    "30": {
+      "clue": "Estar de acordo",
+      "answer": "ANUIR",
+      "row": 6,
+      "col": 7
+    },
+    "32": {
+      "clue": "Famosa música e filme dos Beatles",
+      "answer": "HELP",
+      "row": 7,
+      "col": 0
+    },
+    "34": {
+      "clue": "Rio italiano, banha Pisa e Florença",
+      "answer": "ARNO",
+      "row": 7,
+      "col": 8
+    },
+    "36": {
+      "clue": "Ente",
+      "answer": "SER",
+      "row": 8,
+      "col": 4
+    },
+    "38": {
+      "clue": "Interjeição usada na correção de um erro",
+      "answer": "OPS",
+      "row": 8,
+      "col": 9
+    },
+    "40": {
+      "clue": "Lateral Direito",
+      "answer": "LD",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um instrumento de sopro",
+      "answer": "TUBA",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "Que não está andando",
+      "answer": "PARADO",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Comércio onde se vendem alimentos e utensílios",
+      "answer": "ARMAZEM",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Diz-se de remédio que produz o efeito desejado",
+      "answer": "EFICAZ",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Da mesma maneira que",
+      "answer": "COMO",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Corpo bom condutor de calor e eletricidade",
+      "answer": "METAL",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "A Glória atriz",
+      "answer": "PIRES",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "(dedéu) Bastante",
+      "answer": "PRA",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Uma das ciências",
+      "answer": "EXATAS",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "A desinência verbal de esquecer",
+      "answer": "ER",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Diz-se da carne usada para fazer almôndega",
+      "answer": "MOIDA",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "As iniciais do ator Selton, de \"A Mulher Invisível\"",
+      "answer": "SM",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Estúdio",
+      "answer": "ATELIE",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Linha extrema e finíssima do gume",
+      "answer": "FIO",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Carrinho sem rodas, para andar na neve",
+      "answer": "TRENO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Que é sempre o mesmo",
+      "answer": "IGUAL",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "Um barco de recreio",
+      "answer": "IATE",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Êxtase religioso",
+      "answer": "TRANSE",
+      "row": 8,
+      "col": 5
+    },
+    "32": {
+      "clue": "Comida italiana, pastelzinho recheado",
+      "answer": "RAVIOLI",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Time carioca de futebol",
+      "answer": "OLARIA",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "(-falante) Aparelho para amplificar os sons",
+      "answer": "ALTO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Chapa de ferro do fogão a lenha",
+      "answer": "TREMPE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Pop.) Imenso, enorme",
+      "answer": "BAITA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Uma mala para guardar objetos",
+      "answer": "ARCA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "O oposto da guerra",
+      "answer": "PAZ",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "As letras extremas do alfabeto",
+      "answer": "AZ",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Declamação de composições literárias",
+      "answer": "RECITA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Fruto vermelho-escuro, comestível",
+      "answer": "AMORA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Viram omelete",
+      "answer": "OVOS",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "(Anat.) Saliência óssea do tornozelo",
+      "answer": "MALEOLO",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Importante cidade italiana da Emília-Romanha",
+      "answer": "FERRARA",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "O guia prometido por Deus ao povo hebraico",
+      "answer": "MESSIAS",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Fabricante de pão",
+      "answer": "PADEIRO",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "12, em algarismos romanos",
+      "answer": "XII",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Mover de um para outro lado",
+      "answer": "MENEAR",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Movimento de um um veículo devido à sua suspensão",
+      "answer": "MOLEJO",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Elemento de composição: quatro",
+      "answer": "TETRA",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Utensílio para transvasar líquidos para uma garrafa",
+      "answer": "FUNIL",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Um dos esquilos das histórias de Walt Disney",
+      "answer": "TICO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Traje para ocasiões solenes",
+      "answer": "GALA",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "A Nastácia de um famoso sítio",
+      "answer": "TIA",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "A metade de XII",
+      "answer": "VI",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

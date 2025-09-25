@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Alegre",
+      "answer": "FELIZ",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "A capital potiguar",
+      "answer": "NATAL",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "O ator Newman (1925-2008), de \"Golpe de Mestre\"",
+      "answer": "PAUL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Mistura de elementos diversos",
+      "answer": "MESCLA",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Bebida usada pelos seguidores de seita homônima",
+      "answer": "DAIME",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Periquitinho",
+      "answer": "TUIM",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Cumprimentar",
+      "answer": "SAUDAR",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "A cantora Sandra de",
+      "answer": "SA",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Editores",
+      "answer": "EE",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Pessoa azarada, que dificilmente, tem sucesso no que faz",
+      "answer": "CAIPORA",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Matar por sufocação",
+      "answer": "ESGANAR",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Período geológico",
+      "answer": "ERA",
+      "row": 5,
+      "col": 8
+    },
+    "27": {
+      "clue": "601, em algarismos romanos",
+      "answer": "DCI",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Que acontece a cada 12 meses",
+      "answer": "ANUAL",
+      "row": 6,
+      "col": 4
+    },
+    "30": {
+      "clue": "(Ingl.) Touro",
+      "answer": "BULL",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Força súbita e intensa",
+      "answer": "IMPETO",
+      "row": 7,
+      "col": 5
+    },
+    "34": {
+      "clue": "Sigla de um estado que faz divisa com RR e RO",
+      "answer": "AM",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "Uma exclamação de aprovação",
+      "answer": "ISSO",
+      "row": 8,
+      "col": 3
+    },
+    "37": {
+      "clue": "(Fut.) Video Assistant Referee, tecnologia que auxilia arbitragens",
+      "answer": "VAR",
+      "row": 8,
+      "col": 8
+    },
+    "38": {
+      "clue": "Substância corante extraída da cochonilha",
+      "answer": "CARMIM",
+      "row": 9,
+      "col": 0
+    },
+    "40": {
+      "clue": "(Fut.) Torcedor do Coritiba, do Paraná",
+      "answer": "COXA",
+      "row": 9,
+      "col": 7
+    },
+    "41": {
+      "clue": "Concluir dignamente",
+      "answer": "COROAR",
+      "row": 10,
+      "col": 2
+    },
+    "42": {
+      "clue": "O símbolo do érbio, em química",
+      "answer": "ER",
+      "row": 10,
+      "col": 9
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "As iniciais do poeta português Pessoa (1888-1935)",
+      "answer": "FP",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Educação a Distância",
+      "answer": "EAD",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Os satélites de Saturno e Júpiter",
+      "answer": "LUAS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Diz-se da crista superior do osso do quadril (fem.)",
+      "answer": "ILIACA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Abreviatura de ponto intermediário entre o Norte e o Leste",
+      "answer": "NE",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "(Fig.) Ator famoso",
+      "answer": "ASTRO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Tribunal de Contas da União",
+      "answer": "TCU",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Desencrespar o cabelo",
+      "answer": "ALISAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Sacerdote budista tibetano",
+      "answer": "LAMA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "A faculdade do médium",
+      "answer": "MEDIANISMO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Cidade paraense da ilha de Marajó",
+      "answer": "MUANA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "(Ingl.) Reação a um estímulo",
+      "answer": "FEEDBACK",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Posição direita, vertical",
+      "answer": "APRUMO",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "Bolhas esbranquiçadas em cima de um líquido agitado",
+      "answer": "ESCUMA",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "O fato de ser saliente",
+      "answer": "RELEVO",
+      "row": 4,
+      "col": 8
+    },
+    "24": {
+      "clue": "O poeta português Vicente (1465-1537)",
+      "answer": "GIL",
+      "row": 5,
+      "col": 2
+    },
+    "26": {
+      "clue": "Amar com devoção",
+      "answer": "ADORAR",
+      "row": 5,
+      "col": 10
+    },
+    "29": {
+      "clue": "Sigla do Amapá",
+      "answer": "AP",
+      "row": 6,
+      "col": 7
+    },
+    "31": {
+      "clue": "Barro pegajoso",
+      "answer": "LIMO",
+      "row": 7,
+      "col": 3
+    },
+    "33": {
+      "clue": "Recondução por manobra manual de viscera deslocada",
+      "answer": "TAXE",
+      "row": 7,
+      "col": 9
+    },
+    "36": {
+      "clue": "Um título inglês de nobreza",
+      "answer": "SIR",
+      "row": 8,
+      "col": 4
+    },
+    "39": {
+      "clue": "Regina Casé, atriz",
+      "answer": "RC",
+      "row": 9,
+      "col": 2
+    },
+    "40": {
+      "clue": "Cromo",
+      "answer": "CR",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

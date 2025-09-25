@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ser humano divinizado",
+      "answer": "SEMIDEUS",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Maior que Grande",
+      "answer": "GG",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Qualquer coisa mais que o usual",
+      "answer": "EXTRA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Tocar (o tambor)",
+      "answer": "RUFAR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Uma forma de abreviar o nome do mês 11",
+      "answer": "NOV",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Típico sorvete siciliano",
+      "answer": "CASSATA",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "O que se acrescenta ao melado para ficar modelado",
+      "answer": "OD",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Rei que só é lembrado no carnaval",
+      "answer": "MOMO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Corte Internacional de Justiça",
+      "answer": "CIJ",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Passamento",
+      "answer": "OBITO",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "(Rica) Antigo nome da cidade de Ouro Preto",
+      "answer": "VILA",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "(Patol.) Perda da sensibilidade à dor",
+      "answer": "ANALGIA",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Breve escrito feito como resumo para um desenvolvimento posterior",
+      "answer": "NOTA",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Mecan.) Tubo do carburador, também chamado borboleta",
+      "answer": "GICLE",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "De + um",
+      "answer": "DUM",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Uma placa de trânsito muito comum das cidades",
+      "answer": "PARE",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "40, em romanos",
+      "answer": "XL",
+      "row": 7,
+      "col": 9
+    },
+    "33": {
+      "clue": "A cidade paulista com a foz do rio Tietê",
+      "answer": "ITAPURA",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "Perverso, ruim",
+      "answer": "MAU",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "Embelezar",
+      "answer": "ORNAR",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Ocasião, vez",
+      "answer": "FEITA",
+      "row": 9,
+      "col": 6
+    },
+    "39": {
+      "clue": "Excluído da presença de outros",
+      "answer": "SO",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Um humorista do grupo \"Os Trapalhões\" (1934-1990)",
+      "answer": "ZACARIAS",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Matem.) Sen",
+      "answer": "SENO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Emigração de um povo ou saída de pessoas em massa",
+      "answer": "EXODO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um canal de televisão especializado em música",
+      "answer": "MTV",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Passar de um lugar a outro",
+      "answer": "IR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Indígena de uma tribo norte-americana",
+      "answer": "DACOTA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Animal de grande porte, peludo e feroz",
+      "answer": "URSO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Cuida da saúde",
+      "answer": "SUS",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Lugar onde se criam os felinos mais comuns",
+      "answer": "GATIL",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Cesto usado para a condução de aves",
+      "answer": "GRAJAU",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Relativo ou pertencente ao rosto, à cara",
+      "answer": "FACIAL",
+      "row": 1,
+      "col": 8
+    },
+    "15": {
+      "clue": "Deformar, deprimindo ou esmagando",
+      "answer": "AMOLGAR",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "(Fig.) Fonte de informações e conhecimentos",
+      "answer": "MINA",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "O personagem que faz dupla com Robin",
+      "answer": "BATMAN",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "O vê de VP",
+      "answer": "VICE",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Os habitantes de uma tribo",
+      "answer": "INDIOS",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "O mais alto quadrúpede",
+      "answer": "GIRAFA",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "Um novo",
+      "answer": "OUTRO",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Correta",
+      "answer": "EXATA",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "Não alterada (substância)",
+      "answer": "PURA",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Os satélites de Júpiter",
+      "answer": "LUAS",
+      "row": 7,
+      "col": 10
+    },
+    "34": {
+      "clue": "O antônimo de guerra",
+      "answer": "PAZ",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "1.002, em algarismos romanos",
+      "answer": "MII",
+      "row": 8,
+      "col": 8
+    },
+    "38": {
+      "clue": "Érbio, elemento químico",
+      "answer": "ER",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

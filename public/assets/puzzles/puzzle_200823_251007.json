@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Pop.) Pessoa gorda e de baixa estatura",
+      "answer": "PIPA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Papel usado em saquinhos e embalagens",
+      "answer": "KRAFT",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Informação que completa o que já se escreveu",
+      "answer": "ADENDO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "0,5",
+      "answer": "MEIO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Tapar um recipiente, impedindo a saída do líquido",
+      "answer": "VEDAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Rede mundial de televisão, especializada em música",
+      "answer": "MTV",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Apresentar características comparáveis àquelas de um produto genuíno",
+      "answer": "IMITAR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Auxiliar de boiadeiro",
+      "answer": "PEÃO",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Nação da Europa cuja capital é Bucarest",
+      "answer": "ROMENIA",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Bebida alcoólica, açucarada e aromatizada",
+      "answer": "LICOR",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Canal de tevê por assinatura",
+      "answer": "CINEMAX",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Estado dos EUA com capital Columbus",
+      "answer": "OHIO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Mús.) Baqueta com cabeça revestida de algo macio",
+      "answer": "MACETA",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "A do céu é azul",
+      "answer": "COR",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Da Dinamarca",
+      "answer": "DANES",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "A letra que se repete em carrinho",
+      "answer": "ERRE",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "De aspecto desagradável (fem.)",
+      "answer": "FEIOSA",
+      "row": 9,
+      "col": 5
+    },
+    "34": {
+      "clue": "Ao lugar que",
+      "answer": "AONDE",
+      "row": 10,
+      "col": 1
+    },
+    "35": {
+      "clue": "Um presente do noivo",
+      "answer": "ANEL",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A mecha da vela",
+      "answer": "PAVIO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Como acima",
+      "answer": "IDEM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Solicitar dinheiro, donativo, esmola etc.",
+      "answer": "PEDIR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "De uma região da Ásia Menor, na Turquia",
+      "answer": "ANATOLIO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Abrev. ingl.) Nocaute",
+      "answer": "KO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Em música, lá menor",
+      "answer": "AM",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Ser do sexo feminino",
+      "answer": "FEMEA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Gigante mitológico",
+      "answer": "TITÃ",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Medicamento usado para prevenir o enjôo",
+      "answer": "DRAMIN",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Pisa neles quem age com cautela",
+      "answer": "OVOS",
+      "row": 1,
+      "col": 10
+    },
+    "16": {
+      "clue": "Há pouco",
+      "answer": "RECEM",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Cidade paulista, próxima a Bragança, é banhada por três grandes represas",
+      "answer": "PIRACAIA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Pessoa que vaga sem domicílio fixo",
+      "answer": "NOMADE",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Tratamento usado para pessoa íntima",
+      "answer": "VOCE",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "Uma nuvem",
+      "answer": "CIRRO",
+      "row": 6,
+      "col": 2
+    },
+    "23": {
+      "clue": "Um tipo de lâmpada usada em faróis de carros",
+      "answer": "XENON",
+      "row": 6,
+      "col": 8
+    },
+    "24": {
+      "clue": "Relativo ao nariz",
+      "answer": "NASAL",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "3.600 segundos",
+      "answer": "HORA",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Dissertação preliminar do formando",
+      "answer": "TESE",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Executivo Nacional",
+      "answer": "EN",
+      "row": 9,
+      "col": 3
+    },
+    "33": {
+      "clue": "Confiança, crença",
+      "answer": "FE",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

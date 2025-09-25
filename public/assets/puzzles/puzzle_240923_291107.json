@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Rel.) Festeja-se com Damião",
+      "answer": "COSME",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Baseado em erro ou em informação errada",
+      "answer": "FALSO",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Coreano, tailandês ou indiano",
+      "answer": "ORIENTAL",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Kate Winslet, atriz de \"Titanic\"",
+      "answer": "KW",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Mistura de coisas diferentes",
+      "answer": "MIX",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Célula reprodutora",
+      "answer": "GAMETA",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Abreviatura de exemplo",
+      "answer": "EX",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Compartimento privilegiado em um evento",
+      "answer": "CAMAROTE",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Indígena dos EUA",
+      "answer": "DACOTA",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Um quarto de doze",
+      "answer": "TRES",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "(José de) Poeta e romancista (1829-1877), autor de \"Senhora\"",
+      "answer": "ALENCAR",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Sensação de nojo",
+      "answer": "ASCO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Aluno de Academia Militar",
+      "answer": "CADETE",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Pequena rede",
+      "answer": "RETICULO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Roberto Carlos, cantor de \"O Portão\"",
+      "answer": "RC",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Percorrido em automóvel",
+      "answer": "RODADO",
+      "row": 8,
+      "col": 1
+    },
+    "32": {
+      "clue": "(Agnus) Um cântico da missa",
+      "answer": "DEI",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Winona Ryder, atriz de \"Outono em Nova York\"",
+      "answer": "WR",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Matérias de aulas publicados para uso de alunos",
+      "answer": "APOSTILA",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "O educador Freire (1921-1997)",
+      "answer": "PAULO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Presente",
+      "answer": "ATUAL",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Tornar cômico",
+      "answer": "COMEDIAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Divindade das religiões afro-brasileiras",
+      "answer": "ORIXA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Ingl.) A metade de twelve",
+      "answer": "SIX",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Microempresa",
+      "answer": "ME",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Peça que prende os vagões um a outro",
+      "answer": "ENGATE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Reputação",
+      "answer": "FAMA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Prevenido de um perigo",
+      "answer": "ALERTADO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O esporte de Rayssa Leal e Augusto Akio",
+      "answer": "SKATE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Orson Welles, ator e cineasta de \"Cidadão Kane\"",
+      "answer": "OW",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Rústico, grosseiro",
+      "answer": "TAMANCUDO",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Estrutura que suporta uma antena de rádio ou TV",
+      "answer": "TORRE",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Gelatinoso",
+      "answer": "COLOIDAL",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Fora do comum",
+      "answer": "ESPECIAL",
+      "row": 3,
+      "col": 10
+    },
+    "20": {
+      "clue": "Planta típica dos desertos",
+      "answer": "CACTO",
+      "row": 4,
+      "col": 2
+    },
+    "23": {
+      "clue": "Como a mão do trabalhador braçal",
+      "answer": "CALOSA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Cadeia de montes",
+      "answer": "SERRA",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "(Pop.) Conversa",
+      "answer": "TRELA",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Uma proteção para o motor do veículo",
+      "answer": "CAPO",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Evita a gravidez",
+      "answer": "DIU",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "O símbolo de Watt-pico",
+      "answer": "WP",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "As consoantes de tatu",
+      "answer": "TT",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

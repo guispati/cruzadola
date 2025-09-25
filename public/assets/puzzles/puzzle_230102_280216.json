@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Diz-se de tecido com riscas",
+      "answer": "LISTADO",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "(Abrev.) A vacina contra a tuberculose",
+      "answer": "BCG",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Que não consegue dormir",
+      "answer": "INSONE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Um mais oito",
+      "answer": "NOVE",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Ben Stiller, ator",
+      "answer": "BS",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Ficar admirado",
+      "answer": "PASMAR",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "O roqueiro Axl",
+      "answer": "ROSE",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "A região de Bonaire e Aruba",
+      "answer": "CARIBE",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "O Babá personagem das \"Mil e Uma Noites\"",
+      "answer": "ALI",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "A Martelli atriz",
+      "answer": "MONICA",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Afinado, harmonizado",
+      "answer": "SINTONIZADO",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Trabalho a ser cumprido em determinado tempo",
+      "answer": "TAREFA",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Executar um movimento corporal",
+      "answer": "DAR",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Desarrumado, fora de ordem",
+      "answer": "JOGADO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Cada trecho que cabe a um ator ou um locutor num diálogo, monólogo ou narração",
+      "answer": "FALA",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Indivíduo tolo",
+      "answer": "OTARIO",
+      "row": 8,
+      "col": 2
+    },
+    "30": {
+      "clue": "Alexandre Dumas (1802-1870), escritor francês de \"Os Três Mosqueteiros\"",
+      "answer": "AD",
+      "row": 8,
+      "col": 9
+    },
+    "31": {
+      "clue": "Aquele que é privado da visão",
+      "answer": "CEGO",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Comovido",
+      "answer": "TOCADO",
+      "row": 9,
+      "col": 5
+    },
+    "35": {
+      "clue": "Sigla inglesa do país do Grand Canyon",
+      "answer": "USA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Bisbilhotar, mexericar",
+      "answer": "FOFOCAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Linguagem Brasileira de Sinais",
+      "answer": "LIBRAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Raro",
+      "answer": "INSOLITO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "As iniciais da modelo e apresentadora de TV Sato",
+      "answer": "SS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Encontro ou choque de dois objetos",
+      "answer": "TOPE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A apresentadora de TV Maria Braga",
+      "answer": "ANA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Incômodo",
+      "answer": "DESCONFORTO",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Diz-se de água que contém certo ácido de propriedades anti-sépticas",
+      "answer": "BORICADA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Caetano Veloso, cantor e compositor",
+      "answer": "CV",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Transmite os caracteres hereditários",
+      "answer": "GENE",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Um órgão muito atingido pela gripe",
+      "answer": "NARIZ",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Ideia fixa",
+      "answer": "MANIA",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Templo hebraico",
+      "answer": "SINAGOGA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Som do sino",
+      "answer": "BADALADA",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "Pode valer 50 centavos",
+      "answer": "MOEDA",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Intimidade",
+      "answer": "TRATO",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Conferencista ocasional",
+      "answer": "ORADOR",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Uma ave galinácea",
+      "answer": "JACU",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Fonte de luz",
+      "answer": "FOCO",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Um imposto bancário",
+      "answer": "IOF",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Eduardo Sterblitch, humorista",
+      "answer": "ES",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "A UF de Tarauacá e Rio Branco",
+      "answer": "AC",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

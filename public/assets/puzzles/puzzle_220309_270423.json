@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma empresa aérea europeia",
+      "answer": "AIRFRANCE",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Nívea Stelmann, atriz fluminense",
+      "answer": "NS",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Fabulosa, mítica",
+      "answer": "LENDARIA",
+      "row": 1,
+      "col": 3
+    },
+    "13": {
+      "clue": "Grau de intensidade de um som",
+      "answer": "TOM",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "A fábrica do Pulse e do Cronos",
+      "answer": "FIAT",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "(Sigla) Nota da Redação",
+      "answer": "NR",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Um personagem das \"Mil e uma Noites\"",
+      "answer": "ALADIM",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "A cor dominante na bandeira da União Europeia",
+      "answer": "AZUL",
+      "row": 3,
+      "col": 7
+    },
+    "21": {
+      "clue": "Sinal que se faz para alguém",
+      "answer": "ACENO",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Direção do movimento do barco",
+      "answer": "RUMO",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Próprio de quem quer bem",
+      "answer": "AMIGO",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Movimentações das águas oceânicas",
+      "answer": "MARES",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Cerveja, em inglês",
+      "answer": "BEER",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Não deixar ir",
+      "answer": "DETER",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "O número dos jogadores de uma equipe de futebol",
+      "answer": "ONZE",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Uma das ciências",
+      "answer": "EXATAS",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "Responsável Técnico",
+      "answer": "RT",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "O pintor surrealista espanhol Salvador (1904-1989)",
+      "answer": "DALI",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Corruíra, gavião ou frango",
+      "answer": "AVE",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Massa de um fruto vermelho, carnudo e liso",
+      "answer": "TOMATADA",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Érick Jacquin, chef",
+      "answer": "EJ",
+      "row": 9,
+      "col": 9
+    },
+    "38": {
+      "clue": "Outro nome da mosca-do-vinagre",
+      "answer": "DROSOFILA",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Animal também conhecido como tapir",
+      "answer": "ANTA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O social é altamente recomendado para achatamento da curva de contaminação",
+      "answer": "ISOLAMENTO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Fernanda Lima, modelo e apresentadora",
+      "answer": "FL",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Ato de purificar (açúcar)",
+      "answer": "REFINO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "O que falta ao indolente",
+      "answer": "ANIMO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Opção em prova",
+      "answer": "NDA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Uma doença dos olhos",
+      "answer": "CATARATA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "A 2ª desinência verbal",
+      "answer": "ER",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O escritor Drummond de Andrade (1902-1987), de \"Alguma Poesia\"",
+      "answer": "CARLOS",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Abundante, copioso",
+      "answer": "INUMERAVEL",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Qualidade do que é suave ao tato",
+      "answer": "MACIEZ",
+      "row": 2,
+      "col": 2
+    },
+    "18": {
+      "clue": "Desterrar, exilar",
+      "answer": "DEGREDAR",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Pessoa adoidada, geniosa",
+      "answer": "ZURETA",
+      "row": 3,
+      "col": 8
+    },
+    "23": {
+      "clue": "(Med.) Feto prematuramente expelido",
+      "answer": "ABORTO",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Feijão ou carne picada misturados na panela com farinha de mandioca",
+      "answer": "MEXIDO",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "Daquelas mulheres",
+      "answer": "DELAS",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "Interjeição: de acordo!",
+      "answer": "SEJA",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "Cada capítulo da peça",
+      "answer": "ATO",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "Miles Davis, músico de jazz",
+      "answer": "MD",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Alta Frequência",
+      "answer": "AF",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

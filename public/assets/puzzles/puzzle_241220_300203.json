@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ficar doente",
+      "answer": "ADOECER",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Circunstância determinada",
+      "answer": "VEZ",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "(Dona) A avó de Narizinho e Pedrinho",
+      "answer": "BENTA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Tira pintada em parede",
+      "answer": "FRISO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Adélia Prado em relação à sua obra",
+      "answer": "AUTORA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Quadril",
+      "answer": "ANCA",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Tribunal Superior Eleitoral",
+      "answer": "TSE",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Fig.) Ligar-se a um centro de influência",
+      "answer": "ORBITAR",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Flexível, dobrável",
+      "answer": "MALEAVEL",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Rodrigo Pessoa, cavaleiro",
+      "answer": "RP",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Área para as manobras dos aviões",
+      "answer": "PISTA",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Alcoólicos Anônimos",
+      "answer": "AA",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Acontecimento extraordinário",
+      "answer": "AVENTURA",
+      "row": 6,
+      "col": 1
+    },
+    "29": {
+      "clue": "Predominar",
+      "answer": "TRONEAR",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Animal de chifres parecidos com os dos bois",
+      "answer": "GNU",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "O menor caminho entre dois pontos",
+      "answer": "RETA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Dispor geograficamente",
+      "answer": "SITUAR",
+      "row": 8,
+      "col": 5
+    },
+    "35": {
+      "clue": "O contrário de jovem",
+      "answer": "IDOSO",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Acordo de cavalheiros",
+      "answer": "TRATO",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "São dois em Cazuza",
+      "answer": "ZES",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Fraldas",
+      "answer": "CUEIROS",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Matar reses",
+      "answer": "ABATER",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Diz o ditado que escreve certo por linhas tortas",
+      "answer": "DEUS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O dia que acabou de acabar",
+      "answer": "ONTEM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Sufixo diminutivo",
+      "answer": "ETO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A Wozniacki tenista dinamarquesa",
+      "answer": "CAROLINE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Radiofrequência",
+      "answer": "RF",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O número de dedos",
+      "answer": "VINTE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Tabela que determina horários de serviço",
+      "answer": "ESCALA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Pop.) Rir de alguém por divertimento",
+      "answer": "ZOAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Enfurecer-se",
+      "answer": "RAIVAR",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Quinas",
+      "answer": "ARESTAS",
+      "row": 2,
+      "col": 5
+    },
+    "18": {
+      "clue": "Cidade cearense do Norte do estado",
+      "answer": "BATURITE",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "Somente",
+      "answer": "APENAS",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "A superfície onde se coloca a janela",
+      "answer": "PAREDE",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Situação difícil",
+      "answer": "APUROS",
+      "row": 5,
+      "col": 10
+    },
+    "27": {
+      "clue": "Sufrágios",
+      "answer": "VOTOS",
+      "row": 6,
+      "col": 2
+    },
+    "28": {
+      "clue": "Molhar plantas",
+      "answer": "AGUAR",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Um quase nada",
+      "answer": "TRIZ",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Que é de nascença",
+      "answer": "NATO",
+      "row": 7,
+      "col": 9
+    },
+    "34": {
+      "clue": "3 vezes campeão",
+      "answer": "TRI",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "(Sigla) Ondas Curtas",
+      "answer": "OC",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

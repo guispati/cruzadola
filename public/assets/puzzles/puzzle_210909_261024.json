@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "O escritor Marcelo Rubens, de \"Blecaute\"",
+      "answer": "PAIVA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(e Progresso) A inscrição da nossa bandeira",
+      "answer": "ORDEM",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Filosofia de que respeita os direitos animais, no que se refere ao seu consumo",
+      "answer": "VEGANISMO",
+      "row": 1,
+      "col": 2
+    },
+    "12": {
+      "clue": "Abreviatura do console de entretenimento PlayStation",
+      "answer": "PS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Letra redonda",
+      "answer": "RONDO",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "As iniciais do ex-presidente norte-americano Obama",
+      "answer": "BO",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Prefixo: inferioridade, substituição",
+      "answer": "SUB",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Opção em prova",
+      "answer": "NDA",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "(Psiq.) A sigla de Transtorno Obsessivo-Compulsivo,",
+      "answer": "TOC",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Igualdade de visão em ambos os olhos",
+      "answer": "ISOPIA",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Peça da ignição de motores",
+      "answer": "VELA",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Da PB",
+      "answer": "PARAIBANO",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "A 2ª letra do alfabeto grego",
+      "answer": "BETA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Merecimento",
+      "answer": "MERITO",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Período de 12 meses",
+      "answer": "ANO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Semelhante",
+      "answer": "TAL",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Substância usada como tempero e na conservação de alimentos",
+      "answer": "SAL",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "As iniciais do poeta Gonçalves (1823-1864), de \"Segundos Cantos\"",
+      "answer": "GD",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Transpiração malcheirosa",
+      "answer": "BODUM",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "O ródio, para os químicos",
+      "answer": "RH",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "Ação que se utiliza do apoio popular para conquista corrupta de poder",
+      "answer": "DEMAGOGIA",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Antigo estádio",
+      "answer": "ARENA",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "O músico Sater",
+      "answer": "ALMIR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Uma concorrente da Coca-Cola",
+      "answer": "PEPSI",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um quinto de XX",
+      "answer": "IV",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Enxergar",
+      "answer": "VER",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "(Mús.) Toque especial do sino para anunciar aos fiéis a morte de alguém",
+      "answer": "AGONIA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "A oscilação das águas do mar onde se pratica o surfe",
+      "answer": "ONDA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Curso de água contínuo",
+      "answer": "RIO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Dan Stulbach, ator e apresentador paulistano",
+      "answer": "DS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Fam.) Encher-se (a pele) de erupções",
+      "answer": "EMBOLOTAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Tradicional bairro da capital paulista",
+      "answer": "MOOCA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Provido da armação sobre a qual os operários trabalham nas construções",
+      "answer": "ANDAIMADO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Parar por algum tempo",
+      "answer": "SUSPENDER",
+      "row": 2,
+      "col": 1
+    },
+    "17": {
+      "clue": "Notícia vaga, sem confirmação",
+      "answer": "BOATO",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "O esporte de Roger Federer",
+      "answer": "TENIS",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "(Pop.) Para",
+      "answer": "PRA",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "(Fut.) Video Assistant Referee",
+      "answer": "VAR",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "Cetáceo, também chamado delfim branco",
+      "answer": "BELUGA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Capital iraquiana",
+      "answer": "BAGDA",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Fazer uma leitura ligeira",
+      "answer": "OLHAR",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Uma roupa de advogado",
+      "answer": "TOGA",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Abreviatura (em português) de Bangladesh",
+      "answer": "BAN",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "A quantidade de quilos de uma tonelada",
+      "answer": "MIL",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "O som que imita a voz do carneiro",
+      "answer": "ME",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "Sigla do estado nortista que faz divisa com RO e RR",
+      "answer": "AM",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

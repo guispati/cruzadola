@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Fruto quase negro, muito usado em geleias",
+      "answer": "AMORA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Pessoas que não acreditam em Deus",
+      "answer": "ATEUS",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Medo irracional de neblina ou névoa",
+      "answer": "NEBULAFOBIA",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "As vogais de Bibi",
+      "answer": "II",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Muito fria",
+      "answer": "GELADA",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Ilha grega próxima à Atenas",
+      "answer": "SALAMINA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Fís.) Curie",
+      "answer": "CI",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Pedido de repetição de uma música",
+      "answer": "BIS",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Mamífero roedor",
+      "answer": "CASTOR",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "(-bocado) Um doce",
+      "answer": "BOM",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Dirigir-se (uma pessoa) de lá para cá",
+      "answer": "VIR",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Um lado da formação militar",
+      "answer": "ALA",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "(Bot.) Mimosa",
+      "answer": "ACACIA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "61, em romanos",
+      "answer": "LXI",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "K",
+      "answer": "CA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Autômato com o aspecto humano",
+      "answer": "ANDROIDE",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "Fazer um líquido correr devagar e em pequena quantidade",
+      "answer": "ESCOAR",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "Ivone Lara (1921-2018), sambista carioca",
+      "answer": "IL",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Qualidade de animal cuja cria é constituída de um só feto de cada vez",
+      "answer": "UNIPARIDADE",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Desgosto",
+      "answer": "PESAR",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Ciúmes",
+      "answer": "ZELOS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Uma essência para balas, licores e xaropes",
+      "answer": "ANIS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Expressão usada para descrever algo que foi feito de forma apressada, sem cuidado ou displicentemente",
+      "answer": "MEIABOCA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Olívia Byington, cantora",
+      "answer": "OB",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Sulcos que criam um franzido na pele de idosos",
+      "answer": "RUGAS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Paraíba) Cidade mineira da divisa com o RJ",
+      "answer": "ALEM",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Furtar",
+      "answer": "AFANAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Completas, inteiras",
+      "answer": "TODAS",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Uma exclamação de surpresa",
+      "answer": "EBA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "(Farm.) Unidades Internacionais",
+      "answer": "UI",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Uma pedra preciosa azul",
+      "answer": "SAFIRA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Aquele que atrai a si, seduz",
+      "answer": "ALICIADOR",
+      "row": 1,
+      "col": 5
+    },
+    "16": {
+      "clue": "Fruto cítrico, de forma esférica e cor amarelada",
+      "answer": "LIMA",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Abalroado",
+      "answer": "COLIDIDO",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "Um carro de aluguel",
+      "answer": "TAXI",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "(Inform., ingl.) Cópia de um arquivo para reserva",
+      "answer": "BACKUP",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Fazer dobras em",
+      "answer": "VINCAR",
+      "row": 5,
+      "col": 4
+    },
+    "25": {
+      "clue": "Escamas que se criam no couro cabeludo",
+      "answer": "CASPA",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Título de nobreza, na Inglaterra",
+      "answer": "LORDE",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "(Gram.) A parte mínima, invariável e irredutível de uma palavra",
+      "answer": "RAIZ",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "A terceira pessoa do plural",
+      "answer": "ELES",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Aqui está!",
+      "answer": "EIS",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "A posição geográfica oposta ao SO",
+      "answer": "NE",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "O símbolo do alumínio",
+      "answer": "AL",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

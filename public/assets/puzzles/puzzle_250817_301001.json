@@ -1,0 +1,246 @@
+{
+  "across": {
+    "2": {
+      "clue": "Aumentada",
+      "answer": "ACRESCIDA",
+      "row": 0,
+      "col": 2
+    },
+    "10": {
+      "clue": "Ney Matogrosso, cantor da MPB",
+      "answer": "NM",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Antiga nau de guerra",
+      "answer": "GALEÃO",
+      "row": 1,
+      "col": 3
+    },
+    "13": {
+      "clue": "Transferência Eletrônica Disponível",
+      "answer": "TED",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Carrero World) Parque temático localizado em Penha (SC)",
+      "answer": "BETO",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Porque, nas conversas da net",
+      "answer": "PQ",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Licor de erva-doce",
+      "answer": "ANISETE",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Perverso",
+      "answer": "MAU",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Feito com linhas geométricas",
+      "answer": "LINEAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Depressão entre montes",
+      "answer": "VALE",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Data ou dados não conforme à verdade histórica",
+      "answer": "ANACRONISMO",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Igreja principal",
+      "answer": "DOMO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Pop.) Fama, renome",
+      "answer": "CARTAZ",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Sufixo diminutivo masculino",
+      "answer": "ETO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Hebraico",
+      "answer": "JUDAICO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Crise sem consoantes",
+      "answer": "IE",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Pé de cachorro",
+      "answer": "PATA",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Um tipo de empresa",
+      "answer": "MEI",
+      "row": 8,
+      "col": 8
+    },
+    "31": {
+      "clue": "Violação de um preceito religioso",
+      "answer": "PECADO",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Sigla do estado de Rio Branco e Xapuri",
+      "answer": "AC",
+      "row": 9,
+      "col": 9
+    },
+    "34": {
+      "clue": "Importante cidade paranaense do norte do estado",
+      "answer": "APUCARANA",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Apuro, aperto",
+      "answer": "ENTALADEIRA",
+      "row": 0,
+      "col": 0
+    },
+    "3": {
+      "clue": "Carlos Gardel (1890-1935), cantor argentino de tangos",
+      "answer": "CG",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Derrapar (o carro) nas rodas traseiras",
+      "answer": "RABEAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Executar (um condenado) em cadeira elétrica",
+      "answer": "ELETROCUTAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O número de jogadores de uma equipe de handebol",
+      "answer": "SETE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Um animal como Scooby-Doo",
+      "answer": "CÃO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Eu, em Florença e Siena",
+      "answer": "IO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Relativo a idade mais antiga em que aparece a vida animal",
+      "answer": "ARQUEOZOICO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Garoto, rapazola",
+      "answer": "MENINOTE",
+      "row": 1,
+      "col": 1
+    },
+    "14": {
+      "clue": "(Elet.) Produtor de corrente contínua",
+      "answer": "DINAMO",
+      "row": 2,
+      "col": 2
+    },
+    "16": {
+      "clue": "Espécime da família de plantas cujas folhas saem do ápice do caule",
+      "answer": "PALMACEA",
+      "row": 2,
+      "col": 9
+    },
+    "18": {
+      "clue": "(Fig.) Frio, insensível",
+      "answer": "SECO",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Cão barulhento",
+      "answer": "MASTIM",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Música popular portuguesa",
+      "answer": "VIRA",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "(Pop.) Mergulho em águas, para lazer ou atividade física",
+      "answer": "NADADA",
+      "row": 5,
+      "col": 6
+    },
+    "27": {
+      "clue": "Grande fruto de gomos em forma de pinha",
+      "answer": "JACA",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Projeto de Emenda Constitucional",
+      "answer": "PEC",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "(Quím.) Plutônio",
+      "answer": "PU",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "O contrário de off (desligado)",
+      "answer": "ON",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

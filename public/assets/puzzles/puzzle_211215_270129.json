@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Abrir fenda em",
+      "answer": "GRETAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Uma síndrome que altera cromossomos",
+      "answer": "DOWN",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Produto que substitui o original que se gastou",
+      "answer": "REFIL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O Glauber (1939-1981), do filme \"Terra em Transe\"",
+      "answer": "ROCHA",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Perturbar, abalar",
+      "answer": "AFETAR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "O músico Melodia (1951-2017)",
+      "answer": "LUIZ",
+      "row": 2,
+      "col": 7
+    },
+    "14": {
+      "clue": "Umberto Eco, escritor italiano",
+      "answer": "UE",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "1/4 de 16, em números romanos",
+      "answer": "IV",
+      "row": 3,
+      "col": 3
+    },
+    "16": {
+      "clue": "A divisão de uma corrida num circuito",
+      "answer": "VOLTA",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "(Pop.) Malfeito",
+      "answer": "MATADO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Ser de certa dimensão",
+      "answer": "TER",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Cheia de curvas (estrada)",
+      "answer": "SINUOSA",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Fim de semana",
+      "answer": "FDS",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Ira",
+      "answer": "COLERA",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "Pronta, terminada",
+      "answer": "FEITA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "O símbolo do elemento índio, em química",
+      "answer": "IN",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Robert Pattinson, ator britânico",
+      "answer": "RP",
+      "row": 7,
+      "col": 9
+    },
+    "33": {
+      "clue": "Instrumento percutido por um badalo ou por um martelo",
+      "answer": "SINO",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Informar",
+      "answer": "AVISAR",
+      "row": 8,
+      "col": 5
+    },
+    "36": {
+      "clue": "Certa, correta",
+      "answer": "EXATA",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Caro demais",
+      "answer": "ROUBO",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "Arte de adivinhação por cartas ilustradas",
+      "answer": "TARO",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Afecção cutânea de vírus, que forma vesículas",
+      "answer": "HERPES",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Divisão de escala no termômetro",
+      "answer": "GRAU",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Pessoa mantida em poder de sequestradores",
+      "answer": "REFEM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A 6ª letra do alfabeto",
+      "answer": "EFE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Pop.) Situação confusa, ruidosa",
+      "answer": "TITITI",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Barra usada para mover ou levantar objetos pesados",
+      "answer": "ALAVANCA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Intenção criminosa",
+      "answer": "DOLO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Esconder",
+      "answer": "OCULTAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Branco, em inglês",
+      "answer": "WHITE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A praia das ondas gigantes, em Portugal",
+      "answer": "NAZARE",
+      "row": 0,
+      "col": 10
+    },
+    "16": {
+      "clue": "Um esporte do ar",
+      "answer": "VOOLIVRE",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Firmar, com o próprio nome, um documento",
+      "answer": "ASSINAR",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Dupla de cantores ou instrumentistas",
+      "answer": "DUO",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "(Ingl.) Um processo de impressão",
+      "answer": "OFFSET",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "O mais velho (contrapõe-se a júnior)",
+      "answer": "SENIOR",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "Circunstância que propicia ocasião para que alguém aja ou fale",
+      "answer": "DEIXA",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "A língua falada da Jordânia",
+      "answer": "ARABE",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Pebolim",
+      "answer": "TOTO",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "Conveniências",
+      "answer": "PROS",
+      "row": 7,
+      "col": 10
+    },
+    "35": {
+      "clue": "(Sigla) Esporte de prancha e remo",
+      "answer": "SUP",
+      "row": 8,
+      "col": 8
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Pequena ferida na mucosa bucal",
+      "answer": "AFTA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "As provas destinadas a avaliar os conhecimentos dos alunos",
+      "answer": "EXAMES",
+      "row": 0,
+      "col": 5
+    },
+    "11": {
+      "clue": "Intestino animal",
+      "answer": "TRIPA",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "A atriz Ravache das novelas",
+      "answer": "IRENE",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "O símbolo de um elemento químico usado em radioterapia",
+      "answer": "RA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "As guloseimas trocadas no domingo de Páscoa",
+      "answer": "OVOS",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "Como esse",
+      "answer": "TAL",
+      "row": 2,
+      "col": 8
+    },
+    "18": {
+      "clue": "Concordar com submissão",
+      "answer": "ACATAR",
+      "row": 3,
+      "col": 0
+    },
+    "20": {
+      "clue": "Qualquer um dos elementos particulares de um conjunto",
+      "answer": "CADA",
+      "row": 3,
+      "col": 7
+    },
+    "21": {
+      "clue": "Cerimônia ou festividade formal, com a presença de público",
+      "answer": "SOLENIDADE",
+      "row": 4,
+      "col": 0
+    },
+    "23": {
+      "clue": "Buraco no teto de uma casa, por onde penetra água de chuva",
+      "answer": "GOTEIRA",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Soltar (vagões)",
+      "answer": "DESENGATAR",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "O mecanismo que imprime a um barco a direção da rota",
+      "answer": "LEME",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "A base do molho pomodoro italiano",
+      "answer": "TOMATE",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "O oposto de volta",
+      "answer": "IDA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Lista dos pratos nos restaurantes",
+      "answer": "MENU",
+      "row": 8,
+      "col": 4
+    },
+    "31": {
+      "clue": "Lítio, elemento químido",
+      "answer": "LI",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Mulher que goza de boa saúde",
+      "answer": "SADIA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Enfeitar com uma cercadura",
+      "answer": "ORLAR",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "O piloto espanhol bicampeão mundial de F1 Fernando",
+      "answer": "ALONSO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Nome de duas constelações boreais",
+      "answer": "URSA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Falta de pontualidade num compromisso",
+      "answer": "ATRASO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Pouco intenso",
+      "answer": "FRACO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Uma variação de tu",
+      "answer": "TI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Final glorioso, deslumbrante",
+      "answer": "APOTEOSE",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "A letra entre o dáblio e o ípsilon",
+      "answer": "XIS",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Substância que enche balões",
+      "answer": "AR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Em informática, dados sobre outros dados",
+      "answer": "METADATA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Exame Nacional de Desempenho de Estudantes",
+      "answer": "ENADE",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Peça onde se senta, colocada sobre o cavalo",
+      "answer": "SELA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Em direção à frente",
+      "answer": "AVANTE",
+      "row": 1,
+      "col": 4
+    },
+    "16": {
+      "clue": "O lado direito de uma carta geográfica",
+      "answer": "ORIENTE",
+      "row": 2,
+      "col": 5
+    },
+    "19": {
+      "clue": "Cujas mãos estão presas por certo bracelete de ferro",
+      "answer": "ALGEMADO",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "Outro nome do peixe moreia",
+      "answer": "CARAMURU",
+      "row": 3,
+      "col": 7
+    },
+    "22": {
+      "clue": "Que tem dois ângulos",
+      "answer": "DIGONO",
+      "row": 4,
+      "col": 6
+    },
+    "24": {
+      "clue": "Sóror, monja",
+      "answer": "FREIRA",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Peça que protege o dedo da costureira",
+      "answer": "DEDAL",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Gigante da mitologia representado com o globo terrestre nas costas",
+      "answer": "ATLAS",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Sem dobras (fem.)",
+      "answer": "LISA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Uma conjunção de objeção",
+      "answer": "MAS",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Isaac Newton (1642-1727), matemático, físico e astrônomo inglês",
+      "answer": "IN",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "O laurêncio, em química",
+      "answer": "LR",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

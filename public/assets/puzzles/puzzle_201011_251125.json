@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Causar ou manifestar admiração profunda",
+      "answer": "EMBEVECER",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "(Gír.) Coisa extraordinária",
+      "answer": "XUA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Tipo de aço em que não ocorre oxidação",
+      "answer": "INOX",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "(Mús.) A nota entre o mi e o sol",
+      "answer": "FA",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Alain Delon, ator francês",
+      "answer": "AD",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Não dar importância a",
+      "answer": "PRETERIR",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Cidade catarinense do norte do estado",
+      "answer": "MAFRA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Lustrar as panelas",
+      "answer": "AREAR",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Cada um dos apoios do carro no chão",
+      "answer": "RODA",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Protege o motor do veículo",
+      "answer": "CAPO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "(Fig.) Desamparo, abandono",
+      "answer": "DESABRIGO",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "(Gír.) Comida, refeição",
+      "answer": "BOIA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Instrumento usado na fiação manual",
+      "answer": "ROCA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "O mês em que Tiradentes foi enforcado",
+      "answer": "ABRIL",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Lutador de uma arte marcial japonesa",
+      "answer": "NINJA",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "Diz-se do a com acento grave",
+      "answer": "CRASEADO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Econ.) Um tipo de ação",
+      "answer": "ON",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Isabel Allende, escritora chilena de \"A Casa dos Espíritos\"",
+      "answer": "IA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Pop.) Irmão",
+      "answer": "MANO",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "1002, em romanos",
+      "answer": "MII",
+      "row": 9,
+      "col": 8
+    },
+    "36": {
+      "clue": "Civilizar um país atrasado",
+      "answer": "COLONIZAR",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Análise, pesquisa minuciosa",
+      "answer": "EXAME",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Planta criada em viveiro",
+      "answer": "MUDA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sigla do estado com a Costa do Sauípe",
+      "answer": "BA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Resultado que sai do 1x0 para 1x2",
+      "answer": "VIRADA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "N",
+      "answer": "ENE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Porção determinada",
+      "answer": "COTA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Trabalho escolar para testar os conhecimentos",
+      "answer": "EXERCICIO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Um meio de transporte",
+      "answer": "CARRO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Fio tênue",
+      "answer": "FIAPO",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Ausência de poesia",
+      "answer": "PROSAISMO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "O ex-presidente norte-americano Ronald (1911-2004)",
+      "answer": "REAGAN",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Mulher que se dedica à religião",
+      "answer": "FREIRA",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Abreviatura do mês 4",
+      "answer": "ABR",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Prega",
+      "answer": "DOBRA",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "O sertanista \"Marechal da Paz\" (1865-1958)",
+      "answer": "RONDON",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Recipiente redondo, largo e raso, para lavagem de roupas, alimentos etc.",
+      "answer": "BACIA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Expulsar da pátria",
+      "answer": "BANIR",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "O oposto de traiçoeiro",
+      "answer": "LEAL",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Gema",
+      "answer": "JOIA",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Período entre 1º de Jan e 31 de Dez",
+      "answer": "ANO",
+      "row": 8,
+      "col": 5
+    },
+    "35": {
+      "clue": "Mário Zan (1920-2006), acordeonista",
+      "answer": "MZ",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

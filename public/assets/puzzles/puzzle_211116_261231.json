@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Pop.) Pessoa cafona, brega",
+      "answer": "JACU",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Referente a jogos e brinquedos",
+      "answer": "LUDICO",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "O próximo após o 29º",
+      "answer": "TRIGESIMO",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Tornar mais alto",
+      "answer": "ELEVAR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Hábil, capaz",
+      "answer": "APTO",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Posição do que contorna alguma coisa",
+      "answer": "REDOR",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Fazer a escolha de",
+      "answer": "TRIAR",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "Sufixo químico",
+      "answer": "ETO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "O pedal do meio, para o motorista",
+      "answer": "FREIO",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "A UF de Açailândia e Codó",
+      "answer": "MA",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Muito medo, pavor",
+      "answer": "PAURA",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "As iniciais do cantor Carlos, de \"Emoções\"",
+      "answer": "RC",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Determinar a sorte de",
+      "answer": "FADAR",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Pertencente a ele",
+      "answer": "SEU",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "Intestino animal, usado em culinária",
+      "answer": "TRIPA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Idêntico",
+      "answer": "IGUAL",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "Sala de escola",
+      "answer": "AULA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Benemerência pessoal",
+      "answer": "MERITO",
+      "row": 8,
+      "col": 5
+    },
+    "31": {
+      "clue": "Uma dançarina como Ana Botafogo",
+      "answer": "BAILARINA",
+      "row": 9,
+      "col": 1
+    },
+    "33": {
+      "clue": "Outro nome do peixe dourado",
+      "answer": "PIRAJU",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "A Aventureira, personagem de desenhos infantis",
+      "answer": "DORA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Pé-de-(?), o mesmo que frieira",
+      "answer": "ATLETA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Interjeição de aversão",
+      "answer": "CREDO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Voz triste de cães e lobos",
+      "answer": "UIVO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Compreender o significado das palavras escritas",
+      "answer": "LER",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Abreviatura inglesa de Estados Unidos",
+      "answer": "US",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Valor pago por cada pernoite em um hotel",
+      "answer": "DIARIA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Que não tem fé",
+      "answer": "IMPIO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Tempo destinado a um anunciante dentro de um programa",
+      "answer": "COTA",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "(Pop.) Furto, roubo",
+      "answer": "GARFADA",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Religioso que vive em isolamento",
+      "answer": "EREMITA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "A resposta que interpretava o desejo dos deuses",
+      "answer": "ORACULO",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Raça de cães robustos e corajosos, usados na caça a animais",
+      "answer": "TERRIER",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Via pública para trânsito de veículos",
+      "answer": "RUA",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Pequeno mamão",
+      "answer": "PAPAIA",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Retomar o que se tinha interrompido ou rompido",
+      "answer": "REATAR",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "(Pop.) Pedir um cigarro",
+      "answer": "FILAR",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Do porco",
+      "answer": "SUINO",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Pedra preciosa de cor vermelha",
+      "answer": "RUBI",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Formação dos carros na largada de uma corrida",
+      "answer": "GRID",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Perverso",
+      "answer": "MAU",
+      "row": 8,
+      "col": 5
+    },
+    "32": {
+      "clue": "LeBron James, da NBA",
+      "answer": "LJ",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

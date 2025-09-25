@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O líquido que forma um rio",
+      "answer": "AGUA",
+      "row": 0,
+      "col": 2
+    },
+    "5": {
+      "clue": "O novelista Gomes (1923-1999), de \"Roque Santeiro\"",
+      "answer": "DIAS",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Revolver a terra",
+      "answer": "CAVUCAR",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "Delator",
+      "answer": "ACUSADOR",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "Mercedes-Benz",
+      "answer": "MB",
+      "row": 2,
+      "col": 9
+    },
+    "13": {
+      "clue": "Sinal internacional de socorro",
+      "answer": "SOS",
+      "row": 3,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Red.) Um instrumento de sopro",
+      "answer": "SAX",
+      "row": 3,
+      "col": 4
+    },
+    "15": {
+      "clue": "A de cotovelo só faz sofrer moralmente",
+      "answer": "DOR",
+      "row": 3,
+      "col": 8
+    },
+    "16": {
+      "clue": "(Pop.) Travessura de criança",
+      "answer": "ARTE",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Ave das matas atlânticas",
+      "answer": "ZIDEDE",
+      "row": 4,
+      "col": 5
+    },
+    "20": {
+      "clue": "Vento do litoral, suave, fresco, agradável",
+      "answer": "BRISA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Aparelho que faz a conexão entre o computador e o telefone",
+      "answer": "MODEM",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Sentimento de apreensão diante do que se julga perigoso",
+      "answer": "RECEIO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Trago (de bebida)",
+      "answer": "GOLE",
+      "row": 6,
+      "col": 7
+    },
+    "26": {
+      "clue": "Uma forma de abreviar o nome do mês 8",
+      "answer": "AGO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Bebida ingrediente do drink daiquiri",
+      "answer": "RUM",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Documento de Arrecadação do Simples",
+      "answer": "DAS",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Laço difícil de se desatar",
+      "answer": "NO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Fermento",
+      "answer": "LEVEDURA",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Ir ver um doente",
+      "answer": "VISITAR",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "O oposto de baixo",
+      "answer": "ALTO",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Geom.) Metade de um diâmetro",
+      "answer": "RAIO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Diz-se do som sem intensificação elétrica ou eletrônica",
+      "answer": "ACUSTICO",
+      "row": 0,
+      "col": 2
+    },
+    "2": {
+      "clue": "(Pop.) Animação",
+      "answer": "GAS",
+      "row": 0,
+      "col": 3
+    },
+    "3": {
+      "clue": "Viram vinagre",
+      "answer": "UVAS",
+      "row": 0,
+      "col": 4
+    },
+    "4": {
+      "clue": "Aquele que não teme o perigo",
+      "answer": "AUDAZ",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "Executar um movimento corporal",
+      "answer": "DAR",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "Seguir na companhia de alguém",
+      "answer": "IR",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "O último prato da refeição",
+      "answer": "SOBREMESA",
+      "row": 0,
+      "col": 10
+    },
+    "9": {
+      "clue": "Cidade do MS, o \"portal do Pantanal\"",
+      "answer": "COXIM",
+      "row": 1,
+      "col": 6
+    },
+    "10": {
+      "clue": "Um sucesso de Luiz Gonzaga",
+      "answer": "ASABRANCA",
+      "row": 2,
+      "col": 0
+    },
+    "11": {
+      "clue": "Rio pequeno",
+      "answer": "CORREGO",
+      "row": 2,
+      "col": 1
+    },
+    "12": {
+      "clue": "Formar, a partir algum material, uma figura",
+      "answer": "MODELAR",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Delator",
+      "answer": "DEDODURO",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "És-sudeste",
+      "answer": "ESE",
+      "row": 4,
+      "col": 3
+    },
+    "19": {
+      "clue": "(Hot) Pão, salsicha, mostarda e ketchup",
+      "answer": "DOG",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "O escritor paulistano Matias (1705-1763)",
+      "answer": "AIRES",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Perceber um som pela audição",
+      "answer": "OUVIR",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Fim, limite, termo",
+      "answer": "META",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Molho, feixe",
+      "answer": "LIO",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Contração de preposição e advérbio de lugar",
+      "answer": "DAI",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Abreviatura de videoteipe",
+      "answer": "VT",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

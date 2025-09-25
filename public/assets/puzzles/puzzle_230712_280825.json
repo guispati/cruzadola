@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Polo industrial brasileiro, na Grande São Paulo",
+      "answer": "ABC",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "Cerimônia religiosa",
+      "answer": "CULTO",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Pessoa corajosa, valente",
+      "answer": "FERA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "O vício pelo tabaco",
+      "answer": "FUMAR",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Substância impalpável",
+      "answer": "IMATERIA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Ivan Pavlov (1849-1936), fisiologista russo",
+      "answer": "IP",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Indivíduo muito parecido com outro",
+      "answer": "SOSIA",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Testemunhar, assistir",
+      "answer": "VER",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Mercadoria colocada à venda com desconto",
+      "answer": "OFERTA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Elemento de composição: som, voz",
+      "answer": "FONO",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Folhagem da planta",
+      "answer": "RAMA",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Produto de secreção das células hepáticas",
+      "answer": "BILIS",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Quede?",
+      "answer": "CADE",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Queixo",
+      "answer": "MENTO",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "O maior pico da cordilheira dos Andes",
+      "answer": "ACONCAGUA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "O parceiro de Guarabyra, da MPB",
+      "answer": "SA",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "A maior das ilhas Canárias",
+      "answer": "TENERIFE",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Cada fruto do cacho de uvas",
+      "answer": "BAGO",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "Cidade potiguar, grande produtora de camarão",
+      "answer": "ARES",
+      "row": 9,
+      "col": 7
+    },
+    "32": {
+      "clue": "A exalação que apaga a vela",
+      "answer": "SOPRO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Essa mulher",
+      "answer": "ELA",
+      "row": 10,
+      "col": 8
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Preso, unido",
+      "answer": "AFIXO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ente querido ou amado",
+      "answer": "BEM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Diz-se do a com acento grave",
+      "answer": "CRASEADO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Pote para mate",
+      "answer": "CUIA",
+      "row": 0,
+      "col": 6
+    },
+    "5": {
+      "clue": "Artigo feminino indeterminado",
+      "answer": "UMA",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "(Fontaine) Escritor francês de famosas fábulas",
+      "answer": "LA",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Período de três anos",
+      "answer": "TRIENIO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Flagelar",
+      "answer": "ATORMENTAR",
+      "row": 1,
+      "col": 3
+    },
+    "10": {
+      "clue": "(Fig.) Falsa",
+      "answer": "FRIA",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "A aqui presente",
+      "answer": "ESTA",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Conveniências",
+      "answer": "PROS",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Escritor e filósofo francês (1694-1778), expoente do Iluminismo",
+      "answer": "VOLTAIRE",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Debilitada, frágil",
+      "answer": "FRACA",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Agudeza de espírito",
+      "answer": "FINURA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Cor de areia",
+      "answer": "BEGE",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "No xadrez são 64",
+      "answer": "CASAS",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Diz-se de amigo muito íntimo",
+      "answer": "MANO",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "O nó mais difícil de desatar",
+      "answer": "CEGO",
+      "row": 7,
+      "col": 4
+    },
+    "26": {
+      "clue": "Em jogos de azar, o bolo",
+      "answer": "MESA",
+      "row": 7,
+      "col": 10
+    },
+    "29": {
+      "clue": "(Fig.) Estado de espírito que reflete amargor",
+      "answer": "FEL",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Baden Powell (1937-2000), violonista",
+      "answer": "BP",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

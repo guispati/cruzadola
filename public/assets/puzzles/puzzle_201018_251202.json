@@ -1,0 +1,240 @@
+{
+  "across": {
+    "1": {
+      "clue": "O branco do ovo",
+      "answer": "CLARA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(-Nova Guiné) Um país da Oceania",
+      "answer": "PAPUA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Massa pastosa, em fusão, resultante de uma erupção vulcânica",
+      "answer": "LAVA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Cerveja, em inglês",
+      "answer": "BEER",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "O comentarista esportivo Oliveira",
+      "answer": "ALE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Cidade de São Paulo, na região de Catanduva",
+      "answer": "TABAPUÃ",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Arquipélago grego, centro turístico",
+      "answer": "SANTORINI",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Feito com delicadeza",
+      "answer": "SUTIL",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Grande vontade para alguma coisa",
+      "answer": "GANA",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "Bem ventilado",
+      "answer": "AREJADO",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "(Fig.) Pessoa doce, amável, de bons sentimentos etc.",
+      "answer": "FLOR",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Boas maneiras",
+      "answer": "MODOS",
+      "row": 6,
+      "col": 6
+    },
+    "25": {
+      "clue": "B",
+      "answer": "BE",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Diz-se dos olhos inflamados ou sem pestanas",
+      "answer": "SAPIROCA",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Antipatia",
+      "answer": "EMBIRRA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Unidade de energia igual a um milhão de volt-elétrons",
+      "answer": "MEV",
+      "row": 8,
+      "col": 8
+    },
+    "31": {
+      "clue": "Adolescente, em inglês",
+      "answer": "TEEN",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Retirada de dinheiro em adiantamento",
+      "answer": "VALE",
+      "row": 9,
+      "col": 7
+    },
+    "33": {
+      "clue": "Um movimento político palestino",
+      "answer": "HAMAS",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Vidro moído que se passa na linha da pipa",
+      "answer": "CEROL",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Grupo de alunos de uma mesma sala",
+      "answer": "CLASSE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Gír.) Malandro",
+      "answer": "LALAU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Vestimenta usada sobre a roupa para protegê-la",
+      "answer": "AVENTAL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O rádio, para os químicos",
+      "answer": "RA",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "Objeto que pode aliviar momentaneamente o calor intenso",
+      "answer": "ABANADOR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Animal do fundo do mar, também chamado lesma-do-mar",
+      "answer": "PEPINODOMAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Museu sem consoantes",
+      "answer": "UEU",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Erva também chamada taioba",
+      "answer": "ARÃO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Propiciar a quem precisa",
+      "answer": "DAR",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Suportar com paciência",
+      "answer": "TOLERAR",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "A condição de ter duas esposas ao mesmo tempo",
+      "answer": "BIGAMIA",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "(Quím.) Um aminoácido formador de proteínas",
+      "answer": "TIROSINA",
+      "row": 3,
+      "col": 3
+    },
+    "21": {
+      "clue": "Utilizável",
+      "answer": "USAVEL",
+      "row": 5,
+      "col": 10
+    },
+    "22": {
+      "clue": "Animal do sexo feminino",
+      "answer": "FEMEA",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Pequeno olho simples, dos invertebrados",
+      "answer": "OCELO",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "A Carvalho (1946-2019) sambista",
+      "answer": "BETH",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Polícia Rodoviária Federal",
+      "answer": "PRF",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "Em boas condições de saúde",
+      "answer": "BEM",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "V",
+      "answer": "VE",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

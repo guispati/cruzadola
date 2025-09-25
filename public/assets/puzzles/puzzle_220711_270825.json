@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Os frutos da parreira",
+      "answer": "UVAS",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Encrespar o cabelo",
+      "answer": "FRISAR",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Conserto",
+      "answer": "REPARO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Barra de opções no PC",
+      "answer": "MENU",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Convergente",
+      "answer": "OCORRENTE",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Fazer comentários maledicentes sobre",
+      "answer": "TESOURAR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Ivan Lins, músico de \"Novo Tempo\"",
+      "answer": "IL",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Mais ou menos",
+      "answer": "UNS",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Movimento dos pés para andar",
+      "answer": "PASSADA",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "(of Thrones) Famoso seriado e jogo eletrônico de ficção",
+      "answer": "GAME",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Fruto de numerosas palmeiras",
+      "answer": "COCO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "O Tonico ator carioca",
+      "answer": "PEREIRA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Sufixo diminutivo masculino",
+      "answer": "ETO",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Linguagem de Sinais",
+      "answer": "LS",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Aquele que translada de uma língua para outra",
+      "answer": "TRADUTOR",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "Cientista que estuda planetas, sóis e galáxias",
+      "answer": "ASTRONOMO",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Querido",
+      "answer": "CARO",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Propriedade rural em que se criam aves",
+      "answer": "GRANJA",
+      "row": 9,
+      "col": 5
+    },
+    "36": {
+      "clue": "Esquivo a carinhos",
+      "answer": "ARISCO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Ser tirado",
+      "answer": "SAIR",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Uma serpente venenosa",
+      "answer": "URUTU",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O nome da letra que é o símbolo químico do vanádio",
+      "answer": "VE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Tomar domínio de fato sobre uma coisa",
+      "answer": "APOSSAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Unidade comercial para feijão, farinha etc.",
+      "answer": "SACO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Pop.) Vingança",
+      "answer": "FORRA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Metido num corpo líquido",
+      "answer": "IMERSO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Abrev.) Senador",
+      "answer": "SEN",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Substância que neutraliza um veneno",
+      "answer": "ANTIDOTO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Plaqueta furada que serve de base à porca",
+      "answer": "RUELA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Profissional que cuida dos uniformes de equipes esportivas",
+      "answer": "ROUPEIRO",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Uma ferramenta dos gravadores, para limpar rebarbas",
+      "answer": "RASCADOR",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Forma de imobilizar fratura",
+      "answer": "ENGESSAR",
+      "row": 3,
+      "col": 1
+    },
+    "20": {
+      "clue": "A substância usada para tirar esmalte das unhas",
+      "answer": "ACETONA",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "A maratona tem 42.195 de distância",
+      "answer": "METROS",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Um sinal de trânsito",
+      "answer": "PLACA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Gír.) Alimento, comida",
+      "answer": "RANGO",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Enfeitar a beira de algo",
+      "answer": "ORLAR",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "(Fem.) Pouco mais ou menos",
+      "answer": "UMAS",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "A metade de hexa",
+      "answer": "TRI",
+      "row": 8,
+      "col": 2
+    },
+    "35": {
+      "clue": "(-Paraná) A segunda maior cidade de Rondônia",
+      "answer": "JI",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

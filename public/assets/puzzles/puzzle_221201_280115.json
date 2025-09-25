@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Enseada pequena",
+      "answer": "SACO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Um carro para transporte de mercadorias",
+      "answer": "PICAPE",
+      "row": 0,
+      "col": 5
+    },
+    "11": {
+      "clue": "Arranhar a pele com a ponta dos dedos",
+      "answer": "UNHAR",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Dar lustro a",
+      "answer": "POLIR",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Regra constante num fenômeno físico",
+      "answer": "LEI",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Prevenir de um perigo",
+      "answer": "ALERTAR",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "(Zool.) Categoria taxonômica imediatamente acima da ordem e abaixo do filo",
+      "answer": "CLASSE",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "(Fam.) Criancinha de colo",
+      "answer": "NENE",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Um animal como o gato (em relação à sua presa)",
+      "answer": "RATIVORO",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Uma embarcação de luxo",
+      "answer": "IATE",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Avisar, advertir",
+      "answer": "INFORMAR",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "No baralho são, geralmente, 52",
+      "answer": "CARTAS",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Artigo",
+      "answer": "ITEM",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "(Norte) Denominação genérica de certos navios",
+      "answer": "ITA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "O ator, modelo e apresentador Hilbert",
+      "answer": "RODRIGO",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "(Inf.) Feridinha, machucado",
+      "answer": "DODOI",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Valor de uma grandeza",
+      "answer": "NIVEL",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "O urubu tem duas",
+      "answer": "ASAS",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Um fruto muito consumido nas festas de final de ano",
+      "answer": "TAMARA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ruga, prega da pele",
+      "answer": "SULCO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O viário é um sistema que interliga rodovias no entorno de uma cidade",
+      "answer": "ANEL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ranger por falta de óleo",
+      "answer": "CHIAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Oswaldo Aranha (1894-1960), político gaúcho",
+      "answer": "OA",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "Árvore ornamental que fornece madeira aproveitável",
+      "answer": "IPE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Chifre",
+      "answer": "CORNO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Possibilidade diferente",
+      "answer": "ALTERNATIVA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Tem teclas",
+      "answer": "PIANO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Fica entre o quê e o esse",
+      "answer": "ERRE",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Um estilo de cabelo",
+      "answer": "RASTAFARI",
+      "row": 1,
+      "col": 4
+    },
+    "16": {
+      "clue": "De aspecto lácteo",
+      "answer": "LEITOSO",
+      "row": 2,
+      "col": 5
+    },
+    "18": {
+      "clue": "(Moritz) Cidade suíça que já foi palco de duas Olimpíadas de Inverno",
+      "answer": "SAINT",
+      "row": 3,
+      "col": 3
+    },
+    "21": {
+      "clue": "Testemunhar, assistir",
+      "answer": "VER",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Diz-se de fruta que tem sabor áspero, como o limão e o abacaxi",
+      "answer": "ACIDA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Nervosa",
+      "answer": "IRADA",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "(Fut.) Diz-se de categoria de jogadores na faixa de 14 anos",
+      "answer": "MIRIM",
+      "row": 6,
+      "col": 7
+    },
+    "26": {
+      "clue": "Dirigir uma orquestra",
+      "answer": "REGER",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "O dos Apóstolos é um livro bíblico",
+      "answer": "ATOS",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "A peça que amortece os solavancos dos carros",
+      "answer": "MOLA",
+      "row": 7,
+      "col": 10
+    },
+    "33": {
+      "clue": "Ácido desoxirribonucleico",
+      "answer": "DNA",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Ordem de Serviço",
+      "answer": "OS",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

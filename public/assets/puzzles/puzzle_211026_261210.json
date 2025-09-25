@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "O contrário de estreita",
+      "answer": "LARGA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O jogador de futebol Luiz",
+      "answer": "DAVID",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Monte pouco elevado",
+      "answer": "OUTEIRO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "O oposto de máxi",
+      "answer": "MINI",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Numerosas",
+      "answer": "MUITAS",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "O ato de movimentar-se dando passos",
+      "answer": "ANDADA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Bens que a noiva leva ao marido",
+      "answer": "DOTE",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Meigo, terno",
+      "answer": "CARINHOSO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Tribunal de Contas da União",
+      "answer": "TCU",
+      "row": 5,
+      "col": 4
+    },
+    "21": {
+      "clue": "Líder espiritual do Tibete",
+      "answer": "DALAILAMA",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Mistura de metais fundidos",
+      "answer": "LIGA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Um apoio para prateleiras",
+      "answer": "PAREDE",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "Cabelo em desalinho",
+      "answer": "TRUNFA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Cabos que transportam eletricidade",
+      "answer": "FIOS",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Inclinar-se (o navio) submergindo de um lado",
+      "answer": "ADERNAR",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Bastante",
+      "answer": "ASSAZ",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "O som oposto ao agudo",
+      "answer": "GRAVE",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Terra molhada e pastosa",
+      "answer": "LAMA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um clássico da MPB, de Paulo Vanzolini",
+      "answer": "RONDA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Dirigir veículo automóvel",
+      "answer": "GUIAR",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Antigo Testamento",
+      "answer": "AT",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Dispositivo Intrauterino",
+      "answer": "DIU",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Seco",
+      "answer": "ARIDO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Sufrágios",
+      "answer": "VOTOS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Porção de remédio",
+      "answer": "DOSE",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Tornar independente",
+      "answer": "EMANCIPAR",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Atacar, acometer",
+      "answer": "INCIDIR",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Que ficou preso no barro (carro)",
+      "answer": "ATOLADO",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Boa sorte",
+      "answer": "DITA",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Uma dança havaiana",
+      "answer": "HULA",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "As chuvas",
+      "answer": "AGUAS",
+      "row": 6,
+      "col": 2
+    },
+    "23": {
+      "clue": "Descampado onde só crescem ervas selvagens",
+      "answer": "LANDA",
+      "row": 6,
+      "col": 3
+    },
+    "24": {
+      "clue": "Respirar mal",
+      "answer": "ARFAR",
+      "row": 6,
+      "col": 7
+    },
+    "25": {
+      "clue": "O ator Tarcísio, recentemente falecido",
+      "answer": "MEIRA",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Limitada",
+      "answer": "LTDA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "A letra que sucede o erre",
+      "answer": "ESSE",
+      "row": 7,
+      "col": 10
+    },
+    "30": {
+      "clue": "Tipo de chapéu sem abas",
+      "answer": "FEZ",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Nomenclatura Geral",
+      "answer": "NG",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

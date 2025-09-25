@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Famoso grupo indígena norte-americano",
+      "answer": "APACHES",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "A sigla da doença Esclerose Lateral Amiotrófica",
+      "answer": "ELA",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Censura severa",
+      "answer": "RALHO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Conseguir",
+      "answer": "OBTER",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Bofetada",
+      "answer": "BIFA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Descer voando de motor desligado",
+      "answer": "PLANAR",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "(Bíbl.) O barco do dilúvio",
+      "answer": "ARCA",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Grande rio da África",
+      "answer": "NILO",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "As consoantes de Tetê",
+      "answer": "TT",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Planta arbustiva, ornamental e medicinal",
+      "answer": "MANACA",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Dita ou feita de novo",
+      "answer": "REPETIDA",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "A UF de Porto Seguro e Senhor do Bonfim",
+      "answer": "BA",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "(Fut.) Drible",
+      "answer": "OLE",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "O patrimônio artístico de um museu",
+      "answer": "ACERVO",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "Narração de pouca importância",
+      "answer": "HISTORIETA",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "Amuleto contra os maus olhados",
+      "answer": "PATUA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Um órgão muito atingido pela gripe",
+      "answer": "NARIZ",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Auxílio",
+      "answer": "AJUDA",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Grande antílope",
+      "answer": "GNU",
+      "row": 9,
+      "col": 8
+    },
+    "36": {
+      "clue": "Carga que se dispara de cada vez",
+      "answer": "TIRO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Existente somente na imaginação",
+      "answer": "IRREAL",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Aquele que decide, julga ou regula em nome de uma norma",
+      "answer": "ARBITRO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(dos burros) Dicionário",
+      "answer": "PAI",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A marca italiana de automóveis Romeo",
+      "answer": "ALFA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Característica pessoal atraente",
+      "answer": "CHARME",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Quím.) O hólmio",
+      "answer": "HO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Astro, centro do nosso sistema planetário",
+      "answer": "SOL",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Grupo humano característico por vínculo de raça, de língua ou de cultura",
+      "answer": "ETNIA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Sincero, franco",
+      "answer": "LEAL",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Peso de 15 kg",
+      "answer": "ARROBA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Funcionária de um estabelecimento de crédito",
+      "answer": "BANCARIA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Medo geralmente sem fundamento",
+      "answer": "PANICO",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "O amigo baixinho do Zé Colmeia",
+      "answer": "CATATAU",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Peça de barro usada na cobertura de casas",
+      "answer": "TELHA",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Inclinar-se (o navio) submergindo de um lado",
+      "answer": "ADERNAR",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "(Fig.) Enfrentar corajosamente",
+      "answer": "PEITAR",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Um calçado que protege parte das pernas",
+      "answer": "BOTINA",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Papel usado em convites de casamento",
+      "answer": "VERGE",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Diz-se de trabalho cheio de manchas, riscos",
+      "answer": "SUJO",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "A cor do céu sem nuvens",
+      "answer": "AZUL",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "(Bull) Um cão de grande força",
+      "answer": "PIT",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "O cantor e compositor Ferrero",
+      "answer": "DI",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Fig.) Degenerar, descair",
+      "answer": "DESCAMBAR",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "(Por baixo do) Às escondidas",
+      "answer": "PANO",
+      "row": 1,
+      "col": 2
+    },
+    "9": {
+      "clue": "Norma jurídica estabelecida por autoridades competentes",
+      "answer": "LEI",
+      "row": 1,
+      "col": 7
+    },
+    "11": {
+      "clue": "(Abrev.) Santa",
+      "answer": "STA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Espera às escondidas do inimigo, para investir sobre ele",
+      "answer": "INSIDIA",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "A última nota da escala musical",
+      "answer": "SI",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Cheio de si",
+      "answer": "ALTIVO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Aquele que não crê em Deus",
+      "answer": "ATEU",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Qualquer abertura, rachadura estreita",
+      "answer": "TRINCA",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Faixa em tecido, de cor diferente deste",
+      "answer": "LISTA",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Quím.) Misturar com I",
+      "answer": "IODAR",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "(Pop.) Mulher muito atraente",
+      "answer": "GATONA",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Parte onde começa um monte",
+      "answer": "SOPE",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Que age com negligência",
+      "answer": "OMISSO",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Rio Grande do Norte",
+      "answer": "RN",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Ato de transferir, entregar",
+      "answer": "REPASSE",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Uma caixa para pequenos objetos",
+      "answer": "KIT",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Carro fabricado pela Honda",
+      "answer": "FIT",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "Unidade",
+      "answer": "ITEM",
+      "row": 9,
+      "col": 5
+    },
+    "37": {
+      "clue": "(Paulo) Pequena cidade mineira próxima a Varginha",
+      "answer": "MONSENHOR",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Tirar o NaCl do bacalhau",
+      "answer": "DESSALGAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Clínica para tratamento de saúde e beleza",
+      "answer": "SPA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "K",
+      "answer": "CA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Substância para tingir de azul",
+      "answer": "ANIL",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Puerto) Famosa cidade do sul do Chile",
+      "answer": "MONTT",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Que torna mais tolerável (sofrimento físico ou moral)",
+      "answer": "ALIVIOSO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Esférico",
+      "answer": "REDONDO",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Segundo, em algarismos romanos",
+      "answer": "II",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "A mãe dos primos, para os íntimos",
+      "answer": "TITIA",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Um crustáceo marinho",
+      "answer": "SIRI",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Ter o aspecto de outra coisa",
+      "answer": "APARENTAR",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Máquina que se movimenta sozinha",
+      "answer": "AUTOMATO",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Fio que dispara a dinamite",
+      "answer": "ESTOPIM",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Ilha turística do mar Tirreno, na Itália",
+      "answer": "CAPRI",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Uma essência para balas, licores e xaropes",
+      "answer": "ANIS",
+      "row": 5,
+      "col": 4
+    },
+    "26": {
+      "clue": "(Machado de) O autor de \"Quincas Borba\"",
+      "answer": "ASSIS",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "Dezesseis menos nove",
+      "answer": "SETE",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Ella Fitzgerald (1917-1996), do jazz",
+      "answer": "EF",
+      "row": 8,
+      "col": 1
+    },
+    "33": {
+      "clue": "Quilômetros por hora",
+      "answer": "KMH",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "Executivo Nacional",
+      "answer": "EN",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

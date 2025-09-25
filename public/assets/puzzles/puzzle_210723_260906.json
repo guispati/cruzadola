@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ama, babá",
+      "answer": "PAJEM",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Quantia, dinheiro",
+      "answer": "VERBA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Plantação de fumo",
+      "answer": "TABACAL",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Radônio, elemento químico",
+      "answer": "RN",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Símbolo de limite, em matemática",
+      "answer": "LIM",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "A amiga da Mônica, comilona",
+      "answer": "MAGALI",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Em música, lá menor",
+      "answer": "AM",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Esquentar",
+      "answer": "ABRASEAR",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Igual, semelhante",
+      "answer": "COMPAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Banheira",
+      "answer": "TINA",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Transferir para outrem a propriedade de algo",
+      "answer": "ALIENAR",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Nome de uma das caravelas de Cristóvão Colombo",
+      "answer": "NINA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "O defunto",
+      "answer": "FINADO",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Barrento",
+      "answer": "ARGILOSO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "O oposto de off",
+      "answer": "ON",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "A capital do maior estado brasileiro",
+      "answer": "MANAUS",
+      "row": 8,
+      "col": 1
+    },
+    "32": {
+      "clue": "Que te pertence (fem.)",
+      "answer": "TUA",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "(-clube) Grupo de admiradores de um ator, músico etc.",
+      "answer": "FÃ",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Amarrar uma embarcação à terra",
+      "answer": "ATRACAR",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "Recobre o assento de cadeiras e sofás",
+      "answer": "FORRO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Recentes",
+      "answer": "NOVOS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Momento breve como a respiração",
+      "answer": "ATIMO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Uma session dos improvisadores do jazz",
+      "answer": "JAM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Ficam juntas na... zebra",
+      "answer": "EB",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Cidade de Goiás, a mais ao leste do estado",
+      "answer": "MAMBAI",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Lugar disponível",
+      "answer": "VAGA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Fibra sintética para tecidos elásticos",
+      "answer": "ELASTANO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O guitarrista de rock May, do Queen",
+      "answer": "BRIAN",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Prefixo: negação",
+      "answer": "AN",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Uma grande rede de hipermercados",
+      "answer": "CARREFOUR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Falha",
+      "answer": "LACUNA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Sulco",
+      "answer": "LEIRA",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Alisar madeira com certa ferramenta manual",
+      "answer": "APLAINAR",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Grampo para cabelos",
+      "answer": "RAMONA",
+      "row": 3,
+      "col": 10
+    },
+    "20": {
+      "clue": "História em quadrinhos oriental",
+      "answer": "MANGA",
+      "row": 4,
+      "col": 2
+    },
+    "23": {
+      "clue": "Marca de carros japoneses",
+      "answer": "NISSAN",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Mano",
+      "answer": "IRMÃO",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "O rio do Porto, em Portugal",
+      "answer": "DOURO",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Amplo, largo",
+      "answer": "LATO",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Trem de Alta Velocidade",
+      "answer": "TAV",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "As iniciais do personagem Flintstone",
+      "answer": "FF",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Abrev.) Centro-Oeste",
+      "answer": "CO",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

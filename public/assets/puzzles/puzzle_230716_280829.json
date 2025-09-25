@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma bebida alcoólica",
+      "answer": "CAMPARI",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Jogo (de ferramentas)",
+      "answer": "KIT",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "O de codorna é comido como aperitivo e em saladas",
+      "answer": "OVO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Uma cidade do estado do RN",
+      "answer": "MOSSORO",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "(Quím.) O símbolo do níquel",
+      "answer": "NI",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "País do Mediterrâneo, com capital La Valetta",
+      "answer": "MALTA",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Falta a quem está sufocando",
+      "answer": "AR",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Nascidos em Navarra, Toledo, Valência etc.",
+      "answer": "ESPANHOIS",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "A substância com que se pinta",
+      "answer": "TINTA",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "O período de aleitamento",
+      "answer": "MAMA",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Um período do dia",
+      "answer": "TARDE",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Fazer perder a vista",
+      "answer": "CEGAR",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Não cozida",
+      "answer": "CRUA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Prêmio que algumas empresas concedem",
+      "answer": "BONUS",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "O continente do polo Sul",
+      "answer": "ANTARTICA",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Sigla do estado de Guarapari",
+      "answer": "ES",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "O inseparável amigo de Zorro",
+      "answer": "TONTO",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "(Sigla) Arquivo Nacional",
+      "answer": "AN",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Peça teatral em que predominam a sátira e a graça",
+      "answer": "COMEDIA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Campeão pela terceira vez",
+      "answer": "TRI",
+      "row": 9,
+      "col": 8
+    },
+    "36": {
+      "clue": "A delta usada no voo livre",
+      "answer": "ASA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Lugar onde há festejos populares",
+      "answer": "ARRAIAL",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Sólido geométrico com vértice",
+      "answer": "CONE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ver, enxergar",
+      "answer": "AVISTAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A roda de pedra que afia lâminas",
+      "answer": "MO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Fig.) Apreciador, aficionado",
+      "answer": "AMANTE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Tampa de garrafa de vinho",
+      "answer": "ROLHA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Pronome que indica algo que se acha mais perto de quem fala",
+      "answer": "ISTO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Abrev. ingl.) Nocaute",
+      "answer": "KO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Cólera, fúria",
+      "answer": "IRA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Volver a (situação, estado ou tempo anterior)",
+      "answer": "TORNAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Procedimento de indivíduo atrevido",
+      "answer": "SAIMENTO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "(Esp.) Time que recebe um adversário em seu estádio",
+      "answer": "MANDANTE",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "Grão de milho que não rebenta ao ser feita a pipoca",
+      "answer": "PIRUA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Um pequeno macaco",
+      "answer": "SAGUI",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Brincadeira de carnaval, disfarça a identidade",
+      "answer": "MASCARA",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Nascida no país de Praga e Pilsen",
+      "answer": "TCHECA",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Eliminar algo da alimentação ou do uso",
+      "answer": "CORTAR",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Expulsar do país",
+      "answer": "BANIR",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Completa",
+      "answer": "TODA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "A cor azul",
+      "answer": "ANIL",
+      "row": 7,
+      "col": 10
+    },
+    "30": {
+      "clue": "Pedido de socorro que significa \"salvem nossas almas\"",
+      "answer": "SOS",
+      "row": 8,
+      "col": 1
+    },
+    "34": {
+      "clue": "Sigla do estado com o Parque Nacional da Chapada das Mesas",
+      "answer": "MA",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Uma forma do pronome tu",
+      "answer": "TI",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

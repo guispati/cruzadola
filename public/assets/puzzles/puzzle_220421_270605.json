@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Monte da ilha de Honshu, ponto mais alto do Japão (3.776 m)",
+      "answer": "FUJI",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Imitar por falsificação",
+      "answer": "COPIAR",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Diz-se do queijo polvilhado na macarronada",
+      "answer": "RALADO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Indivíduo que tem muito dinheiro",
+      "answer": "RICO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Palavra que expressa dor",
+      "answer": "UI",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Valor que é recebido, arrecadado",
+      "answer": "RENDA",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Abreviatura de exemplo",
+      "answer": "EX",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Superfície endurecida de uma ferida",
+      "answer": "CASCA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "O Hudson banha NY",
+      "answer": "RIO",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Abreviatura do quarto mês do ano",
+      "answer": "ABR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Andar depressa",
+      "answer": "CORRER",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "Dispositivo capaz de atrasar uma ação",
+      "answer": "RETARDADOR",
+      "row": 5,
+      "col": 1
+    },
+    "26": {
+      "clue": "Exposição excessiva a algo",
+      "answer": "SUPERDOSE",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Para sempre (fem.)",
+      "answer": "ETERNA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Peixe de água doce, parecido com a piranha",
+      "answer": "PACU",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Um tecido transparente e leve",
+      "answer": "LO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Alimento",
+      "answer": "MANJA",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Sigla do estado de Cariacica e Linhares",
+      "answer": "ES",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "Espécie de salame, feito de carne de porco ou de boi",
+      "answer": "MORTADELA",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "(Matem.) O oposto de -",
+      "answer": "MAIS",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Causar náuseas",
+      "answer": "ENOJAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Pera, melancia ou laranja",
+      "answer": "FRUTA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Interjeição que exprime surpresa, espanto",
+      "answer": "UAI",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "José Loreto, ator fluminense",
+      "answer": "JL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Amaz.) Sereia que habitava rios e lagos",
+      "answer": "IARA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "De mesma opinião",
+      "answer": "CONCORDANTE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Contração de para",
+      "answer": "PRA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O Dom Pedro da lei do Ventre Livre",
+      "answer": "II",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Faixa limpa de terreno para evitar a propagação de incêndios em matas",
+      "answer": "ACEIRO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Violeta",
+      "answer": "ROXO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Tornar magro",
+      "answer": "DESCARNAR",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Arma de arremesso com ponta aguda de ferro",
+      "answer": "DARDO",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Panqueca com variados recheios doces ou salgados",
+      "answer": "CREPE",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Guia a montaria",
+      "answer": "REDEA",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Tosco, grosseiro",
+      "answer": "BRUTO",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Cortado rente à pele",
+      "answer": "RASPADO",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "Modos, procedimentos",
+      "answer": "TERMOS",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Utilizar de novo",
+      "answer": "REUSAR",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "O assento da bicicleta",
+      "answer": "SELIM",
+      "row": 6,
+      "col": 0
+    },
+    "29": {
+      "clue": "Compartimento para prisioneiros",
+      "answer": "CELA",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Abreviatura do mês 1",
+      "answer": "JAN",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "A terceira nota da escala natural de dó",
+      "answer": "MI",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Érick Jacquin, chef",
+      "answer": "EJ",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

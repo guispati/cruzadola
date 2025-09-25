@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um osso do pé",
+      "answer": "ASTRAGALO",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "A nota entre fá e lá",
+      "answer": "SOL",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Uma placa que proíbe de se ir adiante",
+      "answer": "PARE",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Mãe, no candomblé",
+      "answer": "IA",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Tonico Pereira, ator",
+      "answer": "TP",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Que perdeu o tom",
+      "answer": "DESTOADO",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Verso improvisado",
+      "answer": "REPENTE",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "O dê de D. Pedro II",
+      "answer": "DOM",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "(do Sertão) Uma das mais famosas músicas brasileiras",
+      "answer": "LUAR",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Tecido leve",
+      "answer": "TULE",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Aquele que nutre tem aversão a tudo que representa o maior país do mundo",
+      "answer": "RUSSOFOBO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Mulher que não enxerga",
+      "answer": "CEGA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Papagaio de papel",
+      "answer": "PIPA",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "A Pinot Noir é matéria-prima para vinhos",
+      "answer": "UVA",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Pagamento por serviços prestados",
+      "answer": "SALARIO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Produzir som na bateria",
+      "answer": "PERCUTIR",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Tempo de Resposta",
+      "answer": "TR",
+      "row": 8,
+      "col": 9
+    },
+    "31": {
+      "clue": "O ósmio, para os químicos",
+      "answer": "OS",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Divisão de piscina em competição",
+      "answer": "RAIA",
+      "row": 9,
+      "col": 3
+    },
+    "33": {
+      "clue": "Abreviatura do nome do mês 2",
+      "answer": "FEV",
+      "row": 9,
+      "col": 8
+    },
+    "34": {
+      "clue": "Política agrária",
+      "answer": "RURALISMO",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Fig.) Ator de muita fama",
+      "answer": "ASTRO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Base de uma montanha",
+      "answer": "SOPE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Tálio, elemento químico",
+      "answer": "TL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Somente",
+      "answer": "APENAS",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Patol.) Qualquer doença do estômago",
+      "answer": "GASTROPATIA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Engenho, esmero na criação de algo",
+      "answer": "ARTE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O parceiro de Victor na dupla sertaneja",
+      "answer": "LEO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Rel.) O profeta de Alá",
+      "answer": "MAOME",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Falsa divindade",
+      "answer": "IDOLO",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Diva",
+      "answer": "DEUSA",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Estrumar (a terra)",
+      "answer": "ADUBAR",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Ligar a uma tomada (aparelho eletrodoméstico, luz etc.)",
+      "answer": "PLUGAR",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Aceitar (uma proposta)",
+      "answer": "TOPAR",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Infortúnio",
+      "answer": "REVES",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Sucursal",
+      "answer": "FILIAL",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Cédula de concurso",
+      "answer": "CUPOM",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Ave de plumagem preta, famosa pela astúcia e inteligência",
+      "answer": "CORVO",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Sair em gotas",
+      "answer": "SUAR",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Cláusula",
+      "answer": "ITEM",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Diz-se do leite não fervido",
+      "answer": "CRU",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Flávia Saraiva, ginasta",
+      "answer": "FS",
+      "row": 9,
+      "col": 8
+    }
+  }
+}
