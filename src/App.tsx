@@ -8,8 +8,6 @@ import { ProgressCircle } from "./components/ProgressCircle";
 import { ConfirmDialogProvider } from "./hooks/useConfirmDialog";
 import { Toaster } from "sonner";
 import type { PuzzleData } from "./types/puzzle";
-import { buildGrid } from "./utils/grid";
-import { GRID_SIZE } from "./constants/grid";
 
 interface PuzzleMeta {
 	id: string;
