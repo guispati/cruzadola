@@ -535,7 +535,7 @@ export function Crossword({ gridData, puzzleId, onExit, fileName }: CrosswordPro
 	const getNoHelpPercentage = () => {
 		const { filledWithoutHelp, totalCells } = computeNoHelpStats();
 		if (totalCells === 0) return 0;
-		return Math.floor((filledWithoutHelp / totalCells) * 100);
+		return Math.ceil((filledWithoutHelp / totalCells) * 100);
 	};
 
 	const resetPuzzle = () => {

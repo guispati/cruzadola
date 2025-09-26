@@ -3,7 +3,7 @@ import { Crossword } from "./components/Crossword";
 import { InfoDialogProvider } from "./hooks/useInfoDialog";
 import { Logo } from "./components/Logo";
 import { Button } from "./components/ui/button";
-import { formatDisplayDate } from "./utils/date";
+import { formatDate, formatDisplayDate } from "./utils/date";
 import { ProgressCircle } from "./components/ProgressCircle";
 import { ConfirmDialogProvider } from "./hooks/useConfirmDialog";
 import { Toaster } from "sonner";
@@ -26,14 +26,13 @@ export function App() {
 	const [selectedPuzzle, setSelectedPuzzle] = useState<SelectedPuzzle | null>(null);
 
 	useEffect(() => {
-		fetch("/assets/puzzles/puzzlesMeta.json")
+		fetch(`${import.meta.env.BASE_URL}assets/puzzles/puzzlesMeta.json`)
 			.then(res => res.json())
 			.then((data: PuzzleMeta[]) => {
 				const today = new Date();
 				const startDate = new Date(today);
 				startDate.setDate(today.getDate() - 9);
 
-				const formatDate = (d: Date) => d.toISOString().slice(2, 10).replace(/-/g, "");
 				const startStr = formatDate(startDate);
 				const endStr = formatDate(today);
 
@@ -49,7 +48,7 @@ export function App() {
 		const puzzleMeta = availablePuzzles.find(p => p.id === id);
 		if (!puzzleMeta) return;
 
-		const res = await fetch(`/assets/puzzles/${puzzleMeta.file}`);
+		const res = await fetch(`${import.meta.env.BASE_URL}assets/puzzles/${puzzleMeta.file}`);
 		const data: PuzzleData = await res.json();
 		setSelectedPuzzle({ id, data });
 	};
