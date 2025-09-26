@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Muito querida",
+      "answer": "AMADA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Escamas que se criam na superfície do couro cabeludo",
+      "answer": "CASPA",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "O esporte de Thiago Monteiro",
+      "answer": "TENIS",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "O sinal =",
+      "answer": "IGUAL",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "A hidrelétrica gera energia a partir da água",
+      "answer": "USINA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Viagem de artistas, com apresentações predeterminadas",
+      "answer": "TURNE",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Seio, peito",
+      "answer": "MAMA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Colono desbravador de terras",
+      "answer": "ARADOR",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Jogo popular com 28 pedras",
+      "answer": "DOMINO",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Isabel Allende, escritora chilena",
+      "answer": "IA",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Sequência normal",
+      "answer": "ORDEM",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Sigla do estado de Feira de Santana e Ilhéus",
+      "answer": "BA",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Rebanho de gado grosso",
+      "answer": "MANADA",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Tornar mole",
+      "answer": "AFOFAR",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Um felino como Garfield",
+      "answer": "GATO",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Nome que identifica um usuário em um sistema de computadores",
+      "answer": "LOGIN",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Soltar (o cão) gritos lamentosos",
+      "answer": "GANIR",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Estância hidromineral mineira",
+      "answer": "ARAXA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Cheia",
+      "answer": "PLENA",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Imprimir movimento de rotação a",
+      "answer": "ROLAR",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Planta que fornece uma fibra resistente",
+      "answer": "SISAL",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Peixe do mar, semelhante à cavala e ao xaréu",
+      "answer": "ATUM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Fam.) Quantia que os pais dão aos filhos periodicamente",
+      "answer": "MESADA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Falta ao preguiçoso",
+      "answer": "ANIMO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Produtor de corrente contínua",
+      "answer": "DINAMO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Parte da xícara que sobressai, por onde pode ser pega",
+      "answer": "ASA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Marca francesa de automóveis",
+      "answer": "CITROEN",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Plano de telhado",
+      "answer": "AGUA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Que não ouve",
+      "answer": "SURDO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Tecido",
+      "answer": "PANO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Com vigilância",
+      "answer": "ALERTA",
+      "row": 0,
+      "col": 10
+    },
+    "16": {
+      "clue": "No basquete, mover (o atleta) o pé de apoio, sem quicar a bola",
+      "answer": "ANDAR",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Unir por laços fraternos",
+      "answer": "IRMANAR",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Aspirar",
+      "answer": "INALAR",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Personagem de Maurício de Sousa, comilona e louca por melancia",
+      "answer": "MAGALI",
+      "row": 5,
+      "col": 7
+    },
+    "22": {
+      "clue": "Veste que vai até os tornozelos, usada por religiosos",
+      "answer": "BATINA",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "U, O, I, E ou A",
+      "answer": "VOGAL",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Do país de Copenhague e Aarhus",
+      "answer": "DANES",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Tribunal de justiça",
+      "answer": "FORO",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Colada, fincada, firme",
+      "answer": "FIXA",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Dito de viva voz",
+      "answer": "ORAL",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "Sistema de Posicionamento Global",
+      "answer": "GPS",
+      "row": 8,
+      "col": 6
+    }
+  }
+}

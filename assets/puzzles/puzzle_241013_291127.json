@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma peça anatômica como o cóccix ou o sacro",
+      "answer": "OSSO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Soslaio",
+      "answer": "TRAVES",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Troca de promessa de casamento",
+      "answer": "NOIVADO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Árvore de linda floração",
+      "answer": "IPE",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Marcar DD/MM/AA",
+      "answer": "DATAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Mulher que está bem de saúde",
+      "answer": "SADIA",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "O Babá personagem das \"Mil e Uma Noites\"",
+      "answer": "ALI",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "A moeda da China",
+      "answer": "IUANE",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Pessoa do sexo masculino",
+      "answer": "HOMEM",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "(Pop.) Fazer uma brincadeira com alguém",
+      "answer": "ZOAR",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "O parceiro de Guarabyra, do sucesso \"Espanhola\"",
+      "answer": "SA",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Abrigo para pessoas desamparadas",
+      "answer": "ASILO",
+      "row": 5,
+      "col": 3
+    },
+    "26": {
+      "clue": "Fred Astaire (1899-1987), dançarino e ator",
+      "answer": "FA",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Bramido de algumas feras",
+      "answer": "URRO",
+      "row": 6,
+      "col": 0
+    },
+    "29": {
+      "clue": "A unidade monetária da Austrália e do Canadá",
+      "answer": "DOLAR",
+      "row": 6,
+      "col": 5
+    },
+    "31": {
+      "clue": "Tornar compulsório ou obrigatório",
+      "answer": "IMPOR",
+      "row": 7,
+      "col": 2
+    },
+    "33": {
+      "clue": "De modo justo, lícito",
+      "answer": "BEM",
+      "row": 7,
+      "col": 8
+    },
+    "35": {
+      "clue": "Animal do sexo feminino",
+      "answer": "FEMEA",
+      "row": 8,
+      "col": 0
+    },
+    "37": {
+      "clue": "Vinho tinto produzido no Douro, região portuguesa",
+      "answer": "PORTO",
+      "row": 8,
+      "col": 6
+    },
+    "39": {
+      "clue": "Gênero musical originário da Bahia",
+      "answer": "AXE",
+      "row": 9,
+      "col": 0
+    },
+    "40": {
+      "clue": "A zona em volta de cada polo",
+      "answer": "GLACIAL",
+      "row": 9,
+      "col": 4
+    },
+    "42": {
+      "clue": "Confusão, bagunça, desorganização",
+      "answer": "ROLDÃO",
+      "row": 10,
+      "col": 0
+    },
+    "43": {
+      "clue": "R",
+      "answer": "ERRE",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Verde) Série de semáforos com livre trânsito de veículos",
+      "answer": "ONDA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Colocar piso de tábuas",
+      "answer": "SOALHAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Uma área na zona rural",
+      "answer": "SITIO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Conjunto dos óvulos fecundados de um peixe",
+      "answer": "OVA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Tesouro Direto",
+      "answer": "TD",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O sambista Noel (1910-1937), de \"Palpite Infeliz\"",
+      "answer": "ROSA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Tela de monitor",
+      "answer": "VIDEO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Equipamentos que protegem o operário",
+      "answer": "EPI",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Cidade da Bahia",
+      "answer": "SEABRA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "O signo que vai de 21.03 a 20.04",
+      "answer": "ARIES",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Gancho usado para apanhar peixes",
+      "answer": "ANZOL",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "Molhado superficialmente",
+      "answer": "UMIDO",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "O profeta de Alá",
+      "answer": "MAOME",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Alugar para transporte",
+      "answer": "AFRETAR",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Praticar o mesmo esporte que Tatiana Weston-Webb e Maya Gabeira",
+      "answer": "SURFAR",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Que se mostra excessivamente ingênuo, tolo, crédulo",
+      "answer": "LORPA",
+      "row": 5,
+      "col": 6
+    },
+    "28": {
+      "clue": "Um cosmético para maquiagem",
+      "answer": "RIMEL",
+      "row": 6,
+      "col": 2
+    },
+    "30": {
+      "clue": "O oposto de fechar",
+      "answer": "ABRIR",
+      "row": 6,
+      "col": 8
+    },
+    "32": {
+      "clue": "Criança não batizada",
+      "answer": "PAGÃ",
+      "row": 7,
+      "col": 4
+    },
+    "34": {
+      "clue": "Flácido",
+      "answer": "MOLE",
+      "row": 7,
+      "col": 10
+    },
+    "36": {
+      "clue": "Elemento de composição: para fora",
+      "answer": "EXO",
+      "row": 8,
+      "col": 1
+    },
+    "38": {
+      "clue": "Você",
+      "answer": "OCE",
+      "row": 8,
+      "col": 7
+    },
+    "41": {
+      "clue": "O cantor Borges, de \"Sonho Real\"",
+      "answer": "LO",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "across": {
+    "1": {
+      "clue": "A forma como são eleitos os delegados nas primárias em Nevada e Iowa",
+      "answer": "CAUCUS",
+      "row": 0,
+      "col": 1
+    },
+    "4": {
+      "clue": "O Biden candidato do partido de Obama",
+      "answer": "JOE",
+      "row": 1,
+      "col": 8
+    },
+    "5": {
+      "clue": "A cor dos democratas",
+      "answer": "AZUL",
+      "row": 2,
+      "col": 4
+    },
+    "6": {
+      "clue": "A Branca é a sede do governo estadunidense, em Washington",
+      "answer": "CASA",
+      "row": 3,
+      "col": 0
+    },
+    "9": {
+      "clue": "(Reconstruir) O lema da campanha democrata",
+      "answer": "MELHOR",
+      "row": 4,
+      "col": 5
+    },
+    "11": {
+      "clue": "Pedido feito insistentemente para os eleitores",
+      "answer": "VOTE",
+      "row": 6,
+      "col": 7
+    },
+    "13": {
+      "clue": "Um dos temas críticos das campanhas",
+      "answer": "CORONAVIRUS",
+      "row": 8,
+      "col": 0
+    },
+    "14": {
+      "clue": "Sigla de Great Old Party, a forma como o Partido Republicano é chamado popularmente",
+      "answer": "GOP",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "O \"Obamacare\" é um dos principais temas debatidos nessa área",
+      "answer": "SAUDE",
+      "row": 0,
+      "col": 6
+    },
+    "3": {
+      "clue": "Nesta eleição foi batido o de votos antecipados",
+      "answer": "RECORDE",
+      "row": 0,
+      "col": 10
+    },
+    "7": {
+      "clue": "Assunto que divide a população dos EUA; o atual presidente tentou revogar a lei que permite a sua realização",
+      "answer": "ABORTO",
+      "row": 3,
+      "col": 3
+    },
+    "8": {
+      "clue": "O estado com Cincinnati e Cleveland, também peça-chave graças ao número de delegados",
+      "answer": "OHIO",
+      "row": 3,
+      "col": 8
+    },
+    "9": {
+      "clue": "A proteção básica e necessária contra a disseminação do COVID-19, ponto de discussão entre os candidatos",
+      "answer": "MASCARA",
+      "row": 4,
+      "col": 5
+    },
+    "10": {
+      "clue": "O Richard (1913-1994), um dos 19 candidatos republicanos eleitos para a presidência dos EUA",
+      "answer": "NIXON",
+      "row": 5,
+      "col": 1
+    },
+    "12": {
+      "clue": "O empresário e atual presidente dos Estados Unidos Donald",
+      "answer": "TRUMP",
+      "row": 6,
+      "col": 9
+    }
+  }
+}

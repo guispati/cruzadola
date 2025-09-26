@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Agir",
+      "answer": "ATUAR",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Uma música como \"Danúbio Azul\"",
+      "answer": "VALSA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "As iniciais da atriz Casé",
+      "answer": "RC",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Fruto marrom por fora e branco por dentro",
+      "answer": "COCO",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "E ninguém",
+      "answer": "NEM",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Representar por linhas e sinais",
+      "answer": "DESENHAR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Patrícia Pillar, atriz",
+      "answer": "PP",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Decorar",
+      "answer": "ORNAR",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Com insuficiência",
+      "answer": "MAL",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "O pintor impressionista francês Auguste (1841-1919)",
+      "answer": "RENOIR",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Tempo de 3.600s",
+      "answer": "HORA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Nova interpretação",
+      "answer": "RELEITURA",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "O refúgio da caça",
+      "answer": "TOCA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Abdome",
+      "answer": "VENTRE",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Sigla inglesa de uma superpotência mundial",
+      "answer": "USA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Função pública",
+      "answer": "CARGO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "A nota musical E",
+      "answer": "MI",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Tempestade marítima",
+      "answer": "BORRASCA",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "(Uma) Gíria que significa coisíssima nenhuma",
+      "answer": "OVA",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Derrota, fracasso",
+      "answer": "PIOR",
+      "row": 9,
+      "col": 4
+    },
+    "34": {
+      "clue": "Comissão Técnica",
+      "answer": "CT",
+      "row": 9,
+      "col": 9
+    },
+    "35": {
+      "clue": "O respiro ruidoso e roufenho de quem dorme",
+      "answer": "RONCO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Quase áfono",
+      "answer": "ROUCO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Experimentar sensação de muito calor, de queima",
+      "answer": "ARDER",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Tribunal de Contas do Estado",
+      "answer": "TCE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um fruto rico em vitamina C",
+      "answer": "ACEROLA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "O cantor e apresentador Von",
+      "answer": "RONNIE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Fig.) Ir com grande rapidez",
+      "answer": "VOAR",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "As consoantes de Elena",
+      "answer": "LN",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Dividir o que estava junto",
+      "answer": "SEPARAR",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Larga, espaçosa",
+      "answer": "AMPLA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Confusão, tumulto, algazarra",
+      "answer": "CHARIVARI",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Cochilo",
+      "answer": "SONECA",
+      "row": 2,
+      "col": 2
+    },
+    "17": {
+      "clue": "Falecidos",
+      "answer": "MORTOS",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Que corrói",
+      "answer": "EROSIVO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Do país europeu cuja capital é Budapeste",
+      "answer": "HUNGARO",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Medo que paralisa",
+      "answer": "TERROR",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "(Med.) Desenvolvimento anormal de um tecido",
+      "answer": "TUMOR",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Preciso",
+      "answer": "EXATO",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Recipiente para tomar suco",
+      "answer": "COPO",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "300, em algarismos romanos",
+      "answer": "CCC",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Agência Nacional",
+      "answer": "AN",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

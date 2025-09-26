@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ácida",
+      "answer": "AZEDA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Perfeito",
+      "answer": "IDEAL",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Estrela da Via-Láctea, é o centro do nosso sistema planetário",
+      "answer": "SOL",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Delgado, fino",
+      "answer": "TENUE",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Gordura do porco subjacente à pele",
+      "answer": "TOICINHO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Herbívoro híbrido",
+      "answer": "MU",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Curvo, sinuoso",
+      "answer": "TORTO",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "O escritor e novelista Comparato",
+      "answer": "DOC",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Expressar o próprio ponto de vista",
+      "answer": "OPINAR",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "(Red.) Médico da voz e da fala",
+      "answer": "FONO",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Ruído ensurdecedor",
+      "answer": "ESTREPITO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Senhorita",
+      "answer": "SRTA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Sala que mostra filmes",
+      "answer": "CINEMA",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "A sigla do país que faz fronteira com o Canadá e com o México",
+      "answer": "EUA",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "A comercial é o mesmo que loja",
+      "answer": "CASA",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Osmar Prado, ator",
+      "answer": "OP",
+      "row": 7,
+      "col": 9
+    },
+    "28": {
+      "clue": "O tântalo, entre os químicos",
+      "answer": "TA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Acordo assinado",
+      "answer": "CONTRATO",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Título de antigos reis egípcios",
+      "answer": "FARAO",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "Um animal de grande porte, muito abatido para alimentação",
+      "answer": "BOI",
+      "row": 9,
+      "col": 8
+    },
+    "33": {
+      "clue": "O dinheiro da Rússia",
+      "answer": "RUBLO",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Soco",
+      "answer": "MURRO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Fig.) Ator de muita fama",
+      "answer": "ASTRO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Red.) Parque onde podem ser vistos tigres e camelos",
+      "answer": "ZOO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Adepto do sistema político que favorece a alta sociedade",
+      "answer": "ELITISTA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Lançar uma coisa longe de si",
+      "answer": "ATIRAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Um sufixo diminutivo",
+      "answer": "INHO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Dupla",
+      "answer": "DUO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Emilio Estevez, ator norte-americano",
+      "answer": "EE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Absurdo, incompreensível, irracional",
+      "answer": "LOUCO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Arquit.) Espaço entre as estrias de uma coluna",
+      "answer": "ENTRECANA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Acordo de uma empresa com uma agência de publicidade, para promovê-la",
+      "answer": "CONTA",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Avião provido de um só propulsor",
+      "answer": "MONOMOTOR",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Qualidade física, intelectual ou moral",
+      "answer": "DOTE",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "(Pop.) Mulher espalhafatosa, que se veste mal",
+      "answer": "PERUA",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Matar",
+      "answer": "FINAR",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Cilindro que se move dentro de um tubo exercendo ou recebendo pressão",
+      "answer": "PISTOM",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Espaço material ou idealmente delimitado",
+      "answer": "SETOR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Tudo o que serve de suporte",
+      "answer": "APOIO",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Coral",
+      "answer": "CORO",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Ligante de obra",
+      "answer": "CAL",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Segue Mar",
+      "answer": "ABR",
+      "row": 8,
+      "col": 8
+    },
+    "31": {
+      "clue": "Facebook",
+      "answer": "FB",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

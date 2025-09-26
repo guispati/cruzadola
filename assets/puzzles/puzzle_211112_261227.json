@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Em música, o andamento",
+      "answer": "TEMPO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Las) Cidade dos EUA",
+      "answer": "VEGAS",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Animal como a cobra ou o jacaré",
+      "answer": "REPTIL",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "O símbolo químico do ferro",
+      "answer": "FE",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Megaciclo",
+      "answer": "MC",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Confirmar novamente em cargo público mediante votação",
+      "answer": "REELEGER",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Outro nome do peixe saicanga",
+      "answer": "BOCARRA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Uma maneira de demonstrar alegria",
+      "answer": "RIR",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Não validar um gol",
+      "answer": "ANULAR",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Um tipo de avião de combate",
+      "answer": "CAÇA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Polígono de quatro ângulos",
+      "answer": "TETRAGONO",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "O contrário de quente (fem.)",
+      "answer": "FRIA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Pôr o sapato",
+      "answer": "CALÇAR",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Terra natal",
+      "answer": "LAR",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Habitado",
+      "answer": "POVOADO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Concorrente",
+      "answer": "OPOSITOR",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "O fim do... terçol",
+      "answer": "OL",
+      "row": 8,
+      "col": 9
+    },
+    "31": {
+      "clue": "A abreviatura da região com DF e GO",
+      "answer": "CO",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Falta de interesse ou de vontade",
+      "answer": "APATIA",
+      "row": 9,
+      "col": 3
+    },
+    "34": {
+      "clue": "Divindade do candomblé, da macumba etc.",
+      "answer": "ORIXA",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Calor intenso",
+      "answer": "ARDOR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Sepultura",
+      "answer": "TUMBA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Abreviatura inglesa de mister",
+      "answer": "MR",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Criança travessa",
+      "answer": "PERALTA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Praticar intervenção cirúrgica",
+      "answer": "OPERAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Rica) Antigo nome da cidade de Ouro Preto",
+      "answer": "VILA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "A letra que precede o eme",
+      "answer": "ELE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Devotado, amigo",
+      "answer": "AFEIÇOADO",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Instrumento de cortar madeira, metal, pedra etc.",
+      "answer": "SERRA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Argila modelada e cozida em forno",
+      "answer": "TERRACOTA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Apresentar em oposição",
+      "answer": "CONTRAPOR",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Pessoa que sofre de albinismo",
+      "answer": "GRANÇA",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Fralda",
+      "answer": "CUEIRO",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "(Fig.) Descrever viva e imaginosamente",
+      "answer": "COLORIR",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Dança de origem provençal, semelhante ao minueto",
+      "answer": "GAVOTA",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Pequeno pedaço de um cereal desidratado",
+      "answer": "FLOCO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Pop.) Acontecer (no tempo ou no espaço)",
+      "answer": "ROLAR",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Recipiente enológico",
+      "answer": "PIPA",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "(Red.) Instrumento musical muito utilizado no jazz",
+      "answer": "SAX",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Altemar Dutra (1940-1983), cantor",
+      "answer": "AD",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

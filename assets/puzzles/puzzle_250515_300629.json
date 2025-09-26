@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Região do Cáucaso, dividida entre a Rússia e a Geórgia",
+      "answer": "OSSETIA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "(Angeles Lakers) Um time de basquete dos EUA",
+      "answer": "LOS",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Um escritor como Mário Quintana",
+      "answer": "POETA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Nervosa, irritada",
+      "answer": "BRAVA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "O elétrico é um carro de som do carnaval",
+      "answer": "TRIO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Pop.) Chocar-se com",
+      "answer": "BEIJAR",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Manifestação concreta da vontade",
+      "answer": "ATO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Saliva",
+      "answer": "CUSPE",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Rênio",
+      "answer": "RE",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Mensageiro ocasional",
+      "answer": "PORTADOR",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Aquele que prende, que acorrenta",
+      "answer": "AMARRADOR",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "O som do canto do grilo",
+      "answer": "CRICRIDO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Benedito Calixto (1853-1927), pintor paulista",
+      "answer": "BC",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Doido",
+      "answer": "LOUCO",
+      "row": 7,
+      "col": 2
+    },
+    "26": {
+      "clue": "O acento que nasala algumas vogais",
+      "answer": "TIL",
+      "row": 7,
+      "col": 8
+    },
+    "27": {
+      "clue": "(Ray Vaughan) Guitarrista americano de blues",
+      "answer": "STEVIE",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Aviso",
+      "answer": "NOTA",
+      "row": 8,
+      "col": 7
+    },
+    "30": {
+      "clue": "No futebol, amortecer a bola",
+      "answer": "MATAR",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Fazer ingerir droga",
+      "answer": "DOPAR",
+      "row": 9,
+      "col": 6
+    },
+    "32": {
+      "clue": "Saudação entre pessoas íntimas",
+      "answer": "ALO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Povoado de poucas casas",
+      "answer": "ALDEOLA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Fazer a escolha",
+      "answer": "OPTAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Rifar",
+      "answer": "SORTEAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Anat.) Cavidade no interior de um osso",
+      "answer": "SEIO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Sufixo diminutivo masculino",
+      "answer": "ETO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Ok!",
+      "answer": "TA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Fig.) Que se tornou tolo, estúpido",
+      "answer": "ABESTADO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Pavimento de pedras de superfície plana",
+      "answer": "LAJEDO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Conjunto dos óvulos fecundados de um peixe",
+      "answer": "OVA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Restabelecer-se",
+      "answer": "SARAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "No telhado, série de madeiras para segurar as telhas",
+      "answer": "RIPADO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Comportamento estúpido",
+      "answer": "BURRICE",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Ave do Brasil, realiza voos curtos à procura de alimento",
+      "answer": "CORRUIRA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Outro nome da banana",
+      "answer": "PACOVA",
+      "row": 4,
+      "col": 3
+    },
+    "19": {
+      "clue": "Relativo à trajetória de um corpo celeste",
+      "answer": "ORBITAL",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "(Tales de) Filósofo considerado o primeiro do ocidente",
+      "answer": "MILETO",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Antipatia",
+      "answer": "CISMA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "A parte que fica branca quando o ovo é aquecido",
+      "answer": "CLARA",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "O ponto mais alto de uma elevação natural do solo",
+      "answer": "TOPO",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Pessoa que se julga o maioral",
+      "answer": "TAL",
+      "row": 8,
+      "col": 1
+    },
+    "29": {
+      "clue": "(Rel.) O personagem que salvou os animais da Terra",
+      "answer": "NOE",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "Dolores Duran (1930-1959), cantora carioca",
+      "answer": "DD",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

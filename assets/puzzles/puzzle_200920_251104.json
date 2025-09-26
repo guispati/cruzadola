@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Jumping) Um esporte radical",
+      "answer": "BASE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Formiga de ferroada dolorosa",
+      "answer": "LAVAPE",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Ato de transferir de um recipiente para outro",
+      "answer": "TRASFEGA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Estado Islâmico",
+      "answer": "EI",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Privado de sensibilidade (membro)",
+      "answer": "TORPIDO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Não trabalhado, em estado natural",
+      "answer": "CRU",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "O ex-treinador da seleção brasileira de futebol Menezes",
+      "answer": "MANO",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Sufixo: pequeno",
+      "answer": "UCHO",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "(Fut.) Árbitro de vídeo",
+      "answer": "VAR",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Outro nome da ave tapicuru",
+      "answer": "CARAUNA",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "A desinência verbal de vencer e correr",
+      "answer": "ER",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Um apoio para a prateleira",
+      "answer": "PAREDE",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "(Med.) A de disco causa dores em várias partes do corpo",
+      "answer": "HERNIA",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "(Quím.) Níquel",
+      "answer": "NI",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Que repete",
+      "answer": "ECOADOR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Uma tecla do computador",
+      "answer": "TAB",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Grupo de duas coisas",
+      "answer": "DUPLA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Fruto que produz um óleo alimentício",
+      "answer": "OLIVA",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Descido de animal de sela",
+      "answer": "APEADO",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Caneca) Religioso e político  (1779-1825)",
+      "answer": "FREI",
+      "row": 9,
+      "col": 7
+    },
+    "35": {
+      "clue": "As letras separadas pelo T",
+      "answer": "SU",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Jogo de azar de cassino",
+      "answer": "ROLETA",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "As consoantes de batuta",
+      "answer": "BTT",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Aplicar perfumes",
+      "answer": "AROMAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O desejo do doente",
+      "answer": "SARAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Rede de TV especializada em esportes",
+      "answer": "ESPN",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Zeppelin) Conjunto inglês de rock",
+      "answer": "LED",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Adivinho",
+      "answer": "AGOUREIRO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Elet.) Símbolo do volt-ampère",
+      "answer": "VA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O presidente argentino Juan Domingo (1895-1974)",
+      "answer": "PERON",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Teiu sem consoante",
+      "answer": "EIU",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Fibra curta e grossa usada em tecidos",
+      "answer": "FIOCARDADO",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Sem categoria",
+      "answer": "CHUE",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Qualquer",
+      "answer": "CADA",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "(Grande Sertão:) Livro de Guimarães Rosa",
+      "answer": "VEREDAS",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Grande rio italiano, banha Florença",
+      "answer": "ARNO",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Estância climática do estado de São Paulo, próxima à capital",
+      "answer": "ATIBAIA",
+      "row": 4,
+      "col": 10
+    },
+    "23": {
+      "clue": "(Fig.) Iludir, enganar",
+      "answer": "PEALAR",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Esperança, em inglês",
+      "answer": "HOPE",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "A espacial é destinada a viagens pelo cosmo",
+      "answer": "NAVE",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Árvore de frutos muito usados em doces",
+      "answer": "CUPU",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "(Gír.) Agente de polícia",
+      "answer": "TIRA",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Lygia Fagundes Telles, escritora",
+      "answer": "LFT",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Ondas Longas",
+      "answer": "OL",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Diz-se da arte das representações teatrais",
+      "answer": "CENICA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "A minha família",
+      "answer": "MEUS",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "(Inform.) Abreviatura de hard disk (disco rígido)",
+      "answer": "HD",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Repulsa ao que é novidade, ao progresso",
+      "answer": "NEOFOBIA",
+      "row": 1,
+      "col": 3
+    },
+    "13": {
+      "clue": "Ir para todos os lados",
+      "answer": "ESPARSAR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Vera Gimenez, atriz paulista",
+      "answer": "VG",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "(Pop.) Vingança",
+      "answer": "FORRA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "O fruto com que se produz o chocolate",
+      "answer": "CACAU",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Uma palavra para frases negativas",
+      "answer": "NEM",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "(Pop.) Pedir um cigarro",
+      "answer": "FILAR",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Tapeçaria francesa de ornamento artístico",
+      "answer": "GOBELIM",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Sem importância",
+      "answer": "BANAL",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "São dois em Zanzibar",
+      "answer": "ZES",
+      "row": 6,
+      "col": 7
+    },
+    "26": {
+      "clue": "Machucar",
+      "answer": "FERIR",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Fazer jus a, ser digno de, merecer",
+      "answer": "VALER",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "As iniciais do poeta carioca Bilac (1865-1918)",
+      "answer": "OB",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Que aceita integralmente os princípios e a prática de uma doutrina",
+      "answer": "ORTODOXO",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Tornado saliente, posto em evidência",
+      "answer": "RESSAIDO",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Taylor Swift, cantora americana",
+      "answer": "TS",
+      "row": 9,
+      "col": 9
+    },
+    "35": {
+      "clue": "(Fig.) Escopo, objetivo",
+      "answer": "ALVO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Cidade mineira da Zona da Mata",
+      "answer": "MURIAE",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Fr.) Cozinheiro",
+      "answer": "CHEF",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O nome de Pelé",
+      "answer": "EDSON",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Que não produz, no ouvido, um efeito agradável",
+      "answer": "INARMONIOSO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "(Fut.) Catimba",
+      "answer": "CERA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Àqueles",
+      "answer": "AOS",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Que dá bons exemplos",
+      "answer": "MORALIZADOR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Náut.) Abreviatura de estibordo",
+      "answer": "EB",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Soltar (o lobo, o cão) a sua voz",
+      "answer": "UIVAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Fécula de algumas plantas, muito usada para sobremesas",
+      "answer": "SAGU",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "(Pop.) Bico",
+      "answer": "FACIL",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Pronunciar sermões",
+      "answer": "PREGAR",
+      "row": 2,
+      "col": 2
+    },
+    "18": {
+      "clue": "Um animal característico dos desertos africanos",
+      "answer": "CAMELO",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Líquido segregado pelo fígado; age na digestão das gorduras",
+      "answer": "FEL",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Traço que serve para separar os números da data",
+      "answer": "BARRA",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "A cantora Gilberto",
+      "answer": "BEBEL",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "(Red.) O dia seguinte à quinta",
+      "answer": "SEXTA",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Na parte exterior",
+      "answer": "FORA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Culto de origem africana, praticado nas Antilhas, semelhante à macumba",
+      "answer": "VODU",
+      "row": 7,
+      "col": 6
+    },
+    "28": {
+      "clue": "(Fr.) Uma qualidade de vinho",
+      "answer": "ROSE",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "O cantor Maia (1942-1998)",
+      "answer": "TIM",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Sebastian Vettel, piloto alemão de F1",
+      "answer": "SV",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

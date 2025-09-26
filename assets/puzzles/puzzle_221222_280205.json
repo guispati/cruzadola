@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma formação como Batman e Robin",
+      "answer": "DUPLA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Que não se altera",
+      "answer": "IGUAL",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Certo veneno de uso doméstico, agrícola e industrial",
+      "answer": "RATICIDA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Sigla do estado de Oeiras e Picos",
+      "answer": "PI",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Um quinto de X",
+      "answer": "II",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Dança de salão muito popular no Nordeste",
+      "answer": "XOTE",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "(Por) Na minha opinião",
+      "answer": "MIM",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Pequeno pião que se faz girar com os dedos",
+      "answer": "CARRAPETA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Quilômetros por hora",
+      "answer": "KMH",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Uma dúvida com duas alternativas",
+      "answer": "DILEMA",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Cada uma das paredes que formam as fachadas laterais dos edifícios",
+      "answer": "OITÃO",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "A zona rural",
+      "answer": "ROÇA",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "Que não tem piedade",
+      "answer": "IMPIO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Uma característica da peneira",
+      "answer": "FUROS",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Dividir em duas partes iguais",
+      "answer": "MEAR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Grande fruto de gomos em forma de pinha",
+      "answer": "JACA",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "(Econ.) Preferencial Nominativa",
+      "answer": "PN",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Auxiliar",
+      "answer": "AJUDANTE",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Que faz pressupor juízo, bom senso, critério",
+      "answer": "ATINADO",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Documento de Ordem de Crédito",
+      "answer": "DOC",
+      "row": 9,
+      "col": 8
+    },
+    "36": {
+      "clue": "Um estilo decorativo muito enfeitado",
+      "answer": "ROCOCO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Um prato para o jantar em noites frias",
+      "answer": "SOPA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Ingl.) Bebida alcoólica",
+      "answer": "DRINK",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Uma típica exclamação de surpresa do homem do campo",
+      "answer": "UAI",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Paula Toller, cantora",
+      "answer": "PT",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Objeto usado para polir",
+      "answer": "LIXA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Decisão sobre recurso, tomada em instância superior por tribunal coletivo",
+      "answer": "ACORDÃO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Concepção de algo na sua absoluta perfeição",
+      "answer": "IDEAL",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Ginástica Artística",
+      "answer": "GA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Uma ruidosa manifestação coletiva de protesto",
+      "answer": "APITAÇO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Um tipo de laranja levemente amarga",
+      "answer": "LIMA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Y",
+      "answer": "ITRIO",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Participação por escrito",
+      "answer": "MEMORANDO",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "(RS) Rosquinha de polvilho e queijo ralado",
+      "answer": "CHIPA",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Objeto para cobrir a careca",
+      "answer": "PERUCA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Espaço de tempo indeterminado, geralmente breve",
+      "answer": "MOMENTO",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Chefe absoluto de um Estado, injusto e cruel",
+      "answer": "TIRANO",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Um povo indígena mexicano",
+      "answer": "ASTECA",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Um número como o 3 ou o 111",
+      "answer": "IMPAR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Música popular portuguesa, melancólica",
+      "answer": "FADO",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "Modalidade olímpica de luta oriental",
+      "answer": "JUDO",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "Uma marca chinesa de carros",
+      "answer": "JAC",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "(Pop.) Muito bom",
+      "answer": "TOP",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "Igreja Católica",
+      "answer": "IC",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

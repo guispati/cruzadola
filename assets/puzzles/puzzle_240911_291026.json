@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "O Schmidt ídolo do basquete brasileiro",
+      "answer": "OSCAR",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Alugar",
+      "answer": "LOCAR",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "(Rel.) O paraíso cristão",
+      "answer": "CEU",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Tipo de vidro translúcido",
+      "answer": "OPALINA",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Ingrid Guimarães, atriz",
+      "answer": "IG",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Alimento líquido produzido pela vaca",
+      "answer": "LEITE",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "As iniciais do escritor português Saramago (1922-2010)",
+      "answer": "JS",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Desembargador",
+      "answer": "OUVIDOR",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Uma arte de vanguarda",
+      "answer": "POP",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Difícil de suportar (fem.)",
+      "answer": "RIGOROSA",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Não continuar",
+      "answer": "PARAR",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Brazzaville é a capital desta nação banhada pelo Atlântico",
+      "answer": "CONGO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Senhora",
+      "answer": "SRA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Expatriar",
+      "answer": "EXILAR",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "Desalentar, desencorajar",
+      "answer": "DESANIMAR",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Servir-se de",
+      "answer": "USAR",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Pop.) Mergulho em águas, para lazer ou exercício",
+      "answer": "NADADA",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Departamento de Pessoal",
+      "answer": "DP",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Matem.) Pode ser de três",
+      "answer": "REGRA",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "1/5 de X",
+      "answer": "II",
+      "row": 9,
+      "col": 9
+    },
+    "37": {
+      "clue": "Composição musical para oito instrumentos solistas",
+      "answer": "OCTETO",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Cilindro revestido de materiais diversos, usado para pintar superfícies",
+      "answer": "ROLO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Tempo que se pode dispor",
+      "answer": "OCIO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Não passar algo adiante",
+      "answer": "SEGURAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Quím.) Cobre",
+      "answer": "CU",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Animais mamíferos como os preás e os ratos",
+      "answer": "ROEDORES",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Roubar violentamente",
+      "answer": "LATROCINAR",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Dança espanhola",
+      "answer": "OLE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "101, em algarismos romanos",
+      "answer": "CI",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O da guarda é a pessoa que cuida e defende uma outra",
+      "answer": "ANJO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Arranhão",
+      "answer": "RASPÃO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Aquilo que é inferior a outras coisas",
+      "answer": "PIOR",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Agremiação, sociedade",
+      "answer": "LIGA",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "Reação de um competidor que começa perdendo e no final passa a vencedor",
+      "answer": "VIRADA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Um país da América Central, entre o Atlântico e o Pacífico",
+      "answer": "PANAMA",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Fortalecer, tornar íntegro e firme",
+      "answer": "SOLIDAR",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Elemento de composição: falso, aparente",
+      "answer": "PSEUDO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Armação de barras de ferro ou ripas",
+      "answer": "GRADIL",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "(Rel.) Um poderoso orixá",
+      "answer": "XANGO",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "A letra que se repete em carrinho",
+      "answer": "ERRE",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "Uma faísca elétrica que prenuncia tempestade",
+      "answer": "RAIO",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Órgão que consulta crédito",
+      "answer": "SPC",
+      "row": 8,
+      "col": 1
+    },
+    "35": {
+      "clue": "Alienígena",
+      "answer": "ET",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

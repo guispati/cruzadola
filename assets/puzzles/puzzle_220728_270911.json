@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Palavras) Um sucesso de Caetano Veloso",
+      "answer": "OUTRAS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Sem fio ou gume",
+      "answer": "CEGO",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Um apelido para Manuel",
+      "answer": "MANE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Fertilizar a terra para cultura",
+      "answer": "ADUBAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "O primeiro pronome pessoal",
+      "answer": "EU",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "A lenta é um recurso para diminuir a velocidade das cenas",
+      "answer": "CAMARA",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Unidade básica do organismo dos animais e das plantas superiores",
+      "answer": "CELULA",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Vitamina que tem a propriedade de filtrar os raios solares",
+      "answer": "BX",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "De uma comunidade islâmica do Norte da África ou do Oriente Médio",
+      "answer": "ARABE",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Inflamação na região da virilha",
+      "answer": "INGUA",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Que suscita grande pavor",
+      "answer": "ATERRADOR",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Diz-se do sabor do café sem açúcar (fem.)",
+      "answer": "AMARGA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "A moeda da França e da Alemanha",
+      "answer": "EURO",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Ente",
+      "answer": "SER",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "O nome da letra Y",
+      "answer": "IPSILON",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "As consoantes de tela",
+      "answer": "TL",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Marca brasileira de produtos para higiene pessoal e cosméticos",
+      "answer": "NATURA",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "(Pop.) O de peixe é um automóvel antigo",
+      "answer": "RABO",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Conjunto de sons simultâneos e distintos que, unidos, formam harmonia",
+      "answer": "ACORDE",
+      "row": 9,
+      "col": 5
+    },
+    "36": {
+      "clue": "Conciliador",
+      "answer": "ORDEIRO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Tensão Pré-Menstrual",
+      "answer": "TPM",
+      "row": 10,
+      "col": 8
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um antigo carro da GM",
+      "answer": "OMEGA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Interjeição de grande admiração",
+      "answer": "UAU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Tancredo Neves, político",
+      "answer": "TN",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Aceitar o que vem",
+      "answer": "RECEBER",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Um socorro de urgência",
+      "answer": "SAMU",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Pajé",
+      "answer": "CURANDEIRO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Exclamação para demonstrar alegria",
+      "answer": "EBA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Ginástica Artística",
+      "answer": "GA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Divindade africana",
+      "answer": "ORIXA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Grande flor sem perfume",
+      "answer": "DALIA",
+      "row": 1,
+      "col": 6
+    },
+    "15": {
+      "clue": "Reação ao mofo, pelos etc.",
+      "answer": "ALERGIA",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "O país da Copa do Mundo de Futebol em 2022",
+      "answer": "CATAR",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Besta",
+      "answer": "BURRO",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Criar o muco (diz-se das pálpebras)",
+      "answer": "RAMELAR",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "O João (1918-1976), ex-presidente da República",
+      "answer": "GOULART",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Levar uma pessoa à força",
+      "answer": "RAPTAR",
+      "row": 5,
+      "col": 5
+    },
+    "24": {
+      "clue": "Estrela",
+      "answer": "ASTRO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "O dia que acabou de acabar",
+      "answer": "ONTEM",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "O gástrico é produzido pelas glândulas do estômago",
+      "answer": "SUCO",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "(Bíbl.) O personagem que salvou os animais",
+      "answer": "NOE",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Bob Dylan, cantor norte-americano de \"Blowin' in the Wind\"",
+      "answer": "BD",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Departamento de Pessoal",
+      "answer": "DP",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

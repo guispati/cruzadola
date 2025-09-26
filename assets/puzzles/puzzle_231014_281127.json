@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "O mês da morte de Tiradentes",
+      "answer": "ABRIL",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Óleo muito usado na culinária baiana",
+      "answer": "DENDE",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "(Black) Um traje para ocasiões formais",
+      "answer": "TIE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O país de Punta del Leste",
+      "answer": "URUGUAI",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Sigla da empresa que controla a infra-estrutura aeroportuária em nosso país",
+      "answer": "INFRAERO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "60, em algarismos romanos",
+      "answer": "LX",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Roupa que se usa na praia",
+      "answer": "MAIO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Bico do peito",
+      "answer": "MAMILO",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "A região da coluna cervical",
+      "answer": "NUCA",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Os laterais em certos esportes, como no basquete e futebol",
+      "answer": "ALAS",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Um calçado",
+      "answer": "SAPATENIS",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "A honorária é concedida a pessoas de méritos",
+      "answer": "CIDADANIA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Automóvel fabricado pela Fiat",
+      "answer": "UNO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "O cantor Motta, de \"Fora da Lei\"",
+      "answer": "ED",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Um estado coberto pela floresta Amazônica",
+      "answer": "ACRE",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "(Abrev.) Sudoeste",
+      "answer": "SO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Fazem o transporte da eletricidade e também de dados",
+      "answer": "FIOS",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Àqueles",
+      "answer": "AOS",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Usar uma lâmina de corte dentada",
+      "answer": "SERRAR",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Maurício Mattar, ator",
+      "answer": "MM",
+      "row": 9,
+      "col": 9
+    },
+    "37": {
+      "clue": "Mineral usado como pedra preciosa",
+      "answer": "OPALA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "(Jur.) Em direito penal, ofensa, dano à integridade física de alguém",
+      "answer": "LESÃO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Momento breve como a respiração",
+      "answer": "ATIMO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um aparelho eletrônico em desuso",
+      "answer": "BINA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Apurado, requintado",
+      "answer": "REFINADO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Astro prateado",
+      "answer": "LUA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Que não é mole ou tenra",
+      "answer": "DURA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Em psiquiatria, autoestima patológica",
+      "answer": "EGOMANIA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Sem vestes",
+      "answer": "NU",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Importante cidade do Texas (EUA)",
+      "answer": "DALLAS",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Sai deles quem abusa",
+      "answer": "EIXOS",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Aquele que põe ponto ou fim a",
+      "answer": "REMATADOR",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Designação genérica das peças do vestuário",
+      "answer": "ROUPA",
+      "row": 2,
+      "col": 3
+    },
+    "18": {
+      "clue": "A crista do osso do quadril",
+      "answer": "ILIACA",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Assento",
+      "answer": "CADEIRA",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "O instrumento tradicionalmente pendurado no pescoço das vacas suíças",
+      "answer": "SINO",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Ernesto Nazareth (1863-1934), compositor de \"Odeon\"",
+      "answer": "EN",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "(A) Com dificuldade",
+      "answer": "CUSTO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Semelhante",
+      "answer": "MESMO",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Um fruto agridoce",
+      "answer": "ROMÃ",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Sabor amargo",
+      "answer": "FEL",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Substância usada para temperar saladas",
+      "answer": "SAL",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Sociedade Anônima",
+      "answer": "SA",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Uma marcha do carro",
+      "answer": "RE",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

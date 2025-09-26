@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ato de entortar (madeira)",
+      "answer": "EMPENO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Unidade de medida elétrica V",
+      "answer": "VOLT",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Gramínea usada como forragem",
+      "answer": "SORGO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Usar, pôr",
+      "answer": "BOTAR",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "A ator estadunidense George, de \"Gravidade\"",
+      "answer": "CLOONEY",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Senhora",
+      "answer": "AMA",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "O presidente chileno Salvador (1908-1973), deposto pelo golpe militar de Augusto Pinochet",
+      "answer": "ALLENDE",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "(Rád.) Ondas Tropicais",
+      "answer": "OT",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Embarcação de luxo",
+      "answer": "IATE",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Indisposição em parte do corpo, como o estômago",
+      "answer": "PESO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Excessivo, injusto (imposto)",
+      "answer": "EXTORSIVO",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Aquilo que é inferior a tudo o mais",
+      "answer": "PIOR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Pop.) Adiantamento de salário",
+      "answer": "VALE",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Mover-se de um lugar a outro",
+      "answer": "IR",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Desportista não profissional (fem.)",
+      "answer": "AMADORA",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "(Matem.) O símbolo de secante",
+      "answer": "SEC",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Causas, razões",
+      "answer": "ORIGENS",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Plantação de alhos",
+      "answer": "ALHAL",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Qualidade, espécie (uva)",
+      "answer": "CASTA",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Filtros de sangue",
+      "answer": "RINS",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Cortiça",
+      "answer": "CORTEX",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Inform.) Tecla que cancela uma ação",
+      "answer": "ESC",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A peça que amortece os solavancos dos carros",
+      "answer": "MOLA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Que não sabe sintetizar o pensamento",
+      "answer": "PROLIXO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Que tem amor-próprio em excesso",
+      "answer": "EGOLATRA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Mús.) Conjunto formado por nove solistas",
+      "answer": "NONETO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "O pai do pai ou da mãe",
+      "answer": "VO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Interjeição de admiração",
+      "answer": "OTA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Sujo de lodo, pantanoso",
+      "answer": "LAMOSO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Combinação, acordo",
+      "answer": "TRATO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Marca chinesa de automóveis",
+      "answer": "BYD",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Fazer perder a paciência",
+      "answer": "ENERVAR",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Sintetizar, resumir",
+      "answer": "EPILOGAR",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "O ponto mais alto da Terra, no Himalaia",
+      "answer": "EVEREST",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Empresa Individual de Responsabilidade Limitada",
+      "answer": "EIRELI",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Perversamente cruel",
+      "answer": "SADICO",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Pôr a sola dos pés sobre",
+      "answer": "PISAR",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Fisioq.) Molécula-grama",
+      "answer": "MOL",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Perante",
+      "answer": "ANTE",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Abreviatura (em português) da China",
+      "answer": "CHN",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "(Red.) Instrumento de sopro típico do jazz",
+      "answer": "SAX",
+      "row": 8,
+      "col": 10
+    },
+    "34": {
+      "clue": "A carta de jogar simbolizada pela letra A",
+      "answer": "AS",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

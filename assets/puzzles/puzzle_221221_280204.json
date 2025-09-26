@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Que ocorre como se fora determinado pelo destino",
+      "answer": "FATAL",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Abreviatura (em português) de Camarões",
+      "answer": "CAM",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Que se pode ajustar ao padrão",
+      "answer": "AFERIVEL",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "Deslocar aquilo que veda ou fecha",
+      "answer": "ABRIR",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "Circular",
+      "answer": "GIRAR",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Inteira, completa, total",
+      "answer": "TODA",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Nossa Senhora",
+      "answer": "MADONA",
+      "row": 3,
+      "col": 5
+    },
+    "16": {
+      "clue": "Cidade paulista na divisa com o Paraná",
+      "answer": "FARTURA",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "A segunda pessoa pronominal",
+      "answer": "TU",
+      "row": 4,
+      "col": 9
+    },
+    "19": {
+      "clue": "O que é ou existe",
+      "answer": "SER",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Um oposto de chorar",
+      "answer": "RIR",
+      "row": 5,
+      "col": 4
+    },
+    "21": {
+      "clue": "Líquido segregado pelo fígado",
+      "answer": "FEL",
+      "row": 5,
+      "col": 8
+    },
+    "22": {
+      "clue": "Famoso monstrinho do cineasta Steven Spielberg",
+      "answer": "ET",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Fig.) Nível destacado entre os mais altos",
+      "answer": "PATAMAR",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Um artista como David Copperfield ou Mister M",
+      "answer": "MAGICO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Recipiente usado para recolher votos",
+      "answer": "URNA",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Pessoa muito admirada, que é objeto de veneração",
+      "answer": "IDOLO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Passar manteiga em uma forma",
+      "answer": "UNTAR",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Trepadeira tropical cultivada como ornamental e medicinal",
+      "answer": "ALAMANDA",
+      "row": 9,
+      "col": 1
+    },
+    "32": {
+      "clue": "Abreviatura de senhora",
+      "answer": "SRA",
+      "row": 10,
+      "col": 2
+    },
+    "33": {
+      "clue": "A boa estrela",
+      "answer": "SORTE",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Uma indústria automobilística italiana",
+      "answer": "FIAT",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Atrasar",
+      "answer": "TARDAR",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Devolver o corte",
+      "answer": "AFIAR",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Lesão por Esforço Repetitivo",
+      "answer": "LER",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Inseto que produz um som característico, monótono e estridente",
+      "answer": "CIGARRA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Ambiciosa",
+      "answer": "AVIDA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Peixe muito caçado em pesca submarina",
+      "answer": "MERO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Clube que está em último lugar em uma competição",
+      "answer": "LANTERNA",
+      "row": 1,
+      "col": 9
+    },
+    "11": {
+      "clue": "Golpe dado com a mão aberta",
+      "answer": "BOFETADA",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "O Pompéia (1863-1895), autor de \"O Ateneu\"",
+      "answer": "RAUL",
+      "row": 2,
+      "col": 10
+    },
+    "15": {
+      "clue": "Excessivamente",
+      "answer": "MUITO",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Grave forma de conjuntivite",
+      "answer": "TRACOMA",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Prefixo: metade",
+      "answer": "SEMI",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Saciar a fome ou a sede a",
+      "answer": "FARTAR",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Estrutura que sustenta pontes",
+      "answer": "PILAR",
+      "row": 6,
+      "col": 3
+    },
+    "24": {
+      "clue": "Reino, domínio",
+      "answer": "MUNDO",
+      "row": 6,
+      "col": 7
+    },
+    "26": {
+      "clue": "Os pontos marcados no futebol",
+      "answer": "GOLS",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "Engenho, esmero na criação de algo",
+      "answer": "ARTE",
+      "row": 7,
+      "col": 10
+    },
+    "30": {
+      "clue": "Pouco mais ou menos",
+      "answer": "UNS",
+      "row": 8,
+      "col": 6
+    }
+  }
+}

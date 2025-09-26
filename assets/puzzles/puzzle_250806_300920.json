@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "A víscera que segrega a insulina",
+      "answer": "PANCREAS",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "O meio do joelho e da orelha",
+      "answer": "EL",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "(de março) As primeiras chuvas após o verão",
+      "answer": "AGUAS",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O Júlio (1828-1905), escritor de \"A Volta ao Mundo em 80 Dias\"",
+      "answer": "VERNE",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Gotejar líquido pela pele devido ao calor",
+      "answer": "SUAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Um livro de consultas",
+      "answer": "MANUAL",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "(Pop.) Está combinado!",
+      "answer": "TA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Cidade australiana, a terceira do país",
+      "answer": "ADELAIDE",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "A cidade cearense com a praia de Canoa Quebrada",
+      "answer": "ARACATI",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "D",
+      "answer": "DE",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Que ficou menos compacto",
+      "answer": "RALEADO",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Elvis Presley (1935-1977), cantor e ator",
+      "answer": "EP",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Aquilo que está em voga, de caráter efêmero",
+      "answer": "MODISMO",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "Aviamentos, coisas necessárias ao acabamento de uma roupa",
+      "answer": "PREPAROS",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Ivone Lara (1921-2018), sambista carioca",
+      "answer": "IL",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Coisa",
+      "answer": "OBJETO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Transtorno de Déficit de Atenção e Hiperatividade",
+      "answer": "TDAH",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Agravamento de doença",
+      "answer": "PIORA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "O Léo cantor",
+      "answer": "JAIME",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Àquele, àquilo",
+      "answer": "AO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Gozar do benefício",
+      "answer": "USUFRUIR",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Comer (o gado) a erva dos campos",
+      "answer": "PASTAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Fig.) Atrapalhar, frustrar alguma coisa causando insatisfação ou tristeza",
+      "answer": "AGUAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sem roupas (fem.)",
+      "answer": "NUA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Interjeição popular de admiração, surpresa etc.",
+      "answer": "CARACA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Sigla do estado de Novo Hamburgo e Gramado",
+      "answer": "RS",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Que tem seu valor determinado",
+      "answer": "AVALIADO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Rio francês, banha Paris",
+      "answer": "SENA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Um exame do Ministério da Educação",
+      "answer": "ENADE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Pop.) Barulho, confusão, desordem",
+      "answer": "LELE",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Barulhos",
+      "answer": "RUIDOS",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Cai do céu",
+      "answer": "METEORO",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "São 101 num desenho animado da Disney",
+      "answer": "DALMATAS",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "(Mús.) Acorde de sons sucessivos no violão",
+      "answer": "ARPEJO",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Estar longe",
+      "answer": "DISTAR",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "Não deixar manifestar-se",
+      "answer": "TOLHER",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "Elemento químico de símbolo Er",
+      "answer": "ERBIO",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Grande cidade da Flórida, nos EUA",
+      "answer": "MIAMI",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "A traseira do barco",
+      "answer": "POPA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Lima é sua capital",
+      "answer": "PERU",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "Dispositivo usado como anticoncepcional",
+      "answer": "DIU",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "João Fonseca, tenista carioca",
+      "answer": "JF",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

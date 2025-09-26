@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Roubo feito com violência",
+      "answer": "RAPINA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "O rio que banha Florença e Pisa, na Itália",
+      "answer": "ARNO",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Que foi reunido em um todo, em um só corpo",
+      "answer": "UNIFICADO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "(-fora) Festa de despedida",
+      "answer": "BOTA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Tornar fino ou delgado",
+      "answer": "AFILAR",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Cidade pernambucana, berço de Luís Gonzaga",
+      "answer": "EXU",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Cidade de SC",
+      "answer": "ITAPEMA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Abreviatura de microempresa",
+      "answer": "ME",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Apoiador de uma iniciativa",
+      "answer": "PROMOTOR",
+      "row": 4,
+      "col": 3
+    },
+    "19": {
+      "clue": "Roedor semelhante a uma lebre",
+      "answer": "MARA",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Os ás do baralho",
+      "answer": "ASES",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Bebida de limão, água e açúcar",
+      "answer": "LIMONADA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Taumaturgo Ferreira, ator paulistano",
+      "answer": "TF",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Grandemente representativo",
+      "answer": "ICONICO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Sigla do órgão da Justiça Eleitoral",
+      "answer": "TRE",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "(Pop.) Um veículo de duas rodas",
+      "answer": "MOTOCA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "(-Michel Basquiat) Artista conhecido por sua arte de rua e grafiti",
+      "answer": "JEAN",
+      "row": 8,
+      "col": 7
+    },
+    "30": {
+      "clue": "Meio tonto",
+      "answer": "ATORDOADO",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "(de Tolo) Um sucesso de Raul Seixas",
+      "answer": "OURO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Uma bebida alcoólica do tipo bitter",
+      "answer": "APEROL",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O Braga autor de \"O Conde e o Passarinho\"",
+      "answer": "RUBEM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Caracterizado por insuficiência de oxigênio do sangue",
+      "answer": "ANOXEMICO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Camarão de água doce",
+      "answer": "PITU",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Insumo para vacinas",
+      "answer": "IFA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Quím.) Níquel",
+      "answer": "NI",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Consideração",
+      "answer": "ACATO",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Gordurosa",
+      "answer": "ADIPOSA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Rodela de cana-de-açúcar descascada, para comer",
+      "answer": "ROLETE",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Executar qualquer trabalho",
+      "answer": "OBRAR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Muito conhecido por qualidades e características positivas",
+      "answer": "AFAMADO",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Exposto à vista",
+      "answer": "AMOSTRADO",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Uma língua indo-européia",
+      "answer": "IRANICO",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Uma parte dos insetos",
+      "answer": "PRONOTO",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Fazer aterro para proteger de inundação",
+      "answer": "AMOTAR",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "(Pop.) Condição do que está esquecido",
+      "answer": "LIMBO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Culin.) Bolinho típico da BA",
+      "answer": "ACARA",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Poderoso desinfetante",
+      "answer": "FENOL",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Nome genérico de máquinas para tecer",
+      "answer": "TEAR",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "O Cocker, músico participante de Woodstock",
+      "answer": "JOE",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "Distrito Policial",
+      "answer": "DP",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

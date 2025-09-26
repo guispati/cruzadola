@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Fazer investimento em",
+      "answer": "COLOCAR",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Precedem o D",
+      "answer": "ABC",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Uma obra como \"O Barbeiro de Sevilha\"",
+      "answer": "OPERA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Requinte",
+      "answer": "APURO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Animal masculino que deu origem a outro",
+      "answer": "PAI",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Acanhamento",
+      "answer": "TIMIDEZ",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Persistência exagerada",
+      "answer": "TEIMOSICE",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Um sinal como o til",
+      "answer": "ACENTO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Passar água e café através de um filtro",
+      "answer": "COAR",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "(-chefe) Elemento mais significativo em um empreendimento",
+      "answer": "CARRO",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Episódio histórico, que se torna lendário",
+      "answer": "MITO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Fig.) Sondar, calcular",
+      "answer": "TESTAR",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Que turva a vista",
+      "answer": "OFUSCADOR",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "O Ta dos químicos",
+      "answer": "TANTALO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Abrev.: observação",
+      "answer": "OBS",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Que é o modelo ou arquétipo da perfeição",
+      "answer": "IDEAL",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Queijo de leite de vaca, originário de um estado da região Sudeste",
+      "answer": "MINAS",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Abreviatura de molécula-grama",
+      "answer": "MOL",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Mulher que discursa em público",
+      "answer": "ORADORA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Xerox",
+      "answer": "COPIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Oi",
+      "answer": "OPA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Matéria-prima para iogurtes e queijos",
+      "answer": "LEITE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Uma alternativa inglesa",
+      "answer": "OR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Elegante",
+      "answer": "CATITA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Parte da planta que se bifurca do tronco",
+      "answer": "RAMO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Parte sonora de um filme",
+      "answer": "AUDIO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Freada",
+      "answer": "BRECADA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Preparar alimentos pelo calor",
+      "answer": "COZER",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Cheio de peixes",
+      "answer": "PISCOSO",
+      "row": 1,
+      "col": 7
+    },
+    "15": {
+      "clue": "Que não morre",
+      "answer": "IMORTAL",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Declive nos flancos de morro, montanha ou serra",
+      "answer": "ENCOSTA",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Abatido com foice ou outro instrumento apropriado",
+      "answer": "CEIFADO",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Cúpula de vidro",
+      "answer": "REDOMA",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Revolta popular",
+      "answer": "MOTIM",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Passagem subterrânea em ferrovia",
+      "answer": "TUNEL",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "(Pop.) Vaso sanitário",
+      "answer": "TRONO",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Nascida em São Petersburgo ou Perm",
+      "answer": "RUSSA",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Endurecimento epidérmico",
+      "answer": "CALO",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Local com balcão onde se servem bebidas",
+      "answer": "BAR",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "Isadora Duncan (1872-1927), bailarina estadunidense",
+      "answer": "ID",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

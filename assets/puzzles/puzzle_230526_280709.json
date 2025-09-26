@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Tereza, para os íntimos",
+      "answer": "TETE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Pranchas para andar na neve",
+      "answer": "ESQUIS",
+      "row": 0,
+      "col": 5
+    },
+    "11": {
+      "clue": "Equívocos",
+      "answer": "ERROS",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "A unidade monetária da China",
+      "answer": "IUANE",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "1006, em algarismos romanos",
+      "answer": "MVI",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "A atriz britânica Winslet, de \"Titanic\"",
+      "answer": "KATE",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "(Abrev.) Senhor",
+      "answer": "SR",
+      "row": 2,
+      "col": 9
+    },
+    "18": {
+      "clue": "Um bicho como o gavião",
+      "answer": "PASSARO",
+      "row": 3,
+      "col": 0
+    },
+    "20": {
+      "clue": "Microempreendedor Individual",
+      "answer": "MEI",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Valor usado por arquitetos nas construções",
+      "answer": "COTA",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Retrato",
+      "answer": "FOTO",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Habilidoso",
+      "answer": "TALENTOSO",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Partido, facção, grupo",
+      "answer": "LADO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Tecido de arame para cercados",
+      "answer": "TELA",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Rede de canais de filmes da TV paga",
+      "answer": "HBO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Prazer suave",
+      "answer": "DELEITE",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Símbolo químico de um metal precioso",
+      "answer": "AU",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Posição assumida para ser fotografado",
+      "answer": "POSE",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Sol, em inglês",
+      "answer": "SUN",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Seios, peitos",
+      "answer": "MAMAS",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Esconder, ocultar",
+      "answer": "SUMIR",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "Pessoa de certa importância",
+      "answer": "ALGUEM",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "O rei do Carnaval",
+      "answer": "MOMO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Clima",
+      "answer": "TEMPO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Forragem fresca",
+      "answer": "ERVA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Barulhento por estar embriagado",
+      "answer": "TRISCADO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Dedo sem dês",
+      "answer": "EO",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "Localizado",
+      "answer": "SITO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Fig.) Complexidade, dificuldade",
+      "answer": "QUE",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Unidade Astronômica",
+      "answer": "UA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Um artrópode como o cupim",
+      "answer": "INSETO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Sisudo, solene",
+      "answer": "SERIO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Um esporte sobre prancha",
+      "answer": "SKATE",
+      "row": 1,
+      "col": 4
+    },
+    "16": {
+      "clue": "O músico Guilherme, de \"Brincar de Viver\"",
+      "answer": "ARANTES",
+      "row": 2,
+      "col": 5
+    },
+    "19": {
+      "clue": "(Mús.) Executado por apenas uma pessoa",
+      "answer": "SOLO",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Conjunto de escritos, leis e instituições religiosas atribuídos a Moisés, fundador da religião judaica",
+      "answer": "MOSAISMO",
+      "row": 3,
+      "col": 8
+    },
+    "22": {
+      "clue": "(Mús.) Espécie de sanfona",
+      "answer": "FOLE",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Terreno em que abundam plantas de que se fazem esteiras",
+      "answer": "TABUAL",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "A escritora Lygia Fagundes",
+      "answer": "TELES",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Ruminante andino apreciado por sua lã",
+      "answer": "LHAMA",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "O marido da filha",
+      "answer": "GENRO",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Porção de pinga",
+      "answer": "DOSE",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Periquitinho",
+      "answer": "TUIM",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "(a pique) Parede feita com ripas e barro",
+      "answer": "PAU",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Sigla do estado de Três Pontas e Teófilo Otoni",
+      "answer": "MG",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "Segue o 0",
+      "answer": "UM",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

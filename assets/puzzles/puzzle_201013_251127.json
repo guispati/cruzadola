@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Que leva ao sucesso",
+      "answer": "CONSAGRADOR",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Aquele que tem pouquíssima gordura",
+      "answer": "MAGRELO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "(Rád.) Ondas Médias",
+      "answer": "OM",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "O Springsteen cantor de \"Born in the USA\"",
+      "answer": "BRUCE",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "(Mús.) Abreviatura de pianíssimo",
+      "answer": "PP",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "O oposto de sem",
+      "answer": "COM",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Usar objeto pesado para fundear pequeno barco",
+      "answer": "APOITAR",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Transferido para outra ocasião",
+      "answer": "ADIADO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Carro próprio para caminhos acidentados",
+      "answer": "JIPE",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Desta coisa",
+      "answer": "DISTO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "O agente secreto Bond, do cinema",
+      "answer": "JAMES",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "(Var.) O ponto cardeal oposto ao Oeste",
+      "answer": "ESTE",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Uma revista de negócios e economia",
+      "answer": "FORBES",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Magnetizar ferro",
+      "answer": "IMANTAR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "A área do hospital para pacientes em situação grave",
+      "answer": "UTI",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Rondônia",
+      "answer": "RO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Ingl.) Bebida alcoólica",
+      "answer": "DRINK",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Elétron-volt",
+      "answer": "EV",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Análise mais profunda",
+      "answer": "REEXAME",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Cidade francesa, antiga residência real",
+      "answer": "VERSALHES",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Incubadora",
+      "answer": "CHOCADEIRA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Nicolau Maquiavel (1469-1527), escritor e político italiano",
+      "answer": "NM",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Precede Dom",
+      "answer": "SAB",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Sensação de satisfação",
+      "answer": "AGRADO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Pessoas reunidas",
+      "answer": "GRUPO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Soldado recém-incorporado",
+      "answer": "RECO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Ficar mutilado",
+      "answer": "ALEIJAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Daquele",
+      "answer": "DO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Que impede ou proíbe pela ameaça ou pelo castigo",
+      "answer": "REPRESSIVO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Aquilo que está em voga, de caráter efêmero",
+      "answer": "MODISMO",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Capital da Polinésia Francesa, centro turístico",
+      "answer": "PAPEETE",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Constituída por mais de um elemento diferente",
+      "answer": "MISTA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Outro nome do gambá",
+      "answer": "TIMBU",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Dar consulta a",
+      "answer": "ATENDER",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Folha cotidiana de notícias",
+      "answer": "JORNAL",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Banda de rádio",
+      "answer": "FAIXA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "O segundo número primo",
+      "answer": "TRES",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Quilômetros por hora",
+      "answer": "KMH",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "A marcha que leva um carro para trás",
+      "answer": "RE",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Tetê sem consoantes",
+      "answer": "EE",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

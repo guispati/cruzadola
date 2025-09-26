@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma torre bíblica",
+      "answer": "BABEL",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Uma peça óssea como o incisivo",
+      "answer": "DENTE",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Que foi enganado",
+      "answer": "ILUDIDO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Líquido segregado pelo fígado",
+      "answer": "FEL",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Abreviatura de feminino",
+      "answer": "FEM",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Um apelido do Benedito",
+      "answer": "BENE",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Expressão para espantar aves",
+      "answer": "XO",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Interjeição usada como saudação",
+      "answer": "OI",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Em economia, a procura por produtos",
+      "answer": "DEMANDA",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Um aparelho como a GoPro",
+      "answer": "CAMERA",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Um tipo de ferro",
+      "answer": "GUSA",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "Esquentar um pouco",
+      "answer": "AMORNAR",
+      "row": 5,
+      "col": 2
+    },
+    "26": {
+      "clue": "Mistura de dois ou mais metais fundidos",
+      "answer": "LIGA",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Aperitivo de fatia de pão com ingredientes",
+      "answer": "CANAPE",
+      "row": 6,
+      "col": 5
+    },
+    "30": {
+      "clue": "Precede o casamento",
+      "answer": "NOIVADO",
+      "row": 7,
+      "col": 1
+    },
+    "32": {
+      "clue": "São quatro em dificílimo",
+      "answer": "IS",
+      "row": 7,
+      "col": 9
+    },
+    "33": {
+      "clue": "Gilberto Gil, músico baiano",
+      "answer": "GG",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Fio têxtil produzido pela larva de uma borboleta",
+      "answer": "SEDA",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "O sujeito de votais ou exigis",
+      "answer": "VOS",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "O único satélite natural da Terra",
+      "answer": "LUA",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Caminho em subida",
+      "answer": "LADEIRA",
+      "row": 9,
+      "col": 4
+    },
+    "40": {
+      "clue": "Regiões da América do Sul, grande planície, rica de pastagens",
+      "answer": "PAMPA",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "No entanto, contudo",
+      "answer": "ALIAS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Diz-se de lente com dois pontos de convergência",
+      "answer": "BIFOCAL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Caminho ladeado de árvores",
+      "answer": "ALEIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Som de tambor",
+      "answer": "BUM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Espera Deferimento",
+      "answer": "ED",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Jogador de vôlei especialista em recepção e defesa",
+      "answer": "LIBERO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Flor) Uma personagem de Jorge Amado",
+      "answer": "DONA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Nelson Freire, pianista",
+      "answer": "NF",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Grande estado do Sul dos EUA",
+      "answer": "TEXAS",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Fig.) Vínculo, união espiritual ou moral",
+      "answer": "ELO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Delimitada, circunscrita",
+      "answer": "DEMARCADA",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Ligação telefônica para o número errado",
+      "answer": "ENGANO",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "Em excesso",
+      "answer": "DEMAIS",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Rija",
+      "answer": "DURA",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Feiticeiro",
+      "answer": "MAGO",
+      "row": 4,
+      "col": 2
+    },
+    "23": {
+      "clue": "Coisas opostas",
+      "answer": "AVESSAS",
+      "row": 4,
+      "col": 10
+    },
+    "25": {
+      "clue": "(Pop.) Um mergulho na piscina",
+      "answer": "NADADA",
+      "row": 5,
+      "col": 6
+    },
+    "27": {
+      "clue": "Inchação de gânglio da virilha",
+      "answer": "INGUA",
+      "row": 6,
+      "col": 1
+    },
+    "29": {
+      "clue": "Agravamento",
+      "answer": "PIORA",
+      "row": 6,
+      "col": 9
+    },
+    "31": {
+      "clue": "Peça da ignição de motores",
+      "answer": "VELA",
+      "row": 7,
+      "col": 4
+    },
+    "33": {
+      "clue": "Gás Liquefeito de Petróleo",
+      "answer": "GLP",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Rom.) 7",
+      "answer": "VII",
+      "row": 8,
+      "col": 8
+    },
+    "37": {
+      "clue": "Sigla do Amazonas",
+      "answer": "AM",
+      "row": 9,
+      "col": 2
+    },
+    "39": {
+      "clue": "Precede Niño no fenômeno de aquecimento global",
+      "answer": "EL",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

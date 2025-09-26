@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ato de exprimir por meio de palavras",
+      "answer": "FALA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Relativo a cavalo ou às corridas de cavalos",
+      "answer": "HIPICO",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Impressionado",
+      "answer": "EMOCIONADO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Soltar (o cão) a sua voz",
+      "answer": "LATIR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Antigo estádio",
+      "answer": "ARENA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Animal dos felídeos, carnívoro, marrom claro",
+      "answer": "PUMA",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Homem muito devoto",
+      "answer": "BEATO",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "A abertura para a passagem do botão",
+      "answer": "CASA",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Transgredir leis",
+      "answer": "VIOLAR",
+      "row": 4,
+      "col": 5
+    },
+    "19": {
+      "clue": "500+500",
+      "answer": "MIL",
+      "row": 5,
+      "col": 4
+    },
+    "20": {
+      "clue": "Fazer tremer",
+      "answer": "ABALAR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Profundo sofrimento",
+      "answer": "PENA",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Cidade italiana, a primeira capital do país",
+      "answer": "TURIM",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Capenga",
+      "answer": "COXO",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "Elemento de equilíbrio lateral do avião",
+      "answer": "ALETA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "A língua oficial da Síria",
+      "answer": "ARABE",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "O religioso de Gusmão (1685-1724), um dos pioneiros da aeronavegação",
+      "answer": "BARTOLOMEU",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "Elevar ao trono",
+      "answer": "COROAR",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Assento usado para cavalgar",
+      "answer": "SELA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Líquido que age na digestão das gorduras",
+      "answer": "FEL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Estado que só faz divisa com o Pará",
+      "answer": "AMAPA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Marca inglesa de veículos esportivos",
+      "answer": "LOTUS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Em lugar mais alto",
+      "answer": "ACIMA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Hólmio, elemento químico",
+      "answer": "HO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Sem aptidão",
+      "answer": "INABIL",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Corrida de cavalos",
+      "answer": "PAREO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Que é modelo de perfeição",
+      "answer": "IDEAL",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Glóbulo que se enfia em rosário ou colar",
+      "answer": "CONTA",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "A fúria dos sentimentos",
+      "answer": "IRA",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Importante artéria do coração",
+      "answer": "AORTA",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Balsa",
+      "answer": "CHATA",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Dirigir-se (uma pessoa) de lá para cá",
+      "answer": "VIR",
+      "row": 4,
+      "col": 5
+    },
+    "19": {
+      "clue": "Vantagem obtida sem esforço",
+      "answer": "MAMATA",
+      "row": 5,
+      "col": 4
+    },
+    "21": {
+      "clue": "Tipo de caule como o da cebola",
+      "answer": "BULBO",
+      "row": 6,
+      "col": 1
+    },
+    "22": {
+      "clue": "Lustrar panelas",
+      "answer": "AREAR",
+      "row": 6,
+      "col": 2
+    },
+    "23": {
+      "clue": "Medida para líquidos",
+      "answer": "LITRO",
+      "row": 6,
+      "col": 3
+    },
+    "24": {
+      "clue": "Orifícios por onde o suor sai",
+      "answer": "POROS",
+      "row": 6,
+      "col": 7
+    },
+    "25": {
+      "clue": "O primeiro E do ENEM",
+      "answer": "EXAME",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Prêmio sueco para elementos de cultura",
+      "answer": "NOBEL",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Símbolo de caloria",
+      "answer": "CAL",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Sigla de uma grande potência mundial",
+      "answer": "EUA",
+      "row": 8,
+      "col": 10
+    },
+    "33": {
+      "clue": "Muda teia para teoria",
+      "answer": "OR",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

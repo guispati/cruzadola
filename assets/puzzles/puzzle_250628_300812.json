@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Prega, vinco",
+      "answer": "DOBRA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Estado com capital Macapá",
+      "answer": "AMAPA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "As letras entre o T e o X",
+      "answer": "UVW",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Artimanha, ardil",
+      "answer": "MANEJOS",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Natuza Nery, jornalista",
+      "answer": "NN",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Um passarinho",
+      "answer": "TIZIU",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Luan Santana, cantor",
+      "answer": "LS",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Polimento",
+      "answer": "LIMAGEM",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "(Sea-) Marca de jet ski",
+      "answer": "DOO",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Fundamentado",
+      "answer": "APOIADO",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Massa de carne ou peixe, conservada fria",
+      "answer": "PATE",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Dar (o cavalo) uma carreira",
+      "answer": "TROTAR",
+      "row": 5,
+      "col": 5
+    },
+    "25": {
+      "clue": "Pedaço pequeno de linha",
+      "answer": "FIAPO",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "(O Diário de um) Livro de Paulo Coelho",
+      "answer": "MAGO",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Mentalmente perturbado",
+      "answer": "ATARANTADO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Precede eles",
+      "answer": "VOS",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Aquela que procura a admiração de outrem",
+      "answer": "VAIDOSA",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Ivete Sangalo, cantora de \"Na Base do Beijo\"",
+      "answer": "IS",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Saída impetuosa",
+      "answer": "JORRO",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Tom Berenger, ator americano de \"Platoon\"",
+      "answer": "TB",
+      "row": 9,
+      "col": 9
+    },
+    "36": {
+      "clue": "Qualquer substância convertida à forma gasosa para usos técnicos ou medicinais",
+      "answer": "VAPOR",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Calor forte e prolongado",
+      "answer": "ARDOR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O John Boyd (1840-1921), inventor do primeiro pneu",
+      "answer": "DUNLOP",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Disco voador",
+      "answer": "OVNI",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Bruce Willis, ator de \"O Sexto Sentido\"",
+      "answer": "BW",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Afetuoso, carinhoso",
+      "answer": "AMIGO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Encorajar",
+      "answer": "ANIMAR",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "O pronome possessivo mais usado pelo egoísta",
+      "answer": "MEU",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Angelina Jolie, atriz de \"A Troca\"",
+      "answer": "AJ",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Na pilha, pode ser + ou -",
+      "answer": "POLO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Vento expelido pela boca",
+      "answer": "ASSOPRO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Fazer ter o sabor ou a cor do fruto da oliveira",
+      "answer": "AZEITONAR",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Ludibriar",
+      "answer": "TAPEAR",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "Discípulo de Cristo, escolhido por sorteio para substituir Judas como apóstolo",
+      "answer": "MATIAS",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Composto, munido",
+      "answer": "DOTADO",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Aquele que adestra cavalos",
+      "answer": "DOMADOR",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "A febre infecciosa que atinge o gado",
+      "answer": "AFTOSA",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "O oitavo mês do calendário",
+      "answer": "AGOSTO",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Medo angustioso",
+      "answer": "PAVOR",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "(Tel) A segunda maior cidade de Israel",
+      "answer": "AVIV",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Pop.) Investigador de polícia",
+      "answer": "TIRA",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Tempo entre Mar e Mai",
+      "answer": "ABR",
+      "row": 8,
+      "col": 10
+    },
+    "34": {
+      "clue": "O humorista e escritor Soares (1938-2022)",
+      "answer": "JO",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

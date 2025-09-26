@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Característica atraente",
+      "answer": "CHARME",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Grito de pedido para que detenham a fuga de alguém, numa perseguição",
+      "answer": "PEGA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "(Fam.) Indivíduo excêntrico, extravagante",
+      "answer": "RATÃO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Queimar",
+      "answer": "ARDER",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "A fruta com a qual se produz vinho",
+      "answer": "UVA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Cultivar, plantar",
+      "answer": "LAVORAR",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Zona Aérea",
+      "answer": "ZA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Clube Atético Mineiro",
+      "answer": "CAM",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Fio fino, forte e macio",
+      "answer": "SEDA",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Escandaloso",
+      "answer": "IMORAL",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Documento de Arrecadação do Simples",
+      "answer": "DAS",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Aposentado",
+      "answer": "EMERITO",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "M",
+      "answer": "EME",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "7º",
+      "answer": "SETIMO",
+      "row": 6,
+      "col": 4
+    },
+    "29": {
+      "clue": "No jogo do bicho, o 14º grupo",
+      "answer": "GATO",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "O músico Jaime",
+      "answer": "LEO",
+      "row": 7,
+      "col": 5
+    },
+    "32": {
+      "clue": "Leonel Brizola (1922-2004), político gaúcho",
+      "answer": "LB",
+      "row": 7,
+      "col": 9
+    },
+    "34": {
+      "clue": "Dar (geralmente uma autoridade) proteção ou favorecimento a alguém",
+      "answer": "AFILHAR",
+      "row": 8,
+      "col": 0
+    },
+    "36": {
+      "clue": "Pronome pessoal oblíquo: a ele",
+      "answer": "LHE",
+      "row": 8,
+      "col": 8
+    },
+    "37": {
+      "clue": "Conexão que torna possível a comunicação telefônica",
+      "answer": "LINHA",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Deste tempo",
+      "answer": "ATUAL",
+      "row": 9,
+      "col": 6
+    },
+    "40": {
+      "clue": "O dos Cisnes é uma obra de Tchaikovsky",
+      "answer": "LAGO",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "Licença oficial para realização de um evento",
+      "answer": "ALVARA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Rel.) Paixão e morte de Cristo",
+      "answer": "CRUZ",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O estado dos EUA com Waikiki e Waimea",
+      "answer": "HAVAI",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Resumo das deliberações de um corpo coletivo",
+      "answer": "ATA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Homem-) Mergulhador profissional que efetua explorações submarinas",
+      "answer": "RÃ",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Dentes que esmagam os alimentos",
+      "answer": "MOLARES",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Vantagens",
+      "answer": "PROS",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Fr.) Acolchoado, cobertor",
+      "answer": "EDREDOM",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Orvalho congelado, típico dos dias muito frios",
+      "answer": "GEADA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Pop.) Pessoa ou coisa sensacional",
+      "answer": "ARRASO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "As iniciais do Valença músico",
+      "answer": "AV",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "(Vaca) Uma rima infantil para pedir silêncio",
+      "answer": "AMARELA",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "(Net) Sufixo para empresas comerciais",
+      "answer": "COM",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "(Ingl.) Encontro, principalmente esportivo",
+      "answer": "MEETING",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Conforme a letra do texto",
+      "answer": "LITERAL",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "A atriz Beatriz",
+      "answer": "SEGALL",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "O Patinhas é um milionário da Disney",
+      "answer": "TIO",
+      "row": 5,
+      "col": 7
+    },
+    "26": {
+      "clue": "Grupo criminoso organizado",
+      "answer": "MAFIA",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Tomar conta de",
+      "answer": "OLHAR",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "O órgão da visão, nos animais",
+      "answer": "OLHO",
+      "row": 7,
+      "col": 3
+    },
+    "33": {
+      "clue": "O ator Lugosi (1882-1956), dos filmes de terror",
+      "answer": "BELA",
+      "row": 7,
+      "col": 10
+    },
+    "35": {
+      "clue": "O hânio, em química",
+      "answer": "HA",
+      "row": 8,
+      "col": 4
+    },
+    "36": {
+      "clue": "Meta espacial alcançada pelos EUA em 1969",
+      "answer": "LUA",
+      "row": 8,
+      "col": 8
+    },
+    "39": {
+      "clue": "Abreviatura de televisão",
+      "answer": "TV",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O beliche possui duas",
+      "answer": "CAMAS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Roupa usada pelos foliões dos blocos carnavalescos",
+      "answer": "ABADA",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Aeronave não pilotada usada para lazer ou como arma",
+      "answer": "DRONE",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "O escritor russo de \"Almas Mortas\"",
+      "answer": "GOGOL",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "A engenharia das construções",
+      "answer": "CIVIL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Pupila",
+      "answer": "ALUNA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Delimitador",
+      "answer": "DEMARCADOR",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "(Gír.) Conversa-mole",
+      "answer": "LERO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Interjeição que exprime espanto, dor",
+      "answer": "UH",
+      "row": 4,
+      "col": 5
+    },
+    "19": {
+      "clue": "A primeira e a última letra do nosso alfabeto",
+      "answer": "AZ",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "País cuja capital é Ápia",
+      "answer": "SAMOA",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Microfarad",
+      "answer": "MF",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Lima Barreto (1881-1922), escritor de \"Triste Fim de Policapo Quaresma\"",
+      "answer": "LB",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "(Ingl.) Árvore",
+      "answer": "TREE",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Aprisionar",
+      "answer": "TRANCAFIAR",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "A marca de automóveis Alfa",
+      "answer": "ROMEO",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Ilhota formada por um rio",
+      "answer": "INSUA",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Sucesso",
+      "answer": "EXITO",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Parcela que cabe a cada participante de uma ação que rende dinheiro",
+      "answer": "FATIA",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "A jornalista Barcellos",
+      "answer": "CAROL",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "O cheiro dos alimentos",
+      "answer": "AROMA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Caduco, sem vogais",
+      "answer": "CDC",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um antônimo de fertilidade",
+      "answer": "ARIDEZ",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Mexer",
+      "answer": "MOVER",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Temperamentos, humores",
+      "answer": "ANIMOS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Assento para cavaleiros",
+      "answer": "SELA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Exercício físico para fortalecimento das pernas",
+      "answer": "AGACHO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Objeto fundamental no futebol",
+      "answer": "BOLA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Diz-se de nota elevada na escala musical",
+      "answer": "AGUDA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Empregador",
+      "answer": "DONO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Mestre de obras",
+      "answer": "ALARIFE",
+      "row": 0,
+      "col": 10
+    },
+    "16": {
+      "clue": "Típica dança cubana",
+      "answer": "RUMBA",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "O pintor francês Toulouse (1864-1901)",
+      "answer": "LAUTREC",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Um combustível",
+      "answer": "ALCOOL",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "Compreender",
+      "answer": "ATINAR",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "Mosquito de terrenos pantanosos",
+      "answer": "MERUIM",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Grande maciço montanhoso da Ásia central",
+      "answer": "PAMIR",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Sinal deixado por alguém que caminha na areia",
+      "answer": "RASTO",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Uma variação do tom violeta",
+      "answer": "ROXA",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "O pai em relação ao bisavô",
+      "answer": "NETO",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "Sigla da mais importante federação de futebol",
+      "answer": "FIFA",
+      "row": 7,
+      "col": 6
+    },
+    "34": {
+      "clue": "A pilha palito",
+      "answer": "AAA",
+      "row": 8,
+      "col": 10
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Parte central amarelada do ovo",
+      "answer": "GEMA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Desprender perfumes",
+      "answer": "EXALAR",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "(Nadar em) Ser extremamente rico",
+      "answer": "DINHEIRO",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Fragmentação, separação",
+      "answer": "CISÃO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "A, E, I, O ou U",
+      "answer": "VOGAL",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Uma febre animal",
+      "answer": "AFTOSA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Gír.) Vergonha extrema",
+      "answer": "MICO",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "A atriz Arantes",
+      "answer": "BIA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Cozimento de cevada, ervas etc., geralmente de virtudes medicinais",
+      "answer": "TISANA",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Osvaldo Cruz (1872-1917), médico e sanitarista",
+      "answer": "OC",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Suprimir",
+      "answer": "TIRAR",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Registro Geral",
+      "answer": "RG",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "O país que vive em guerra contra a Palestina",
+      "answer": "ISRAEL",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Tipo de firma",
+      "answer": "MEI",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Pedra preciosa de valor, usada como adorno",
+      "answer": "JOIA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Dar relevo a, por meio de rodeios (falando-se de obras literárias)",
+      "answer": "SINUAR",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "Cidade paulista do sudoeste do estado",
+      "answer": "ASSIS",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "O músico de pop rock Reis",
+      "answer": "NANDO",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Pessoa que vai ser aceita legalmente como filho",
+      "answer": "ADOTANDO",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Cuidadoso",
+      "answer": "ZELOSO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "(Nova) A cidade mais populosa dos EUA",
+      "answer": "YORK",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Prédios, imóveis",
+      "answer": "EDIFICIOS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Misturada",
+      "answer": "MISTA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um personagem como Atchim ou Soneca",
+      "answer": "ANÃO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Emilio Estevez, ator norte-americano",
+      "answer": "EE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Catorze, em romanos",
+      "answer": "XIV",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Espalhar bom cheiro",
+      "answer": "AROMAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Inform., ingl.) Nome que identifica um usuário em um sistema",
+      "answer": "LOGIN",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Objeto cilíndrico e alongado",
+      "answer": "ROLO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Rel.) O pão da missa",
+      "answer": "HOSTIA",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "A parte mais longa da pá",
+      "answer": "CABO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Que coteja, confronta",
+      "answer": "ACAREADOR",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "O escritor paulistano Matias (1705-1763)",
+      "answer": "AIRES",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "A refinaria do cloreto de sódio",
+      "answer": "SALINA",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Que foi alvo de deslealdade",
+      "answer": "TRAIDO",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "(Pop.) Passeio curto",
+      "answer": "GIRO",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Matéria-prima para a fabricação de tapetes e cordas",
+      "answer": "SISAL",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Alguma parte ou divisão da Terra",
+      "answer": "MUNDO",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Estilo musical muito difundido após a guerra de 1914-1918",
+      "answer": "JAZZ",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "A People comediante mineira",
+      "answer": "NANY",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Uma sigla para pedir socorro",
+      "answer": "SOS",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "Terapia Ocupacional",
+      "answer": "TO",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

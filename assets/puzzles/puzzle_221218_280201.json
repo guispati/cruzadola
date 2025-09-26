@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma desportista como Maria Lenk",
+      "answer": "NADADORA",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "(Quím.) O túlio",
+      "answer": "TM",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Oficina de trabalho de artesãos de alta qualidade",
+      "answer": "ATELIE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O atributo de um patinho de história infantil",
+      "answer": "FEIO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Muito ampla",
+      "answer": "VASTA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Consciência individual",
+      "answer": "MENTE",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Mira que se procura atingir",
+      "answer": "ALVO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Cavalo de batalha",
+      "answer": "CORCEL",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "A ela",
+      "answer": "LHE",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Um pedaço de bolo",
+      "answer": "FATIA",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "(Pop.) Série de semáforos abertos sequencialmente",
+      "answer": "ONDAVERDE",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Peça que protege o dedo da costureira",
+      "answer": "DEDAL",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Fica no extremo superior esquerdo do teclado",
+      "answer": "ESC",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Censurar fortemente",
+      "answer": "ATACAR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Senhorita",
+      "answer": "SRTA",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Determinar a extensão",
+      "answer": "MEDIR",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Som para indicar o início e o fim das aulas",
+      "answer": "SINAL",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "(Ingl.) Grande expansão econômica",
+      "answer": "BOOM",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Coice",
+      "answer": "PATADA",
+      "row": 9,
+      "col": 5
+    },
+    "33": {
+      "clue": "Se repetem em corporal",
+      "answer": "OR",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Tornar mais rápido",
+      "answer": "ACELERAR",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Batalha) Jogo de estratégia",
+      "answer": "NAVAL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Caminho que encurta a distância",
+      "answer": "ATALHO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Revelado, conhecido",
+      "answer": "DESVENDADO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Gír.) Embriagado",
+      "answer": "ALTO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O de São Nunca nunca chegará",
+      "answer": "DIA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Pontas de oeste",
+      "answer": "OE",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Ajustar a um padrão",
+      "answer": "AFERIR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Famoso técnico do futebol brasileiro",
+      "answer": "TITE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Um dos miúdos das aves",
+      "answer": "MOELA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Costurar e encapar as folhas de um livro",
+      "answer": "ENCADERNAR",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Negócio que aluga quartos para encontros amororos",
+      "answer": "MOTEL",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Fazer um buraco, uma abertura em",
+      "answer": "CAVAR",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Determinar o destino de",
+      "answer": "FADAR",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "10ª",
+      "answer": "DECIMA",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "Permanência provisória",
+      "answer": "ESTADA",
+      "row": 5,
+      "col": 9
+    },
+    "22": {
+      "clue": "Ritmo afro-cubano de grande popularidade nos anos 1940",
+      "answer": "MAMBO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Impor silêncio a",
+      "answer": "CALAR",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Conteúdo de um texto",
+      "answer": "TEOR",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "(Ingl.) Página da net",
+      "answer": "SITE",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "O tempero mais usado na cozinha",
+      "answer": "SAL",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "O de atleta é uma micose",
+      "answer": "PE",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

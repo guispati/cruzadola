@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Refletor de fotógrafo",
+      "answer": "SPOT",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O escritor Marcel (1871-1922), de \"Em Busca do Tempo Perdido\"",
+      "answer": "PROUST",
+      "row": 0,
+      "col": 5
+    },
+    "11": {
+      "clue": "Prefixo que significa em alto grau",
+      "answer": "HIPER",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Inflamação do gânglio linfático da virilha",
+      "answer": "INGUA",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Extended Play, tipo de gravação de álbuns de música",
+      "answer": "EP",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Outro nome da lesma",
+      "answer": "CUMBE",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "Dóris Monteiro, cantora carioca",
+      "answer": "DM",
+      "row": 2,
+      "col": 9
+    },
+    "18": {
+      "clue": "(Med.) Gordura no sangue",
+      "answer": "LIPEMIA",
+      "row": 3,
+      "col": 0
+    },
+    "20": {
+      "clue": "Abreviatura inglesa usada nos túmulos; significa descanse em paz",
+      "answer": "RIP",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "A Ramalho cantora",
+      "answer": "ELBA",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "(Red.) Veículo como uma Harley-Davidson",
+      "answer": "MOTO",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Pano de mesa",
+      "answer": "ATOALHADO",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Tipo de guindaste para grandes pesos",
+      "answer": "GRUA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Conjunto de ornamentos ricos, preciosos",
+      "answer": "GALA",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Administração",
+      "answer": "ADM",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Estado de sofrimento muito grande",
+      "answer": "MISERIA",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "(Fís.) Méson",
+      "answer": "MU",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Zunzum, mexerico",
+      "answer": "BOATO",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Nara Leão, cantora",
+      "answer": "NL",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "Azeda, não doce",
+      "answer": "AMARA",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Avalanche",
+      "answer": "ALUDE",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "Animal como a tartaruga ou o lagarto",
+      "answer": "REPTIL",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "(Ingl.) Interjeição: de acordo!",
+      "answer": "OKAY",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Multinacional de combustíveis",
+      "answer": "SHELL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Inf.) Xixi",
+      "answer": "PIPI",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Oceano Pacífico",
+      "answer": "OP",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Mulher que trabalha em teares",
+      "answer": "TECELOA",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "Margem elevada de rio",
+      "answer": "RIBA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O valor que está escrito nas notas de um dólar",
+      "answer": "ONE",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Ulysses Guimarães (1916-1992), político",
+      "answer": "UG",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Aquele que depende de uma autoridade soberana",
+      "answer": "SUDITO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Plano da mesa",
+      "answer": "TAMPO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Típica dança cubana",
+      "answer": "RUMBA",
+      "row": 1,
+      "col": 4
+    },
+    "16": {
+      "clue": "Dor muscular, provocada por hipertonia ou traumatismo",
+      "answer": "MIALGIA",
+      "row": 2,
+      "col": 5
+    },
+    "19": {
+      "clue": "Outro nome do tabaco",
+      "answer": "PETUM",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "Em cinema e TV, registrar em filme",
+      "answer": "RODAR",
+      "row": 3,
+      "col": 8
+    },
+    "22": {
+      "clue": "(Anat.) Saliência óssea do tornozelo",
+      "answer": "MALEOLO",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Sabor picante",
+      "answer": "ARDUME",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Leilão",
+      "answer": "HASTA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Ficar gostando muito",
+      "answer": "GAMAR",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "O músico Bill (1925-1981), do rock'n roll",
+      "answer": "HALEY",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Cada uma das grandes estátuas de pedra da ilha de Páscoa (Chile)",
+      "answer": "MOAI",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "(Pop.) Até agora",
+      "answer": "INDA",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Sistema de transporte público adotado no RJ",
+      "answer": "BRT",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "A UF do cabo Orange, no extremo norte do Brasil",
+      "answer": "AP",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "United Kingdom",
+      "answer": "UK",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

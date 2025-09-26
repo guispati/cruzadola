@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Planta com propriedade expectorante",
+      "answer": "GUACO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Inveja amorosa",
+      "answer": "CIUME",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "A capital de um país nórdico",
+      "answer": "OSLO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Estágio inicial do desenvolvimento",
+      "answer": "GERMEN",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Mulher nova",
+      "answer": "RAPARIGA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Ministério da Justiça",
+      "answer": "MJ",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Desobstruído com escavadora subaquática",
+      "answer": "DRAGADO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Canal de TV paga",
+      "answer": "HBO",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "A meta do alpinista",
+      "answer": "CUME",
+      "row": 4,
+      "col": 2
+    },
+    "18": {
+      "clue": "Tribunal de justiça",
+      "answer": "FORO",
+      "row": 4,
+      "col": 7
+    },
+    "19": {
+      "clue": "Uma marca italiana de produtos esportivos",
+      "answer": "FILA",
+      "row": 5,
+      "col": 1
+    },
+    "20": {
+      "clue": "Pele espessa e endurecida",
+      "answer": "CALO",
+      "row": 5,
+      "col": 6
+    },
+    "21": {
+      "clue": "Pode ser de boca e de chão",
+      "answer": "PANO",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "(Pop.) Coisa insignificante",
+      "answer": "JOÇA",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "(Abrev.) Santo",
+      "answer": "STO",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Produzido por transformação, metamorfose",
+      "answer": "MUTANTE",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Interjeição como chamamento ou resposta a um chamamento",
+      "answer": "OI",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Fugir desordenadamente",
+      "answer": "DEBANDAR",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "Pequeno tubo de vidro usado para medicamentos",
+      "answer": "AMPOLA",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "6 vezes",
+      "answer": "HEXA",
+      "row": 9,
+      "col": 7
+    },
+    "32": {
+      "clue": "Cada um dos cânticos da Bíblia atribuídos a David",
+      "answer": "SALMO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Combinar, harmonizar",
+      "answer": "CASAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Não magro",
+      "answer": "GORDO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Trajar",
+      "answer": "USAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ator estadunidense de \"Um Dia de Cão\"",
+      "answer": "ALPACINO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Massa semissólida de sangue",
+      "answer": "COAGULO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Um deficiente visual",
+      "answer": "CEGO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Abelha do Brasil, também chamada abelha-da-terra",
+      "answer": "IRA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "A soma de quatro quartos",
+      "answer": "UM",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Em mecânica, cada uma das partes que, ao funcionarem, fazem que ande uma máquina",
+      "answer": "MEMBRO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Náusea",
+      "answer": "ENJOO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "O francês André (1869-1951), Nobel da literatura",
+      "answer": "GIDE",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "A folhagem das plantas",
+      "answer": "RAMA",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Nascido em Haia ou Amsterdã",
+      "answer": "HOLANDES",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Coisa admirável, notável ou difícil de executar",
+      "answer": "FAÇANHA",
+      "row": 4,
+      "col": 7
+    },
+    "19": {
+      "clue": "A apresentadora de TV e jornalista Bernardes",
+      "answer": "FATIMA",
+      "row": 5,
+      "col": 1
+    },
+    "20": {
+      "clue": "Lado de instrumento cortante oposto ao do gume",
+      "answer": "COTA",
+      "row": 5,
+      "col": 6
+    },
+    "21": {
+      "clue": "Nome de dois músculos abdominais",
+      "answer": "PSOAS",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "Cabeleira abundante",
+      "answer": "JUBA",
+      "row": 6,
+      "col": 5
+    },
+    "23": {
+      "clue": "Acabar com, esgotar",
+      "answer": "ZERAR",
+      "row": 6,
+      "col": 10
+    },
+    "25": {
+      "clue": "O Marcelo especialista nos jogos de dupla, no tênis",
+      "answer": "MELO",
+      "row": 7,
+      "col": 4
+    },
+    "26": {
+      "clue": "Preço fixo regulamentado",
+      "answer": "TAXA",
+      "row": 7,
+      "col": 9
+    },
+    "28": {
+      "clue": "O dê de D. Pedro II",
+      "answer": "DOM",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Projeto de Lei",
+      "answer": "PL",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

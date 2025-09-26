@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Dar a forma de mola ou de caracol a",
+      "answer": "ESPIRALAR",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Que tem os predicados necessários",
+      "answer": "IDONEO",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "A cantora Ozzetti, da MPB",
+      "answer": "NA",
+      "row": 1,
+      "col": 9
+    },
+    "11": {
+      "clue": "Cada um dos tempos de uma luta de boxe",
+      "answer": "ASSALTO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "O hábitat do krill e do polvo",
+      "answer": "MAR",
+      "row": 2,
+      "col": 8
+    },
+    "14": {
+      "clue": "Um irmão do pai",
+      "answer": "TIO",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Uma saudação popular",
+      "answer": "OI",
+      "row": 3,
+      "col": 4
+    },
+    "16": {
+      "clue": "Cada estágio do desenvolvimento de uma pessoa",
+      "answer": "FASE",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Em frente de",
+      "answer": "ANTE",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Pingente para orelha",
+      "answer": "BRINCO",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Característica do que é contrário à verdade",
+      "answer": "FALSIDADE",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Barzinho",
+      "answer": "BOTECO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Órgãos atingidos pela nefrite",
+      "answer": "RINS",
+      "row": 6,
+      "col": 7
+    },
+    "26": {
+      "clue": "Erva-doce",
+      "answer": "ANIS",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Tony Ramos, ator",
+      "answer": "TR",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "Unidade de medida usada em equipamentos de ar condicionado",
+      "answer": "BTU",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "O apresentador de programas de auditório Raul",
+      "answer": "GIL",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "O Cacá cineasta de \"Bye Bye Brasil\"",
+      "answer": "DIEGUES",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "(Abrev.) Diretório Acadêmico",
+      "answer": "DA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Relativo ao rosto",
+      "answer": "FACIAL",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "(Culin.) Uma forma de se servir o frango",
+      "answer": "DESOSSADO",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Diz-se de ciência como a matemática",
+      "answer": "EXATA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Tipo de pavimento para calçadas",
+      "answer": "PISOTATIL",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Ato de ir",
+      "answer": "IDA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Grande onda",
+      "answer": "ROLO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Uma substância como a penicilina ou a estreptomicina",
+      "answer": "ANTIBIOTICO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O cantor e compositor Jaime",
+      "answer": "LEO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Vogais em amor",
+      "answer": "AO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Corrida de cavalos",
+      "answer": "PAREO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Incipiente",
+      "answer": "NASCENTE",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Uma composição musical para orquestras",
+      "answer": "SINFONIA",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "A maxila inferior",
+      "answer": "MANDIBULA",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Vender a crédito",
+      "answer": "FIAR",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "São três em libélula",
+      "answer": "ELES",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "As iniciais do filósofo e matemático Descartes (1596-1650)",
+      "answer": "RD",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "UF vizinha do PR",
+      "answer": "SC",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "A capital do Iraque",
+      "answer": "BAGDA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Medo causado por um fato ameaçador súbito e inesperado",
+      "answer": "SUSTO",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "São quatro em um baralho",
+      "answer": "REIS",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Documento de Arrecadação do Simples",
+      "answer": "DAS",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Xe ou Rn",
+      "answer": "GAS",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "A convicção que remove montanhas",
+      "answer": "FE",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

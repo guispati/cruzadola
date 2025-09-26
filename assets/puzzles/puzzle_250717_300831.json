@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "O palácio sede do museu da República (RJ)",
+      "answer": "CATETE",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "A lã que cobre a pele do carneiro",
+      "answer": "VELO",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "(Ser de) Ter comportamento instável",
+      "answer": "LUA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Conduzir uma embarcação a reboque",
+      "answer": "REBOCAR",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Contrário à lei",
+      "answer": "ILEGAL",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "O símbolo químico do califórnio",
+      "answer": "CF",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "(Banana) Um sorvete com fruta",
+      "answer": "SPLIT",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Capital do Irã",
+      "answer": "TEERÃ",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "A atriz mexicana Hayek, de \"Frida\"",
+      "answer": "SALMA",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Potências do) Alemanha, Itália e Japão, durante a II Guerra Mundial",
+      "answer": "EIXO",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "N",
+      "answer": "ENE",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Pronto Socorro Municipal",
+      "answer": "PSM",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "Indivíduo de uma grande nação de índios brasileiros",
+      "answer": "TUPI",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Vento do litoral, suave, fresco, agradável",
+      "answer": "BRISA",
+      "row": 6,
+      "col": 6
+    },
+    "30": {
+      "clue": "Uma ameaça à saúde dos dentes",
+      "answer": "CARIE",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "A capital Buenos",
+      "answer": "AIRES",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Verona sem Vera",
+      "answer": "ON",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Árvore de até 30 metros, também chamada rabo-de-arara",
+      "answer": "ANDIRA",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Um candidato a Papa",
+      "answer": "CARDEAL",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Ácido desoxirribonucleico",
+      "answer": "DNA",
+      "row": 9,
+      "col": 8
+    },
+    "39": {
+      "clue": "Bulbo usado na alimentação",
+      "answer": "ALHO",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "O pintor francês Auguste (1841-1919)",
+      "answer": "RENOIR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Em matemática, conjunto",
+      "answer": "CLASSE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Som que imita o latido de um cão",
+      "answer": "AU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Fr.) Uma roupa feminina",
+      "answer": "TAILLEUR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Artifício desonesto",
+      "answer": "TRETA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Abreviatura de eletrencefalograma",
+      "answer": "EEG",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Jogo entre duas equipes, em quadra retangular dividida por uma rede",
+      "answer": "VOLEI",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Euclides da Cunha (1866-1909), escritor de \"Os Sertões\"",
+      "answer": "EC",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Esporte semelhante ao hóquei, praticado sobretudo no Canadá",
+      "answer": "LACROSSE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Aquela que perdeu os pais",
+      "answer": "ORFÃ",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "(-bola) Troca de passes, antes do jogo, para aquecimento",
+      "answer": "BATE",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "(Matem.) Limite",
+      "answer": "LIM",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "Grande baixada inundada, junto às margens de rios",
+      "answer": "PANTANAL",
+      "row": 3,
+      "col": 1
+    },
+    "19": {
+      "clue": "Com o prazo de validade vencido",
+      "answer": "EXPIRADO",
+      "row": 3,
+      "col": 8
+    },
+    "24": {
+      "clue": "Ruminar",
+      "answer": "MASCAR",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Voz do morcego",
+      "answer": "PIADO",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Um padrão monetário asiático",
+      "answer": "IENE",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "(Pop.) Jogo vencido com facilidade",
+      "answer": "BAILE",
+      "row": 6,
+      "col": 6
+    },
+    "29": {
+      "clue": "Mostrar alegria",
+      "answer": "RIR",
+      "row": 6,
+      "col": 7
+    },
+    "30": {
+      "clue": "Uma substância narcótica",
+      "answer": "COCA",
+      "row": 7,
+      "col": 0
+    },
+    "34": {
+      "clue": "Ceder gratuitamente o que se tem",
+      "answer": "DAR",
+      "row": 8,
+      "col": 5
+    },
+    "36": {
+      "clue": "Um fator de hereditariedade",
+      "answer": "RH",
+      "row": 9,
+      "col": 2
+    },
+    "38": {
+      "clue": "(Quím.) O níquel",
+      "answer": "NI",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

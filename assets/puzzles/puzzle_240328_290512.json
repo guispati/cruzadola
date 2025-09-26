@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Praticumbum Prugurundum) Enredo da Império Serrano, de 1982",
+      "answer": "BUMBUM",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "A vasilha para o mate",
+      "answer": "CUIA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Animal parecido com o cavalo, mas geralmente menor",
+      "answer": "ASNO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Colocar açúcar, mel etc.",
+      "answer": "ADOÇAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Fernando Pessoa, poeta português",
+      "answer": "FP",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Mulher excêntrica, bizarra",
+      "answer": "RATONA",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Pato dos desenhos animados e gibis",
+      "answer": "DONALD",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Victor Meirelles (1832-1903), pintor catarinense",
+      "answer": "VM",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "A atriz Demi, de \"Striptease\" e \"Assédio Sexual\"",
+      "answer": "MOORE",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Reprodução fiel de obra de arte",
+      "answer": "COPIA",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Grande afluente do rio Amazonas",
+      "answer": "TROMBETAS",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Praça larga",
+      "answer": "ROSSIO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "O tempo passado",
+      "answer": "IDOS",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Grito de angústia",
+      "answer": "ULO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Cargo de professor de disciplina universitária ocupado por professor titular",
+      "answer": "CATEDRA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "O bismuto, em química",
+      "answer": "BI",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Gago, tartamudo",
+      "answer": "TATARO",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "O maior vulcão ativo da Europa, na Itália",
+      "answer": "ETNA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Cunha usada para prender algo",
+      "answer": "ATOCHO",
+      "row": 9,
+      "col": 5
+    },
+    "36": {
+      "clue": "Importante cidade potiguar",
+      "answer": "MOSSORO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "(Fr.) Aperitivo feito com cassis e vinho",
+      "answer": "KIR",
+      "row": 10,
+      "col": 8
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Cheiro desagradável",
+      "answer": "BAFUM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A instituição educacional com FEA, POLI e FAU",
+      "answer": "USP",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Milton Nascimento, músico de \"Travessia\"",
+      "answer": "MN",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Tribo indígena de Mato Grosso, uma das maiores do Brasil central",
+      "answer": "BOROROS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(de São João) A cidade baiana com a praia do Forte",
+      "answer": "MATA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Aventureiro",
+      "answer": "CONDOTIERO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Espécie de caranguejo",
+      "answer": "UÇA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Itamar Assumpção (1949-2003), músico",
+      "answer": "IA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O cheiro dos alimentos",
+      "answer": "AROMA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "(Mús.) Com expressão suave",
+      "answer": "DOLCE",
+      "row": 1,
+      "col": 6
+    },
+    "15": {
+      "clue": "Que tem o sangue fraco (fem.)",
+      "answer": "ANEMICA",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Região posterior do tronco correspondente às vértebras",
+      "answer": "DORSO",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Mostrador",
+      "answer": "VISOR",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Cristal de carbonato de cálcio que se encontra no interior do ouvido",
+      "answer": "OTOLITO",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "(Ingl.) Área em que os carros de F1 são preparados antes da corrida",
+      "answer": "PADDOCK",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Propalar notícias infundadas",
+      "answer": "BOATAR",
+      "row": 5,
+      "col": 5
+    },
+    "24": {
+      "clue": "O escritor Braga, de \"O Conde e o Passarinho\"",
+      "answer": "RUBEM",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "O sentido do paladar",
+      "answer": "SABOR",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "(Fig.) Jeito, habilidade",
+      "answer": "TATO",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "O apresentador de TV Marcelo",
+      "answer": "TAS",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Nosso Senhor",
+      "answer": "NS",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Oi, em Nova York",
+      "answer": "HI",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

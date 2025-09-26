@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma antiga arma de fogo",
+      "answer": "BACAMARTE",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "O salva-vidas ajuda a flutuar na água",
+      "answer": "COLETE",
+      "row": 1,
+      "col": 1
+    },
+    "10": {
+      "clue": "Nelson Freire, pianista",
+      "answer": "NF",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "Uma maneira de demonstrar alegria",
+      "answer": "RIR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Perda da umidade, enxugamento",
+      "answer": "SECAGEM",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Em Mãos (abreviatura usada em correspondências)",
+      "answer": "EM",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Uma forma de psicose",
+      "answer": "PARANOIA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Um meio de orientação",
+      "answer": "MAPA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Cadenciar",
+      "answer": "RITMAR",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Coisa desprezível",
+      "answer": "ESCORIA",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Entrar em crise psicótica",
+      "answer": "SURTAR",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Nível, índice",
+      "answer": "GRAU",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Palavra equivalente",
+      "answer": "SINONIMO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Apelido de Geraldo",
+      "answer": "GE",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Apego excessivo ao dinheiro",
+      "answer": "AVAREZA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "De + os",
+      "answer": "DOS",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Ordem do Dia",
+      "answer": "OD",
+      "row": 9,
+      "col": 1
+    },
+    "33": {
+      "clue": "Vocalista",
+      "answer": "CANTOR",
+      "row": 9,
+      "col": 4
+    },
+    "35": {
+      "clue": "Plantio de arbustos de cujas folhas se nutre o bicho-da-seda",
+      "answer": "AMOREIRAL",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Na parte mais elevada",
+      "answer": "ACIMA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Substância corante para tingir",
+      "answer": "COR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O ator Pacino, de \"Perfume de Mulher\"",
+      "answer": "AL",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Móvel para refeições e trabalho",
+      "answer": "MESA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Fazer medo",
+      "answer": "ATERRORIZAR",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Pesar (falando de culpas ou responsabilidades)",
+      "answer": "RECAIR",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Passar roupa a ferro",
+      "answer": "ENGOMAR",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "O antônimo de bonita",
+      "answer": "FEIA",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Envio de mercadorias",
+      "answer": "REMESSA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Que existiu em outros tempos",
+      "answer": "ANTIGO",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "(de Sapucaí) A avenida do sambódromo do Rio de Janeiro",
+      "answer": "MARQUES",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Cão próprio para proteger rebanhos",
+      "answer": "PASTOR",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Cada movimento dos membros inferiores, em natação",
+      "answer": "PERNADA",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Um recipiente para líquidos",
+      "answer": "CANECO",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Voz prolongada dos cães",
+      "answer": "UIVO",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Já",
+      "answer": "AGORA",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "(Gír.) Aquele que é pouco inteligente, fácil de enganar",
+      "answer": "MANE",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Sensação penosa",
+      "answer": "DOR",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "O símbolo químico do titânio",
+      "answer": "TI",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

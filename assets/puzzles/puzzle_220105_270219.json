@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Respiração forte e prolongada, devido a uma emoção",
+      "answer": "SUSPIRO",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "O Peter da \"Terra do Nunca\"",
+      "answer": "PAN",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Empregar com frequência",
+      "answer": "USAR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Luanda é a capital desta nação",
+      "answer": "ANGOLA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "(Bíbl.) Torre erguida para escalar o céu",
+      "answer": "BABEL",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Produzir som agudo e sibilante",
+      "answer": "ZUNIR",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Afrouxar",
+      "answer": "DESAPERTAR",
+      "row": 3,
+      "col": 1
+    },
+    "18": {
+      "clue": "Desfile militar",
+      "answer": "PARADA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "(Amaz.) Sereia de rios e lagos",
+      "answer": "IARA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Oi!",
+      "answer": "OPA",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "Os óvulos fecundados de um peixe",
+      "answer": "OVAS",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "O ator mineiro Antônio",
+      "answer": "ANGELO",
+      "row": 6,
+      "col": 5
+    },
+    "30": {
+      "clue": "Degolado",
+      "answer": "DECAPITADO",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Que não é semelhante a nenhuma outra",
+      "answer": "UNICA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Deste modo, portanto",
+      "answer": "ASSIM",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Índio de tribo que habitava o litoral do RJ",
+      "answer": "TAMOIO",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Tronco de madeira",
+      "answer": "TORA",
+      "row": 9,
+      "col": 7
+    },
+    "38": {
+      "clue": "Nos estádios, manifestação em movimento de onda",
+      "answer": "OLA",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Relativo à estação do ano que precede o inverno",
+      "answer": "OUTONAL",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Pref.: inferioridade",
+      "answer": "SUB",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Não nova",
+      "answer": "USADA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ter capacidade para, conseguir",
+      "answer": "SABER",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Encarcerada",
+      "answer": "PRESA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Quím.) O símbolo do rádio",
+      "answer": "RA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "11",
+      "answer": "ONZE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Extremidade de qualquer coisa",
+      "answer": "PONTA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Estabelecer união ou ligação",
+      "answer": "ALIAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Contado, descrito",
+      "answer": "NARRADO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Garoto",
+      "answer": "GURI",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Facção, grupo",
+      "answer": "LADO",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "O Noel de 25 de dezembro",
+      "answer": "PAPAI",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "O pê do PIB",
+      "answer": "PRODUTO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Um grande animal da fauna brasileira",
+      "answer": "ANTA",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Um valor no IPTU",
+      "answer": "VENAL",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Em lugar mais alto",
+      "answer": "ACIMA",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "(Gír.) Chateação, amolação, chatice",
+      "answer": "SACO",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Despesa",
+      "answer": "GASTO",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "O nome de Celulari e de Pelé",
+      "answer": "EDSON",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Mulher de cabelos claros",
+      "answer": "LOIRA",
+      "row": 6,
+      "col": 9
+    },
+    "31": {
+      "clue": "Entra na feijoada",
+      "answer": "PAIO",
+      "row": 7,
+      "col": 4
+    },
+    "34": {
+      "clue": "De maneira insatisfatória",
+      "answer": "MAL",
+      "row": 8,
+      "col": 10
+    },
+    "36": {
+      "clue": "Conjunção que sugere opção",
+      "answer": "OU",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

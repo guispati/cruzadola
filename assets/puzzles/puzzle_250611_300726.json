@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Fúnebre (fem.)",
+      "answer": "MACABRA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Em consequência",
+      "answer": "DAI",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Neste instante",
+      "answer": "AGORA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O escritor Marcelo Rubens, de \"O Homem Ridículo\"",
+      "answer": "PAIVA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Devolver ao dono",
+      "answer": "RESTITUIR",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Do Japão ou do Nepal",
+      "answer": "ASIATICO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Vânia Abreu, cantora baiana",
+      "answer": "VA",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "As partes do corpo que o ápode não possui",
+      "answer": "PES",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Pobreza de glóbulos vermelhos no sangue",
+      "answer": "ANEMIA",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Diante de",
+      "answer": "ANTE",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Em que lugar?",
+      "answer": "ONDE",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "O time em que Pelé se tornou o rei do futebol",
+      "answer": "SANTOS",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "A da neve é branca",
+      "answer": "COR",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Graça Aranha (1868-1931), escritor",
+      "answer": "GA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "O corte do velo das ovelhas",
+      "answer": "TOSADURA",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "Apertar muito",
+      "answer": "ATARRACAR",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Governar",
+      "answer": "REGER",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Uma justificativa para o acusado",
+      "answer": "ALIBI",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "A cantora do sucesso \"Meu Talismã\"",
+      "answer": "IZA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Do AC",
+      "answer": "ACRIANO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A capital do Amapá, cortada pela linha do Equador",
+      "answer": "MACAPA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Alanis Guillen, atriz paulista",
+      "answer": "AG",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Pessoa que canta num conjunto de vozes",
+      "answer": "CORISTA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(de lazer) Espaço comum em condomínios",
+      "answer": "AREA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Interj.: chega!",
+      "answer": "BASTA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "A ponta do cone",
+      "answer": "APICE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Dispositivo usado como anticoncepcional",
+      "answer": "DIU",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Que anima, desperta",
+      "answer": "AVIVADOR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Palmeira de que se extraem fibras para obras trançadas",
+      "answer": "IARA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Partícula material microscópica",
+      "answer": "ATOMO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Nojenta",
+      "answer": "TINHOSA",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Prudência, precaução",
+      "answer": "SENSATEZ",
+      "row": 3,
+      "col": 1
+    },
+    "20": {
+      "clue": "Descuido",
+      "answer": "INCURIA",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "No meio",
+      "answer": "ENTRE",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Tesouro público e seus órgãos administrativos",
+      "answer": "ERARIO",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Ato de tornar muito seco",
+      "answer": "TORRA",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "Tirar dinheiro da conta corrente",
+      "answer": "SACAR",
+      "row": 6,
+      "col": 6
+    },
+    "29": {
+      "clue": "Um trabalhador da limpeza urbana",
+      "answer": "GARI",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "O pintor espanhol Salvador (1904-1989)",
+      "answer": "DALI",
+      "row": 7,
+      "col": 7
+    },
+    "33": {
+      "clue": "H",
+      "answer": "AGA",
+      "row": 8,
+      "col": 2
+    },
+    "36": {
+      "clue": "Biblioteca Nacional",
+      "answer": "BN",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

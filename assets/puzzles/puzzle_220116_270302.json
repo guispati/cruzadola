@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma raça de gado bovino",
+      "answer": "ZEBU",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "A voz da ovelha",
+      "answer": "BALIDO",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "(Loc.) Ação drástica, de medidas rigorosas e até violentas, contra qualquer coisa",
+      "answer": "LINHADURA",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Senhor, em inglês",
+      "answer": "MISTER",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Música popular portuguesa, melancólica",
+      "answer": "FADO",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Colocar à mostra",
+      "answer": "EXPOR",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Determinar o destino de",
+      "answer": "FADAR",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "Voz de um siamês",
+      "answer": "MIO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Na forma da bola de rúgbi",
+      "answer": "OVADO",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "O símbolo químico do bromo",
+      "answer": "BR",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Instrumento de cordas, comum na música rural brasileira",
+      "answer": "VIOLA",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "1/10 de LX",
+      "answer": "VI",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Shampoo usado para tratar e amaciar o cabelo",
+      "answer": "RINSE",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Um carro da Honda",
+      "answer": "FIT",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "O símbolo de Ohm",
+      "answer": "OMEGA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Peça íntima do vestuário masculino",
+      "answer": "CUECA",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "Um papel colecionável",
+      "answer": "SELO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Suspenso (ponte, jardim etc.)",
+      "answer": "PENSIL",
+      "row": 8,
+      "col": 5
+    },
+    "31": {
+      "clue": "Um fragmento de matéria cósmica como o Bendengó",
+      "answer": "METEORITO",
+      "row": 9,
+      "col": 1
+    },
+    "33": {
+      "clue": "O G de MG",
+      "answer": "GERAIS",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Que dá pé",
+      "answer": "RASO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Bebida dotada de poderes mágicos",
+      "answer": "ELIXIR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Peça do xadrez, anda nas diagonais",
+      "answer": "BISPO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Gordura",
+      "answer": "UNTO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Móvel para bebidas alcoólicas",
+      "answer": "BAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Alain Delon, ator francês",
+      "answer": "AD",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Rajada de vento",
+      "answer": "LUFADA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Furioso",
+      "answer": "IRADO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O Maravilha, um dos maiores artilheiros do futebol brasileiro",
+      "answer": "DADA",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Mulher que é a principal personagem de uma obra de literatura, cinema etc.",
+      "answer": "HEROINA",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Os inferiores são pernas e pés",
+      "answer": "MEMBROS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Relativo à trajetória de um corpo celeste",
+      "answer": "ORBITAL",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Morrer (ser humano)",
+      "answer": "FALECER",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Segunda pessoa do plural",
+      "answer": "VOS",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Sarrafo, ripa",
+      "answer": "VIGOTA",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Hábitos nocivos",
+      "answer": "VICIOS",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Repassar",
+      "answer": "RELER",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Reunião alegre para todos se divertirem",
+      "answer": "FESTA",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "(Neol.) Post que se multiplica facilmente",
+      "answer": "MEME",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Ligar, atar",
+      "answer": "UNIR",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Depois de",
+      "answer": "POS",
+      "row": 8,
+      "col": 5
+    },
+    "32": {
+      "clue": "Psiu!",
+      "answer": "EI",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

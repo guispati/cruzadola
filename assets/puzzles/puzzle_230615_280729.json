@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Mogi) Cidade do interior paulista, próxima a Campinas",
+      "answer": "MIRIM",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Lugar de criação de pastores",
+      "answer": "CANIL",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Discussão pública",
+      "answer": "DEBATE",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Em consequência",
+      "answer": "DAI",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "(Pop.) Madrinha",
+      "answer": "DINDA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Pó vermelho usado como condimento",
+      "answer": "COLORAU",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "Lamartine Babo (1904-1963), músico de \"Linda Morena\"",
+      "answer": "LB",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "(Pop.) Cinema",
+      "answer": "TELONA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Sunga",
+      "answer": "MAIO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Preparação da terra para o plantio",
+      "answer": "ARADA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Modelo pelo qual se reproduz algo",
+      "answer": "MOLDE",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Repartição, agência",
+      "answer": "BIRO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "O rio sagrado dos hindus",
+      "answer": "GANGES",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Bolo de farinha e ovos, muito fino",
+      "answer": "LO",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Ingl.) Patinete",
+      "answer": "SCOOTER",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Todavia",
+      "answer": "POREM",
+      "row": 8,
+      "col": 2
+    },
+    "29": {
+      "clue": "Em tal quantidade",
+      "answer": "TÃO",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Promover",
+      "answer": "ELEVAR",
+      "row": 9,
+      "col": 4
+    },
+    "34": {
+      "clue": "Um molusco comestível",
+      "answer": "OSTRA",
+      "row": 10,
+      "col": 1
+    },
+    "35": {
+      "clue": "Quantidade que é uma unidade menor que quatro",
+      "answer": "TRES",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Abreviatura de idem, que significa o mesmo",
+      "answer": "ID",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Saracotear",
+      "answer": "REBOLAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Inezita Barroso (1925-2015), cantora e apresentadora",
+      "answer": "IB",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Escultura da Virgem Santíssima",
+      "answer": "MADONA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Decoração teatral",
+      "answer": "CENA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Resposta de prova",
+      "answer": "NDA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Igreja Adventista",
+      "answer": "IA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Um português da capital",
+      "answer": "LISBOES",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Pop.) Investigador",
+      "answer": "TIRA",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "O ator José, de \"Abril Despedaçado\"",
+      "answer": "DUMONT",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "(Quím.) O elemento Ce",
+      "answer": "CERIO",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Lamacento",
+      "answer": "LODOSO",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "O primeiro colocado",
+      "answer": "LIDER",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Um tipo de computador pessoal",
+      "answer": "TABLET",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Prender os pulsos do detido",
+      "answer": "ALGEMAR",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Fundador do Islamismo, profeta do povo árabe",
+      "answer": "MAOME",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Abertura que separa a boca da faringe",
+      "answer": "GOELA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Considerar verdadeira alguma coisa",
+      "answer": "CRER",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "(Red.) Uma formação acadêmica superior",
+      "answer": "POS",
+      "row": 8,
+      "col": 2
+    },
+    "30": {
+      "clue": "Um sufixo aumentativo",
+      "answer": "ÃO",
+      "row": 9,
+      "col": 1
+    },
+    "32": {
+      "clue": "Abrev.: videoteipe",
+      "answer": "VT",
+      "row": 9,
+      "col": 7
+    },
+    "33": {
+      "clue": "(Mús.) A nota entre o dó e o mi",
+      "answer": "RE",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Pal. fr.) Grande cozinheiro de estabelecimento refinado",
+      "answer": "CHEF",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "Sentir-se dominado por paixão ou perturbação dificilmente contida",
+      "answer": "FREMIR",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "K.O., no boxe",
+      "answer": "NOCAUTE",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "(Fís.) O símbolo de Curie",
+      "answer": "CI",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Pão de) Geralmente é cortado em fatias",
+      "answer": "FORMA",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "As iniciais do guitarrista inglês Clapton",
+      "answer": "EC",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Antigo vaso para água",
+      "answer": "ANFORA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Ingl.) A hora mais movimentada",
+      "answer": "RUSH",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Até que enfim!",
+      "answer": "UFA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "No comércio, funcionário encarregado dos documentos fiscais",
+      "answer": "NOTISTA",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Uma planta marinha",
+      "answer": "ALGA",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Um brinquedo que sobe e desce",
+      "answer": "IOIO",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Entravar, embaraçar",
+      "answer": "AMARRAR",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Meio número",
+      "answer": "NUM",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Um instrumento musical de cordas da antiguidade clássica",
+      "answer": "LIRA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Casa noturna de espetáculos de variedades",
+      "answer": "CABARE",
+      "row": 7,
+      "col": 5
+    },
+    "32": {
+      "clue": "Volt-ampère",
+      "answer": "VA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Levemente molhado",
+      "answer": "UMIDO",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "(Rád.) Ondas Tropicais",
+      "answer": "OT",
+      "row": 8,
+      "col": 9
+    },
+    "36": {
+      "clue": "Cada item de uma produção em série",
+      "answer": "UNIDADE",
+      "row": 9,
+      "col": 2
+    },
+    "38": {
+      "clue": "Outro nome do gergelim, semente alimentícia",
+      "answer": "SESAMO",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "(Fig.) Ponto de equilíbrio ou de controle",
+      "answer": "EIXO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O fruto que vira chocolate",
+      "answer": "CACAU",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O que transforma anta em antena",
+      "answer": "EN",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "(Pop.) Bonito e gracioso",
+      "answer": "FOFO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Título dos reis do antigo Egito",
+      "answer": "FARAO",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "Um ingrediente da cuba-libre",
+      "answer": "RUM",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Que diz respeito à idade",
+      "answer": "ETARIO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O balido dos ovinos",
+      "answer": "ME",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Fenda ou sulco causado por ruptura",
+      "answer": "RACHA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Dar a forma de chifre a",
+      "answer": "CORNAR",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Desonra pública e grave",
+      "answer": "INFAMIA",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Explosão",
+      "answer": "ESTOURO",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Conversar, dialogar",
+      "answer": "FALAR",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Indústria que produz açúcar e álcool em grande escala",
+      "answer": "USINA",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Excluída, colocada para fora",
+      "answer": "TIRADA",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Ave de plumagem preta e canto forte e melodioso",
+      "answer": "GRAUNA",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "O político Rodrigues, Presidente da República entre 1902-1906",
+      "answer": "ALVES",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Substância com o pH inferior a 7",
+      "answer": "ACIDO",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Unidade de medida de 100 centímetros",
+      "answer": "METRO",
+      "row": 6,
+      "col": 10
+    },
+    "31": {
+      "clue": "(Fig.) Homem muito feio",
+      "answer": "BODE",
+      "row": 7,
+      "col": 7
+    },
+    "34": {
+      "clue": "(Por) Na minha opinião",
+      "answer": "MIM",
+      "row": 8,
+      "col": 4
+    },
+    "36": {
+      "clue": "Abreviatura inglesa de Estados Unidos (principalmente nos dólares)",
+      "answer": "US",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "Estado Islâmico",
+      "answer": "EI",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "O ator Prado das novelas",
+      "answer": "OSMAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O ator Murphy",
+      "answer": "EDDIE",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "O estado que estimula as dores reumáticas",
+      "answer": "UMIDADE",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Comissão de Justiça",
+      "answer": "CJ",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "A região que dói na isquialgia",
+      "answer": "ANCA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "A cachaça de peruanos e chilenos, feita à base de uvas",
+      "answer": "PISCO",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "(Matem.) Máximo Divisor Comum",
+      "answer": "MDC",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Observar, considerar",
+      "answer": "NOTAR",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "A mais comum das contrações",
+      "answer": "AO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Ginástica rítmica feita em movimentos rápidos",
+      "answer": "AEROBICA",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "(Mús.) O ritmo próprio do jazz",
+      "answer": "SWING",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Tocar de leve",
+      "answer": "RASAR",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Estabelecer",
+      "answer": "INSTALAR",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Sigla) Regimento de Infantaria",
+      "answer": "RI",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Que tem pouca espessura",
+      "answer": "SUTIL",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Abreviatura (em português) de Lesoto",
+      "answer": "LES",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Um analgésico muito consumido",
+      "answer": "DORIL",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "Tempo com falta de chuvas",
+      "answer": "SECA",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "(Quím.) Níquel",
+      "answer": "NI",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "A obra-prima do escritor escocês Walter Scott (1819)",
+      "answer": "IVANHOE",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Um famoso portal da internet",
+      "answer": "YAHOO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "O marido da filha",
+      "answer": "GENRO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Uma marca de protetor solar",
+      "answer": "SUNDOWN",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "2.200, em algarismos romanos",
+      "answer": "MMCC",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Dama de companhia",
+      "answer": "AIA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Regina Duarte, atriz",
+      "answer": "RD",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Relativo à produção de livros, jornais e revistas",
+      "answer": "EDITORAL",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Vir abaixo",
+      "answer": "DESABAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Planta das regiões da caatinga",
+      "answer": "ICO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "As iniciais do ex-lutador de boxe Jofre",
+      "answer": "EJ",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Colocar uma coisa sobre a outra",
+      "answer": "APOR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Mulher que vive com um homem, sem estar com ele casada",
+      "answer": "AMASIA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Um apelido para Cristiane",
+      "answer": "CRIS",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Um dos polos da pilha",
+      "answer": "NEGATIVO",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "A atriz Orth, famosa pela personagem \"Magda\"",
+      "answer": "MARISA",
+      "row": 3,
+      "col": 10
+    },
+    "20": {
+      "clue": "Linda flor ornamental",
+      "answer": "ANTURIO",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Não ter",
+      "answer": "CARECER",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Pronome demonstrativo",
+      "answer": "ISSO",
+      "row": 5,
+      "col": 2
+    },
+    "26": {
+      "clue": "Tonalidade bastante clara da cor roxa",
+      "answer": "LILA",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "O Tolstoi (1828-1910), de \"Ana Karenina\"",
+      "answer": "LEON",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Um sétimo da semana",
+      "answer": "DIA",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "(Ingl.) Ela",
+      "answer": "SHE",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Nova York",
+      "answer": "NY",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Nomenclatura Geral",
+      "answer": "NG",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

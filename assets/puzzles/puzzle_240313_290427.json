@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "O dedo mínimo",
+      "answer": "MINDIM",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Com adição de",
+      "answer": "MAIS",
+      "row": 0,
+      "col": 7
+    },
+    "11": {
+      "clue": "O político Brizola (1922-2004)",
+      "answer": "LEONEL",
+      "row": 1,
+      "col": 1
+    },
+    "13": {
+      "clue": "A ele ou a ela",
+      "answer": "LHE",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "(Esp.) Chute forte",
+      "answer": "TIRO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Peça afunilada usada para sinalização",
+      "answer": "CONE",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "O músico estadunidense Charles, intérprete de rhythm and blues",
+      "answer": "RAY",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Oferenda a Exu, especialmente nas encruzilhadas",
+      "answer": "MACUMBA",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Emenda Constitucional",
+      "answer": "EC",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Predece o agá",
+      "answer": "GE",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Um personagem como Dunga ou Soneca",
+      "answer": "ANÃO",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Habituais, usuais",
+      "answer": "COMUNS",
+      "row": 5,
+      "col": 0
+    },
+    "26": {
+      "clue": "Dezesseis menos nove",
+      "answer": "SETE",
+      "row": 5,
+      "col": 7
+    },
+    "28": {
+      "clue": "A véspera de hoje",
+      "answer": "ONTEM",
+      "row": 6,
+      "col": 2
+    },
+    "30": {
+      "clue": "(Red.) Instrumento de sopro muito utilizado no jazz",
+      "answer": "SAX",
+      "row": 6,
+      "col": 8
+    },
+    "31": {
+      "clue": "Agarrar-se com firmeza a uma ideia, uma resolução",
+      "answer": "OBSTINAR",
+      "row": 7,
+      "col": 0
+    },
+    "34": {
+      "clue": "Responsável Técnico",
+      "answer": "RT",
+      "row": 7,
+      "col": 9
+    },
+    "35": {
+      "clue": "Um trabalho de cuteleiro",
+      "answer": "ACERAGEM",
+      "row": 8,
+      "col": 1
+    },
+    "37": {
+      "clue": "O conjunto das plantas de uma região",
+      "answer": "FLORA",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Loja em que se vende óculos, lentes etc.",
+      "answer": "OTICA",
+      "row": 9,
+      "col": 6
+    },
+    "40": {
+      "clue": "Peixe de água-doce, um dos maiores da América do Sul",
+      "answer": "JAU",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "Outro nome do gergelim, semente alimentícia",
+      "answer": "SESAMO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "(Anat.) Osso par que ocupa as partes laterais da bacia e se articula posteriormente com o sacro",
+      "answer": "ILIACO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A poetisa Adalgisa",
+      "answer": "NERY",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Scooby-) Um cão da Hanna-Barbera",
+      "answer": "DOO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O índio, entre os químicos",
+      "answer": "IN",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Cidade santa da Arábia Saudita",
+      "answer": "MECA",
+      "row": 0,
+      "col": 5
+    },
+    "8": {
+      "clue": "Os conterrâneos de Bach, Beethoven e Mendelssohn",
+      "answer": "ALEMÃES",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Interjeição de impressão de perigo próximo",
+      "answer": "IH",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "(Fig.) Pessoa muito amável ou delicada",
+      "answer": "SEDA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Pequena gruta",
+      "answer": "LOCA",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Espaço ou lugar",
+      "answer": "TRECHO",
+      "row": 2,
+      "col": 0
+    },
+    "16": {
+      "clue": "Em uns",
+      "answer": "NUNS",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "Afirmações contrárias à verdade",
+      "answer": "MENTIRAS",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Pôr para fora, expelir",
+      "answer": "BOTAR",
+      "row": 3,
+      "col": 9
+    },
+    "21": {
+      "clue": "O escritor alemão Grass (1927-2015), de \"O Tambor\", Nobel de 1999",
+      "answer": "GUNTER",
+      "row": 4,
+      "col": 3
+    },
+    "24": {
+      "clue": "A segunda cidade mais populosa da Europa",
+      "answer": "MOSCOU",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Rio da França, banha Paris",
+      "answer": "SENA",
+      "row": 5,
+      "col": 5
+    },
+    "27": {
+      "clue": "Extraordinário",
+      "answer": "EXTRA",
+      "row": 5,
+      "col": 10
+    },
+    "29": {
+      "clue": "(Rel.) Os reis que foram adorar Jesus",
+      "answer": "MAGOS",
+      "row": 6,
+      "col": 6
+    },
+    "32": {
+      "clue": "(Trem-) Um transporte de alta velocidade",
+      "answer": "BALA",
+      "row": 7,
+      "col": 1
+    },
+    "33": {
+      "clue": "A linha sem curvas",
+      "answer": "RETA",
+      "row": 7,
+      "col": 7
+    },
+    "36": {
+      "clue": "Forma oblíqua de eu",
+      "answer": "MIM",
+      "row": 8,
+      "col": 8
+    },
+    "37": {
+      "clue": "Fábio Jr, cantor paulistano",
+      "answer": "FJ",
+      "row": 9,
+      "col": 0
+    },
+    "39": {
+      "clue": "A abreviatura da região com MT e o DF",
+      "answer": "CO",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

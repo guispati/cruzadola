@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(tie) Smoking",
+      "answer": "BLACK",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O ator estadunidense Tom, de \"Náufrago\"",
+      "answer": "HANKS",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Concorrentes",
+      "answer": "RIVAIS",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Qualquer vaso sanguíneo",
+      "answer": "VEIA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Uma inflamação no abdomen",
+      "answer": "APENDICITE",
+      "row": 2,
+      "col": 0
+    },
+    "16": {
+      "clue": "Chão",
+      "answer": "SOLO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "A avó do minha mãe",
+      "answer": "BISAVO",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "(Fig.) Coisa atraente",
+      "answer": "IMÃ",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Daquelas mulheres",
+      "answer": "DELAS",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "A nota usada para dar a entoação",
+      "answer": "LA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Expulsar o feto do útero",
+      "answer": "PARIR",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Variação de tu",
+      "answer": "TI",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "(Abrev.) Paralisia infantil",
+      "answer": "POLIO",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Uma marca de carros",
+      "answer": "JAC",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Perda da voz",
+      "answer": "AFONIA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Cume",
+      "answer": "TOPO",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Que se pode fazer parar de correr (líquido)",
+      "answer": "ESTANCAVEL",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "A cidade italiana com a torre inclinada",
+      "answer": "PISA",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Composição musical para oito instrumentos",
+      "answer": "OCTETO",
+      "row": 9,
+      "col": 5
+    },
+    "33": {
+      "clue": "(Pop.) Garganta",
+      "answer": "GOELA",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "O desejo do faminto",
+      "answer": "COMER",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Fica no DF",
+      "answer": "BRASILIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Tumor adiposo benigno",
+      "answer": "LIPOMA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Uma amêndoa comestível",
+      "answer": "AVELÃ",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Tubo para esgoto",
+      "answer": "CANO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Abelha) Grupo musical de pop rock",
+      "answer": "KID",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Mandar recado",
+      "answer": "AVISAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "As filhas do meu irmão, em relação ao meu pai",
+      "answer": "NETAS",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "A capital da Ucrânia",
+      "answer": "KIEV",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "(Sigla) Um tipo de empresa mercantil",
+      "answer": "SA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "De uma grande região gelada russa",
+      "answer": "SIBERIANO",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Pelo da beirada das pálpebras",
+      "answer": "CILIO",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "Que tem todas as cores",
+      "answer": "ONICOLOR",
+      "row": 3,
+      "col": 10
+    },
+    "20": {
+      "clue": "Grande flor sem cheiro",
+      "answer": "DALIA",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "(Náut.) Altura do convés sobre o fundo",
+      "answer": "PONTAL",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Tecido grosso usado para forrar pisos",
+      "answer": "TAPETE",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Estado de quem é proprietário de uma coisa",
+      "answer": "POSSE",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Adolescente",
+      "answer": "JOVEM",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "De aspecto desagradável",
+      "answer": "FEIO",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Um dos cinco sentidos do ser humano",
+      "answer": "TATO",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "300, em romanos",
+      "answer": "CCC",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Paulo Gustavo (1978-2021), ator e humorista",
+      "answer": "PG",
+      "row": 9,
+      "col": 0
+    }
+  }
+}

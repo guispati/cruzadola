@@ -1,0 +1,246 @@
+{
+  "across": {
+    "2": {
+      "clue": "Diz-se da planta que vive sobre um vegetal, usando-o apenas como suporte",
+      "answer": "EPIFITA",
+      "row": 0,
+      "col": 2
+    },
+    "9": {
+      "clue": "Cidade cearense da chapada do Araripe",
+      "answer": "ASSARE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Cheia de dinheiro",
+      "answer": "RICA",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "(Gír.) Faniquito nervoso",
+      "answer": "PITI",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "No surfe, iniciar a descida na onda",
+      "answer": "DROPAR",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Uma senhora com muitos anos",
+      "answer": "IDOSA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "A filosofia que se ocupa da moral",
+      "answer": "ETICA",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Aflição, sofrimento",
+      "answer": "MAL",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Perder a afeição a",
+      "answer": "DESAMAR",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "(-Leste) País asiático",
+      "answer": "TIMOR",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Fazer, executar",
+      "answer": "COMETER",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Abreviatura do nome do mês entre Jan e Mar",
+      "answer": "FEV",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Gorda",
+      "answer": "OBESA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "A preta é usada em medicamentos controlados",
+      "answer": "TARJA",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "Cidade portuguesa, Patrimônio da Humanidade",
+      "answer": "SINTRA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Como",
+      "answer": "QUAL",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "A atriz carioca Werneck",
+      "answer": "TATA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Que não se posiciona, se abstém de tomar partido",
+      "answer": "NEUTRO",
+      "row": 9,
+      "col": 5
+    },
+    "36": {
+      "clue": "(Quím.) Ar",
+      "answer": "ARGONIO",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Gramínea usada como forrageira",
+      "answer": "CAPIM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Uma acrobacia de avião",
+      "answer": "ESTOL",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "O casal que gerou um filho",
+      "answer": "PAIS",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Dirigir-se",
+      "answer": "IR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Abrev.: Federal",
+      "answer": "FED",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Andar em ritmo de corrida",
+      "answer": "TROTAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Mandioca-doce",
+      "answer": "AIPIM",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Cessar uma atividade",
+      "answer": "PARAR",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Medo ou discriminação contra pessoas que vivem com HIV",
+      "answer": "SIDAFOBIA",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Cantar (a galinha)",
+      "answer": "CACAREJAR",
+      "row": 1,
+      "col": 9
+    },
+    "15": {
+      "clue": "(Ingl.) Hotel com foco em lazer e recreação",
+      "answer": "RESORT",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Promover a felicidade de",
+      "answer": "ADITAR",
+      "row": 3,
+      "col": 4
+    },
+    "21": {
+      "clue": "Letra que pode valer 1.000",
+      "answer": "EME",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "(Fig.) Sondar, calcular",
+      "answer": "TESTAR",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Litoral",
+      "answer": "COSTA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Aroma para balas",
+      "answer": "MENTA",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "O produto de um desejo que se construiu",
+      "answer": "FRUTO",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Importância relativa",
+      "answer": "VALOR",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Neste momento",
+      "answer": "AQUI",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Doze meses",
+      "answer": "ANO",
+      "row": 8,
+      "col": 5
+    },
+    "35": {
+      "clue": "Executivo Nacional",
+      "answer": "EN",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

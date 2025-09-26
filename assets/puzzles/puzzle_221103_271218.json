@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Estar convencido de que algo é verdadeiro",
+      "answer": "CRER",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Abreviatura de ilustríssimo",
+      "answer": "ILMO",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Repassar",
+      "answer": "RELER",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Descargas elétricas que ocorrem em tempestades",
+      "answer": "RAIOS",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Sem exceção",
+      "answer": "UNANIME",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Incógnita",
+      "answer": "XIS",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "O símbolo químico do astatínio",
+      "answer": "AT",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Um que se estabeleceu no exterior, por motivos econômicos ou políticos",
+      "answer": "EMIGRADO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Abrev.: Eletrocardiograma",
+      "answer": "ECG",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Molhado pela transpiração",
+      "answer": "SUADO",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Que foi vítima de sequestro",
+      "answer": "RAPTADO",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Não permitir",
+      "answer": "VEDAR",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Sentimento de ódio, de rancor",
+      "answer": "IRA",
+      "row": 6,
+      "col": 7
+    },
+    "26": {
+      "clue": "Uma futura noiva",
+      "answer": "NAMORADA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Camila Pitanga, atriz",
+      "answer": "CP",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "(Alter) Substituto perfeito",
+      "answer": "EGO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Abraço de um lutador no adversário, limitando seus golpes",
+      "answer": "CLINCHE",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "A frente da cabeça",
+      "answer": "TESTA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "(de) Em posição inferior ou secundária",
+      "answer": "ATRAS",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Adoração, veneração",
+      "answer": "AMOR",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "A moeda única dos países da UE",
+      "answer": "EURO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A forma como se compra carne no açougue",
+      "answer": "CRUA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Muito curto",
+      "answer": "RENTE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Esclerose Lateral Amiotrófica",
+      "answer": "ELA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Pop.) Rejeitado, odiado",
+      "answer": "RENEGADO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Tripa sem consoantes",
+      "answer": "IA",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "Aquele que pule superfícies com certo papel com material abrasivo",
+      "answer": "LIXADOR",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Reduzido a pó",
+      "answer": "MOIDO",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "(Anat.) Cada uma das peças que formam o esqueleto",
+      "answer": "OSSO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "O órgão que produz a urina",
+      "answer": "RIM",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Peça usada para fazer medições",
+      "answer": "REGUA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "A poetisa chilena Gabriela (1889-1957), Nobel de Literatura em 1945",
+      "answer": "MISTRAL",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Cheio de alegria",
+      "answer": "RADIANTE",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Que tem a consistência de um musse",
+      "answer": "CREMOSO",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Grande casaco de pele, com capuz, usado em regiões muito frias",
+      "answer": "PARCA",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Feijoeiro de frutos comestíveis, tenros e com sementes pequenas",
+      "answer": "VAGEM",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Encontrar coisa escondida",
+      "answer": "ACHAR",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "A minha filha, em relação à minha mãe",
+      "answer": "NETA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Um tempo como terça-feira",
+      "answer": "DIA",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "Categoria de halterofilistas",
+      "answer": "PESO",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "(Fig.) Imaturo",
+      "answer": "CRU",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Theodore Roosevelt, ex-presidente norte-americano (1858-1919)",
+      "answer": "TR",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

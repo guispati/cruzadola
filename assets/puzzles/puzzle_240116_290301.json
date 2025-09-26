@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "A unidade de medida elétrica V",
+      "answer": "VOLT",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Planta forrageira de espigas eretas",
+      "answer": "AZEVEM",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Igualdade de condições",
+      "answer": "PARIDADE",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Caruncho da madeira",
+      "answer": "CUPIM",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Som que indica o início e o término das aulas",
+      "answer": "SINAL",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Proteção numa parede, fixada na altura do encosto das cadeiras",
+      "answer": "ALIZAR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Um grande instrumento de sopro",
+      "answer": "TUBA",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Os suportes do tampo da mesa",
+      "answer": "PES",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "O estado do oxigênio na atmosfera",
+      "answer": "GASOSO",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "(Econ.) Um tipo de ação das bolsas de valores",
+      "answer": "ON",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Cheirar mal",
+      "answer": "FEDER",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Baden Powell (1937-2000), violonista fluminense",
+      "answer": "BP",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Pedir para que venha",
+      "answer": "CHAMAR",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Andaime suspenso por cabos ou cordas, que se move na vertical",
+      "answer": "JAU",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Tecer",
+      "answer": "FIAR",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Ingl.) Chamada feita por empresas para correção de falhas em produtos",
+      "answer": "RECALL",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "O compositor francês Maurice, de um famoso \"Bolero\"",
+      "answer": "RAVEL",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "(de cobras) Lugar onde se ajuntam pessoas maldosas",
+      "answer": "NINHO",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Uma técnica de tratamento de males da saúde",
+      "answer": "ALOPATIA",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Desocupado",
+      "answer": "OCIOSO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "(Nova) A \"big apple\" dos EUA",
+      "answer": "YORK",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Grandeza, esplendor",
+      "answer": "OPULENCIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Objeto usado em maquiagem",
+      "answer": "LAPIS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um quase nada",
+      "answer": "TRIZ",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Albrecht Dürer (1471-1528), pintor alemão",
+      "answer": "AD",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Interj.) Som que imita golpe rápido e certeiro",
+      "answer": "ZAS",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Produtor de livros e jornais",
+      "answer": "EDITOR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Um planeta vizinho da Terra",
+      "answer": "VENUS",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Resultado do cruzamento de jumento com égua",
+      "answer": "MULA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Fig.) Opinião que o público pode ter de um produto",
+      "answer": "IMAGEM",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Tampa de motor",
+      "answer": "CAPO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Abobar",
+      "answer": "ABOBALHAR",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Uma forma de controle de velocidade nas rodovias",
+      "answer": "RADAR",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "A tenista Williams, uma das melhores do mundo",
+      "answer": "SERENA",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Resíduo de pão",
+      "answer": "FARELO",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Aumento significativo",
+      "answer": "PULO",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "O estado dos EUA com Oahu e Mauna Loa",
+      "answer": "HAVAI",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "O Quadros (1917-1992) presidente do Brasil",
+      "answer": "JANIO",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Sem calor",
+      "answer": "FRIO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Manchester) Famoso time britânico de futebol",
+      "answer": "CITY",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "O L de LA, cidade dos EUA",
+      "answer": "LOS",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "(Pop.) Cocaína",
+      "answer": "PO",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

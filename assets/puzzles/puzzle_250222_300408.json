@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O B dos BRICS",
+      "answer": "BRASIL",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Jarro de cerâmica",
+      "answer": "POTE",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Sem sensibilidade, sem delicadeza",
+      "answer": "RUDE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Ave que se disfarça junto a troncos e mourões",
+      "answer": "URUTAU",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "As primeiras noções",
+      "answer": "ABECE",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "A cavidade sob o braço",
+      "answer": "AXILA",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "(Fig.) Algo que serve para ocultar um fato",
+      "answer": "VEU",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Pop.) Malandro, esperto",
+      "answer": "MALACO",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Que se lavou com o mais comum dos detergentes",
+      "answer": "ENSABOADO",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Zona Sul",
+      "answer": "ZS",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Não magro",
+      "answer": "GORDO",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Sigla do estado de São Luís",
+      "answer": "MA",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Incomodar",
+      "answer": "PERTURBAR",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Coxear",
+      "answer": "MANCAR",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "A primeira hora",
+      "answer": "UMA",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Um animal peludo",
+      "answer": "PANDA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Mulher que representa em cinema",
+      "answer": "ATRIZ",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "A capital turca",
+      "answer": "ANCARA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Bíbl.) A nau que navegou no dilúvio",
+      "answer": "ARCA",
+      "row": 9,
+      "col": 7
+    },
+    "35": {
+      "clue": "Emitir som forte e confuso",
+      "answer": "ZOAR",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Plantação de melões",
+      "answer": "MELOAL",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ferocidade",
+      "answer": "BRAVEZA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O ex-piloto de F1 Barrichello",
+      "answer": "RUBENS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Palavra de despedida",
+      "answer": "ADEUS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Secante",
+      "answer": "SEC",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Um apelido para Luciana",
+      "answer": "LU",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Gír.) Aquele que furta automóveis",
+      "answer": "PUXADOR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Próprio da vista",
+      "answer": "OTICO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Corpo vegetativo das algas e fungos",
+      "answer": "TALO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Égua sem gê",
+      "answer": "EUA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Fragmentos da substância reduzida a migalhas pelo crivo",
+      "answer": "RALADURA",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Virar de boca ou cabeça para baixo",
+      "answer": "EMBORCAR",
+      "row": 2,
+      "col": 4
+    },
+    "18": {
+      "clue": "A principal artéria humana",
+      "answer": "AORTA",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Anotar os compromissos",
+      "answer": "AGENDAR",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Plantação de certos tubérculos comestíveis",
+      "answer": "CARAZAL",
+      "row": 4,
+      "col": 10
+    },
+    "24": {
+      "clue": "(Pop.) Pequeno seio",
+      "answer": "MAMICA",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Pose",
+      "answer": "PANCA",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Mu, muar",
+      "answer": "BURRO",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "(Pop.) Amigo íntimo",
+      "answer": "MANO",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Armistício",
+      "answer": "PAZ",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Feito de certo modo",
+      "answer": "TAL",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Anita Malfatti, artista",
+      "answer": "AM",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

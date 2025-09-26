@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "A trama usada pela aranha para apanhar comida",
+      "answer": "TEIA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Direção oblíqua",
+      "answer": "VIES",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "O compositor francês Maurice (1875-1937), de \"Rapsódia Espanhola\"",
+      "answer": "RAVEL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Pasta usada na culinária japonesa",
+      "answer": "MISSO",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "O ator Harris, de \"Pollock\"",
+      "answer": "ED",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Aqueles que possuem muitos bens",
+      "answer": "RICOS",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "As letras que cercam o U",
+      "answer": "TV",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Humilhante (fem.)",
+      "answer": "VEXATORIA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Ensacado que é ingrediente da feijoada",
+      "answer": "PAIO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Acarinhar",
+      "answer": "MIMAR",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Ovo, na Austrália",
+      "answer": "EGG",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "(Pearl) Banda estadunidense de rock",
+      "answer": "JAM",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "O pintor holandês Vermeer (1632-1675)",
+      "answer": "JAN",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "Cortar completamente os cabelos",
+      "answer": "RAPAR",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "A parte frontal da cabeça humana",
+      "answer": "CARA",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Choramingar",
+      "answer": "JEREMINAR",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "As letras que precedem o valor dos dólares americanos",
+      "answer": "US",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Movem a canoa",
+      "answer": "REMOS",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "A UF de Itabuna e Senhor do Bonfim",
+      "answer": "BA",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Não creem em Deus",
+      "answer": "ATEUS",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Corpo gasoso que se desprende da umidade por efeito do calor",
+      "answer": "VAPOR",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "A minha filha, em relação ao meu pai",
+      "answer": "NETA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Tabaco que faz espirrar",
+      "answer": "RAPE",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Chapa de ferro do fogão à lenha, com buracos redondos",
+      "answer": "TREMPE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Educação a Distância",
+      "answer": "EAD",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Quatro, em algarismos romanos",
+      "answer": "IV",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Transporte feito através de aviões",
+      "answer": "AEREO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Animal de valiosa pele",
+      "answer": "VISOM",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "São três em tiririca",
+      "answer": "IS",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Estender ao comprido",
+      "answer": "ESTIRAR",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Surra",
+      "answer": "SOVA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "59, em algarismos romanos",
+      "answer": "LIX",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Insurreição contra uma autoridade instituída",
+      "answer": "MOTIM",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Sala que serve, nos teatros, para o ator se vestir ou repousar",
+      "answer": "CAMARIM",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Colocar traves em",
+      "answer": "VIGAR",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Estriar",
+      "answer": "RAJAR",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Zona do Nordeste do Brasil, entre a mata e a caatinga",
+      "answer": "AGRESTE",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "A Etta (1938-2012) cantora de jazz",
+      "answer": "JAMES",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "A praia das ondas gigantes, em Portugal",
+      "answer": "NAZARE",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Um tipo de carro para carga ou passageiros",
+      "answer": "PERUA",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "(Pop.) Amarrar os panos",
+      "answer": "CASAR",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "O Don sedutor e conquistador",
+      "answer": "JUAN",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "O período entre Out e Dez",
+      "answer": "NOV",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Um estilo de jazz",
+      "answer": "BOP",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "Emma Thompson, atriz inglesa de \"Vestígios do Dia\"",
+      "answer": "ET",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Ferramenta usada em construção",
+      "answer": "PA",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

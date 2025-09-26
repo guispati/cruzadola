@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Palerma",
+      "answer": "BOBOCA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Ter fé",
+      "answer": "CRER",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Lateral do nariz",
+      "answer": "ABA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Indivíduo imprudente",
+      "answer": "INCAUTO",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Um estabilizador dos peixes na água",
+      "answer": "BARBATANA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Referente a representações teatrais",
+      "answer": "CENICO",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Plutônio, elemento químico",
+      "answer": "PU",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Nocivo, prejudicial",
+      "answer": "DANOSO",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "Compreender o significado das palavras escritas",
+      "answer": "LER",
+      "row": 4,
+      "col": 8
+    },
+    "19": {
+      "clue": "Criancinha recém-nascida",
+      "answer": "NENE",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Palco",
+      "answer": "CENA",
+      "row": 5,
+      "col": 7
+    },
+    "21": {
+      "clue": "Estados Unidos da América",
+      "answer": "EUA",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "Cidade italiana com um dos principais portos da Europa",
+      "answer": "GENOVA",
+      "row": 6,
+      "col": 4
+    },
+    "24": {
+      "clue": "Sílvio Santos, apresentador de TV",
+      "answer": "SS",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Um ciclo de 7 dias",
+      "answer": "SEMANA",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "Que é cúmplice",
+      "answer": "CONIVENTE",
+      "row": 8,
+      "col": 2
+    },
+    "29": {
+      "clue": "Brincadeira infantil cujo nome tem origem francesa",
+      "answer": "ADOLETA",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Possuir",
+      "answer": "TER",
+      "row": 9,
+      "col": 8
+    },
+    "32": {
+      "clue": "Solução para hidratação de um doente",
+      "answer": "SORO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Título honorífico de reis",
+      "answer": "ALTEZA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A cantora Consuelo",
+      "answer": "BABY",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Interjeição de espanto, alegria",
+      "answer": "OBA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Duna em forma de crescente lunar, comum nos desertos africanos e asiáticos",
+      "answer": "BARCANA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Uma das quatro cores para impressão colorida",
+      "answer": "CIANO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Aquele que se opõe aos judeus",
+      "answer": "ANTISSEMITA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Tubo para esgoto",
+      "answer": "CANO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Fig.) Lugar fora do lar",
+      "answer": "RUA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Marciano",
+      "answer": "ET",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Rompimento, quebra",
+      "answer": "ROTURA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Pequeno fragmento",
+      "answer": "CACO",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Um apelido do Benedito",
+      "answer": "BENE",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Profundo sofrimento",
+      "answer": "PENA",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "(Fig.) Indivíduo superior aos demais em saber, poder, beleza",
+      "answer": "DEUS",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "Motim, rebelião",
+      "answer": "LEVANTE",
+      "row": 4,
+      "col": 8
+    },
+    "19": {
+      "clue": "Em + estas",
+      "answer": "NESTAS",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Sólido geométrico com altura, base e vértice",
+      "answer": "CONE",
+      "row": 5,
+      "col": 7
+    },
+    "22": {
+      "clue": "Fator que transmite os caracteres hereditários",
+      "answer": "GENE",
+      "row": 6,
+      "col": 4
+    },
+    "23": {
+      "clue": "Concernente à marinha",
+      "answer": "NAVAL",
+      "row": 6,
+      "col": 6
+    },
+    "25": {
+      "clue": "Piso",
+      "answer": "SOLO",
+      "row": 7,
+      "col": 3
+    },
+    "26": {
+      "clue": "Porção de barba na extremidade do queixo",
+      "answer": "PERA",
+      "row": 7,
+      "col": 10
+    },
+    "27": {
+      "clue": "Marrom, rosa ou amarelo",
+      "answer": "COR",
+      "row": 8,
+      "col": 2
+    },
+    "28": {
+      "clue": "Cútis",
+      "answer": "TEZ",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Pesar",
+      "answer": "DO",
+      "row": 9,
+      "col": 1
+    }
+  }
+}

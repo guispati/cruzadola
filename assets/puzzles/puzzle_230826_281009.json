@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cláusulas de um documento",
+      "answer": "ITENS",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Uma cereal da granola",
+      "answer": "AVEIA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Noel Rosa (1910-1937), sambista",
+      "answer": "NR",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Atordoada, espantada",
+      "answer": "PASSADA",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Um dado numérico do endereço da carta",
+      "answer": "CEP",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Ser vítima de logro",
+      "answer": "CAIR",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "(Inform.) Duas letras extremas em uma das linhas do teclado",
+      "answer": "QP",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "A cidade mineira onde nasceu Carlos Drummond de Andrade",
+      "answer": "ITABIRA",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Feita por ti (fem.)",
+      "answer": "TUA",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Apalpar com a polpa dos dedos",
+      "answer": "TATEAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Direção oblíqua",
+      "answer": "VIES",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Corresponder aos gostos",
+      "answer": "AGRADAR",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "O cargo de quem substitui o titular",
+      "answer": "VICE",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "A capital do MT",
+      "answer": "CUIABA",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Outro nome da ave xuri",
+      "answer": "EMA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "O atleta do caiaque",
+      "answer": "REMADOR",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Antecedeu o CD",
+      "answer": "LP",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Elem. de comp.: voz",
+      "answer": "FONO",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Um sufixo diminutivo",
+      "answer": "OTE",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "O dissolvente usado pela manicure",
+      "answer": "ACETONA",
+      "row": 9,
+      "col": 1
+    },
+    "36": {
+      "clue": "Ivone Lara (1921-2018), sambista carioca",
+      "answer": "IL",
+      "row": 9,
+      "col": 9
+    },
+    "37": {
+      "clue": "Filha da tia",
+      "answer": "PRIMA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Obstinação na própria opinião",
+      "answer": "TEIMA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Que se pode encorajar",
+      "answer": "INCITAVEL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ardil, estratagema, manha",
+      "answer": "TRETA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Quím.) O netúnio",
+      "answer": "NP",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Matar a vontade de",
+      "answer": "SACIAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "O continente de Laos e de Butão",
+      "answer": "ASIA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "(Fut.) Uma tecnologia que auxilia o juiz de futebol",
+      "answer": "VAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Espera Deferimento",
+      "answer": "ED",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Ruminante do Tibete, semelhante a um grande boi",
+      "answer": "IAQUE",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "(Red.) Trigo cultivado como forrageira e pelos frutos comestíveis",
+      "answer": "SARRACENO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Antiga moeda brasileira de prata",
+      "answer": "PATACA",
+      "row": 2,
+      "col": 2
+    },
+    "16": {
+      "clue": "Estrado para desfiles de modas e concursos",
+      "answer": "PASSARELA",
+      "row": 2,
+      "col": 10
+    },
+    "18": {
+      "clue": "Cor entre o marrom e o amarelo",
+      "answer": "BEGE",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Posto fora",
+      "answer": "TIRADO",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Manifestação de desagrado por um espetáculo ruim",
+      "answer": "VAIA",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "O inventor e aeronauta Alberto Santos (1873-1932)",
+      "answer": "DUMONT",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Um número como o 5 ou o 27",
+      "answer": "IMPAR",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Calçado de cano curto",
+      "answer": "BOTIM",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "O percurso de um navio no mar",
+      "answer": "ROTA",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Abreviatura do contrário de masculino",
+      "answer": "FEM",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "1/5 de 505, em romanos",
+      "answer": "CI",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Alex Escobar, jornalista esportivo",
+      "answer": "AE",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

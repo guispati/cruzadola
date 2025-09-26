@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Que ocupa vasto espaço",
+      "answer": "AMPLO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Grande estado do Sul dos EUA",
+      "answer": "TEXAS",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Uma peça do vestuário feminino",
+      "answer": "SAIA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Enrugado",
+      "answer": "RUGOSO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Hostil à presença do homem",
+      "answer": "INOSPITO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "As iniciais do ator Procópio (1898-1979)",
+      "answer": "PF",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "O símbolo químico da prata, metal nobre",
+      "answer": "AG",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "O Jeca personagem de Monteiro Lobato",
+      "answer": "TATU",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Grande massa de água salgada",
+      "answer": "MAR",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Instrumento de sopro, geralmente de metal ou de plástico",
+      "answer": "APITO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Atitude ou posição corporal",
+      "answer": "POSE",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Que faz afundar",
+      "answer": "IMERSOR",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Trajeto",
+      "answer": "ROTA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "As filhas da filha",
+      "answer": "NETAS",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Árvore de madeira pesada e muito dura",
+      "answer": "ITU",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Neol.) Mensagem que se multiplica facilmente e rapidamente",
+      "answer": "MEME",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "United States",
+      "answer": "US",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "O Dom João, sob cujo reinado foi reconhecida a independência do Brasil",
+      "answer": "VI",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Pop.) Cadeia",
+      "answer": "XILINDRO",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Bem recebido",
+      "answer": "ACEITO",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Grande tronco de madeira, sem a casca",
+      "answer": "TORA",
+      "row": 9,
+      "col": 7
+    },
+    "38": {
+      "clue": "Um dos ossos do antebraço",
+      "answer": "RADIO",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "O jornalista e apresentador Tralli",
+      "answer": "CESAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um continente",
+      "answer": "ASIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "História em quadrinhos com características orientais",
+      "answer": "MANGA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Profundamente religioso",
+      "answer": "PIO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Queixa, lamentação interminável",
+      "answer": "LASTIMA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Fr.) Saia usada por dançarinas de balé clássico",
+      "answer": "TUTU",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Autoestima",
+      "answer": "EGO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Sai, galinha!",
+      "answer": "XO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Sinais para destacar uma citação",
+      "answer": "ASPAS",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Experimentar com resignação e paciência",
+      "answer": "SOFRER",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Repetição de um trecho musical",
+      "answer": "RITORNELO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Massa de carne ou peixe, conservada fria, comida geralmente como aperitivo",
+      "answer": "PATE",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "Diz-se dos juros pagos depois do vencimento de uma dívida",
+      "answer": "MORA",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Grande camarão de água doce, de carne apreciada",
+      "answer": "PITU",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Que tem força, vigoroso",
+      "answer": "POTENTE",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Tirar o necessário",
+      "answer": "PRIVAR",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Elemento de composição: metade",
+      "answer": "SEMI",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "A ciência da luz",
+      "answer": "OTICA",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Sova, pau",
+      "answer": "SURRA",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "História lendária",
+      "answer": "MITO",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Retumbar",
+      "answer": "SOAR",
+      "row": 7,
+      "col": 10
+    },
+    "33": {
+      "clue": "12, em romanos",
+      "answer": "XII",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "De + os",
+      "answer": "DOS",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "O cantor Motta, de \"Dias de Paz\"",
+      "answer": "ED",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O cargo de quem substitui o titular",
+      "answer": "VICE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O conjunto dos cristãos católicos",
+      "answer": "IGREJA",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Tecido leve, quase transparente",
+      "answer": "MUSSELINA",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "O macho de um inseto que molesta muito",
+      "answer": "PULGO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Peça que acompanha o parafuso",
+      "answer": "PORCA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Cantar dando a cada nota o devido tom",
+      "answer": "ENTOAR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Capital de uma Coreia",
+      "answer": "SEUL",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Segue o cê",
+      "answer": "DE",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Caravana",
+      "answer": "TREM",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Abrev.: dicionário",
+      "answer": "DIC",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Outro nome do iaque, bovino do Tibete",
+      "answer": "POEFAGO",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Círculo metálico que envolve uma roda de moto",
+      "answer": "ARO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Casa central de uma ordem religiosa",
+      "answer": "SEDE",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "Fernanda Torres, atriz carioca",
+      "answer": "FT",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "O criador do universo",
+      "answer": "DEUS",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Perder a vida",
+      "answer": "MORRER",
+      "row": 7,
+      "col": 5
+    },
+    "32": {
+      "clue": "Cozinhar",
+      "answer": "ASSAR",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Navegante",
+      "answer": "NAUTA",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Romance de Mário de Andrade com o \"herói sem nenhum caráter\"",
+      "answer": "MACUNAIMA",
+      "row": 9,
+      "col": 1
+    },
+    "37": {
+      "clue": "Chover miudinho",
+      "answer": "GAROAR",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "(Mús.) Executado por uma pessoa apenas",
+      "answer": "SOLO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Incólume",
+      "answer": "IMUNE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Ingl., pop.) Tudo que é considerado brega, mas ganhou certo status",
+      "answer": "CULT",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Canal de expurgo",
+      "answer": "ESGOTO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O centro de... Kiev",
+      "answer": "IE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Gás Liquefeito de Petróleo",
+      "answer": "GLP",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Os cursos d'água que formam uma bacia hidrográfica",
+      "answer": "RIOS",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O samba que é um quesito de julgamento nos desfiles de carnaval",
+      "answer": "ENREDO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Pequena cidade mineira do Sul do estado",
+      "answer": "JACUI",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "O sobrenome das cantoras Claudette e Elza",
+      "answer": "SOARES",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "(Fut.) Chute muito forte",
+      "answer": "PEDRADA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Uma carne bovina de primeira",
+      "answer": "ALCATRA",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Prisioneiro de garantia",
+      "answer": "REFEM",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Nossa Senhora",
+      "answer": "MADONA",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Passar a noite",
+      "answer": "POUSAR",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Terreno coberto de vegetação rasteira, como no planalto Central",
+      "answer": "GERAIS",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "Quinhentas folhas de papel",
+      "answer": "RESMA",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Relativo ao embrião em fase de desenvolvimento",
+      "answer": "FETAL",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "(Pop.) Chatice",
+      "answer": "SACO",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "Direção do movimento da embarcação, quando se está navegando",
+      "answer": "RUMO",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "Via para carros",
+      "answer": "RUA",
+      "row": 8,
+      "col": 4
+    },
+    "36": {
+      "clue": "Noel Rosa (1910-1937), sambista",
+      "answer": "NR",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

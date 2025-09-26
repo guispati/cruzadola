@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Imitar obras de arte de outrem",
+      "answer": "PLAGIAR",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "O aconchego da família",
+      "answer": "LAR",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Direção do movimento da embarcação",
+      "answer": "RUMO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O saci do nosso folclore",
+      "answer": "PERERE",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "A sigla da Esclerose Lateral Amiotrófica, doença degenerativa",
+      "answer": "ELA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Rápida, veloz",
+      "answer": "LIGEIRA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Importante cadeia de montanhas da Europa",
+      "answer": "CARPATOS",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Ingmar Bergman (1918-2007), cineasta sueco",
+      "answer": "IB",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Um que repete as sílabas",
+      "answer": "GAGO",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Sucessão de sons de uma oitava musical",
+      "answer": "GAMA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "(Pop.) Porção extra de bebida",
+      "answer": "CHORO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Lagoa dos) A maior laguna do Brasil, no RS",
+      "answer": "PATOS",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "(Amaz.) Ninfa dos igarapés",
+      "answer": "IARA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Xeque do xadrez",
+      "answer": "MATE",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "O músico Ferrero, ex-\"NX Zero\"",
+      "answer": "DI",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Sem culpa",
+      "answer": "INOCENTE",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Denunciado como autor de delito",
+      "answer": "ACUSADO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Sigla usada em bancos",
+      "answer": "DOC",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Nocivo, prejudicial",
+      "answer": "DANOSO",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Cheiro ruim de suor",
+      "answer": "CECE",
+      "row": 9,
+      "col": 7
+    },
+    "35": {
+      "clue": "Advérbio que significa aqui está!",
+      "answer": "EIS",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Cheirar com força",
+      "answer": "ASPIRAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Desenvolvimento antecipado",
+      "answer": "PRECOCIDADE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Molusco marinho de carne apreciada",
+      "answer": "LULA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sabor contrário à doçura",
+      "answer": "AMARGOR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A UF de Pirenópolis e Anápolis",
+      "answer": "GO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A peça sonora usada por árbitros esportivos",
+      "answer": "APITO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Riacho",
+      "answer": "REGO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Regra constante num fenômeno físico",
+      "answer": "LEI",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(de) Um tipo de muro",
+      "answer": "ARRIMO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Colocar combustível novamente",
+      "answer": "REABASTECER",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Recuperação de algo vendido mediante restituição do preço ao comprador",
+      "answer": "RESGATE",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Corpo d’água, doce ou salgada, cercado de terra",
+      "answer": "LAGO",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "(Rel.) Jardim do Éden",
+      "answer": "PARAISO",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Servir",
+      "answer": "ATENDER",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Pequeno poema japonês, de três versos",
+      "answer": "HAICAI",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "O estilista Rabanne",
+      "answer": "PACO",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Boas maneiras",
+      "answer": "MODOS",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Centro espacial e aeronáutico dos EUA",
+      "answer": "NASA",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Buraco onde animais se escondem",
+      "answer": "TOCA",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Mais ou menos",
+      "answer": "UNS",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "101, em romanos",
+      "answer": "CI",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

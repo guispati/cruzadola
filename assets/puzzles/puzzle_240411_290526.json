@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Destino cheio de amarguras",
+      "answer": "SINA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O músico inglês de pop rock David (1947-2016)",
+      "answer": "BOWIE",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Um dos nomes do compositor austríaco Mozart",
+      "answer": "WOLFGANG",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Rita Lee (1947-2023), cantora",
+      "answer": "RL",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Instituto Federal",
+      "answer": "IF",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "A parte subterrânea do pinheiro",
+      "answer": "RAIZ",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Sem cozimento suficiente",
+      "answer": "CRU",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Espetáculo grotesco",
+      "answer": "BESTEIROL",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Que acredita na existência de Deus",
+      "answer": "TEISTA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Recipiente de madeira usado em vinícolas",
+      "answer": "TINA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Relativo a um estilo de arte de origem francesa",
+      "answer": "DECO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Período, época",
+      "answer": "FASE",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Forma de dado",
+      "answer": "CUBO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Estudioso apaixonado",
+      "answer": "CULTOR",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Peça dispensável",
+      "answer": "ACESSORIO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Efetuar um movimento corporal",
+      "answer": "DAR",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Outro nome do cúbito, osso do antebraço",
+      "answer": "ULNA",
+      "row": 8,
+      "col": 4
+    },
+    "30": {
+      "clue": "Bruce Lee, ator e lutador",
+      "answer": "BL",
+      "row": 8,
+      "col": 9
+    },
+    "31": {
+      "clue": "Espera Deferimento",
+      "answer": "ED",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Animal que se alimenta de formigas e cupins",
+      "answer": "TAMANDUA",
+      "row": 9,
+      "col": 3
+    },
+    "34": {
+      "clue": "A região com a escápula e a clavícula",
+      "answer": "OMBRO",
+      "row": 10,
+      "col": 1
+    },
+    "35": {
+      "clue": "O chef paulistano Atala",
+      "answer": "ALEX",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O Jonathan (1667-1745) escritor de \"Viagens de Gulliver\"",
+      "answer": "SWIFT",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Imposto sobre Operações Financeiras",
+      "answer": "IOF",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Negra Li, cantora",
+      "answer": "NL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Pinturas feitas em murais e paredes",
+      "answer": "AFRESCOS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Pop.) Muito grande, imenso, enorme",
+      "answer": "BAITA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "11",
+      "answer": "ONZE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "As iniciais da atriz estadunidense Goldberg, de \"Mudança de Hábito\"",
+      "answer": "WG",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Não correto",
+      "answer": "ERRONEO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Despesa",
+      "answer": "GASTO",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Calamar",
+      "answer": "LULA",
+      "row": 1,
+      "col": 10
+    },
+    "15": {
+      "clue": "O cê do d.C.",
+      "answer": "CRISTO",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "O Justin cantor",
+      "answer": "BIEBER",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Nascida em Bolonha ou Parma",
+      "answer": "ITALIANA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Polido, civilizado",
+      "answer": "EDUCADO",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Cova, gruta",
+      "answer": "FURNA",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Conselho Administrativo de Defesa Econômica",
+      "answer": "CADE",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Caule das gramíneas",
+      "answer": "COLMO",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Repouso absoluto",
+      "answer": "RELAX",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Gotejar líquido pela pele após esforço físico intenso",
+      "answer": "SUAR",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Choradeira de criança",
+      "answer": "BUE",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "O térbio",
+      "answer": "TB",
+      "row": 9,
+      "col": 3
+    },
+    "33": {
+      "clue": "Demi Lovato, cantora",
+      "answer": "DL",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

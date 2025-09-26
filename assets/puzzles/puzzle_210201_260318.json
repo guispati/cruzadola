@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Coisa difícil de definir, mistério",
+      "answer": "ENIGMA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "O estilo musical da banda \"Nirvana\"",
+      "answer": "ROCK",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Ressoante",
+      "answer": "ECOANTE",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Estado Islâmico",
+      "answer": "EI",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Sigla de um pequeno estado que faz divisa com a BA",
+      "answer": "AL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "A música típica do Paraguai",
+      "answer": "GUARANIA",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "(Gír.) Esconderijo de marginais",
+      "answer": "MOCO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Recipiente onde se põe água potável",
+      "answer": "TALHA",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "A favor",
+      "answer": "PRO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Pavilhão da orelha",
+      "answer": "CONCA",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Pegajoso",
+      "answer": "LENTESCENTE",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Espesso",
+      "answer": "DENSO",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "(Hot) Pão, salsicha, maionese e mostarda",
+      "answer": "DOG",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Espaço ocupado por cada cavalo na estrebaria",
+      "answer": "COXIA",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Mestre espiritual",
+      "answer": "GURU",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Planta de lindas flores e frutos comestíveis",
+      "answer": "MARACUJA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "O sódio",
+      "answer": "NA",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Marisa Monte, cantora e compositora",
+      "answer": "MM",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Importante cidade sul-mato-grossense",
+      "answer": "CORUMBA",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Um corpo d'água como o Titicaca, entre a Bolívia e o Peru",
+      "answer": "LAGO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Aquele que trabalha em fábrica de tijolos, telhas etc.",
+      "answer": "OLEIRO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Uma raça de bois",
+      "answer": "NELORE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Iberê Camargo (1914-1994), pintor, gravador e desenhista",
+      "answer": "IC",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Garganta",
+      "answer": "GOGO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Perverso, ruim",
+      "answer": "MAU",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Dinossauro bípede, muito forte, de até 12 metros",
+      "answer": "ANATOSSAURO",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Maior lustre ou brilho",
+      "answer": "REALCE",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(A Última) Uma obra-prima de Leonardo da Vinci",
+      "answer": "CEIA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A marca coreana dos automóveis Soul e Picanto",
+      "answer": "KIA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Solavanco",
+      "answer": "TRANCO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Larga, espaçosa",
+      "answer": "AMPLA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Avestruz dos campos",
+      "answer": "NHANDU",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "A maior ave de rapina que existe",
+      "answer": "CONDOR",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "Referente a representações teatrais",
+      "answer": "CENICO",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Artefato estreito e comprido, serve para efetuar medições",
+      "answer": "REGUA",
+      "row": 4,
+      "col": 10
+    },
+    "23": {
+      "clue": "Uma multinacional do ramo petrolífero",
+      "answer": "TEXACO",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Devolver, restituir",
+      "answer": "TORNAR",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Móvel para dormir",
+      "answer": "CAMA",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "(Video) Jogo de manipulação de imagens numa TV ou PC",
+      "answer": "GAME",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "2.050, em romanos",
+      "answer": "MML",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Precede Ago",
+      "answer": "JUL",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Campeonato vencido por duas vezes",
+      "answer": "BI",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

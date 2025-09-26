@@ -1,0 +1,252 @@
+{
+  "across": {
+    "2": {
+      "clue": "Incrédulo por natureza",
+      "answer": "CETICO",
+      "row": 0,
+      "col": 4
+    },
+    "8": {
+      "clue": "Imposto de Renda",
+      "answer": "IR",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Barrenta",
+      "answer": "ARGILOSA",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Cidade dos EUA, grande centro automobilístico",
+      "answer": "DETROIT",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Médicos Sem Fronteiras",
+      "answer": "MSF",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Rusticidade",
+      "answer": "AGRESTIA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Quím.) O astatínio",
+      "answer": "AT",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Usado",
+      "answer": "GASTO",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Conjunto de bois, cabritos etc.",
+      "answer": "GADO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Qualidade, espécie, natureza",
+      "answer": "CASTA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Cidade paulista da região de Guaratinguetá",
+      "answer": "CANAS",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Parte da pista onde os carros atingem a maior velocidade",
+      "answer": "RETA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Uma ave galinácea",
+      "answer": "JACU",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Roubar",
+      "answer": "ESBULHAR",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "Mete-os pelas mãos quem faz bobagens",
+      "answer": "PES",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Cabeleira arrancada do crânio com a pele",
+      "answer": "ESCALPO",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Tiro de Guerra",
+      "answer": "TG",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Fazer alguma coisa sem apuro ou cuidado",
+      "answer": "MATAR",
+      "row": 9,
+      "col": 3
+    },
+    "34": {
+      "clue": "As iniciais da atriz Pires",
+      "answer": "GP",
+      "row": 9,
+      "col": 9
+    },
+    "35": {
+      "clue": "Excitar o ânimo por leves provocações",
+      "answer": "AGASTAR",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Período do nascimento até a morte",
+      "answer": "VIDA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A parte sólida da Terra",
+      "answer": "CROSTA",
+      "row": 0,
+      "col": 4
+    },
+    "3": {
+      "clue": "País cortado pelo rio Nilo, famoso por suas pirâmides",
+      "answer": "EGITO",
+      "row": 0,
+      "col": 5
+    },
+    "4": {
+      "clue": "A Müller apresentadora da TV",
+      "answer": "TITI",
+      "row": 0,
+      "col": 6
+    },
+    "5": {
+      "clue": "Ivan Lendl, ex-tenista checo",
+      "answer": "IL",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "Antônimo de sem",
+      "answer": "COM",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Resto de cadáver",
+      "answer": "OSSADA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O ritmo musical de Bob Marley e Jimmy Cliff",
+      "answer": "REGGAE",
+      "row": 1,
+      "col": 1
+    },
+    "10": {
+      "clue": "Saliências, quinas",
+      "answer": "ARESTAS",
+      "row": 1,
+      "col": 3
+    },
+    "11": {
+      "clue": "Febre animal",
+      "answer": "AFTOSA",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "Objetos velhos, de pouco valor",
+      "answer": "TRASTES",
+      "row": 2,
+      "col": 2
+    },
+    "16": {
+      "clue": "Ficar de cócoras",
+      "answer": "AGACHAR",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Que acontece a cada 12 meses",
+      "answer": "ANUAL",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Subterrâneo de uma igreja",
+      "answer": "CRIPTA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Pisar com os pés",
+      "answer": "CALCAR",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Na medida certa (fem.)",
+      "answer": "JUSTA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Compasso quaternário acentuado, principal característica do rock",
+      "answer": "BEAT",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Role-Playing Game, jogo de estratégia",
+      "answer": "RPG",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Ovo, na Austrália",
+      "answer": "EGG",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "As letras entre o N e o R",
+      "answer": "OPQ",
+      "row": 8,
+      "col": 10
+    },
+    "33": {
+      "clue": "Mato Grosso do Sul",
+      "answer": "MS",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Casinha para hospedar certas aves comuns em praças",
+      "answer": "POMBAL",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Pop.) Indicação boa",
+      "answer": "DICA",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Precede o oitavo",
+      "answer": "SETIMO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Hectômetro",
+      "answer": "HM",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "(Mús.) Mi menor",
+      "answer": "EM",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Tablado para pingue-pongue",
+      "answer": "MESA",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Bar tipicamente inglês",
+      "answer": "PUB",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Uma marca de carros",
+      "answer": "JAC",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Espécie de chouriço feito com sangue de porco",
+      "answer": "MORCELA",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Que não é novo",
+      "answer": "USADO",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Determinar um preço",
+      "answer": "COTAR",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Área desmatada",
+      "answer": "CLAREIRA",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "A capital dos aragoneses e andaluzes",
+      "answer": "MADRI",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Um livro para estudar geografia",
+      "answer": "ATLAS",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "O fruto da Vitis vinifera",
+      "answer": "UVA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Gír.) Que ficou bagunçado, tumultuado",
+      "answer": "ZONEADO",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Apenas",
+      "answer": "SO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "O conjunto das celas das abelhas",
+      "answer": "FAVO",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Prefixo: inferioridade",
+      "answer": "SUB",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Fino e agradável ao tato",
+      "answer": "SEDOSO",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "(Quím.) O símbolo do bromo",
+      "answer": "BR",
+      "row": 9,
+      "col": 9
+    },
+    "37": {
+      "clue": "Dispositivo usado para proteger a visão",
+      "answer": "OCULOS",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Pão de milho feito com massa fermentada",
+      "answer": "BROA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Pop.) Redução de prejuízo",
+      "answer": "PREJU",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Sigla do estado que faz fronteira com Bolívia e Paraguai",
+      "answer": "MS",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "De maneira satisfatória",
+      "answer": "BEM",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Tomado por apreensão",
+      "answer": "ATEMORIZADO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "O oposto de rugoso",
+      "answer": "LISO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "A nota musical que inicia a escala",
+      "answer": "DO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Diz-se de expressão baixa, grosseira",
+      "answer": "CHULA",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Substância resinosa, fóssil",
+      "answer": "AMBAR",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Os \"habitantes\" do quarto planeta",
+      "answer": "MARCIANOS",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Diz-se de açúcar não refinado",
+      "answer": "MASCAVO",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "As partes que formam a corola das flores",
+      "answer": "PETALAS",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Um complemento do sundae",
+      "answer": "CALDA",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Exclusão, supressão",
+      "answer": "CORTE",
+      "row": 3,
+      "col": 7
+    },
+    "21": {
+      "clue": "Conceder",
+      "answer": "DAR",
+      "row": 4,
+      "col": 3
+    },
+    "24": {
+      "clue": "Vegetal rasteiro, pequeno, que cresce nos lugares úmidos",
+      "answer": "MUSGO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Faz as plantas crescerem mais viçosas",
+      "answer": "ADUBO",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Resíduo ou resto",
+      "answer": "SOBRA",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Pisa neles quem age com cuidado",
+      "answer": "OVOS",
+      "row": 7,
+      "col": 5
+    },
+    "32": {
+      "clue": "Substância elaborada pelo fígado",
+      "answer": "FEL",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Grande êxito",
+      "answer": "SU",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Othon Bastos, ator",
+      "answer": "OB",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

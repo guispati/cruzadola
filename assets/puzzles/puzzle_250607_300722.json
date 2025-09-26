@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O ator americano Anthony (1932-1992), de \"Psicose\"",
+      "answer": "PERKINS",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Rede de comunicação dos EUA",
+      "answer": "CBS",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "(disso) De mais a mais",
+      "answer": "ALEM",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Pequeno mamão alaranjado",
+      "answer": "PAPAIA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Moderado, não tão intenso",
+      "answer": "LIGHT",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Líquido leitoso extraído de certas árvores",
+      "answer": "LATEX",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Relato de reunião escrito pelo secretário",
+      "answer": "ATA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "O mesmo que álcool etílico",
+      "answer": "ETANOL",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Uma consoante labiodental",
+      "answer": "VE",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Apor data futura em cheque",
+      "answer": "PREDATAR",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Uma ave grande",
+      "answer": "SERIEMA",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Escola de qualquer filósofo",
+      "answer": "ACADEMIA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Carteira de Identidade",
+      "answer": "CI",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Tornar célebre",
+      "answer": "AFAMAR",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Que atende ao esperado ou desejado",
+      "answer": "BOM",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Risco feito com lápis",
+      "answer": "TRAÇO",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "O contrário de passivo",
+      "answer": "ATIVO",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Saída de gases pela boca",
+      "answer": "ARROTO",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Próximo",
+      "answer": "AFIM",
+      "row": 9,
+      "col": 7
+    },
+    "34": {
+      "clue": "(Pop.) Polícia",
+      "answer": "LEI",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Plantação de árvores de azeitonas",
+      "answer": "OLIVEDO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Vocábulo, termo",
+      "answer": "PALAVRA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Minoria dominante e influente num grupo social",
+      "answer": "ELITE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ato de molhar as plantas",
+      "answer": "REGA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Quilômetros por hora",
+      "answer": "KMH",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Quím.) O netúnio",
+      "answer": "NP",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Travessa para um prato com folhas verdes, tomates etc.",
+      "answer": "SALADEIRA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Meleca do nariz",
+      "answer": "CATOTA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Mecân.) A haste do pistão",
+      "answer": "BIELA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Red.) Saxofone",
+      "answer": "SAX",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Um país da América Central",
+      "answer": "PANAMA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Evento natural comum no Japão, na Indonésia e no Chile",
+      "answer": "TERREMOTO",
+      "row": 2,
+      "col": 4
+    },
+    "18": {
+      "clue": "Persistência irracional ou inoportuna",
+      "answer": "TEIMA",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Fragmento, bocado, porção",
+      "answer": "PEDAÇO",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Uma figura do carnaval",
+      "answer": "REIMOMO",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Expedição para caça",
+      "answer": "SAFARI",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Lombo (de porco ou de carneiro)",
+      "answer": "CARRE",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Uma virose",
+      "answer": "COVID",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Uma substanciosa fatia de carne",
+      "answer": "BIFE",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Igual ou semelhante (à mesma forma ou figura)",
+      "answer": "TAL",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Trem de Alta Velocidade",
+      "answer": "TAV",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Sufixo de compostos químicos",
+      "answer": "OL",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

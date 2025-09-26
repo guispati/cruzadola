@@ -1,0 +1,258 @@
+{
+  "across": {
+    "2": {
+      "clue": "À toa",
+      "answer": "DEBALDE",
+      "row": 0,
+      "col": 2
+    },
+    "9": {
+      "clue": "Unidade de Conservação",
+      "answer": "UC",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O elemento químico Ha",
+      "answer": "HANIO",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "O símbolo do ouro",
+      "answer": "AU",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Marca chinesa de carros",
+      "answer": "JAC",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Grupo de duas letras que representa um único som ou articulação",
+      "answer": "DIGRAMA",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "Romance de José de Alencar (1865)",
+      "answer": "IRACEMA",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "(Ingl.) Compartimento destinado ao banho de chuveiro",
+      "answer": "BOX",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "A atriz Linzmeyer",
+      "answer": "BRUNA",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Ave de crista carnuda e asas curtas e largas",
+      "answer": "GALO",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "O jornalista esportivo Kfouri",
+      "answer": "JUCA",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Jogada, nos desportos",
+      "answer": "LANCE",
+      "row": 5,
+      "col": 5
+    },
+    "25": {
+      "clue": "Percurso de um avião",
+      "answer": "ROTA",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Planta usada em xaropes expectorantes",
+      "answer": "GUACO",
+      "row": 6,
+      "col": 6
+    },
+    "29": {
+      "clue": "Porção de água tranquila, que penetra em recorte da margem",
+      "answer": "REMANSO",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "X",
+      "answer": "XIS",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Instituto Tecnológico de Aeronáutica",
+      "answer": "ITA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Nua",
+      "answer": "DESPIDA",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "Sai, galinha!",
+      "answer": "XO",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "A atriz e escritora Proença",
+      "answer": "MAITE",
+      "row": 9,
+      "col": 3
+    },
+    "37": {
+      "clue": "(Ingl.) De acordo!",
+      "answer": "OK",
+      "row": 9,
+      "col": 9
+    },
+    "38": {
+      "clue": "A non grata não é bem-vinda",
+      "answer": "PERSONA",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Monte japonês, ponto mais alto do país (3.776 m)",
+      "answer": "FUJI",
+      "row": 0,
+      "col": 0
+    },
+    "3": {
+      "clue": "Interjeição de admiração, espanto",
+      "answer": "EH",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "(-Württemberg) O estado alemão de Stuttgart",
+      "answer": "BADEN",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "O paciente do veterinário",
+      "answer": "ANIMAL",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Agremiação, sociedade",
+      "answer": "LIGA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Sensação física de sofrimento",
+      "answer": "DOR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Diz-se do cavalo que é criado sem mãe",
+      "answer": "GUAXO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "O de silício é usado em semicondutores",
+      "answer": "CARBURETO",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Tornado flexível, macio",
+      "answer": "AMOLECIDO",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Caruncho",
+      "answer": "CARCOMA",
+      "row": 2,
+      "col": 2
+    },
+    "16": {
+      "clue": "(Descascar um) Resolver um problema difícil",
+      "answer": "ABACAXI",
+      "row": 2,
+      "col": 8
+    },
+    "18": {
+      "clue": "Macaco amazônico com cerca de 50 cm de comprimento",
+      "answer": "CUATA",
+      "row": 3,
+      "col": 3
+    },
+    "21": {
+      "clue": "Grande antílope com chifres parecidos com os dos bois",
+      "answer": "GNU",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "O mês do dia dos pais",
+      "answer": "AGOSTO",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "Percorrer a pé",
+      "answer": "ANDAR",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "Cidade que já foi capital do Japão",
+      "answer": "OSAKA",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Disputa",
+      "answer": "RIXA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Catorze menos oito",
+      "answer": "SEIS",
+      "row": 7,
+      "col": 5
+    },
+    "34": {
+      "clue": "(Drive) Um dispositivo de informática",
+      "answer": "PEN",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "Microempresa",
+      "answer": "ME",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

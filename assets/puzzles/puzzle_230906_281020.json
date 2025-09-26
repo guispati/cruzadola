@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Fortaleza de qualquer dimensão",
+      "answer": "BASTILHA",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "As iniciais da atriz carioca Pires",
+      "answer": "GP",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Ter confiança",
+      "answer": "CRER",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Entrar na posse por sucessão",
+      "answer": "HERDAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Lâmina de barbear de dois cortes",
+      "answer": "GILETE",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Intenção de cometer um crime",
+      "answer": "DOLO",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "(Fig.) Derrota expressiva e humilhante",
+      "answer": "SOVA",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "Festa para celebração das núpcias",
+      "answer": "BODAS",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Sigla de um estado que faz fronteira com o Peru e a Bolívia",
+      "answer": "AC",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Nome de duas cidades, uma em SP e outra na PB",
+      "answer": "AMPARO",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Redução de popular",
+      "answer": "POP",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "1 metro = 3,2 (?)",
+      "answer": "PES",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Insumo Farmacêutico Ativo",
+      "answer": "IFA",
+      "row": 5,
+      "col": 8
+    },
+    "26": {
+      "clue": "Insensibilidade às causas que provocam emoções",
+      "answer": "APATIA",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "Sigla da UF com capital Boa Vista",
+      "answer": "RR",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "Deslocar aquilo que fecha",
+      "answer": "ABRIR",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Um torneio esportivo",
+      "answer": "COPA",
+      "row": 7,
+      "col": 6
+    },
+    "34": {
+      "clue": "(Gír.) Pessoa viciada em craque",
+      "answer": "NOIA",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "O ator canadense Sutherland",
+      "answer": "DONALD",
+      "row": 8,
+      "col": 5
+    },
+    "37": {
+      "clue": "Posição vertical",
+      "answer": "APRUMO",
+      "row": 9,
+      "col": 0
+    },
+    "39": {
+      "clue": "O cabeleireiro e maquiador Molinos",
+      "answer": "DUDA",
+      "row": 9,
+      "col": 7
+    },
+    "40": {
+      "clue": "Criminosa",
+      "answer": "RE",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "Mulheres nascidas em Essex ou Bristol",
+      "answer": "INGLESAS",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A vacina contra a tuberculose",
+      "answer": "BCG",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Esquivo a carinhos",
+      "answer": "ARISCO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Papel estampado, adesivo, usado para franquear correspondências",
+      "answer": "SELO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Escuridão absoluta",
+      "answer": "TREVA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A ele",
+      "answer": "LHE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Quím.) O hélio",
+      "answer": "HE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Calor intenso",
+      "answer": "ARDOR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Traje para ocasiões solenes",
+      "answer": "GALA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Bater papo",
+      "answer": "PROSEAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "(Inf.) Machucado",
+      "answer": "DODOI",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Fechar cuidadosamente um orifício",
+      "answer": "TAMPAR",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "Fundamental",
+      "answer": "BASICO",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Nivelar, tornar raso",
+      "answer": "APLANAR",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "(Shop) Loja de produtos para animais de estimação",
+      "answer": "PET",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Dar à luz",
+      "answer": "PARIR",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Peça para aparar xixi e cocô do bebê",
+      "answer": "FRALDA",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Um estado do Nordeste",
+      "answer": "PIAUI",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "Para que lugar?",
+      "answer": "AONDE",
+      "row": 6,
+      "col": 7
+    },
+    "31": {
+      "clue": "Batalhão de Operações Policiais Especiais",
+      "answer": "BOPE",
+      "row": 7,
+      "col": 1
+    },
+    "33": {
+      "clue": "O naipe preto com a figura de uma folha de trevo",
+      "answer": "PAUS",
+      "row": 7,
+      "col": 8
+    },
+    "35": {
+      "clue": "(Ingl.) Cão",
+      "answer": "DOG",
+      "row": 8,
+      "col": 5
+    },
+    "36": {
+      "clue": "Um boleto federal",
+      "answer": "DAS",
+      "row": 8,
+      "col": 10
+    },
+    "38": {
+      "clue": "Marco Nanini, ator",
+      "answer": "MN",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ser suficiente",
+      "answer": "ABASTAR",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Precede Leñas, na famosa estação sul-americana de esqui",
+      "answer": "LAS",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "O pai da esposa",
+      "answer": "SOGRO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O",
+      "answer": "OESTE",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "A abreviatura que segue Exma.",
+      "answer": "SRA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Título que se dá à rainha da beleza",
+      "answer": "MISS",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "O que muda de Vera para Verona",
+      "answer": "ON",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Abreviatura de idem",
+      "answer": "ID",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "A capital do Amapá",
+      "answer": "MACAPA",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "1/2",
+      "answer": "METADE",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "A Fitzgerald cantora de jazz (1917-1996)",
+      "answer": "ELLA",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "Protegido por um elemento de proteção ou de abrigo",
+      "answer": "RECOBERTO",
+      "row": 5,
+      "col": 1
+    },
+    "26": {
+      "clue": "O ato de amansar uma fera",
+      "answer": "DOMA",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Pequena abertura das folhas das plantas",
+      "answer": "ESTOMA",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "(Em) Ainda não decidido ou concluído",
+      "answer": "ABERTO",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "Bruno Gagliasso, ator carioca",
+      "answer": "BG",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "O inverso de bi",
+      "answer": "IB",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Sulco que surge na pele de pessoas maduras e idosas",
+      "answer": "RUGA",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Andaime usado em trabalhos externos em edifícios e obras",
+      "answer": "JAU",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "Não confessar (um crime um erro etc.)",
+      "answer": "NEGAR",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "50 centavos",
+      "answer": "MOEDA",
+      "row": 9,
+      "col": 6
+    },
+    "40": {
+      "clue": "Quilômetros por hora",
+      "answer": "KMH",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "Fazer doação",
+      "answer": "OFERTAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Desta maneira",
+      "answer": "ASSIM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Nota contábil",
+      "answer": "BORDERO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Precede o i",
+      "answer": "AGA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Samuel Rosa, músico do \"Skank\"",
+      "answer": "SR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Agarrado",
+      "answer": "TOMADO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Tom obtido da mistura do branco com o vermelho",
+      "answer": "ROSA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Linguagem de Sinais",
+      "answer": "LS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Cerimônia",
+      "answer": "ATO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Combinação secreta de caracteres usada em informática",
+      "answer": "SENHA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Atento, vigilante",
+      "answer": "ESPERTO",
+      "row": 1,
+      "col": 7
+    },
+    "15": {
+      "clue": "A massa de gelo flutuante que causou o naufrágio do Titanic",
+      "answer": "ICEBERG",
+      "row": 2,
+      "col": 5
+    },
+    "18": {
+      "clue": "Fúnebre, horrorosa",
+      "answer": "MACABRA",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "(Mús.) Agudo",
+      "answer": "ALTO",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Ideia principal",
+      "answer": "TEMA",
+      "row": 4,
+      "col": 2
+    },
+    "23": {
+      "clue": "Um redutor de velocidade",
+      "answer": "LOMBADA",
+      "row": 4,
+      "col": 9
+    },
+    "25": {
+      "clue": "Fio de tecer",
+      "answer": "ESTAME",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "(Ingl.) Bebida alcoólica",
+      "answer": "DRINK",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Regar",
+      "answer": "AGUAR",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "A moeda da Grécia e de Portugal",
+      "answer": "EURO",
+      "row": 7,
+      "col": 4
+    },
+    "33": {
+      "clue": "Com conforto físico",
+      "answer": "BEM",
+      "row": 8,
+      "col": 1
+    },
+    "35": {
+      "clue": "(ski) Moto aquática",
+      "answer": "JET",
+      "row": 8,
+      "col": 8
+    },
+    "37": {
+      "clue": "George Harrison (1943-2001), músico inglês",
+      "answer": "GH",
+      "row": 9,
+      "col": 2
+    },
+    "39": {
+      "clue": "Um pedaço do... corpo",
+      "answer": "OR",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

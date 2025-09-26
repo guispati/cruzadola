@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Síndrome que atinge as mulheres",
+      "answer": "TPM",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "O caratê chinês",
+      "answer": "SHAOLIN",
+      "row": 0,
+      "col": 4
+    },
+    "10": {
+      "clue": "Diminuição dos glóbulos vermelhos do sangue",
+      "answer": "ANEMIA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Bala que se dispara de cada vez",
+      "answer": "TIRO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Fatídico",
+      "answer": "LETAL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "2005, em algarismos romanos",
+      "answer": "MMV",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Uma roupa de baixo",
+      "answer": "CUECAS",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Um personagem como Atchim ou Feliz",
+      "answer": "ANÃO",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Esboço rápido de um desenho",
+      "answer": "RABISCO",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "De nenhuma gravidade intrínseca",
+      "answer": "BANAL",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Inventariar",
+      "answer": "ARROLAR",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "A cantora de jazz Fitzgerald (1917-1996)",
+      "answer": "ELLA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Gera som",
+      "answer": "SIRENE",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "O acento de conexão",
+      "answer": "TIL",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Batalha) Jogo de estratégia",
+      "answer": "NAVAL",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "O número de senadores que são eleitos por cada estado",
+      "answer": "TRES",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Vara fina",
+      "answer": "VARETA",
+      "row": 9,
+      "col": 5
+    },
+    "34": {
+      "clue": "Famoso time de beisebol de NY (EUA)",
+      "answer": "YANKEES",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Red.) Um instrumento musical de sopro",
+      "answer": "SAX",
+      "row": 10,
+      "col": 8
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Pó cosmético perfumado",
+      "answer": "TALCO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Excesso de gordura na cintura",
+      "answer": "PNEU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Enfiar",
+      "answer": "METER",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Separar palavras em pa, la e vras",
+      "answer": "SILABAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Abreviatura de hectare, medida agrária",
+      "answer": "HA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Olívia Torres, atriz paulista",
+      "answer": "OT",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Prefixo: água doce, lago, pântano",
+      "answer": "LIMNO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Título concedido às freiras",
+      "answer": "IRMÃ",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Baianos) O grupo musical com Baby Consuelo e Moraes Moreira, dentre outros",
+      "answer": "NOVOS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Fúnebre, horrorosa",
+      "answer": "MACABRA",
+      "row": 1,
+      "col": 3
+    },
+    "16": {
+      "clue": "(Vale dos) A região de São Leopoldo e Novo Hamburgo",
+      "answer": "SINOS",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "(Fig.) Pôr em pratos limpos",
+      "answer": "ACLARAR",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Cidade mineira, grande produtora de aguardentes",
+      "answer": "SALINAS",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "A atriz Faria",
+      "answer": "BETTY",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "(Mec.) Uma chave",
+      "answer": "ALLEN",
+      "row": 6,
+      "col": 2
+    },
+    "23": {
+      "clue": "Infortúnio",
+      "answer": "REVES",
+      "row": 6,
+      "col": 8
+    },
+    "24": {
+      "clue": "Repouso",
+      "answer": "RELAX",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "A dos Vinte Anos é uma obra do poeta Álvares de Azevedo",
+      "answer": "LIRA",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "A parte mais densa e substanciosa do leite",
+      "answer": "NATA",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Stanley Kubrick, cineasta de \"Laranja Mecânica\"",
+      "answer": "SK",
+      "row": 9,
+      "col": 3
+    },
+    "33": {
+      "clue": "V",
+      "answer": "VE",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

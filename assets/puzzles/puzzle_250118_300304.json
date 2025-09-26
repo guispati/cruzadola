@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Adicionável",
+      "answer": "SOMAVEL",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Líquido amarelado de ferida infeccionada",
+      "answer": "PUS",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "O tempo entre 35 e 23 milhões de anos",
+      "answer": "OLIGOCENO",
+      "row": 1,
+      "col": 2
+    },
+    "12": {
+      "clue": "Luana Piovani, atriz de \"A Mulher Invisível\"",
+      "answer": "LP",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Aquele que se alimenta de ovos",
+      "answer": "OVIVORO",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "O sujeito de falha ou falta",
+      "answer": "ELE",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Artigos",
+      "answer": "ITENS",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "(Pop.) Travesso",
+      "answer": "DANADO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Papai da mamãe",
+      "answer": "VOVO",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "(dos Reis) A cidade das usinas atômicas brasileiras",
+      "answer": "ANGRA",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "O material dos LPs",
+      "answer": "VINIL",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Ceder gratuitamente a outrem",
+      "answer": "DOAR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Percorrido sem ter se fixado",
+      "answer": "GIRADO",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Tomar (água, refrigerante etc.)",
+      "answer": "BEBER",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Compreender o significado das palavras escritas",
+      "answer": "LER",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Período de 84 meses",
+      "answer": "SETENIO",
+      "row": 8,
+      "col": 1
+    },
+    "32": {
+      "clue": "Oswaldo Aranha (1894-1960), político da Revolução de 1930",
+      "answer": "OA",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "O ator e diretor Miguel",
+      "answer": "FALABELLA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "(da Cunha) Cidade gaúcha produtora de vinhos",
+      "answer": "FLORES",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "(Fig.) Centro",
+      "answer": "EIXO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Cidade paraibana próxima a Campina Grande",
+      "answer": "SOLEDADE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Quím.) O molibdênio",
+      "answer": "MO",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Saudação entre amigos",
+      "answer": "ALO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Que tem grande experiência da vida (fem.)",
+      "answer": "VIVIDA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Uma nação cortada pelo rio Nilo",
+      "answer": "EGITO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Ingl.) Amor",
+      "answer": "LOVE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Trainer) Um treinador particular",
+      "answer": "PERSONAL",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Um carro da Fiat",
+      "answer": "UNO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Excluído da presença ou proximidade de outros",
+      "answer": "SO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Vir a propósito",
+      "answer": "CONVIR",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Esboço, desenho de uma obra",
+      "answer": "PLANO",
+      "row": 2,
+      "col": 1
+    },
+    "16": {
+      "clue": "Ato de agradar, para melhor iludir",
+      "answer": "ENGABELO",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Um apelido do time do Inter (RS)",
+      "answer": "COLORADO",
+      "row": 3,
+      "col": 10
+    },
+    "20": {
+      "clue": "Fazer voltar para trás",
+      "answer": "ARRETAR",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "(Inform.) Tela de monitor",
+      "answer": "VIDEO",
+      "row": 4,
+      "col": 9
+    },
+    "24": {
+      "clue": "Próprio do homem",
+      "answer": "VIRIL",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "(Biol.) Os fatores dos caracteres hereditários",
+      "answer": "GENES",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Criança recém-nascida",
+      "answer": "BEBE",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Tempero originário do mar",
+      "answer": "SAL",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "(Fut.) Série de dribles",
+      "answer": "OLE",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "(Mús.) Abreviatura de fortíssimo",
+      "answer": "FF",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "O ditongo da palavra cais",
+      "answer": "AI",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

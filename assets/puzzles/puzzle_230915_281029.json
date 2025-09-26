@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Débito Direto Autorizado",
+      "answer": "DDA",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "Um antigo carro brasileiro",
+      "answer": "SIMCA",
+      "row": 0,
+      "col": 4
+    },
+    "9": {
+      "clue": "Ave preta, se alimenta de carniça",
+      "answer": "URUBU",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Soltar (o lobo, o cão) a sua voz",
+      "answer": "UIVAR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "(Pop.) A turma, o pessoal",
+      "answer": "MACACADA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Maldosa",
+      "answer": "MA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "O Nilson jornalista",
+      "answer": "KLAVA",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Uma unidade de medida de energia da física nuclear",
+      "answer": "KEV",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Cidade catarinense do vale do Itajaí",
+      "answer": "SALETE",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Ato sagrado próprio de determinado culto",
+      "answer": "RITO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "O terceiro segmento ósseo do dedo, onde crescem as unhas",
+      "answer": "FALANGETA",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Vasilha que lembra um barril cortado ao meio",
+      "answer": "TINA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "A peça que prende o aro do basquete",
+      "answer": "TABELA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Certidão Negativa de Débito",
+      "answer": "CND",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Gregório de) Poeta baiano (1623-1696), do período colonial",
+      "answer": "MATOS",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Abreviatura da medida igual a 10.000 m²",
+      "answer": "HA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Porto da Índia onde Vasco da Gama desembarcou em 1498",
+      "answer": "CALICUTE",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "(do Chão) Um destino turístico paraense",
+      "answer": "ALTER",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Animal marítimo, principal responsável pela formação de recifes",
+      "answer": "CORAL",
+      "row": 9,
+      "col": 6
+    },
+    "34": {
+      "clue": "Rua estreita",
+      "answer": "RUELA",
+      "row": 10,
+      "col": 2
+    },
+    "35": {
+      "clue": "Pudim feito de leite e ovos, assado em forno",
+      "answer": "FLÃ",
+      "row": 10,
+      "col": 8
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O romancista francês Alexandre (1802-1870), de \"Os Três Mosqueteiros\"",
+      "answer": "DUMAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Demonstração do Resultado Abrangente",
+      "answer": "DRA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Cidade da Nova Zelândia, centro econômico do país",
+      "answer": "AUCKLAND",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Qualquer peça metálica imprestável",
+      "answer": "SUCATA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Mulher que não fala",
+      "answer": "MUDA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Abreviatura de companhia",
+      "answer": "CIA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "As iniciais do músico pernambucano Valença",
+      "answer": "AV",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Ponto negro removível que se forma na pele",
+      "answer": "CRAVO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Boato falso",
+      "answer": "BALELA",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "(Quím.) Uma classe de elementos",
+      "answer": "AMETAL",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Roupa usada por chapeiros",
+      "answer": "AVENTAL",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Esporte que usa prancha e vela",
+      "answer": "KITESURF",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Por fim",
+      "answer": "AFINAL",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Argamassa própria para cobrir paredes",
+      "answer": "REBOCO",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "O cantor chileno Lucho, do bolero",
+      "answer": "GATICA",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Até logo!",
+      "answer": "TCHAU",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Árvore de frutos muito usados em doces, chocolates e licores",
+      "answer": "AVELÃ",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Pode ser alta ou baixa",
+      "answer": "MARE",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "(Arranha-) Edifício muito alto",
+      "answer": "CEU",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Exatamente igual",
+      "answer": "TAL",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Tempo de Resposta",
+      "answer": "TR",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

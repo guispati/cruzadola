@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "16",
+      "answer": "DEZESSEIS",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Contrário à lei",
+      "answer": "ILEGAL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Bala aromatizada à base de amido, geralmente coberta com açúcar",
+      "answer": "GOMA",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Desanimado, frouxo",
+      "answer": "DEBIL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Elevar-se do chão com esforço rápido",
+      "answer": "PULAR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Diz-se de faixa de idade",
+      "answer": "ETARIA",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "O estanho, em química",
+      "answer": "SN",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Inteiramente, por inteiro",
+      "answer": "TODO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "(Pé-de-) Outro nome da frieira",
+      "answer": "ATLETA",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "(O Tronco do) Famosa obra de José de Alencar",
+      "answer": "IPE",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Canal de filmes da TV paga",
+      "answer": "HBO",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Segue Jan e antecede Mar",
+      "answer": "FEV",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "O náufrago Robinson, do livro de Daniel Defoe",
+      "answer": "CRUSOE",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Sem complexidade, sem importância (fem.)",
+      "answer": "MERA",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Um alô amigável",
+      "answer": "OI",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Estado brasileiro da Região Norte, com capital Macapá",
+      "answer": "AMAPA",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "Charles Leclerc, piloto monegasco de F1",
+      "answer": "CL",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Tradicional bairro da cidade do Rio de Janeiro",
+      "answer": "MADUREIRA",
+      "row": 8,
+      "col": 1
+    },
+    "35": {
+      "clue": "Substância que age na digestão dos alimentos",
+      "answer": "BILIS",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "De cabelos claros",
+      "answer": "LOURO",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "Uma característica do Polo Norte",
+      "answer": "FRIO",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Casa de habitação",
+      "answer": "MORADA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Próprio do ensino",
+      "answer": "DIDATICO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Segue o cá",
+      "answer": "ELE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Indivíduo insignificante, joão-ninguém",
+      "answer": "ZEBEDEU",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um país cortado pelo rio Nilo",
+      "answer": "EGITO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Local para aulas",
+      "answer": "SALA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "As iniciais do ator e músico carioca Loroza",
+      "answer": "SL",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "O sinal =",
+      "answer": "IGUAL",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "A nota que antecede o lá",
+      "answer": "SOL",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Festa anual muito aguardada pelos foliões",
+      "answer": "CARNAVAL",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Uma operadora de cartões de crédito",
+      "answer": "MASTERCARD",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Repreensão",
+      "answer": "PITO",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Derrapar (o carro) nas rodas traseiras",
+      "answer": "RABEAR",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Agir com prepotência",
+      "answer": "OPRIMIR",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "F",
+      "answer": "EFE",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Pasta de sementes de grão-de-bico usada especialmente na cozinha sírio-libanesa",
+      "answer": "HOMUS",
+      "row": 5,
+      "col": 4
+    },
+    "26": {
+      "clue": "Que tem boa saúde",
+      "answer": "SADIO",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Que tem mais de 18 anos",
+      "answer": "MAIOR",
+      "row": 6,
+      "col": 7
+    },
+    "30": {
+      "clue": "Por aquilo",
+      "answer": "PELO",
+      "row": 7,
+      "col": 6
+    },
+    "33": {
+      "clue": "O Babá personagem das \"Mil e Uma Noites\"",
+      "answer": "ALI",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "Via pública destinada ao trânsito de veículos",
+      "answer": "RUA",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "Bruno Fratus, nadador",
+      "answer": "BF",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Olivier Anquier, chef e apresentador",
+      "answer": "OA",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Aquele que reúne, que agrega",
+      "answer": "AGREMIADOR",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Marinha de guerra",
+      "answer": "FROTA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Entrelaçar fios",
+      "answer": "TECER",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "15 - 7",
+      "answer": "OITO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Um tipo de empresa",
+      "answer": "MEI",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Giovanna Ewbank, atriz e modelo",
+      "answer": "GE",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Disputa contra o Flu um clássico do futebol",
+      "answer": "FLA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Negra) Um super-herói das HQs",
+      "answer": "PANTERA",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Sapo sem consoantes",
+      "answer": "AO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Evento natural que pode causar destelhamentos",
+      "answer": "VENDAVAL",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Peleja esportiva",
+      "answer": "PARTIDA",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Diz-se de povo progressista e consciente",
+      "answer": "EVOLUIDO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Abreviatura do extinto padrão monetário cruzado",
+      "answer": "CZ",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Feito de tiras de couro",
+      "answer": "NERVADO",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Apelido para Beatriz",
+      "answer": "BIA",
+      "row": 7,
+      "col": 8
+    },
+    "27": {
+      "clue": "Turíbio Santos, violonista",
+      "answer": "TS",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Um jogo de cartas",
+      "answer": "UNO",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "Marca de automóveis fundada em 1903",
+      "answer": "FORD",
+      "row": 8,
+      "col": 7
+    },
+    "30": {
+      "clue": "Pedra de reflexos iridescentes",
+      "answer": "OPALA",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Planta usada na fabricação de cestos e móveis",
+      "answer": "JUNCO",
+      "row": 9,
+      "col": 6
+    },
+    "33": {
+      "clue": "O que se espalha",
+      "answer": "ALASTRADOR",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ato de tornar mole",
+      "answer": "AFOFAMENTO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Inseto que tritrina",
+      "answer": "GRILO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O percurso de um navio no mar",
+      "answer": "ROTA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Sufixo diminutivo masculino",
+      "answer": "ETO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Elet.) Símbolo de miliampere",
+      "answer": "MA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Recebido em audiência, consulta etc.",
+      "answer": "ATENDIDO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Estendido horizontalmente",
+      "answer": "DEITADO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Ondas Curtas",
+      "answer": "OC",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Lei, norma",
+      "answer": "REGRA",
+      "row": 0,
+      "col": 9
+    },
+    "12": {
+      "clue": "Empreendedor",
+      "answer": "REALIZADOR",
+      "row": 1,
+      "col": 10
+    },
+    "14": {
+      "clue": "Sustentado",
+      "answer": "MANTIDO",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Nascidas na nação sul-americana de Lima",
+      "answer": "PERUANAS",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "A sigla de uma borracha sintética usada em brinquedos, brindes etc.",
+      "answer": "EVA",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Registro",
+      "answer": "VALVULA",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Colocar, botar ovos",
+      "answer": "POR",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Veículo semelhante à moto",
+      "answer": "VESPA",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Uma casa de espetáculos sob uma grande lona",
+      "answer": "CIRCO",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "(James) O agente 007",
+      "answer": "BOND",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "(Pop.) Conflito, briga",
+      "answer": "FUA",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "(Quím.) O símbolo do alumínio",
+      "answer": "AL",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "Um apelido para José Roberto",
+      "answer": "JR",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

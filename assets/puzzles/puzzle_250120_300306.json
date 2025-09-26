@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Ingl.) Batatas em rodelas finas, salgadas e fritas",
+      "answer": "CHIPS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Nevoeiro denso que reduz ou anula a visibilidade",
+      "answer": "BRUMA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Microrganismo que precisa de oxigênio para viver",
+      "answer": "AEROBIO",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Se repetem em protótipo",
+      "answer": "OT",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "O símbolo do cromo, em química",
+      "answer": "CR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Causas, razões",
+      "answer": "ORIGENS",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Desafio assumido",
+      "answer": "APOSTA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Cego de um olho",
+      "answer": "DOCA",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Abrev.: Camarões",
+      "answer": "CAM",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Enterrar",
+      "answer": "ENCOVAR",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "Cidade litorânea baiana da região de Ilhéus-Itabuna",
+      "answer": "ITACARE",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Um trabalho de dentista",
+      "answer": "OBTURAR",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Junção de e + não",
+      "answer": "NEM",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Oposto de entrar",
+      "answer": "SAIR",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Canção popular romântica, de ritmo lento",
+      "answer": "BALADA",
+      "row": 7,
+      "col": 5
+    },
+    "32": {
+      "clue": "Uma das cidades mais frias do Brasil (SC)",
+      "answer": "URUBICI",
+      "row": 8,
+      "col": 1
+    },
+    "34": {
+      "clue": "A abreviatura que segue um Ilmo.",
+      "answer": "SR",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "Mark Ruffalo, ator de \"Ensaio Sobre a Cegueira\"",
+      "answer": "MR",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Nove vezes maior",
+      "answer": "NONUPLO",
+      "row": 9,
+      "col": 3
+    },
+    "38": {
+      "clue": "A principal cidade dos Emirados Árabes Unidos",
+      "answer": "DUBAI",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Planta também chamada absinto",
+      "answer": "LOSNA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Aparelho musical",
+      "answer": "HARPA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Imposto sobre Exportação",
+      "answer": "IE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Conveniências",
+      "answer": "PROS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Rifar",
+      "answer": "SORTEAR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Ben) O mais famoso sino britânico",
+      "answer": "BIG",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Um mamífero como o camundongo e a capivara",
+      "answer": "ROEDOR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Um inseto voador muito comum",
+      "answer": "MOSCA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O símbolo químico do astatínio",
+      "answer": "AT",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "A atriz paulista de \"As Verdades\" e \"Canastra Suja\"",
+      "answer": "BIANCABIN",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Madeixas de cabelo",
+      "answer": "CACHOS",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Um ciclo de orações",
+      "answer": "NOVENA",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Não declarar",
+      "answer": "OMITIR",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Difundir perfumes",
+      "answer": "AROMAR",
+      "row": 3,
+      "col": 10
+    },
+    "22": {
+      "clue": "Outro nome do astracã, pele usada para agasalhos",
+      "answer": "CARACUL",
+      "row": 4,
+      "col": 6
+    },
+    "24": {
+      "clue": "(Pop.) Valentão",
+      "answer": "TURUNA",
+      "row": 5,
+      "col": 3
+    },
+    "26": {
+      "clue": "Pão com rosbife, tomate, picles de pepino, muçarela e orégano",
+      "answer": "BAURU",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "O Arantes do Nascimento é Pelé",
+      "answer": "EDSON",
+      "row": 6,
+      "col": 9
+    },
+    "31": {
+      "clue": "(Red.) Cirurgia estética para retirada de excesso de gordura localizada",
+      "answer": "LIPO",
+      "row": 7,
+      "col": 7
+    },
+    "33": {
+      "clue": "O macho da vaca",
+      "answer": "BOI",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "1.500, em romanos",
+      "answer": "MD",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Letícia Spiller, atriz",
+      "answer": "LS",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

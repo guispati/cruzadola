@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um carro da Mitsubishi",
+      "answer": "PAJERO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "A atriz Werneck",
+      "answer": "TATA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Mineral branco, usado em medicina, tinturaria, curtume etc.",
+      "answer": "ALUME",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Tempo quente",
+      "answer": "CALOR",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "A cidade mineira onde nasceu o poeta Carlos Drummond de Andrade",
+      "answer": "ITABIRA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O som que imita um tambor",
+      "answer": "BUM",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "(Bot.) Nervura pequena e muito fina, que forma retículos em folhas",
+      "answer": "VENA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "A capital turca",
+      "answer": "ANCARA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Aerolineas Argentinas",
+      "answer": "AA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Indivíduo que indica defeitos",
+      "answer": "CENSOR",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "A genitora de um monarca",
+      "answer": "RAINHAMÃE",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Outro nome da ave marrequinha",
+      "answer": "PATURI",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Mestre de Cerimônias (do nome de músicos de hip-hop, funk etc.)",
+      "answer": "MC",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Calibrar",
+      "answer": "AFERIR",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Muito ruim ou ordinário",
+      "answer": "CHUE",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Despidos",
+      "answer": "NUS",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Pop.) Cabeça",
+      "answer": "CACHOLA",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "Acontecimento trágico catastrófico",
+      "answer": "DRAMA",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Traçar riscos em",
+      "answer": "RAJAR",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "(Nova) A \"big apple\" dos EUA",
+      "answer": "YORK",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Resíduo grosseiro de farinha de mandioca",
+      "answer": "CURERA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O escritor Marcelo Rubens, de \"Blecaute\"",
+      "answer": "PAIVA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Fazer subir",
+      "answer": "ALTEAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O piloto argentino Manuel Fangio (1911-1995)",
+      "answer": "JUAN",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Fazer perder o brilho a",
+      "answer": "EMBACIAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O Momo aparece no carnaval",
+      "answer": "REI",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Pop.) Ok!",
+      "answer": "TA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Outro nome da erva-dos-feridos",
+      "answer": "ALBARÃ",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O de France é uma corrida de bicicletas",
+      "answer": "TOUR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Pôr em condições de disparar",
+      "answer": "ARMAR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Causar fadiga a",
+      "answer": "CANSAR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Fissura, fresta",
+      "answer": "RANHURA",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Coçar",
+      "answer": "COMICHAR",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Teimosia",
+      "answer": "ENTICA",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "A despeito de",
+      "answer": "APESAR",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Seguir o exemplo de",
+      "answer": "EMULAR",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Cantora, ex-companheira de Junior",
+      "answer": "SANDY",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "O estado CE",
+      "answer": "CEARA",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "(Pop.) Falta ao compromisso combinado",
+      "answer": "FURO",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "Este dia",
+      "answer": "HOJE",
+      "row": 7,
+      "col": 8
+    },
+    "34": {
+      "clue": "Sem cozimento suficiente",
+      "answer": "CRU",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "Maurício Kubrusly, jornalista",
+      "answer": "MK",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

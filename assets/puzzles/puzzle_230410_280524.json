@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "As entidades comerciais que compõem a Febraban",
+      "answer": "BANCOS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Falta de naturalidade",
+      "answer": "POSE",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Abreviatura de limitada",
+      "answer": "LTDA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Só",
+      "answer": "APENAS",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Exclamação de surpresa",
+      "answer": "UE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Grandes) Região entre o Canadá e os Estados Unidos",
+      "answer": "LAGOS",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Atração pessoal",
+      "answer": "IT",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "O sujeito de mente ou agride",
+      "answer": "ELE",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Obrigação assumida ou contraída",
+      "answer": "PALAVRA",
+      "row": 3,
+      "col": 4
+    },
+    "21": {
+      "clue": "Provocado artificialmente",
+      "answer": "INDUZIDO",
+      "row": 4,
+      "col": 1
+    },
+    "23": {
+      "clue": "Veículo de transmissão, como o mosquito da dengue",
+      "answer": "VETOR",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Uma raça de cães de guarda",
+      "answer": "DOGUE",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "Averiguar de novo",
+      "answer": "REAPURAR",
+      "row": 6,
+      "col": 2
+    },
+    "28": {
+      "clue": "Anotar os compromissos",
+      "answer": "AGENDAR",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Precede Vegas e Leñas",
+      "answer": "LAS",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Compaixão, pena",
+      "answer": "DO",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Inteiro",
+      "answer": "TOTAL",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Tema para pintores",
+      "answer": "NU",
+      "row": 8,
+      "col": 9
+    },
+    "36": {
+      "clue": "Que trabalha em fábrica de tijolos",
+      "answer": "OLEIRO",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Peça do vestuário que pode ser três-quartos",
+      "answer": "MEIA",
+      "row": 9,
+      "col": 7
+    },
+    "40": {
+      "clue": "Cauda de vestido",
+      "answer": "RABO",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "O mais velho (contrapõe-se a júnior)",
+      "answer": "SENIOR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Chip) Em economia, ações lucrativas",
+      "answer": "BLUE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Estúdio",
+      "answer": "ATELIE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O neodímio, para os químicos",
+      "answer": "ND",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Pó branco usado em obras",
+      "answer": "CAL",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Perspicaz",
+      "answer": "SAGAZ",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Aquele que faz uso da balança",
+      "answer": "PESADOR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Ingl.) Em cima",
+      "answer": "ON",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Deixar a casa",
+      "answer": "SAIR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Conjunto de dirigentes de uma empresa",
+      "answer": "ESTAFE",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Lustre, verniz",
+      "answer": "POLIDURA",
+      "row": 1,
+      "col": 6
+    },
+    "15": {
+      "clue": "Aquele que conta os votos",
+      "answer": "APURADOR",
+      "row": 2,
+      "col": 4
+    },
+    "18": {
+      "clue": "Em posição intermediária",
+      "answer": "ENTRE",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "A, E, I, O ou U",
+      "answer": "VOGAL",
+      "row": 3,
+      "col": 8
+    },
+    "22": {
+      "clue": "Que sofre de uma contínua falta de saúde e de vigor",
+      "answer": "DOENTIO",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "(Disco) O mesmo que óvni",
+      "answer": "VOADOR",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "U, elemento químico",
+      "answer": "URANIO",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "(Lagoa dos) A maior laguna do Brasil, no RS",
+      "answer": "PATOS",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "Colarinho",
+      "answer": "GOLA",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "Destilar",
+      "answer": "SUAR",
+      "row": 7,
+      "col": 10
+    },
+    "34": {
+      "clue": "As letras entre o K e o O",
+      "answer": "LMN",
+      "row": 8,
+      "col": 7
+    },
+    "37": {
+      "clue": "(Náut.) Abreviatura de estibordo",
+      "answer": "EB",
+      "row": 9,
+      "col": 2
+    },
+    "39": {
+      "clue": "(Interj.) Um chamamento",
+      "answer": "EI",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Mover para um e outro lado",
+      "answer": "SACUDIR",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Departamento de Polícia Federal",
+      "answer": "DPF",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "Busca feita em lugares suspeitos de acobertar criminoso",
+      "answer": "VAREJADURA",
+      "row": 1,
+      "col": 1
+    },
+    "13": {
+      "clue": "Pequena elevação de terreno",
+      "answer": "CERRO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Neol.) Dieta nutricional para eliminar substâncias prejudiciais",
+      "answer": "DETOX",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "14-6",
+      "answer": "OITO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "As nações",
+      "answer": "POVOS",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Diz-se que chuta o da barraca quem desiste de um plano",
+      "answer": "PAU",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "O músico de rockabilly Vincent (1935-1971)",
+      "answer": "GENE",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "O Jarreau (1940-2017) intérprete de jazz",
+      "answer": "AL",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Fontanela",
+      "answer": "MOLEIRA",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Senado Federal",
+      "answer": "SF",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Febre tifoide",
+      "answer": "TIFO",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "(Mac) Um dos sanduíches mais vendidos do mundo, produzido desde 1968",
+      "answer": "BIG",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "(in Chains) Banda estadunidense de rock",
+      "answer": "ALICE",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "(Fig.) Centro de interesse",
+      "answer": "POLO",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "De pouca força",
+      "answer": "FRACO",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "A folha seca do milho, na qual se enrola o fumo de rolo",
+      "answer": "PALHA",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Um exame das cavidades internas do organismo",
+      "answer": "ENDOSCOPIA",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Viagem de Boeing",
+      "answer": "VOO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Espalhado aqui e ali",
+      "answer": "ESPARSO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Cereal leve de fácil digestão",
+      "answer": "AVEIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Uma anedota gráfica",
+      "answer": "CARTUM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Bramido de feras",
+      "answer": "URRO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O bandolinista e compositor carioca Rian",
+      "answer": "DEO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "As letras entre o H e o K",
+      "answer": "IJ",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Rn, elemento químico",
+      "answer": "RADONIO",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Canal no organismo animal",
+      "answer": "DUTO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Conversa informal",
+      "answer": "PROSA",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Um aparelho eletrônico em desuso",
+      "answer": "FAX",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Ter dívidas ou obrigações",
+      "answer": "DEVER",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "O naipe da figura de coração",
+      "answer": "COPAS",
+      "row": 2,
+      "col": 0
+    },
+    "16": {
+      "clue": "(Pop.) Prato feito",
+      "answer": "PEEFE",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "A principal fonte de energia para os organismos vivos",
+      "answer": "GLICOSE",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "(Santa) Cidade mineira junto à capital",
+      "answer": "LAGOA",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Do ouvido",
+      "answer": "OTICO",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Tornar extinto",
+      "answer": "ABOLIR",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "(Pop.) Mal-estar, inquietação",
+      "answer": "FARNO",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "As terras que formam um arquipélago",
+      "answer": "ILHAS",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "Parte lateral de algo",
+      "answer": "LADO",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "Profissional muito reconhecido por sua competência",
+      "answer": "PAPA",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Abreviatura do mês 2",
+      "answer": "FEV",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Um tipo de música ou pintura moderna",
+      "answer": "POP",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Carlos Santana, músico de rock",
+      "answer": "CS",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

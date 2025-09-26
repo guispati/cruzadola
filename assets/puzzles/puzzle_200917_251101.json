@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Unha grossa e dura do equídeo",
+      "answer": "CASCO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Mulher demasiadamente voltada para as práticas religiosas",
+      "answer": "BEATA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "A artéria principal do corpo humano",
+      "answer": "AORTA",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Abreviatura (em português) de Mônaco",
+      "answer": "MON",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "(Mús.) Harmonizar instrumentos",
+      "answer": "AFINAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Em informática, a unidade básica de informação.",
+      "answer": "BYTE",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "(Rover) Uma fábrica de carros",
+      "answer": "LAND",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Escandaloso",
+      "answer": "IMORAL",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Arrancar pela raiz",
+      "answer": "EXTIRPAR",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Certo tecido ralo e fino",
+      "answer": "LO",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "O ator paulistano Antônio",
+      "answer": "CALLONI",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Apontar como o provável culpado",
+      "answer": "INDICIAR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Zeca Baleiro, músico",
+      "answer": "ZB",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Roupa curta que se usa na piscina ou na praia",
+      "answer": "MAIO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Cobrir com o elemento de símbolo Cr",
+      "answer": "CROMAR",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "(Arquit.) Desenho que representa uma obra",
+      "answer": "PLANTA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Fio têxtil produzido pela larva de uma borboleta noturna",
+      "answer": "SEDA",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "País com capital Yaren",
+      "answer": "NAURU",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Parte do... Olodum",
+      "answer": "LOD",
+      "row": 9,
+      "col": 8
+    },
+    "35": {
+      "clue": "Uma obra como \"As Bodas de Fígaro\"",
+      "answer": "OPERA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "(Mús.) Estilo originário do Rio de Janeiro, nos anos 1870",
+      "answer": "CHORO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Casa de madeira em estilo suíço",
+      "answer": "CHALE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Moritz) Cidade suíça, palco de duas Olimpíadas de Inverno",
+      "answer": "SAINT",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Limitar a liberdade de ação",
+      "answer": "CONDICIONAR",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Conjunção coordenativa aditiva",
+      "answer": "ORA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Sigla da Bahia",
+      "answer": "BA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "O navegador paulista Klink",
+      "answer": "AMYR",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Somadora mecânica ou eletrônica",
+      "answer": "TOTALIZADOR",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Aspiração",
+      "answer": "ANELO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Multiplicar por 3",
+      "answer": "TRIPLICAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "(dos Guedes) Cidade catarinense próxima a Xanxerê",
+      "answer": "FAXINAL",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Uma grande tribo indígena do Mato Grosso",
+      "answer": "BOROROS",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Um osso da face",
+      "answer": "MALAR",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "O que muda de atado para atracado",
+      "answer": "RAC",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Que não tem fé",
+      "answer": "IMPIO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "A atriz Keaton, de \"Noivo Neurótico, Noiva Nervosa\"",
+      "answer": "DIANE",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "É retumbante no nosso Hino Nacional",
+      "answer": "BRADO",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "(Pop.) Música simples, que pode ser decorada facilmente",
+      "answer": "MELO",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Feita por ti",
+      "answer": "TUA",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Unidade de Conservação",
+      "answer": "UC",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

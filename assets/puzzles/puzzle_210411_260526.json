@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Amortecer, abrandar o som de",
+      "answer": "ABAFAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Fig.) Derrota expressiva e humilhante",
+      "answer": "SOVA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "(Matem.) Que tem o valor de zero",
+      "answer": "NULO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Por fim",
+      "answer": "AFINAL",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Pequena diferença",
+      "answer": "TRIZ",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Cidade da região da Mata Alagoana",
+      "answer": "JUNDIA",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "No islamismo, nome árabe do Ser Supremo",
+      "answer": "ALA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Ir ao longo de um rio",
+      "answer": "MARGEAR",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Observar com prazer",
+      "answer": "ADMIRAR",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Enganar quem em nós confiou",
+      "answer": "TRAIR",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "O poeta Alighieri (1265-1321), de \"A Divina Comédia\"",
+      "answer": "DANTE",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Lidar, trabalhar",
+      "answer": "LABORAR",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Apreciar",
+      "answer": "ESTIMAR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Porém, todavia",
+      "answer": "MAS",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Tecido de algodão leve",
+      "answer": "PERCAL",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Conjunto de pessoas que habitam uma mesma região",
+      "answer": "POVO",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "A árvore da fruta-do-conde",
+      "answer": "ATEIRA",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Acreditar",
+      "answer": "CRER",
+      "row": 9,
+      "col": 7
+    },
+    "34": {
+      "clue": "O conjunto das folhas de uma planta",
+      "answer": "RAMA",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Fino e agradável ao tato",
+      "answer": "SEDOSO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Pop.) Burro",
+      "answer": "ANTA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ludibriar, lograr",
+      "answer": "BURLAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Partidária, cúmplice",
+      "answer": "ALIADA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(do Iguaçú) Famosa catarata brasileira",
+      "answer": "FOZ",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Estriar",
+      "answer": "RAJAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Navegar à vela",
+      "answer": "SINGRAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Em que",
+      "answer": "ONDE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Um meio de mostrar insatisfação com um jogo ruim",
+      "answer": "VAIA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Dispositivo de segurança para lojas, casas e carros",
+      "answer": "ALARME",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Utensílio para fazer buracos em papel, couro etc.",
+      "answer": "FURADOR",
+      "row": 1,
+      "col": 6
+    },
+    "16": {
+      "clue": "Belvedere sobre o oceano",
+      "answer": "MIRAMAR",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Exército, tropa",
+      "answer": "MILICIA",
+      "row": 4,
+      "col": 3
+    },
+    "19": {
+      "clue": "Subir com a ajuda de mãos e pés",
+      "answer": "TREPAR",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Ato de cortejar",
+      "answer": "NAMORO",
+      "row": 5,
+      "col": 8
+    },
+    "22": {
+      "clue": "Direção oblíqua, soslaio",
+      "answer": "TRAVES",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Doces pequenos, de tipos variados",
+      "answer": "BALAS",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "A forma do que é sagital",
+      "answer": "SETA",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Meio de transporte, coletivo ou de carga",
+      "answer": "TREM",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Líquido imunizador",
+      "answer": "SORO",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Pessoa com Deficiência",
+      "answer": "PCD",
+      "row": 8,
+      "col": 7
+    }
+  }
+}

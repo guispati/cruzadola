@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Soltar a sua voz (a ave)",
+      "answer": "PIAR",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "As armações de barras de ferro cruzadas usadas para proteção de janelas",
+      "answer": "GRADES",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Catedral",
+      "answer": "DOMO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Lugar onde se engordam animais",
+      "answer": "CEVA",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "O cantor gaúcho Nelson (1919-1998)",
+      "answer": "GONÇALVES",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Lustrar (panelas)",
+      "answer": "AREAR",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Dar passos",
+      "answer": "ANDAR",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Uma rede de TV",
+      "answer": "SBT",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "País com Telaviv",
+      "answer": "ISRAEL",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Interj.: pois não!",
+      "answer": "OI",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Outro nome da anta",
+      "answer": "TAPIR",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Torben Grael, iatista fluminense",
+      "answer": "TG",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Qualquer abertura, rachadura estreita",
+      "answer": "TRINCA",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "O acento de gavião",
+      "answer": "TIL",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Árvore tropical, de grande porte, típica da África",
+      "answer": "BAOBA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "O marido da falecida",
+      "answer": "VIUVO",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "A escritora Clarice (1920-1977), de \"Perto do Coração Selvagem\"",
+      "answer": "LISPECTOR",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "Uma formação como Bananal",
+      "answer": "ILHA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Pequeno furo para passar fitas e cordões",
+      "answer": "ILHO",
+      "row": 9,
+      "col": 5
+    },
+    "36": {
+      "clue": "Caminho secundário, derivado de um principal",
+      "answer": "ATALHO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Barra",
+      "answer": "ORLA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O cavalo alado da mitologia",
+      "answer": "PEGASO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O ator e comediante Marcelo",
+      "answer": "ADNET",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "A zona rural, o campo",
+      "answer": "ROÇA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Nos esportes como o handebol, o ponto obtido",
+      "answer": "GOL",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "Chamar a atenção por meio de gestos",
+      "answer": "ACENAR",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "A partir de",
+      "answer": "DESDE",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Símbolo de elétron-volt, unidade de energia",
+      "answer": "EV",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Tirar o time",
+      "answer": "SAIR",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "(Ilhas) Arquipélago do Pacífico",
+      "answer": "MARIANAS",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Trajetória de um corpo celeste ao girar em volta de um astro",
+      "answer": "ORBITA",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Suscetível de modificação",
+      "answer": "VARIAVEL",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Presunçoso, cheio de si",
+      "answer": "ALTIVO",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "Órgão que consulta crédito",
+      "answer": "SPC",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Relativo ao mais grosso dos dois ossos da perna",
+      "answer": "TIBIAL",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Grandeza, honra, orgulho",
+      "answer": "GLORIA",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "A tradicional tampa da garrafa de vinho",
+      "answer": "ROLHA",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Que supervisiona, dirige",
+      "answer": "TUTOR",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Flutuador usado para separar as raias na piscina",
+      "answer": "BOIA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Sufixo diminutivo masculino",
+      "answer": "ICHO",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Muito religioso",
+      "answer": "PIO",
+      "row": 8,
+      "col": 5
+    },
+    "34": {
+      "clue": "Luiza Trajano, empresária",
+      "answer": "LT",
+      "row": 9,
+      "col": 1
+    }
+  }
+}

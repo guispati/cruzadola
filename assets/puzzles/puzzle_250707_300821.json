@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Que gera dinâmica, esforço, incentivo etc.",
+      "answer": "MOTOR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Red.) O dia anterior ao sábado",
+      "answer": "SEXTA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Mau hálito",
+      "answer": "HALITOSE",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Uma unidade de tensão elétrica",
+      "answer": "MILIVOLT",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Red.) Bissexual",
+      "answer": "BI",
+      "row": 2,
+      "col": 9
+    },
+    "14": {
+      "clue": "Instituto Oceanográfico",
+      "answer": "IO",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Cada osso da raque",
+      "answer": "VERTEBRA",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Roupa para casamento",
+      "answer": "TERNO",
+      "row": 4,
+      "col": 2
+    },
+    "18": {
+      "clue": "O órgão que se retira na nefrectomia",
+      "answer": "RIM",
+      "row": 4,
+      "col": 8
+    },
+    "19": {
+      "clue": "(Ingl.) Cerveja",
+      "answer": "BEER",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Aparelho com que se dirigem embarcações ou aviões",
+      "answer": "LEME",
+      "row": 5,
+      "col": 7
+    },
+    "22": {
+      "clue": "(Rom.) 61",
+      "answer": "LXI",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "O jornalista e apresentador Schmidt",
+      "answer": "TADEU",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "(da Serra) Parque nacional localizado entre SC e RS",
+      "answer": "APARADOS",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Interjeição própria para espantar galinhas",
+      "answer": "XO",
+      "row": 7,
+      "col": 9
+    },
+    "28": {
+      "clue": "Nada além disso",
+      "answer": "SO",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Poder conter (pessoas)",
+      "answer": "ACOMODAR",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Ornar, enfeitar",
+      "answer": "APARATAR",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "Conseguir",
+      "answer": "OBTER",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "As flores que não falam, no sucesso de Cartola",
+      "answer": "ROSAS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Estado dos EUA com capital Columbus",
+      "answer": "OHIO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Como esse",
+      "answer": "TAL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O ator Hardy (1892-1957), de \"O Gordo e o Magro\"",
+      "answer": "OLIVER",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Ingl.) Rio",
+      "answer": "RIVER",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Livre",
+      "answer": "SOLTO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Pronome demonstrativo",
+      "answer": "ESTE",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O símbolo do xenônio, elemento químico",
+      "answer": "XE",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Uma das regiões do maior continente da Terra",
+      "answer": "ASIAMENOR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Operário que dá acabamento a peças através do movimento de rotação de certa máquina",
+      "answer": "TORNEADOR",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Célula precursora de células musculares",
+      "answer": "MIOBLASTO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Tecido grosso e resistente usado em calças, aventais etc",
+      "answer": "BRIM",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Pez usado em adesivos, vernizes, isolantes, revestimentos etc.",
+      "answer": "BREU",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Enredo, intriga",
+      "answer": "TEIA",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "(Red.) Exposição",
+      "answer": "EXPO",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "País cuja capital é Maseru",
+      "answer": "LESOTO",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "Lançar",
+      "answer": "TACAR",
+      "row": 6,
+      "col": 4
+    },
+    "24": {
+      "clue": "Tornar dóceis animais ferozes ou selvagens",
+      "answer": "DOMAR",
+      "row": 6,
+      "col": 6
+    },
+    "26": {
+      "clue": "Tabaco de cheiro, em pó muito fino",
+      "answer": "RAPE",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "Que tem o mesmo nome",
+      "answer": "XARA",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Documento de Arrecadação do Simples",
+      "answer": "DAS",
+      "row": 8,
+      "col": 8
+    },
+    "31": {
+      "clue": "Anton Tchekhov (1867-1957), escritor russo",
+      "answer": "AT",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

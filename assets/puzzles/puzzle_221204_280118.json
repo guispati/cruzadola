@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cerca",
+      "answer": "TAPAGEM",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Duas pessoas",
+      "answer": "PAR",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "(Dívida) Débitos com a fazenda pública",
+      "answer": "ATIVA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Uma palavra como explorar ou planejar",
+      "answer": "VERBO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Castidade, inocência",
+      "answer": "PUREZA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Rel.) O criador",
+      "answer": "DEUS",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Entre as 24 e as 2",
+      "answer": "UMA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Aquele que quer tudo para si",
+      "answer": "EGOISTA",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Peça que impede vazamentos",
+      "answer": "RETENTOR",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "A primeira vogal e a primeira consoante",
+      "answer": "AB",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Trilha",
+      "answer": "SENDA",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Preposição que pode expressar sentido de tempo, lugar, valor etc.",
+      "answer": "EM",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Doce que se faz do melado",
+      "answer": "RAPADURA",
+      "row": 6,
+      "col": 1
+    },
+    "29": {
+      "clue": "Do lado",
+      "answer": "LATERAL",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "O cantor Maia (1942-1998), de \"Me Dê Motivo\"",
+      "answer": "TIM",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Servir-se de",
+      "answer": "USAR",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Trem de velocidade maior que a ordinária",
+      "answer": "RAPIDO",
+      "row": 8,
+      "col": 5
+    },
+    "35": {
+      "clue": "Batalhar, pelejar",
+      "answer": "LIDAR",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Ser consequência de",
+      "answer": "DEVER",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "Oi, ao telefone",
+      "answer": "ALO",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "(das Letras) Cidade mística do sul de MG",
+      "answer": "SÃOTOME",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Filho de branco e índia",
+      "answer": "TAPUIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Peixe marinho de carne apreciada",
+      "answer": "ATUM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Enlouquecer",
+      "answer": "PIRAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O animal que é objeto de estudo da ornitologia",
+      "answer": "AVE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Fugir às aulas ou ao trabalho",
+      "answer": "GAZETEAR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Monica Vitti (1931-2022), atriz italiana de \"A Noite\"",
+      "answer": "MV",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Travado",
+      "answer": "PRESO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Ave de rapina diurna",
+      "answer": "ABUTRE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A Púrpura do Cairo é um filme de Woody Allen",
+      "answer": "ROSA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Publicar uma obra impressa",
+      "answer": "EDITAR",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Fazer constar no livrete em que se anotam os compromissos",
+      "answer": "AGENDAR",
+      "row": 2,
+      "col": 5
+    },
+    "18": {
+      "clue": "Franzido",
+      "answer": "ONDULADO",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "Demora, tardança",
+      "answer": "ESPERA",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "País que faz fronteira com a Argentina e com a Venezuela",
+      "answer": "BRASIL",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Rio que, junto com o Beni, forma o Madeira, na Amazônia",
+      "answer": "MAMORE",
+      "row": 5,
+      "col": 10
+    },
+    "27": {
+      "clue": "Feixe",
+      "answer": "ATADO",
+      "row": 6,
+      "col": 2
+    },
+    "28": {
+      "clue": "Que atua de modo rápido, dinâmico",
+      "answer": "ATIVO",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Molusco do qual se extrai a tinta sépia",
+      "answer": "LULA",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Id",
+      "answer": "IDEM",
+      "row": 7,
+      "col": 9
+    },
+    "34": {
+      "clue": "Plástico usado para fazer garrafas",
+      "answer": "PET",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "Sigla do estado de Santa Maria e Pelotas",
+      "answer": "RS",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

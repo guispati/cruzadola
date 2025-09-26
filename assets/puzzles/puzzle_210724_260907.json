@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Região de SP com alta concentração de indústrias",
+      "answer": "ABECE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "As porções determinadas para cada sócio",
+      "answer": "COTAS",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Situado entre os dez primeiros",
+      "answer": "NONO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "A extremidade posterior do navio",
+      "answer": "POPA",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Disparos de metralhadora",
+      "answer": "TIROS",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Estágio imaturo de alguns insetos que apresentam metamorfose",
+      "answer": "NINFA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Inábil",
+      "answer": "INAPTO",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Elétron-volt",
+      "answer": "EV",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Planta usada para cobrir quiosques",
+      "answer": "SAPE",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "O acabamento de um trabalho",
+      "answer": "REMATE",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Disfarçada, camuflada",
+      "answer": "MASCARADA",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Pôster",
+      "answer": "CARTAZ",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Combinação de preposição com pronome pessoal feminino",
+      "answer": "NELA",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Uma das três divisões da personalidade humana",
+      "answer": "ID",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Revogar",
+      "answer": "ABOLIR",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Erva de flores rosa-púrpura, usada em óleos aromáticos",
+      "answer": "NARDO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Lugar de criação de pastores",
+      "answer": "CANIL",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Armazém de mercadorias em um porto",
+      "answer": "DOCA",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Um dos elementos de um conjunto ou categoria",
+      "answer": "CADA",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "A parte mais alta do braço",
+      "answer": "OMBRO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Sua por todos quem transpira em excesso",
+      "answer": "POROS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O oposto de depois",
+      "answer": "ANTES",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Grande mamífero muito abatido para alimentação",
+      "answer": "BOI",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Fig.) Surrar, bater",
+      "answer": "ENRIPAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Aquele que justifica capciosamente a própria conduta",
+      "answer": "COONESTADOR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Em matemática, ser divisível exatamente por",
+      "answer": "CONTER",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Dependente da droga extraída da papoula",
+      "answer": "OPIOMANIACO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Tanzânia",
+      "answer": "TAN",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Sem movimentos rápidos ou bruscos, ou sem solavancos",
+      "answer": "SUAVE",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Sociedade Anônima",
+      "answer": "SA",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Relativo ao embrião em fase de desenvolvimento",
+      "answer": "FETAL",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Tempo em que algo deve ser feito",
+      "answer": "PRAZO",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Querida",
+      "answer": "AMADA",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Inclinar-se (o navio) submergindo de um lado",
+      "answer": "ADERNAR",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Uma variedade de queijo",
+      "answer": "CABOCO",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Onze menos seis",
+      "answer": "CINCO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Livro com coleção de mapas geográficos",
+      "answer": "ATLAS",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Louise Cardoso, atriz carioca",
+      "answer": "LC",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Recibo de Depósito Bancário",
+      "answer": "RDB",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "Que foi",
+      "answer": "IDO",
+      "row": 8,
+      "col": 9
+    }
+  }
+}

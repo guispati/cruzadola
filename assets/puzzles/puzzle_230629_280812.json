@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Carrinho ou boneca",
+      "answer": "BRINQUEDO",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Girar",
+      "answer": "ROTAR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Inferior em grandeza",
+      "answer": "MENOR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Pequeno município paraibano do estado",
+      "answer": "EMAS",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Fibra têxtil própria para sacos",
+      "answer": "JUTA",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Distância entre dois pontos de uma viga, arco etc.",
+      "answer": "VÃO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Famoso conjunto de rock progressivo dos anos 70 e 80",
+      "answer": "GENESIS",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "(Ingl.) Aposento para roupas e apetrechos pessoais",
+      "answer": "CLOSET",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "K",
+      "answer": "CA",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Advérbio que indica em grau superior",
+      "answer": "MAIS",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Chão",
+      "answer": "SOLO",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "(Quím.) O símbolo do cobre",
+      "answer": "CU",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Que não se manifesta",
+      "answer": "OMISSO",
+      "row": 6,
+      "col": 3
+    },
+    "29": {
+      "clue": "(Biol.) Uma fase da multiplicação celular",
+      "answer": "ANAFASE",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "(Tac) Um doce do tipo pastilha",
+      "answer": "TIC",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "Elemento de composição: nariz",
+      "answer": "RINO",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Banha Paris, na França",
+      "answer": "SENA",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "Comunidade indígena",
+      "answer": "TRIBO",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Coração, em inglês",
+      "answer": "HEART",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "Isolado, sem companhia",
+      "answer": "SOLITARIO",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Que dura pouco tempo",
+      "answer": "BREVE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Fruto de propriedades adstringentes",
+      "answer": "ROMÃ",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Caverna, gruta",
+      "answer": "ITAOCA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Dentro das",
+      "answer": "NAS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Seguem o P",
+      "answer": "QR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Eddie Murphy, ator de \"As Mil Palavras\"",
+      "answer": "EM",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Sobras de desassimilação eliminados pelo organismo",
+      "answer": "DEJETOS",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Encargo, obrigação",
+      "answer": "ONUS",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Coisa muito quente, escaldante",
+      "answer": "BRASA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Relativo a orelha",
+      "answer": "OTICO",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "São dois na pizza",
+      "answer": "ZES",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Baba espessa ou pegajosa",
+      "answer": "GOSMA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Em + esse",
+      "answer": "NESSE",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "Substância que não recupera suas propriedades pela adição de solventes",
+      "answer": "LIOFOBO",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Fornecer, prover",
+      "answer": "MUNIR",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Fracionar um terreno para vendê-lo em partes",
+      "answer": "LOTEAR",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "A Magna é a Constituição de um país",
+      "answer": "CARTA",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Infecções Sexualmente Transmissíveis",
+      "answer": "IST",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Respeito, consideração",
+      "answer": "ACATO",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Essência usada em balas e licores",
+      "answer": "ANIS",
+      "row": 7,
+      "col": 2
+    },
+    "32": {
+      "clue": "(Rel.) A inscrição da Cruz de Cristo",
+      "answer": "INRI",
+      "row": 7,
+      "col": 9
+    },
+    "34": {
+      "clue": "O mar dos ingleses",
+      "answer": "SEA",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "(Fís.) Ondas Longas",
+      "answer": "OL",
+      "row": 9,
+      "col": 4
+    },
+    "37": {
+      "clue": "Humberto Teixeira (1915-1979), compositor parceiro de Luiz Gonzaga",
+      "answer": "HT",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

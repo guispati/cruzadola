@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Da região que inclui parte da França e parte da Espanha",
+      "answer": "BASCO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Pelo contrário",
+      "answer": "ANTES",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Mulher que aleita recém-nascido não próprio",
+      "answer": "AMA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Outro nome do leopardo",
+      "answer": "PANTERA",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "(Ingl.) A expansão cósmica que marcou a origem do universo",
+      "answer": "BIGBANG",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Med.) Sigla para acidente vascular cerebral",
+      "answer": "AVC",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "A mãe dos potros",
+      "answer": "EGUA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Fig.) Procurar seduzir",
+      "answer": "TENTAR",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Precede Fontaine no sobrenome do fabulista francês",
+      "answer": "LA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Fazer soar (o apito)",
+      "answer": "TRILAR",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Um produto de limpeza",
+      "answer": "REMOVEDOR",
+      "row": 5,
+      "col": 1
+    },
+    "26": {
+      "clue": "O rio que banha Londres, na Inglaterra",
+      "answer": "TAMISA",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Otaviano Costa, ator e apresentador",
+      "answer": "OC",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Movimentar o leque",
+      "answer": "ABANAR",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "(Gír.) Informação útil, proveitosa, geralmente pouco conhecida",
+      "answer": "DICA",
+      "row": 7,
+      "col": 7
+    },
+    "33": {
+      "clue": "Uma seita budista",
+      "answer": "ZEN",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Utensílio para fragmentar queijo",
+      "answer": "RALADOR",
+      "row": 8,
+      "col": 4
+    },
+    "36": {
+      "clue": "Aquele que se ocupa da produção vinícola",
+      "answer": "ENOFILO",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Abreviatura do exame realizado para constatar as eventuais disfunções do coração",
+      "answer": "ECG",
+      "row": 9,
+      "col": 8
+    },
+    "39": {
+      "clue": "Camada fina e rasteira de pequenas plantas",
+      "answer": "RELVA",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Um arquipélago da Oceania",
+      "answer": "SAMOA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Fig.) Desordem e confusão",
+      "answer": "BABEL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Tornar companheiro fiel",
+      "answer": "AMIGAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Uma sobremesa",
+      "answer": "SAGU",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Oi!",
+      "answer": "OPA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "O A de LA, nos EUA",
+      "answer": "ANGELES",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "As iniciais da atriz carioca Timberg",
+      "answer": "NT",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Palco",
+      "answer": "TEATRO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Planta usada para dar sabor e aroma na culinária",
+      "answer": "ERVA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Osso que se articula com a última vértebra lombar",
+      "answer": "SACRO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Que atua contra o agente que causa a Covid, por exemplo",
+      "answer": "ANTIVIRAL",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "O homem-morcego, personagem das HQ's, cinema e TV",
+      "answer": "BATMAN",
+      "row": 2,
+      "col": 3
+    },
+    "18": {
+      "clue": "(Pop.) Um mergulho na piscina",
+      "answer": "NADADA",
+      "row": 3,
+      "col": 7
+    },
+    "21": {
+      "clue": "Viagem de veneração religiosa",
+      "answer": "ROMARIA",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "Um combustível para carros",
+      "answer": "ETANOL",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Estilo arquitetônico e decorativo exageradamente enfeitado",
+      "answer": "ROCOCO",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Produzir através de determinada ação",
+      "answer": "FAZER",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Energia elétrica acumulada",
+      "answer": "CARGA",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Benedito, para os íntimos",
+      "answer": "BENE",
+      "row": 7,
+      "col": 1
+    },
+    "32": {
+      "clue": "Id",
+      "answer": "IDEM",
+      "row": 7,
+      "col": 8
+    },
+    "35": {
+      "clue": "(Hermanos) Banda de pop rock nacional",
+      "answer": "LOS",
+      "row": 8,
+      "col": 6
+    },
+    "37": {
+      "clue": "Fagundes Varella (1841-1875), poeta",
+      "answer": "FV",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

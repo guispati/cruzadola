@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "O ex-presidente da República Franco (1930-2011)",
+      "answer": "ITAMAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Apogeu",
+      "answer": "AUGE",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "O lutécio, em química",
+      "answer": "LU",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Soma total",
+      "answer": "IMPORTE",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "No meio",
+      "answer": "ENTRE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Enchimento que era usado em travesseiros e cadeiras",
+      "answer": "PAINA",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Explorar pedras preciosas",
+      "answer": "GARIMPAR",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "O sujeito de penso ou resolvo",
+      "answer": "EU",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "(Paraíba) Cidade mineira da divisa com o RJ",
+      "answer": "ALEM",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Os casebres que formam a taba",
+      "answer": "OCAS",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Iluminação",
+      "answer": "LUZ",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "É egg na Austrália",
+      "answer": "OVO",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Que foi ou se foi",
+      "answer": "IDO",
+      "row": 5,
+      "col": 8
+    },
+    "26": {
+      "clue": "Cadeia de montanhas",
+      "answer": "SERRO",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Um exame classificatório para faculdades",
+      "answer": "ENEM",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "As vogais de trapo",
+      "answer": "AO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Assustado",
+      "answer": "ALARMADO",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "A taxa cobrada para pernoite nos hotéis",
+      "answer": "DIARIA",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "O astatínio, entre os químicos",
+      "answer": "AT",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "(Fig.) Atrapalhar, frustrar alguma coisa",
+      "answer": "AGUAR",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Voz do morcego",
+      "answer": "PIADO",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "O compositor russo Stravinsky (1898-1971), de \"O Pássaro de Fogo\"",
+      "answer": "IGOR",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Pacificar",
+      "answer": "CALMAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Proibido por lei",
+      "answer": "ILEGAL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um clube de futebol da capital paraense",
+      "answer": "TUNALUSO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Infantil",
+      "answer": "MIRIM",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "A última palavra das orações",
+      "answer": "AMEM",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Relações Públicas",
+      "answer": "RP",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Grande papagaio de bela plumagem",
+      "answer": "ARARA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Unidade de Terapia Intensiva",
+      "answer": "UTI",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Fator que transmite os caracteres hereditários",
+      "answer": "GENE",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Sem brilho",
+      "answer": "OPACO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "13",
+      "answer": "TREZE",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Veículo que dispõe de uma fonte de energia própria",
+      "answer": "AUTOMOTOR",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Prover de habitantes",
+      "answer": "POVOAR",
+      "row": 3,
+      "col": 5
+    },
+    "21": {
+      "clue": "Destino, geralmente mau, funesto, cheio de amarguras",
+      "answer": "SINA",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Enfeitar com uma cercadura",
+      "answer": "ORLAR",
+      "row": 5,
+      "col": 4
+    },
+    "25": {
+      "clue": "Toque dado com uma das extensões finais das mãos",
+      "answer": "DEDADA",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Brilhar",
+      "answer": "RAIAR",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "(Ingl.) Correio eletrônico",
+      "answer": "EMAIL",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Fruto roxo-escuro, de polpa comestível",
+      "answer": "AÇAI",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Sarrafo",
+      "answer": "RIPA",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Dupla de cantores ou instrumentistas",
+      "answer": "DUO",
+      "row": 8,
+      "col": 2
+    },
+    "35": {
+      "clue": "Gilberto Gil, músico baiano",
+      "answer": "GG",
+      "row": 9,
+      "col": 1
+    },
+    "37": {
+      "clue": "Símbolo de Amplitude Modulada, modulação usada em telecomunicação",
+      "answer": "AM",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

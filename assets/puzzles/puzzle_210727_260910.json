@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "A instalação por onde se faz a entrada e a saída da casa",
+      "answer": "PORTA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Espécie de carvão fóssil",
+      "answer": "TURFA",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Lagoa de Salvador, ponto turístico",
+      "answer": "ABAETE",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Nas minas, camada mineral que se pode explorar",
+      "answer": "VEIO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Uma unidade do hospital",
+      "answer": "CTI",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Fazer evaporar",
+      "answer": "ESVAIR",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "A audiência do rádio",
+      "answer": "OUVINTES",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "A UF de Cáceres e Cuiabá",
+      "answer": "MT",
+      "row": 3,
+      "col": 9
+    },
+    "21": {
+      "clue": "O dramaturgo Beckett (1906-1989), de \"Esperando Godot\"",
+      "answer": "SAMUEL",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Um pronome possessivo masculino",
+      "answer": "MEU",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Igreja Ortodoxa",
+      "answer": "IO",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "O país da América Central com um grande canal",
+      "answer": "PANAMA",
+      "row": 5,
+      "col": 3
+    },
+    "26": {
+      "clue": "Fedido",
+      "answer": "FEDORENTO",
+      "row": 6,
+      "col": 2
+    },
+    "28": {
+      "clue": "O \"U\" de EUA",
+      "answer": "UNIDOS",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Proporção de um determinado componente num todo",
+      "answer": "TEOR",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Veículo para passageiros, de aluguel",
+      "answer": "TAXI",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Apontamento para lembrança",
+      "answer": "EMENTA",
+      "row": 8,
+      "col": 5
+    },
+    "34": {
+      "clue": "O tempo de vida decorrido desde o nascimento",
+      "answer": "IDADE",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "O A do MASP",
+      "answer": "ARTE",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "Mentir",
+      "answer": "LOROTAR",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "M",
+      "answer": "EME",
+      "row": 10,
+      "col": 8
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O estilista espanhol Rabanne",
+      "answer": "PACO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Matem.) Diz-se do ângulo entre 90° e 180°",
+      "answer": "OBTUSO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sentimento de irritação, agressividade, rancor e/ou frustração",
+      "answer": "RAIVA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Telúrio, elemento químico",
+      "answer": "TE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Minorado, abrandado",
+      "answer": "ATENUADO",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Frutos com que se produz vinho",
+      "answer": "UVAS",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O marido da rainha",
+      "answer": "REI",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Sólido",
+      "answer": "FIRME",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Pato sem consoantes",
+      "answer": "AO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "(Patol.) Estreitamento de canal ou orifício",
+      "answer": "ESTENOSE",
+      "row": 1,
+      "col": 5
+    },
+    "16": {
+      "clue": "Passar a noite ao pé de um falecido",
+      "answer": "VELAR",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "Obstruído",
+      "answer": "IMPEDIDO",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Aquela que protege",
+      "answer": "TUTORA",
+      "row": 3,
+      "col": 10
+    },
+    "22": {
+      "clue": "Que não muda de estado, condição ou lugar",
+      "answer": "MANENTE",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Sem proveito",
+      "answer": "INUTIL",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Enfiar",
+      "answer": "METER",
+      "row": 5,
+      "col": 7
+    },
+    "26": {
+      "clue": "Determinar com certeza",
+      "answer": "FIXAR",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Símbolo sagrado de tribo indígena",
+      "answer": "TOTEM",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Série de movimentos que permitem um deslocamento na água",
+      "answer": "NADO",
+      "row": 7,
+      "col": 1
+    },
+    "33": {
+      "clue": "O hábitat do tubarão",
+      "answer": "MAR",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Marciano",
+      "answer": "ET",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

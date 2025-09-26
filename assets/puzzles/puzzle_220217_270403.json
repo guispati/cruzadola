@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Aquele que toca com as mãos, que tateia",
+      "answer": "APALPADOR",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Outro nome da onça-pintada",
+      "answer": "JAGUAR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Uma dança de roda típica do Norte e Nordeste brasileiro",
+      "answer": "COCO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Um jogo de cartas com números e cores",
+      "answer": "UNO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Fazer o acabamento de uma roupa",
+      "answer": "REMATAR",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Sem outras pessoas",
+      "answer": "SO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Área para cavalos",
+      "answer": "BAIA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Interjeição de alegria, surpresa",
+      "answer": "EBA",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Dividir em duas partes",
+      "answer": "BIPARTIR",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Um exame do MEC",
+      "answer": "ENADE",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Eliminar, fazer perder",
+      "answer": "TIRAR",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Um filme de animação da Disney (1994)",
+      "answer": "OREILEÃO",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Segue Mar e antecede Mai",
+      "answer": "ABR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Que diz bobagens",
+      "answer": "TOLO",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Personal Computer",
+      "answer": "PC",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Desenvolvido antes do tempo",
+      "answer": "PRECOCE",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Peixe amazônico, um dos maiores de água doce do Brasil",
+      "answer": "JAU",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Cobertura de uma residência",
+      "answer": "TETO",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Pé-de-) Outro nome da frieira",
+      "answer": "ATLETA",
+      "row": 9,
+      "col": 5
+    },
+    "36": {
+      "clue": "Executar um trabalho ajustado para pagamento global, e não parcelado",
+      "answer": "EMPREITAR",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Liquidação de contas",
+      "answer": "AJUSTE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Pedaço de tecido",
+      "answer": "PANO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Período entre Jul e Set",
+      "answer": "AGO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Apelido da Luíza",
+      "answer": "LU",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Parede de proteção à borda de uma varanda",
+      "answer": "PARAPEITO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Movediça) Solo de pouca resistência a pressões, em que podem afundar pessoas, animais, veículos",
+      "answer": "AREIA",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "A rústica morada dos índios",
+      "answer": "OCA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Descrição pormenorizada de uma viagem",
+      "answer": "ROTEIRO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "(grande) Meia-noite, zero hora",
+      "answer": "HORA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "A fêmea do bode",
+      "answer": "CABRA",
+      "row": 1,
+      "col": 9
+    },
+    "15": {
+      "clue": "Ferramenta para pregar, de tamanho pequeno",
+      "answer": "MARTELETE",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Uma bacia do banheiro",
+      "answer": "BIDE",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Chapéu usado pelos cardeais",
+      "answer": "BARRETE",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "O músico sertanejo Carreiro",
+      "answer": "TIÃO",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "O Dudu sambista carioca",
+      "answer": "NOBRE",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Andar para trás",
+      "answer": "RECUAR",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Dar de arrendamento",
+      "answer": "LOCAR",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Que tem capacidade para fazer",
+      "answer": "APTO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Pé de rato",
+      "answer": "PATA",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Um sufixo da net",
+      "answer": "COM",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Jato, em inglês",
+      "answer": "JET",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "O símbolo do elemento químico lítio",
+      "answer": "LI",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

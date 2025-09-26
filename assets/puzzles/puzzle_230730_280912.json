@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Grosseiro, pesado",
+      "answer": "MASSUDO",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Um sobrenome do escritor Camões",
+      "answer": "VAZ",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Que comete tolices",
+      "answer": "OTARIO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O apresentador de TV Rodrigo",
+      "answer": "FARO",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Ave semelhante à pomba",
+      "answer": "ROLA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Pop.) Vontade de comer",
+      "answer": "LARICA",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Uma tecla dos computadores",
+      "answer": "ALT",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Camisa larga, que se usa solta",
+      "answer": "BATA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Helena Rizzo, chef gaúcha",
+      "answer": "HR",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Que pode ser visto",
+      "answer": "APARENTE",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Dar um medicamento pré-operatório",
+      "answer": "SEDAR",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Neste instante",
+      "answer": "AGORA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Profissional que faz fôrmas para fundição de peças plásticas, metálicas etc.",
+      "answer": "MOLDADOR",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Camila Pitanga, atriz",
+      "answer": "CP",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Situação, condição",
+      "answer": "MODO",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "Domicílio familiar",
+      "answer": "LAR",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Coroamento, término",
+      "answer": "REMATE",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Iguaria baiana, preparada com feijão-mulatinho, banana e azeite de dendê",
+      "answer": "BOBO",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Ligar, atar",
+      "answer": "UNIR",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Depósito de cereais",
+      "answer": "GRANEL",
+      "row": 9,
+      "col": 5
+    },
+    "37": {
+      "clue": "(Red.) Espaço para girafas e leões",
+      "answer": "ZOO",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Em + aquilo",
+      "answer": "NAQUILO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O músico baiano Moreira (1947-2020)",
+      "answer": "MORAES",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um formato de ilha típico da Polinésia",
+      "answer": "ATOL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Saliente",
+      "answer": "SALTADO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Abrev.: senhora",
+      "answer": "SRA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Interjeição de surpresa",
+      "answer": "UI",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "A unidade monetária dos Estados Unidos",
+      "answer": "DOLAR",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "(Passar) Sucesso de Chico Buarque",
+      "answer": "VAI",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A atriz Anne, de \"Atração Fatal\"",
+      "answer": "ARCHER",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Pop.) Fazer uma brincadeira com alguém",
+      "answer": "ZOAR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Entre o pintinho e o galo",
+      "answer": "FRANGO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Aceso",
+      "answer": "ATEADO",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "A Brigitte atriz francesa de \"Babette Vai à Guerra\"",
+      "answer": "BARDOT",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Aplicar golpe com a parte da mão que fica entre o punho e os dedos",
+      "answer": "PALMAR",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "A Christiane atriz",
+      "answer": "TORLONI",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Ato de sofrer deformação (madeira)",
+      "answer": "EMPENO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Canto para adormecer crianças",
+      "answer": "ARROLO",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Um cômodo para vinhos",
+      "answer": "ADEGA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "(Santa) Um time pernambucano de futebol",
+      "answer": "CRUZ",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Segundo a Bíblia, o irmão de Caim",
+      "answer": "ABEL",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Pref.: músculo",
+      "answer": "MIO",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "Uma grande caixa com tampa",
+      "answer": "BAU",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "Iraque sem vogais",
+      "answer": "RQ",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

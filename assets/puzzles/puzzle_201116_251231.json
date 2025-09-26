@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Torcimento da madeira, por calor ou umidade",
+      "answer": "EMPENA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Ter fé",
+      "answer": "CRER",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "A letra entre o dáblio e o ípsilon",
+      "answer": "XIS",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Baixio pouco fundo, que não se descobre na maré baixa",
+      "answer": "ALFAQUE",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Pérfida",
+      "answer": "MA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Aquele que supervisiona, dirige ou governa",
+      "answer": "TUTOR",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "O astatínio, entre os químicos",
+      "answer": "AT",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Que diz respeito à função relativa à percepção dos odores",
+      "answer": "OLFATORIO",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Parte da roupa que está junto ao pescoço",
+      "answer": "GOLA",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Substância resinosa, fóssil, transparente, usada em bijuteria e joalheria",
+      "answer": "AMBAR",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Quadrinhos",
+      "answer": "GIBI",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "A ponta da boca das aves",
+      "answer": "BICO",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "Interjeição usada para exprimir irritação, impaciência etc.",
+      "answer": "RAIOS",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Verdade",
+      "answer": "FATO",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Aquela que toma apontamentos",
+      "answer": "ANOTADORA",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Glória Pires, atriz",
+      "answer": "GP",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Objeto usado pelo juiz de futebol",
+      "answer": "APITO",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Ralph Lauren, estilista",
+      "answer": "RL",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "(Pop.) Quem nasce no Norte do Brasil",
+      "answer": "ARATACA",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Uma forma de abreviar o nome do mês 2",
+      "answer": "FEV",
+      "row": 9,
+      "col": 8
+    },
+    "37": {
+      "clue": "(Pop.) Amolação, chatice",
+      "answer": "SACO",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Produtor de telhas",
+      "answer": "OLEIRO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Excelentíssimo",
+      "answer": "EXMO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Dor muscular, provocada por hipertonia ou traumatismo",
+      "answer": "MIALGIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Abreviatura do console de entretenimento PlayStation",
+      "answer": "PS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Navegante",
+      "answer": "NAUTA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Diz-se do mar distante da costa",
+      "answer": "ALTO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Fig.) Marcado, assinalado",
+      "answer": "CARIMBADO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Rachel de Queirós (1910-2003), escritora cearense, a primeira mulher eleita para a ABL",
+      "answer": "RQ",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Sigla) Estados Unidos da América",
+      "answer": "EUA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Período de recolhimento a que se dedicam religiosos",
+      "answer": "RETIRO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Na parte externa de alguma coisa",
+      "answer": "FORA",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Vingança proporcional ao mal sofrido",
+      "answer": "TALIONATO",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "Aversão",
+      "answer": "FOBIA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Falecimento, passamento",
+      "answer": "OBITO",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Vir em socorro",
+      "answer": "ACORRER",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Mulheres de Atenas ou Tessalônica",
+      "answer": "GREGAS",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Alimento que se toma com uma colher",
+      "answer": "SOPA",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Que ocorre como se fora determinado pelo destino",
+      "answer": "FATAL",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "Um esquilo da Disney",
+      "answer": "TICO",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "(Fig.) Escopo, objetivo",
+      "answer": "ALVO",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "(burro) Muito",
+      "answer": "PRA",
+      "row": 8,
+      "col": 1
+    },
+    "35": {
+      "clue": "Sigla do Acre",
+      "answer": "AC",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Fundos de Investimento",
+      "answer": "FI",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

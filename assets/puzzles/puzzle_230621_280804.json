@@ -1,0 +1,288 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um carro da Renault",
+      "answer": "KWID",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Pop.) Entediar, aborrecer",
+      "answer": "ENCHER",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Uma embalagem para nebulização",
+      "answer": "AEROSSOL",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Nicette Bruno (1933-2020), atriz",
+      "answer": "NB",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Térbio, elemento químico",
+      "answer": "TB",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Atrair pelo charme, pelo encanto",
+      "answer": "CATIVAR",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Soma dos salários da semana",
+      "answer": "FERIA",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Precede Mar",
+      "answer": "FEV",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Que está fora",
+      "answer": "SAIDO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "O macho da cabra",
+      "answer": "BODE",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Ave colorida, parecida com o sanhaço",
+      "answer": "SAIRA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Força vital",
+      "answer": "VIGOR",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "(Fig.) Ponto principal dos acontecimentos",
+      "answer": "EIXO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Red.) A mãe da pai do mãe",
+      "answer": "BISA",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Débito Direto Autorizado",
+      "answer": "DDA",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Tecido para revestimento de mesas de bilhar",
+      "answer": "FELTRO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Autores",
+      "answer": "AA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Fruto usado na fabricação do chocolate",
+      "answer": "CACAU",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Novo Testamento",
+      "answer": "NT",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Assento para cavaleiros",
+      "answer": "SELA",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "A zona rural, o campo",
+      "answer": "ROÇA",
+      "row": 9,
+      "col": 7
+    },
+    "35": {
+      "clue": "O chefe da igreja católica",
+      "answer": "PAPA",
+      "row": 10,
+      "col": 1
+    },
+    "36": {
+      "clue": "(Por) A propósito",
+      "answer": "SINAL",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A atriz inglesa Winslet, de \"Titanic\"",
+      "answer": "KATE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Ingl.) Outro nome para a internet",
+      "answer": "WEB",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Desinência verbal",
+      "answer": "IR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Confeiteiro",
+      "answer": "DOCEIRO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Tempo quente e seco",
+      "answer": "ESTIO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Doido de droga",
+      "answer": "NOIA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "155, em algarismos romanos",
+      "answer": "CLV",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Encadeamento de incidentes na literatura de ficção",
+      "answer": "ENREDO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Roberto Benigni, ator italiano",
+      "answer": "RB",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Mancha marrom que ocorre nas pessoas de pele muito clara",
+      "answer": "SARDA",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Matar por asfixia imergindo num líquido",
+      "answer": "AFOGAR",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Porção longa e estreita de terra",
+      "answer": "FAIXA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "A Holtz atriz de \"Eu, a Vó e a Boi\"",
+      "answer": "VERA",
+      "row": 3,
+      "col": 10
+    },
+    "19": {
+      "clue": "O contrário de entrada",
+      "answer": "SAIDA",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Instrumento cirúrgico de corte",
+      "answer": "BISTURI",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Ministrar remédio para acalmar",
+      "answer": "SEDAR",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Pequeno núcleo habitado",
+      "answer": "VILA",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "O traje típico da advocacia",
+      "answer": "BECA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Aquilo que se exprime por palavras",
+      "answer": "FALA",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Medida de peso: 28,349 g",
+      "answer": "ONÇA",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Os dígitos que indicam um endereço postal",
+      "answer": "CEP",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Dessa forma",
+      "answer": "TAL",
+      "row": 8,
+      "col": 10
+    },
+    "32": {
+      "clue": "A cantora Sandra de",
+      "answer": "SA",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "O oposto de off",
+      "answer": "ON",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

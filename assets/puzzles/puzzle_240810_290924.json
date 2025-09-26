@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Bolo feito com massa de tapioca",
+      "answer": "BIJU",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Spaniel) Raça de cães de grandes orelhas pendentes",
+      "answer": "COCKER",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Aquele que separa, que afasta",
+      "answer": "APARTADOR",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Cidade espanhola próxima a Alicante",
+      "answer": "MURCIA",
+      "row": 2,
+      "col": 2
+    },
+    "13": {
+      "clue": "Fernando Pessoa (1888-1935), poeta português",
+      "answer": "FP",
+      "row": 2,
+      "col": 9
+    },
+    "14": {
+      "clue": "Grande rio russo, deságua no mar de Kara (3.650 km)",
+      "answer": "OB",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Manual de instruções sobre um assunto específico",
+      "answer": "TUTORIAL",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Ato de cobrir para conservar o calor",
+      "answer": "ABAFO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Pelada",
+      "answer": "NUA",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Alameda",
+      "answer": "ALEIA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Cantora baiana de pop rock",
+      "answer": "PITTY",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "O escritor Edgar Allan (1809-1849), de \"Os Crimes da Rua Morgue\"",
+      "answer": "POE",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Relativo a mulheres",
+      "answer": "FEMEO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Nascido na Etiópia ou na Tanzânia",
+      "answer": "AFRICANO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Registro Geral",
+      "answer": "RG",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "A UF de Gurupi e do Jalapão",
+      "answer": "TO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "O ex-presidente dos EUA Ford (1913-2006)",
+      "answer": "GERALD",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Que tem as honras e não os proventos de um cargo (fem.)",
+      "answer": "HONORARIA",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Estado de espírito",
+      "answer": "ASTRAL",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Carne ensopada com legumes e molho abundante",
+      "answer": "RAGU",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um órgão do abdome",
+      "answer": "BAÇO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Imposto Predial",
+      "answer": "IP",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Abreviatura (em português) da Jamaica",
+      "answer": "JAM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Cidade goiana do sul do estado",
+      "answer": "URUTAI",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Planta como o xiquexique",
+      "answer": "CACTO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Antônimo de amor",
+      "answer": "ODIO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Passar água e café através de um filtro",
+      "answer": "COAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Keanu Reeves, ator",
+      "answer": "KR",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "(Fig.) Repetição",
+      "answer": "REPLAY",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Cogumelo subterrâneo comestível",
+      "answer": "TRUFA",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Que favorece, promove ou protege",
+      "answer": "FAUTOR",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Gorducho",
+      "answer": "BALOFO",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "Tchau, na roça",
+      "answer": "INTE",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Cerveja, nos EUA",
+      "answer": "BEER",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Falta de interesse",
+      "answer": "APATIA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Ser vítima de males físicos",
+      "answer": "PENAR",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Oferecer como vítima a uma divindade",
+      "answer": "IMOLAR",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "Sinal luminoso de trânsito",
+      "answer": "FAROL",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "O músico Cavalera, ex-\"Sepultura\"",
+      "answer": "IGOR",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Situação de uma representação teatral",
+      "answer": "CENA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Divisão de escala no termômetro",
+      "answer": "GRAU",
+      "row": 7,
+      "col": 10
+    },
+    "33": {
+      "clue": "Demonstração do Resultado Abrangente",
+      "answer": "DRA",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "As consoantes em hiato",
+      "answer": "HT",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Isabela Garcia, atriz carioca",
+      "answer": "IG",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

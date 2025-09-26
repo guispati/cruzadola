@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Outro nome da árvore faveira",
+      "answer": "ANGELIM",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Entretanto",
+      "answer": "MAS",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Furto",
+      "answer": "ROUBO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Morte (na linguagem estilística)",
+      "answer": "OBITO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Uma maneira de mostrar agrado",
+      "answer": "RIR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Avaliar, medir",
+      "answer": "BITOLAR",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Relativo a orelha",
+      "answer": "OTICO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Que tem a forma do principal ingrediente da omelete",
+      "answer": "OVADO",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Sincero, franco",
+      "answer": "LEAL",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Gesto",
+      "answer": "ACENO",
+      "row": 4,
+      "col": 5
+    },
+    "20": {
+      "clue": "(de) No encalço de",
+      "answer": "ATRAS",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Esmero",
+      "answer": "APURO",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Uma sobremesa",
+      "answer": "PAVE",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "A soma dos anos",
+      "answer": "IDADE",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Zona fértil do deserto",
+      "answer": "OASIS",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "(Fig.) Surrar, bater",
+      "answer": "ENRIPAR",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "(Fr.) Um tipo de champanhe",
+      "answer": "SEC",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Neblina",
+      "answer": "NEVOA",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Pelo de pônei",
+      "answer": "CRINA",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Sufixo diminutivo",
+      "answer": "ETO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Repor (o exército) em condições de combate",
+      "answer": "REARMAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Canto para ninar",
+      "answer": "ARROLO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Tempo que transcorre entre o final da tarde e o nascer do sol",
+      "answer": "NOITE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Menina",
+      "answer": "GURIA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Eduardo Bueno, jornalista e escritor",
+      "answer": "EB",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Canídeo encontrado no hemisfério norte",
+      "answer": "LOBO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Pop.) Um veículo de duas rodas",
+      "answer": "MOTOCA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Time italiano de futebol",
+      "answer": "MILAN",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Ligado",
+      "answer": "ATADO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Solução hidratante para pessoa enferma",
+      "answer": "SORO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Bolsa de Valores de São Paulo",
+      "answer": "BOVESPA",
+      "row": 1,
+      "col": 7
+    },
+    "16": {
+      "clue": "Cidade mineira próxima a Divinópolis",
+      "answer": "CLAUDIO",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Arredores de um lugar importante",
+      "answer": "ARO",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Subir com a ajuda de mãos e pés",
+      "answer": "TREPAR",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "(Pop.) Cochilar sentado",
+      "answer": "PESCAR",
+      "row": 5,
+      "col": 10
+    },
+    "23": {
+      "clue": "O ator e comediante Marcelo",
+      "answer": "ADNET",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Idiota, tolo",
+      "answer": "PARVO",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "(Falou Zaratustra) Uma obra do filósofo Nietzsche",
+      "answer": "ASSIM",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "A capital do país de Salzburgo",
+      "answer": "VIENA",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Um padrão monetário asiático",
+      "answer": "IENE",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Um grande animal do mar",
+      "answer": "ORCA",
+      "row": 7,
+      "col": 6
+    },
+    "34": {
+      "clue": "Sigla de Roraima",
+      "answer": "RR",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

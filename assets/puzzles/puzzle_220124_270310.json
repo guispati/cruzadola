@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "Mexerico",
+      "answer": "BOATO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Papel muito usado em embalagens e sacos",
+      "answer": "KRAFT",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Ponto de mira",
+      "answer": "ALVO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Impedir de fazer alguma coisa",
+      "answer": "COIBIR",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "(Pop.) Apresentar contra-argumento",
+      "answer": "TEIMAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Cinza-escuro",
+      "answer": "FUME",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Àqueles",
+      "answer": "AOS",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Colinas de areia das praias",
+      "answer": "DUNAS",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Avaliador",
+      "answer": "SOPESADOR",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Primeira nota da escala musical",
+      "answer": "DO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "(Kama) Livro indiano sobre comportamento sexual",
+      "answer": "SUTRA",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "As iniciais do Einstein (1879-1955), da Teoria da Relatividade",
+      "answer": "AE",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Ter por fim ou objetivo",
+      "answer": "VISAR",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "De + um",
+      "answer": "DUM",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Substância que serve para calafetar embarcações",
+      "answer": "BREU",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Os pelos da cabeça",
+      "answer": "CABELO",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "Claridade da lâmpada",
+      "answer": "LUZ",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Pomar de pereiras",
+      "answer": "PERAL",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Auxílio, ajuda",
+      "answer": "ADEMÃO",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Homem belo, elegante",
+      "answer": "GALÃ",
+      "row": 9,
+      "col": 7
+    },
+    "37": {
+      "clue": "O que sobrou",
+      "answer": "RESTO",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Obstáculo defensivo dos castelos medievais",
+      "answer": "FOSSO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Uma roupa para mulheres grávidas",
+      "answer": "BATA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Com alto teor de gordura",
+      "answer": "OLEOSO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Comunicação",
+      "answer": "AVISO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Gradação de tintas",
+      "answer": "TOM",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Abrev. ingl.) Uma derrota no ringue",
+      "answer": "KO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Série de cartas do mesmo naipe",
+      "answer": "RIFADA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Excesso, no poder",
+      "answer": "ABUSO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O antônimo de começo",
+      "answer": "FIM",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "3",
+      "answer": "TRES",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Um animal como o siri ou a craca",
+      "answer": "CRUSTACEO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Uma despedida",
+      "answer": "ADEUS",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "Dizer como foi",
+      "answer": "NARRAR",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Interjeição para chamar alguém",
+      "answer": "PSIU",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "O roqueiro Seixas (1945-1989)",
+      "answer": "RAUL",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Substituir o idioma original por outro, no filme",
+      "answer": "DUBLAR",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Impressão viva",
+      "answer": "EMOÇÃO",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Sinal que multiplica dois números",
+      "answer": "VEZES",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Daquelas mulheres",
+      "answer": "DELAS",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Que trata os outros de maneira áspera",
+      "answer": "RUDE",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Cada fruto do cacho de uvas",
+      "answer": "BAGO",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "(de Açúcar) Um dos mais conhecidos pontos turísticos do Brasil",
+      "answer": "PÃO",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "UF vizinha ao MS",
+      "answer": "MT",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "Linguagem de Sinais",
+      "answer": "LS",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

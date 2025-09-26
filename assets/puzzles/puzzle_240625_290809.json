@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Noite, em Nova York",
+      "answer": "NIGHT",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Cidade da Itália, berço de são Francisco",
+      "answer": "ASSIS",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Iguaria com refogado",
+      "answer": "GUISADO",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Zé Kéti (1921-1999), sambista",
+      "answer": "ZK",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "(Abrev.) O contrário de feminino",
+      "answer": "MASC",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Pedaço de couro com que se remenda o calçado",
+      "answer": "TOMBA",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Interjeição de desconfiança, suspeita",
+      "answer": "EPA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Comer",
+      "answer": "BOCAR",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Nocaute",
+      "answer": "KO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Produto obtido de outro",
+      "answer": "DERIVADO",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "(Astron.) A constelação das Três Marias",
+      "answer": "ORION",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "O Lattes (1924-2005) cientista curitbano",
+      "answer": "CESAR",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Elemento químico mau condutor de calor e eletricidade",
+      "answer": "NÃOMETAL",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "As iniciais da atriz Novak, de \"Um Corpo Que Cai\"",
+      "answer": "KN",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Liberal",
+      "answer": "DADOR",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "O ator Pesci, de \"Esqueceram de Mim\" e \"Cassino\"",
+      "answer": "JOE",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "O escultor francês Auguste (1840-1917), de \"O Pensador\"",
+      "answer": "RODIN",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "Fração do capital de uma sociedade",
+      "answer": "COTA",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "O símbolo de Watt-pico",
+      "answer": "WP",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Sensação dolorosa do ouvido",
+      "answer": "OTALGIA",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Azeda, não doce",
+      "answer": "AMARA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Por pouco não",
+      "answer": "QUASE",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Município da Bahia, na região de Guanambi",
+      "answer": "IGAPORÃ",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ferro que sai dos altos-fornos",
+      "answer": "GUSA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O som do soluço, na linguagem das HQs",
+      "answer": "HIC",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Turíbio Santos, violonista",
+      "answer": "TS",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Pôr um pouco de açúcar",
+      "answer": "ADOCICAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Adicionável",
+      "answer": "SOMAVEL",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Cantora pop carioca",
+      "answer": "IZA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "As iniciais do cineasta Kubrick, de \"Laranja Mecânica\"",
+      "answer": "SK",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "A profissão de Brad Pitt",
+      "answer": "ATOR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Rio do sudeste Asiático, um dos maiores do mundo",
+      "answer": "MEKONG",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "O Cubas da obra de Machado de Assis",
+      "answer": "BRAS",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Nome da mulher que tem o apelido Benê",
+      "answer": "BENEDITA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Membrana que constitui a parte anterior do olho",
+      "answer": "CORNEA",
+      "row": 3,
+      "col": 10
+    },
+    "20": {
+      "clue": "Aquele que adestra cavalos",
+      "answer": "DOMADOR",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Indígenas dos EUA que emprestaram seu nome a dois estados do país",
+      "answer": "DAKOTAS",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "(Quím.) O I",
+      "answer": "IODO",
+      "row": 5,
+      "col": 2
+    },
+    "26": {
+      "clue": "Superfície da água",
+      "answer": "TONA",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "(Gír.) Excelente",
+      "answer": "JOIA",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "A banda de pop rock do sucesso com \"Olhar 43\"",
+      "answer": "RPM",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "Controladoria-Geral da União",
+      "answer": "CGU",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Woody Allen, ator de \"Meia-Noite em Paris\"",
+      "answer": "WA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "As consoantes de leque",
+      "answer": "LQ",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

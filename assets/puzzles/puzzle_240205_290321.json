@@ -1,0 +1,270 @@
+{
+  "across": {
+    "2": {
+      "clue": "Privar dos órgãos da reprodução",
+      "answer": "CASTRAR",
+      "row": 0,
+      "col": 2
+    },
+    "9": {
+      "clue": "A qualidade de uma solução cujo pH é menor que 7",
+      "answer": "ACIDEZ",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Equipe de basquete, vôlei etc.",
+      "answer": "TIME",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Calçado de cano curto",
+      "answer": "BOTIM",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Cidade mineira da região de Patos de Minas",
+      "answer": "TIROS",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Outro nome do fruto anona",
+      "answer": "ARATICUM",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "O neônio, para os químicos",
+      "answer": "NE",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Pode ser borboleta",
+      "answer": "NADO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Tornar mole",
+      "answer": "AFOFAR",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Precede Set",
+      "answer": "AGO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Dupla de instrumentistas",
+      "answer": "DUO",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Infecções Sexualmente Transmissíveis",
+      "answer": "IST",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Equívocos",
+      "answer": "ERROS",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Trajetória de um avião",
+      "answer": "ROTA",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Marisa Monte, cantora e compositora",
+      "answer": "MM",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Um dos planetas do Sistema Solar",
+      "answer": "URANO",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "A desinência verbal de escolher e arrepender",
+      "answer": "ER",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "(Fig.) Analisar minuciosamente",
+      "answer": "DISSECAR",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "Sabor adstringente",
+      "answer": "TRAVO",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Manha para persuadir e convencer alguém",
+      "answer": "LABIA",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "Nota nula em exame",
+      "answer": "ZERO",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "A cor característica da casca da castanha",
+      "answer": "MARROM",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Habitação precária e rústica",
+      "answer": "CABANA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Aquele que chama para comparecer em juízo",
+      "answer": "CITADOR",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Compartimento reservado",
+      "answer": "ADITO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Pref.: metade",
+      "answer": "SEMI",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Tom Zé, músico baiano",
+      "answer": "TZ",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Momento breve como a respiração",
+      "answer": "ATIMO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Uma maneira de mostrar felicidade",
+      "answer": "RIR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Fugir do serviço militar",
+      "answer": "DESERTAR",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Intrepidez, valentia, ousadia",
+      "answer": "CORAGEM",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Mosteiro, convento",
+      "answer": "MONASTERIO",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Porção de coisas finas, que estão bem juntas, como pelos, penas etc.",
+      "answer": "TUFO",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Motivos",
+      "answer": "CAUSAS",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Cabo usado em telefonia",
+      "answer": "FIO",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Face superior ou posterior de qualquer parte do corpo",
+      "answer": "DORSO",
+      "row": 5,
+      "col": 4
+    },
+    "25": {
+      "clue": "Nem loiro nem moreno",
+      "answer": "RUIVO",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "No xadrez, uma forma de proteger o rei",
+      "answer": "ROCAR",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Cidade da França, capital do Mosela",
+      "answer": "METZ",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Em + ela",
+      "answer": "NELA",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Executar (um movimento corporal)",
+      "answer": "DAR",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "Associação Brasileira de Rugby",
+      "answer": "ABR",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Uma das marchas dos carros",
+      "answer": "RE",
+      "row": 9,
+      "col": 1
+    },
+    "36": {
+      "clue": "Em rádio, símbolo de Amplitude Modulada",
+      "answer": "AM",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

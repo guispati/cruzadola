@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "O aspecto ou as linhas do rosto",
+      "answer": "SEMBLANTE",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Obrigar",
+      "answer": "COAGIR",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "Faz dupla com Guarabyra, do sucesso \"Dona\"",
+      "answer": "SA",
+      "row": 1,
+      "col": 9
+    },
+    "11": {
+      "clue": "Lavínia Vlasak, atriz",
+      "answer": "LV",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Aquele que afia facas, tesouras etc.",
+      "answer": "AMOLADOR",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Possui 24 horas",
+      "answer": "DIA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Satírico",
+      "answer": "IRONICO",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Um sintoma do infarto",
+      "answer": "ANGINA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Pasta para dar brilho a pisos",
+      "answer": "CERA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "(Cabeça-) Estúpido, sem instrução",
+      "answer": "DURA",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Abertura para entrada do botão, na camisa",
+      "answer": "CASA",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Passar café através de um filtro",
+      "answer": "COAR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Cada haste metálica que compõe a armação do guarda-chuva",
+      "answer": "VARETA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Que se pode ouvir",
+      "answer": "AUDIVEL",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "O cantor Jaime",
+      "answer": "LEO",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "(Paulista) Cidade do interior de SP, às margens da rodovia Fernão Dias",
+      "answer": "BRAGANÇA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Samuel Rosa, músico do \"Skank\"",
+      "answer": "SR",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "As vogais de frevo",
+      "answer": "EO",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Planta aquática flutuante de flores violáceas ou azuis",
+      "answer": "AGUAPE",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Falta de educação",
+      "answer": "GROSSERIA",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Composição metálica usada para unir peças também metálicas",
+      "answer": "SOLDA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Mestre de Cerimônias (do nome de músicos de hip-hop, funk etc.)",
+      "answer": "MC",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Caridosa, generosa",
+      "answer": "BOA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "A parte metálica essencial de um objeto de corte",
+      "answer": "LAMINA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Neste momento",
+      "answer": "AGORA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O segundo rio mais extenso da Terra",
+      "answer": "NILO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Enclausurar",
+      "answer": "TRANCAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Terra da) Um apelido para a cidade de São Paulo",
+      "answer": "GAROA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Um ídolo da torcida corintiana (1954-2011)",
+      "answer": "SOCRATES",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Futuro",
+      "answer": "VINDOURO",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Um óleo combustível",
+      "answer": "DIESEL",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Chuva forte",
+      "answer": "AGUADA",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Banhar plantações",
+      "answer": "IRRIGAR",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Roupa que cobre as partes baixas do corpo",
+      "answer": "CALÇAS",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Comportar",
+      "answer": "CABER",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "O planeta entre Mercúrio e a Terra",
+      "answer": "VENUS",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Uma artéria vital",
+      "answer": "AORTA",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Que não está ocupado",
+      "answer": "VAGO",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Redução popular de apartamento",
+      "answer": "APE",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "(Quím.) O érbio",
+      "answer": "ER",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

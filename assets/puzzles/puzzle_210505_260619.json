@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Facilidade e ligeireza de movimentos, especialmente das mãos",
+      "answer": "DESTREZA",
+      "row": 0,
+      "col": 1
+    },
+    "8": {
+      "clue": "Derretimento de metais ou de outros sólidos",
+      "answer": "FUSÃO",
+      "row": 1,
+      "col": 0
+    },
+    "9": {
+      "clue": "Base de montanha",
+      "answer": "SOPE",
+      "row": 1,
+      "col": 6
+    },
+    "11": {
+      "clue": "(Mús.) Instrumento também chamado rapa",
+      "answer": "RECORECO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Abreviatura: idem",
+      "answer": "ID",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Palavra usada ao atender um telefonema",
+      "answer": "ALO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Elemento de sustentação aerodinâmica dos aviões",
+      "answer": "ASA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Exclamação de desprezo",
+      "answer": "IXE",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Extremidade superior",
+      "answer": "TOPE",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Acordos",
+      "answer": "TRATOS",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Estrangeiros, para os índios",
+      "answer": "EMBOABA",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Dividir proporcionalmente",
+      "answer": "RATEAR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "A combinação de ladrão com padrão",
+      "answer": "RIMA",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Deus muçulmano",
+      "answer": "ALA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Grande, em inglês",
+      "answer": "BIG",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "O típico bar dos ingleses",
+      "answer": "PUB",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Roberto Marinho (1904-2003),  fundador das Organizações Globo",
+      "answer": "RM",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Que foi proposto, apresentado, exposto",
+      "answer": "COLOCADO",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Em matemática, uma palavra usada em frações (pl.)",
+      "answer": "AVOS",
+      "row": 9,
+      "col": 1
+    },
+    "37": {
+      "clue": "Eliminar sujeiras com água e sabão",
+      "answer": "LAVAR",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "Acovardar-se",
+      "answer": "AMARELAR",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Disputa entre rivais, com armas iguais",
+      "answer": "DUELO",
+      "row": 0,
+      "col": 1
+    },
+    "2": {
+      "clue": "Arma",
+      "answer": "ESCOPETA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "O S de SP",
+      "answer": "SÃO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Tronco de árvore serrado em cima e embaixo",
+      "answer": "TORA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Ferida na pele, comum em doentes acamados por longo tempo",
+      "answer": "ESCARA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "(Red.) Parque onde podem ser vistos leões e girafas",
+      "answer": "ZOO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Sigla do Amapá",
+      "answer": "AP",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Partir um osso",
+      "answer": "FRATURAR",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "(Fig.) Ideia principal",
+      "answer": "EIXO",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Região de Portugal, próxima à capital",
+      "answer": "ESTORIL",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Falta de gosto",
+      "answer": "DESSABOR",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Rampa íngreme à beira-mar",
+      "answer": "ITAIPAVA",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Letra que, em algarismos romanos, equivale a 1000",
+      "answer": "EME",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Segue Mar",
+      "answer": "ABR",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Designação vulgar da planta aloés",
+      "answer": "BABOSA",
+      "row": 5,
+      "col": 4
+    },
+    "25": {
+      "clue": "(Fig.) Peça fundamental",
+      "answer": "ALMA",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Transferir (de um veículo para outro)",
+      "answer": "MUDAR",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "Uma quantidade de líquido",
+      "answer": "GOLE",
+      "row": 7,
+      "col": 6
+    },
+    "33": {
+      "clue": "Junto a",
+      "answer": "COM",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "A viva é pura e a extinta é misturada com água",
+      "answer": "CAL",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "(Elet.) Símbolo do volt-ampère, unidade de potência",
+      "answer": "VA",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Petit) Uma sobremesa",
+      "answer": "GATEAU",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "(de Santo Agostinho) Cidade em Pernambuco",
+      "answer": "CABO",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Aquele que toma parte",
+      "answer": "PARTICIPE",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Que não tem cabelos na cabeça",
+      "answer": "CALVO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Loja para míopes e hipermetropes",
+      "answer": "OTICA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Encontrar coisa escondida",
+      "answer": "ACHAR",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Local onde ocorreu o nascimento de alguém",
+      "answer": "NATAL",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "A ele",
+      "answer": "LHE",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Um transporte urbano",
+      "answer": "METRO",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Índice de Eficiência",
+      "answer": "IE",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Borda",
+      "answer": "BEIRA",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Paulo Moura (1932-2010), saxofonista e clarinetista paulista",
+      "answer": "PM",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Domesticada",
+      "answer": "MANSA",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Parte inferior do lombo do porco",
+      "answer": "SUÃ",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "Time pernambucano de futebol",
+      "answer": "SPORT",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "A terceira é considerada velhice",
+      "answer": "IDADE",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "Nem esta nem aquela",
+      "answer": "OUTRA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Aqueles a quem se fala ou se escreve",
+      "answer": "VOCES",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Dar uma disposição melhor",
+      "answer": "REORDENAR",
+      "row": 9,
+      "col": 1
+    },
+    "33": {
+      "clue": "Tentos",
+      "answer": "GOLS",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Um tema para estampa de tecidos",
+      "answer": "FLORAL",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "(Forte) Um brinquedo de faroeste",
+      "answer": "APACHE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Feição particular dada à caligrafia",
+      "answer": "TALHE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(-doce) Outro nome do anis",
+      "answer": "ERVA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Flagelar",
+      "answer": "ATORMENTAR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Som de dor",
+      "answer": "UI",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Antigo instrumento musical de cordas",
+      "answer": "CITARA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Objeto usado pelo árbitro de vôlei",
+      "answer": "APITO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Traje de advocacia",
+      "answer": "BECA",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Que pode encolher-se, estreitar-se",
+      "answer": "CONTRAIVEL",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Ritmo musical originário do Caribe, de influência africana",
+      "answer": "CALIPSO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Nascidos em Dresden ou Leipzig",
+      "answer": "ALEMÃES",
+      "row": 2,
+      "col": 10
+    },
+    "19": {
+      "clue": "Advérbio: aqui está!",
+      "answer": "EIS",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "O apresentador de programas de auditório Gilberto",
+      "answer": "BARROS",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "(Interj.) Não era para menos!",
+      "answer": "PUDERA",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Estabelecimento que aluga quartos para encontros amorosos",
+      "answer": "MOTEL",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Tirar do banco (valor)",
+      "answer": "SACAR",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "(Mús.) Que não tem qualidades dissonantes",
+      "answer": "PURO",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Empregador",
+      "answer": "DONO",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Sigla do Distrito Federal",
+      "answer": "DF",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

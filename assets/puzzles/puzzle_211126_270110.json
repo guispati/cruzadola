@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Gel que produz efeito de cintilação",
+      "answer": "GLITTER",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Clube holandês de futebol",
+      "answer": "PSV",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "(Loc.) Em duas partes iguais",
+      "answer": "MEIOAMEIO",
+      "row": 1,
+      "col": 2
+    },
+    "12": {
+      "clue": "Sovaco",
+      "answer": "AXILA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Canal orgânico",
+      "answer": "DUCTO",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Dinheiro em papel",
+      "answer": "NOTA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Variedade de foice, de cabo curto, usada para cortar madeira e galhos",
+      "answer": "PODÃO",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Operação bancária",
+      "answer": "DDA",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Criancinha",
+      "answer": "NENE",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Arrumar, ordenar",
+      "answer": "ORGANIZAR",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "A dor pela morte de pessoa querida",
+      "answer": "LUTO",
+      "row": 6,
+      "col": 3
+    },
+    "24": {
+      "clue": "O que é justo",
+      "answer": "FAS",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Carvão aceso, que se queima na churrasqueira",
+      "answer": "BRASA",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Gado bovino originário da Índia",
+      "answer": "ZEBU",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Oração",
+      "answer": "PRECE",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Subdivisão de uma região",
+      "answer": "SETOR",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Pronúncia anormal do s e do z",
+      "answer": "CECEADURA",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Dupla",
+      "answer": "DUO",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Esp.) O atleta que fica no banco",
+      "answer": "RESERVA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Fr.) O G do GP de F1",
+      "answer": "GRAND",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Reproduzir",
+      "answer": "IMITAR",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Entrançado de arame próprio para cercados",
+      "answer": "TELA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "A irmã da mãe ou do pai",
+      "answer": "TIA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "As vogais de melhor",
+      "answer": "EO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Quím.) O Rn",
+      "answer": "RADONIO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Noz usada no preparo de tortas e bolos",
+      "answer": "PECÃ",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Localizado",
+      "answer": "SITO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Passeio de planador",
+      "answer": "VOO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Estado de quem não tem o dom da fala",
+      "answer": "MUDEZ",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Carinho especial que se tem por alguém",
+      "answer": "XODO",
+      "row": 2,
+      "col": 1
+    },
+    "16": {
+      "clue": "(Red.) Competição ganha pela quinta vez",
+      "answer": "PENTA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Sentir repugnância por alguma coisa",
+      "answer": "NAUSEAR",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Um doce de fruta",
+      "answer": "GLACE",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "Atingir, causando prejuízo",
+      "answer": "AFETAR",
+      "row": 5,
+      "col": 8
+    },
+    "22": {
+      "clue": "Um extremo do cão",
+      "answer": "RABO",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Sova, pau",
+      "answer": "SURRA",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Substância usada para calafetar embarcações",
+      "answer": "BREU",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Recruta",
+      "answer": "RECO",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "Zarolho",
+      "answer": "ZERE",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Pessoa com Deficiência",
+      "answer": "PCD",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Sistema de Saúde",
+      "answer": "SUS",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "D",
+      "answer": "DE",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

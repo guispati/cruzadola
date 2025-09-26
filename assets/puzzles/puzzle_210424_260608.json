@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Peça para fechar garrafa",
+      "answer": "TAMPA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(-gordura) Erva usada como forrageira",
+      "answer": "CAPIM",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Matéria que circula ao redor de Saturno",
+      "answer": "ANEL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Brilhante, envernizado",
+      "answer": "POLIDO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Animal que fornece carne, força de trabalho, couro etc.",
+      "answer": "BOI",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Pessoa malvestida",
+      "answer": "PENGO",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Ave de canto metálico marcante",
+      "answer": "ARAPONGA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "A letra entre o esse e o u",
+      "answer": "TE",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Exibição",
+      "answer": "ALARDE",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "O objeto usado para escrever em quadros-negros",
+      "answer": "GIZ",
+      "row": 4,
+      "col": 8
+    },
+    "19": {
+      "clue": "Outro nome da hidroponia, cultivo de plantas feito sem solo",
+      "answer": "AQUICULTURA",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Claridade do farol",
+      "answer": "LUZ",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "O estado considerado como administração financeira",
+      "answer": "ERARIO",
+      "row": 6,
+      "col": 4
+    },
+    "23": {
+      "clue": "A sétima letra do alfabeto",
+      "answer": "GE",
+      "row": 7,
+      "col": 0
+    },
+    "24": {
+      "clue": "Planta ornamental com flores de diversas cores",
+      "answer": "GLADIOLO",
+      "row": 7,
+      "col": 3
+    },
+    "26": {
+      "clue": "Adquirido a muito custo",
+      "answer": "SUADO",
+      "row": 8,
+      "col": 2
+    },
+    "27": {
+      "clue": "Fluido açucarado produzido pelas abelhas",
+      "answer": "MEL",
+      "row": 8,
+      "col": 8
+    },
+    "28": {
+      "clue": "Sem fim",
+      "answer": "ETERNO",
+      "row": 9,
+      "col": 0
+    },
+    "30": {
+      "clue": "Momento sucessivo e diferente",
+      "answer": "FASE",
+      "row": 9,
+      "col": 7
+    },
+    "31": {
+      "clue": "Cadáver embalsamado",
+      "answer": "MUMIA",
+      "row": 10,
+      "col": 0
+    },
+    "32": {
+      "clue": "Título de reis egípcios",
+      "answer": "FARAO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Aldeia de índios",
+      "answer": "TABA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Agasalho de pele, com capuz",
+      "answer": "ANORAQUE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Penumbra",
+      "answer": "MEIALUZ",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Poder Legislativo",
+      "answer": "PL",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Diz-se do alimento conservado no freezer",
+      "answer": "CONGELADO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Planta usada em pratos orientais",
+      "answer": "ALGA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Muito religioso",
+      "answer": "PIO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Idem",
+      "answer": "ID",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Fig.) Trabalho fácil, que não exige esforço",
+      "answer": "MOLEZA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Gír.) Deixado a crédito, sem pagamento imediato",
+      "answer": "PENDURADO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Um tipo de cerâmica fina",
+      "answer": "PORCELANA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Um que tem filhos",
+      "answer": "PAI",
+      "row": 3,
+      "col": 3
+    },
+    "16": {
+      "clue": "Cabo para deslizar",
+      "answer": "TIROLESA",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "A pianista paulista Novaes (1895-1979)",
+      "answer": "GUIOMAR",
+      "row": 4,
+      "col": 8
+    },
+    "19": {
+      "clue": "Pessoa de certa importância",
+      "answer": "ALGUEM",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Equipe campeã pela terceira vez",
+      "answer": "TRI",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "Menino, garoto",
+      "answer": "GURI",
+      "row": 7,
+      "col": 3
+    },
+    "25": {
+      "clue": "Substância que reduz o atrito",
+      "answer": "OLEO",
+      "row": 7,
+      "col": 10
+    },
+    "26": {
+      "clue": "Ausência, falta",
+      "answer": "SEM",
+      "row": 8,
+      "col": 2
+    },
+    "29": {
+      "clue": "(Pron.) A segunda pessoa",
+      "answer": "TU",
+      "row": 9,
+      "col": 1
+    },
+    "30": {
+      "clue": "Francisco Alves (1898-1952), cantor e compositor carioca",
+      "answer": "FA",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

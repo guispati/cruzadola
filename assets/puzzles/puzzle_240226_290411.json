@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma erupção epidérmica",
+      "answer": "ACNE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Umedecer para tirar a secura",
+      "answer": "MOLHAR",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Repentina, súbita",
+      "answer": "BRUSCA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "O ator Valadão, de \"Os Cafajestes\"",
+      "answer": "JECE",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Adoniran Barbosa, músico de \"Tiro ao Álvaro\"",
+      "answer": "AB",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Frio, em inglês",
+      "answer": "COLD",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "(Bad) Sujeito mal-encarado, que sujeita outros pela violência ou imposição",
+      "answer": "BAD",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Redemoinho que pode surgir numa corrente de água",
+      "answer": "VORTICE",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Interromper a quem discursa",
+      "answer": "APARTEAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Em música, sol menor",
+      "answer": "GM",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "(-doce) Outro nome do anis",
+      "answer": "ERVA",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Arbusto da mesma família do cafeeiro",
+      "answer": "MERUA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Que move para a frente",
+      "answer": "ADIANTADOR",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Jet) Um efeito de viagem entre diferentes fusos horários sobre o organismo",
+      "answer": "LAG",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "País africano, antiga colônia francesa",
+      "answer": "TUNISIA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Inspetor Geral",
+      "answer": "IG",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "A cantora Cláudia",
+      "answer": "LEITTE",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Uma marca de carros de luxo",
+      "answer": "AUDI",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "O motor do avião a jato",
+      "answer": "REATOR",
+      "row": 9,
+      "col": 5
+    },
+    "36": {
+      "clue": "(Pop.) Descarada, cínica",
+      "answer": "SAFADA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Príncipe indiano",
+      "answer": "RAJA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Camisa de foliões no carnaval",
+      "answer": "ABADA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Conselho Regional de Biologia",
+      "answer": "CRB",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sem ornatos",
+      "answer": "NU",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Parte da arma em que se coloca a pólvora",
+      "answer": "ESCORVA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Um ingrediente do uísque",
+      "answer": "MALTE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "LeBron James, ídolo do basquete da NBA",
+      "answer": "LJ",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "A apresentadora de TV Camargo (1929-2012)",
+      "answer": "HEBE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Bodum, catinga",
+      "answer": "ACA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Campânula destinada a resguardar objetos delicados",
+      "answer": "REDOMA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Bem afiado",
+      "answer": "CORTANTE",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Uma das pedras preciosas mais valiosas",
+      "answer": "DIAMANTE",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Uma antiga empresa aérea nacional",
+      "answer": "VARIG",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Constituir como credor de determinada quantia",
+      "answer": "CREDITAR",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Aguaceiro",
+      "answer": "PEDAGUA",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Garoto",
+      "answer": "GURI",
+      "row": 4,
+      "col": 9
+    },
+    "24": {
+      "clue": "A roda dentada da espora usada para estimular as cavalgaduras",
+      "answer": "ROSETA",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "Em outras palavras",
+      "answer": "ALIAS",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Norte) De cor indefinida, aproximando-se do preto desbotado",
+      "answer": "TUIRA",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "Aragem",
+      "answer": "AURA",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "(de Itamaracá) Cantora e compositora pernambucana",
+      "answer": "LIA",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Sigla do Distrito Federal",
+      "answer": "DF",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "(Dir.) Orientações Jurisprudenciais",
+      "answer": "OJ",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

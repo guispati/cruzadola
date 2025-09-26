@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Ingl.) Tipo de calção curto, esportivo",
+      "answer": "SHORTS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Um fruto com líquido no seu interior",
+      "answer": "COCO",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "(Kat) Um doce de wafer coberto com chocolate",
+      "answer": "KIT",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "O estilo musical do \"Sepultura\" e também do \"Nirvana\"",
+      "answer": "ROCK",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Helen Hunt, atriz de \"Melhor é Impossível\"",
+      "answer": "HH",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Medicamento externo, exceto unguento e emplastro",
+      "answer": "EPITEMA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Agnus) Um cântico da missa",
+      "answer": "DEI",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Objeto de veneração de uma tribo",
+      "answer": "TOTEM",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Quím.) O Ba",
+      "answer": "BARIO",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Apaixonar",
+      "answer": "ENAMORAR",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Hospital das Clínicas",
+      "answer": "HC",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Rád.) Ondas Curtas",
+      "answer": "OC",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Tornar mais veloz",
+      "answer": "ACELERAR",
+      "row": 6,
+      "col": 1
+    },
+    "30": {
+      "clue": "Figura estampada em cores",
+      "answer": "CROMO",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Lugar para conservar os vinhos",
+      "answer": "ADEGA",
+      "row": 7,
+      "col": 6
+    },
+    "33": {
+      "clue": "Exclamação de incerteza, indiferença",
+      "answer": "HUM",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Que faz sair o líquido de um recipiente",
+      "answer": "VAZADOR",
+      "row": 8,
+      "col": 4
+    },
+    "36": {
+      "clue": "A carta do baralho marcada com a letra A",
+      "answer": "AS",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Carro de passeio para quatro ou cinco pessoas",
+      "answer": "SEDÃ",
+      "row": 9,
+      "col": 3
+    },
+    "38": {
+      "clue": "Vínculo",
+      "answer": "ELO",
+      "row": 9,
+      "col": 8
+    },
+    "39": {
+      "clue": "(Nova) A cidade mais populosa dos EUA",
+      "answer": "YORK",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "(Rel.) O personagem que comandou o êxodo dos hebreus",
+      "answer": "MOISES",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Ingl.) Cena divertida de comédia",
+      "answer": "SKETCH",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Elemento de composição: diminuição",
+      "answer": "HIPO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Inflamação do ouvido",
+      "answer": "OTITE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Sinal ortográfico que se colocava sobre o U",
+      "answer": "TREMA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Tudo que é captado pelo sentido da audição",
+      "answer": "SOM",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "As iniciais do estilista norte-americano Klein",
+      "answer": "CK",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Perfume, fragrância, olor",
+      "answer": "CHEIRO",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Estado norte-americano cuja capital é Columbus",
+      "answer": "OHIO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(de Santo Agostinho) Cidade de Pernambuco",
+      "answer": "CABO",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Planta também chamada erva-de-passarinho",
+      "answer": "TENTEM",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "A abreviatura que precede o nome da advogada",
+      "answer": "DRA",
+      "row": 2,
+      "col": 8
+    },
+    "18": {
+      "clue": "A dentária está na boca de todos",
+      "answer": "ARCADA",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Mulher que gerou um filho ou que teve descendentes",
+      "answer": "MÃE",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "O tenor italiano Enrico (1873-1921)",
+      "answer": "CARUSO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "(Montes) Cidade mineira do norte do estado",
+      "answer": "CLAROS",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "O contrário de sem",
+      "answer": "COM",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "(Ingl.) Amor",
+      "answer": "LOVE",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "Causa, motivo",
+      "answer": "RAZÃO",
+      "row": 6,
+      "col": 6
+    },
+    "29": {
+      "clue": "As malhas que envolvem as traves no futebol",
+      "answer": "REDES",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "O ator e cantor capixaba Suede",
+      "answer": "CHAY",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Pequena quantidade de líquido bebido",
+      "answer": "GOLE",
+      "row": 7,
+      "col": 9
+    },
+    "35": {
+      "clue": "Uma abreviatura para administração",
+      "answer": "ADM",
+      "row": 8,
+      "col": 5
+    },
+    "37": {
+      "clue": "Stanley Kubrick, cineasta de \"Laranja Mecânica\"",
+      "answer": "SK",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

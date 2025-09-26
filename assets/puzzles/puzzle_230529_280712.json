@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Escrito",
+      "answer": "GRAFADO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Fator de Proteção Solar",
+      "answer": "FPS",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Parte da casa, anexa à cozinha",
+      "answer": "COPA",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "Que está no meio",
+      "answer": "MEÃO",
+      "row": 1,
+      "col": 7
+    },
+    "11": {
+      "clue": "Em gramática, a parte mínima, invariável e irredutível de uma palavra",
+      "answer": "RAIZ",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Um usuário de livros",
+      "answer": "LEITOR",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Abrev.: Dinamarca",
+      "answer": "DIN",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Local para a apresentação de músicos",
+      "answer": "PALCO",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Que precede em lugar ou tempo",
+      "answer": "ANTERIOR",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Elemento fundamental numa religião",
+      "answer": "FE",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "Satanás",
+      "answer": "DEMO",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Um pedaço da mexerica",
+      "answer": "GOMO",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "(Quím.) Cálcio",
+      "answer": "CA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Ingl.) Negócio",
+      "answer": "BUSINESS",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "(Pop.) Violão, viola",
+      "answer": "PINHO",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "A metade de MCCII",
+      "answer": "DCI",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Grande companhia aérea espanhola",
+      "answer": "IBERIA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Os cabos que fazem o transporte da eletricidade",
+      "answer": "FIOS",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Diz-se de disciplina não aplicada",
+      "answer": "PURA",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Um carro da Renault",
+      "answer": "KWID",
+      "row": 9,
+      "col": 5
+    },
+    "35": {
+      "clue": "(Pop.) Senhor, como tratamento respeitoso",
+      "answer": "SEU",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Bom conhecedor",
+      "answer": "VERSADO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O oposto de magra",
+      "answer": "GORDA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Provocação",
+      "answer": "ACINTE",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Embocadura de rio",
+      "answer": "FOZ",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Adélia Prado, poetisa",
+      "answer": "AP",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "O Lama líder tibetano",
+      "answer": "DALAI",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Produto da concepção",
+      "answer": "FETO",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "O de queijo é um petisco assado",
+      "answer": "PÃO",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Boa fortuna",
+      "answer": "SORTE",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "A milésima parte do milímetro",
+      "answer": "MICRON",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Até agora",
+      "answer": "AINDA",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Louvor",
+      "answer": "ELOGIO",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Um programa do Ministério da Educação para concessão de bolsas de estudos",
+      "answer": "PROUNI",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Fibra vegetal",
+      "answer": "EMBIRA",
+      "row": 4,
+      "col": 3
+    },
+    "19": {
+      "clue": "Sem brilho",
+      "answer": "FOSCO",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Lei ou providências legais",
+      "answer": "MEDIDA",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "(Ingl.) Batatas cortadas em rodelas finas, salgadas e fritas",
+      "answer": "CHIPS",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Ingl.) Pó nutricional usado para emagrecer",
+      "answer": "SHAKE",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Tremor de terra",
+      "answer": "SISMO",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "No jogo do bicho, o grupo de 77 a 80",
+      "answer": "PERU",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "(Pop.) Choradeira, berreiro",
+      "answer": "BUE",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "Física",
+      "answer": "FIS",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Winona Ryder, atriz de \"Outono em Nova York\"",
+      "answer": "WR",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

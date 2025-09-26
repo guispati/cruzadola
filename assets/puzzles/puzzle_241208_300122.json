@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma parte do frango",
+      "answer": "ENTRECOXA",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Bairro da cidade do Rio de Janeiro",
+      "answer": "MEIER",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "(Gír.) Dispensar por inútil",
+      "answer": "RIFAR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Ivone Lara (1921-2018), sambista",
+      "answer": "IL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Estrada da) Um destino turístico paranaense",
+      "answer": "GRACIOSA",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "(Gír.) Ato de dar fazer algo de forma impressionante, ganhando reconhecimento ou aprovação dos demais",
+      "answer": "LACRADA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Bebida usada em coquetéis alcoólicos",
+      "answer": "GIM",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Material usado em pescarias",
+      "answer": "REDE",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Receptáculo para levar roupas",
+      "answer": "MALA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Muito torto ou enroscado",
+      "answer": "RETORCIDO",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "A arábica serve para colar",
+      "answer": "GOMA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Um que fica entre os dez primeiros",
+      "answer": "NONO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "M",
+      "answer": "EME",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Uma das duas avós",
+      "answer": "PATERNA",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Repetir com insistência",
+      "answer": "REITERAR",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Um dos maiores rios do mundo, deságua no mar de Kara, na Rússia",
+      "answer": "OB",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "A pintura feita diretamente sobre uma parede",
+      "answer": "MURAL",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "A cantora de Oliveira (1917-1972), de \"Bandeira Branca\"",
+      "answer": "DALVA",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Desmoralizar, ridicularizar",
+      "answer": "AVACALHAR",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A Blunt atriz britânica",
+      "answer": "EMILY",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Em + ela",
+      "answer": "NELA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Uma variação do pronome tu",
+      "answer": "TI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Régua que serve para medir a composição tipográfica",
+      "answer": "REGRETA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Que não está certo",
+      "answer": "ERRADO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Cetáceo típico dos mares frios",
+      "answer": "ORCA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "12, em romanos",
+      "answer": "XII",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Um dispositivo de carros mais antigos, usado quando frio",
+      "answer": "AFOGADOR",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O piso das quadras de tênis de Wimbledon",
+      "answer": "GRAMA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Abrigo",
+      "answer": "ASILO",
+      "row": 1,
+      "col": 9
+    },
+    "15": {
+      "clue": "Inclinar-se (o navio) submergindo de um lado",
+      "answer": "ADERNAR",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Um recipiente usado em refeições",
+      "answer": "CREMEIRA",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "Que não é orgânico",
+      "answer": "MINERAL",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "O amor de Julieta",
+      "answer": "ROMEU",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Tida em bom conceito",
+      "answer": "COTADA",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Princípio rudimentar de um novo ser orgânico",
+      "answer": "GERME",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Balbuciar, gaguejar",
+      "answer": "BABAR",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Bola de borracha",
+      "answer": "PELA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "O contrário de velha",
+      "answer": "NOVA",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Trem de Alta Velocidade",
+      "answer": "TAV",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "As iniciais do apresentador de TV Huck",
+      "answer": "LH",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

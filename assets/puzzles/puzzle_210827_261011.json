@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Mulher que comanda",
+      "answer": "CHEFA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Planta cultivada em cercados e em topiaria",
+      "answer": "BUXO",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Muito velho",
+      "answer": "LONGEVO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "A sigla do estado que faz divisa somente com o PA",
+      "answer": "AP",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Pop.) Garganta",
+      "answer": "GOELA",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "(Paz) A capital da Bolívia",
+      "answer": "LA",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Um dente postiço",
+      "answer": "PIVO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Ruminar",
+      "answer": "MASCAR",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Inscrever nas forças armadas",
+      "answer": "ALISTAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Exclamação que expressa incerteza, incredulidade",
+      "answer": "HUM",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Quem supervisiona, dirige",
+      "answer": "TUTOR",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Ligado a outro",
+      "answer": "UNIDO",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "A terceira pessoa gramatical (fem.)",
+      "answer": "ELA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Destruir (por doença, cataclismo)",
+      "answer": "ASSOLAR",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "Uma carne de antepasto",
+      "answer": "SALAME",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Destino, sorte",
+      "answer": "SINA",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Tribunal de Recursos",
+      "answer": "TR",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Aqueles a quem se fala",
+      "answer": "VOCES",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Sufixo: autor",
+      "answer": "OR",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "Tonalidade intermediária de cor",
+      "answer": "MEIOTOM",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "(Red.) Uma maneira de chamar a mãe da mãe da mãe",
+      "answer": "BISA",
+      "row": 10,
+      "col": 1
+    },
+    "38": {
+      "clue": "Molusco",
+      "answer": "OSTRA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Parte externa da fechadura em cuja abertura se introduz a lingueta impulsionada pela chave",
+      "answer": "CHAPATESTA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um artigo masculino espanhol",
+      "answer": "EL",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Caloroso, ardente",
+      "answer": "FOGOSO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Unidade de tempo igual a 12 meses",
+      "answer": "ANO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "República da Europa oriental, com capital Minsk",
+      "answer": "BELARUS",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Viram vinho",
+      "answer": "UVAS",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Sai, pombinha!",
+      "answer": "XO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Parte central amarelada do ovo",
+      "answer": "GEMA",
+      "row": 1,
+      "col": 5
+    },
+    "10": {
+      "clue": "Empresa que corta e prepara pedras para túmulos, pisos etc.",
+      "answer": "MARMORARIA",
+      "row": 1,
+      "col": 10
+    },
+    "12": {
+      "clue": "De forma de certa drágea medicinal",
+      "answer": "PILULAR",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Solução medicinal de ópio, usada como calmante",
+      "answer": "LAUDANO",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Fundamental para a existência",
+      "answer": "VITAL",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Pimenta mexicana",
+      "answer": "CHILI",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Manobra secreta e com propósitos ilícitos",
+      "answer": "TRAMOIA",
+      "row": 4,
+      "col": 4
+    },
+    "24": {
+      "clue": "Que nos pertence (pl.)",
+      "answer": "NOSSOS",
+      "row": 5,
+      "col": 7
+    },
+    "27": {
+      "clue": "(Fig.) Incivil, descortês",
+      "answer": "SECO",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "Animais como o mutum e o abutre",
+      "answer": "AVES",
+      "row": 7,
+      "col": 3
+    },
+    "33": {
+      "clue": "Sufixo diminutivo masculino",
+      "answer": "ETO",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "A nota musical entre ré e fá",
+      "answer": "MI",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "O meitnério, em química",
+      "answer": "MT",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

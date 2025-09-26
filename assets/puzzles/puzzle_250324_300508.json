@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Puerto) Famosa cidade do sul do Chile",
+      "answer": "MONTT",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Até logo!",
+      "answer": "TCHAU",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Grãos como o milho e a soja",
+      "answer": "CEREAIS",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "David Bowie (1947-2016), músico inglês",
+      "answer": "DB",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Inseto muito comum, com um só par de asas",
+      "answer": "MOSCA",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Duas vezes",
+      "answer": "BI",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "(Fam.) Filho, descendente",
+      "answer": "REBENTO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Choradeira de criança",
+      "answer": "BUE",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Relação dos artistas de um filme",
+      "answer": "ELENCO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "A atriz carioca Werneck",
+      "answer": "TATA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "A rainha francesa Maria, destronada durante a revolução francesa",
+      "answer": "ANTONIETA",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Um dos grandes lagos da América do Norte",
+      "answer": "ERIE",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Que não consegue dormir",
+      "answer": "INSONE",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Sol, na Austrália",
+      "answer": "SUN",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "O músico carioca Jorge, de \"Maracatu Atômico\"",
+      "answer": "MAUTNER",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Qorpo Santo (1829-1883), poeta e dramaturgo gaúcho",
+      "answer": "QS",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Importância total de uma conta",
+      "answer": "MONTA",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "Susana Vieira, atriz",
+      "answer": "SV",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Subproduto da moagem do trigo",
+      "answer": "REMOIDO",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "Que não tem fé",
+      "answer": "IMPIO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Cidade potiguar da região de Angicos",
+      "answer": "LAJES",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A Teresa de Calcutá foi uma religiosa",
+      "answer": "MADRE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Nicolas Cage, ator estadunidense de \"A Outra Face\"",
+      "answer": "NC",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Que respeita",
+      "answer": "TEMENTE",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Origem de família, raça etc.",
+      "answer": "TRONCO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Peça com que se bate a bola no golfe",
+      "answer": "TACO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Companhia",
+      "answer": "CIA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O símbolo do hássio",
+      "answer": "HS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "As vogais lidas de trás para frente",
+      "answer": "UOIEA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Do país báltico cuja capital é Tallin",
+      "answer": "ESTONIANO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "A nação europeia cuja capital é Minsk",
+      "answer": "BELARUS",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Relativo ao país asiático cuja capital é Timfu",
+      "answer": "BUTANES",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "A nação africana de Porto Novo",
+      "answer": "BENIN",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Famosa marca de chocolate",
+      "answer": "BATON",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Parte da via pública que fica à frente de um prédio",
+      "answer": "TESTADA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Sem proveito",
+      "answer": "INUTIL",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Um esporte de inverno",
+      "answer": "ESQUI",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Plantas que dão sabor e aroma para as comidas",
+      "answer": "ERVAS",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "O rei lembrado no carnaval",
+      "answer": "MOMO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Um tipo de empresa",
+      "answer": "MEI",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Robert Plant, roqueiro britânico",
+      "answer": "RP",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "(Dir.) Orientações Jurisprudenciais",
+      "answer": "OJ",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

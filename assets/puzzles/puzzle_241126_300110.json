@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Banana) Uma sobremesa",
+      "answer": "SPLIT",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Guerra santa muçulmana",
+      "answer": "JIHAD",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Grito de sofrimento ou angústia",
+      "answer": "ULO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Brava, irritada",
+      "answer": "RAIVOSA",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Limpeza com a vassoura",
+      "answer": "VARRIDA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(10) Personagem de desenhos infantis",
+      "answer": "BEN",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Passado por crivo",
+      "answer": "COADO",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "Uma forma de abreviar o contrário de feminino",
+      "answer": "MASC",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Instrumento que ajuda a acumular ou desfazer montes de terra ou areia",
+      "answer": "PA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Fazer comércio de alguma coisa",
+      "answer": "MERCAR",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Marca britânica de carros esportivos de luxo",
+      "answer": "ASTONMARTIN",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Elemento de composição: intestino",
+      "answer": "ENTERO",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Bruno Gagliasso, ator carioca",
+      "answer": "BG",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Famosa música de Dorival Caymmi",
+      "answer": "DORA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Cama dobrável, de lona, para viagem",
+      "answer": "CATRE",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "Poesia clássica",
+      "answer": "ODE",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Raiz alaranjada rica em açúcar, carotenoides etc.",
+      "answer": "CENOURA",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "A capital de New Hampshire, estado dos EUA",
+      "answer": "CONCORD",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Abreviatura de figurado",
+      "answer": "FIG",
+      "row": 9,
+      "col": 8
+    },
+    "36": {
+      "clue": "Perfume artificial",
+      "answer": "AROMA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Rebocar",
+      "answer": "ATOAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Utilitário esportivo",
+      "answer": "SUV",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Identificam um veículo",
+      "answer": "PLACAS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Correia dupla afivelada à sela para sustentar o estribo",
+      "answer": "LORO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Famosa marca de chicletes",
+      "answer": "TRIDENT",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Espécie de rã de dorso escuro",
+      "answer": "JIA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "1/5 de XX",
+      "answer": "IV",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "A capital da ilha da Tasmânia",
+      "answer": "HOBART",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "São quatro em um maço de baralho",
+      "answer": "ASES",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Ingl.) Salão de baile",
+      "answer": "DANCING",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Começar a dormir",
+      "answer": "ADORMECER",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Grampo para cabelos",
+      "answer": "RAMONA",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "(Sorriso) Famoso grupo de samba e pagode",
+      "answer": "MAROTO",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "A fêmea do pardal",
+      "answer": "PARDOCA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Palmeira de até 30m de altura",
+      "answer": "CARANDA",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Outro nome da ave gaturamo-rei",
+      "answer": "TERENO",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Grande companhia aérea espanhola",
+      "answer": "IBERIA",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Fragrância",
+      "answer": "ODOR",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Toque de tambor",
+      "answer": "RUFO",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Nata que se condensa na superfície do leite quente",
+      "answer": "COA",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Abreviatura de agricultura",
+      "answer": "AGR",
+      "row": 8,
+      "col": 10
+    },
+    "34": {
+      "clue": "Centímetro",
+      "answer": "CM",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

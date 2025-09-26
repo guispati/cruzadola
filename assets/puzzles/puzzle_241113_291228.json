@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cujos ramos e hastes não são lenhosos",
+      "answer": "HERBACEO",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Caixa Postal",
+      "answer": "CP",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Arma com que se derrubavam portas de cidades sitiadas",
+      "answer": "ARIETE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Uma manifestação de desagrado",
+      "answer": "VAIA",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "(Esp.) Jogada",
+      "answer": "LANCE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Puerto) Cidade chilena da região dos Lagos",
+      "answer": "MONTT",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Sujeira em dente",
+      "answer": "SARRO",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Executar um movimento corporal",
+      "answer": "DAR",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Bem-sucedido",
+      "answer": "PROSPERO",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Famoso quarteto musical inglês dos anos 60",
+      "answer": "BEATLES",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Pedra, em tupi",
+      "answer": "ITA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Provocar dor física",
+      "answer": "DOER",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "Configurar",
+      "answer": "CONFORMAR",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Pequeno palanque",
+      "answer": "ANDOR",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Estado dos EUA, com capital Boise",
+      "answer": "IDAHO",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Regra",
+      "answer": "TEOR",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Álcool etílico",
+      "answer": "ETANOL",
+      "row": 9,
+      "col": 5
+    },
+    "34": {
+      "clue": "Orígenes Lessa (1903-1986), escritor de \"Rua do Sol\"",
+      "answer": "OL",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Astron.) A estrela mais brilhante de uma constelação",
+      "answer": "ALFA",
+      "row": 10,
+      "col": 3
+    },
+    "36": {
+      "clue": "Ácido desoxirribonucleico",
+      "answer": "DNA",
+      "row": 10,
+      "col": 8
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Ingl.) Saguão",
+      "answer": "HALL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ciclo histórico",
+      "answer": "ERA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Órgãos que regulam o sal no organismo",
+      "answer": "RINS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Cópia de segurança",
+      "answer": "BECAPE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Que incute grande pavor",
+      "answer": "ATERRADOR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "A terceira letra do alfabeto",
+      "answer": "CE",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Um ingrediente fundamental no quindim",
+      "answer": "OVO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Mencionar",
+      "answer": "CITAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Dona, proprietária",
+      "answer": "PATROA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "A grande cordilheira sul-americana",
+      "answer": "ANDES",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Indivíduo que adotou o islamismo, renegando o cristianismo",
+      "answer": "MOSLEMITA",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Parte giratória de uma máquina elétrica",
+      "answer": "ROTOR",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Doce feito com a Pyrus communis",
+      "answer": "PERADA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Prato de certa víscera de ave recheada de figos",
+      "answer": "FICATO",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Quadrilha",
+      "answer": "BANDO",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Um barril para vinho",
+      "answer": "TONEL",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Rompimento de namoro",
+      "answer": "FORA",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "A moeda da África do Sul",
+      "answer": "RAND",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "(ao cesto) Um outro nome do basquetebol",
+      "answer": "BOLA",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Abrev.: Honduras",
+      "answer": "HON",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Emerson Fittipaldi, campeão mundial de F1 e Indy",
+      "answer": "EF",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

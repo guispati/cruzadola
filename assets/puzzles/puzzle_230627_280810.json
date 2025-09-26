@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Fís.) Condições normais de temperatura e pressão",
+      "answer": "CNTP",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "Elemento de composição: falso, aparente",
+      "answer": "PSEUDO",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Abreviatura (em português) de Honduras",
+      "answer": "HON",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "A atriz Davis, de \"Thelma & Louise\"",
+      "answer": "GEENA",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Érick Jacquin, chef radicado no Brasil",
+      "answer": "EJ",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "(Pão de) É cortado em fatias e usado para preparar sanduíches",
+      "answer": "FORMA",
+      "row": 2,
+      "col": 3
+    },
+    "13": {
+      "clue": "O baroscópio demonstra a sua pressão",
+      "answer": "AR",
+      "row": 2,
+      "col": 9
+    },
+    "14": {
+      "clue": "O ator Whitaker, de \"O Último Rei da Escócia\"",
+      "answer": "FOREST",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Objeto usado para levar pertences numa viagem",
+      "answer": "MALA",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "(Geom.) Perpendicular",
+      "answer": "ORTOGONO",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Estudante (fem.)",
+      "answer": "ALUNA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Sequência",
+      "answer": "ORDEM",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Ornar, enfeitar",
+      "answer": "APARATAR",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "O músico Lins, de \"Começar de Novo\"",
+      "answer": "IVAN",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Ave das matas atlânticas",
+      "answer": "ZIDEDE",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "A nota musical usada para dar a entoação",
+      "answer": "LA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "A atriz Moraes",
+      "answer": "DRICA",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "(Sigla) Ativo Disponível",
+      "answer": "AD",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Que não sofreu alterações (fem.)",
+      "answer": "MESMA",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Sufixo formador de gerúndio",
+      "answer": "NDO",
+      "row": 9,
+      "col": 8
+    },
+    "35": {
+      "clue": "Contrário, inverso",
+      "answer": "OPOSTO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Fragrância",
+      "answer": "ODOR",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Comando",
+      "answer": "CHEFIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Sensação de profunda repugnância",
+      "answer": "NOJO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Torquato Neto (1944-1972), poeta",
+      "answer": "TN",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O oposto de longe",
+      "answer": "PERTO",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "Preposição: falta",
+      "answer": "SEM",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Que se apaixonou (fem.)",
+      "answer": "ENAMORADA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "United Airlines",
+      "answer": "UA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Sufixo aumentativo",
+      "answer": "ORRA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Aprovar, achar bom",
+      "answer": "GOSTAR",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "O humorista, jornalista e dramaturgo carioca Millôr (1923-2012)",
+      "answer": "FERNANDES",
+      "row": 2,
+      "col": 3
+    },
+    "13": {
+      "clue": "Planta de sabor amargo, também conhecida como babosa",
+      "answer": "ALOE",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Camisa, meia ou saia",
+      "answer": "ROUPA",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "O Abujamra músico e ator",
+      "answer": "ANDRE",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Diz-se da arquitetura como a de Notre-Dame",
+      "answer": "GOTICA",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Massa pastosa que sai dos vulcões",
+      "answer": "LAVA",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Aparelho triturador",
+      "answer": "MOEDOR",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Sem fermento",
+      "answer": "AZIMO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Uma parte do intestino",
+      "answer": "ILEO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Cubo de jogar",
+      "answer": "DADO",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Rosto sem ós",
+      "answer": "RST",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Roda de pedra para afiar facas",
+      "answer": "MO",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Nelson Dantas (1927-2006), ator carioca",
+      "answer": "ND",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

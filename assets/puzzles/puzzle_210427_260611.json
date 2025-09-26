@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "As bodas que comemoram 65 anos de casamento",
+      "answer": "FERRO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "A boa estrela",
+      "answer": "SORTE",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Malar ou rádio",
+      "answer": "OSSO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Um modelo de carro",
+      "answer": "CUPE",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Reverendo Padre",
+      "answer": "RP",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "Um cliente do oculista",
+      "answer": "MIOPE",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Polícia Técnica",
+      "answer": "PT",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Fingir que não entende",
+      "answer": "DESENTENDER",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Usar uma cadeira",
+      "answer": "SENTAR",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Monumento comemorativo",
+      "answer": "ARA",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "O Schmidt ex-jogador de basquete",
+      "answer": "OSCAR",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Quebrar, ir à bancarrota",
+      "answer": "FALIR",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Pode ser nova, crescente, minguante ou cheia",
+      "answer": "LUA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "O oposto de final",
+      "answer": "INICIO",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Que se abriu, se descerrou",
+      "answer": "ARREGANHADO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Rubem Alves, escritor de \"A Maçã e Outros Sabores\"",
+      "answer": "RA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Uma planta dos brejos",
+      "answer": "TABOA",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Um quinto de XX",
+      "answer": "IV",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "O médio é o mais comprido",
+      "answer": "DEDO",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Relativo a certo estilo de arte de origem francesa",
+      "answer": "DECO",
+      "row": 9,
+      "col": 7
+    },
+    "35": {
+      "clue": "Estrela",
+      "answer": "ASTRO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "O Antônio Gonzaga (1744-1810), do poema \"Marília de Dirceu\"",
+      "answer": "TOMAS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A fábrica do Ka e do Fiesta",
+      "answer": "FORD",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A altura de uma camada",
+      "answer": "ESPESSURA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "As letras entre o Q e o T",
+      "answer": "RS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Nascida no país de Bucareste",
+      "answer": "ROMENA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Que é da melhor qualidade",
+      "answer": "SUPERFINO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "(Ingl.) Aberto",
+      "answer": "OPEN",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Faz andar para trás",
+      "answer": "RE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Fazer parte",
+      "answer": "ENTRAR",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Valor usado por arquitetos nas construções",
+      "answer": "COTA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Envolto em mexericos",
+      "answer": "INTRIGADO",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "A tabela com os elementos químicos",
+      "answer": "PERIODICA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Retirar a umidade de algo",
+      "answer": "SECAR",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Grande flor inodora",
+      "answer": "DALIA",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Fábrica de louças de telhas",
+      "answer": "OLARIA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Encontrado pela primeira vez",
+      "answer": "ACHADO",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "Erva alimentícia",
+      "answer": "NABO",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Composto usado como solvente e antisséptico",
+      "answer": "ETER",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Com farinha, viram macarrão",
+      "answer": "OVOS",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "Departamento de Turismo",
+      "answer": "DT",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Evandro Mesquita, ator e músico",
+      "answer": "EM",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

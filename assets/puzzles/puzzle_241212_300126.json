@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Tornar-se cinzento",
+      "answer": "GRISAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Gente, turma",
+      "answer": "POVO",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Um sobrenome do escritor José (1901-1957), de \"Fogo Morto\"",
+      "answer": "REGO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Obstruir (fígado)",
+      "answer": "OPILAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "A sigla de Unidade Astronômica",
+      "answer": "UA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O Sidney cantor",
+      "answer": "MAGAL",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Itamar Assumpção (1949-2003), músico",
+      "answer": "IA",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Cambacica, corruíra ou sanhaço",
+      "answer": "AVE",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "O da Barra fica na ponta de Santo Antônio, em Salvador",
+      "answer": "FAROL",
+      "row": 3,
+      "col": 4
+    },
+    "21": {
+      "clue": "Em que há ação mútua, entre coisas ou pessoas",
+      "answer": "INTERATIVO",
+      "row": 4,
+      "col": 1
+    },
+    "24": {
+      "clue": "Agitar com certa força",
+      "answer": "BATER",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Soltar (o cão) sua voz intermitente",
+      "answer": "LATIR",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "Morada construída em lugar solitário e isolado",
+      "answer": "EREMITERIO",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Adversário",
+      "answer": "RIVAL",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "(Fut.) Série de fintas",
+      "answer": "OLE",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Epitácio Pessoa, (1865-1942), presidente da República",
+      "answer": "EP",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Náut.) Peças como a bujarrona e a genoa",
+      "answer": "VELAS",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "O alumínio, entre os químicos",
+      "answer": "AL",
+      "row": 8,
+      "col": 9
+    },
+    "36": {
+      "clue": "Boato falso",
+      "answer": "BALELA",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Massa de água que se move e se eleva no mar",
+      "answer": "ONDA",
+      "row": 9,
+      "col": 7
+    },
+    "40": {
+      "clue": "A 5ª cor do arco-íris",
+      "answer": "AZUL",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "Despojos mortais",
+      "answer": "RESTOS",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Guindaste",
+      "answer": "GRUA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Reconduzir, guiar de novo",
+      "answer": "REAVIAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ingrid Guimarães, atriz",
+      "answer": "IG",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Propaga-se à velocidade de 340 metros por segundo",
+      "answer": "SOM",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Implorar a alguém",
+      "answer": "ROGAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Dirigir um avião",
+      "answer": "PILOTAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Ondas Longas",
+      "answer": "OL",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Passar) Sucesso de Chico Buarque",
+      "answer": "VAI",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O porta-voz da turma na formatura",
+      "answer": "ORADOR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Rua que segue no mesmo sentido de outra",
+      "answer": "PARALELA",
+      "row": 1,
+      "col": 6
+    },
+    "15": {
+      "clue": "Que se pode ajustar ao padrão",
+      "answer": "AFERIVEL",
+      "row": 2,
+      "col": 4
+    },
+    "18": {
+      "clue": "Tecla de PC",
+      "answer": "ENTER",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "O mais leve metal conhecido",
+      "answer": "LITIO",
+      "row": 3,
+      "col": 8
+    },
+    "22": {
+      "clue": "Que dá medo",
+      "answer": "TEMIVEL",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Profanado",
+      "answer": "VIOLADO",
+      "row": 4,
+      "col": 9
+    },
+    "24": {
+      "clue": "Lesão cutânea indefinida, de mau aspecto",
+      "answer": "BEREBA",
+      "row": 5,
+      "col": 0
+    },
+    "27": {
+      "clue": "Relativo ao calcanhar",
+      "answer": "TALAR",
+      "row": 6,
+      "col": 5
+    },
+    "30": {
+      "clue": "Terceira pessoa feminina do plural",
+      "answer": "ELAS",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "A atriz e cineasta Bárbara",
+      "answer": "PAZ",
+      "row": 8,
+      "col": 1
+    },
+    "34": {
+      "clue": "Sigla que significa \"salvem nossas almas\"",
+      "answer": "SOS",
+      "row": 8,
+      "col": 7
+    },
+    "37": {
+      "clue": "Apelido para Luciana",
+      "answer": "LU",
+      "row": 9,
+      "col": 2
+    },
+    "39": {
+      "clue": "Nathália Timberg, atriz",
+      "answer": "NT",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

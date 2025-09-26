@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "Que ladeia (rio, estrada etc.)",
+      "answer": "MARGEADOR",
+      "row": 0,
+      "col": 1
+    },
+    "9": {
+      "clue": "Estúpido, ignorante",
+      "answer": "BOÇAL",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Beberrão, ébrio",
+      "answer": "BEBUM",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Substância que aumenta a produtividade da terra",
+      "answer": "ADUBO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "O país de Berna e Lucerna",
+      "answer": "SUIÇA",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Vontade de tomar água",
+      "answer": "SEDE",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Cidade dos EUA, capital do Massachusetts",
+      "answer": "BOSTON",
+      "row": 3,
+      "col": 5
+    },
+    "16": {
+      "clue": "Alimentar o recém-nascido",
+      "answer": "ALEITAR",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Um tecido leve e transparente",
+      "answer": "LO",
+      "row": 5,
+      "col": 0
+    },
+    "19": {
+      "clue": "Ponto cardeal à esquerda de quem olha para o norte",
+      "answer": "OESTE",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "(Mús.) A última nota da escala",
+      "answer": "SI",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Perseguir",
+      "answer": "ACOSSAR",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "Inábil",
+      "answer": "INAPTO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Uma manobra do surfista",
+      "answer": "TUBO",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Enrubescer",
+      "answer": "CORAR",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "O Antônio Gonzaga (1744-1810), de \"Marília de Dirceu\"",
+      "answer": "TOMAS",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Loja que vende lentes de contato",
+      "answer": "OTICA",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Com o de milho se faz mingau",
+      "answer": "AMIDO",
+      "row": 9,
+      "col": 6
+    },
+    "33": {
+      "clue": "Um tom da cor do céu",
+      "answer": "AZULCLARO",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Manequim",
+      "answer": "MODELO",
+      "row": 0,
+      "col": 1
+    },
+    "2": {
+      "clue": "Obra para represar águas",
+      "answer": "AÇUDE",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Ato de derrapar nas rodas traseiras",
+      "answer": "RABEIO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Garantia da Lei e da Ordem",
+      "answer": "GLO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Concentrado em seus pensamentos",
+      "answer": "ABSORTO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "No cristianismo, o criador do universo",
+      "answer": "DEUS",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Passamento",
+      "answer": "OBITO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Que perdeu a cor",
+      "answer": "RUÇO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Que tem a estrutura de certa rocha duríssima, vulcânica",
+      "answer": "BASALTICO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Amável, gentil",
+      "answer": "MANEIROSO",
+      "row": 1,
+      "col": 10
+    },
+    "15": {
+      "clue": "De Bilbao, região europeia",
+      "answer": "BASCO",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "(Fig.) Exagerado",
+      "answer": "TEATRAL",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Pequena abertura das folhas das plantas",
+      "answer": "ESTOMA",
+      "row": 5,
+      "col": 7
+    },
+    "21": {
+      "clue": "(Red.) O dia seguinte à sexta",
+      "answer": "SABADO",
+      "row": 5,
+      "col": 9
+    },
+    "22": {
+      "clue": "O órgão do olfato",
+      "answer": "NARIZ",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Destruir, aniquilar",
+      "answer": "SUMIR",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Anotação, apontamento",
+      "answer": "NOTA",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Peixe parecido com a piranha",
+      "answer": "PACU",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Igual, semelhante",
+      "answer": "TAL",
+      "row": 8,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Parte lateral",
+      "answer": "FLANCO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Valley) Região produtora de vinhos nos EUA",
+      "answer": "NAPA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Até este momento",
+      "answer": "AINDA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Que ainda não atingiu a maioridade",
+      "answer": "MENOR",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Teste para reconhecimento de paternidade",
+      "answer": "DNA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Ingl.) Uma moto pequena",
+      "answer": "SCOOTER",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Ordem do Dia",
+      "answer": "OD",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Su-sudoeste",
+      "answer": "SSO",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "O youtuber Luccas",
+      "answer": "NETO",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Tecido grosso usado para forrar pisos",
+      "answer": "TAPETE",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Animal do sexo masculino que deu origem a outro",
+      "answer": "PAI",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Ato de dar nome a uma pessoa ou coisa",
+      "answer": "BATISMO",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "(Net) Sufixo para entidades ligadas à educação",
+      "answer": "EDU",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Demora, tardança",
+      "answer": "ESPERA",
+      "row": 6,
+      "col": 4
+    },
+    "29": {
+      "clue": "Prudência",
+      "answer": "TINO",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Feito por ti",
+      "answer": "TEU",
+      "row": 7,
+      "col": 5
+    },
+    "32": {
+      "clue": "Abreviatura de loja",
+      "answer": "LJ",
+      "row": 7,
+      "col": 9
+    },
+    "34": {
+      "clue": "(Matem.) Quantidade que forma a raiz de outra",
+      "answer": "RADICAL",
+      "row": 8,
+      "col": 0
+    },
+    "36": {
+      "clue": "Manifestação da vontade humana",
+      "answer": "ATO",
+      "row": 8,
+      "col": 8
+    },
+    "37": {
+      "clue": "Derrubada de árvores em grande extensão",
+      "answer": "ABATE",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Um estado dos EUA",
+      "answer": "HAVAI",
+      "row": 9,
+      "col": 6
+    },
+    "40": {
+      "clue": "Líquido usado na hidratação de doentes",
+      "answer": "SORO",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "Ritmo mexicano de dança",
+      "answer": "BOLERO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O estilo de canção portuguesa de Amália Rodrigues",
+      "answer": "FADO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Famosa marca suíça de chocolates",
+      "answer": "LINDT",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A Maria Braga da TV",
+      "answer": "ANA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Nelson Dantas (1927-2006), ator carioca",
+      "answer": "ND",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Uma fita de gravar",
+      "answer": "CASSETE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Quím.) O Ne",
+      "answer": "NEON",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Colocar antes de",
+      "answer": "ANTEPOR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Um escritor como Mário Quintana",
+      "answer": "POETA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Regato intermitente",
+      "answer": "ARROIO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Grande quantidade",
+      "answer": "MO",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "O sócio de uma empresa de responsabilidade limitada",
+      "answer": "COTISTA",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Clínica para tratamento de distúrbios da alimentação, saúde e beleza",
+      "answer": "SPA",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Ter grande quantidade de",
+      "answer": "ABUNDAR",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Superfície capaz de refletir imagens",
+      "answer": "ESPELHO",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Na parte posterior",
+      "answer": "DETRAS",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Malvado Favorito) Famoso filme infantil de animação",
+      "answer": "MEU",
+      "row": 5,
+      "col": 7
+    },
+    "26": {
+      "clue": "Sapucaio, sarnento",
+      "answer": "DIABO",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "A mesa sagrada da igreja",
+      "answer": "ALTAR",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "Dezenove menos onze",
+      "answer": "OITO",
+      "row": 7,
+      "col": 3
+    },
+    "33": {
+      "clue": "Uma praga dos trigais",
+      "answer": "JOIO",
+      "row": 7,
+      "col": 10
+    },
+    "35": {
+      "clue": "Ceará",
+      "answer": "CE",
+      "row": 8,
+      "col": 4
+    },
+    "36": {
+      "clue": "Um animal como o pelicano ou a saíra",
+      "answer": "AVE",
+      "row": 8,
+      "col": 8
+    },
+    "39": {
+      "clue": "Alameda",
+      "answer": "AL",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

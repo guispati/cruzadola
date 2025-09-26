@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Inf.) Comer",
+      "answer": "PAPAR",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Companheira, colega",
+      "answer": "AMIGA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Alain Delon, ator francês de \"A Piscina\"",
+      "answer": "AD",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Cipó",
+      "answer": "LIANA",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Antonio Vivaldi (1678-1741), compositor italiano",
+      "answer": "AV",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Que tem habilidade, aptidão",
+      "answer": "JEITOSO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Animal de chifres parecidos com os dos bois",
+      "answer": "GNU",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Pessoa",
+      "answer": "ENTE",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Que não é verdadeiro",
+      "answer": "IRREAL",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Entornar",
+      "answer": "DERRAMAR",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Imundo, sujo",
+      "answer": "PORCO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Dotado de membros como os dos pássaros",
+      "answer": "ALADO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Som do sino",
+      "answer": "BADALADA",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Lançar",
+      "answer": "ATIRAR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Proprietária",
+      "answer": "DONA",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "O Patinhas é um personagem da Disney",
+      "answer": "TIO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "(Gír.) Delatar, entregar",
+      "answer": "DEDURAR",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Se repetem em protótipo",
+      "answer": "OT",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Ficar numa posição para ser retratado",
+      "answer": "POSAR",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Dante Alighieri (1265-1321), poeta italiano de \"A Divina Comédia\"",
+      "answer": "DA",
+      "row": 9,
+      "col": 9
+    },
+    "36": {
+      "clue": "Dar um medicamento pré-operatório",
+      "answer": "SEDAR",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Sensação que as comidas produzem no paladar",
+      "answer": "SABOR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Benzedor",
+      "answer": "PAJE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Suplemento",
+      "answer": "ADENDO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Defender em polêmica",
+      "answer": "ALTERCAR",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "O Capibaribe corta Recife",
+      "answer": "RIO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Fora da regra",
+      "answer": "ANORMAL",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Abrev.: Miliampere",
+      "answer": "MA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "País da África com capital Acra",
+      "answer": "GANA",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Solto, que não faz parte da coleção",
+      "answer": "AVULSO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Um continente",
+      "answer": "ASIA",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "O Yb dos químicos",
+      "answer": "ITERBIO",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Criador, causador",
+      "answer": "GERADOR",
+      "row": 2,
+      "col": 8
+    },
+    "18": {
+      "clue": "Fragmentos da substância reduzida a migalhas pelo crivo",
+      "answer": "RALADURA",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Que gira em volta",
+      "answer": "RODADOR",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Um instrumento musical de percussão",
+      "answer": "PRATOS",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Pop.) Endiabrado, travesso",
+      "answer": "DANADO",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Condições climáticas",
+      "answer": "ARES",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Famoso técnico do futebol brasileiro",
+      "answer": "TITE",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Usar a relha",
+      "answer": "ARAR",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "De + as",
+      "answer": "DAS",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Sigla do estado que faz divisa com o AP e AM",
+      "answer": "PA",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

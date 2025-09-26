@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Coisa de pouco valor",
+      "answer": "CACARECO",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "As iniciais do músico Gonzaga (1912-1989)",
+      "answer": "LG",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "O rebordo do chapéu",
+      "answer": "ABA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Tornar turvo, confuso",
+      "answer": "OFUSCAR",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Mistura proporcional",
+      "answer": "DOSAGEM",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "H",
+      "answer": "AGA",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Provido de asas, como o pássaro",
+      "answer": "ALADO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "A cantora Fernanda, de \"Rio 40 Graus\"",
+      "answer": "ABREU",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "O dente do juízo",
+      "answer": "SISO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Não acertar a solução de um problema",
+      "answer": "ERRAR",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Tribunal de Recursos",
+      "answer": "TR",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Carro esportivo da VW",
+      "answer": "TIGUAN",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Um animal doméstico",
+      "answer": "GATO",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Recipiente para flores e ervas",
+      "answer": "VASO",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "À exceção de",
+      "answer": "AFORA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "O estado GO",
+      "answer": "GOIAS",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Interpretar (um texto)",
+      "answer": "LER",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Peixe, um dos maiores de água doce do Brasil",
+      "answer": "JAU",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "Pedido do público para repetição de uma música",
+      "answer": "BIS",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "Imaginado, fantasiado",
+      "answer": "IDEALIZADO",
+      "row": 9,
+      "col": 1
+    },
+    "38": {
+      "clue": "Viver em comum",
+      "answer": "COABITAR",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Uma carta do baralho",
+      "answer": "AS",
+      "row": 10,
+      "col": 9
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Relativo à relação de informações de clientes",
+      "answer": "CADASTRAL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Revogar",
+      "answer": "ABOLIR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Habitações",
+      "answer": "CASAS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Súplica",
+      "answer": "ROGO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "A 6ª letra do nosso alfabeto",
+      "answer": "EFE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Fruto de semente medicinal",
+      "answer": "CUMARU",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Uma metade do... osso",
+      "answer": "OS",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O tipo de cerveja mais consumido do mundo",
+      "answer": "LAGER",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Unidade de medida de um ângulo",
+      "answer": "GRAU",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Cidade mineira da região de Barbacena",
+      "answer": "CARANAIBA",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Servir de pai para filhos de outrem",
+      "answer": "ADOTAR",
+      "row": 2,
+      "col": 3
+    },
+    "18": {
+      "clue": "(Fig.) Muito agitado, revolto",
+      "answer": "BRAVO",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "O \"eu\" da psicanálise",
+      "answer": "EGO",
+      "row": 4,
+      "col": 5
+    },
+    "23": {
+      "clue": "Cidade portuária do litoral catarinense",
+      "answer": "ITAJAI",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Que nos pertence (pl.)",
+      "answer": "NOSSOS",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Obesa",
+      "answer": "GORDA",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "(Fig.) Dito espirituoso e inesperado",
+      "answer": "SAIDA",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "O atributo de um patinho de história infantil",
+      "answer": "FEIO",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Profissional que acompanha e auxilia os turistas",
+      "answer": "GUIA",
+      "row": 7,
+      "col": 6
+    },
+    "33": {
+      "clue": "Uma tecla dos computadores",
+      "answer": "ALT",
+      "row": 8,
+      "col": 5
+    },
+    "36": {
+      "clue": "Abreviatura de estibordo",
+      "answer": "EB",
+      "row": 9,
+      "col": 3
+    },
+    "37": {
+      "clue": "Zero sem vogais",
+      "answer": "ZR",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

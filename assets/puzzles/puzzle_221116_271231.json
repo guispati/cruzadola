@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Interrupção ou fim das hostilidades ou de um estado de beligerância",
+      "answer": "CESSARFOGO",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Árvore que produz um óleo medicinal viscoso",
+      "answer": "COPAIBA",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Senado Federal",
+      "answer": "SF",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Ministrar remédio para acalmar",
+      "answer": "SEDAR",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Antecede o dáblio",
+      "answer": "VE",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Tecla muito utilizada pelos usuários de computadores",
+      "answer": "ALT",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Um dos extremos do aparelho respiratório",
+      "answer": "NARINAS",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Revestir uma superfície com fina camada de ouro",
+      "answer": "DOURAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Pelé fez mais de mil",
+      "answer": "GOLS",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "São três em horror",
+      "answer": "ERRES",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "A mecha da vela",
+      "answer": "PAVIO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Destino, geralmente mau, cheio de amarguras",
+      "answer": "SINA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Que não está se movendo (fem.)",
+      "answer": "PARADA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Inclinar-se (o navio) submergindo de um lado",
+      "answer": "ADERNAR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Abreviatura (em português) do Senegal",
+      "answer": "SEN",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "A sigla da distância média entre a Terra e o Sol",
+      "answer": "UA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Material como o chumbo",
+      "answer": "METAL",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Zona Tropical",
+      "answer": "ZT",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Limpar os dentes",
+      "answer": "PALITAR",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Que é favorável a transformações muito radicais",
+      "answer": "EXTREMISTA",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Hospital, clínica",
+      "answer": "CASADESAUDE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Sílvio Caldas (1908-1998), músico de \"Serenata\"",
+      "answer": "SC",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Uma sigla para pedir socorro",
+      "answer": "SOS",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Só",
+      "answer": "APENAS",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "O aparelho usado pela polícia rodoviária para detectar veículos em excesso de velocidade",
+      "answer": "RADAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Tecer",
+      "answer": "FIAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Colocar como imposição",
+      "answer": "OBRIGAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Quím.) O símbolo do gálio",
+      "answer": "GA",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Que faz eco, que retumba",
+      "answer": "RESSOANTE",
+      "row": 1,
+      "col": 10
+    },
+    "12": {
+      "clue": "Estado dos EUA com capital Tallahasse",
+      "answer": "FLORIDA",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Validade",
+      "answer": "VALIDEZ",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Viagem de artistas",
+      "answer": "TURNE",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Notícias recentes",
+      "answer": "NOVAS",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Repor fuzis, tanques, munição etc.",
+      "answer": "REARMAR",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Peixe muito comum em piscicultura no Nordeste e Sudeste do Brasil",
+      "answer": "PARATI",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Calçado munido de lâminas metálicas na sola para deslizar no gelo",
+      "answer": "PATIM",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Combinação de preposição com pronome",
+      "answer": "NELE",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "(Leñas) Estação argentina de esqui",
+      "answer": "LAS",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "(Quím.) Platina",
+      "answer": "PT",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "As letras separadas pelo S",
+      "answer": "RT",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

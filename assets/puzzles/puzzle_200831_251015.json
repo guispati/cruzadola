@@ -1,0 +1,288 @@
+{
+  "across": {
+    "1": {
+      "clue": "Planta empregada em cercas vivas",
+      "answer": "TUIA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Correias para guiar animais de sela",
+      "answer": "REDEAS",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Que causa admiração",
+      "answer": "ESTUPENDO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Outro nome do lagarto tejú",
+      "answer": "TIU",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Entidade que cuida de crianças especiais",
+      "answer": "AACD",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "O tecnécio, entre os químicos",
+      "answer": "TC",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "(Econ.) Um tipo de ação",
+      "answer": "ON",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Porção de terra estreita e longa",
+      "answer": "ORLA",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Genitor",
+      "answer": "PAI",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Primeira claridade do dia",
+      "answer": "ALVA",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Marca de macarrão instantâneo",
+      "answer": "MIOJO",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Antiquado",
+      "answer": "INATUAL",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Planta cujas raízes fornecem a fibra usada no cultivo de orquídeas",
+      "answer": "XAXIM",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "O Tietê e o Pinheiros cortam São Paulo",
+      "answer": "RIOS",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "(Red.) Profissional",
+      "answer": "PRO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Qualquer cabo usado para prender objetos",
+      "answer": "BOÇA",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Bebê sem consoantes",
+      "answer": "EE",
+      "row": 7,
+      "col": 9
+    },
+    "33": {
+      "clue": "Os extremos da... Europa",
+      "answer": "EA",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Caverna",
+      "answer": "COVA",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Instituto Médico Legal",
+      "answer": "IML",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "Em hipismo, galope apressado",
+      "answer": "MEIAREDEA",
+      "row": 9,
+      "col": 2
+    },
+    "38": {
+      "clue": "Terreno em que abundam plantas de que se fazem esteiras",
+      "answer": "TABOAL",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Os órgãos que elaboram a urina",
+      "answer": "RINS",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Face superior interna de um ambiente",
+      "answer": "TETO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Produz açúcar e álcool em grande escala",
+      "answer": "USINA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Cidade paulista, \"a capital do exagero\"",
+      "answer": "ITU",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Som que imita o latido de cães",
+      "answer": "AU",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Madrid) Equipe espanhola de futebol",
+      "answer": "REAL",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Fazer empenar (a madeira)",
+      "answer": "ENCAMURÇAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Discagem Direta a Distância",
+      "answer": "DDD",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "As vogais de terço",
+      "answer": "EO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Parceiros de negócios",
+      "answer": "SOCIOS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Outro nome da jararaca-verde",
+      "answer": "PARAAMBOIA",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "O monumento indiano Mahal, uma das maravilhas do mundo",
+      "answer": "TAJ",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Designação geral de objetos voadores não identificados",
+      "answer": "OVNI",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Cada uma das extremidades da pilha",
+      "answer": "POLO",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Recipiente para coisas que não prestam",
+      "answer": "LIXO",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "A Garcia da obra de Machado de Assis",
+      "answer": "IAIA",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Perito, especialista, em inglês",
+      "answer": "EXPERT",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Altar religioso dos tempos antigos",
+      "answer": "ARA",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Líquido orgânico fecundante masculino",
+      "answer": "SEMEN",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "Elipsoidal",
+      "answer": "OVAL",
+      "row": 7,
+      "col": 5
+    },
+    "32": {
+      "clue": "3ª pessoa do plural (fem.)",
+      "answer": "ELAS",
+      "row": 7,
+      "col": 10
+    },
+    "34": {
+      "clue": "Sigla inglesa para diretor-geral",
+      "answer": "CEO",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "O ex-ditador ugandense Amin Dada (1925-2003), do filme \"O Último Rei da Escócia\"",
+      "answer": "IDI",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "Mercedes-Benz",
+      "answer": "MB",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "Elba Ramalho, cantora",
+      "answer": "ER",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

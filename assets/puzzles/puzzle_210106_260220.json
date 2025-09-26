@@ -1,0 +1,246 @@
+{
+  "across": {
+    "2": {
+      "clue": "Girar muito",
+      "answer": "RODOPIAR",
+      "row": 0,
+      "col": 2
+    },
+    "8": {
+      "clue": "Autor de crime",
+      "answer": "REU",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Substância que reduz o atrito",
+      "answer": "OLEO",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "A sigla do estado brasileiro que faz divisa somente com o Pará",
+      "answer": "AP",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Matar por sufocação",
+      "answer": "ESGANAR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(-Francorchamps) Circuito belga de corridas",
+      "answer": "SPA",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Relativo a orelha",
+      "answer": "OTICO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "25/12",
+      "answer": "NATAL",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "(Pop.) A parenta que se opõe a sogra",
+      "answer": "NORA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Cidade histórica mineira próxima à BH",
+      "answer": "SABARA",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Aparelho triturador",
+      "answer": "MOEDOR",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Bofetada",
+      "answer": "BIFA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Dirigir galanteios",
+      "answer": "RENTAR",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Folha de papel de escrever",
+      "answer": "LAUDA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Gentio, pagão",
+      "answer": "MOURO",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "Que não tem sal",
+      "answer": "INSOSSO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "A centopeia possue muitos",
+      "answer": "PES",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Som de uma batida à porta",
+      "answer": "TOC",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Mulher jovem",
+      "answer": "MOÇA",
+      "row": 9,
+      "col": 4
+    },
+    "35": {
+      "clue": "Uma contração gramatical",
+      "answer": "AO",
+      "row": 9,
+      "col": 9
+    },
+    "36": {
+      "clue": "Capaz de comover-se",
+      "answer": "ABALAVEL",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Fluido usado em aparelhos de refrigeração",
+      "answer": "FREON",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Bramir, urrar",
+      "answer": "RUGIR",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Chefe de uma casa",
+      "answer": "DONO",
+      "row": 0,
+      "col": 4
+    },
+    "4": {
+      "clue": "Interjeição usada em saudações",
+      "answer": "OLA",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "Outro nome do peixe pescada-branca",
+      "answer": "PERNADEMOÇA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Igreja Ortodoxa",
+      "answer": "IO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Cortar os cabelos rente ao couro cabeludo",
+      "answer": "RAPAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Do país báltico cuja capital é Tallin",
+      "answer": "ESTONIANO",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Falador",
+      "answer": "PALAVROSO",
+      "row": 1,
+      "col": 10
+    },
+    "14": {
+      "clue": "Adoentado",
+      "answer": "ACAMADO",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "(Ingl.) Empresa emergente, inovadora",
+      "answer": "STARTUP",
+      "row": 2,
+      "col": 8
+    },
+    "18": {
+      "clue": "Quantia paga além do ordenado",
+      "answer": "ABONO",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Verbo que indica estado permanente",
+      "answer": "SER",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Operação policial surpresa",
+      "answer": "BLITZ",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Um histórico carro da VW",
+      "answer": "FUSCA",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Praia",
+      "answer": "AREAL",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Um mal dos brônquios",
+      "answer": "ASMA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Astro centro do nosso sistema planetário",
+      "answer": "SOL",
+      "row": 8,
+      "col": 5
+    },
+    "34": {
+      "clue": "Antonio Vivaldi (1678-1741), músico clássico",
+      "answer": "AV",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

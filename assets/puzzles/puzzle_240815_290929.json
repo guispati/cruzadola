@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Ingl.) Empresa emergente, inovadora",
+      "answer": "STARTUP",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Som de explosão",
+      "answer": "BUM",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "(Buenos) A capital argentina",
+      "answer": "AIRES",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "A d'Arc (1412-1431) heroína francesa",
+      "answer": "JOANA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Pedra preciosa",
+      "answer": "GEMA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Banquete",
+      "answer": "FESTIM",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Veado da Europa, de grandes chifres",
+      "answer": "ALCE",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Dá brilho ao chão",
+      "answer": "CERA",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "(Quím.) Tecnécio",
+      "answer": "TC",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Rodear",
+      "answer": "CERCAR",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Cobrir de prata",
+      "answer": "ARGENTAR",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Boletim Oficial",
+      "answer": "BO",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Logradouro destinado ao trânsito de veículos",
+      "answer": "RUA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Próprio de determinada pessoa ou coisa",
+      "answer": "TIPICO",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "Fazer maluquices",
+      "answer": "ESPELOTEAR",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "Montes da Ásia Central",
+      "answer": "ALTAI",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Que sente vertigens",
+      "answer": "TONTO",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Uma saudação havaiana de boas-vindas",
+      "answer": "ALOHA",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "A nota que antecede o lá",
+      "answer": "SOL",
+      "row": 9,
+      "col": 8
+    },
+    "36": {
+      "clue": "Pároco de povoado",
+      "answer": "CURA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Que contém pequenos fragmentos de rochas",
+      "answer": "AREOSO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Dar forma de seta a",
+      "answer": "SAGITAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Black) Traje formal",
+      "answer": "TIE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um objeto como um revólver ou um canivete",
+      "answer": "ARMA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Ênfase",
+      "answer": "REALCE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O escritor inglês Eliot (1888-1965)",
+      "answer": "TS",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Processo Judicial Eletrônico",
+      "answer": "PJE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Fazer, usando o liquidificador",
+      "answer": "BATER",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Casar",
+      "answer": "UNIR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Pop.) Meio embriagado",
+      "answer": "MAMADO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Um dos mais populares cômicos do Brasil (1906-1970)",
+      "answer": "OSCARITO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Fecundo",
+      "answer": "FERTIL",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Cereal que substitui o trigo na fabricação do pão",
+      "answer": "CENTEIO",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Doloroso, infeliz",
+      "answer": "CRUEL",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Virar, emborcar (um carro, em acidente)",
+      "answer": "CAPOTAR",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Consumir, destruir",
+      "answer": "GASTAR",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Mexericos",
+      "answer": "BOATOS",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Os dados estatísticos dos habitantes de uma região",
+      "answer": "CENSO",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Aba de boné",
+      "answer": "PALA",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Cilindro revestido usado por pintores",
+      "answer": "ROLO",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Acidente Vascular Cerebral",
+      "answer": "AVC",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Símbolo de hectare",
+      "answer": "HA",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

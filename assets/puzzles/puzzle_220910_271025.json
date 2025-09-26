@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "O dinheiro do Brasil (pl.)",
+      "answer": "REAIS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Anat.) A bacia",
+      "answer": "PELVE",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Cidade mineira próxima a Ipatinga",
+      "answer": "ENTREFOLHAS",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Abreviatura de santo",
+      "answer": "STO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Filho de cavalo com jumenta",
+      "answer": "MULA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Renato Teixeira, músico",
+      "answer": "RT",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "A roda abrasiva do afiador de facas",
+      "answer": "MO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Esponjoso",
+      "answer": "POROSO",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "A matéria-prima da cerâmica",
+      "answer": "ARGILA",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Uma manobra do surfe",
+      "answer": "TUBO",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Travessa para folhas verdes, tomates, beterrabas etc.",
+      "answer": "SALADEIRA",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Fruto de forma vagamente cônica",
+      "answer": "PERA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Contagem",
+      "answer": "ESCORE",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "O menor dos três oceanos",
+      "answer": "INDICO",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "O sufixo do Brasil na internet",
+      "answer": "BR",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "60, em algarismos romanos",
+      "answer": "LX",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Tronco serrado",
+      "answer": "TORA",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "A sigla de Lesão por Esforço Repetitivo",
+      "answer": "LER",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "Uma unidade de intensidade de corrente elétrica",
+      "answer": "MICROAMPERE",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "O maior prêmio do cinema mundial",
+      "answer": "OSCAR",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Em outras palavras",
+      "answer": "ALIAS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O conjunto de 500 folhas de papel",
+      "answer": "RESMA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Med.) Distensão brusca de uma articulação, que pode romper ligamentos",
+      "answer": "ENTORSE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Cerimônia",
+      "answer": "ATO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Passar de um lugar a outro",
+      "answer": "IR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Fécula usada em caldos e sopas",
+      "answer": "SEMOLA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Modalidade esportiva que pode ser aquático",
+      "answer": "POLO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Borracha usada para prender objetos",
+      "answer": "ELASTICO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Luciano Huck, apresentador",
+      "answer": "LH",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "(Fut.) Uma tecnologia que auxilia arbitragens",
+      "answer": "VAR",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Tempo quente e seco",
+      "answer": "ESTIO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Ferramenta com broca, usada para abrir pequenos buracos",
+      "answer": "FURADEIRA",
+      "row": 1,
+      "col": 5
+    },
+    "17": {
+      "clue": "Pessoa desonesta",
+      "answer": "PILANTRA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "(Quím.) Au",
+      "answer": "OURO",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Varredor de ruas",
+      "answer": "GARI",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "(Hanna-) A criadora dos Flintstones, Jetsons e outros",
+      "answer": "BARBERA",
+      "row": 4,
+      "col": 9
+    },
+    "24": {
+      "clue": "Lâmina que reveste peixes e répteis",
+      "answer": "ESCAMA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Medida de comprimento de 22 cm",
+      "answer": "PALMO",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "São três em correr",
+      "answer": "ERRES",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "(Ingl.) Porta",
+      "answer": "DOOR",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Incógnita",
+      "answer": "XIS",
+      "row": 8,
+      "col": 1
+    },
+    "34": {
+      "clue": "A norma que regulamenta direitos e deveres",
+      "answer": "LEI",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "Abreviatura de cilindradas",
+      "answer": "CC",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "Paula Lima, cantora",
+      "answer": "PL",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "São 4 no baixo",
+      "answer": "CORDAS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Uma vizinha da cozinha",
+      "answer": "COPA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Manhoso",
+      "answer": "INZONEIRO",
+      "row": 1,
+      "col": 2
+    },
+    "12": {
+      "clue": "Outro nome do cúbito, osso do antebraço",
+      "answer": "ULNA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Um profissional como Nelson Gonçalves",
+      "answer": "CANTOR",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "(Mac) Um dos sanduíches mais vendidos do mundo",
+      "answer": "BIG",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Que é moralmente puro",
+      "answer": "CASTO",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Citar diversas coisas uma após outra",
+      "answer": "ENUMERAR",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "A sigla do estado de Caetano Veloso e Gilberto Gil",
+      "answer": "BA",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "Departamento Estadual de Investigações Criminais (SP)",
+      "answer": "DEIC",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "O dos Cisnes é um balé de Tchaikovsky",
+      "answer": "LAGO",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Cálcio",
+      "answer": "CA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "A porção contida em certa louça para líquidos",
+      "answer": "XICARADA",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Outro nome do osso zigomático",
+      "answer": "MALAR",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "(Marino) A mais antiga república do mundo",
+      "answer": "SAN",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Falta de força",
+      "answer": "ATONIA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Porção de pinga, uísque etc.",
+      "answer": "DOSE",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Um sucesso de Rita Lee",
+      "answer": "CHEGAMAIS",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Planta trepadeira e rastejante, sempre verde",
+      "answer": "HERA",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Pop.) Com o apetite estimulado",
+      "answer": "AGUADO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Sociedade desportiva",
+      "answer": "CLUBE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Tablado onde se realizam lutas de boxe",
+      "answer": "RINGUE",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Ácido desoxirribonucleico",
+      "answer": "DNA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Os extremos do alfabeto",
+      "answer": "AZ",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Pisar no pilão",
+      "answer": "SOCAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Fut.) Atacar, cruzando para a área",
+      "answer": "CENTRAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Trinta e dois dividido por quatro",
+      "answer": "OITO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Red.) Profissional",
+      "answer": "PRO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A principal artéria do homem",
+      "answer": "AORTA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Pronunciar com som fanhoso",
+      "answer": "NASALAR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "A Hamilton atriz americana de \"O Exterminador do Futuro\"",
+      "answer": "LINDA",
+      "row": 2,
+      "col": 1
+    },
+    "16": {
+      "clue": "A poetisa carioca Meireles (1901-1964), de \"Romanceiro da Inconfidência\"",
+      "answer": "CECILIA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Jeca, matuto",
+      "answer": "MIXANGA",
+      "row": 4,
+      "col": 3
+    },
+    "19": {
+      "clue": "As de brilhante comemoram 75 anos de casamento",
+      "answer": "BODAS",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Limonada efervescente",
+      "answer": "GASOSA",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "(Ingl.) Profissional que ajuda pessoas a atingir objetivos pessoais ou profissionais",
+      "answer": "COACH",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Grande antílope africano",
+      "answer": "CAAMA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "(Inform.) Documento que acompanha um e-mail",
+      "answer": "ANEXO",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Triturar",
+      "answer": "MOER",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "O artigo o, em inglês",
+      "answer": "THE",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "Dispositivo Intrauterino",
+      "answer": "DIU",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "O símbolo químico da prata",
+      "answer": "AG",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

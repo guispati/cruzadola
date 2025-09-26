@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Imunizar de vírus",
+      "answer": "VACINAR",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Pedido de repetição de uma música",
+      "answer": "BIS",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Natural ou morador de uma ilha",
+      "answer": "ILHEU",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "(Inform.) Atalho de programa no PC",
+      "answer": "ICONE",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "1.440 minutos",
+      "answer": "DIA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Aquela que tem desenhos gravados no corpo",
+      "answer": "TATUADA",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Açoitar, fustigar",
+      "answer": "VERGASTAR",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Ajustar ao padrão",
+      "answer": "AFERIR",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Roupa de advogado",
+      "answer": "TOGA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Agradecido",
+      "answer": "GRATO",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Aquele que nega Deus",
+      "answer": "ATEU",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Ingl.) Um tipo de hotel de luxo",
+      "answer": "RESORT",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Levar ao conhecimento de",
+      "answer": "NOTIFICAR",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Progressivo",
+      "answer": "GRADUAL",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "De um",
+      "answer": "DUM",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Colocar algo de volta ao lugar",
+      "answer": "REPOR",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Elemento de equilíbrio lateral do avião",
+      "answer": "ALETA",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "A alça da xícara",
+      "answer": "ASA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Deprimir, abater",
+      "answer": "OPRIMIR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um tipo de broca usada em furadeira",
+      "answer": "VIDIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O Babá personagem das \"Mil e Uma Noites\"",
+      "answer": "ALI",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Nos instrumentos musicais de sopro, peça que permite abrir ou fechar os orifícios",
+      "answer": "CHAVE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Inscrição Estadual",
+      "answer": "IE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Ser tomado por um sentimento",
+      "answer": "NUTRIR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "A dançarina e atriz Cadillac",
+      "answer": "RITA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Zunzum, mexerico",
+      "answer": "BOATO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Procurar saber, tentar descobrir",
+      "answer": "INDAGAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Colheita",
+      "answer": "SEARA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Penosa, trabalhosa",
+      "answer": "CUSTOSA",
+      "row": 1,
+      "col": 7
+    },
+    "15": {
+      "clue": "O significado do A do INCRA",
+      "answer": "AGRARIA",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Levantado",
+      "answer": "ERGUIDO",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "(Matem.) Os números submetidos à operação de multiplicação",
+      "answer": "FATORES",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Digitar",
+      "answer": "TECLAR",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "(dos Reis) A cidade fluminense das usinas atômicas",
+      "answer": "ANGRA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Percurso entre uma e outra parada",
+      "answer": "ETAPA",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Observância das normas",
+      "answer": "ORDEM",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Invadir",
+      "answer": "TOMAR",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "(Pop.) Falta ao compromisso assumido",
+      "answer": "FURO",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Unidade hospitalar para doentes em estado grave",
+      "answer": "UTI",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "(Quím.) O lítio",
+      "answer": "LI",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

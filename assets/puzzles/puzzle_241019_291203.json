@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "A capacidade visual",
+      "answer": "OLHAR",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Unidade de atividade de uma substância radiativa",
+      "answer": "CURIE",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Ok!",
+      "answer": "TA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Caso extraordinário",
+      "answer": "FENOMENO",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Uma grande nação de índios brasileiros",
+      "answer": "TUPIS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Uma embalagem para molho de tomate",
+      "answer": "LATA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Uma bomba muito poderosa",
+      "answer": "ATOMICA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Relato de reunião",
+      "answer": "ATA",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Um tipo de panela oriental",
+      "answer": "WOK",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Aquele que põe sinal, marca em",
+      "answer": "NOTADOR",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Administrador de bens de outrem",
+      "answer": "ECONOMO",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Porção de algo para ser analisado ou provado",
+      "answer": "AMOSTRA",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "As letras que separam o F do I",
+      "answer": "GH",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Apressar",
+      "answer": "AFOBAR",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Uma placa de trânsito muito comum das cidades",
+      "answer": "PARE",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Equipamento que indica o número de origem das chamadas telefônicas",
+      "answer": "BINA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Acolher",
+      "answer": "ADOTAR",
+      "row": 8,
+      "col": 5
+    },
+    "32": {
+      "clue": "Palavra que indica a condição de quem não mais ocupa o cargo",
+      "answer": "EX",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Y",
+      "answer": "IPSILON",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "(Inform.) Acessar um site na net, com informações pessoais",
+      "answer": "LOGAR",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Harmonizar",
+      "answer": "CASAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A capital do Canadá, na província de Ontário",
+      "answer": "OTTAWA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Esplêndido",
+      "answer": "LAUTO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Que tem certa semelhança",
+      "answer": "AFIM",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Que tem certo produto de ótimas propriedades plásticas (fem.)",
+      "answer": "RESINOSA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "O que tem o direito de conferir um benefício eclesiástico",
+      "answer": "COLATOR",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "A décima terceira hora",
+      "answer": "UMA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Belo, vistoso, no Nordeste",
+      "answer": "RETADO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Natural",
+      "answer": "INATO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "As vogais de peso",
+      "answer": "EO",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Série japonesa de desenhos e jogos",
+      "answer": "POKEMON",
+      "row": 2,
+      "col": 2
+    },
+    "16": {
+      "clue": "Empecilhos, obstáculos",
+      "answer": "CONTRAS",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "A atriz Anne, de \"Atração Fatal\"",
+      "answer": "ARCHER",
+      "row": 3,
+      "col": 10
+    },
+    "21": {
+      "clue": "Planta cheia de espinhos, de flores solitárias, cultivada como ornamental",
+      "answer": "AMAPOLA",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Animal usado em testes",
+      "answer": "COBAIA",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Aquilo que se acrescenta a alguma coisa",
+      "answer": "AFIXO",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "(Gír.) Dinheiro",
+      "answer": "GRANA",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "O jornalista esportivo Neto",
+      "answer": "ABEL",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Divisões de uma peça teatral",
+      "answer": "ATOS",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Abrev.: Dicionário",
+      "answer": "DIC",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Sigla de um estado do sul do Brasil",
+      "answer": "PR",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

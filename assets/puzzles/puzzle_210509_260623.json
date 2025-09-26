@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Pequenas e Médias Empresas",
+      "answer": "PME",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "(Ingl.) Ato de acampar, visitando algum lugar",
+      "answer": "CAMPING",
+      "row": 0,
+      "col": 4
+    },
+    "10": {
+      "clue": "Matéria-prima para reciclagem, no mundo moderno",
+      "answer": "LIXO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "A última refeição em cada dia",
+      "answer": "CEIA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "O A do baralho",
+      "answer": "AS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Uma forma de se servir um ovo",
+      "answer": "FRITO",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Som que imita o latido de cães",
+      "answer": "AU",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "(Fut.) Vitória esmagadora",
+      "answer": "GOLEADA",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Plástico usado para fazer garrafas",
+      "answer": "PET",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Que exerce alguma ação",
+      "answer": "AGENTE",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Fig.) Pessoa muito severa",
+      "answer": "FERA",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Não imaginado",
+      "answer": "INSONHADO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Tapir",
+      "answer": "ANTA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Chefe absoluto, injusto e cruel de um Estado",
+      "answer": "TIRANO",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Época da procriação animal",
+      "answer": "CIO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Do cabelo",
+      "answer": "CAPILAR",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Abreviatura de hectare",
+      "answer": "HA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Neblina",
+      "answer": "NEVOA",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "(Ingl.) United Nations",
+      "answer": "UN",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "O marido da cabra",
+      "answer": "BODE",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Sinal em forma de flecha",
+      "answer": "SETA",
+      "row": 9,
+      "col": 7
+    },
+    "35": {
+      "clue": "Um pastelzinho frito",
+      "answer": "RISSOLE",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "A família, na sua intimidade",
+      "answer": "LAR",
+      "row": 10,
+      "col": 8
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Espaço de terreno",
+      "answer": "PLAGA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Aversão pelas mulheres",
+      "answer": "MISOGINIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Exemplo",
+      "answer": "EX",
+      "row": 0,
+      "col": 2
+    },
+    "5": {
+      "clue": "Que acontece por acaso",
+      "answer": "ACIDENTAVEL",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Fim, limite, termo",
+      "answer": "META",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Devoto",
+      "answer": "PIO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Igreja Adventista",
+      "answer": "IA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Caverna",
+      "answer": "GRUTA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Coisa que afronta a moral",
+      "answer": "OFENSA",
+      "row": 1,
+      "col": 3
+    },
+    "15": {
+      "clue": "O animal que transmite a leptospirose",
+      "answer": "RATO",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Aviador",
+      "answer": "AERONAUTA",
+      "row": 2,
+      "col": 9
+    },
+    "18": {
+      "clue": "O oposto de rápido",
+      "answer": "LENTO",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Uma peça do piano",
+      "answer": "PEDAL",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "O cineasta Roberto (1932-2018), de \"Pra Frente Brasil\"",
+      "answer": "FARIAS",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Elemento de composição: diminuição",
+      "answer": "HIPO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Encontrar coisa perdida",
+      "answer": "ACHAR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Decorar",
+      "answer": "ORNAR",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "O contrário de tarde",
+      "answer": "CEDO",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Laços apertados",
+      "answer": "NOS",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "As iniciais das atrizes Segall, Shields e Streisand",
+      "answer": "BS",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Precede Niño no fenômeno climático",
+      "answer": "EL",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

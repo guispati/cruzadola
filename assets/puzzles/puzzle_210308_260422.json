@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Buraco onde animais selvagens se abrigam",
+      "answer": "TOCA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Frase publicitária",
+      "answer": "SLOGAN",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Colheita de produtos agrícolas",
+      "answer": "APANHA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Mecanismo de alta tecnologia que vem substituindo a mão de obra humana em grandes indústrias",
+      "answer": "ROBO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Tradicional bairro do Rio de Janeiro",
+      "answer": "BANGU",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Sugar o leite materno (o recém-nascido)",
+      "answer": "MAMAR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Apelidado",
+      "answer": "ALCUNHADO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Azul esverdeado",
+      "answer": "CIÃ",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Limonada efervescente",
+      "answer": "GASOSA",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "(Econ.) Um tipo de ação",
+      "answer": "ON",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Ter conhecimento",
+      "answer": "SABER",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "(Mús.) Ré menor",
+      "answer": "DM",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Colar",
+      "answer": "ADERIR",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Bacia para lavar louças e apetrechos da cozinha",
+      "answer": "PIA",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Admirar com fanatismo",
+      "answer": "IDOLATRAR",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "(Machado de) O autor de \"Dom Casmurro\"",
+      "answer": "ASSIS",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "O de quatro folhas é considerado um talismã",
+      "answer": "TREVO",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "O músico e humorista Chaves",
+      "answer": "JUCA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "O óleo para transporte pesado",
+      "answer": "DIESEL",
+      "row": 9,
+      "col": 5
+    },
+    "35": {
+      "clue": "Contribuição (social, científica, financeira etc.) para determinado fim",
+      "answer": "APORTE",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Lâmina que, dobrada e comprimida e depois solta, volta à primitiva posição",
+      "answer": "MOLA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Planta com que se prepara fumo",
+      "answer": "TABACO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Tipo de vidro translúcido",
+      "answer": "OPALINA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A típica dança francesa do \"Moulin Rouge\"",
+      "answer": "CANCÃ",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Papa espessa de fubá cozido",
+      "answer": "ANGU",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Sigla) Um tipo de empresa mercantil",
+      "answer": "SA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Pregador",
+      "answer": "ORADOR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "As partes em que está naturalmente dividida a laranja",
+      "answer": "GOMOS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Projeção de telhado",
+      "answer": "ABA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Pop.) A parenta que se opõe a sogra",
+      "answer": "NORA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Nascidos no país europeu com capital Budapeste",
+      "answer": "HUNGAROS",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Marca italiana de carros esportivos",
+      "answer": "MASERATI",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Esperto, sagaz",
+      "answer": "HABIL",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Que pode ser transferido",
+      "answer": "ADIAVEL",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Acolher um evento",
+      "answer": "SEDIAR",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Ondulação na superfície do mar",
+      "answer": "MAROLA",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "(Anat.) Estrutura que fica entre as vértebras",
+      "answer": "DISCO",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "(Pop.) Comprometido (noivo ou casado)",
+      "answer": "PRESO",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Fruto aromático usado para doces, geleias e sorvetes",
+      "answer": "CAJA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Um meio de transporte coletivo e também de cargas",
+      "answer": "TREM",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Sigla inglesa de um esporte praticado com prancha e remo",
+      "answer": "SUP",
+      "row": 8,
+      "col": 1
+    },
+    "34": {
+      "clue": "D",
+      "answer": "DE",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

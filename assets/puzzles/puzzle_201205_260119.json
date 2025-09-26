@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Relativo a orelha",
+      "answer": "OTICO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Uma grande nação de índios brasileiros",
+      "answer": "TUPIS",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Tudo que não tem serventia e se joga fora",
+      "answer": "LIXO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Relativo a cavalos (fem.)",
+      "answer": "HIPICA",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Que faz mergulhar",
+      "answer": "IMERSOR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Peça do xadrez",
+      "answer": "REI",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "A letra que, em algarismos romanos, equivale a 5",
+      "answer": "VE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "País da América Central, banhado pelo Atlântico e pelo Pacífico",
+      "answer": "PANAMA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Voz imitativa do canto do galo",
+      "answer": "COCOROCO",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Cortar alguma porção inútil de",
+      "answer": "APARAR",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "A atriz Leandra",
+      "answer": "LEAL",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "O pouso nas águas feito por um hidravião",
+      "answer": "AMARAGEM",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "(Quím.) Astatínio",
+      "answer": "AT",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Zool.) Que tem o corpo coberto de escamas ou placas grossas e duras",
+      "answer": "LORICADO",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "A claridade emitida pelo farol",
+      "answer": "LUZ",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Espécie de laranja de sabor agridoce",
+      "answer": "LIMA",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Ismael Néri (1900-1934), pintor e desenhista paraense",
+      "answer": "IN",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Grade de churrasqueira",
+      "answer": "GRELHA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Um alimento como a gelatina ou o manjar",
+      "answer": "DOCE",
+      "row": 9,
+      "col": 7
+    },
+    "37": {
+      "clue": "Até agora, até este momento",
+      "answer": "AINDA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "(Odont.) Ducto que atravessa um ramo de uma raiz do dente",
+      "answer": "CANAL",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A companheira do Popeye",
+      "answer": "OLIVIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Quadro esportivo",
+      "answer": "TIME",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Exclamação irônica ou de desprezo",
+      "answer": "IXE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Do corpo",
+      "answer": "CORPORAL",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Substituir (um atleta por outro)",
+      "answer": "TIRAR",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Um carro da VW",
+      "answer": "UP",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Época em que peixes migram para as nascentes dos rios, onde farão a desova",
+      "answer": "PIRACEMA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Ingl.) Gelo",
+      "answer": "ICE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Roupa usada da cintura para baixo",
+      "answer": "SAIA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Que tem as honras e não os proventos de um cargo (fem.)",
+      "answer": "HONORARIA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Um abridor de garrafas de vinho",
+      "answer": "SACAROLHA",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "Bando de garotos",
+      "answer": "MOLECADA",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "O que muda de pista para campista",
+      "answer": "CAM",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Vogal sem consoantes",
+      "answer": "OA",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Ave também chamada irerê",
+      "answer": "PATURI",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "O craque argentino de futebol Messi",
+      "answer": "LIONEL",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Uma bebida muito usada em coquetéis alcoólicos",
+      "answer": "GIM",
+      "row": 6,
+      "col": 6
+    },
+    "26": {
+      "clue": "Planta marinha que envolve o sushi",
+      "answer": "ALGA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "(Pop.) Indicação boa",
+      "answer": "DICA",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Muito tranquilo e confiante",
+      "answer": "ZEN",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "Lima Duarte, ator de \"O Auto da Compadecida\"",
+      "answer": "LD",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "As iniciais do arquiteto carioca Niemeyer (1907-2012)",
+      "answer": "ON",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

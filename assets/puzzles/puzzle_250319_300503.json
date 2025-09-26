@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Novela do final dos anos 1970, estrelada por Sônia Braga",
+      "answer": "DANCINGDAYS",
+      "row": 0,
+      "col": 0
+    },
+    "11": {
+      "clue": "Prender, apertar ou segurar com uma peça que une duas extremidades",
+      "answer": "ENFIVELAR",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Sérgio Chapelin, apresentador de TV",
+      "answer": "SC",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Maltratar",
+      "answer": "PELOTEAR",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "A entidade que representa os advogados",
+      "answer": "OAB",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Mamata",
+      "answer": "TETA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "A UF de Pirenópolis",
+      "answer": "GO",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Aparelho que substitui um órgão faltante",
+      "answer": "PROTESE",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Abrev.) O nome dos computadores da Apple",
+      "answer": "MAC",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Que não é torto",
+      "answer": "RETO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Operação de aparar os pelos de um cão ou gato",
+      "answer": "TOSA",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "Pref.: vinho",
+      "answer": "ENO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "O ex-tenista Pete, ícone da modalidade",
+      "answer": "SAMPRAS",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "Sabrina Sato, modelo e apresentadora de TV",
+      "answer": "SS",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Pedaço de tronco de árvore",
+      "answer": "CEPO",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Cerveja feita com malte pouco torrado",
+      "answer": "ALE",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Governo ou poder político exercido por sete anos",
+      "answer": "SETENATO",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Oi, em Nova York",
+      "answer": "HI",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "Uma maneira de demonstrar afeto",
+      "answer": "ACARINHAR",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "(Med.) Aparelho que mede a expansibilidade das paredes arteriais",
+      "answer": "OSCILOMETRO",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Alívio, libertação",
+      "answer": "DESOPRESSÃO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Da capital da Turquia",
+      "answer": "ANCARENSE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Nelson Freire (1944-2021), pianista",
+      "answer": "NF",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Conselho Interministerial de Preços",
+      "answer": "CIP",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A política e jornalista gaúcha Vargas (1927-1984)",
+      "answer": "IVETE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Em + eles",
+      "answer": "NELES",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "(Anat.) Abertura onde a voz se forma",
+      "answer": "GLOTE",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Dia na agenda",
+      "answer": "DATA",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Unidade de superfície usada em agrimensura",
+      "answer": "ARE",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Preparo simples para prevenir a desidratação",
+      "answer": "SOROCASEIRO",
+      "row": 0,
+      "col": 10
+    },
+    "14": {
+      "clue": "Abrigar do frio, vento, chuva etc.",
+      "answer": "AGASALHAR",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Outro nome do golfinho",
+      "answer": "BOTO",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "Terapia Ocupacional",
+      "answer": "TO",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Detença",
+      "answer": "MORA",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Ticiane Pinheiro, apresentadora de TV",
+      "answer": "TP",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "Diz-se do diamante bruto e muito pequeno",
+      "answer": "SENAL",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Ato de cortar porção excessiva de algo",
+      "answer": "APARO",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Sublevação de povo",
+      "answer": "MOTIM",
+      "row": 6,
+      "col": 6
+    },
+    "29": {
+      "clue": "A amada de Peri",
+      "answer": "CECI",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "Termo de Ajustamento de Conduta",
+      "answer": "TAC",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "Precede two nos números em inglês",
+      "answer": "ONE",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "Harry Truman (1884-1972), presidente dos EUA",
+      "answer": "HT",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

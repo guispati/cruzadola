@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "A capital do Chipre",
+      "answer": "NICOSIA",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Partilha",
+      "answer": "REPARTE",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "O Cavalcanti (1897-1976) pintor",
+      "answer": "DI",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Um vidro límpido e puro",
+      "answer": "CRISTAL",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Que amolece ou amacia",
+      "answer": "EMOLIENTE",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Conjunto de casas em rua particular",
+      "answer": "VILA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Planície de inundação",
+      "answer": "VARZEA",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Índio, elemento químico",
+      "answer": "IN",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Toda a corporação eclesiástica",
+      "answer": "CLERO",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Abreviatura de Sem Data, usada em bibliografias",
+      "answer": "SD",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Pomar da fruta usada em caipirinhas",
+      "answer": "LIMOAL",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "O que acontece ou aconteceu",
+      "answer": "FATO",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Cair estirado no chão",
+      "answer": "ESTATELAR",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "Substância que melhora o desempenho de um motor",
+      "answer": "ADITIVO",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Nova Zelândia",
+      "answer": "NZ",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Potência",
+      "answer": "ENERGIA",
+      "row": 9,
+      "col": 3
+    },
+    "37": {
+      "clue": "Estado dos EUA com capital Montgomery",
+      "answer": "ALABAMA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Tomar certo caminho",
+      "answer": "IR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Mistura usada para cortar linhas de pipas",
+      "answer": "CEROL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Ordem de Pagamento",
+      "answer": "OP",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Um mito do folclore",
+      "answer": "SACI",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Que não se pode tornar conhecido",
+      "answer": "IRREVELAVEL",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Acertar em cheio",
+      "answer": "ATINAR",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Câmera cinematográfica",
+      "answer": "FILMADORA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Grupo de versos de uma poesia",
+      "answer": "ESTROFE",
+      "row": 1,
+      "col": 7
+    },
+    "11": {
+      "clue": "(Abrev.) Diretório Acadêmico",
+      "answer": "DA",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "De uma grande cidade espanhola do sul do país",
+      "answer": "SEVILHANO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Epiderme",
+      "answer": "TEZ",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "O oposto de maxi",
+      "answer": "MINI",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "Marca francesa de roupas",
+      "answer": "LACOSTE",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Pronome demonstrativo feminino",
+      "answer": "ESTA",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Da antiga região do Lácio, na Itália (fem.)",
+      "answer": "LATINA",
+      "row": 5,
+      "col": 4
+    },
+    "26": {
+      "clue": "Microempreendedor Individual",
+      "answer": "MEI",
+      "row": 6,
+      "col": 2
+    },
+    "28": {
+      "clue": "Caminho ladeado de árvores",
+      "answer": "ALEIA",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "Tronco de árvore, serrado e ainda com a casca",
+      "answer": "TORA",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Abrev.: dúzia",
+      "answer": "DZ",
+      "row": 8,
+      "col": 1
+    },
+    "35": {
+      "clue": "Gisele Bündchen, modelo gaúcha",
+      "answer": "GB",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "Sigla do estado de Parintins e Manaus",
+      "answer": "AM",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

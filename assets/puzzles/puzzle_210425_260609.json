@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "Exatidão, conformidade com o real",
+      "answer": "VERDADE",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "(Grande) Cidade paraibana",
+      "answer": "CAMPINA",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Sigla do estado de Anápolis e Caldas Novas",
+      "answer": "GO",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Reunir, associar",
+      "answer": "AGRUPAR",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "(Gír.) Embrulhinho de cocaína",
+      "answer": "PAPELOTE",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Por alto preço",
+      "answer": "CARO",
+      "row": 4,
+      "col": 0
+    },
+    "17": {
+      "clue": "Aplanar",
+      "answer": "ALISAR",
+      "row": 4,
+      "col": 5
+    },
+    "19": {
+      "clue": "Antigo Testamento",
+      "answer": "AT",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "O quadrado e o retângulo possuem quatro",
+      "answer": "LADOS",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "(Interj.) Um chamamento",
+      "answer": "EI",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Uma das frutas mais doces do Brasil",
+      "answer": "SAPOTI",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Parede que fecha as partes externas de uma construção",
+      "answer": "MURO",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "(Geom.) Polígono de nove lados",
+      "answer": "ENEAGONO",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "O estádio de futebol da Portuguesa, em SP",
+      "answer": "CANINDE",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Um sufixo aumentativo",
+      "answer": "ÃO",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Uma bomba muito poderosa",
+      "answer": "ATOMICA",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Cerca de galinheiro",
+      "answer": "ARAMADO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "As iniciais do guitarrista inglês Clapton",
+      "answer": "EC",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Tosar",
+      "answer": "RAPAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Decímetro",
+      "answer": "DM",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Associação que cuida de alunos especiais e orienta seus pais",
+      "answer": "APAE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Combatente, lutador",
+      "answer": "DIGLADIADOR",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "(Pop.) Trapalhada",
+      "answer": "ENROLO",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Regulamento dos períodos de prestação de serviços",
+      "answer": "HORARIO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "(Psiq.) Disfunção que se caracteriza pelo desinteresse pela realidade exterior",
+      "answer": "AUTISMO",
+      "row": 1,
+      "col": 7
+    },
+    "11": {
+      "clue": "(Quím.) Gálio",
+      "answer": "GA",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Mete-os pelas mãos quem comete uma asneira",
+      "answer": "PES",
+      "row": 2,
+      "col": 8
+    },
+    "14": {
+      "clue": "Pé de burro",
+      "answer": "PATA",
+      "row": 3,
+      "col": 1
+    },
+    "15": {
+      "clue": "O país de Varsóvia",
+      "answer": "POLONIA",
+      "row": 3,
+      "col": 3
+    },
+    "16": {
+      "clue": "Agasalho de tecido grosso e pesado",
+      "answer": "CASACÃO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Elemento de composição: ar",
+      "answer": "AERO",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Concentrada",
+      "answer": "ATENTA",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "(Drive) Dispositivo de informática",
+      "answer": "PEN",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Que não tem outra igual",
+      "answer": "UNICA",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Parte amarelada do ovo",
+      "answer": "GEMA",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "Vogais em amor",
+      "answer": "AO",
+      "row": 8,
+      "col": 1
+    },
+    "33": {
+      "clue": "Um sufixo diminutivo",
+      "answer": "IM",
+      "row": 9,
+      "col": 7
+    },
+    "34": {
+      "clue": "Assembleia de Deus",
+      "answer": "AD",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

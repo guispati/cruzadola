@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Esporte de raquetes e bola de borracha",
+      "answer": "SQUASH",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Anfíbio anuro",
+      "answer": "SAPO",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Conjunção que exprime ideias alternadas",
+      "answer": "OU",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Casa noturna de diversões",
+      "answer": "BOATE",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Emenda Constitucional",
+      "answer": "EC",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "(Bull) Um cão de grande força",
+      "answer": "PIT",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "O ato de fazer parar ou diminuir o movimento usando o freio",
+      "answer": "BRECADA",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "O passar do tempo",
+      "answer": "ANOS",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "A cantora canadense Morissette",
+      "answer": "ALANIS",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Domador",
+      "answer": "AMANSADOR",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Procedimento",
+      "answer": "ATO",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Precede Seg",
+      "answer": "DOM",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Que é sempre atual",
+      "answer": "ATEMPORAL",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Fazer tremer",
+      "answer": "ABALAR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Mais à frente",
+      "answer": "ALEM",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Barrete que os judeus usam em determinadas ocasiões",
+      "answer": "SOLIDEU",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Conjunto dos óvulos de um peixe",
+      "answer": "OVA",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "O que transforma botica em botânica",
+      "answer": "AN",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Música eletrônica dançante, de ritmo acelerado",
+      "answer": "TECNO",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "O amerício, para os químicos",
+      "answer": "AM",
+      "row": 9,
+      "col": 9
+    },
+    "37": {
+      "clue": "Base de montanha",
+      "answer": "SOPE",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Expectativa",
+      "answer": "ESPERA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um prato como a minestra",
+      "answer": "SOPA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Saliência angulosa",
+      "answer": "QUINA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "As duas primeiras letras do alfabeto",
+      "answer": "AB",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Debaixo de",
+      "answer": "SOB",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Local de criação de cavalos",
+      "answer": "HARAS",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Máquina usada para enxugar roupas",
+      "answer": "SECADORA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Ter necessidade de",
+      "answer": "PEDIR",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Formam a taba",
+      "answer": "OCAS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Entrançado com uma teia de arames",
+      "answer": "TELADO",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Plantação de tomates",
+      "answer": "TOMATAL",
+      "row": 2,
+      "col": 2
+    },
+    "16": {
+      "clue": "Irregular, defeituoso",
+      "answer": "ANOMALO",
+      "row": 2,
+      "col": 8
+    },
+    "18": {
+      "clue": "Corpo celeste secundário",
+      "answer": "SATELITE",
+      "row": 3,
+      "col": 3
+    },
+    "21": {
+      "clue": "Diz-se de povo sem residência fixa",
+      "answer": "NOMADE",
+      "row": 4,
+      "col": 4
+    },
+    "24": {
+      "clue": "Corroboração, confirmação",
+      "answer": "ABONO",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Pedido de graça aos santos",
+      "answer": "PRECE",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Portar algo para entregar a",
+      "answer": "LEVAR",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "As peças que se destacam lateralmente da fuselagem do avião",
+      "answer": "ASAS",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Órgão glandular capaz de secretar leite",
+      "answer": "MAMA",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Mais ou menos",
+      "answer": "UNS",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Ordem de Pagamento",
+      "answer": "OP",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

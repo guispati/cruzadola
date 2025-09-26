@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um dos ajustes das rodas dos carros",
+      "answer": "CAMBAGEM",
+      "row": 0,
+      "col": 1
+    },
+    "9": {
+      "clue": "Eliminar sujeiras usando água e sabão",
+      "answer": "LAVAR",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Gênio dos bosques e do subsolo",
+      "answer": "GNOMO",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Uma essência para balas, licores etc.",
+      "answer": "ANIS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Que não tem relações amorosas senão com seu cônjuge",
+      "answer": "FIEL",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "(Interj.) Voz imitativa de golpe rápido e certeiro",
+      "answer": "ZAS",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Elemento químico de símbolo V",
+      "answer": "VANADIO",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Encarregado do funcionamento de máquinas ou instalações",
+      "answer": "OPERADOR",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Raimundo Fagner, cantor de \"Ave Noturna\"",
+      "answer": "RF",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Inchaço na região da axila,  do pescoço etc.",
+      "answer": "INGUA",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Alicia Vikander, atriz de \"A Garota Dinamarquesa\"",
+      "answer": "AV",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Médico parteiro",
+      "answer": "OBSTETRA",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Líquido usado para retirar o esmalte",
+      "answer": "ACETONA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "300, em algarismos romanos",
+      "answer": "CCC",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Erva de raiz branca ou roxa usada na alimentação",
+      "answer": "NABO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Uma fronteira natural entre o Brasil do Uruguai",
+      "answer": "CHUI",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Tagarelice",
+      "answer": "TRELA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Valentão",
+      "answer": "BRABO",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Açúcar mascavo apresentado em forma de tijolos",
+      "answer": "RAPADURA",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Gír.) Prisão, cadeia",
+      "answer": "CANA",
+      "row": 0,
+      "col": 1
+    },
+    "2": {
+      "clue": "Notícia",
+      "answer": "AVISO",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Conjunção que expressa indecisão",
+      "answer": "MAS",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "O bromo",
+      "answer": "BR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Gilberto Gil, músico baiano",
+      "answer": "GG",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Irritar",
+      "answer": "ENFADAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Reduzido a pó",
+      "answer": "MOIDO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Cada uma das regiões glaciais vizinhas das extremidades da Terra",
+      "answer": "POLO",
+      "row": 0,
+      "col": 10
+    },
+    "9": {
+      "clue": "Tempo livre de compromissos profissionais",
+      "answer": "LAZER",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O ator Tarcísio (1935-2021)",
+      "answer": "MEIRA",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Os espaços em branco nas laterais das páginas de um impresso",
+      "answer": "MARGENS",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "O ar atmosférico em movimento",
+      "answer": "VENTO",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Navegante",
+      "answer": "NAUTA",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Aparelho de ar comprimido, usado para pintar",
+      "answer": "PISTOLA",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Pôr em destaque ou em evidência",
+      "answer": "FOCAR",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Qualquer costume supérfluo, prejudicial ou censurável",
+      "answer": "VICIO",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Engolir um líquido qualquer",
+      "answer": "BEBER",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Encontrar algo que se está ou não procurando",
+      "answer": "ACHAR",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Outro nome do animal tapir",
+      "answer": "ANTA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Ilha da América Central com capital Havana",
+      "answer": "CUBA",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Uma forma de comer quibe",
+      "answer": "CRU",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Astor Piazzolla (1921-1992), grande nome da música argentina",
+      "answer": "AP",
+      "row": 9,
+      "col": 4
+    },
+    "35": {
+      "clue": "Cercam o C",
+      "answer": "BD",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

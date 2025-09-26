@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Fricção entre dois corpos",
+      "answer": "ATRITO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O personagem Don, sedutor e sem escrúpulos",
+      "answer": "JUAN",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Um queijo",
+      "answer": "GOUDA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O ato de dar à luz",
+      "answer": "PARTO",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Apesar de que, ainda que",
+      "answer": "EMBORA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Garoto",
+      "answer": "GURI",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "(Bíbl.) O personagem que salvou os animais",
+      "answer": "NOE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Esperteza, manha",
+      "answer": "ASTUCIA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "A maior reserva florestal brasileira (AM)",
+      "answer": "MAMIRAUA",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Em Mãos (abreviatura usada em correspondências)",
+      "answer": "EM",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Roçar",
+      "answer": "RELAR",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Precede Paz no nome da capital boliviana",
+      "answer": "LA",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Em direito, que admite recurso",
+      "answer": "APELAVEL",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Vestido",
+      "answer": "TRAJADO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Insumo Farmacêutico Ativo",
+      "answer": "IFA",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Pedaço de madeira estreito e comprido",
+      "answer": "RIPA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "A cantora canadense Morissette",
+      "answer": "ALANIS",
+      "row": 8,
+      "col": 5
+    },
+    "34": {
+      "clue": "Um exame nacional de desempenho de estudantes",
+      "answer": "ENADE",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Uma coletividade em seu conjunto",
+      "answer": "TODOS",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Papel estampado, adesivo, usado para franquear correspondências",
+      "answer": "SELO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "O estado do oxigênio na atmosfera",
+      "answer": "GASOSO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Aquele que trata de negócios por conta de outrem",
+      "answer": "AGENTE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Cada volume de uma obra literária",
+      "answer": "TOMO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O Braga escritor e jornalista capixaba",
+      "answer": "RUBEM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Que se foi",
+      "answer": "IDO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Espécie de tranqueta",
+      "answer": "TARAMELA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Animal do sul da América do Sul, da família das ariranhas",
+      "answer": "JAGUARE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Uma tinta indígena",
+      "answer": "URUCU",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Da aurícula",
+      "answer": "ATRIAL",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Gír.) Pessoa viciada em craque",
+      "answer": "NOIA",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Mulher que recebeu refúgio político",
+      "answer": "ASILADA",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "O ator John, de \"Grease - Nos Tempos da Brilhantina\"",
+      "answer": "TRAVOLTA",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Bem ventilado",
+      "answer": "AREJADO",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Fuzileiro naval estadunidense",
+      "answer": "MARINE",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Agarro",
+      "answer": "AMASSO",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "A bênção mais elevada, para os cristãos",
+      "answer": "PAPAL",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "(de morrer) Muito belo",
+      "answer": "LINDO",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "O número de países da América do Norte",
+      "answer": "TRES",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Os cabos que fazem o transporte da eletricidade",
+      "answer": "FIOS",
+      "row": 7,
+      "col": 9
+    },
+    "33": {
+      "clue": "Àqueles",
+      "answer": "AOS",
+      "row": 8,
+      "col": 7
+    }
+  }
+}

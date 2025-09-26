@@ -1,0 +1,294 @@
+{
+  "across": {
+    "1": {
+      "clue": "Compartimento reservado",
+      "answer": "ADITO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Mulher que cuida de crianças",
+      "answer": "PAJEM",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Homem eletrônico",
+      "answer": "ROBO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Combinação de preposição com pronome pessoal (fem.)",
+      "answer": "NELA",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Um biscoito wafer muito consumido",
+      "answer": "BIS",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "Marca chinesa de automóveis",
+      "answer": "BYD",
+      "row": 2,
+      "col": 4
+    },
+    "13": {
+      "clue": "Pronto Socorro Municipal",
+      "answer": "PSM",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Abreviatura inglesa de Estados Unidos",
+      "answer": "US",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Aquele que aluga",
+      "answer": "LOCADOR",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Som que imita um tambor",
+      "answer": "BUM",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Da Lua",
+      "answer": "LUNAR",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Quase nada",
+      "answer": "TRIZ",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Um milhão, indicando unidade de medida",
+      "answer": "MEGA",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "Dar atenção, escutar",
+      "answer": "OUVIR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Rede de comunicação dos EUA",
+      "answer": "CBS",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Ruído",
+      "answer": "BARULHO",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "A metade de 12, em números romanos",
+      "answer": "VI",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Acento de balão",
+      "answer": "TIL",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Espinha ou vértebra de animal",
+      "answer": "SUÃ",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Plano de Aceleração do Crescimento",
+      "answer": "PAC",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Lugar não ocupado num estacionamento",
+      "answer": "VAGA",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "O estado com a Ilha de Marajó",
+      "answer": "PARA",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "O cantor pop do sucesso \"Photographs\"",
+      "answer": "ZEEBA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "O vermelho indica a obrigatoriedade de parada",
+      "answer": "SINAL",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Vegetal lenhoso de porte variável, até aproximadamente 6 m de altura",
+      "answer": "ARBUSTO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O de paus é uma pessoa que nada faz, que não tem iniciativa",
+      "answer": "DOIS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Imposto sobre Bens e Serviços",
+      "answer": "IBS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Sigla de um estado brasileiro que faz divisa com o PA e com o MT",
+      "answer": "TO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Uma peça do piano",
+      "answer": "PEDAL",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "O ator estadunidense Pacino, de \"Insônia\"",
+      "answer": "AL",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Relativo ao \"império do Sol nascente\"",
+      "answer": "JAPONES",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Forma oblíqua de eu",
+      "answer": "MIM",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "New York City",
+      "answer": "NYC",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Que atende aos padrões aceitos pela comunidade",
+      "answer": "BOM",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Síndrome Respiratória Aguda Grave",
+      "answer": "SRAG",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Espalhar claridade",
+      "answer": "LUZIR",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "O elefante-voador, de Walt Disney",
+      "answer": "DUMBO",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Um animal como as ostras ou mexilhões",
+      "answer": "BIVALVE",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Adepto a reformas extremas",
+      "answer": "RADICAL",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Pedra preciosa de cor vermelha",
+      "answer": "RUBI",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Briga de namorados",
+      "answer": "RUSGA",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Carne da coxa bovina",
+      "answer": "CHÃ",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "O astro que ilumina a noite",
+      "answer": "LUA",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "Peça de bambu usada em pescarias",
+      "answer": "VARA",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Cútis, pele do rosto",
+      "answer": "TEZ",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "O Peter da \"Terra do Nunca\"",
+      "answer": "PAN",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Aracy Balabanian, atriz recentemente falecida",
+      "answer": "AB",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "3,1416, em matemática",
+      "answer": "PI",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

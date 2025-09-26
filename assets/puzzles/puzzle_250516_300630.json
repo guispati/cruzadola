@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O contrário de depois",
+      "answer": "ANTES",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Tecido lustroso e macio",
+      "answer": "CETIM",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Que tem um olho só",
+      "answer": "UNOCULO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "O símbolo químico do rutênio",
+      "answer": "RU",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Aerofólio auxiliar do avião",
+      "answer": "FLAPE",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Símbolo da unidade física rutherford",
+      "answer": "RD",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Adorno, elemento decorativo",
+      "answer": "ENFEITE",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Assistir",
+      "answer": "VER",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Um prato com cenoura, tomate, alface, beterraba etc.",
+      "answer": "SALADA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "(Fig.) Peculiaridade, particularidade",
+      "answer": "FACE",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Outro nome do pé-de-pato",
+      "answer": "NADADEIRA",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Bom senso",
+      "answer": "SISO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Peça que prende os vagões um a outro",
+      "answer": "ENGATE",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Quilômetros por hora",
+      "answer": "KMH",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Fazer parte de um conjunto",
+      "answer": "FIGURAR",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Adriana Esteves, atriz carioca",
+      "answer": "AE",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Enlouquecer",
+      "answer": "PIRAR",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "Renato Russo, músico do \"Legião Urbana\"",
+      "answer": "RR",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Outro nome do demônio",
+      "answer": "SATANAS",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "Raça",
+      "answer": "ETNIA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "O ator Prado",
+      "answer": "OSMAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Buenos) A capital do país comandado por Milei",
+      "answer": "AIRES",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Pronome que segue eu",
+      "answer": "TU",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Que perdeu a graça ou beleza",
+      "answer": "ENFEADO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Diz-se de amizade firme, inabalável",
+      "answer": "SOLIDA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Carro de passeio ou esporte, de duas portas",
+      "answer": "CUPE",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "O sujeito de mente ou rouba",
+      "answer": "ELE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Sigla do estado de Araguaína e Gurupi",
+      "answer": "TO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(de Deus) Cidade da baía de Todos os Santos",
+      "answer": "MADRE",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Mulher que trabalha na colheita de café",
+      "answer": "CATADEIRA",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Geral, sem exceção",
+      "answer": "UNANIME",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Resguardar",
+      "answer": "RECATAR",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "(TV e cinema) Cena rápida",
+      "answer": "FLASH",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Traspassar de lado a lado",
+      "answer": "VARAR",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "As imagens (rei, dama e valete) das cartas de baralho",
+      "answer": "FIGURAS",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Ligação telefônica para o número errado",
+      "answer": "ENGANO",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Um esporte mais praticado por jovens",
+      "answer": "SKATE",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Andar sem direção",
+      "answer": "ERRAR",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Tira fina de pano",
+      "answer": "FITA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "A primeira pessoa da Santíssima Trindade",
+      "answer": "PAI",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "(Quím.) O estanho",
+      "answer": "SN",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "Selton Mello, ator de \"Ainda Estou Aqui\"",
+      "answer": "SM",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

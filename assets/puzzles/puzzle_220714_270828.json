@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Fio que dispara a dinamite",
+      "answer": "ESTOPIM",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Uma forma de abreviar o nome do mês 1",
+      "answer": "JAN",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Homem que está para casar",
+      "answer": "NOIVO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Um instrumento musical usado por sambistas",
+      "answer": "AGOGO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Avião dotado de turbinas",
+      "answer": "JATO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Pressionar uma tecla do mouse",
+      "answer": "CLICAR",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "(Fut.) Um grito de incentivo nos jogos esportivos",
+      "answer": "OLE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Cavalo novo, não domado",
+      "answer": "POTRO",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Olívia Hime, cantora",
+      "answer": "OH",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Tempestade repentina e de curta duração",
+      "answer": "BORRASCA",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Aquele que calcula aproximadamente",
+      "answer": "AVALIADOR",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Pernil, salgado e curado ao fumeiro",
+      "answer": "PRESUNTO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Instituto Butantan",
+      "answer": "IB",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "(Fig.) Pessoa que ignora um assunto",
+      "answer": "LEIGO",
+      "row": 7,
+      "col": 2
+    },
+    "26": {
+      "clue": "Cada parte de uma peça de teatro",
+      "answer": "ATO",
+      "row": 7,
+      "col": 8
+    },
+    "27": {
+      "clue": "Pode ser rolante",
+      "answer": "ESCADA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Ligeiro, desenvolto",
+      "answer": "AGIL",
+      "row": 8,
+      "col": 7
+    },
+    "30": {
+      "clue": "Soco",
+      "answer": "MURRO",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Que não tem semelhante (fem.)",
+      "answer": "UNICA",
+      "row": 9,
+      "col": 6
+    },
+    "32": {
+      "clue": "Palavra dita ao atender ao celular",
+      "answer": "ALO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Eliminar o estrago",
+      "answer": "REPARAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O primeiro sintoma de gravidez",
+      "answer": "ENJOO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Colocar piso de tábuas",
+      "answer": "SOALHAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O técnico da seleção brasileira de futebol",
+      "answer": "TITE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Na Austrália é egg",
+      "answer": "OVO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Poxa!",
+      "answer": "PO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Tratamento duro e ofensivo",
+      "answer": "MALTRATO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Que provoca o riso",
+      "answer": "JOCOSO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Precede o i",
+      "answer": "AGA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Regra",
+      "answer": "NORMA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Percorrido sem ter se fixado",
+      "answer": "GIRADO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Indivíduo versátil",
+      "answer": "CORINGA",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Diz-se de agente nocivo ao meio ambiente",
+      "answer": "POLUIDOR",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Fundamentar",
+      "answer": "BASEAR",
+      "row": 4,
+      "col": 3
+    },
+    "19": {
+      "clue": "Julgamento positivo ou negativo",
+      "answer": "CRITICA",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Um material que substitui o zíper",
+      "answer": "VELCRO",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Obra em versos",
+      "answer": "POEMA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Pop.) Criar",
+      "answer": "BOLAR",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Traduzir a palavra ou o pensamento em fatos",
+      "answer": "AGIR",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "O polo onde fica a base científica brasileira \"Comandante Ferraz\"",
+      "answer": "SUL",
+      "row": 8,
+      "col": 1
+    },
+    "29": {
+      "clue": "A Cañas cantora",
+      "answer": "ANA",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "Carro compacto da VW",
+      "answer": "UP",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

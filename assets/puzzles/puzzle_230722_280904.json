@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Esp.) Uma rebatida no tênis",
+      "answer": "BACKHAND",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Um maço de certas coisas iguais",
+      "answer": "LIO",
+      "row": 1,
+      "col": 0
+    },
+    "9": {
+      "clue": "A ave-símbolo da escola de samba Portela",
+      "answer": "AGUIA",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Que tem admiração exagerada pelos ingleses",
+      "answer": "ANGLOMANIA",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Pelo de égua",
+      "answer": "CRINA",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Sinal para chamar a atenção dos telespectadores para o início de um programa",
+      "answer": "TOP",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Completamente desenvolvido",
+      "answer": "FEITO",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "Uma bacia do banheiro",
+      "answer": "BIDE",
+      "row": 4,
+      "col": 7
+    },
+    "19": {
+      "clue": "Carro da Fiat",
+      "answer": "DOBLO",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Relativo ao meio ou à classe jurídica",
+      "answer": "LEGAL",
+      "row": 5,
+      "col": 6
+    },
+    "21": {
+      "clue": "Falta de ocupação",
+      "answer": "OCIO",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "Ter conhecimento de uma coisa",
+      "answer": "SABER",
+      "row": 6,
+      "col": 5
+    },
+    "23": {
+      "clue": "Trem de Alta Velocidade",
+      "answer": "TAV",
+      "row": 7,
+      "col": 0
+    },
+    "24": {
+      "clue": "O maior estômago dos bovinos",
+      "answer": "RUMEN",
+      "row": 7,
+      "col": 4
+    },
+    "25": {
+      "clue": "Cidade goiana próxima à divisa com o MT",
+      "answer": "ARENOPOLIS",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "(Villa-) Compositor, um grande nome da música brasileira",
+      "answer": "LOBOS",
+      "row": 9,
+      "col": 2
+    },
+    "29": {
+      "clue": "Os números que indicam um endereço",
+      "answer": "CEP",
+      "row": 9,
+      "col": 8
+    },
+    "31": {
+      "clue": "Peixe de mar, parecido com a cavala",
+      "answer": "SOROROCA",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Bolo sem ós",
+      "answer": "BL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Governanta",
+      "answer": "AIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Admissível, aceitável",
+      "answer": "CONCEBIVEL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Cheiro da boca",
+      "answer": "HALITO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Geom.) Sem ângulos",
+      "answer": "AGONO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "No interior de, junto de (fem.)",
+      "answer": "NUMA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O de São Nunca nunca chegará",
+      "answer": "DIA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Que possui a capacidade de provocar a formação de um anticorpo",
+      "answer": "ANTIGENICO",
+      "row": 1,
+      "col": 8
+    },
+    "11": {
+      "clue": "(Econ.) Dinheiro em cédulas",
+      "answer": "PAPEL",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "Inseto que é capaz de executar grandes saltos",
+      "answer": "GRILO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Misturar com o elemento químico I",
+      "answer": "IODAR",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Olhar com atenção",
+      "answer": "FOCAR",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "Uma cantora Gilberto",
+      "answer": "BEBEL",
+      "row": 4,
+      "col": 7
+    },
+    "19": {
+      "clue": "Prover",
+      "answer": "DOTAR",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Sujo de lodo, pantanoso",
+      "answer": "LAMOSO",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Admitir",
+      "answer": "SUPOR",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "Programa que realiza tarefa repetitiva e automática na net",
+      "answer": "ROBO",
+      "row": 7,
+      "col": 4
+    },
+    "26": {
+      "clue": "A gente",
+      "answer": "NOS",
+      "row": 8,
+      "col": 3
+    },
+    "27": {
+      "clue": "(Fr.) Um tipo de champanhe",
+      "answer": "SEC",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Ferramenta para recolher areia, detritos etc.",
+      "answer": "PA",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

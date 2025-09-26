@@ -1,0 +1,240 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Tecn.) Regulagem",
+      "answer": "AJUSTAGEM",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Aceitar (uma proposta)",
+      "answer": "TOPAR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Caro demais",
+      "answer": "ROUBO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Propriedade campestre, em geral perto da cidade",
+      "answer": "CHACARA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Ingl.) Precede seven",
+      "answer": "SIX",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Henri Nestlé (1814-1890), empresário suíço",
+      "answer": "HN",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Anat.) Parte acessória de um órgão",
+      "answer": "APENDICE",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Vulgar, trivial",
+      "answer": "PROSAICO",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "O quinto mês",
+      "answer": "MAIO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Pesquisa o espaço",
+      "answer": "NASA",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "Desativar um aparelho eletrônico",
+      "answer": "DESLIGAR",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "O músico popular Élton, de \"Rosa de Ouro\"",
+      "answer": "MEDEIROS",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Lutécio, elemento químico",
+      "answer": "LU",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "O eu",
+      "answer": "EGO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Fazer girar",
+      "answer": "VOLTEAR",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "O Segall (1891-1957) pintor e escultor",
+      "answer": "LASAR",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "A conversa sem proveito",
+      "answer": "FIADA",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Utensílio de costureira e alfaiate",
+      "answer": "ABOTOADOR",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um dos anões",
+      "answer": "ATCHIM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O músico Lennon (1940-1980), dos Beatles",
+      "answer": "JOHN",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Unidade de Pronto Atendimento",
+      "answer": "UPA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O açúcar constituído por glucose e frutose",
+      "answer": "SACAROSE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Fig.) Pessoa atingida por séria depressão física ou moral",
+      "answer": "TRAPO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Gír.) Qualquer soma de dinheiro",
+      "answer": "GRANA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "As vogais de perto",
+      "answer": "EO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Tocar um instrumento musical",
+      "answer": "MUSICAR",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O esporte de Mike Tyson",
+      "answer": "BOXE",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Restos, sobras",
+      "answer": "BICOS",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Abertura por onde sai ar, fumaça, vapor, líquido etc.",
+      "answer": "RESPIRO",
+      "row": 2,
+      "col": 5
+    },
+    "18": {
+      "clue": "Sucessão de herdeiros e continuadores de magnatas",
+      "answer": "DINASTIA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Misericordiosa",
+      "answer": "PIEDOSA",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Lugar onde se guardam bebidas",
+      "answer": "ADEGA",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Suportar com paciência e indulgência",
+      "answer": "ATURAR",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Uma obra como \"Os Sertões\"",
+      "answer": "LIVRO",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Um acidente geográfico como o Pérsico",
+      "answer": "GOLFO",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "O Marcelo tenista especialista em jogos de duplas",
+      "answer": "MELO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Área próxima de uma pessoa ou coisa",
+      "answer": "LADO",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Educação a Distância",
+      "answer": "EAD",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "O grupo sanguíneo que é receptor universal",
+      "answer": "AB",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

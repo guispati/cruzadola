@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Capa para proteger do frio ou da chuva",
+      "answer": "CAPOTE",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "As quatro primeiras letras do nosso alfabeto",
+      "answer": "ABCD",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Nascida nos Estados Unidos",
+      "answer": "AMERICANA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Direito, poder",
+      "answer": "MANDO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "A substância com que se tinge",
+      "answer": "TINTA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Preposição que indica prioridade no tempo e no espaço",
+      "answer": "ANTE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Sucursal",
+      "answer": "FILIAL",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Órgão capaz de receber impressões externas",
+      "answer": "SENSOR",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "O órgão que mantém o equilíbrio hídrico do corpo",
+      "answer": "RIM",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "Ferramenta agrícola usada para desaterrar",
+      "answer": "PA",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Tornar enxuto",
+      "answer": "SECAR",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "A 6ª nota da escala musical",
+      "answer": "LA",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "A primeira parte da viagem",
+      "answer": "IDA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Tipo de chocalho usado como instrumento musical",
+      "answer": "MARACA",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "A maior ave de rapina que existe",
+      "answer": "CONDOR",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "(James) O agente 007, da série de filmes de aventura",
+      "answer": "BOND",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Insídia armada com malícia",
+      "answer": "ARDIL",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Uma cor do semáforo",
+      "answer": "VERDE",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Que pode ser julgado",
+      "answer": "AVALIAVEL",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "O resultado de um trabalho",
+      "answer": "OBRA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Qualquer doença transmitida por microrganismo patogênico",
+      "answer": "VIROSE",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Fig.) Repouso, descanso",
+      "answer": "CAMA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Domador",
+      "answer": "AMANSADOR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Utensílio usado para arranjar os cabelos",
+      "answer": "PENTE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Disposições dadas por superior",
+      "answer": "ORDENS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O irmão do pai ou da mãe",
+      "answer": "TIO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Emenda Constitucional",
+      "answer": "EC",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Azul forte",
+      "answer": "ANIL",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Exilar",
+      "answer": "BANIR",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O jogador de futebol Santos, bicampeão mundial",
+      "answer": "DJALMA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Usar o revólver",
+      "answer": "ATIRAR",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Relativo ao país asiático cuja capital é Bangcoc",
+      "answer": "TAILANDES",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Olhar com atenção",
+      "answer": "FOCAR",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Fécula alimentícia que serve para caldos e sopas",
+      "answer": "SEMOLA",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Cortado em pequenos pedaços",
+      "answer": "PICADO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Derrapar (o carro) nas rodas traseiras",
+      "answer": "RABEAR",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "Estar (neste ou naquele momento)",
+      "answer": "ANDAR",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Ave famosa pela astúcia e inteligência",
+      "answer": "CORVO",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Divindade feminina",
+      "answer": "DIVA",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "Daquele homem",
+      "answer": "DELE",
+      "row": 7,
+      "col": 10
+    },
+    "33": {
+      "clue": "O século que vai do ano 601 a 700",
+      "answer": "VII",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Louis Vuitton (1821-1892), francês criador da famosa marca de bolsas e malas",
+      "answer": "LV",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

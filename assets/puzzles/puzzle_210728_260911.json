@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Livrar de estorvos",
+      "answer": "SAFAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Queda repentina e violenta ao chão",
+      "answer": "TOMBO",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "(-múndi) Desenho do globo terrestre",
+      "answer": "MAPA",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "O ator Gleiser das novelas de TV",
+      "answer": "ELIAS",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Truncar geralmente de um só golpe",
+      "answer": "DECEPAR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Maço de coisas iguais",
+      "answer": "LIO",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Visto de um só ponto de vista",
+      "answer": "UNILATERAL",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Pancada que pode acontecer no futebol",
+      "answer": "BOLADA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Um exame do MEC",
+      "answer": "ENEM",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "O contrário de rebelde",
+      "answer": "DOCIL",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Graduação militar abaixo de sargento",
+      "answer": "CABO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Inundar",
+      "answer": "ALAGAR",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "Peixe da Amazônia, de carne gordurosa",
+      "answer": "PIRAMUTABA",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "Àqueles",
+      "answer": "AOS",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Fundamental",
+      "answer": "BASILAR",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "A Keaton, atriz de \"O Pai da Noiva\"",
+      "answer": "DIANE",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Ingl.) Excesso",
+      "answer": "OVER",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Relativo aos bons costumes",
+      "answer": "MORAL",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Purpúreo",
+      "answer": "ROSEO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Agradável, prazeroso",
+      "answer": "AMENO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O oposto de complicado",
+      "answer": "FACIL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Aquele que pede auxílio",
+      "answer": "APELADOR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Cortado rente",
+      "answer": "RAPADO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Pássaro da mesma família da saíra",
+      "answer": "TERE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Terminação dos álcoois",
+      "answer": "OL",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Um dos grandes times do futebol italiano",
+      "answer": "MILAN",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Festa com dança e música",
+      "answer": "BAILE",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Sufixo: abundância",
+      "answer": "OSO",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "A cantora Jane",
+      "answer": "DUBOC",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Região desértica do Chile, meta turística",
+      "answer": "ATACAMA",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Que depende de outra coisa",
+      "answer": "RELATIVO",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Emparedar",
+      "answer": "MURAR",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Enganador",
+      "answer": "ILUSOR",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Auxílio",
+      "answer": "APOIO",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Repetir trecho musical",
+      "answer": "BISAR",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Um país do Reino Unido",
+      "answer": "GALES",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Entre os indígenas brasileiros, padre cristão",
+      "answer": "ABARE",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "(Bíbl.) O irmão de Caim",
+      "answer": "ABEL",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Administração",
+      "answer": "ADM",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Narcóticos Anônimos",
+      "answer": "NA",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Exterminar barbaramente",
+      "answer": "MASSACRAR",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Um artefato para pesca de fundo, com vários anzóis",
+      "answer": "ESPINHEL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Cacilda sem calda",
+      "answer": "CI",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Criada de companhia",
+      "answer": "AMA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Derreter (a neve)",
+      "answer": "DEGELAR",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Rádio, elemento químico",
+      "answer": "RA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Palrador",
+      "answer": "TAGARELA",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Casamento",
+      "answer": "BODA",
+      "row": 4,
+      "col": 2
+    },
+    "18": {
+      "clue": "Um ingrediente alcoólico de aperitivos",
+      "answer": "GIM",
+      "row": 4,
+      "col": 7
+    },
+    "19": {
+      "clue": "O do Careca é um dos principais pontos turísticos de Natal (RN)",
+      "answer": "MORRO",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Pôr um equipamento eletrônico para funcionar",
+      "answer": "LIGAR",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Muito, bastante",
+      "answer": "BEM",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "(sem fundo) Pessoa que come demais",
+      "answer": "SACO",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Aplanado, alisado",
+      "answer": "NIVELADO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Paloma Duarte, atriz paulistana",
+      "answer": "PD",
+      "row": 7,
+      "col": 9
+    },
+    "28": {
+      "clue": "Tornar menos grave",
+      "answer": "ATENUAR",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "O lutador e ator Bruce (1940-1973) dos filmes de artes marciais",
+      "answer": "LEE",
+      "row": 8,
+      "col": 8
+    },
+    "30": {
+      "clue": "Diário Oficial",
+      "answer": "DO",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Espécie de tranca para portas e janelas",
+      "answer": "TARAMELA",
+      "row": 9,
+      "col": 3
+    },
+    "33": {
+      "clue": "Equipamento que atrai descargas elétricas da atmosfera",
+      "answer": "PARARAIOS",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Importante rio maranhense (750 km)",
+      "answer": "MEARIM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Doença caracterizada por acessos de dificuldades respiratórias",
+      "answer": "ASMA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Clínica para tratamento de distúrbios alimentares, saúde e beleza",
+      "answer": "SPA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A última nota da escala musical",
+      "answer": "SI",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Passado, decorrido",
+      "answer": "ANDADO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Interj.: basta",
+      "answer": "CHEGA",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "(Pop.) Chuva",
+      "answer": "REGA",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Relativo à intolerância do organismo por alguma substância",
+      "answer": "ALERGICO",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "(Gír.) Agente de polícia",
+      "answer": "TIRA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Serenidade de ânimo",
+      "answer": "CALMA",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Não eclesíastico",
+      "answer": "LEIGO",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Tempestade com grande poder de destruição",
+      "answer": "TORMENTA",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Carta de habilitação para pilotar aviões",
+      "answer": "BREVE",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "A morte de uma pessoa",
+      "answer": "OBITO",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Dar latidos (o cão)",
+      "answer": "LADRAR",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "(Pop.) Comando",
+      "answer": "REDEAS",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "O grande deserto do norte da África",
+      "answer": "SAARA",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Nenhuma coisa",
+      "answer": "NADA",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "(do Sertão) Uma das mais famosas toadas brasileiras",
+      "answer": "LUAR",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "(Anat.) Cada um dos apêndices filamentosos da pele",
+      "answer": "PELO",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "A da selva é estabelecida pelos mais fortes",
+      "answer": "LEI",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Ruim, desonesta",
+      "answer": "MA",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ave de pescoço muito longo",
+      "answer": "CISNE",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Uma indústria marítima",
+      "answer": "PESCA",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Mulher nascida no país cuja capital é Bucareste",
+      "answer": "ROMENA",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "O Lennon dos Beatles",
+      "answer": "JOHN",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "(Fís.) Abreviatura inglesa de Frequência Intermediária",
+      "answer": "IF",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Uma multinacional fabricante de carros",
+      "answer": "FORD",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "Material usado na produção de frascos de refrigerante",
+      "answer": "PET",
+      "row": 2,
+      "col": 8
+    },
+    "18": {
+      "clue": "Uma árvore com propriedades medicinais",
+      "answer": "CASCARA",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "Enxergado ao longe",
+      "answer": "AVISTADO",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Ronald Golias (1929-2005), humorista paulistano",
+      "answer": "RG",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Forma sertaneja de até",
+      "answer": "INTE",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Parte sonora de um filme ou da transmissão de TV",
+      "answer": "AUDIO",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "Um líquido combustível",
+      "answer": "ALCOOL",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Ente querido ou amado",
+      "answer": "BEM",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "(Pop.) Senhor",
+      "answer": "NHO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "São 4 em capacete",
+      "answer": "SILABAS",
+      "row": 7,
+      "col": 4
+    },
+    "33": {
+      "clue": "A UF de Quixadá e Sobral",
+      "answer": "CE",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Desobediência a qualquer norma ou preceito",
+      "answer": "PECADO",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Papa de fubá",
+      "answer": "ANGU",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Que comete tolices",
+      "answer": "OTARIO",
+      "row": 9,
+      "col": 5
+    },
+    "39": {
+      "clue": "Cesto usado em pescarias",
+      "answer": "SAMBURA",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Segue Mar e antecede Mai",
+      "answer": "ABR",
+      "row": 10,
+      "col": 8
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Pelo de égua",
+      "answer": "CRINA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Imposto sobre Operações Financeiras",
+      "answer": "IOF",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Selton Mello, ator",
+      "answer": "SM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Que causa desgraça",
+      "answer": "NEFASTO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Massa de tecido ósseo que se forma dentro da cavidade de um osso",
+      "answer": "ENOSTEOSE",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Elton John, músico",
+      "answer": "EJ",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Um prato como a canja",
+      "answer": "SOPA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "(Guevara) Um dos cabeças da revolução cubana",
+      "answer": "CHE",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Que existe há muito tempo",
+      "answer": "ANTIGO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "O barco de Noé, na Bíblia",
+      "answer": "ARCA",
+      "row": 1,
+      "col": 5
+    },
+    "16": {
+      "clue": "Aquela que se relaciona amigavelmente com outras pessoas",
+      "answer": "DADA",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "Três mais dois",
+      "answer": "CINCO",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "(Gír.) Mau negócio",
+      "answer": "ROUBADA",
+      "row": 3,
+      "col": 7
+    },
+    "21": {
+      "clue": "Importante município do estado de Rondônia, na divisa com o Mato Grosso",
+      "answer": "VILHENA",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Harmonia de versos",
+      "answer": "RIMA",
+      "row": 4,
+      "col": 9
+    },
+    "25": {
+      "clue": "A atriz Bloch, do cinema e da televisão",
+      "answer": "DEBORA",
+      "row": 5,
+      "col": 8
+    },
+    "26": {
+      "clue": "Quadris",
+      "answer": "ANCAS",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Bebida alcoólica adoçada e aromatizada",
+      "answer": "LICOR",
+      "row": 6,
+      "col": 5
+    },
+    "31": {
+      "clue": "Embalagem feita de folha de flandres",
+      "answer": "LATA",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Transpiração",
+      "answer": "SUOR",
+      "row": 7,
+      "col": 10
+    },
+    "34": {
+      "clue": "O típico bar dos ingleses",
+      "answer": "PUB",
+      "row": 8,
+      "col": 3
+    },
+    "36": {
+      "clue": "Uma marca de carros",
+      "answer": "GM",
+      "row": 9,
+      "col": 2
+    },
+    "38": {
+      "clue": "Instituto Butantan",
+      "answer": "IB",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

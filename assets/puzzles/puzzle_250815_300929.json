@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cão de pernas e pelagem curtas e orelhas grandes e pendentes",
+      "answer": "BASSE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Da nação de Copenhague e Aarhus",
+      "answer": "DANES",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Canoa indígena",
+      "answer": "IGA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Viril",
+      "answer": "MASCULO",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Abrir regos na terra",
+      "answer": "SULCAR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "O fim do Pai-Nosso",
+      "answer": "AMEM",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Ir ao chão, em virtude de um desequilíbrio",
+      "answer": "CAIR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Península asiática margeada pelo estreito de Málaca",
+      "answer": "MALAIA",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Tradicional prato baiano",
+      "answer": "VATAPA",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Tempo de Resposta",
+      "answer": "TR",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "(Pop.) Habitante da roça, tímido e acanhado",
+      "answer": "MOCORONGO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Autoritário, ditatorial",
+      "answer": "CESARISTA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Ressonância de palavras",
+      "answer": "ECO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Luis Nassif, economista e jornalista",
+      "answer": "LN",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "A substância gordurosa que elimina rangidos",
+      "answer": "OLEO",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "O símbolo químico do gálio, metal usado em transistores",
+      "answer": "GA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "O músico Lennon (1940-1980), dos Beatles",
+      "answer": "JOHN",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Ovo, na Austrália",
+      "answer": "EGG",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "O escritor e novelista Carlos, de \"Em Família\"",
+      "answer": "MANOEL",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Palavrinha que expressa dor",
+      "answer": "UI",
+      "row": 9,
+      "col": 9
+    },
+    "37": {
+      "clue": "Uma anestesia",
+      "answer": "RAQUI",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Uma das maiores cidades da China, com mais de 11 milhões de habitantes",
+      "answer": "WUHAN",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Pop.) Indivíduo ruim, de mau caráter",
+      "answer": "BISCA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O hábitat do animal undícola",
+      "answer": "AGUA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Que é cheio do líquido que facilita a mastigação",
+      "answer": "SALIVOSO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A maior e mais pesada das aves brasileiras",
+      "answer": "EMA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Dedé Santana, humorista, ex-Trapalhões",
+      "answer": "DS",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Cantiga de ninar",
+      "answer": "ACALANTO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Em + uma",
+      "answer": "NUMA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Preferido para determinados fins",
+      "answer": "ELEITO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Em matemática, usar o sinal +",
+      "answer": "SOMAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Loja em que se vendem miudezas para confecções",
+      "answer": "ARMARINHO",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Molusco que vive no costado dos navios",
+      "answer": "CRACA",
+      "row": 2,
+      "col": 3
+    },
+    "18": {
+      "clue": "O oposto de antes",
+      "answer": "APOS",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "A atriz Christiane",
+      "answer": "TORLONI",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Cidade santa do islã, na Arábia Saudita",
+      "answer": "MECA",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Grande barco usado na Antiguidade",
+      "answer": "GALE",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Ofuscar a vista de alguém",
+      "answer": "CEGAR",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Ingl.) Acesso a um programa",
+      "answer": "LOGIN",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Fêmea de cavalo",
+      "answer": "EGUA",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Cidade e rio do estado de São Paulo",
+      "answer": "JAU",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "(Order) Banda britânica de rock eletrônico",
+      "answer": "NEW",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Mário Quintana (1906-1994), poeta gaúcho",
+      "answer": "MQ",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Um apelido para Luísa",
+      "answer": "LU",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

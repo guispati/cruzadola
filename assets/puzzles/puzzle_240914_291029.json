@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Nascida em Leopoldina ou Tiradentes",
+      "answer": "MINEIRA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Famosa estação inglesa de rádio e TV",
+      "answer": "BBC",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Aumenta a fecundidade da terra",
+      "answer": "ADUBO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "A parte do ovo usada para se fazer suspiro",
+      "answer": "CLARA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "O contrário de velha",
+      "answer": "NOVA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Martelar a peça longa e pontuda usada para pendurar algo",
+      "answer": "PREGAR",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "O sujeito de ignora ou comemora",
+      "answer": "ELE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Aquele que faz maus versos",
+      "answer": "POETAÇO",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Pedir para participar",
+      "answer": "CONVIDAR",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Acalmar",
+      "answer": "SERENAR",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "(Quím.) Um aminoácido formador de proteínas",
+      "answer": "TIROSINA",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Da ilha onde se localiza a capital da Indonésia",
+      "answer": "JAVANES",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Drive) Dispositivo de informática",
+      "answer": "PEN",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "O U de EUA",
+      "answer": "UNIDOS",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Remunerado, recompensado",
+      "answer": "PAGO",
+      "row": 8,
+      "col": 7
+    },
+    "30": {
+      "clue": "Satisfação perfeita",
+      "answer": "IDEAL",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Serpente mitológica",
+      "answer": "HIDRA",
+      "row": 9,
+      "col": 6
+    },
+    "32": {
+      "clue": "São dois em Cazuza",
+      "answer": "ZES",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "AL",
+      "answer": "ALAGOAS",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Manoel, para os amigos",
+      "answer": "MANECO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Pessoa que é objeto de veneração",
+      "answer": "IDOLO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "As formações que, no céu, encobrem o Sol",
+      "answer": "NUVENS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Exclamação para demonstrar alegria",
+      "answer": "EBA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Eu, em Roma",
+      "answer": "IO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Os conterrâneos de Chico Mendes, Marina Silva e Glória Perez",
+      "answer": "ACREANOS",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Fruto carnudo e arredondado",
+      "answer": "BAGA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Fig.) Capacidade de agir",
+      "answer": "BRAÇO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Por alto preço",
+      "answer": "CARO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "São 26 na língua portuguesa",
+      "answer": "LETRAS",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "(Praça dos Três) Conjunto arquitetônico de Brasília",
+      "answer": "PODERES",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Pequeno pião que se joga sobre a mesa",
+      "answer": "PIRINOLA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Proibida",
+      "answer": "VETADA",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Num telhado, série de madeiras pregadas, para suportar as telhas",
+      "answer": "RIPADO",
+      "row": 5,
+      "col": 8
+    },
+    "21": {
+      "clue": "Município gaúcho que integra a região metropolitana da capital",
+      "answer": "CANOAS",
+      "row": 5,
+      "col": 10
+    },
+    "22": {
+      "clue": "(de Pilares) Cantor e compositor carioca",
+      "answer": "XANDE",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "A partida que desempata o jogo",
+      "answer": "NEGRA",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "(Esp.) Árbitro",
+      "answer": "JUIZ",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Direção oblíqua",
+      "answer": "VIES",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Porco, nos EUA",
+      "answer": "PIG",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "Abreviatura de hectare, medida agrária",
+      "answer": "HA",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

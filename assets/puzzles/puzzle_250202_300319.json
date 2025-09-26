@@ -1,0 +1,240 @@
+{
+  "across": {
+    "1": {
+      "clue": "Transferido para outra data",
+      "answer": "ADIADO",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "A indústria do Ecosport",
+      "answer": "FORD",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Traficante de escravos",
+      "answer": "NEGREIRO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Unidade Astronômica",
+      "answer": "UA",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "O organismo humano psicologicamente considerado",
+      "answer": "ID",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Alargar",
+      "answer": "ESTENDER",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Um recipiente usado pelos correios",
+      "answer": "MALAPOSTAL",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Um pouquinho mais pra lá",
+      "answer": "ALI",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "(Vidas) Obra de G. Ramos",
+      "answer": "SECAS",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "(Pop.) Cheio-de-nove-horas",
+      "answer": "MANHOSO",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Equipe rubro-negra do futebol pernambucano",
+      "answer": "SPORT",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "O acento que nasala o a e o ó",
+      "answer": "TIL",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Desastrada",
+      "answer": "ESTABANADA",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "(Pop.) Em demasia, à beça",
+      "answer": "ADOIDADO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Aldir Blanc, músico",
+      "answer": "AB",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Sufixo: autor, agente",
+      "answer": "OR",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Que possui cores (fem.)",
+      "answer": "COLORIDA",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Água com gás carbônico",
+      "answer": "SODA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Os povos do Iêmem, de Omã e do Catar",
+      "answer": "ARABES",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Tubarões, girafas e sapos",
+      "answer": "ANIMAIS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Protetor dos dedos das costureiras",
+      "answer": "DEDAL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Isabela Garcia, atriz carioca",
+      "answer": "IG",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Espaço de terreno",
+      "answer": "AREA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Sem gume, sem fio",
+      "answer": "DESPONTADO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Quinze menos sete",
+      "answer": "OITO",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "O escritor paulista Martins (1884-1937), de \"Volúpia\"",
+      "answer": "FONTES",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Rua estreita",
+      "answer": "RUELA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Completar o número de",
+      "answer": "DAR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Aquele que respira com ruído durante o sono",
+      "answer": "RESSONADOR",
+      "row": 1,
+      "col": 6
+    },
+    "15": {
+      "clue": "Indígena de conhecida tribo dos EUA",
+      "answer": "DACOTA",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Lamacento",
+      "answer": "LIMOSO",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "Paralelepípedo possui sete",
+      "answer": "SILABAS",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Diz-se da zona do Polo Norte",
+      "answer": "ARTICA",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "O cineasta Almodóvar, de \"O Quarto ao Lado\"",
+      "answer": "PEDRO",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Duração total da vida",
+      "answer": "IDADE",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Um doce como a Chita",
+      "answer": "BALA",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "A mulher do filho",
+      "answer": "NORA",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Àqueles",
+      "answer": "AOS",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Abreviatura latina de ibidem (no mesmo lugar)",
+      "answer": "IB",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

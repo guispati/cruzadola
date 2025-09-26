@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Outra nome para a chupeta",
+      "answer": "CHUCHA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Vantagens, conveniências",
+      "answer": "PROS",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Instante determinado ou fixado",
+      "answer": "HORA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Metade de um inteiro",
+      "answer": "MEIO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Cantar alternadamente por dois coros",
+      "answer": "ANTIFONAR",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Sistema de cores usado em artes gráficas",
+      "answer": "PANTONE",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Grupo fechado de amigos",
+      "answer": "CLÃ",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Extremamente ansioso",
+      "answer": "AFOITO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Arranjo, disposição",
+      "answer": "MODO",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Passado por crivo",
+      "answer": "COADO",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Quantidade total",
+      "answer": "TUDO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Ser adequado",
+      "answer": "CONVIR",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Exclamação de desprezo",
+      "answer": "IXE",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Famosa capela do Vaticano",
+      "answer": "SISTINA",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "(Fig.) Atacar violentamente, com palavras e argumentos",
+      "answer": "TORPEDEAR",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "(Pop.) Pessoa que observa um jogo",
+      "answer": "SAPO",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "Móvel que se pode transformar em cama",
+      "answer": "DIVÃ",
+      "row": 9,
+      "col": 7
+    },
+    "34": {
+      "clue": "Som que imita latidos de um cão",
+      "answer": "AUAU",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Pavimento de madeira",
+      "answer": "SOALHO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Pop.) Amigo, camarada",
+      "answer": "CHAPA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Quím.) O símbolo do hólmio",
+      "answer": "HO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O primeiro planeta descoberto com o telescópio",
+      "answer": "URANO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Hino da liturgia",
+      "answer": "CANTICO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Quím.) Os componentes das proteínas",
+      "answer": "AMINOACIDOS",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Muito religioso",
+      "answer": "PIO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Ruído produzido por quem dorme",
+      "answer": "RONCO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Trabalho noturno, após o expediente",
+      "answer": "SERÃO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Precede o gê",
+      "answer": "EFE",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "(Fam.) Cãozinho",
+      "answer": "TOTO",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "O Edwin astronauta que participou do primeiro voo à Lua",
+      "answer": "ALDRIN",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Convergência em quantidade considerável",
+      "answer": "AFLUXO",
+      "row": 3,
+      "col": 1
+    },
+    "19": {
+      "clue": "Instalada, equipada",
+      "answer": "MONTADA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Porção de pinga, uísque etc.",
+      "answer": "DOSE",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "A mãe dos primos, para os íntimos",
+      "answer": "TITIA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Sigla do departamento que administra as rodovias paulistas",
+      "answer": "DERSA",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Próprio do homem",
+      "answer": "VIRIL",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Causa, motivo",
+      "answer": "RAZÃO",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "Sociedade Esportiva Palmeiras",
+      "answer": "SEP",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Qualquer pedaço de madeira",
+      "answer": "PAU",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Vera Holtz, atriz",
+      "answer": "VH",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O presidente norte-americano Joe",
+      "answer": "BIDEN",
+      "row": 0,
+      "col": 1
+    },
+    "5": {
+      "clue": "Vazio, não preenchido",
+      "answer": "VAGO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O Carlos Heitor (1926-2018), do livro \"A Casa do Poeta Trágico\"",
+      "answer": "CONY",
+      "row": 1,
+      "col": 0
+    },
+    "9": {
+      "clue": "Companheira, parceira",
+      "answer": "AMIGA",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Et cetera",
+      "answer": "ETC",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "Figura, ilustração",
+      "answer": "GRAVURA",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Cidade paulista próxima a Jundiaí",
+      "answer": "LOUVEIRA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "(Abrev.) Doutor",
+      "answer": "DR",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Músico baiano, participou ativamente do Tropicalismo",
+      "answer": "TOMZE",
+      "row": 4,
+      "col": 2
+    },
+    "18": {
+      "clue": "Preposição: falta",
+      "answer": "SEM",
+      "row": 4,
+      "col": 8
+    },
+    "19": {
+      "clue": "Banda de rádio",
+      "answer": "FAIXA",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Larga, espaçosa",
+      "answer": "AMPLA",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Abreviatura do mês que antecede maio",
+      "answer": "ABR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Palerma",
+      "answer": "TOLÃO",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Tema para pintores",
+      "answer": "NU",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Vendedor de maçãs, abacaxis e uvas",
+      "answer": "FRUTEIRO",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "A contabilidade de um negociante",
+      "answer": "ESCRITA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Um pouco de... calor",
+      "answer": "LOR",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Estabelecer união ou ligação",
+      "answer": "ALIAR",
+      "row": 9,
+      "col": 1
+    },
+    "33": {
+      "clue": "Móvel para as refeições",
+      "answer": "MESA",
+      "row": 9,
+      "col": 7
+    },
+    "34": {
+      "clue": "Semente de cereais",
+      "answer": "GRÃO",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Santo) Uma cidade paulista da região do ABC",
+      "answer": "ANDRE",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Outro nome do golfinho",
+      "answer": "BOTO",
+      "row": 0,
+      "col": 1
+    },
+    "2": {
+      "clue": "Sugerir",
+      "answer": "INCUTIR",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Disprósio, elemento químico",
+      "answer": "DY",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Órgão do olfato",
+      "answer": "NARIZ",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "Interjeição que indica felicitação",
+      "answer": "VIVA",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "Advocacia Geral da União",
+      "answer": "AGU",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "O músico argentino Carlos (1890-1935), do tango",
+      "answer": "GARDEL",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Um papel usado para embrulhar presentes e alimentos",
+      "answer": "CELOFANE",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Fenômeno que atinge seu pico nas luas cheia e nova",
+      "answer": "MAREALTA",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Sistema criptográfico que consiste em atribuir valores numéricos às letras",
+      "answer": "GEMATRIA",
+      "row": 2,
+      "col": 4
+    },
+    "13": {
+      "clue": "(Esp.) Jogadora que alimenta o ataque",
+      "answer": "ARMADORA",
+      "row": 2,
+      "col": 10
+    },
+    "15": {
+      "clue": "O cantor Bono, do U2",
+      "answer": "VOX",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "(Ingl.) Parte do carro destinada a melhorar a aerodinâmica",
+      "answer": "SPOILER",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "Aproveitar com exagero",
+      "answer": "ABUSAR",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Fernanda Montenegro em relação a Fernanda Torres",
+      "answer": "MÃE",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "Nem esta nem aquela",
+      "answer": "OUTRA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "(Fig.) Sem calor humano",
+      "answer": "FRIO",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "O músico de rock Axl",
+      "answer": "ROSE",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "A família",
+      "answer": "CLÃ",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "Mendelévio, elemento químico",
+      "answer": "MD",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

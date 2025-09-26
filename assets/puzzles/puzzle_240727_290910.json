@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Personagem de histórias de muito sucesso no cinema",
+      "answer": "HULK",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "Conjunto de casebres sem infraestrutura básica",
+      "answer": "FAVELA",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Vazio",
+      "answer": "OCO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Circular",
+      "answer": "GIRAR",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Que indica pressa",
+      "answer": "URGENTE",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "A atriz Arantes",
+      "answer": "BIA",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Sedimento",
+      "answer": "SARRO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "(-Étienne) Cidade francesa da região do Loire, próxima a Lyon",
+      "answer": "SAINT",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Muito grande, descomunal",
+      "answer": "ENORME",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Buraco onde animais se abrigam",
+      "answer": "TOCA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "A que lugar",
+      "answer": "AONDE",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Sal, em inglês",
+      "answer": "SALT",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Todos os genes de um ser vivo",
+      "answer": "GENOMA",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Lâminas que recobrem as pontas dos dedos",
+      "answer": "UNHAS",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Calçado com lâmina metálica na sola",
+      "answer": "PATIM",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "(-vida) Que vive sem preocupações",
+      "answer": "BOA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Diz-se da ação de desgaste das águas sobre alguns solos",
+      "answer": "EROSIVA",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "Colocar em lugar onde não pode ser encontrado",
+      "answer": "SUMIR",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Um dado da carta",
+      "answer": "CEP",
+      "row": 9,
+      "col": 8
+    },
+    "37": {
+      "clue": "Lutar, resistir",
+      "answer": "REAGIR",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Espaço que pode ser de estar",
+      "answer": "SALA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Casa, na Califórnia",
+      "answer": "HOUSE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Do país europeu com Kiev",
+      "answer": "UCRANIANO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Crime contra a boa-fé",
+      "answer": "LOGRO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um carro da Honda",
+      "answer": "FIT",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "Clima",
+      "answer": "ARES",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Volt-ampère, unidade de potência",
+      "answer": "VA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Elemento químico de símbolo Er",
+      "answer": "ERBIO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Ferro esmaltado usado em panelas",
+      "answer": "AGATA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Gênio dos bosques e do subsolo",
+      "answer": "GNOMO",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Lista de falhas e as suas devidas correções, em uma publicação",
+      "answer": "ERRATA",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Que não se pode ingerir (alimento)",
+      "answer": "INCOMIVEL",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "A capital do país europeu com as ilhas de Mykonos e Santorini",
+      "answer": "ATENAS",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Abrev.: engenharia",
+      "answer": "ENG",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Testemunhar",
+      "answer": "DEPOR",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Alcançar posição superior agarrando-se a algo",
+      "answer": "SUBIR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "A capital do Tibete",
+      "answer": "LHASA",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Loja que vende lentes de contato",
+      "answer": "OTICA",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Estado brasileiro da grande Região Norte",
+      "answer": "AMAPA",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Prefixo: metade",
+      "answer": "SEMI",
+      "row": 7,
+      "col": 4
+    },
+    "33": {
+      "clue": "A tendência de quem viu uma cena engraçada",
+      "answer": "RIR",
+      "row": 8,
+      "col": 5
+    },
+    "35": {
+      "clue": "Ulysses Guimarães (1916-1992), político",
+      "answer": "UG",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

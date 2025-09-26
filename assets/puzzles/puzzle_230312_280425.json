@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Baianos) Grupo musical de sucesso nos anos 70 e 80",
+      "answer": "NOVOS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Manifestação externa",
+      "answer": "SINAL",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Ferramenta de cortar madeira, metal, pedra etc.",
+      "answer": "SERRA",
+      "row": 1,
+      "col": 1
+    },
+    "13": {
+      "clue": "Grande camarão de água doce",
+      "answer": "PITU",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Nascida em Rio Branco",
+      "answer": "ACRIANA",
+      "row": 2,
+      "col": 0
+    },
+    "16": {
+      "clue": "Oportunidade reservada a alguém",
+      "answer": "VEZ",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Parte da igreja que vai da entrada até o santuário",
+      "answer": "NAVE",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "O cantor pernambucano Valença",
+      "answer": "ALCEU",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Fita métrica para medição de grandes áreas",
+      "answer": "TRENA",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Dança de origem austríaca, surgida no final do século XVIII",
+      "answer": "VALSA",
+      "row": 4,
+      "col": 6
+    },
+    "24": {
+      "clue": "(Ingl.) Um dispositivo controlador de tempo",
+      "answer": "TIMER",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Tirar da conta corrente",
+      "answer": "SACAR",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Dar pancadas, surra ou tunda",
+      "answer": "SOVAR",
+      "row": 6,
+      "col": 6
+    },
+    "31": {
+      "clue": "No tricolor são três",
+      "answer": "CORES",
+      "row": 7,
+      "col": 1
+    },
+    "33": {
+      "clue": "Carro de aluguel",
+      "answer": "TAXI",
+      "row": 7,
+      "col": 7
+    },
+    "34": {
+      "clue": "(Guevara) Um dos cabeças da revolução cubana",
+      "answer": "CHE",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "Recomendar",
+      "answer": "SUGERIR",
+      "row": 8,
+      "col": 4
+    },
+    "37": {
+      "clue": "Constituinte principal",
+      "answer": "BASE",
+      "row": 9,
+      "col": 0
+    },
+    "39": {
+      "clue": "De nenhuma gravidade intrínseca",
+      "answer": "BANAL",
+      "row": 9,
+      "col": 5
+    },
+    "40": {
+      "clue": "Entorpecente",
+      "answer": "DROGA",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "Qualquer casa de aspecto imponente e majestoso",
+      "answer": "SOLAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Importante prêmio do cinema mundial",
+      "answer": "OSCAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Vivacidade de engenho e de palavra",
+      "answer": "VERVE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Indicar o caminho certo",
+      "answer": "ORIENTAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Abreviatura de senhora",
+      "answer": "SRA",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Inquérito Policial",
+      "answer": "IP",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Padrão, qualidade",
+      "answer": "NIVEL",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Pessoas que não acreditam em Deus",
+      "answer": "ATEUS",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Claridade",
+      "answer": "LUZ",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "A jornalista e apresentadora Paula Padrão",
+      "answer": "ANA",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Primeiro",
+      "answer": "ANTES",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "O Rodrigues (1848-1919), Presidente da República entre 1902-1906",
+      "answer": "ALVES",
+      "row": 2,
+      "col": 6
+    },
+    "19": {
+      "clue": "Pigmento vermelho dos vegetais",
+      "answer": "CAROTENO",
+      "row": 3,
+      "col": 7
+    },
+    "21": {
+      "clue": "(Buenos) A capital argentina",
+      "answer": "AIRES",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "Deslocar aquilo que veda",
+      "answer": "ABRIR",
+      "row": 4,
+      "col": 10
+    },
+    "26": {
+      "clue": "Encontrar coisa perdida",
+      "answer": "ACHAR",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Unido",
+      "answer": "COESO",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "Fio em que se penduram as roupas para secar ao sol",
+      "answer": "VARAL",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "Sovaco",
+      "answer": "AXILA",
+      "row": 6,
+      "col": 9
+    },
+    "32": {
+      "clue": "Prefixo: inferioridade",
+      "answer": "SUB",
+      "row": 7,
+      "col": 5
+    },
+    "34": {
+      "clue": "Confederação Brasileira de Desportos",
+      "answer": "CBD",
+      "row": 8,
+      "col": 0
+    },
+    "36": {
+      "clue": "Pode ser lacrimogêneo",
+      "answer": "GAS",
+      "row": 8,
+      "col": 6
+    },
+    "38": {
+      "clue": "Egberto Gismonti, músico",
+      "answer": "EG",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

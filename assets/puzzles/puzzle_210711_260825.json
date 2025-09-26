@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Intervalo entre dois extremos",
+      "answer": "FAIXA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Orvalho congelado, típico dos dias muito frios",
+      "answer": "GEADA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Na Austrália é egg",
+      "answer": "OVO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Copiar",
+      "answer": "PLAGIAR",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "A diferença entre avio e alívio",
+      "answer": "LI",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Faixa decorativa geralmente horizontal",
+      "answer": "FRISO",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Maurice Ravel (1875-1937), músico francês",
+      "answer": "MR",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Um fertilizante da terra",
+      "answer": "ESTRUME",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Um Lobo das histórias infantis",
+      "answer": "MAU",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "De um povo semita que vivia na antiga Síria (fem.)",
+      "answer": "ARAMAICA",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "(Pop.) Cafona, que tem gosto duvidoso",
+      "answer": "BREGA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Que não é rasa",
+      "answer": "FUNDA",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Assentar tábuas, vigas e caibros",
+      "answer": "MADEIRAR",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Rubídio, elemento químico",
+      "answer": "RB",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Aquele que apóia uma equipe esportiva",
+      "answer": "TORCEDOR",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "No interior de, junto de (fem.)",
+      "answer": "NUMA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Tradicional prato baiano",
+      "answer": "VATAPA",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Pronome pessoal feminino",
+      "answer": "ELA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "A UF PA",
+      "answer": "PARA",
+      "row": 9,
+      "col": 4
+    },
+    "35": {
+      "clue": "Antigo Testamento",
+      "answer": "AT",
+      "row": 9,
+      "col": 9
+    },
+    "36": {
+      "clue": "O Raul (1945-1989), músico de \"Maluco Beleza\"",
+      "answer": "SEIXAS",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Que não é vulgar, comum",
+      "answer": "RARO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Dispositivo apto a produzir um sopro de ar",
+      "answer": "FOLE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Informar",
+      "answer": "AVISAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Instituto Oceanográfico",
+      "answer": "IO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Fig.) Bem-vestido",
+      "answer": "APRUMADO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Reduzir um líquido ao estado aeriforme",
+      "answer": "GASEIFICAR",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "(Alter) Substituto perfeito",
+      "answer": "EGO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Grito de dor ou pesar",
+      "answer": "AI",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Segue o valete e antecede o rei",
+      "answer": "DAMA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O estádio do Santa Cruz, em Recife",
+      "answer": "ARRUDA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "A modelo e apresentadora Fernanda",
+      "answer": "LIMA",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Ave do litoral brasileiro, com mais de 2 m de envergadura, também chamada urubu-do-mar",
+      "answer": "FRAGATA",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "(das Onze) Um sucesso de Adoniran Barbosa",
+      "answer": "TREM",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Um grupo de elefantes",
+      "answer": "MANADA",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Raspar com certo instrumento cirúrgico",
+      "answer": "CURETAR",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Da capital da Suíça",
+      "answer": "BERNES",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "No surfe, iniciar a descida sobre a onda",
+      "answer": "DROPAR",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Coentro, alegrim, orégano etc.",
+      "answer": "ERVAS",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Recipiente para servir café ou chá",
+      "answer": "BULE",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "O animal que pode transmitir a peste bubônica",
+      "answer": "RATO",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "O período entre Abr e Jun",
+      "answer": "MAI",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "Ferramenta para desaterrar",
+      "answer": "PA",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Emitir pequenos brilhos de luz",
+      "answer": "PISCAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O oposto de sorte",
+      "answer": "AZAR",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "O ator Celulari",
+      "answer": "EDSON",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Chamamento, invocação",
+      "answer": "APELO",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "O Borges músico de \"Feira Moderna\"",
+      "answer": "LO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Que inicia ação ofensiva",
+      "answer": "ATACANTE",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Representar o principal papel num filme",
+      "answer": "ESTRELAR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Altemar Dutra (1940-1983), cantor",
+      "answer": "AD",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Os extremos do... Oeste",
+      "answer": "OE",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Alteração brusca e danosa",
+      "answer": "COLAPSO",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Morador do mato",
+      "answer": "CAIPORA",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Tatear",
+      "answer": "APALPAR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Paz) Capital da Bolívia",
+      "answer": "LA",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "(Abrev.) Uma derrota no ringue",
+      "answer": "KO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Um parente que poucos chegam a conhecer",
+      "answer": "TATARAVO",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "Cuidadosamente examinado",
+      "answer": "ESTUDADO",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "A metade de VIII",
+      "answer": "IV",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "Órgão onde cresce o feto",
+      "answer": "UTERO",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "O nitroso é também chamado de gás hilariante",
+      "answer": "OXIDO",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "Fruto semelhante a um sino",
+      "answer": "PERA",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "As diversas iguarias servidas numa refeição",
+      "answer": "PRATOS",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O rei do futebol",
+      "answer": "PELE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O oposto de novo",
+      "answer": "IDOSO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sílvio Santos, apresentador de TV",
+      "answer": "SS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Passar café e água por um filtro para se obter a bebida",
+      "answer": "COAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Prematuro",
+      "answer": "ANTECIPADO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Deter (corpo em movimento)",
+      "answer": "APARAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Pop.) Tranquilo",
+      "answer": "ZEN",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Horas) Programa comandado por Serginho Groisman",
+      "answer": "ALTAS",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Um mamífero como o hamster e o castor",
+      "answer": "ROEDOR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Aquecedor",
+      "answer": "ACALORADOR",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Médico que trata doenças mediante remédios contrários a elas",
+      "answer": "ALOPATA",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Árvore que fornece madeira para construção naval",
+      "answer": "TECA",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "Viseira",
+      "answer": "PALA",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "(Ingl.) Maquiagem",
+      "answer": "MAKEUP",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Ponto elevado",
+      "answer": "ALTURA",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Grande peça fixada na calçada, onde se prende a iluminação pública",
+      "answer": "POSTE",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Ansioso",
+      "answer": "AVIDO",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "Um tom do violeta (fem.)",
+      "answer": "ROXA",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Presentes dados na Páscoa",
+      "answer": "OVOS",
+      "row": 7,
+      "col": 10
+    },
+    "33": {
+      "clue": "Estar de posse de",
+      "answer": "TER",
+      "row": 8,
+      "col": 2
+    },
+    "37": {
+      "clue": "Atração pessoal",
+      "answer": "IT",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

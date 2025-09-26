@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Fornecer, prover",
+      "answer": "MUNIR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Serpente mitológica",
+      "answer": "HIDRA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Nauseado",
+      "answer": "ENOJADO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Um imposto",
+      "answer": "IOF",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Símbolo de megahertz",
+      "answer": "MHZ",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Peça onde se aloja a ponta do eixo girante de uma máquina",
+      "answer": "MANCAL",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "A sigla do estado de Valença e Ilhéus",
+      "answer": "BA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Animal escamado que se enrola em forma de bola",
+      "answer": "PANGOLIM",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Conjunto de bois",
+      "answer": "GADO",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Parte ou quantidade de um todo",
+      "answer": "PEÇA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Advertência",
+      "answer": "AVISO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Famosa marca de chocolate",
+      "answer": "BATON",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Em + um (pl.)",
+      "answer": "NUNS",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Canção popular de Portugal",
+      "answer": "FADO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Goma usada como espessante em sorvetes",
+      "answer": "ALCATIRA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "A abreviatura da região com MS e MT",
+      "answer": "CO",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "(Pop.) Segurar, pegar",
+      "answer": "GARRAR",
+      "row": 8,
+      "col": 1
+    },
+    "30": {
+      "clue": "Direito",
+      "answer": "JUS",
+      "row": 8,
+      "col": 8
+    },
+    "31": {
+      "clue": "(Francisco) A cidade dos EUA com a Golden Gate",
+      "answer": "SAN",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Cidade mineira próxima a Pouso Alegre",
+      "answer": "ITAJUBA",
+      "row": 9,
+      "col": 4
+    },
+    "34": {
+      "clue": "Oleoso",
+      "answer": "GRAXO",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Relativo ao Sol",
+      "answer": "SOLAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Qualquer película ou tecido fino",
+      "answer": "MEMBRANA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O foco da manicure",
+      "answer": "UNHA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Fruto seco",
+      "answer": "NOZ",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O que diferencia a bota da botija",
+      "answer": "IJ",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Frondoso",
+      "answer": "RAMADO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Kong) Território autônomo da China",
+      "answer": "HONG",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Linguagem regional",
+      "answer": "DIALETO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Cilíndrico",
+      "answer": "ROLIÇO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Air France",
+      "answer": "AF",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Estrago",
+      "answer": "DANO",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Ramagem superior de árvore",
+      "answer": "COPADA",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Usar o ferro quente nas roupas",
+      "answer": "PASSAR",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Chorar sem motivo",
+      "answer": "MANHOSAR",
+      "row": 3,
+      "col": 10
+    },
+    "19": {
+      "clue": "Disputa cultural com problemas extravagantes e bizarros",
+      "answer": "GINCANA",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Popular",
+      "answer": "VULGAR",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Cidade do Piauí, na região do Baixo Parnaíba",
+      "answer": "BARRAS",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "A fábrica do Uno",
+      "answer": "FIAT",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "(Virgulino) Famoso grupo de forró",
+      "answer": "TRIO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Recipiente de louça da cozinha e do banheiro",
+      "answer": "CUBA",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Julho",
+      "answer": "JUL",
+      "row": 8,
+      "col": 8
+    },
+    "31": {
+      "clue": "Síndrome Gripal",
+      "answer": "SG",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "O cômico carioca Soares",
+      "answer": "JO",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

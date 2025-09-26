@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Importante cidade espanhola, na região da Andaluzia",
+      "answer": "MALAGA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Pequena ulceração bucal",
+      "answer": "AFTA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Aquele que tem gordura supérflua a eliminar",
+      "answer": "OBESO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Acompanhar alguém para mostrar-lhe o caminho",
+      "answer": "GUIAR",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "As regras escritas por uma autoridade soberana",
+      "answer": "LEIS",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Grupo alegre de amigos",
+      "answer": "PATOTA",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Divisão de um trabalho escrito",
+      "answer": "ARTICULO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Conjunção que exprime ideias alternadas",
+      "answer": "OU",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Pessoa física ou jurídica que adquire empréstimo financeiro",
+      "answer": "TOMADORA",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Casa de moradia",
+      "answer": "LAR",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Os oito dígitos que indicam um endereço postal",
+      "answer": "CEP",
+      "row": 5,
+      "col": 4
+    },
+    "21": {
+      "clue": "Dupla de executantes",
+      "answer": "DUO",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Fiador",
+      "answer": "ABONADOR",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Abreviatura de ultravioleta",
+      "answer": "UV",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Que pode se recolher na direção do próprio corpo",
+      "answer": "RETRATIL",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Instrumento musical de sopro",
+      "answer": "FAGOTE",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Elemento de composição: cão",
+      "answer": "CANI",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "A menina que visita o \"país das maravilhas\"",
+      "answer": "ALICE",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "O quadrado tem quatro",
+      "answer": "LADOS",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "A peça onde o cavaleiro se senta",
+      "answer": "SELA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Canto para adormecer crianças",
+      "answer": "ARROLO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Peça metálica, espiralada, que pode ser distendida ou comprimida",
+      "answer": "MOLA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O contrário de fechada",
+      "answer": "ABERTA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Uma cliente da livraria",
+      "answer": "LEITORA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Deste modo, portanto",
+      "answer": "ASSIM",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Sigla do estado com o DF",
+      "answer": "GO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Machado de Assis em relação a \"Dom Casmurro\"",
+      "answer": "AUTOR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O Maravilha foi um famoso atacante do futebol",
+      "answer": "FIO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Procedimento cauteloso",
+      "answer": "TATO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A atriz Taís",
+      "answer": "ARAUJO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Andar muito depressa",
+      "answer": "GALOPAR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Que se envergonha",
+      "answer": "PUDENTE",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Tique",
+      "answer": "CACOETE",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Aceito legalmente como filho",
+      "answer": "ADOTADO",
+      "row": 4,
+      "col": 8
+    },
+    "19": {
+      "clue": "Nada, coisa nenhuma",
+      "answer": "LHUFAS",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Vaso da noite",
+      "answer": "URINOL",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "A peça que, acoplada à furadeira, faz furos para parafusos",
+      "answer": "BROCA",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "A capital do Senegal, país africano com importante porto no Atlântico",
+      "answer": "DACAR",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Depressão entre montanhas",
+      "answer": "VALE",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Que não tem asperezas",
+      "answer": "LISO",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "O músico baiano Gilberto",
+      "answer": "GIL",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "Lupicínio Rodrigues, cantor",
+      "answer": "LR",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

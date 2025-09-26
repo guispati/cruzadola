@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Planta gramínea muito usada na cobertura de quiosques",
+      "answer": "SAPE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Sair, retirar-se de",
+      "answer": "DEIXAR",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "(Interj.) Para diante!",
+      "answer": "AVANTE",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "A garrafa do boliche",
+      "answer": "PINO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Ponto de bordado",
+      "answer": "FESTONE",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "O ponto cardeal S",
+      "answer": "SUL",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Versus",
+      "answer": "CONTRA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Victor Hugo (1802-1885), autor de \"Os Miseráveis\"",
+      "answer": "VH",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Contribuição financeira para determinado fim",
+      "answer": "APORTE",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Horrorosa",
+      "answer": "FEIA",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Roedor muito comum nas cidades",
+      "answer": "RATO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Slogan",
+      "answer": "LEMA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Um doce",
+      "answer": "BALA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "O oposto de venda",
+      "answer": "COMPRA",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Estado Islâmico",
+      "answer": "EI",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Lutar, resistir",
+      "answer": "REAGIR",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "Boteco",
+      "answer": "BAR",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Um tecido para limpeza de pó",
+      "answer": "FLANELA",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "Um exame classificatório para faculdades",
+      "answer": "ENEM",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Retirar areia ou lama de rio",
+      "answer": "DRAGAR",
+      "row": 9,
+      "col": 5
+    },
+    "38": {
+      "clue": "Uma roupa para uso caseiro",
+      "answer": "ROUPÃO",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Vermelho-claro",
+      "answer": "ROSA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Colheita",
+      "answer": "SAFRA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um animal como o petrel ou o albatroz",
+      "answer": "AVE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O monte avistado por Pedro Álvares Cabral",
+      "answer": "PASCOAL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Sair do eixo",
+      "answer": "ENTORTAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Pode ser incisivo ou molar",
+      "answer": "DENTE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Internet Protocol, o endereço de um PC na net",
+      "answer": "IP",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "X",
+      "answer": "XIS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Cobrir de nuvens",
+      "answer": "ANUVIAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Um objeto para tapar a garrafa de vinho",
+      "answer": "ROLHA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Que está zonzo, atordoado",
+      "answer": "TONTO",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "A desinência verbal de ferver e comer",
+      "answer": "ER",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Perder a masculinidade",
+      "answer": "AFEMINAR",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Habitante do litoral",
+      "answer": "PRAIANO",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Ocupação em serviço público ou privado",
+      "answer": "EMPREGO",
+      "row": 4,
+      "col": 8
+    },
+    "24": {
+      "clue": "(Inform.) Acessar, com dados pessoais, um programa, um site etc.",
+      "answer": "LOGAR",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Engolir um líquido qualquer",
+      "answer": "BEBER",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Suco que se extrai de frutos",
+      "answer": "CALDO",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Armação onde se penduram roupas em lojas",
+      "answer": "ARARA",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Separam o D do G",
+      "answer": "EF",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Homem que pode ser condenado pela justiça",
+      "answer": "REU",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "(Vegas) A cidade da jogatina, nos EUA",
+      "answer": "LAS",
+      "row": 8,
+      "col": 9
+    },
+    "36": {
+      "clue": "Marília Pêra (1943-2015), atriz",
+      "answer": "MP",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

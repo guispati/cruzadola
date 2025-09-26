@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Tipo de papel enrugado",
+      "answer": "CREPOM",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "(Bíbl.) A embarcação construída por Noé",
+      "answer": "ARCA",
+      "row": 0,
+      "col": 7
+    },
+    "11": {
+      "clue": "Marca de produtos de higiene pessoal",
+      "answer": "REXONA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Os satélites de Saturno e Júpiter",
+      "answer": "LUAS",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "3ª pessoa do plural (fem.)",
+      "answer": "ELAS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Enxurrada",
+      "answer": "RAVINA",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Prender para investigação",
+      "answer": "DETER",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Felídeo carnívoro, de pelagem marrom clara",
+      "answer": "PUMA",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Sigla inglesa de uma grande potência",
+      "answer": "USA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Fluido usado como solvente e antisséptico",
+      "answer": "ETER",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "A 6ª nota da escala musical",
+      "answer": "LA",
+      "row": 4,
+      "col": 9
+    },
+    "24": {
+      "clue": "Uma publicação que sai a cada 7 dias",
+      "answer": "SEMANAL",
+      "row": 5,
+      "col": 2
+    },
+    "27": {
+      "clue": "Ordem de Pagamento",
+      "answer": "OP",
+      "row": 6,
+      "col": 0
+    },
+    "29": {
+      "clue": "No tênis, a parte que pisa o chão",
+      "answer": "SOLA",
+      "row": 6,
+      "col": 3
+    },
+    "30": {
+      "clue": "Abril reduzido",
+      "answer": "ABR",
+      "row": 6,
+      "col": 8
+    },
+    "32": {
+      "clue": "Um barco de luxo",
+      "answer": "IATE",
+      "row": 7,
+      "col": 1
+    },
+    "34": {
+      "clue": "Espada curta",
+      "answer": "SABRE",
+      "row": 7,
+      "col": 6
+    },
+    "36": {
+      "clue": "(Pop.) Grupo de amigos",
+      "answer": "GALERA",
+      "row": 8,
+      "col": 0
+    },
+    "38": {
+      "clue": "Cursos d'água como o Doce e o Paraná",
+      "answer": "RIOS",
+      "row": 8,
+      "col": 7
+    },
+    "39": {
+      "clue": "Veste usada para cobrir as mãos",
+      "answer": "LUVA",
+      "row": 9,
+      "col": 0
+    },
+    "40": {
+      "clue": "A palha acompanha o estrogonofe",
+      "answer": "BATATA",
+      "row": 9,
+      "col": 5
+    },
+    "42": {
+      "clue": "Derrota, fracasso",
+      "answer": "PIOR",
+      "row": 10,
+      "col": 0
+    },
+    "43": {
+      "clue": "Fazer súplicas a",
+      "answer": "APELAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Que tem como verdadeiro com excessiva facilidade",
+      "answer": "CREDULO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "De pouco ou nenhum valor",
+      "answer": "RELES",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Certas, corretas",
+      "answer": "EXATAS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Falta de naturalidade, de espontaneidade",
+      "answer": "POSE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Oscar Niemeyer (1907-2012), arquiteto",
+      "answer": "ON",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Uma extensão de água salgada como o Morto ou o Egeu",
+      "answer": "MAR",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Candura, pureza",
+      "answer": "ALVURA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Insatisfatório, desagradável",
+      "answer": "RUIM",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Faixa de frequência para emissoras de TV",
+      "answer": "CANAL",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Cada uma das superfícies planas que sustentam o avião",
+      "answer": "ASA",
+      "row": 0,
+      "col": 10
+    },
+    "15": {
+      "clue": "Somente",
+      "answer": "APENAS",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Pensar e repensar sobre algo",
+      "answer": "REMOER",
+      "row": 3,
+      "col": 4
+    },
+    "21": {
+      "clue": "(Pop.) Pessoa que se julga ser a mais importante entre as outras",
+      "answer": "TAL",
+      "row": 4,
+      "col": 5
+    },
+    "23": {
+      "clue": "Capturar",
+      "answer": "APRESAR",
+      "row": 4,
+      "col": 10
+    },
+    "25": {
+      "clue": "Escorar, sustentar",
+      "answer": "ESTEAR",
+      "row": 5,
+      "col": 3
+    },
+    "26": {
+      "clue": "Do contorno da boca",
+      "answer": "LABIAL",
+      "row": 5,
+      "col": 8
+    },
+    "28": {
+      "clue": "O terceiro maior estado do Nordeste",
+      "answer": "PIAUI",
+      "row": 6,
+      "col": 1
+    },
+    "31": {
+      "clue": "Nascente",
+      "answer": "BROTA",
+      "row": 6,
+      "col": 9
+    },
+    "33": {
+      "clue": "(Fig.) Pessoa a que o pensamento ou a ação é dirigida",
+      "answer": "ALVO",
+      "row": 7,
+      "col": 2
+    },
+    "35": {
+      "clue": "Pintura ou cinema",
+      "answer": "ARTE",
+      "row": 7,
+      "col": 7
+    },
+    "36": {
+      "clue": "Gás de cozinha",
+      "answer": "GLP",
+      "row": 8,
+      "col": 0
+    },
+    "37": {
+      "clue": "Saliência de telhado",
+      "answer": "ABA",
+      "row": 8,
+      "col": 5
+    },
+    "41": {
+      "clue": "A sigla do estado brasileiro que faz divisa somente com o Pará",
+      "answer": "AP",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Grande felino, elegante e esguio, muito veloz",
+      "answer": "CHITA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Os originários já habitavam o Brasil antes da chegada dos europeus",
+      "answer": "POVOS",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Indivíduo de um povo bárbaro da Ásia central",
+      "answer": "HUNO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Papai da mamãe",
+      "answer": "VOVO",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Glândula situada na raiz da língua",
+      "answer": "AMIGDALA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Roberto Rossellini (1906-1977), cineasta italiano de \"Roma, Cidade Aberta\"",
+      "answer": "RR",
+      "row": 2,
+      "col": 9
+    },
+    "14": {
+      "clue": "(Pop.) Narração curta, curiosa, de um acontecimento real",
+      "answer": "CAUSO",
+      "row": 3,
+      "col": 2
+    },
+    "15": {
+      "clue": "Abrev.: Federal",
+      "answer": "FED",
+      "row": 3,
+      "col": 8
+    },
+    "16": {
+      "clue": "Interjeição de surpresa, espanto",
+      "answer": "UAI",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "(Pop.) Mulher fútil e ociosa",
+      "answer": "DONDOCA",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Pé-de-pato",
+      "answer": "NADADEIRA",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Palavra que indica ao leitor outro trecho do livro",
+      "answer": "VIDE",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "A UF de Colatina e Cariacica",
+      "answer": "ES",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "Evita bebês",
+      "answer": "DIU",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Distribuir fartamente",
+      "answer": "ALASTRAR",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Radônio, elemento químico",
+      "answer": "RN",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Um apelido para Gisele",
+      "answer": "GI",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Uruguai, Libéria e Laos",
+      "answer": "PAISES",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Árvore brasileira de madeira muito apreciada",
+      "answer": "ANGICO",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Um tipo de sofá",
+      "answer": "DIVÃ",
+      "row": 9,
+      "col": 7
+    },
+    "37": {
+      "clue": "O novelista César Muniz",
+      "answer": "LAURO",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Aplicação de tinta sobre uma superfície",
+      "answer": "DEMÃO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Estouro chocho e imprevisto de foguete malfeito",
+      "answer": "CHABU",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Exclamação que expressa incerteza e incredulidade",
+      "answer": "HUM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Novata",
+      "answer": "INICIADA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Roupa de advogado",
+      "answer": "TOGA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Mulheres nascidas em Varsóvia ou Cracóvia",
+      "answer": "POLONESAS",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "(Uma) Coisíssima nenhuma",
+      "answer": "OVA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Farm.) Via oral",
+      "answer": "VO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Peixe do Atlântico, também chamado serra",
+      "answer": "SARDA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "(Náut.) Nome dado ao leito de um curso d'água",
+      "answer": "VASODERIO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "A Beat cantora pernambucana",
+      "answer": "DUDA",
+      "row": 2,
+      "col": 4
+    },
+    "13": {
+      "clue": "Pesar (falando de culpas ou responsabilidades)",
+      "answer": "RECAIR",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "O industrial Henry (1863-1947), dos carros",
+      "answer": "FORD",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Matéria-prima usada na indústria dos corantes artificiais",
+      "answer": "ANILINA",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "(Cavalcanti) Pintor modernista carioca (1897-1976)",
+      "answer": "DI",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Desnudar",
+      "answer": "DESPIR",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "(Gír.) Pessoa sem ocupação, que leva a vida no ócio",
+      "answer": "VAGAL",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Associação, junção",
+      "answer": "UNIÃO",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Peça fundamental na sinuca",
+      "answer": "TACO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "O objeto que divide a quadra de tênis em duas partes iguais",
+      "answer": "REDE",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Resposta afirmativa",
+      "answer": "SIM",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Um apelido pra Augusto",
+      "answer": "GU",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Inútil (fem.)",
+      "answer": "VÃ",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

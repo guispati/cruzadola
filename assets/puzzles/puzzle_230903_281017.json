@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Daquelas mulheres",
+      "answer": "DELAS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Oral",
+      "answer": "BUCAL",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Daquele homem",
+      "answer": "DELE",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Cereal usado para fazer mingau",
+      "answer": "AVEIA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "A poetisa chilena Gabriela (1889-1957), Nobel de Literatura",
+      "answer": "MISTRAL",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Tensão Pré-Menstrual",
+      "answer": "TPM",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "(Econ.) Cada uma das partes em que está dividido o capital de uma sociedade anônima",
+      "answer": "AÇÃO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Mulher que tem autoridade em relação a seus empregados",
+      "answer": "PATROA",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "A constelação da grande estrela Sírio",
+      "answer": "CÃO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Sulco que conduz água",
+      "answer": "VALÃO",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "As vogais de bravo",
+      "answer": "AO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Tarefa noturna realizada depois do período normal de trabalho",
+      "answer": "SERÃO",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Polícia Federal",
+      "answer": "PF",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "O ar atmosférico em movimento natural",
+      "answer": "VENTO",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Precede tetra ou quadri",
+      "answer": "TRI",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Concluída, terminada",
+      "answer": "PRONTA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "O apresentador e repórter Pedro",
+      "answer": "BIAL",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Substância abundante nas águas marinhas",
+      "answer": "SAL",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "O lado direito de uma carta geográfica",
+      "answer": "ORIENTE",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Artigos",
+      "answer": "ITENS",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Um tipo de tinta para pintura",
+      "answer": "OLEO",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "As vogais do alfabeto lidas de trás para frente",
+      "answer": "UOIEA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "História inventada para enganar outras pessoas",
+      "answer": "FARSA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Publicação",
+      "answer": "EDIÇÃO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Contusão",
+      "answer": "LESÃO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "De grande extensão vertical",
+      "answer": "ALTO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O que é ou existe",
+      "answer": "SER",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Certa brincadeira infantil",
+      "answer": "BALALÃO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Ultravioleta",
+      "answer": "UV",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Bastão de apoio usado outrora pelos reis e generais",
+      "answer": "CETRO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Planta picante, usada como condimento",
+      "answer": "AIPO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "(Dalai-) Um budista tibetano",
+      "answer": "LAMA",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Cama para transportar feridos",
+      "answer": "MACA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Separar a briga",
+      "answer": "APARTAR",
+      "row": 2,
+      "col": 5
+    },
+    "18": {
+      "clue": "Em tal quantidade",
+      "answer": "TÃO",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Órgão de fixação de certos animais, como o polvo",
+      "answer": "VENTOSA",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "(Abrev.) Senador",
+      "answer": "SEN",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Podem ser fundos, rasos e de sobremesa",
+      "answer": "PRATOS",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Qualquer fatia fina de carne",
+      "answer": "FILE",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Modalidade com 12 jogadores em quadra",
+      "answer": "VOLEI",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Solvente que se adiciona a uma tinta para torná-la menos viscosa",
+      "answer": "TINER",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Um pedido de silêncio",
+      "answer": "PSIU",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Um animal como Níquel Náusea, dos quadrinhos",
+      "answer": "RATO",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Graciosa",
+      "answer": "BELA",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Imposto sobre Operações Financeiras",
+      "answer": "IOF",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "(Abrev.) Ponto do horizonte intermediário entre o Norte e o Leste",
+      "answer": "NE",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

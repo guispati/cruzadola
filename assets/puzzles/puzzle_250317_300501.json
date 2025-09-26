@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Famoso técnico do futebol brasileiro",
+      "answer": "TITE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Tabela",
+      "answer": "TARIFA",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Planta ornamental de pequenas folhas",
+      "answer": "AVENCA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "O músico clássico francês Satie (1866-1925)",
+      "answer": "ERIK",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "(Capitania dos) Instituições controladas pela Marinha do Brasil",
+      "answer": "PORTOS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O músico Paul (1915-2009), criador da guitarra elétrica",
+      "answer": "LES",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Instituto Nacional de Meteorologia",
+      "answer": "INMET",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Substância usada para revestir ruas e estradas",
+      "answer": "PICHE",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Aquilo que existe efetivamente",
+      "answer": "REALIDADE",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Líquido segregado pelas glândulas da boca",
+      "answer": "SALIVA",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "Delirium Tremens",
+      "answer": "DT",
+      "row": 5,
+      "col": 9
+    },
+    "22": {
+      "clue": "Diane Keaton, atriz de \"Tudo em Família\"",
+      "answer": "DK",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Modalidade praticada em raias",
+      "answer": "REMO",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Uma característica como o azul",
+      "answer": "COR",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Cabeça de gado",
+      "answer": "RES",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Locução que significa fugir",
+      "answer": "DARNOPE",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Animais criados por sua lã",
+      "answer": "OVINOS",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Arco-) Um conjunto de cores no céu",
+      "answer": "IRIS",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Serpente com até 8,5 m de comprimento",
+      "answer": "PITON",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "O artista e ativista ecológico Krajcberg (1921-2017)",
+      "answer": "FRANS",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Um aparelho usado na produção de vinhos",
+      "answer": "ENOTERMO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "G",
+      "answer": "GE",
+      "row": 10,
+      "col": 9
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Outro nome da anta",
+      "answer": "TAPIR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A sambista Lara (1921-2018), de \"Acreditar\"",
+      "answer": "IVONE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Fontes de águas usadas como terapia",
+      "answer": "TERMAS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Reforçar uma estampa colando-a sobre tecido fino",
+      "answer": "ENTELAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O apresentador de TV Marcelo",
+      "answer": "TAS",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O ato de ler novamente",
+      "answer": "RELIDA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Cidade baiana, na Chapada Diamantina",
+      "answer": "IRECE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Peixe, em inglês",
+      "answer": "FISH",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Andreas Kisser, roqueiro, ex-\"Sepultura\"",
+      "answer": "AK",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Bot.) Parte da semente que envolve o embrião de um vegetal",
+      "answer": "COTILEDONE",
+      "row": 1,
+      "col": 4
+    },
+    "16": {
+      "clue": "Medo angustioso",
+      "answer": "PAVOR",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "O desgaste causado pela inquietação da vida moderna",
+      "answer": "ESTRESSE",
+      "row": 3,
+      "col": 10
+    },
+    "19": {
+      "clue": "O \"bom ladrão\", crucificado à direita de Cristo",
+      "answer": "DIMAS",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Uso de drogas para estimular o desempenho esportivo",
+      "answer": "DOPING",
+      "row": 5,
+      "col": 9
+    },
+    "22": {
+      "clue": "Bala em forma de disco, cubo etc.",
+      "answer": "DROPE",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "O ator Costner, Oscar de 1991",
+      "answer": "KEVIN",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Branqueamento de roupa",
+      "answer": "CORA",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Localizado",
+      "answer": "SITO",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "(Robert de) Ator de \"Um Senhor Estagiário\"",
+      "answer": "NIRO",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Um não em inglês",
+      "answer": "NOT",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Férmio, elemento químico",
+      "answer": "FM",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

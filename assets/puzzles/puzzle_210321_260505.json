@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Empurrada para a frente",
+      "answer": "IMPELIDA",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Cate Blanchett, atriz de \"O Aviador\"",
+      "answer": "CB",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Relativo ao rei",
+      "answer": "REAL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Atleta do vôlei que é especialista em defesa",
+      "answer": "LIBERO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "A junção da parte superior da coxa com o abdome",
+      "answer": "VIRILHA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Testemunhar, assistir",
+      "answer": "VER",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Isabel Allende, escritora chilena",
+      "answer": "IA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Pássaro da família do gaturamo",
+      "answer": "TIE",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Cobertura do motor de um veículo",
+      "answer": "CAPO",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Que reproduz uma situação real",
+      "answer": "SIMULADO",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Lima para desbastar ferro",
+      "answer": "GROSA",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Aquilo que falta ao preguiçoso",
+      "answer": "ANIMO",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Incitar a curiosidade",
+      "answer": "INTRIGAR",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Limitada",
+      "answer": "LTDA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Susbstância usada em produtos cosméticos",
+      "answer": "GEL",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "A sigla do estado onde se comemora o carnaval com muito frevo",
+      "answer": "PE",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Sigla do país que é a maior potência mundial",
+      "answer": "EUA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Raspar com certo instrumento cirúrgico",
+      "answer": "CURETAR",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Suco de cana",
+      "answer": "GARAPA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "A armação de fios da aranha",
+      "answer": "TEIA",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "Terminação dos álcoois",
+      "answer": "OL",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Aquele que emite uma sentença",
+      "answer": "JULGADOR",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O ator baiano São Paulo",
+      "answer": "IRVING",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "1/2 (fem.)",
+      "answer": "MEIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Exatamente divisível por dois",
+      "answer": "PAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Adepto do sistema político que favorece a alta sociedade",
+      "answer": "ELITISTA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Morador de uma ilha",
+      "answer": "ILHEU",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "86.400 segundos",
+      "answer": "DIA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Grupo sanguíneo que é receptor universal",
+      "answer": "AB",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Tipo de papel enrugado",
+      "answer": "CREPOM",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "B, elemento químico",
+      "answer": "BORO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Fugir da prisão",
+      "answer": "EVADIR",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Polir",
+      "answer": "LIMAR",
+      "row": 2,
+      "col": 4
+    },
+    "18": {
+      "clue": "Depressão na borda da pista de boliche",
+      "answer": "CANALETA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Investigar",
+      "answer": "SONDAR",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "O tipo de cerveja mais bebida no mundo",
+      "answer": "LAGER",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Culto religioso",
+      "answer": "RITUAL",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Submeter a intervenção cirúrgica",
+      "answer": "OPERAR",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "=",
+      "answer": "IGUAL",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Famoso brinquedo de peças de encaixe",
+      "answer": "LEGO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Ensacado que é ingrediente da feijoada",
+      "answer": "PAIO",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "(Inform., ingl) Unidade Central de Processamento",
+      "answer": "CPU",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Transferência Eletrônica Disponível",
+      "answer": "TED",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Angelina Jolie, atriz",
+      "answer": "AJ",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

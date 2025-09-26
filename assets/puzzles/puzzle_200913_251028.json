@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Área da casa, anexa à cozinha",
+      "answer": "COPA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Pop.) Aquele que ainda não domina a atividade a que se dedicou",
+      "answer": "AMADOR",
+      "row": 0,
+      "col": 5
+    },
+    "11": {
+      "clue": "Ira contida",
+      "answer": "ODIO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Parte essencial em objeto de corte",
+      "answer": "LAMINA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Um sólido geométrico",
+      "answer": "CONE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Trepadeira amazônica, de raiz com propriedades medicinais",
+      "answer": "GUAPUI",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Uma rede nacional de televisão",
+      "answer": "CNT",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Cheio de muso nasal",
+      "answer": "MONCOSO",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Cidade goiana da região de Anápolis",
+      "answer": "ITABERAI",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "(Pop.) Reprodução, cópia",
+      "answer": "XEROX",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Língua oficial da igreja católica romana",
+      "answer": "LATIM",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Molusco marinho de costões rochosos",
+      "answer": "LITORINA",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Informação sobre fatos recentes",
+      "answer": "NOTICIA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "O Boone cantor",
+      "answer": "PAT",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Fazer algo como não era feito antes",
+      "answer": "INOVAR",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Base de montanha",
+      "answer": "SOPE",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Mulher de um povo nômade",
+      "answer": "CIGANA",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Camarão de água doce",
+      "answer": "PITU",
+      "row": 9,
+      "col": 7
+    },
+    "34": {
+      "clue": "Gravar, registrar",
+      "answer": "EXARAR",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Pop.) Grande desordem",
+      "answer": "CAOS",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um osso da parte inferior da coluna vertebral",
+      "answer": "COCCIX",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Elemento de composição: dente",
+      "answer": "ODONTE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Aplicar rimel, batom etc. em",
+      "answer": "PINTAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "As vogais de calote",
+      "answer": "AOE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Intensa sensação de frio",
+      "answer": "ALGOR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Grande vulcão havaiano, um dos maiores da Terra",
+      "answer": "MAUNALOA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Tornar suave (roupas)",
+      "answer": "AMACIAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Departamento de Inquéritos Policiais",
+      "answer": "DIPO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Encargo, obrigação",
+      "answer": "ONUS",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Faísca elétrica que prenuncia tempestade",
+      "answer": "RAIO",
+      "row": 0,
+      "col": 10
+    },
+    "16": {
+      "clue": "Nascida em Acapulco ou Guadalajara",
+      "answer": "MEXICANA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "A unidade monetária da Venezuela",
+      "answer": "BOLIVAR",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Armação para sustentar o braço doente",
+      "answer": "TIPOIA",
+      "row": 5,
+      "col": 8
+    },
+    "22": {
+      "clue": "Que não tem capacidade",
+      "answer": "INAPTO",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "O parceiro de Jorge na dupla sertaneja",
+      "answer": "MATEUS",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Auferir, obter",
+      "answer": "TIRAR",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Uma cidade da Côte-d'Azur, no Mediterrâneo",
+      "answer": "NICE",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Uma carro da Chevrolet",
+      "answer": "ONIX",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "A túnica usada pelo advogado",
+      "answer": "TOGA",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "Serviço de Proteção ao Crédito",
+      "answer": "SPC",
+      "row": 8,
+      "col": 7
+    }
+  }
+}

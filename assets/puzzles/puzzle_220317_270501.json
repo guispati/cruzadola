@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "(dos Goytacazes) Cidade do RJ, no norte do estado",
+      "answer": "CAMPOS",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Um fruto rico em vitamina C",
+      "answer": "CAJU",
+      "row": 0,
+      "col": 7
+    },
+    "11": {
+      "clue": "Um oposto de adversários",
+      "answer": "ALIADOS",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Precede Leñas, na estação de esqui argentina",
+      "answer": "LAS",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Chegar de lugar afastado",
+      "answer": "VIR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "A península de Portugal, Espanha e Andorra",
+      "answer": "IBERICA",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "Advertência",
+      "answer": "AVISO",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Arrendar",
+      "answer": "LOCAR",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "Um tipo de laranja agridoce",
+      "answer": "LIMA",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Não resistir mais",
+      "answer": "CEDER",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "As vogais de dentro",
+      "answer": "EO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "A cantora e apresentadora Gil",
+      "answer": "PRETA",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "(Interj.) Um chamamento",
+      "answer": "EI",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Cumprimentado",
+      "answer": "SAUDADO",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "Publicar, divulgar",
+      "answer": "EMITIR",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "A marca italiana de carros Romeo",
+      "answer": "ALFA",
+      "row": 7,
+      "col": 7
+    },
+    "33": {
+      "clue": "Um analgésico muito consumido",
+      "answer": "ANADOR",
+      "row": 8,
+      "col": 1
+    },
+    "35": {
+      "clue": "Exclamação de incerteza ou indiferença",
+      "answer": "HUM",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "Ligado",
+      "answer": "ATADO",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Velhinha",
+      "answer": "IDOSA",
+      "row": 9,
+      "col": 6
+    },
+    "39": {
+      "clue": "O objeto que deve ser encestado no basquete",
+      "answer": "BOLA",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Revolver a terra com o focinho",
+      "answer": "FOSSAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Tripé usado por pintores",
+      "answer": "CAVALETE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Estado de quem se livra de qualquer forma de opressão",
+      "answer": "ALIVIO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O antônimo de guaçu",
+      "answer": "MIRIM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Cada braço de uma hélice",
+      "answer": "PA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O sentimento oposto ao amor",
+      "answer": "ODIO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Durante o governo de",
+      "answer": "SOB",
+      "row": 0,
+      "col": 5
+    },
+    "8": {
+      "clue": "Uma personagem de histórias infantis",
+      "answer": "ALICE",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "No jogo de bicho, o grupo 15",
+      "answer": "JACARE",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Trajar",
+      "answer": "USAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "De primeira qualidade (fem.)",
+      "answer": "SELETA",
+      "row": 1,
+      "col": 6
+    },
+    "16": {
+      "clue": "Cada grupo de jogos de um campeonato",
+      "answer": "RODADA",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "Golpe dado com um calçado",
+      "answer": "SAPATADA",
+      "row": 3,
+      "col": 3
+    },
+    "21": {
+      "clue": "Árvore cultivada pela boa madeira",
+      "answer": "CEDRO",
+      "row": 4,
+      "col": 5
+    },
+    "24": {
+      "clue": "Som sem harmonia",
+      "answer": "RUIDO",
+      "row": 5,
+      "col": 4
+    },
+    "26": {
+      "clue": "O Franco (1930-2011) presidente da República",
+      "answer": "ITAMAR",
+      "row": 5,
+      "col": 10
+    },
+    "27": {
+      "clue": "(Por) A propósito",
+      "answer": "SINAL",
+      "row": 6,
+      "col": 2
+    },
+    "28": {
+      "clue": "Um significado para o sinal : num emoticon",
+      "answer": "OLHOS",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "O M da UF MT",
+      "answer": "MATO",
+      "row": 7,
+      "col": 1
+    },
+    "32": {
+      "clue": "Sinal musical igual à metade da semicolcheia",
+      "answer": "FUSA",
+      "row": 7,
+      "col": 9
+    },
+    "34": {
+      "clue": "Um curso de água como o Araguaia",
+      "answer": "RIO",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "Um dos quatro grupos sanguíneos",
+      "answer": "AB",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Dedé Santana, humorista",
+      "answer": "DS",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

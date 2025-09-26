@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Do menor país africano, que tem Banjul como capital",
+      "answer": "GAMBIANO",
+      "row": 0,
+      "col": 1
+    },
+    "8": {
+      "clue": "Uma das cores do semáforo",
+      "answer": "VERDE",
+      "row": 1,
+      "col": 0
+    },
+    "9": {
+      "clue": "Gelo que cai do céu",
+      "answer": "NEVE",
+      "row": 1,
+      "col": 6
+    },
+    "11": {
+      "clue": "O dedo mínimo",
+      "answer": "MINDIM",
+      "row": 2,
+      "col": 2
+    },
+    "13": {
+      "clue": "O símbolo químico do neodímio",
+      "answer": "ND",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Agência Nacional de Águas",
+      "answer": "ANA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "O contrário de com",
+      "answer": "SEM",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "(Esp.) Exclamação de incentivo para uma jogada correta",
+      "answer": "BOA",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Uma brincadeira infantil de canto e dança",
+      "answer": "RODA",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Fruto de casca fina, marrom, polpa doce e sementes pretas",
+      "answer": "SAPOTI",
+      "row": 4,
+      "col": 5
+    },
+    "23": {
+      "clue": "Agremiação de motociclistas",
+      "answer": "MOTOCLUBE",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Fundo do navio",
+      "answer": "CARENA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Pop.) Porcaria, coisa ruim",
+      "answer": "CACA",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Nenhuma das Alternativas",
+      "answer": "NDA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Prefixo de separação, negação",
+      "answer": "DIS",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Uma forma de abreviar o nome do mês 1",
+      "answer": "JAN",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Crise sem consoantes",
+      "answer": "IE",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Tip.) Pequeno traço que remata pontos terminais de algumas letras",
+      "answer": "SERIFA",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Prato que pode ser acompanhado de torradas",
+      "answer": "SOPA",
+      "row": 9,
+      "col": 1
+    },
+    "37": {
+      "clue": "Aborrecimento profundo",
+      "answer": "TEDIO",
+      "row": 9,
+      "col": 6
+    },
+    "39": {
+      "clue": "Bater com força e insistência",
+      "answer": "MARTELAR",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "General Eletric",
+      "answer": "GE",
+      "row": 0,
+      "col": 1
+    },
+    "2": {
+      "clue": "Jogadora cuja função é alimentar o ataque",
+      "answer": "ARMADORA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "1.501, em algarismos romanos",
+      "answer": "MDI",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "O que compõe um patrimônio",
+      "answer": "BENS",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Um ser como um boi ou um sapo",
+      "answer": "ANIMAL",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Palavra que enlaça vocábulos ou frases expressando negação",
+      "answer": "NEM",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Ordem Verbal",
+      "answer": "OV",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Mover-se no ar por meio de asas",
+      "answer": "VOAR",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Coleção de garrafas de vinho",
+      "answer": "ENOTECA",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Deixar pender",
+      "answer": "DESCAIR",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Contração de preposição e advérbio de lugar",
+      "answer": "DAI",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Errantes, vagamundos",
+      "answer": "NOMADES",
+      "row": 3,
+      "col": 1
+    },
+    "18": {
+      "clue": "Ato impensado e inconveniente",
+      "answer": "BOBAJADA",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Sem exceção de",
+      "answer": "ATE",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Sigla de uma importante universidade brasileira",
+      "answer": "PUC",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "Mover-se em oscilações",
+      "answer": "ONDEAR",
+      "row": 5,
+      "col": 4
+    },
+    "25": {
+      "clue": "Confederação Nacional da Indústria",
+      "answer": "CNI",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "O \"de pernas tortas\" era o apelido de Garrincha",
+      "answer": "ANJO",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "(Ingl.) Página eletrônica",
+      "answer": "SITE",
+      "row": 7,
+      "col": 6
+    },
+    "33": {
+      "clue": "Clínica para tratamento de distúrbios alimentares, saúde e beleza",
+      "answer": "SPA",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Substância que tem ação na digestão das gorduras",
+      "answer": "FEL",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "Oriente Médio",
+      "answer": "OM",
+      "row": 9,
+      "col": 2
+    },
+    "38": {
+      "clue": "Locomover-se",
+      "answer": "IR",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

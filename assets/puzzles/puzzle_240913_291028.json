@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "O ponto central de um alvo",
+      "answer": "MOSCA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "A Emilinha (1923-2005) cantora",
+      "answer": "BORBA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Fluido do lança-perfume",
+      "answer": "ETER",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "(Pop.) Indivíduo sem caráter",
+      "answer": "PULHA",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Uma bebida refrigerante",
+      "answer": "LIMONADA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Aqui",
+      "answer": "CA",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "As iniciais da atriz americana Minnelli",
+      "answer": "LM",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Inválida",
+      "answer": "NULA",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "O astro que dá luz e calor",
+      "answer": "SOL",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "De átomos carregados",
+      "answer": "IONICO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "(Red.) Aparelho para transmitir a palavra falada",
+      "answer": "FONE",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "O intuito de quem compra uma barraca",
+      "answer": "ACAMPAR",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Uma roupa para mulheres grávidas",
+      "answer": "BATA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Medida padrão, modelo",
+      "answer": "BITOLA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Uma saudação",
+      "answer": "OPA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Um instrumento como o Big Ben",
+      "answer": "SINO",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Ondas Tropicais",
+      "answer": "OT",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Dado sem dês",
+      "answer": "AO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Religioso da Ordem de são Francisco",
+      "answer": "MENORITA",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Sem fé",
+      "answer": "IMPIO",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "A cor predominante na bandeira da Austrália",
+      "answer": "AZUL",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "Feixe pequeno",
+      "answer": "MOLHO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Carvão aceso, que se queima na churrasqueira",
+      "answer": "BRASA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Uma atriz gaúcha",
+      "answer": "MELLISBOA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Excelente",
+      "answer": "OTIMO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(-vergonhice) Indecência",
+      "answer": "SEM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A narração dos fatos",
+      "answer": "CRONICA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Nome do fundador de uma importante religião oriental",
+      "answer": "BUDA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Saudação comum entre amigos",
+      "answer": "OLA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O fator responsável pela eritoblastose fetal",
+      "answer": "RH",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Toucinho",
+      "answer": "BACON",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Mármore usado em obras artísticas antigas",
+      "answer": "PALOMBINO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Região posterior da base da cabeça",
+      "answer": "NUCA",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Um famoso chef paulistano",
+      "answer": "ALEXATALA",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Parte do sangue",
+      "answer": "SORO",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "A parte gordurosa do leite",
+      "answer": "NATA",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Decompor (um número) em seus fatores primos",
+      "answer": "FATORAR",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Peça que se insere na tomada",
+      "answer": "PINO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "O que serve de suporte",
+      "answer": "APOIO",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Marca inglesa de carros esportivos",
+      "answer": "LOTUS",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Teta, mama",
+      "answer": "SEIO",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Milhas por Hora",
+      "answer": "MPH",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Cantora e apresentadora carioca",
+      "answer": "IZA",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Mililitro",
+      "answer": "ML",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

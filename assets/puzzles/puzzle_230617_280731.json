@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Por fim",
+      "answer": "ENFIM",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Um oficial superior",
+      "answer": "MAJOR",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "A região S",
+      "answer": "SUL",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Desejosa, ambiciosa",
+      "answer": "AVIDA",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Stanley Kubrick, cineasta de \"Laranja Mecânica\"",
+      "answer": "SK",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Um inseto que tritrina",
+      "answer": "GRILO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Michael Douglas, ator de \"Assédio Sexual\"",
+      "answer": "MD",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "O clarão que se difunde ao amanhecer",
+      "answer": "AURORA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "O violeiro e cantor Carreiro",
+      "answer": "TIÃO",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Lição dada por um professor",
+      "answer": "AULA",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Medo angustioso",
+      "answer": "PAVOR",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Tira que se passa pelos ombros para segurar o sutiã",
+      "answer": "ALÇA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "(Mitol.) O rei que tinha o poder de transformar tudo em ouro",
+      "answer": "MIDAS",
+      "row": 5,
+      "col": 5
+    },
+    "23": {
+      "clue": "(Red.) Parque onde podem ser vistos onças e camelos",
+      "answer": "ZOO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Toucinho",
+      "answer": "BACON",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Separam o D do G",
+      "answer": "EF",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Verdade",
+      "answer": "FATO",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "(Rom.) 61",
+      "answer": "LXI",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Nome de dois estados dos EUA",
+      "answer": "DAKOTA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Que se agrava em sentido desfavorável",
+      "answer": "PIOR",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Que afunda",
+      "answer": "IMERGENTE",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Segurar com firmeza na mão",
+      "answer": "RETER",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "São dois em excesso",
+      "answer": "ESSES",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um pronome demonstrativo feminino",
+      "answer": "ESSA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A capital de Tonga, um dos Estados da Polinésia",
+      "answer": "NUKUALOFA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Abreviatura de folha",
+      "answer": "FL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Na) Contra a vontade, à força",
+      "answer": "MARRA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Os quilos de uma tonelada",
+      "answer": "MIL",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Aceito legalmente como filho",
+      "answer": "ADOTADO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Jerry Adriani (1947-2017), cantor da Jovem Guarda",
+      "answer": "JA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Vizinhança",
+      "answer": "REDOR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Qualquer caminho que conduz a algum lugar",
+      "answer": "VIA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Colarinho",
+      "answer": "GOLA",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Controle sob a qual se acha uma coisa",
+      "answer": "MÃOS",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Que perdeu a cor",
+      "answer": "RUÇO",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "O músico da MPB de \"Dinorah\"",
+      "answer": "IVANLINS",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Topo",
+      "answer": "PICO",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Coalhar o leite",
+      "answer": "AZEDAR",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Fazer alguma coisa sem apuro ou cuidado",
+      "answer": "MATAR",
+      "row": 5,
+      "col": 5
+    },
+    "24": {
+      "clue": "Malhar, martelar",
+      "answer": "BATER",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "Pratinho para a xícara de chá",
+      "answer": "PIRES",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Sensação que traduz o desejo, a necessidade de comer",
+      "answer": "FOME",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "Dança de salão típica do Nordeste do Brasil",
+      "answer": "XOTE",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Pode ser de primeiros socorros",
+      "answer": "KIT",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "Cadeiras geralmente possuem quatro",
+      "answer": "PES",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "G",
+      "answer": "GE",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

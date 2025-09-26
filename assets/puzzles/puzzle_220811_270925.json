@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Prova de esqui feita em percurso sinuoso entre obstáculos",
+      "answer": "SLALOM",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Bairro do Rio famoso por seus arcos",
+      "answer": "LAPA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "(Pop.) Esquecimento momentâneo",
+      "answer": "PANE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Separar uma coisa das que lhe estão em volta",
+      "answer": "ISOLAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Uma característica do inverno",
+      "answer": "FRIO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Descansar na cama",
+      "answer": "DORMIR",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Clube Atético Mineiro",
+      "answer": "CAM",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Até agora, até este momento",
+      "answer": "AINDA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Espantado",
+      "answer": "PASMADO",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Internacional Socialista",
+      "answer": "IS",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "Grão de milho que não rebenta ao ser feita a pipoca",
+      "answer": "PIRUA",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Galã",
+      "answer": "ASTRO",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "As vogais de peso",
+      "answer": "EO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Cercar com armação de barras metálicas",
+      "answer": "GRADEAR",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "A pouca distância",
+      "answer": "PERTO",
+      "row": 7,
+      "col": 2
+    },
+    "27": {
+      "clue": "(Por) Na minha opinião",
+      "answer": "MIM",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Relatar",
+      "answer": "NARRAR",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Antigo carro romano, puxado por cavalos",
+      "answer": "BIGA",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Árvore de frutos comestíveis e saborosos",
+      "answer": "ATEIRA",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Costumar",
+      "answer": "USAR",
+      "row": 9,
+      "col": 7
+    },
+    "34": {
+      "clue": "Bater horas",
+      "answer": "SOAR",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Cidade industrial paulista, próxima a Campinas",
+      "answer": "SUMARE",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "São Paulo Futebol Clube",
+      "answer": "SPFC",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Aquele que furta ou rouba",
+      "answer": "LARAPIO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Dar vida a",
+      "answer": "ANIMAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O jornalista Batista",
+      "answer": "LEO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O conjunto de meios de comunicação",
+      "answer": "MIDIA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Med.) Desvio da coluna vertebral",
+      "answer": "LORDOSE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Princípio de vida no homem",
+      "answer": "ALMA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(dos burros) Dicionário",
+      "answer": "PAI",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Pop.) Coisa sensacional",
+      "answer": "ARRASO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Pesquisado para fins estatísticos",
+      "answer": "SONDADO",
+      "row": 1,
+      "col": 6
+    },
+    "16": {
+      "clue": "Dar nó ou laço",
+      "answer": "AMARRAR",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Recomendar",
+      "answer": "SUGERIR",
+      "row": 4,
+      "col": 3
+    },
+    "19": {
+      "clue": "Em medicina, conduzir sangue para determinada área",
+      "answer": "IRRIGAR",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "Membros inferiores",
+      "answer": "PERNAS",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "O rio que banha Londres, na Inglaterra",
+      "answer": "TAMISA",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "(de) No encalço de",
+      "answer": "ATRAS",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Pequeno roedor parecido com o porquinho-da-índia",
+      "answer": "PREA",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "(Fig.) Marcha dos acontecimentos do dia a dia",
+      "answer": "MARE",
+      "row": 7,
+      "col": 10
+    },
+    "30": {
+      "clue": "Cada capítulo de uma peça teatral",
+      "answer": "ATO",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "Onomatopeia de som de tambor",
+      "answer": "BUM",
+      "row": 8,
+      "col": 7
+    }
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "across": {
+    "2": {
+      "clue": "Flor pequena e perfumada, rosa ou branca",
+      "answer": "RESEDA",
+      "row": 0,
+      "col": 4
+    },
+    "8": {
+      "clue": "Antes de Cristo",
+      "answer": "AC",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Um destino turístico da Polinésia Francesa",
+      "answer": "BORABORA",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "O maior estádio paulistano de futebol",
+      "answer": "MORUMBI",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Impróprio, incorreto",
+      "answer": "MAU",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Árvore de frutos escuros, saborosos",
+      "answer": "AMOREIRA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Beto, sem vogais",
+      "answer": "BT",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Programa, projeto",
+      "answer": "PLANO",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "O menor dos nomes dos meses do ano",
+      "answer": "MAIO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Depósito de gordura na parede de uma artéria, característico de aterosclerose",
+      "answer": "PLACA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Bater a massa de pão, bolo etc.",
+      "answer": "SOVAR",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Ainda por cima",
+      "answer": "LOGO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Ilha da Indonésia, centro turístico",
+      "answer": "BALI",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Encosto da cadeira",
+      "answer": "ESPALDAR",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "Por meio de",
+      "answer": "COM",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Um dos sobrenomes de Cabral, navegador português",
+      "answer": "ALVARES",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "O ator Pacino, de \"O Irlandês\"",
+      "answer": "AL",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Pop.) Acelerar muito o automóvel",
+      "answer": "PISAR",
+      "row": 9,
+      "col": 3
+    },
+    "34": {
+      "clue": "Umberto Eco, escritor italiano de \"O Nome da Rosa\"",
+      "answer": "UE",
+      "row": 9,
+      "col": 9
+    },
+    "35": {
+      "clue": "Encher pastel, coxinha etc.",
+      "answer": "RECHEAR",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A carta do baralho que possui uma imagem feminina",
+      "answer": "DAMA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Mulher nascida no país de Bucareste",
+      "answer": "ROMENA",
+      "row": 0,
+      "col": 4
+    },
+    "3": {
+      "clue": "Er, elemento químico",
+      "answer": "ERBIO",
+      "row": 0,
+      "col": 5
+    },
+    "4": {
+      "clue": "(Pop.) Figurar, dançando numa escola de samba",
+      "answer": "SAIR",
+      "row": 0,
+      "col": 6
+    },
+    "5": {
+      "clue": "(Náut.) Abreviatura de estibordo, o lado direito do navio, olhando da popa para a proa",
+      "answer": "EB",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "(Rel.) Bênção, graça",
+      "answer": "DOM",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "(Saudita) Nação do Oriente Médio",
+      "answer": "ARABIA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Trama, intriga",
+      "answer": "COMPLO",
+      "row": 1,
+      "col": 1
+    },
+    "10": {
+      "clue": "As \"panelas\" das estradas e ruas mal conservadas",
+      "answer": "BURACOS",
+      "row": 1,
+      "col": 3
+    },
+    "11": {
+      "clue": "Criadora, realizadora",
+      "answer": "AUTORA",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "(Agric.) Uma forma de esmiuçar torrões de terra",
+      "answer": "ROLAGEM",
+      "row": 2,
+      "col": 2
+    },
+    "16": {
+      "clue": "Ajustar, adaptar",
+      "answer": "AMOLDAR",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Aprestar, fornecer",
+      "answer": "AVIAR",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "(Esp.) Quadro para mostrar informações de um jogo",
+      "answer": "PLACAR",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Defender de perigos, ameaças etc.",
+      "answer": "SALVAR",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Barco que faz a travessia de canais, rios etc.",
+      "answer": "BALSA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "(Inf.) Papai",
+      "answer": "PAIE",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Culpado, criminoso",
+      "answer": "REU",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "No futebol, série de dribles aplicada no adversário",
+      "answer": "OLE",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "Ausência, falta",
+      "answer": "SEM",
+      "row": 8,
+      "col": 10
+    },
+    "33": {
+      "clue": "Índice de acidez ou basicidade de uma solução química",
+      "answer": "PH",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

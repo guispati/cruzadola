@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Descer da charrete",
+      "answer": "APEAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O Sidney cantor",
+      "answer": "MAGAL",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "(Anat.) Uma parte do sistema nervoso central",
+      "answer": "MEDULA",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "A nação com capital Havana",
+      "answer": "CUBA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "O político Venceslau (1868-1966), ex-Presidente",
+      "answer": "BRAS",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "O cineasta Roberto (1932-2018), de \"Pra Frente Brasil\"",
+      "answer": "FARIAS",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Alessandra Negrini, atriz",
+      "answer": "AN",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Espantosa, horrível",
+      "answer": "TREMENDA",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Um antigo aparelho de som",
+      "answer": "RADIOLA",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Departamento de Estradas de Rodagem",
+      "answer": "DER",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Outro nome do sapo-boi",
+      "answer": "INTANHA",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Cadastro de Pessoa Física",
+      "answer": "CPF",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "De dentro",
+      "answer": "INTERNO",
+      "row": 6,
+      "col": 4
+    },
+    "30": {
+      "clue": "Nascido em Haia ou Amsterdã",
+      "answer": "HOLANDES",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Osmar Prado, ator",
+      "answer": "OP",
+      "row": 7,
+      "col": 9
+    },
+    "33": {
+      "clue": "Exceder-se nos elogios",
+      "answer": "ADULAR",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Tereza, para os íntimos",
+      "answer": "TETE",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "Estria, risco",
+      "answer": "VEIO",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Escolher e usar",
+      "answer": "ADOTAR",
+      "row": 9,
+      "col": 5
+    },
+    "39": {
+      "clue": "São dois em serra",
+      "answer": "ERRES",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Instituto Nacional de Colonização e Reforma Agrária",
+      "answer": "INCRA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Resina fóssil amarela",
+      "answer": "AMBAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A parte do corpo entre o joelho e o tornozelo",
+      "answer": "PERNA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Esquadrão de Demonstração Aérea, a \"Esquadrilha da Fumaça\"",
+      "answer": "EDA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A capital do Texas, nos EUA",
+      "answer": "AUSTIN",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Roberto Leal, cantor português de \"Arrebita\"",
+      "answer": "RL",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Um estado da Amazônia",
+      "answer": "ACRE",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Deslocar algo de baixo para cima",
+      "answer": "GUINDAR",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Superior de algumas ordens religiosas",
+      "answer": "ABADE",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "O Segall (1891-1957) pintor e escultor",
+      "answer": "LASAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Arbusto ornamental de flores amarelas",
+      "answer": "AFELANDRA",
+      "row": 1,
+      "col": 5
+    },
+    "16": {
+      "clue": "Apreciador",
+      "answer": "AMANTE",
+      "row": 2,
+      "col": 6
+    },
+    "19": {
+      "clue": "Dia a dia padrão",
+      "answer": "ROTINA",
+      "row": 3,
+      "col": 4
+    },
+    "21": {
+      "clue": "Espalhar, derramar",
+      "answer": "DIFLUIR",
+      "row": 4,
+      "col": 2
+    },
+    "24": {
+      "clue": "O ator Charlton, de \"O Planeta dos Macacos\"",
+      "answer": "HESTON",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "(A sete) Muito bem guardado",
+      "answer": "CHAVE",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Influência, força",
+      "answer": "PODER",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Fazer objeto de atenção",
+      "answer": "NOTAR",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "O gênero musical de \"Fidelio\", de Beethoven",
+      "answer": "OPERA",
+      "row": 6,
+      "col": 10
+    },
+    "31": {
+      "clue": "Gel emoliente extraído das folhas da babosa",
+      "answer": "ALOE",
+      "row": 7,
+      "col": 3
+    },
+    "35": {
+      "clue": "E outras coisas",
+      "answer": "ETC",
+      "row": 8,
+      "col": 8
+    },
+    "38": {
+      "clue": "O Cavalcanti pintor (1897-1976)",
+      "answer": "DI",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

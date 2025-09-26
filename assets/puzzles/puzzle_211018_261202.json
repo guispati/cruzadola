@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Exibição",
+      "answer": "ALARDE",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "A fêmea do boi",
+      "answer": "VACA",
+      "row": 0,
+      "col": 7
+    },
+    "11": {
+      "clue": "Pequeno lagarto também chamado trauíra",
+      "answer": "CALANGUINHO",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Muito boa",
+      "answer": "OTIMA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Tecido usado em curativos e compressas",
+      "answer": "GAZE",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Macaquinho",
+      "answer": "MICO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Um prato que acompanha o frango assado",
+      "answer": "FAROFA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "N",
+      "answer": "ENE",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Lugar de criação de pit bulls e poodles",
+      "answer": "CANIL",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "(Pop.) Interjeição de concordância",
+      "answer": "TA",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Ajuntamento de animais",
+      "answer": "BANDO",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Cláudia Ohana, atriz",
+      "answer": "CO",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "A de aço é um esfregão resistente",
+      "answer": "PALHA",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Oitocentos mais duzentos",
+      "answer": "MIL",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "Cilíndrico",
+      "answer": "ROLIÇO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Bebida escura, aromática e excitante",
+      "answer": "CAFE",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Escavação para encanamentos",
+      "answer": "VALA",
+      "row": 8,
+      "col": 1
+    },
+    "29": {
+      "clue": "Capital europeia banhada pelo rio Manzanares",
+      "answer": "MADRI",
+      "row": 8,
+      "col": 6
+    },
+    "30": {
+      "clue": "Colocar em linha, em fila",
+      "answer": "ENCARREIRAR",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Vender a crédito",
+      "answer": "FIAR",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Exemplar de um periódico",
+      "answer": "NUMERO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Manifestar-se de repente (doença)",
+      "answer": "ACOMETER",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Náut.) Vela de forma triangular",
+      "answer": "LATINA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O roqueiro Cooper, de fama nos anos 1970",
+      "answer": "ALICE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Parte da planta que se bifurca do tronco",
+      "answer": "RAMO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Ácido desoxirribonucleico",
+      "answer": "DNA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "As letras que cercam o F",
+      "answer": "EG",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Relativo ao sistema de transporte por estradas",
+      "answer": "VIARIO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Gancho para pesca",
+      "answer": "ANZOL",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "(Pal. fr.) Cozinheiro",
+      "answer": "CHEF",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "A mais comum das contrações",
+      "answer": "AO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Uma nação da África oriental",
+      "answer": "UGANDA",
+      "row": 1,
+      "col": 6
+    },
+    "16": {
+      "clue": "Nasalado",
+      "answer": "FANHO",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Lamaçal",
+      "answer": "ATOLEIRO",
+      "row": 3,
+      "col": 10
+    },
+    "19": {
+      "clue": "Pôr o sapato",
+      "answer": "CALÇAR",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Dançar",
+      "answer": "BAILAR",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Escrever em código",
+      "answer": "CIFRAR",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Cada um dos eletrodos de uma válvula eletrônica",
+      "answer": "PLACA",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Freira",
+      "answer": "MADRE",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Objeto Voador Não Identificado",
+      "answer": "OVNI",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "O latido de dor dos cães",
+      "answer": "CAIM",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Que me pertence",
+      "answer": "MEU",
+      "row": 8,
+      "col": 6
+    },
+    "30": {
+      "clue": "Ella Fitzgerald, cantora",
+      "answer": "EF",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "A UF de João Câmara e Mossoró",
+      "answer": "RN",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

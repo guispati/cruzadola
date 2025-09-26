@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "Aborrecimento",
+      "answer": "ENFADO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Título para a vencedora de um concurso de beleza",
+      "answer": "MISS",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "(Fig.) Domínio, esfera, âmbito, campo",
+      "answer": "REINO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O ex-Presidente Quadros (1917-1992)",
+      "answer": "JANIO",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Que não causa dano material, físico, orgânico",
+      "answer": "INOCUO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Mestre espiritual",
+      "answer": "GURU",
+      "row": 2,
+      "col": 7
+    },
+    "14": {
+      "clue": "O nadador Cielo",
+      "answer": "CESAR",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Gregório de) Poeta baiano (1623-1696)",
+      "answer": "MATOS",
+      "row": 3,
+      "col": 6
+    },
+    "16": {
+      "clue": "(Mús.) Dó menor",
+      "answer": "CM",
+      "row": 4,
+      "col": 0
+    },
+    "17": {
+      "clue": "Grande ilha russa próxima a Hokkaido, no Japão",
+      "answer": "SACALINA",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Executar (um movimento corporal)",
+      "answer": "DAR",
+      "row": 5,
+      "col": 4
+    },
+    "21": {
+      "clue": "Uma das maiores cidades de Goiás",
+      "answer": "ANAPOLIS",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Paloma Duarte, atriz paulistana",
+      "answer": "PD",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Ficar numa posição para ser retratado",
+      "answer": "POSAR",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Inchar",
+      "answer": "TUFAR",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "Famoso técnico gaúcho de futebol",
+      "answer": "TITE",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Peixe fluvial, de carne apreciada",
+      "answer": "MAPARA",
+      "row": 8,
+      "col": 5
+    },
+    "31": {
+      "clue": "Doença que pode causar a surdez",
+      "answer": "OTITE",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Coronavirus Disease",
+      "answer": "COVID",
+      "row": 9,
+      "col": 6
+    },
+    "33": {
+      "clue": "Em + ele",
+      "answer": "NELE",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "A capital do Zimbábue",
+      "answer": "HARARE",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Cantor e guitarrista inglês",
+      "answer": "ERICCLAPTON",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Criancinha de colo",
+      "answer": "NENEM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Os cabos que fazem o transporte da eletricidade",
+      "answer": "FIOS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Quadris, cadeiras",
+      "answer": "ANCAS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Aquele que faz revestimento com camadas de ouro",
+      "answer": "DOURADOR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "O Sidney cantor",
+      "answer": "MAGAL",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Sem proveito",
+      "answer": "INUTIL",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O pintor, desenhista e gravador Franco",
+      "answer": "SIRON",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Poeta maranhense (1833-1902)",
+      "answer": "SOUSANDRADE",
+      "row": 0,
+      "col": 10
+    },
+    "15": {
+      "clue": "Pequeno papagaio",
+      "answer": "MARITACA",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Ligante que se mistura com o cimento",
+      "answer": "CAL",
+      "row": 4,
+      "col": 5
+    },
+    "19": {
+      "clue": "O cabo da lança",
+      "answer": "HASTIL",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "O período de atividade mais intensa dos morcegos",
+      "answer": "NOITE",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Tecido bordado com lantejoulas",
+      "answer": "PAETE",
+      "row": 6,
+      "col": 3
+    },
+    "24": {
+      "clue": "Presumir, julgar",
+      "answer": "SUPOR",
+      "row": 6,
+      "col": 7
+    },
+    "25": {
+      "clue": "Expulsar do útero (feto)",
+      "answer": "PARIR",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Vagem de uma planta hortense",
+      "answer": "FAVA",
+      "row": 7,
+      "col": 8
+    }
+  }
+}

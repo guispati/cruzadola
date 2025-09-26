@@ -1,0 +1,234 @@
+{
+  "across": {
+    "2": {
+      "clue": "Sacerdote de pouco mérito",
+      "answer": "PADRECO",
+      "row": 0,
+      "col": 4
+    },
+    "8": {
+      "clue": "Um laço difícil de se desfazer",
+      "answer": "NO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Nascido na capital de Gana, na África",
+      "answer": "ACRENSE",
+      "row": 1,
+      "col": 3
+    },
+    "11": {
+      "clue": "(Lagos) O maior grupo de lagos de água doce do mundo",
+      "answer": "GRANDES",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Costa) Nação com capital San José",
+      "answer": "RICA",
+      "row": 3,
+      "col": 0
+    },
+    "14": {
+      "clue": "Participar em peça, filme interpretando um personagem",
+      "answer": "ATUAR",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "O \"eu\" da psicanálise",
+      "answer": "EGO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Uma embalagem para comprimidos",
+      "answer": "BLISTER",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Que é exatamente igual a outra",
+      "answer": "MESMA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Uma característica como copas",
+      "answer": "NAIPE",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Tempo que está correndo",
+      "answer": "ENTANTO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Precede Mar",
+      "answer": "FEV",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Grande tambor, de som abafado",
+      "answer": "SURDO",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Coisa feita, ocorrida ou em processo de realização",
+      "answer": "FATO",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Um vaso para transporte de sangue",
+      "answer": "ARTERIA",
+      "row": 8,
+      "col": 4
+    },
+    "30": {
+      "clue": "Parte do alto de uma coluna com ornamentos",
+      "answer": "CAPITEL",
+      "row": 9,
+      "col": 1
+    },
+    "32": {
+      "clue": "Roberto Dinamite, ídolo do Vasco",
+      "answer": "RD",
+      "row": 9,
+      "col": 9
+    },
+    "33": {
+      "clue": "Instrumento para retirar a tampa de garrafas de cerveja",
+      "answer": "ABRIDOR",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Que tem forte declive",
+      "answer": "INGREME",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Pessoa com Deficiência",
+      "answer": "PCD",
+      "row": 0,
+      "col": 4
+    },
+    "3": {
+      "clue": "Praia",
+      "answer": "AREAL",
+      "row": 0,
+      "col": 5
+    },
+    "4": {
+      "clue": "Local aonde alguém vai",
+      "answer": "DESTINO",
+      "row": 0,
+      "col": 6
+    },
+    "5": {
+      "clue": "Radônio, elemento químico",
+      "answer": "RN",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "Fazer em pedaços",
+      "answer": "ESPATIFAR",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "A letra que se repete em mecânico",
+      "answer": "CE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Causas, razões",
+      "answer": "ORIGENS",
+      "row": 1,
+      "col": 1
+    },
+    "10": {
+      "clue": "A Marcela Cunha medalhista olímpica da natação",
+      "answer": "ANA",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Habituar",
+      "answer": "ACOSTUMAR",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "EUA em inglês",
+      "answer": "USA",
+      "row": 3,
+      "col": 7
+    },
+    "16": {
+      "clue": "Dizer ou fazer de novo",
+      "answer": "REPETIR",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Famosa marca de curativos",
+      "answer": "BANDAID",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Bando de aves em voo",
+      "answer": "REVOADA",
+      "row": 4,
+      "col": 10
+    },
+    "21": {
+      "clue": "O da Tranquilidade está situado na Lua",
+      "answer": "MAR",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "O oposto de reto",
+      "answer": "TORTO",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Líquido amarelado segregado pelo fígado",
+      "answer": "FEL",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Ser provido de",
+      "answer": "TER",
+      "row": 8,
+      "col": 6
+    },
+    "30": {
+      "clue": "Cacilda Becker, atriz",
+      "answer": "CB",
+      "row": 9,
+      "col": 1
+    },
+    "31": {
+      "clue": "A UF de Piripiri e Luis Correia",
+      "answer": "PI",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

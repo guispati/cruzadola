@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma obra de fortificação",
+      "answer": "CASAMATA",
+      "row": 0,
+      "col": 1
+    },
+    "9": {
+      "clue": "Possibilidade concreta de fazer alguma coisa",
+      "answer": "PODER",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Cama de lona, para viagem",
+      "answer": "CATRE",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "De bom humor",
+      "answer": "ALEGRE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Um mosquito miúdo e incômodo",
+      "answer": "PIUM",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Caixa com tampa, para itens diversos",
+      "answer": "BAU",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Troca, permuta",
+      "answer": "ESCAMBO",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Que dá pulos",
+      "answer": "SALTADOR",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Ordem Verbal",
+      "answer": "OV",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "O instrumento musical de Chopin",
+      "answer": "PIANO",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Ary Fontoura, ator",
+      "answer": "AF",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Mulher que pilota uma aeronave",
+      "answer": "AVIADORA",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Um componente do átomo",
+      "answer": "ELETRON",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "61, em romanos",
+      "answer": "LXI",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "A filha da filha",
+      "answer": "NETA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Fazer o cerco de, rodear de tropas para o ataque",
+      "answer": "SITIAR",
+      "row": 8,
+      "col": 5
+    },
+    "34": {
+      "clue": "Zombaria, pândega",
+      "answer": "TROÇA",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "(NE) O da peste é uma pessoa boa, confiável, valorosa",
+      "answer": "CABRA",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "Estado do norte com capital Porto Velho",
+      "answer": "RONDONIA",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Em uma prova, respostas passadas ou copiadas clandestinamente",
+      "answer": "COLA",
+      "row": 0,
+      "col": 1
+    },
+    "2": {
+      "clue": "Palavra que exprime despedida de (alguém ou algo) que se perdeu ou que não tem retorno",
+      "answer": "ADEUS",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "O dia entre Dom e Ter",
+      "answer": "SEG",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Irritar, zangar",
+      "answer": "ARRELIAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "A sigla do tempo anterior a Jesus Cristo",
+      "answer": "AC",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Vedador",
+      "answer": "TAPADOR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Momento breve como a respiração",
+      "answer": "ATIMO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Um peixe dos desenhos animados (2003)",
+      "answer": "NEMO",
+      "row": 0,
+      "col": 10
+    },
+    "9": {
+      "clue": "O poeta Neruda (1904-1974), de \"Odes Elementares\"",
+      "answer": "PABLO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Vermelha, como o sangue",
+      "answer": "RUBRA",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "São 26 no Brasil",
+      "answer": "ESTADOS",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Diz-se do direito eclesiástico",
+      "answer": "CANONICO",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Uma ruidosa manifestação coletiva de protesto",
+      "answer": "APITAÇO",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Custar",
+      "answer": "VALER",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "A palavra que complementa o nome de cinco dias da semana",
+      "answer": "FEIRA",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "(Biol.) Veículo de transmissão",
+      "answer": "VETOR",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Justificação aceitável",
+      "answer": "ALIBI",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Pessoa",
+      "answer": "ENTE",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Pessoa que tem o mesmo nome de outra",
+      "answer": "XARA",
+      "row": 7,
+      "col": 9
+    },
+    "33": {
+      "clue": "Tangente",
+      "answer": "TAN",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "Antônio Nóbrega, artista e músico recifense",
+      "answer": "AN",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

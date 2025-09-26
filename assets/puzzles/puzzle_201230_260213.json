@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Espaço de tempo entre duas colheitas",
+      "answer": "ENTRESSAFRA",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Uma droga potente, derivada da morfina",
+      "answer": "HEROINA",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Reverendo Padre",
+      "answer": "RP",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Maneiras sociais",
+      "answer": "TRATO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Comissão Técnica",
+      "answer": "CT",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "O francês Hans (1887-1966), da arte abstrata",
+      "answer": "ARP",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Inclinar-se (o navio) submergindo de um lado",
+      "answer": "ADERNAR",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Exercício de curso primário",
+      "answer": "DITADO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Red.) Veículo como uma Harley-Davidson",
+      "answer": "MOTO",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Cidade italiana com um famoso autódromo",
+      "answer": "IMOLA",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Uma palavra da bandeira de Minas Gerais",
+      "answer": "TAMEN",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "A apresentadora Regina",
+      "answer": "CASE",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Escolha antológica de trechos literários",
+      "answer": "SELETA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Escrever termo ou depoimento",
+      "answer": "AVERBAR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Feito por ele",
+      "answer": "SEU",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "D",
+      "answer": "DE",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Divindade primitiva adorada por selvagens",
+      "answer": "TOTEM",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "As letras que cercam o S",
+      "answer": "RT",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Um músico que frequentemente toca na igreja",
+      "answer": "ORGANISTA",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Referente à força aérea da marinha de guerra",
+      "answer": "AERONAVAL",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Arrancado do solo",
+      "answer": "ERRADICADO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O tório, entre os químicos",
+      "answer": "TH",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Abreviatura de retórica",
+      "answer": "RET",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Que não está certa",
+      "answer": "ERRADA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Celebrado, afamado",
+      "answer": "SOADO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Ingl.) Página eletrônica",
+      "answer": "SITE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Excepcional",
+      "answer": "ANORMAL",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "A nota que precede o sol",
+      "answer": "FA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O piloto das naves espaciais",
+      "answer": "ASTRONAUTA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "A estação que sucede o inverno",
+      "answer": "PRIMAVERA",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Sonda que se introduz em cavidades naturais do corpo",
+      "answer": "CATETER",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "(Med.) Abaixamento de um órgão",
+      "answer": "PTOSE",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "As palavras lidas em uma chamada escolar",
+      "answer": "NOMES",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Despertar a vigilância de",
+      "answer": "ALERTAR",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "A religiosa de Calcutá (1910-1997), Nobel da Paz de 1979",
+      "answer": "TERESA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "(Fr.) Tecido para forros",
+      "answer": "SATIN",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "O vocalista do grupo \"U2\" Vox",
+      "answer": "BONO",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Music Television",
+      "answer": "MTV",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "A 5ª consoante do alfabeto",
+      "answer": "GE",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Ataulfo Alves, músico",
+      "answer": "AA",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

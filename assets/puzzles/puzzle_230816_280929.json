@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Animal que se move dando saltos",
+      "answer": "CANGURU",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Tecla de computador",
+      "answer": "ALT",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "(Horas) O programa de TV de Serginho Groisman",
+      "answer": "ALTAS",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Tortilha crocante, triangular, muito popular no México",
+      "answer": "NACHO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Paulo Vieira, ator e humorista",
+      "answer": "PV",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Tipo de sorvete congelado em um saquinho plástico",
+      "answer": "SACOLE",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Pista, indício",
+      "answer": "RASTRO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Um equipamento de ataque e defesa numa luta",
+      "answer": "ARMA",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Irritar",
+      "answer": "IRAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Mastigar sem engolir",
+      "answer": "MASCAR",
+      "row": 4,
+      "col": 5
+    },
+    "23": {
+      "clue": "Fornecer corrente elétrica a um dispositivo ou circuito",
+      "answer": "ALIMENTAR",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Aquele que liga",
+      "answer": "ATADOR",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Camila Pitanga, atriz",
+      "answer": "CP",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Súplica religiosa",
+      "answer": "PRECE",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Amarrar",
+      "answer": "ATAR",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "(Passar) Um sucesso da MPB",
+      "answer": "VAI",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Palavra formada por elementos tomados de línguas diferentes",
+      "answer": "HIBRIDO",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "Mulher que discursa em público",
+      "answer": "ORADORA",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Temperos",
+      "answer": "POS",
+      "row": 9,
+      "col": 8
+    },
+    "37": {
+      "clue": "Local para aulas",
+      "answer": "SALA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "A boreal é o fenômeno luminoso do hemisfério setentrional",
+      "answer": "AURORA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A ilha italiana com a Gruta Azul",
+      "answer": "CAPRI",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Licença para realizar evento",
+      "answer": "ALVARA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Novo Testamento",
+      "answer": "NT",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Inflamação aguda ou crônica do estômago",
+      "answer": "GASTRITE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Utilizar habitualmente",
+      "answer": "USAR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Um jogo de cartas com números e cores",
+      "answer": "UNO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Em volta",
+      "answer": "ACERCA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Lewis Hamilton, piloto de F1",
+      "answer": "LH",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Ingerir o conteúdo de",
+      "answer": "TOMAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Lançar em todas as direções",
+      "answer": "ALASTRAR",
+      "row": 1,
+      "col": 7
+    },
+    "15": {
+      "clue": "(Pop.) Mamata",
+      "answer": "COMEDEIRA",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Relativo à remuneração do trabalho prestado",
+      "answer": "SALARIAL",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Placar",
+      "answer": "MARCADOR",
+      "row": 3,
+      "col": 9
+    },
+    "22": {
+      "clue": "Um dos itens da data",
+      "answer": "ANO",
+      "row": 4,
+      "col": 6
+    },
+    "24": {
+      "clue": "O contrário de fêmea",
+      "answer": "MACHO",
+      "row": 5,
+      "col": 4
+    },
+    "27": {
+      "clue": "Bate-papo",
+      "answer": "PROSA",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "Um estado vizinho do Amazonas",
+      "answer": "PARA",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Símbolo",
+      "answer": "TIPO",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Segunda pessoa do plural",
+      "answer": "VOS",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Golpe do) Casamento por interesses",
+      "answer": "BAU",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "De + a",
+      "answer": "DA",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

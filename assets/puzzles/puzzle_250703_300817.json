@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Abrir um buraco",
+      "answer": "ESCAVAR",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Segue Jan e antecede Mar",
+      "answer": "FEV",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Sem aptidão",
+      "answer": "INABIL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Monte característico de praias arenosas",
+      "answer": "DUNA",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Um composto químico",
+      "answer": "POLIFENOL",
+      "row": 2,
+      "col": 2
+    },
+    "14": {
+      "clue": "Pronta, terminada",
+      "answer": "FEITA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Molhado superficialmente",
+      "answer": "UMIDO",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "Excelentíssimo",
+      "answer": "EXMO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Choque psíquico",
+      "answer": "ABALO",
+      "row": 4,
+      "col": 5
+    },
+    "19": {
+      "clue": "Luiza Trajano, empresária",
+      "answer": "LT",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "A mesa sagrada da missa",
+      "answer": "ALTAR",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Alexandre Dumas, escritor",
+      "answer": "AD",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Substância metálica leve, rara, não existente na natureza em estado livre, usada em semicondutores",
+      "answer": "INDIO",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Contribuição de Intervenção no Domínio Econômico",
+      "answer": "CIDE",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Divisões da escala de um termômetro",
+      "answer": "GRAUS",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "O quadrado e o retângulo possuem quatro",
+      "answer": "LADOS",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "Que purifica",
+      "answer": "APURATIVO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Uma embalagem para leite condensado",
+      "answer": "LATA",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "(de Você) Sucesso de Chico Buarque que foi censurado na ditadura militar",
+      "answer": "APESAR",
+      "row": 9,
+      "col": 5
+    },
+    "35": {
+      "clue": "A atual é a neozóica",
+      "answer": "ERA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Conhecedor de vinhos",
+      "answer": "ENOLOGO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Famosa torre localizada em Paris",
+      "answer": "EIFFEL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Quím.) Estanho",
+      "answer": "SN",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Planta que serve de alimento para herbívoros",
+      "answer": "CAPIM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Prendedor do punho de camisa, usados no lugar dos botões",
+      "answer": "ABOTOADURA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Belmiro) O estádio do Santos Futebol Clube",
+      "answer": "VILA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Até) Até àquele nível",
+      "answer": "ALI",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Utensílio para transvasar líquidos para uma garrafa",
+      "answer": "FUNIL",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Manchado",
+      "answer": "ENODOADO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Fosso que protege o acampamento da tropa",
+      "answer": "VALO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Que se pode delimitar, balizar",
+      "answer": "DEMARCAVEL",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Matéria-prima para polenta",
+      "answer": "FUBA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Arrancar pela raiz",
+      "answer": "EXTIRPAR",
+      "row": 3,
+      "col": 1
+    },
+    "18": {
+      "clue": "Manifestação da vontade humana",
+      "answer": "ATO",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Macia",
+      "answer": "LISA",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Pessoa que usa preferencialmente a mão direita",
+      "answer": "DESTRO",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Navegante",
+      "answer": "NAUTA",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "O oposto de jovem",
+      "answer": "IDOSO",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Antigo barco",
+      "answer": "GALE",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Red.) Cirurgia estética para retirada de excesso de gordura localizada",
+      "answer": "LIPO",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "(Matem.) Tangente",
+      "answer": "TAN",
+      "row": 8,
+      "col": 5
+    },
+    "34": {
+      "clue": "Al Gore, político e ativista americano, Nobel da Paz de 2007",
+      "answer": "AG",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "O apelido do ex-presidente João Goulart (1918-1976)",
+      "answer": "JANGO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Interjeição de saudação",
+      "answer": "SALVE",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Uma joia para os dedos",
+      "answer": "ANEL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Desabar",
+      "answer": "RUIR",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "(Baianos) Grupo musical brasileiro",
+      "answer": "NOVOS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "A submarina é o mergulho para apanhar peixes",
+      "answer": "PESCA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Que impregna, embebe ao máximo",
+      "answer": "SATURANTE",
+      "row": 3,
+      "col": 1
+    },
+    "18": {
+      "clue": "Deixar sem asas (ave)",
+      "answer": "DESASAR",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Sufixo diminutivo masculino",
+      "answer": "ETO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Entidade governamental que cuida da saúde pública",
+      "answer": "SUS",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Uma manifestação da torcida no estádio",
+      "answer": "OLA",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "Lupicínio Rodrigues (1914-1974), cantor e compositor",
+      "answer": "LR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Elevar-se do chão com esforço rápido",
+      "answer": "PULAR",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "Estão no meio do... joelho e da orelha",
+      "answer": "EL",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Escapar da cadeia",
+      "answer": "FUGIR",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "No futebol, clássico entre equipes tradicionais",
+      "answer": "DERBI",
+      "row": 7,
+      "col": 6
+    },
+    "33": {
+      "clue": "Aquele que se dedica à criação de peixes em recipientes geralmente de vidro",
+      "answer": "AQUARIOFILO",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Um tambor",
+      "answer": "SURDO",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Que possuem bens além dos necessários",
+      "answer": "RICOS",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "A trama da aranha",
+      "answer": "TEIA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "A cantora pop estadunidense Del Rey",
+      "answer": "LANA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O período entre Dez e Fev",
+      "answer": "JAN",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O passar do tempo",
+      "answer": "ANOS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Valle) Famosa estação de esqui chilena",
+      "answer": "NEVADO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Abertura da laringe onde a voz se forma",
+      "answer": "GLOTE",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "(Fig.) Campo de luta",
+      "answer": "ARENA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Brilho",
+      "answer": "LUSTRO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Red.) Segundo colocado",
+      "answer": "VICE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Tempo memorável que estabelece nova ordem de fatos",
+      "answer": "ERA",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Cochicho",
+      "answer": "SUSSURRO",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Pregador para cabelo",
+      "answer": "PASSADOR",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "O roqueiro Seixas (1945-1989)",
+      "answer": "RAUL",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "A capital da Irlanda do Norte",
+      "answer": "BELFAST",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Cara",
+      "answer": "VALIOSA",
+      "row": 4,
+      "col": 10
+    },
+    "21": {
+      "clue": "O segredo do mágico",
+      "answer": "TRUQUE",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Um famoso bairro carioca",
+      "answer": "LEBLON",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Dito engraçado",
+      "answer": "PIADA",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Produto que substitui o original gasto",
+      "answer": "REFIL",
+      "row": 6,
+      "col": 7
+    },
+    "30": {
+      "clue": "Menino, garoto",
+      "answer": "GURI",
+      "row": 7,
+      "col": 2
+    },
+    "32": {
+      "clue": "Mulher que possui muito dinheiro",
+      "answer": "RICA",
+      "row": 7,
+      "col": 8
+    }
+  }
+}

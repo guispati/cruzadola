@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "De pouca força",
+      "answer": "FRACO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Ainda agora",
+      "answer": "RECEM",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Ainda por cima, justamente",
+      "answer": "LOGO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Relativo ao homem",
+      "answer": "HUMANO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "De maneira exagerada",
+      "answer": "ENORMEMENTE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "90, em algarismos romanos",
+      "answer": "XC",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "O biológico pode ser masculino ou feminino",
+      "answer": "SEXO",
+      "row": 3,
+      "col": 3
+    },
+    "16": {
+      "clue": "(Abrev.) Federal",
+      "answer": "FED",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "(Eletr. e Fís.) O símbolo de Ohm, unidade de medida de resistência",
+      "answer": "OMEGA",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Grupo musical vocal",
+      "answer": "CORO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Enraivecer",
+      "answer": "AGASTAR",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "O osso do cotovelo",
+      "answer": "ULNA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Glândulas mamárias",
+      "answer": "TETAS",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Educação a Distância",
+      "answer": "EAD",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Repreensão, descompostura",
+      "answer": "PITO",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Eric Clapton, músico inglês",
+      "answer": "EC",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "(da Serra) Um município da Grande São Paulo",
+      "answer": "ITAPECERICA",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Outro nome da fruta araticum",
+      "answer": "MILOLO",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Pop.) Caçoar, gozar",
+      "answer": "ZOAR",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "Estado da grande Região Norte",
+      "answer": "AMAPA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Elemento de composição: rim",
+      "answer": "NEFRO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Carros que podem usar mais de um tipo de combustível",
+      "answer": "FLEX",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O ruído de quem dorme",
+      "answer": "RONCO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Abreviatura do nome do oitavo mês",
+      "answer": "AGO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A ilha francesa em que nasceu Napoleão",
+      "answer": "CORSEGA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Modo de proceder",
+      "answer": "RUMO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "M",
+      "answer": "EME",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Substância usada em pomadas contra dores musculares",
+      "answer": "CANFORA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Uma tecla do computadores",
+      "answer": "ENTER",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Aparelho triturador",
+      "answer": "MOEDOR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Formado por seis versos",
+      "answer": "HEXASTICO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "(-Sena) Uma loteria da CEF",
+      "answer": "MEGA",
+      "row": 2,
+      "col": 4
+    },
+    "18": {
+      "clue": "Diagrama de círculos e quadrados concêntricos",
+      "answer": "MANDALA",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "14",
+      "answer": "CATORZE",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Venda de mercadorias a baixo preço",
+      "answer": "QUEIMA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "A cantora Espíndola",
+      "answer": "TETE",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "A língua oficial da igreja católica romana",
+      "answer": "LATIM",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Tornar enxuto",
+      "answer": "SECAR",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Por + aquela",
+      "answer": "PELA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "De preço muito alto",
+      "answer": "CARO",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "Uma arte de vanguarda",
+      "answer": "POP",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Imposto sobre Operações Financeiras",
+      "answer": "IOF",
+      "row": 8,
+      "col": 8
+    }
+  }
+}

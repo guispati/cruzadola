@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Pessoa ferida ou assassinada",
+      "answer": "VITIMA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Museu paulista",
+      "answer": "MASP",
+      "row": 0,
+      "col": 7
+    },
+    "11": {
+      "clue": "Que ficou preso no barro (carro)",
+      "answer": "ATOLADO",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Dupla de cantores ou cantadores",
+      "answer": "DUO",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Casa para gatos",
+      "answer": "GATIL",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Brilhar",
+      "answer": "RAIAR",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "(disso) De mais a mais",
+      "answer": "ALEM",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Carro esportivo fabricado pela GM",
+      "answer": "CAMARO",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Aquilo que restringe, mantém ou circunscreve",
+      "answer": "LIMITADOR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Ilha da Ásia com um país que fala português",
+      "answer": "TIMOR",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Emporcalhar, sujar",
+      "answer": "LAMBRECAR",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Serpente",
+      "answer": "OFIDIO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Em + ela",
+      "answer": "NELA",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Toucinho defumado",
+      "answer": "BACON",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Um tipo de lambari da Amazônia",
+      "answer": "SAGUI",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "(Pop.) Você",
+      "answer": "OCE",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Colado",
+      "answer": "GRUDADO",
+      "row": 9,
+      "col": 4
+    },
+    "35": {
+      "clue": "Macaco de cauda e pelagem longas",
+      "answer": "SAUA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "(da Cunha) Cidade gaúcha produtora de vinhos",
+      "answer": "FLORES",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Gír.) Pessoa sem ocupação, que leva a vida no ócio",
+      "answer": "VAGAL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O país ao qual pertence a ilha da Sardenha",
+      "answer": "ITALIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Animal venerado como tronco de uma tribo",
+      "answer": "TOTEM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Infinito",
+      "answer": "ILIMITADO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(-intencionado) Aquele que age com intenção de prejudicar",
+      "answer": "MAL",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Alexandre Dumas, escritor",
+      "answer": "AD",
+      "row": 0,
+      "col": 5
+    },
+    "8": {
+      "clue": "Marcar para outra ocasião",
+      "answer": "ADIAR",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Pequeno orifício epidérmico",
+      "answer": "SUAR",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Orifícios por onde o suor sai do corpo",
+      "answer": "POROS",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Aquele que toma a palavra em público",
+      "answer": "ORADOR",
+      "row": 1,
+      "col": 6
+    },
+    "16": {
+      "clue": "Que se bronzeou",
+      "answer": "AMORENADO",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "Vara com um gancho na extremidade para apanhar fruta",
+      "answer": "CAMBO",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "(Ingl.) Cronometragem",
+      "answer": "TIMING",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Terreno em declive",
+      "answer": "TALUDE",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "(Villa-) Um dos grandes nomes da música brasileira",
+      "answer": "LOBOS",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Escola média superior",
+      "answer": "LICEU",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Fazer perder a vista",
+      "answer": "CEGAR",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Hastes que reforçam a roda da bike",
+      "answer": "RAIOS",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "Um dos talheres",
+      "answer": "FACA",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "S",
+      "answer": "SUL",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Receita Federal",
+      "answer": "RF",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

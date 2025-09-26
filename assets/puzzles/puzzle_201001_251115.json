@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "A banda do sucesso \"É uma Partida de Futebol\"",
+      "answer": "SKANK",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Clínica de saúde e beleza",
+      "answer": "SPA",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Aquele que trabalha na colheita de cereais",
+      "answer": "CEIFEIRO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Escondido à vista de alguém",
+      "answer": "OCULTADO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Em música, dó menor",
+      "answer": "CM",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Sigla inglesa dos EUA",
+      "answer": "USA",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Indivíduo de um povo de raça semítica",
+      "answer": "CALDEU",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "(Inform.) A menor unidade de dado que um sistema pode tratar",
+      "answer": "BIT",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Robe",
+      "answer": "PENHOAR",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "(Dívida) Débitos com a fazenda pública",
+      "answer": "ATIVA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Volta",
+      "answer": "TORNA",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Função trigonométrica oposta ao coseno",
+      "answer": "SECANTE",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "756+244",
+      "answer": "MIL",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Pompa, ostentação",
+      "answer": "ALARDE",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Dicionário",
+      "answer": "DIC",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "O pelo da ovelha",
+      "answer": "LÃ",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Dilacerador",
+      "answer": "ROMPEDOR",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "O paciente que sofrerá intervenção cirúrgica",
+      "answer": "OPERANDO",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "Senhora",
+      "answer": "SRA",
+      "row": 10,
+      "col": 2
+    },
+    "35": {
+      "clue": "Pipa para vinhos",
+      "answer": "DORNA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O João celebrado em 24 de junho",
+      "answer": "SÃO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Estudo das leis do som",
+      "answer": "ACUSTICA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Em + ela",
+      "answer": "NELA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Jogo (de ferramentas)",
+      "answer": "KIT",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Remédio que diminui a excitabilidade do sistema nervoso",
+      "answer": "SEDANTE",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Um parasito do homem e de outros animais",
+      "answer": "PIOLHO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O símbolo químico do argônio",
+      "answer": "AR",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Lado da frente de qualquer coisa",
+      "answer": "FACE",
+      "row": 1,
+      "col": 5
+    },
+    "10": {
+      "clue": "Dos mares mais profundos",
+      "answer": "OCEANICO",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Ave também chamada bico-de-agulha",
+      "answer": "CUITELÃO",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Pintura feita sobre uma parede",
+      "answer": "MURAL",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Aquele que cede ao sono facilmente",
+      "answer": "DORMIDOR",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Um metabolismo químico",
+      "answer": "BASAL",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "(Caixa de) O objeto que continha todos os males do mundo",
+      "answer": "PANDORA",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Limpar o chão com a vassoura",
+      "answer": "VARRER",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Argumento",
+      "answer": "TEMA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Pequena porção",
+      "answer": "DEDO",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Penedo sem vogais",
+      "answer": "PND",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Em inglês é street",
+      "answer": "RUA",
+      "row": 8,
+      "col": 10
+    },
+    "33": {
+      "clue": "Abreviatura de PlayStation, console de entretenimento da Sony",
+      "answer": "PS",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

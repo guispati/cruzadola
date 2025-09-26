@@ -1,0 +1,228 @@
+{
+  "across": {
+    "1": {
+      "clue": "Placa que reveste peixes e répteis",
+      "answer": "ESCAMA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Um dos naipes pretos",
+      "answer": "PAUS",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Pacificar",
+      "answer": "ACALMAR",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Do instrumento ótico para a observação de corpos celestes",
+      "answer": "TELESCOPICO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Da boca, relativo à boca",
+      "answer": "ORAL",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Exame Nacional de Desempenho de Estudantes",
+      "answer": "ENADE",
+      "row": 3,
+      "col": 5
+    },
+    "16": {
+      "clue": "Apesar disso",
+      "answer": "POREM",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Um filme de sucesso, com Brad Pitt",
+      "answer": "TROIA",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "Ti invertido",
+      "answer": "IT",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Em cinema e TV, registrar em filme",
+      "answer": "RODAR",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Ferreira Gullar, poeta",
+      "answer": "FG",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Uma grande equipe italiana de futebol",
+      "answer": "MILAN",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Pedir com instância",
+      "answer": "ROGAR",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Chamar a juízo",
+      "answer": "CITAR",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Completa, inteira",
+      "answer": "TODA",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Pedidor, procurador",
+      "answer": "SOLICITADOR",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Uma variedade do abacate, de polpa aveludada",
+      "answer": "AVOCADO",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Bom senso",
+      "answer": "SISO",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Península no extremo noroeste do continente americano",
+      "answer": "ALASCA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Fio que leva o fogo a uma carga de explosivos",
+      "answer": "ESTOPIM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Impor silêncio a",
+      "answer": "CALAR",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Capaz de aumentar a velocidade de",
+      "answer": "ACELERATIVO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Uma resposta de pessoa hesitante",
+      "answer": "MAS",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Um cervo no norte",
+      "answer": "ALCE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Lavagem, restos de comida que se dão aos porcos",
+      "answer": "PAPARROTADA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Improdutivo devido à seca",
+      "answer": "ARIDO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Aquele que goza de perfeita saúde",
+      "answer": "SÃO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Subir em cavalgadura",
+      "answer": "MONTAR",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Que se inspira no amor",
+      "answer": "EROTICO",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "Abatido com foice",
+      "answer": "CEIFADO",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Principado europeu, famoso pelo alto padrão de vida",
+      "answer": "MONACO",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "O significado do A do INCRA",
+      "answer": "AGRARIA",
+      "row": 4,
+      "col": 10
+    },
+    "24": {
+      "clue": "Tom claro da cor roxa",
+      "answer": "LILAS",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Um povo germânico",
+      "answer": "GODOS",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "(Costa) Nação com capital San José",
+      "answer": "RICA",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "Sistema Único de Saúde",
+      "answer": "SUS",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Semelhante (à mesma forma ou figura)",
+      "answer": "TAL",
+      "row": 8,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Capacidade de se identificar com outra pessoa",
+      "answer": "EMPATIA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Qualidade positiva",
+      "answer": "BOM",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Facção",
+      "answer": "SEITA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "A capital de Taiwan, país do extremo Oriente",
+      "answer": "TAIPE",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Juízo natural",
+      "answer": "TINO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Um tecido maleável e escorregadio",
+      "answer": "JERSEI",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Abrev.: eletrencefalograma",
+      "answer": "EEG",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Ave dos falconídeos, com até 56 cm de comprimento",
+      "answer": "CARCARA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Locução latina que significa, apenas para manter as aparências",
+      "answer": "PROFORMA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Asquerosa, imunda, nojenta",
+      "answer": "SORDIDA",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "(Cul.) Guisado com pedaços de carne e cozido em molho",
+      "answer": "FRICASSE",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Mecanismo",
+      "answer": "MAQUINA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Bar inglês",
+      "answer": "PUB",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "A ordem de animais das rãs e dos sapos",
+      "answer": "ANUROS",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Imperador romano que teria incendiado Roma",
+      "answer": "NERO",
+      "row": 8,
+      "col": 7
+    },
+    "30": {
+      "clue": "Modelo de perfeição",
+      "answer": "IDEAL",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Muito tempo",
+      "answer": "HORAS",
+      "row": 9,
+      "col": 6
+    },
+    "32": {
+      "clue": "Vibração harmônica",
+      "answer": "SOM",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Célula do favo de mel",
+      "answer": "ALVEOLO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Pneu sobressalente",
+      "answer": "ESTEPE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um bairro do Rio de Janeiro",
+      "answer": "MEIER",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Gotas",
+      "answer": "PINGOS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Cada capítulo de uma peça teatral",
+      "answer": "ATO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O tântalo, entre os químicos",
+      "answer": "TA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Impermeável ao calor (fem.)",
+      "answer": "ATERMICA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Pop.) A mãe da mãe da mãe",
+      "answer": "BISA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O gênero musical de \"Madame Butterfly\"",
+      "answer": "OPERA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Ingresso pela metade do preço",
+      "answer": "MEIA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "A dentária está na boca de todos",
+      "answer": "ARCADA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Uma região nobre de SP",
+      "answer": "JARDINS",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "(Gír.) Bando, quadrilha",
+      "answer": "CORRIOLA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "(Pop.) Coisa bonita e graciosa",
+      "answer": "FOFURA",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Que tem o sabor acre da fruta verde",
+      "answer": "ASPERO",
+      "row": 5,
+      "col": 8
+    },
+    "21": {
+      "clue": "Sujo, imundo",
+      "answer": "SEBOSO",
+      "row": 5,
+      "col": 10
+    },
+    "22": {
+      "clue": "Ex-jogador mineiro de voleibol, da \"geração de prata\" dos anos 1980",
+      "answer": "XANDO",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "(Anat.) Relativo à barriga da perna",
+      "answer": "SURAL",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "(Matem.) O oposto de -",
+      "answer": "MAIS",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Que pessoa",
+      "answer": "QUEM",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Personagem bíblico, herói do dilúvio",
+      "answer": "NOE",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "Herbert Vianna, músico de \"Os Paralamas do Sucesso\"",
+      "answer": "HV",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

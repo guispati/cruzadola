@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Tarsila do) Pintora paulista",
+      "answer": "AMARAL",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Animal semelhante ao cavalo, geralmente de menor tamanho",
+      "answer": "ASNO",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "(Rel.) Cada um dos três reis que, segundo o Evangelho, foram a Belém para adorar Jesus",
+      "answer": "MAGO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O músico Scandurra, da banda \"Ira\"",
+      "answer": "EDGARD",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Famoso paisagista paulistano (1909-1994)",
+      "answer": "BURLEMARX",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Alfândega",
+      "answer": "ADUANA",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Cada braço de uma hélice",
+      "answer": "PA",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Livrar puxando, fazer sair",
+      "answer": "SAFAR",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Suceder",
+      "answer": "ADVIR",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Fluxo nasal resultado de um resfriado",
+      "answer": "RINORREIA",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Uma capital às margens do Amazonas",
+      "answer": "MACAPA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Fís.) Condições normais de temperatura e pressão",
+      "answer": "CNTP",
+      "row": 6,
+      "col": 7
+    },
+    "26": {
+      "clue": "Famosa marca de sal de frutas",
+      "answer": "ENO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Edifício com muitos andares",
+      "answer": "ESPIGÃO",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Instituto de História",
+      "answer": "IH",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Terreno que uma junta de bois pode lavrar em um dia",
+      "answer": "JUGADA",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "(Pop.) Português",
+      "answer": "GAJO",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Apressar",
+      "answer": "AÇODAR",
+      "row": 9,
+      "col": 5
+    },
+    "35": {
+      "clue": "Metódico",
+      "answer": "ORDEIRO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "(Gír.) Tumulto, agitação",
+      "answer": "AUE",
+      "row": 10,
+      "col": 8
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Tanto este quanto aquele",
+      "answer": "AMBOS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O oposto de bom",
+      "answer": "MAU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Que apresenta distúrbio neurológico que impede a escrita",
+      "answer": "AGRAFICO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Máquina simples para levantar pesos",
+      "answer": "ROLDANA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Máxima",
+      "answer": "LEMA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Grato",
+      "answer": "AGRADECIDO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Red.) Instrumento muito utilizado no jazz",
+      "answer": "SAX",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Nota da Redação",
+      "answer": "NR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Sentir repulsa a",
+      "answer": "ODIAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Enraivecer, irritar",
+      "answer": "DANAR",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Da Croácia ou de Portugal",
+      "answer": "EUROPEU",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "A mais alta e fria cidade da Bahia",
+      "answer": "PIATÃ",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Andar vagarosamente, não ter pressa",
+      "answer": "ARANHAR",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Desafrontada, desagravada",
+      "answer": "VINGADA",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Fazer em pedaços (papel, tecido etc.)",
+      "answer": "RASGAR",
+      "row": 5,
+      "col": 5
+    },
+    "23": {
+      "clue": "Carinhoso",
+      "answer": "MEIGO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Pop.) Bebedeira",
+      "answer": "PORRE",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "Edifício da câmara municipal",
+      "answer": "PAÇO",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "O ator Pesci, de \"Cassino\"",
+      "answer": "JOE",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Jane Duboc, cantora paraense",
+      "answer": "JD",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "O símbolo químico do ouro",
+      "answer": "AU",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

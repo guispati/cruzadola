@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "O imperador Napoleão",
+      "answer": "BONAPARTE",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Preparar com refogado",
+      "answer": "GUISAR",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "Cissa Guimarães, atriz e apresentadora",
+      "answer": "CG",
+      "row": 1,
+      "col": 9
+    },
+    "11": {
+      "clue": "Nilo Peçanha (1867-1924), ex-presidente do Brasil",
+      "answer": "NP",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Fazer adquirir amizades",
+      "answer": "ENTROSAR",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "A segunda potência de dez",
+      "answer": "CEM",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Uma fechadura rudimentar",
+      "answer": "TRAMELA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "O apoio a uma iniciativa de outrem",
+      "answer": "ADESÃO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "O ator Pitt, de \"Babel\"",
+      "answer": "BRAD",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "(Red.) Exibição de produtos",
+      "answer": "EXPO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Bem moreno",
+      "answer": "JAMBO",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "(Inf.) Papai",
+      "answer": "PAIE",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Valente",
+      "answer": "DURÃO",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Questionar",
+      "answer": "INDAGAR",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Que não tem a substância interna que tinha",
+      "answer": "OCO",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "O tenista sérvio Novak",
+      "answer": "DJOKOVIC",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Sigla do estado de Oiapoque",
+      "answer": "AP",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Um sufixo aumentativo",
+      "answer": "ÃO",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Produtor de livros e jornais",
+      "answer": "EDITOR",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Favorito",
+      "answer": "PREDILETO",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ponto de vendas de revistas, jornais etc.",
+      "answer": "BANCA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "As iniciais do escritor russo Gogol (1809-1852)",
+      "answer": "NG",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "(Pop.) Situação de grande alvoroço",
+      "answer": "AUE",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Diz-se do fruto que começa a amadurecer",
+      "answer": "PINTÃO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Corpo celeste",
+      "answer": "ASTRO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Única ou quase",
+      "answer": "RARA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Pop.) Colidir com",
+      "answer": "TROMBAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Sensação de satisfação",
+      "answer": "AGRADO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "(Pop.) Suborno que se dá para alguém para impedir uma denúncia",
+      "answer": "CALABOCA",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "(Pop.) Tênis branco",
+      "answer": "PEDEANJO",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Discurso religioso pronunciado no púlpito",
+      "answer": "SERMÃO",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Agitado",
+      "answer": "MEXIDO",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "(Ingl.) Locutor de rádio",
+      "answer": "SPEAKER",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Uma ave que turturina",
+      "answer": "JURITI",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "(Pop.) Aquele que vive solicitando as coisas",
+      "answer": "PIDÃO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "O músico Byrne, da banda \"Talking Heads\"",
+      "answer": "DAVID",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "(Vest.) Corte enviesado de vestido",
+      "answer": "GODE",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Narcótico extraído dos frutos da papoula",
+      "answer": "OPIO",
+      "row": 7,
+      "col": 10
+    },
+    "30": {
+      "clue": "Abrev.: Colômbia",
+      "answer": "COL",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Uma das marchas dos carros",
+      "answer": "RE",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um milhão, indicando unidade de medida",
+      "answer": "MEGA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "A polar é uma das regiões dos extremos da Terra",
+      "answer": "CALOTA",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Instrumento parecido com o violão, de origem árabe",
+      "answer": "ALAUDE",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "R",
+      "answer": "ERRE",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Substância usada para fazer forro",
+      "answer": "GESSO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Reduzir (fruta) a pequenos pedaços",
+      "answer": "PICAR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "O símbolo químico do metal da medalha do vice-campeão",
+      "answer": "AG",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Homem que segue um moralismo rígido",
+      "answer": "PURITANO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "(Zool.) Diz-se do organismo que vive nas águas de curso rápido",
+      "answer": "LENITICO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Sandra Bullock, atriz de \"Miss Simpatia\"",
+      "answer": "SB",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Relatar, narrar",
+      "answer": "RACONTAR",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Vela grande de cera",
+      "answer": "CIRIO",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "O \"eu\" da psicanálise",
+      "answer": "EGO",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "(de gato) Dispositivo de sinalização das estradas",
+      "answer": "OLHO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Pequena porção de bebida",
+      "answer": "TRAGO",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "Época da cria",
+      "answer": "CIO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Região adjacente",
+      "answer": "BEIRADA",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "Sentido de apreensão",
+      "answer": "ANSIA",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Transferir uma possessão",
+      "answer": "CEDER",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "Robert Koch, cientista alemão do bacilo da tuberculose",
+      "answer": "RK",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Diz-se de fruta para ser espremida para obtenção de suco",
+      "answer": "SUMOSA",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O músico Sidney",
+      "answer": "MAGAL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Escolher entre dois ou mais",
+      "answer": "ELEGER",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Combustível para fogão",
+      "answer": "GAS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Prenúncio, presságio",
+      "answer": "AUSPICIO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Sigla do estado de Quixadá e Sobral",
+      "answer": "CE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Pequena porca",
+      "answer": "LEITOA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Cetáceo típico dos mares frios",
+      "answer": "ORCA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Red.) Diz-se de quem alterou seus traços sexuais, tornando-os semelhantes aos do sexo oposto",
+      "answer": "TRANS",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Microrganismo que precisa de oxigênio para viver",
+      "answer": "AEROBIO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Médico",
+      "answer": "DOUTOR",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Relativo ou pertencente à pintura",
+      "answer": "PICTORICO",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Incômoda inflamação da mucosa nasal",
+      "answer": "RINITE",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Tortilhas de milho crocante com formato triangular",
+      "answer": "NACHOS",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Propriedade rural banhada por curso de água",
+      "answer": "REGADA",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Fazer som em um instrumento musical",
+      "answer": "TOCAR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Na moda feminina, corte do vestido em sentido enviesado",
+      "answer": "GODE",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "(Pal. ingl.) Referência que um documento faz a outro em páginas da internet",
+      "answer": "LINK",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Clima",
+      "answer": "ARES",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Uma grande caixa com tampa",
+      "answer": "BAU",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Molde para dar forma ao queijo",
+      "answer": "ARO",
+      "row": 8,
+      "col": 10
+    },
+    "35": {
+      "clue": "Ivete Sangalo, cantora",
+      "answer": "IS",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

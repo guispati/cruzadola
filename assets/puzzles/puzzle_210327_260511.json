@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Bem iluminado",
+      "answer": "CLARO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Transgredir uma regra religiosa",
+      "answer": "PECAR",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "(Banking) Serviço oferecido por bancos, através da net",
+      "answer": "HOME",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Uma pequena quantidade de líquido bebido",
+      "answer": "GOLE",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Lamaçal",
+      "answer": "ATOLEIRO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Glória Pires, atriz carioca",
+      "answer": "GP",
+      "row": 2,
+      "col": 9
+    },
+    "14": {
+      "clue": "Uma variedade de abóbora",
+      "answer": "MORANGA",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Feita por ti",
+      "answer": "TUA",
+      "row": 3,
+      "col": 8
+    },
+    "16": {
+      "clue": "Apagar (fogo)",
+      "answer": "EXTINGUIR",
+      "row": 4,
+      "col": 2
+    },
+    "18": {
+      "clue": "Tecer",
+      "answer": "FIAR",
+      "row": 5,
+      "col": 1
+    },
+    "19": {
+      "clue": "Pingo de líquido",
+      "answer": "GOTA",
+      "row": 5,
+      "col": 6
+    },
+    "20": {
+      "clue": "Em que há mútua dependência",
+      "answer": "CORRELATO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Ciclo histórico",
+      "answer": "ERA",
+      "row": 7,
+      "col": 0
+    },
+    "24": {
+      "clue": "Farinha que fica na peneira depois de passada a mais fina",
+      "answer": "CIBARIO",
+      "row": 7,
+      "col": 4
+    },
+    "26": {
+      "clue": "Cobalto, elemento químico",
+      "answer": "CO",
+      "row": 8,
+      "col": 0
+    },
+    "27": {
+      "clue": "Relativo a escrivão público ou tabelião",
+      "answer": "NOTARIAL",
+      "row": 8,
+      "col": 3
+    },
+    "28": {
+      "clue": "Permanente, efetivo",
+      "answer": "FIXO",
+      "row": 9,
+      "col": 2
+    },
+    "29": {
+      "clue": "Um dia no calendário",
+      "answer": "DATA",
+      "row": 9,
+      "col": 7
+    },
+    "30": {
+      "clue": "Que não sofreu alterações (fem.)",
+      "answer": "MESMA",
+      "row": 10,
+      "col": 0
+    },
+    "31": {
+      "clue": "Dar lustro a",
+      "answer": "POLIR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Língua de fogo",
+      "answer": "CHAMA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um jogo de azar",
+      "answer": "LOTO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Árvore cultivada para produção de seda",
+      "answer": "AMOREIRA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Livrar de tensão",
+      "answer": "RELAXAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Folha usada em chás, também chamada bugrinho",
+      "answer": "PORANGABA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "(Fig.) Vínculo",
+      "answer": "ELO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "C",
+      "answer": "CE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Cortar completamente os cabelos",
+      "answer": "RAPAR",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Comédia romântica e musical do cinema (1958)",
+      "answer": "GIGI",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Parte do frango muito consumida em churrasco",
+      "answer": "ENTRECOXA",
+      "row": 2,
+      "col": 4
+    },
+    "13": {
+      "clue": "Roteiro",
+      "answer": "GUIA",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Manual de instruções sobre um assunto específico",
+      "answer": "TUTORIAL",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "(São) O terceiro maior túnel do mundo, na Suíça",
+      "answer": "GOTARDO",
+      "row": 4,
+      "col": 7
+    },
+    "18": {
+      "clue": "Tribunal de justiça",
+      "answer": "FORO",
+      "row": 5,
+      "col": 1
+    },
+    "20": {
+      "clue": "Divertículo natural com que se inicia o intestino grosso",
+      "answer": "CECUM",
+      "row": 6,
+      "col": 0
+    },
+    "21": {
+      "clue": "Elemento de composição: pedra",
+      "answer": "LITO",
+      "row": 6,
+      "col": 5
+    },
+    "22": {
+      "clue": "A unidade monetária dos EUA",
+      "answer": "DOLAR",
+      "row": 6,
+      "col": 10
+    },
+    "25": {
+      "clue": "Cidade pernambucana próxima a Garanhuns",
+      "answer": "IATI",
+      "row": 7,
+      "col": 9
+    },
+    "27": {
+      "clue": "Tecido fabricado antigamente numa região da França",
+      "answer": "NIM",
+      "row": 8,
+      "col": 3
+    },
+    "28": {
+      "clue": "Fernando Sabino (1923-2004), escritor de \"O Encontro Marcado\"",
+      "answer": "FS",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Leque, ventarola",
+      "answer": "ABANO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Empresa alemã de produtos químicos",
+      "answer": "BAYER",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "(Serra do) Cadeia de montanhas entre MG e BA",
+      "answer": "ESPINHAÇO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Tacho de barro",
+      "answer": "PADELO",
+      "row": 2,
+      "col": 2
+    },
+    "13": {
+      "clue": "Diogo Nogueira, sambista",
+      "answer": "DN",
+      "row": 2,
+      "col": 9
+    },
+    "14": {
+      "clue": "Escola de Química",
+      "answer": "EQ",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "(Vasco da) Um clube do futebol carioca",
+      "answer": "GAMA",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Bastante",
+      "answer": "MUI",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Coberto de Au",
+      "answer": "OURADO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Cume",
+      "answer": "CIMO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Relativo ao conjunto da Europa e Ásia",
+      "answer": "EURASIANO",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Presilha usada para manusear malas, frasqueiras etc.",
+      "answer": "ALÇA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "O T de Fiat",
+      "answer": "TORINO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Dupla de cantores ou cantadores",
+      "answer": "DUO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Uma personagem de fábulas e histórias infantis",
+      "answer": "FADA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Teodoro Sampaio, engenheiro e escritor baiano",
+      "answer": "TS",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Volodymyr Zelensky, presidente da Ucrânia",
+      "answer": "VZ",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Uma peça de roupa",
+      "answer": "CASACO",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Aficionado por música",
+      "answer": "DILETANTE",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "A unidade monetária da Índia",
+      "answer": "RUPIA",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "O empresário Setúbal (1923-2008), do banco Itaú",
+      "answer": "OLAVO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Transporte pelo ar",
+      "answer": "AEREO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Britney Spears, cantora",
+      "answer": "BS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Ingl.) Aplicativo",
+      "answer": "APP",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Variedade de uva também conhecida como Isabel",
+      "answer": "NIAGARA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Afluxo de líquidos",
+      "answer": "ONDADA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Pedaço de doce aromatizado, feito para chupar",
+      "answer": "BALA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Fig.) Qualquer tipo de arma branca",
+      "answer": "AÇO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Eu, em Buenos Aires",
+      "answer": "YO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Re, elemento químico",
+      "answer": "RENIO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Estancamento de uma grave perda de sangue",
+      "answer": "HEMOSTASE",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "O aeronauta Alberto Santos (1873-1932)",
+      "answer": "DUMONT",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Cidade paulista próxima a Guaratinguetá",
+      "answer": "QUELUZ",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "Oposto de máxi",
+      "answer": "MINI",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Que perdeu a cor",
+      "answer": "RUÇO",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Animal semelhante à raposa, com pelo marrom-avermelhado",
+      "answer": "CARACAL",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "(Quím.) O mais comum é o de potássio",
+      "answer": "IODATO",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Suceder",
+      "answer": "ADVIR",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Próprio do esqueleto",
+      "answer": "OSSEO",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "O dom de pronunciar palavras",
+      "answer": "FALA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "102, em algarismos romanos",
+      "answer": "CII",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Sufixo feminino de ão",
+      "answer": "ONA",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Departamento de Pessoal",
+      "answer": "DP",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Televisão",
+      "answer": "TV",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

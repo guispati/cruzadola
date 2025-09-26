@@ -1,0 +1,234 @@
+{
+  "across": {
+    "2": {
+      "clue": "Cortar, separando do corpo de que faz parte",
+      "answer": "DECEPAR",
+      "row": 0,
+      "col": 2
+    },
+    "8": {
+      "clue": "Ferro esmaltado",
+      "answer": "AGATA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Condições climáticas",
+      "answer": "ARES",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Cadeiras geralmente possuem quatro",
+      "answer": "PES",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Usada, gasta",
+      "answer": "SERVIDA",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Prefixo: falta, privação",
+      "answer": "AN",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "O \"Marechal da Paz\" (1865-1958), sertanista",
+      "answer": "RONDON",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "A capital italiana",
+      "answer": "ROMA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Tradicional marca brasileira de cerveja escura",
+      "answer": "CARACU",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Que arrasa",
+      "answer": "AVASSALADOR",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Levantar âncora",
+      "answer": "ZARPAR",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Famosa música de Dorival Caymmi",
+      "answer": "DORA",
+      "row": 6,
+      "col": 7
+    },
+    "26": {
+      "clue": "Um animal como o chimpanzé ou o sagui",
+      "answer": "MACACO",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "Dolores Duran (1930-1959), cantora e compositora carioca",
+      "answer": "DD",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Que não tem cheiro (fem.)",
+      "answer": "INODORA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "O S de SP",
+      "answer": "SÃO",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Pequena ilha em forma de anel",
+      "answer": "ATOL",
+      "row": 9,
+      "col": 1
+    },
+    "33": {
+      "clue": "Causador, agente",
+      "answer": "FATOR",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "(Fig.) Casa de negócios mal-afamada",
+      "answer": "ARAPUCA",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(It.) Fotógrafos que perseguem celebridades",
+      "answer": "PAPARAZZI",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Contração de uma preposição com um artigo feminino plural",
+      "answer": "DAS",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Um extraterrestre do cinema",
+      "answer": "ET",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Situação particular",
+      "answer": "CASO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Pássaro muito comum nas cidades brasileiras",
+      "answer": "PARDAL",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Bosque",
+      "answer": "ARVORADO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Tempo de governo de um soberano",
+      "answer": "REINADO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Cidade italiana com um dos principais portos da Europa",
+      "answer": "GENOVA",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Salvador Dalí (1904-1989), artista espanhol",
+      "answer": "SD",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Afrontar",
+      "answer": "ENCARAR",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Diz-se de mesa em que são contados os votos",
+      "answer": "APURADORA",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Aquele que desbasta com instrumento apropriado",
+      "answer": "RASPADOR",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Um roedor do hemisfério norte",
+      "answer": "MARMOTA",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Grupo de foliões carnavalescos",
+      "answer": "CORDÃO",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Espécie de bolsa simples",
+      "answer": "SACOLA",
+      "row": 5,
+      "col": 4
+    },
+    "27": {
+      "clue": "Um craque de nossa seleção pentacampeã de futebol",
+      "answer": "CAFU",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "Sódio, elemento químico",
+      "answer": "NA",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "(Abrev.) Santa",
+      "answer": "STA",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Aviso de Chegada",
+      "answer": "AC",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

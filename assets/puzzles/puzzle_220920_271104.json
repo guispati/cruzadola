@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Que revela boa educação",
+      "answer": "CORTES",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Proveniência de um ancestral",
+      "answer": "RAMO",
+      "row": 0,
+      "col": 7
+    },
+    "11": {
+      "clue": "Aquele que permite, que consente",
+      "answer": "ANUENTE",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Autor de crime",
+      "answer": "REU",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Impedir o corrimento de um líquido",
+      "answer": "ESTANCAR",
+      "row": 2,
+      "col": 2
+    },
+    "16": {
+      "clue": "Ler de novo",
+      "answer": "RELER",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Capturar, apanhar",
+      "answer": "CAÇAR",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "A casa dos índios",
+      "answer": "OCA",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Estação, período",
+      "answer": "EPOCA",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "Cissa Guimarães, atriz e apresentadora",
+      "answer": "CG",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "A capital do Egito",
+      "answer": "CAIRO",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Você, nas conversas on-line",
+      "answer": "VC",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Planta de brejos e margens de rios",
+      "answer": "TABOA",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "O Barnabé das histórias do \"Sítio do Pica-Pau Amarelo\"",
+      "answer": "TIO",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Retirar a tampa de",
+      "answer": "ABRIR",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Prometer formalmente",
+      "answer": "JURAR",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Português",
+      "answer": "LUSITANO",
+      "row": 8,
+      "col": 1
+    },
+    "34": {
+      "clue": "De + um",
+      "answer": "DUM",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Pop.) Panelinha",
+      "answer": "RODINHA",
+      "row": 9,
+      "col": 4
+    },
+    "37": {
+      "clue": "Sobras de feira, vendidas mais baratas ou distribuídas",
+      "answer": "XEPA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Dar um fechamento solene",
+      "answer": "COROAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Pop.) Mulher que participa dos desfiles de escola de samba",
+      "answer": "CABROCHA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O contrário de off (desligado)",
+      "answer": "ON",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Plaqueta que serve de base à porca",
+      "answer": "RUELA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Dissertação escrita",
+      "answer": "TESE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Descerrar parcialmente",
+      "answer": "ENTREABRIR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Abreviatura de santa",
+      "answer": "STA",
+      "row": 0,
+      "col": 5
+    },
+    "8": {
+      "clue": "Fruto da família da pitangueira",
+      "answer": "ARAÇA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Banal (fem.)",
+      "answer": "MERA",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Conjunção que indica alternativa, opção",
+      "answer": "OU",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Animado, estimulado",
+      "answer": "ENCORAJADO",
+      "row": 1,
+      "col": 6
+    },
+    "15": {
+      "clue": "Pedacinho de vidro quebrado",
+      "answer": "CACO",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Abreviatura de um exame do coração",
+      "answer": "ECG",
+      "row": 3,
+      "col": 1
+    },
+    "19": {
+      "clue": "Lembrar",
+      "answer": "RECORDAR",
+      "row": 3,
+      "col": 10
+    },
+    "22": {
+      "clue": "Voz dos pássaros",
+      "answer": "PIO",
+      "row": 4,
+      "col": 5
+    },
+    "24": {
+      "clue": "O local onde atraca o navio",
+      "answer": "CAIS",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "A Láctea é a nossa galáxia",
+      "answer": "VIA",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Um ex-presidente dos EUA",
+      "answer": "TRUMP",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Poder ou autoridade real",
+      "answer": "TRONO",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Azul, em Londres",
+      "answer": "BLUE",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "Grudar",
+      "answer": "UNIR",
+      "row": 7,
+      "col": 7
+    },
+    "33": {
+      "clue": "(Psiq.) A sigla de Transtorno Obsessivo-Compulsivo",
+      "answer": "TOC",
+      "row": 8,
+      "col": 5
+    },
+    "34": {
+      "clue": "510, em algarismos romanos",
+      "answer": "DX",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Abreviatura de hectare",
+      "answer": "HA",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Investir como reforço",
+      "answer": "INJETAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Pode ser lacrimogêneo",
+      "answer": "GAS",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O gás usado em anúncios luminosos, televisão etc.",
+      "answer": "NEON",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "Intenção criminosa",
+      "answer": "DOLO",
+      "row": 1,
+      "col": 7
+    },
+    "11": {
+      "clue": "Plutônio, elemento químico",
+      "answer": "PU",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Artigo de luxo, de marca forte e luxuosa",
+      "answer": "GRIFE",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "As iniciais do poeta Bandeira (1886-1968)",
+      "answer": "MB",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "(Med.) Sigla para acidente vascular cerebral",
+      "answer": "AVC",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Ver, enxergar",
+      "answer": "AVISTAR",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "A Cláudia atriz campineira",
+      "answer": "RAIA",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "(Red.) Exibição de obras de arte, produtos, serviços etc.",
+      "answer": "EXPO",
+      "row": 4,
+      "col": 5
+    },
+    "23": {
+      "clue": "Furtada",
+      "answer": "SUBTRAIDA",
+      "row": 5,
+      "col": 1
+    },
+    "27": {
+      "clue": "A minha família",
+      "answer": "MEUS",
+      "row": 6,
+      "col": 2
+    },
+    "28": {
+      "clue": "Trajeto",
+      "answer": "ROTA",
+      "row": 6,
+      "col": 7
+    },
+    "30": {
+      "clue": "Atingir o alvo",
+      "answer": "ACERTAR",
+      "row": 7,
+      "col": 0
+    },
+    "33": {
+      "clue": "Sigla usada para pedir socorro",
+      "answer": "SOS",
+      "row": 7,
+      "col": 8
+    },
+    "34": {
+      "clue": "A 20ª letra do alfabeto",
+      "answer": "TE",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "A cidade italiana da Fiat",
+      "answer": "TURIM",
+      "row": 8,
+      "col": 3
+    },
+    "37": {
+      "clue": "Shirley Temple (1828-2014), atriz",
+      "answer": "ST",
+      "row": 8,
+      "col": 9
+    },
+    "38": {
+      "clue": "(Fig.) Criança tranquila",
+      "answer": "ANJO",
+      "row": 9,
+      "col": 0
+    },
+    "40": {
+      "clue": "Um brinquedo que sobe e desce",
+      "answer": "IOIO",
+      "row": 9,
+      "col": 5
+    },
+    "42": {
+      "clue": "Terra natal",
+      "answer": "LAR",
+      "row": 10,
+      "col": 0
+    },
+    "43": {
+      "clue": "Que se verifica no espaço interplanetário",
+      "answer": "COSMICO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Fig.) Sem igual",
+      "answer": "IMPAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Jornal Nacional",
+      "answer": "JN",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Eletrencefalograma",
+      "answer": "EEG",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Tronco de árvore serrado",
+      "answer": "TORA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Diz-se do dia em que faz um ano ou mais",
+      "answer": "ANIVERSARIO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Sigla do estado de Caldas Novas",
+      "answer": "GO",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Princípio de vida no homem ou nos animais",
+      "answer": "ALMA",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Acima de",
+      "answer": "SOBRE",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Desnudar",
+      "answer": "DESPIR",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Viram vinagre",
+      "answer": "UVAS",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Presa, firme",
+      "answer": "FIXA",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Inveja amorosa",
+      "answer": "CIUME",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "A coletividade",
+      "answer": "TODOS",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Espaço vazio",
+      "answer": "ABERTO",
+      "row": 4,
+      "col": 3
+    },
+    "24": {
+      "clue": "Pode ser à mineira",
+      "answer": "TUTU",
+      "row": 5,
+      "col": 4
+    },
+    "25": {
+      "clue": "O dos Apóstolos é um livro da Bíblia",
+      "answer": "ATOS",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Que põe termo, que mata",
+      "answer": "FATAL",
+      "row": 6,
+      "col": 0
+    },
+    "29": {
+      "clue": "Qualquer corpo celeste",
+      "answer": "ASTRO",
+      "row": 6,
+      "col": 10
+    },
+    "31": {
+      "clue": "(Fig.) Fingimento, simulação",
+      "answer": "CENA",
+      "row": 7,
+      "col": 1
+    },
+    "32": {
+      "clue": "O Tietê e o Pinheiros cortam a cidade de São Paulo",
+      "answer": "RIOS",
+      "row": 7,
+      "col": 6
+    },
+    "36": {
+      "clue": "Flexão do pronome eu",
+      "answer": "MIM",
+      "row": 8,
+      "col": 7
+    },
+    "39": {
+      "clue": "Júnior",
+      "answer": "JR",
+      "row": 9,
+      "col": 2
+    },
+    "41": {
+      "clue": "Uma saudação popular",
+      "answer": "OI",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "across": {
+    "1": {
+      "clue": "Abalar, sacudir",
+      "answer": "ESTREMECER",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "O tipo mais comum de algarismo",
+      "answer": "ARABICO",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Separam o D do G",
+      "answer": "EF",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Subir com a ajuda de mãos e pés",
+      "answer": "TREPAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Incerto, indefinido",
+      "answer": "VAGO",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "O contrário de funda",
+      "answer": "RASA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Harmonizar instrumentos musicais",
+      "answer": "AFINAR",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Caminhar daqui para lá",
+      "answer": "IR",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Mulher que impele e direciona uma canoa",
+      "answer": "REMADORA",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Um sobrenome do escritor Camões",
+      "answer": "VAZ",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Elvis Presley (1935-1977), músico",
+      "answer": "EP",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Devida, justa",
+      "answer": "MERECIDA",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "Portar algo para dar ou entregar a",
+      "answer": "LEVAR",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Cosmético para colorir cílios e supercílios",
+      "answer": "RIMEL",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "(Fig.) O mais alto grau",
+      "answer": "APOGEU",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Fr.) Vinho vermelho-claro",
+      "answer": "ROSE",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Fazer pregas em tecido",
+      "answer": "PLISSAR",
+      "row": 9,
+      "col": 1
+    },
+    "36": {
+      "clue": "O titânio",
+      "answer": "TI",
+      "row": 9,
+      "col": 9
+    },
+    "37": {
+      "clue": "Erva de raízes ricas em açúcar, alimentícias",
+      "answer": "BATATADOCE",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Restabelecer-se",
+      "answer": "SARAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O número de países que constituem a América do Norte",
+      "answer": "TRES",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Cortar os cabelos rente ao couro cabeludo",
+      "answer": "RAPAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Escola de Belas Artes",
+      "answer": "EBA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Belvedere sobre o oceano",
+      "answer": "MIRAMAR",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "As iniciais do \"Tremendão\" Carlos",
+      "answer": "EC",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Doença virótica",
+      "answer": "COVID",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Aspergir água em plantas",
+      "answer": "REGAR",
+      "row": 0,
+      "col": 9
+    },
+    "12": {
+      "clue": "Bandido, marginal",
+      "answer": "FORADALEI",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "No futebol, chute de curva, feito com o lado do pé",
+      "answer": "TRIVELA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Pessoa que não se identifica",
+      "answer": "ANONIMO",
+      "row": 2,
+      "col": 8
+    },
+    "18": {
+      "clue": "Produzir de si",
+      "answer": "FAZER",
+      "row": 3,
+      "col": 6
+    },
+    "21": {
+      "clue": "O \"teto do mundo\", no Himalaia",
+      "answer": "EVEREST",
+      "row": 4,
+      "col": 4
+    },
+    "24": {
+      "clue": "(Pig) Uma porquinha cor-de-rosa, de histórias infantis",
+      "answer": "PEPPA",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Mágica",
+      "answer": "MAGIA",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Nuvem das camadas altas da troposfera",
+      "answer": "CIRRO",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "De + este",
+      "answer": "DESTE",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "(Elet.) V",
+      "answer": "VOLT",
+      "row": 7,
+      "col": 2
+    },
+    "32": {
+      "clue": "Sigla inglesa de uma grande potência mundial",
+      "answer": "USA",
+      "row": 8,
+      "col": 5
+    },
+    "35": {
+      "clue": "Anselmo Duarte, ator e cineasta paulistano",
+      "answer": "AD",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

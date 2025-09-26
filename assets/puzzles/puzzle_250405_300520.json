@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(-Barbera) Estúdio de desenhos",
+      "answer": "HANNA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "De vértice para cima",
+      "answer": "ERETO",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "80ª",
+      "answer": "OCTAGESIMA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Solo sem ós",
+      "answer": "SL",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Apito",
+      "answer": "SILVO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "(Quím.) O xenônio",
+      "answer": "XE",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "A ex-parceira de Simone na dupla sertaneja",
+      "answer": "SIMARIA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Forma de pagamento",
+      "answer": "PIX",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "A forma da bola de rúgbi",
+      "answer": "OVAL",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Faixa",
+      "answer": "TIRA",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Uma posição tática do jogador de futebol",
+      "answer": "MEIADIREITA",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Um quase nada",
+      "answer": "TRIZ",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "(Lauderdale) Cidade da Flórida, nos EUA",
+      "answer": "FORT",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "A marca dos carros Picanto e Soul",
+      "answer": "KIA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Guarnecer com folhas delgadas",
+      "answer": "LAMELAR",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Ivone Lara (1921-2018), sambista carioca",
+      "answer": "IL",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Solicitar informações",
+      "answer": "PEDIR",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Nota musical que segue o lá",
+      "answer": "SI",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "Aquele que combina uma melodia com uma série de acordes",
+      "answer": "HARMONISTA",
+      "row": 9,
+      "col": 1
+    },
+    "37": {
+      "clue": "O músico Luiz (1922-2001), de \"De Cigarro em Cigarro\"",
+      "answer": "BONFA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Provocar sensação de calor",
+      "answer": "ARDER",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um prato da culinária oriental",
+      "answer": "HOSSOMAKI",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Terreno em subida",
+      "answer": "ACLIVE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Nathália Timberg, atriz",
+      "answer": "NT",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Pronunciar com som fanhoso",
+      "answer": "NASALAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Passar à ação",
+      "answer": "AGIR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Dissipar, desvanecer",
+      "answer": "ESVAIR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Curso de água contínuo",
+      "answer": "RIO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Preposição de lugar",
+      "answer": "EM",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Meio de transporte de passageiros com automóveis",
+      "answer": "TAXI",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Tornado parte da minoria socialmente dominante",
+      "answer": "ELITIZADO",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Exilar",
+      "answer": "EXPATRIAR",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Uma ave",
+      "answer": "MAITA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Depósito de cereais",
+      "answer": "PAIOL",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Alegar",
+      "answer": "REFERIR",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "(Fig.) Problema insolúvel",
+      "answer": "DILEMA",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Peça de uso doméstico",
+      "answer": "TRASTE",
+      "row": 5,
+      "col": 9
+    },
+    "28": {
+      "clue": "Pequeno furo que serve de passadeira a fitas",
+      "answer": "ILHO",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Jazida de minérios",
+      "answer": "MINA",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Polícia das estradas",
+      "answer": "PRF",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Adalgisa Nery (1905-1980), escritora",
+      "answer": "AN",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "(Abrev.) Sem Data",
+      "answer": "SD",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

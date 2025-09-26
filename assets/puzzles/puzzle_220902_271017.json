@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Tocado de forma afetiva",
+      "answer": "AFETADO",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Um dano cerebral",
+      "answer": "AVC",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Humilhar, maltratar",
+      "answer": "VEXAR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Um aparelho para ouvir músicas e notícias",
+      "answer": "RADIO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Instituto Tecnológico de Aeronáutica",
+      "answer": "ITA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O ponto mais alto da Terra, no Himalaia",
+      "answer": "EVEREST",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "O gênero musical de Paulinho da Viola e Cartola",
+      "answer": "SAMBA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Pequena caverna",
+      "answer": "GRUTA",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Substância gordurosa usada em frituras",
+      "answer": "OLEO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Aterrissar",
+      "answer": "POUSAR",
+      "row": 4,
+      "col": 5
+    },
+    "20": {
+      "clue": "(Inform.) Imagem na tela, representa um programa",
+      "answer": "ICONE",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Cor marrom-acinzentada",
+      "answer": "CASTOR",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Casa de comércio",
+      "answer": "LOJA",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "(Fig.) Provocar, excitar",
+      "answer": "ATEAR",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Apanhar algo que caiu das mãos",
+      "answer": "CATAR",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Moeda divisionária de muitos países",
+      "answer": "CENTIMO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Cantora e apresentadora carioca",
+      "answer": "IZA",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Valente",
+      "answer": "AUDAZ",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Ter medo",
+      "answer": "TEMER",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Sigla inglesa do país de Barack Obama",
+      "answer": "USA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Desportista não profissional (fem.)",
+      "answer": "AMADORA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Notificação escrita ou verbal",
+      "answer": "AVISO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Relativo ao embrião em fase de desenvolvimento",
+      "answer": "FETAL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Investigação, inspeção",
+      "answer": "EXAME",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Pop.) De acordo!",
+      "answer": "TA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Espaço de terreno",
+      "answer": "AREA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Estado dos EUA, entre a Califórnia e Washington",
+      "answer": "OREGON",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Uma palavra de despedida",
+      "answer": "ADEUS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Paisagem, panorama",
+      "answer": "VISTA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Determinar um preço",
+      "answer": "COTAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Peça que evita que a porca se desgaste",
+      "answer": "ARRUELA",
+      "row": 1,
+      "col": 7
+    },
+    "16": {
+      "clue": "(Folcl.) Mito indígena, é uma cobra de fogo com dois grandes olhos",
+      "answer": "BOITATA",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Através de, sobre, ao longo de",
+      "answer": "POR",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Rinite aguda de origem alérgica",
+      "answer": "CORIZA",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "(Costa do) A região baiana com Ilhéus e Itacaré",
+      "answer": "CACAU",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Não creem em Deus",
+      "answer": "ATEUS",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Trilha",
+      "answer": "SENDA",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Excelente",
+      "answer": "OTIMO",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Estar deitado",
+      "answer": "JAZER",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Armação onde se penduram roupas em butiques, lojas etc.",
+      "answer": "ARARA",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Parte de cada um",
+      "answer": "COTA",
+      "row": 7,
+      "col": 6
+    },
+    "35": {
+      "clue": "Eletrodinâmico",
+      "answer": "ED",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

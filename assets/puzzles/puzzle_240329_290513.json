@@ -1,0 +1,258 @@
+{
+  "across": {
+    "2": {
+      "clue": "Prato feito",
+      "answer": "PEEFE",
+      "row": 0,
+      "col": 2
+    },
+    "6": {
+      "clue": "(Matem.) Símbolo de secante",
+      "answer": "SEC",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O combustível dos reatores nucleares",
+      "answer": "URANIO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Não se mexe",
+      "answer": "FIXO",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Frio, em inglês",
+      "answer": "COLD",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Extemporâneo",
+      "answer": "TARDIO",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Um tipo de cerveja",
+      "answer": "ALE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Pref.: inferior",
+      "answer": "SOTO",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "As iniciais do piloto Kanaan",
+      "answer": "TK",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Ato de enroscar em movimento espiralado",
+      "answer": "TORCIMENTO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Álg.) Conjunto munido de uma operação associativa com elemento neutro",
+      "answer": "MONOIDE",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Planta também chamada sorgo",
+      "answer": "ZABURREIRO",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "(Pron.) A segunda pessoa",
+      "answer": "TU",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "A Kalimann influencer",
+      "answer": "RAFA",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "Museu de Arte Moderna, localizado no Parque do ibirapuera, em SP",
+      "answer": "MAM",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Proteção, apoio",
+      "answer": "AMPARO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "O cantor e pianista Nat King (1919-1965)",
+      "answer": "COLE",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "Uma grande rede de hoteis",
+      "answer": "IBIS",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Med.) Uma grave infecção",
+      "answer": "SEPSIA",
+      "row": 9,
+      "col": 5
+    },
+    "34": {
+      "clue": "Museu da Imagem e do Som",
+      "answer": "MIS",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Que diz respeito ao rei",
+      "answer": "REGIO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Marca de motos",
+      "answer": "DUCATI",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Pessoa tola",
+      "answer": "PALERMA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Fim, em inglês",
+      "answer": "END",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Estado Islâmico",
+      "answer": "EI",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Biol.) Ação exercida pela luz no desenvolvimento dos seres vivos",
+      "answer": "FOTOMORFOSE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O Vicious do punk rock",
+      "answer": "SID",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Resultado feliz",
+      "answer": "EXITO",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "(Ilhas) Arquipélago do Pacífico, com capital Avarua",
+      "answer": "COOK",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Qualquer coisa cilíndrica e alongada",
+      "answer": "ROLO",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "A copa das árvores",
+      "answer": "FRONDE",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "A árvore da fruta-do-conde",
+      "answer": "ATEIRA",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Dar relevo a, por meio de rodeios (falando-se de obras literárias)",
+      "answer": "SINUAR",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Mamba, coral e píton",
+      "answer": "COBRAS",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "(Pop.) Cabeça-dura",
+      "answer": "TEIMOSO",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Conferir o cargo de",
+      "answer": "NOMEAR",
+      "row": 5,
+      "col": 10
+    },
+    "23": {
+      "clue": "Título do chefe de um quilombo",
+      "answer": "ZUMBI",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Uma competição como o Dakar",
+      "answer": "RALI",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Estação ecológica do RS",
+      "answer": "TAIM",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Programa de Integração Social",
+      "answer": "PIS",
+      "row": 8,
+      "col": 2
+    },
+    "30": {
+      "clue": "Sigla de uma investigação feita pelo Poder Legislativo",
+      "answer": "CPI",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Egberto Gismonti, músico",
+      "answer": "EG",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

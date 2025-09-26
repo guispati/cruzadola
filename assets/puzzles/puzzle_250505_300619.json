@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "Antiquado, que caiu em desuso",
+      "answer": "OBSOLETO",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "O Lee (1940-1973), ícone das artes marciais",
+      "answer": "BRUCE",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "O mais importante sistema montanhoso da Europa",
+      "answer": "ALPES",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "O astro diurno",
+      "answer": "SOL",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Esperar o pior",
+      "answer": "RECEAR",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Taxa sem ás",
+      "answer": "TX",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Próximo, vizinho",
+      "answer": "CONTIGUO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Pouco denso",
+      "answer": "RALO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Andar para trás",
+      "answer": "RECUAR",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Sem sofrimento físico",
+      "answer": "INDOLOR",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Um bem como uma casa",
+      "answer": "IMOVEL",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Parte de um todo dividido",
+      "answer": "LOTE",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Famosa",
+      "answer": "RENOMADA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Isaac Newton (1642-1727), cientista inglês",
+      "answer": "IN",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Compostura nos modos",
+      "answer": "DECORO",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "Tipo de garrafa",
+      "answer": "PET",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "(Pop.) Pedir um cigarro",
+      "answer": "FILAR",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Tufo de plantas rasteiras e arbustos",
+      "answer": "MOITA",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Relatar, narrar",
+      "answer": "RACONTAR",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Criar empecilhos à concretização de algo",
+      "answer": "OBSTRUIR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Pincel grande e grosso para caiação ou pintura comum",
+      "answer": "BROXA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "S",
+      "answer": "SUL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Osvaldo Cruz (1872-1917), médico e sanitarista",
+      "answer": "OC",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Gír.) Conversa-mole",
+      "answer": "LERO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Um tecido para agasalhos",
+      "answer": "TACTEL",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Relativo à cultura da azeitona",
+      "answer": "OLEICOLA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Um tipo de carro para carga ou passageiros",
+      "answer": "PERUA",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Crustáceo que vive em conchas de moluscos",
+      "answer": "PAGURO",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "(Pop.) Tapear, enganar alguém",
+      "answer": "ENROLAR",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Reunir",
+      "answer": "CONVOCAR",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Indicar o rumo a",
+      "answer": "ORIENTAR",
+      "row": 3,
+      "col": 10
+    },
+    "19": {
+      "clue": "O craque argentino de futebol Messi",
+      "answer": "LIONEL",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Delonga",
+      "answer": "DEMORA",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "O eme no tamanho das roupas",
+      "answer": "MEDIO",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "A personagem \"do Agreste\", de Jorge Amado",
+      "answer": "TIETA",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Catedral",
+      "answer": "DOMO",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "(Bull) Cão",
+      "answer": "PIT",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Observatório Nacional",
+      "answer": "ON",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

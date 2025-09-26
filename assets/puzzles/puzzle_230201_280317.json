@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Calçados que cobrem até parte das pernas",
+      "answer": "BOTAS",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Espada curta",
+      "answer": "SABRE",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Que foi enganado ou ludibriado",
+      "answer": "ILUDIDO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Orígenes Lessa, escritor",
+      "answer": "OL",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Zombaria feita pelo telefone",
+      "answer": "TROTE",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Departamento de Pessoal",
+      "answer": "DP",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "(De) Me",
+      "answer": "MIM",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Que sofre de uma contínua falta de saúde e de vigor",
+      "answer": "DOENTIO",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Confeccionar roupa",
+      "answer": "TECER",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Gotejar líquido pela pele após algum esforço físico",
+      "answer": "SUAR",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Aquele que não teme o perigo",
+      "answer": "AUDAZ",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Pequena lança usada em tiro ao alvo",
+      "answer": "DARDO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Um tecido",
+      "answer": "BRIM",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "A segunda camada da pele",
+      "answer": "DERME",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Carinhos, afagos",
+      "answer": "AGRADOS",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Criada de companhia",
+      "answer": "AMA",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "O multiartista Soares",
+      "answer": "JO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Sem dificuldade alguma",
+      "answer": "FACIL",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Agência Nacional",
+      "answer": "AN",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "Toró",
+      "answer": "PEDAGUA",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Instrumento para traçar linhas retas",
+      "answer": "REGUA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Grupo de cartas estampadas com o mesmo sinal e cor",
+      "answer": "NAIPE",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Crescimento",
+      "answer": "BOOM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O titânio",
+      "answer": "TI",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Tecla muito usada pelos digitadores",
+      "answer": "ALT",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Ausência da capacidade de ouvir",
+      "answer": "SURDEZ",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Ingl.) Página da internet",
+      "answer": "SITE",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Tornar espesso",
+      "answer": "ADENSAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Boletim de Ocorrência",
+      "answer": "BO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Um tipo de semente unicelular e uninuclear",
+      "answer": "ESPORO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "(Ingl.) Porta",
+      "answer": "DOOR",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Versado em ritos religiosos",
+      "answer": "LITURGO",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Coroa usada como sinal de realeza",
+      "answer": "DIADEMA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Avaliar",
+      "answer": "MEDIR",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Grupo de amigos",
+      "answer": "TURMA",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Pedra talhada em relevo, usada como adorno",
+      "answer": "CAMAFEU",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Quebra-luz",
+      "answer": "ABAJUR",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Concepção de projeto",
+      "answer": "DESIGN",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Parte do porto onde se carrega e descarrega navios",
+      "answer": "DOCA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "O Maravilha, ex-craque do futebol brasileiro",
+      "answer": "DADA",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Como consequência de",
+      "answer": "ANTE",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "Astro que fica a 380.000 km da Terra",
+      "answer": "LUA",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Pago",
+      "answer": "PG",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Grito que expressa dor",
+      "answer": "AI",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

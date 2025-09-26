@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Acumulação pré-histórica realizada por índios",
+      "answer": "SAMBAQUI",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Banheiro",
+      "answer": "WC",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O vi do Covid",
+      "answer": "VIRUS",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "Apetite sexual dos animais em determinadas épocas",
+      "answer": "CIO",
+      "row": 1,
+      "col": 8
+    },
+    "11": {
+      "clue": "Tempo gélido",
+      "answer": "FRIURA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Vasilha própria para o mate",
+      "answer": "CUIA",
+      "row": 2,
+      "col": 7
+    },
+    "14": {
+      "clue": "Uma maneira de se escrever segundo ou dois",
+      "answer": "II",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Pisar com os pés",
+      "answer": "CALCAR",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Os sinais que delimitam uma citação",
+      "answer": "ASPAS",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Que só tem um olho",
+      "answer": "LUSCO",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Aquele que joga baralho",
+      "answer": "CARTEADOR",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Espécie de boné sem aba",
+      "answer": "BOINA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "A Clara Machado (1921-2001) escritora de livros infantis",
+      "answer": "MARIA",
+      "row": 6,
+      "col": 6
+    },
+    "25": {
+      "clue": "Dos nervos",
+      "answer": "NERVAL",
+      "row": 7,
+      "col": 2
+    },
+    "27": {
+      "clue": "A posição geográfica oposta ao SO",
+      "answer": "NE",
+      "row": 7,
+      "col": 9
+    },
+    "28": {
+      "clue": "28,349 gramas",
+      "answer": "ONÇA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Escolher um método como guia",
+      "answer": "ADOTAR",
+      "row": 8,
+      "col": 5
+    },
+    "32": {
+      "clue": "(Rel.) Hora canônica correspondente às três da tarde",
+      "answer": "NOA",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Conjunto de doze dúzias",
+      "answer": "GROSA",
+      "row": 9,
+      "col": 4
+    },
+    "34": {
+      "clue": "Xis sem i",
+      "answer": "XS",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Planta ornamental, de flores vermelhas, purpurinas, aveludadas",
+      "answer": "AMARANTO",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A capital da Bulgária, país europeu",
+      "answer": "SOFIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "1006, em algarismos romanos",
+      "answer": "MVI",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Outro nome da planta pata-de-elefante",
+      "answer": "BIUCARNEA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "(Inform.) Mover um elemento gráfico com o auxílio do mouse, sem soltar o botão",
+      "answer": "ARRASTAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Como",
+      "answer": "QUAL",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O que transforma mico em músico",
+      "answer": "US",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Um console de videogames",
+      "answer": "WII",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Passado por crivo",
+      "answer": "COADO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Seta na tela do PC",
+      "answer": "CURSOR",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "Traço sobre uma superfície",
+      "answer": "RISCO",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "Que leva água em abundância (fem.)",
+      "answer": "CAUDALOSA",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Gritador, berrador",
+      "answer": "CLAMADOR",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Farinha de uma gramínea cultivada há mais de 5.000 anos",
+      "answer": "PAINÇA",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "O pelo do pescoço e da cauda do cavalo",
+      "answer": "CRINA",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Um dos grandes bairros de NY (EUA)",
+      "answer": "BRONX",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Que é visto do céu",
+      "answer": "AEREO",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Haste da armação do guarda-chuva",
+      "answer": "VARA",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "Laços apertados",
+      "answer": "NOS",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "(Matem.) Tangente",
+      "answer": "TAN",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Gabriel Medina, atleta",
+      "answer": "GM",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Pop.) Indicação boa",
+      "answer": "DICA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(ao Centro da Terra) Livro de ficção científica de Júlio Verne",
+      "answer": "VIAGEM",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Que incute grande pavor",
+      "answer": "ATERRADOR",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Produtos da Fiat e da Tata",
+      "answer": "CARROS",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Juízo",
+      "answer": "SISO",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "A humanidade ou uma coletividade em seu conjunto",
+      "answer": "TODOS",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "(Hermanos) Banda de pop rock nacional",
+      "answer": "LOS",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Vestuário próprio de uma profissão",
+      "answer": "TRAJE",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "(Ingl.) Saguão",
+      "answer": "HALL",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Outro nome do bicho-preguiça",
+      "answer": "AI",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Plantação de alhos",
+      "answer": "ALHAL",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Tubo em ângulo reto para conduzir água",
+      "answer": "TE",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Preposição que expressa o sentido de utilidade",
+      "answer": "PARA",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Movem a canoa",
+      "answer": "REMOS",
+      "row": 6,
+      "col": 6
+    },
+    "30": {
+      "clue": "Doença, enfermidade",
+      "answer": "MAL",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Acima",
+      "answer": "SUPRA",
+      "row": 7,
+      "col": 4
+    },
+    "33": {
+      "clue": "Um objeto como o fuzil ou a bazuca",
+      "answer": "ARMA",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "Que se prendeu",
+      "answer": "RETIDO",
+      "row": 8,
+      "col": 5
+    },
+    "37": {
+      "clue": "Homens nascidos no país cuja capital é Teerã",
+      "answer": "IRANIANOS",
+      "row": 9,
+      "col": 2
+    },
+    "39": {
+      "clue": "Sinal usado nos endereços de correio eletrônico",
+      "answer": "ARROBA",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Ato de banhar as plantas",
+      "answer": "REGA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Indígena de uma tribo norte-americana",
+      "answer": "DACOTA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Pedra, em tupi",
+      "answer": "ITA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Que sabe bem (fem.)",
+      "answer": "CERTA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Lançar com ímpeto e força",
+      "answer": "ARROJAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Peça do banheiro própria para dejeções",
+      "answer": "VASO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Transforma diva em dívida",
+      "answer": "ID",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Àqueles",
+      "answer": "AOS",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Ingl.) Um acessório de cozinha",
+      "answer": "GRILL",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "(Pl.) Domínio, controle",
+      "answer": "MÃOS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Fatias circulares",
+      "answer": "RODELAS",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Livre",
+      "answer": "SOLTO",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Cão de pele muito solta e enrugada e língua escura",
+      "answer": "SHARPEI",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "(Pop.) Espancar",
+      "answer": "RIPAR",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Chamar a atenção de",
+      "answer": "ALERTAR",
+      "row": 4,
+      "col": 7
+    },
+    "25": {
+      "clue": "Um dos cônjuges",
+      "answer": "ESPOSA",
+      "row": 5,
+      "col": 10
+    },
+    "27": {
+      "clue": "O músico sul-mato-grossense Sater",
+      "answer": "ALMIR",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "Estado do nordeste dos EUA, com capital Augusta",
+      "answer": "MAINE",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "Objeto para malabar",
+      "answer": "MAÇA",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Um receptáculo para recolher votos",
+      "answer": "URNA",
+      "row": 7,
+      "col": 5
+    },
+    "34": {
+      "clue": "Anel",
+      "answer": "ARO",
+      "row": 8,
+      "col": 3
+    },
+    "36": {
+      "clue": "(Ingl.) Cão",
+      "answer": "DOG",
+      "row": 8,
+      "col": 9
+    },
+    "38": {
+      "clue": "Adoniran Barbosa, músico",
+      "answer": "AB",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

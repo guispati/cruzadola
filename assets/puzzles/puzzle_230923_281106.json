@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "A corda sobre a qual equilibristas fazem apresentações",
+      "answer": "BAMBA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(RJ., chulo) Enfadonho, tedioso",
+      "answer": "SACAL",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Indivíduo do povo esquimó",
+      "answer": "INUITE",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Remédio",
+      "answer": "CURA",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Estrada de ferro subterrânea",
+      "answer": "METRO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Fig.) Que não presta atenção",
+      "answer": "AEREO",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Um que se dedica à criação de peixes em reservatórios artificiais",
+      "answer": "AQUARISTA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Pop.) Não",
+      "answer": "NUM",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "São cinco nos carros de passeio, contando o estepe",
+      "answer": "PNEUS",
+      "row": 4,
+      "col": 5
+    },
+    "20": {
+      "clue": "Uma saudação comum entre amigos",
+      "answer": "OI",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Substância convertida à forma gasosa",
+      "answer": "VAPOR",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Sigla do estado com o cabo Orange, no extremo norte do Brasil",
+      "answer": "AP",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Polpa",
+      "answer": "MIOLO",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "551, em algarismos romanos",
+      "answer": "DLI",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Perito na ciência dos processos industriais",
+      "answer": "TECNOLOGO",
+      "row": 7,
+      "col": 2
+    },
+    "32": {
+      "clue": "Um vinho tipicamente espanhol",
+      "answer": "RIOJA",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Resfriar",
+      "answer": "GELAR",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Sem valor",
+      "answer": "PEBA",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Alterada, diferente",
+      "answer": "MUDADA",
+      "row": 9,
+      "col": 5
+    },
+    "37": {
+      "clue": "Complementa o nome de cinco dias da semana",
+      "answer": "FEIRA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Residir",
+      "answer": "MORAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Que tem duas mãos",
+      "answer": "BIMANO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Tubarão de grande porte e ferocidade, das águas brasileiras",
+      "answer": "ANEQUIM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ave arborícola, de carne comparável à do peru",
+      "answer": "MUTUM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Buraco feito pelos meninos para o jogo do pião",
+      "answer": "BIRA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A profissão de Marco Nanini",
+      "answer": "ATOR",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Caldeirinha para água benta",
+      "answer": "ACETER",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Papa de milho cozida com leite e açúcar",
+      "answer": "CURAU",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Medida de 100 metros quadrados",
+      "answer": "ARE",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "País que faz fronteira com o Vietnam e a Tailândia",
+      "answer": "LAOS",
+      "row": 0,
+      "col": 10
+    },
+    "14": {
+      "clue": "Jumento",
+      "answer": "ASNO",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Um ponto do judô",
+      "answer": "IPPON",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Uma característica da água do mar",
+      "answer": "SALGADA",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Esvoaçar",
+      "answer": "VOEJAR",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Reúne países das Américas",
+      "answer": "ALCA",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Agravar-se (o estado de saúde)",
+      "answer": "PIORAR",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Cidade paulista da região de São João da Boa Vista",
+      "answer": "ITOBI",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "A unidade monetária da Austrália e do Canadá",
+      "answer": "DOLAR",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Imposto de Renda de Pessoa Física",
+      "answer": "IRPF",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Deus nagô da guerra",
+      "answer": "OGUM",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Que tem no íntimo um sentimento de serena alegria",
+      "answer": "LEDO",
+      "row": 7,
+      "col": 7
+    },
+    "33": {
+      "clue": "As vogais de Tietê",
+      "answer": "IEE",
+      "row": 8,
+      "col": 1
+    }
+  }
+}

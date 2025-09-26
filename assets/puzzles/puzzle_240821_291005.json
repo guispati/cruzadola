@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Dermat.) Sarda",
+      "answer": "LENTIGEM",
+      "row": 0,
+      "col": 1
+    },
+    "8": {
+      "clue": "Lenço usado para proteger os cabelos",
+      "answer": "BANDANA",
+      "row": 1,
+      "col": 0
+    },
+    "9": {
+      "clue": "A UF de Cruzeiro do Sul",
+      "answer": "AC",
+      "row": 1,
+      "col": 8
+    },
+    "11": {
+      "clue": "Redução de apartamento",
+      "answer": "APE",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "Elevar-se no ar, como fenômeno sobrenatural",
+      "answer": "LEVITAR",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "O titânio, entre os químicos",
+      "answer": "TI",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Relativo à intoxicação do sangue",
+      "answer": "TOXEMICO",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "A forma do sigmoide",
+      "answer": "ESSE",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "A capital grega",
+      "answer": "ATENAS",
+      "row": 4,
+      "col": 5
+    },
+    "20": {
+      "clue": "Árvore muito usada em arborização urbana",
+      "answer": "TIPUANA",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Notabilizar",
+      "answer": "AFAMAR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Senhorita",
+      "answer": "SRTA",
+      "row": 6,
+      "col": 7
+    },
+    "26": {
+      "clue": "Da região do peito e costelas",
+      "answer": "TORACICO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Ativo Disponível",
+      "answer": "AD",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Obstáculo",
+      "answer": "ENTRAVE",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Aviso, lembrete de atenção para um assunto",
+      "answer": "ALO",
+      "row": 8,
+      "col": 8
+    },
+    "31": {
+      "clue": "As últimas vogais",
+      "answer": "OU",
+      "row": 9,
+      "col": 1
+    },
+    "32": {
+      "clue": "(Fr.) A identidade de um vinho",
+      "answer": "TERROIR",
+      "row": 9,
+      "col": 4
+    },
+    "34": {
+      "clue": "(Med.) Abaixamento (de um órgão)",
+      "answer": "PROLAPSO",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Peça com que se desenha sobre superfícies variadas",
+      "answer": "LAPIS",
+      "row": 0,
+      "col": 1
+    },
+    "2": {
+      "clue": "N",
+      "answer": "ENE",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "O que faz Sara virar Sandra",
+      "answer": "ND",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Corpo vegetativo rudimentar das algas e fungos",
+      "answer": "TALO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Inesgotável",
+      "answer": "INEXAURIVEL",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Pode guardar meias e cuecas",
+      "answer": "GAVETA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Madrugar",
+      "answer": "MATINAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Um carrinho de brinquedo dos parques de diversões",
+      "answer": "BATEBATE",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "(Pop.) Porcaria, coisa ruim ou malfeita",
+      "answer": "CACA",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Que se estende sem limites no espaço ou no tempo",
+      "answer": "IMENSO",
+      "row": 2,
+      "col": 7
+    },
+    "14": {
+      "clue": "Resmungão",
+      "answer": "ROSNADOR",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Querer continuar (uma ação) com insistência",
+      "answer": "TEIMAR",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "(Ingl.) Iniciar uma empresa, colocá-la em funcionamento",
+      "answer": "STARTUP",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Tranquilo, sossegado",
+      "answer": "PACATO",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "(Red.) Médico da voz e da fala",
+      "answer": "FONO",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Tl, elemento químico",
+      "answer": "TALIO",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Produto para dar brilho a pisos",
+      "answer": "CERA",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "Àqueles",
+      "answer": "AOS",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Ricardo Prado, ex-nadador",
+      "answer": "RP",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

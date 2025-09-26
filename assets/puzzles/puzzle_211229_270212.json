@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Desta maneira",
+      "answer": "ASSIM",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Ingl.) Passatempo",
+      "answer": "HOBBY",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Um computador portátil",
+      "answer": "LAPTOP",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Red.) Arte e técnica de fazer gravuras em relevo sobre madeira",
+      "answer": "XILO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "O contrário de baixa",
+      "answer": "ALTA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "De sabor áspero como o do vinagre",
+      "answer": "ACIDO",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Mil e quinhentos, em algarismos romanos",
+      "answer": "MD",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Diz-se de coisa que não se encontra facilmente",
+      "answer": "RARA",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "As vogais de culote",
+      "answer": "UOE",
+      "row": 3,
+      "col": 8
+    },
+    "22": {
+      "clue": "Grande quantidade de remédios",
+      "answer": "BOTICADA",
+      "row": 4,
+      "col": 0
+    },
+    "25": {
+      "clue": "Pontas de durex",
+      "answer": "DX",
+      "row": 4,
+      "col": 9
+    },
+    "26": {
+      "clue": "Trânsito de veículos em vias públicas",
+      "answer": "TRAFEGO",
+      "row": 5,
+      "col": 2
+    },
+    "28": {
+      "clue": "Albert Einstein (1879-1955), cientista",
+      "answer": "AE",
+      "row": 6,
+      "col": 0
+    },
+    "30": {
+      "clue": "Permanente, constante",
+      "answer": "IMUTAVEL",
+      "row": 6,
+      "col": 3
+    },
+    "32": {
+      "clue": "Um investimento",
+      "answer": "RDB",
+      "row": 7,
+      "col": 0
+    },
+    "34": {
+      "clue": "Os ás do baralho",
+      "answer": "ASES",
+      "row": 7,
+      "col": 4
+    },
+    "35": {
+      "clue": "(Pão de) Bolo usado para montar tortas",
+      "answer": "LO",
+      "row": 7,
+      "col": 9
+    },
+    "36": {
+      "clue": "(Lobo-) Animal canídeo da América do Sul",
+      "answer": "GUARA",
+      "row": 8,
+      "col": 1
+    },
+    "38": {
+      "clue": "Fazer estrondo",
+      "answer": "TOAR",
+      "row": 8,
+      "col": 7
+    },
+    "40": {
+      "clue": "(Ingl.) Sala de entrada de um edifício",
+      "answer": "HALL",
+      "row": 9,
+      "col": 0
+    },
+    "41": {
+      "clue": "País do africano, com capital Kigali",
+      "answer": "RUANDA",
+      "row": 9,
+      "col": 5
+    },
+    "43": {
+      "clue": "O escritor John, de \"A Culpa é das Estrelas\"",
+      "answer": "GREEN",
+      "row": 10,
+      "col": 0
+    },
+    "44": {
+      "clue": "A parte do sangue que coagula",
+      "answer": "CRUOR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Cercar com fios de metal",
+      "answer": "ALAMBRAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Diferença entre o ativo e o passivo de uma empresa",
+      "answer": "SALDO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "As consoantes de sapato",
+      "answer": "SPT",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Pequena cidade paulista, na Zona da Baixada do Ribeira",
+      "answer": "ITARIRI",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A roda do afiador de facas",
+      "answer": "MO",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Prefixo: oxigênio",
+      "answer": "OXI",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O cachorro do Franjinha",
+      "answer": "BIDU",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Sangue, em inglês",
+      "answer": "BLOOD",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Eu, em Buenos Aires",
+      "answer": "YO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Atarraxar",
+      "answer": "PARAFUSAR",
+      "row": 1,
+      "col": 5
+    },
+    "16": {
+      "clue": "Aluno de Academia Militar",
+      "answer": "CADETE",
+      "row": 2,
+      "col": 6
+    },
+    "19": {
+      "clue": "Fazer deitar",
+      "answer": "ACAMAR",
+      "row": 3,
+      "col": 4
+    },
+    "21": {
+      "clue": "Observar uma região em missão militar ou comercial",
+      "answer": "EXPLORAR",
+      "row": 3,
+      "col": 10
+    },
+    "23": {
+      "clue": "Tony Tornado, músico",
+      "answer": "TT",
+      "row": 4,
+      "col": 2
+    },
+    "24": {
+      "clue": "Enraivecer",
+      "answer": "AGASTAR",
+      "row": 4,
+      "col": 7
+    },
+    "27": {
+      "clue": "Ordem Verbal",
+      "answer": "OV",
+      "row": 5,
+      "col": 8
+    },
+    "29": {
+      "clue": "O escritor Allan Poe (1809-1849)",
+      "answer": "EDGAR",
+      "row": 6,
+      "col": 1
+    },
+    "31": {
+      "clue": "Atado, prendido",
+      "answer": "ELADO",
+      "row": 6,
+      "col": 9
+    },
+    "33": {
+      "clue": "Vaso de serviço de chá",
+      "answer": "BULE",
+      "row": 7,
+      "col": 2
+    },
+    "37": {
+      "clue": "Tipo de cerveja fabricada com malte pouco torrado",
+      "answer": "ALE",
+      "row": 8,
+      "col": 3
+    },
+    "39": {
+      "clue": "Sigla da organização para a paz das nações",
+      "answer": "ONU",
+      "row": 8,
+      "col": 8
+    },
+    "40": {
+      "clue": "Hectograma",
+      "answer": "HG",
+      "row": 9,
+      "col": 0
+    },
+    "42": {
+      "clue": "Universidade Católica",
+      "answer": "UC",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

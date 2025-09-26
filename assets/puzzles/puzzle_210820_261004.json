@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Fruto usado em doces, geléias e sorvetes",
+      "answer": "CAJA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Próprio de determinada raça",
+      "answer": "ETNICO",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Da região espanhola de Saraçoça",
+      "answer": "ARAGONES",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Abreviatura de avenida",
+      "answer": "AV",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Que se pode ler",
+      "answer": "LEGIVEL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Em benefício de",
+      "answer": "PRO",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "A cantora sertaneja Miranda",
+      "answer": "SULA",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Avisar gritando",
+      "answer": "ECAR",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Outro nome do buriti",
+      "answer": "ITA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "A rama superior da árvore, que forma uma superfície convexa",
+      "answer": "COPAGEM",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Da PB",
+      "answer": "PARAIBANO",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "As iniciais de um famoso Sílvio da TV",
+      "answer": "SS",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Alegre) A capital gaúcha",
+      "answer": "PORTO",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Distrito Naval",
+      "answer": "DN",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "O órgão que cuida da proteção e amparo ao índio",
+      "answer": "FUNAI",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "Devoto",
+      "answer": "PIO",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Mulher que rouba",
+      "answer": "LADRA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Purificar (açúcar)",
+      "answer": "AREAR",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Resto de cadáver",
+      "answer": "OSSADA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Um pronome demonstrativo feminino",
+      "answer": "ESSA",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "O sódio",
+      "answer": "NA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Volta em redor de algo",
+      "answer": "RODEIO",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ligante que se mistura com o cimento",
+      "answer": "CAL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Quinas",
+      "answer": "ARESTAS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Outro nome da onça-pintada",
+      "answer": "JAGUAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Eficiente",
+      "answer": "AGIL",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "N",
+      "answer": "ENE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Transmissão de pensamento",
+      "answer": "TELEPATIA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "As iniciais da atriz Stelmann",
+      "answer": "NS",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Lombo (de porco ou de carneiro)",
+      "answer": "CARRE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O ingrediente principal da omelete",
+      "answer": "OVO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Aclamado em público",
+      "answer": "OVACIONADO",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Remunerado",
+      "answer": "PAGO",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Tubo para água",
+      "answer": "CANO",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "O nome da letra Y",
+      "answer": "IPSILON",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "O resultado de uma atividade",
+      "answer": "OBRA",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Abrandar, tornar menos intenso",
+      "answer": "MINORAR",
+      "row": 4,
+      "col": 10
+    },
+    "23": {
+      "clue": "Fazer seleção",
+      "answer": "APURAR",
+      "row": 5,
+      "col": 3
+    },
+    "26": {
+      "clue": "Um mês pode ter 28, 29, 30 ou 31",
+      "answer": "DIAS",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Fundo de Desenvolvimento Social",
+      "answer": "FDS",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "Categoria de halterofilistas",
+      "answer": "PESO",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Peça que sustenta o peso do voo",
+      "answer": "ASA",
+      "row": 8,
+      "col": 1
+    },
+    "32": {
+      "clue": "O K do baralho",
+      "answer": "REI",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Alain Delon, ator francês",
+      "answer": "AD",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

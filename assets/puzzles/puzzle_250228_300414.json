@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Praia",
+      "answer": "ARENAL",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O estilo musical de Miles Davis",
+      "answer": "JAZZ",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Caixa Econômica Federal",
+      "answer": "CEF",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Diz-se de som emitido com a garganta",
+      "answer": "GUTURAL",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "1/3 de XII",
+      "answer": "IV",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Reservas cambiais",
+      "answer": "DIVISAS",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Fazer corte na parte superior de uma peça de vestuário",
+      "answer": "DECOTAR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Que tem asas",
+      "answer": "ALADO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Líquido fundamental à vida",
+      "answer": "AGUA",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Um apêndice dos animais",
+      "answer": "RABO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Tabaco de cheiro em pó fino",
+      "answer": "RAPE",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "Vagabundo, porcaria",
+      "answer": "RUIM",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Calombo",
+      "answer": "TUMOR",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Móvel que pode servir de leito",
+      "answer": "OTOMANA",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Tipo de avião em desuso, com dois pares de asas",
+      "answer": "BIPLANO",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "Telly Savalas (1922-1994), ator americano de \"Kojak\"",
+      "answer": "TS",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Tique",
+      "answer": "CACOETE",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Jamaica",
+      "answer": "JAM",
+      "row": 9,
+      "col": 8
+    },
+    "34": {
+      "clue": "Estar convencido de que algo é verdadeiro",
+      "answer": "CRER",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Indivíduo que trabalha em fábrica de telhas",
+      "answer": "OLEIRO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Azedar",
+      "answer": "ACIDAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Confiar um segredo",
+      "answer": "REVELAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ella Fitzgerald (1917-1996), cantora",
+      "answer": "EF",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Gír.) Movimento",
+      "answer": "AGITO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Peça usada por lutadores de boxe",
+      "answer": "LUVA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Fazer) Ser merecedor",
+      "answer": "JUS",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Cidade do RJ na região dos Lagos",
+      "answer": "ARARUAMA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Interj.) Som que imita golpe rápido e certeiro",
+      "answer": "ZAS",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Zona Leste",
+      "answer": "ZL",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "(Pop.) Agente de polícia",
+      "answer": "TIRA",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "(Inf.) Feridinha, machucado",
+      "answer": "DODOI",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Vadiagem na escola ou no trabalho",
+      "answer": "CABULICE",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "O coágulo do sangue fora das veias",
+      "answer": "GRUMO",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "(Fig.) Mencionar, citar",
+      "answer": "APONTAR",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "O músico Carlos, de \"É Preciso Saber Viver\" e \"Mulher\"",
+      "answer": "ERASMO",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "O contrário de duro",
+      "answer": "MOLE",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Um barril para vinho",
+      "answer": "TONEL",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "Um dos cinco sentidos",
+      "answer": "TATO",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "(Mitzvah) Um rito judaico",
+      "answer": "BAR",
+      "row": 8,
+      "col": 1
+    },
+    "30": {
+      "clue": "Expelir ovos (a ave)",
+      "answer": "POR",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Caio Castro, ator paulista",
+      "answer": "CC",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "(-Paraná) Grande cidade de Rondônia",
+      "answer": "JI",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

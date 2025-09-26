@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "Peça que, no dominó, têm igual número de pontos nas suas duas partes",
+      "answer": "DOBLE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Quadris, cadeiras",
+      "answer": "ANCAS",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Grande lamaçal",
+      "answer": "LAMARÃO",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "O Léo cantor",
+      "answer": "JAIME",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "O amor de Julieta",
+      "answer": "ROMEU",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "A província canadense de Toronto e Ottawa",
+      "answer": "ONTARIO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Um clube holandês de futebol",
+      "answer": "PSV",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Fruta que pode ser moscada",
+      "answer": "NOZ",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "A colina do Calvário",
+      "answer": "GOLGOTA",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Fumo picado e enrolado em papel",
+      "answer": "CIGARRO",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "Ato de limpar banhando",
+      "answer": "LAVADURA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "A UF das praias de Pipa e Ponta Negra",
+      "answer": "RN",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Livrar de suspeitas",
+      "answer": "ILIBAR",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Instrumento que badala",
+      "answer": "SINO",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Trago (de bebida)",
+      "answer": "GOLE",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Esticador",
+      "answer": "TENSOR",
+      "row": 8,
+      "col": 5
+    },
+    "31": {
+      "clue": "As regiões dos glúteos",
+      "answer": "NADEGAS",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Peça usada para prender e enfeitar o cabelo",
+      "answer": "TIARA",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "144 unidades",
+      "answer": "GROSA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A capital da Borgonha, na França",
+      "answer": "DIJON",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Operação policial surpresa",
+      "answer": "BLITZ",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Terra misturada com água",
+      "answer": "LAMA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Que veio à tona da água (fem.)",
+      "answer": "EMERGIDA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Inventariar",
+      "answer": "ARROLAR",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Um advérbio de negação",
+      "answer": "NÃO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Criar uma música",
+      "answer": "COMPOR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Outro nome da formiga lavradeira",
+      "answer": "SAUVA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Defeituoso",
+      "answer": "ANOMALO",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "Devolução de um lançamento errôneo numa conta corrente",
+      "answer": "ESTORNO",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Espécie de coalhada, em geral industrializada",
+      "answer": "IOGURTE",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Soltar a voz (o corvo, o pato etc.)",
+      "answer": "GRASNAR",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Ligar com fios de transmissão",
+      "answer": "CABEAR",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "(Ingl.) Diz-se de alimento com baixo teor de açúcar",
+      "answer": "LIGHT",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "A capital da Lituânia",
+      "answer": "VILNA",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Regra a seguir",
+      "answer": "NORMA",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Um pronome demonstrativo",
+      "answer": "ISSO",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Ovo, em inglês",
+      "answer": "EGG",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Dela",
+      "answer": "DA",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

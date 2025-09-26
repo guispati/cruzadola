@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "A planta da qual se obtém a tequila",
+      "answer": "AGAVE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Glândulas mamárias",
+      "answer": "TETAS",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "O horário é o sistema que divide o globo em 24 meridianos",
+      "answer": "FUSO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Pulsação, palpitação",
+      "answer": "LATEJO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Separam o Q do U",
+      "answer": "RST",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Um dos grandes clubes do futebol do Mato Grosso",
+      "answer": "MIXTO",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Termo genérico para toda doença dos ouvidos",
+      "answer": "OTOPATIA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Diego Hypólito, ex-ginasta",
+      "answer": "DH",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Outro nome da planta helicônia",
+      "answer": "TRACOA",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "O século em que viveram Gengis Khan e Robin Hood",
+      "answer": "XII",
+      "row": 4,
+      "col": 8
+    },
+    "19": {
+      "clue": "Cidade cearense da região do Médio Jaguaribe",
+      "answer": "JAGUARETAMA",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Imposto sobre o Valor Agregado",
+      "answer": "IVA",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "A região de Crato, no Ceará",
+      "answer": "CARIRI",
+      "row": 6,
+      "col": 4
+    },
+    "23": {
+      "clue": "O Soares humorista, apresentador e escritor",
+      "answer": "JO",
+      "row": 7,
+      "col": 0
+    },
+    "24": {
+      "clue": "Pasta alimentar enrolada em cilindro e recheada",
+      "answer": "CANELONE",
+      "row": 7,
+      "col": 3
+    },
+    "26": {
+      "clue": "Corrida de cavalos",
+      "answer": "PAREO",
+      "row": 8,
+      "col": 2
+    },
+    "27": {
+      "clue": "(Inf.) Ruído feito quando se soltam gases",
+      "answer": "PUM",
+      "row": 8,
+      "col": 8
+    },
+    "28": {
+      "clue": "Comando",
+      "answer": "CHEFIA",
+      "row": 9,
+      "col": 0
+    },
+    "30": {
+      "clue": "Estação ecológica conhecida como \"Pantanal Gaúcho\"",
+      "answer": "TAIM",
+      "row": 9,
+      "col": 7
+    },
+    "31": {
+      "clue": "(Pop.) Avoada",
+      "answer": "AEREA",
+      "row": 10,
+      "col": 0
+    },
+    "32": {
+      "clue": "Um tempero da culinária oriental",
+      "answer": "CURRY",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Do \"Continente Negro\"",
+      "answer": "AFRO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O músico sertanejo Lima",
+      "answer": "GUSTTAVO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Município do Norte paranaense, próximo a Maringá",
+      "answer": "ASTORGA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Pop.) A mãe do pai",
+      "answer": "VO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Avião que se pode alugar",
+      "answer": "TAXIAEREO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "A cantora de estadunidense James (1938-2012)",
+      "answer": "ETTA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O narrador esportivo José",
+      "answer": "TEO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Assistência Judiciária",
+      "answer": "AJ",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A atriz italiana Loren, de \"Travessia de Cassandra\"",
+      "answer": "SOPHIA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Diz-se de cidade situada à beira-mar",
+      "answer": "LITORANEA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Bando de saguis e micos",
+      "answer": "MACACARIA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "(Pop.) Surra",
+      "answer": "PAU",
+      "row": 3,
+      "col": 3
+    },
+    "16": {
+      "clue": "Tornar menos duradouro",
+      "answer": "DIMINUIR",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Tratar através de qualquer medicamento caseiro",
+      "answer": "XAROPAR",
+      "row": 4,
+      "col": 8
+    },
+    "19": {
+      "clue": "(de Jericoacoara) Cidade cearense, muito visitada por turistas",
+      "answer": "JIJOCA",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Acento de balão",
+      "answer": "TIL",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "A bebida que acompanha o leite no pingado",
+      "answer": "CAFE",
+      "row": 7,
+      "col": 3
+    },
+    "25": {
+      "clue": "Famoso prêmio para profissionais da TV",
+      "answer": "EMMY",
+      "row": 7,
+      "col": 10
+    },
+    "26": {
+      "clue": "A preposição para, em italiano",
+      "answer": "PER",
+      "row": 8,
+      "col": 2
+    },
+    "29": {
+      "clue": "O símbolo químico do gás hélio",
+      "answer": "HE",
+      "row": 9,
+      "col": 1
+    },
+    "30": {
+      "clue": "A segunda pessoa",
+      "answer": "TU",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Endurecimento da pele causado excesso de fricção com outro objeto",
+      "answer": "CALO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Forte abalo psíquico",
+      "answer": "TRAUMA",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Pequena porção de um produto usado como prova",
+      "answer": "AMOSTRA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Senador",
+      "answer": "SEN",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Depois de",
+      "answer": "POS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Homem eletrônico",
+      "answer": "ROBO",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Tiro de Guerra",
+      "answer": "TG",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "A metade de XVIII",
+      "answer": "IX",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Picar com tesoura",
+      "answer": "RECORTAR",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Diminuta",
+      "answer": "MINIMA",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Impresso com instruções para o uso de um remédio",
+      "answer": "BULA",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Buraco para se plantar um vegetal",
+      "answer": "COVA",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Camarão de água doce, de carne apreciada",
+      "answer": "PITU",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Interjeição de aplauso, felicitação",
+      "answer": "VIVA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Híbrido de pato com marreca",
+      "answer": "PATURI",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Que elege (fem.)",
+      "answer": "ELEITORA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "G",
+      "answer": "GE",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "(Quím.) Níquel",
+      "answer": "NI",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Rio da França, banha Paris",
+      "answer": "SENA",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "(Por) De minha parte",
+      "answer": "MIM",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Aproximadamente",
+      "answer": "UNS",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Marca italiana de moda",
+      "answer": "VERSACE",
+      "row": 9,
+      "col": 4
+    },
+    "38": {
+      "clue": "Neto de imigrantes japoneses nascido na América",
+      "answer": "SANSEI",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "O personagem Don, sedutor, orgulhoso e sem escrúpulos",
+      "answer": "JUAN",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(-gordura) Erva de até 1 metro, usada como forrageira",
+      "answer": "CAPIM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um antibiótico para tratamento de infecções bacterianas",
+      "answer": "AMOXICILINA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O L de LA, cidade dos EUA",
+      "answer": "LOS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O ósmio, para os químicos",
+      "answer": "OS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Conversão, mudança, transformação",
+      "answer": "TROCA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "A parte do corpo que ajuda o macaco a se dependurar",
+      "answer": "RABO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Open) Importantes torneio de tênis de NY",
+      "answer": "US",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Oficina de trabalho de transformação de metais em objetos",
+      "answer": "METALURGICA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Pequena enseada",
+      "answer": "ANGRA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "O antigo acento de pinguim",
+      "answer": "TREMA",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Trajetória descrita por um corpo celeste ao girar em volta de um astro",
+      "answer": "ORBITA",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "Adversários",
+      "answer": "RIVAIS",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Prato muito apreciado à mineira",
+      "answer": "TUTU",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "9",
+      "answer": "NOVE",
+      "row": 4,
+      "col": 2
+    },
+    "24": {
+      "clue": "Estacionar",
+      "answer": "PARAR",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "O segundo planeta mais próximo do Sol",
+      "answer": "VENUS",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Cavalo pequeno, com pelo longo",
+      "answer": "PONEI",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Sanaa é a capital deste país da península árabe",
+      "answer": "IEMEN",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Televisão",
+      "answer": "TEVE",
+      "row": 7,
+      "col": 4
+    },
+    "33": {
+      "clue": "Um Lobo das histórias infantis",
+      "answer": "MAU",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "Sem Número",
+      "answer": "SN",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "Steve Jobs (1955-2011), criador da Apple",
+      "answer": "SJ",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

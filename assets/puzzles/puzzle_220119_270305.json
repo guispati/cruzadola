@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(e baixos) Reveses, infortúnios, contratempos",
+      "answer": "ALTOS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Galã",
+      "answer": "ASTRO",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "O resultado de uma divisão",
+      "answer": "QUOCIENTE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "A região com RS, PR e SC",
+      "answer": "SUL",
+      "row": 2,
+      "col": 2
+    },
+    "12": {
+      "clue": "Erva também chamada agrião-do-pará",
+      "answer": "JAMBU",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Absorvido na respiração",
+      "answer": "INALADO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Um tipo de música moderna",
+      "answer": "POP",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "A língua do Alcorão, a \"bíblia\" do islamismo",
+      "answer": "ARABE",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Ao ar livre",
+      "answer": "FORA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Comissão Técnica",
+      "answer": "CT",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "O poeta italiano Alighieri (1265-1321)",
+      "answer": "DANTE",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Darcy Ribeiro (1922-1997), antropólogo",
+      "answer": "DR",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Tem muito dinheiro",
+      "answer": "RICO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "A substância com que se pinta",
+      "answer": "TINTA",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Peru, carcará ou tuim",
+      "answer": "AVE",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Conjunto de objetos suspensos",
+      "answer": "PENDURA",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Fio que dá o som ao violão",
+      "answer": "CORDA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "O cantor carioca Maia (1942-1998)",
+      "answer": "TIM",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Atraente, sedutor",
+      "answer": "CONVIDOSO",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Um instrumento de percussão",
+      "answer": "AGOGO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Movimentações das águas dos oceanos",
+      "answer": "MARES",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Cá",
+      "answer": "AQUI",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um apelido para Luíza",
+      "answer": "LU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Cortar o velo de animais que produzem lã",
+      "answer": "TOSAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Que possui olhos",
+      "answer": "OCULADO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Céu só tem uma",
+      "answer": "SILABA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "O de pernas tortas era o apelido do jogador Garrincha",
+      "answer": "ANJO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Abreviatura de santa",
+      "answer": "STA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Qualquer período ou espaço mais ou menos grande",
+      "answer": "TEMPO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Exercer uma função",
+      "answer": "OCUPAR",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Fazer com linha e agulha ou máquina, desenho em relevo num tecido",
+      "answer": "BORDAR",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Do lugar em que alguém nasceu",
+      "answer": "NATIVO",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Pode ser incisivo ou molar",
+      "answer": "DENTE",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Rachada, dividida",
+      "answer": "FENDIDA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Cartão com dados pessoais para identificação",
+      "answer": "CRACHA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "O herói das HQs produzidas pelo belga Hergé",
+      "answer": "TINTIM",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Assédio, bloqueio",
+      "answer": "CERCO",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "(Med.) Neoplasma, que pode ser maligno ou benigno",
+      "answer": "TUMOR",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "(Náut.) O mesmo que vela",
+      "answer": "PANO",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Todos temos ou tivemos quatro",
+      "answer": "AVOS",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "Cachorro, em inglês",
+      "answer": "DOG",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "A praça paulistana onde se localiza o marco zero do município",
+      "answer": "SE",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Saliência em forma convexa",
+      "answer": "BOJO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "A capital da Ucrânia",
+      "answer": "KIEV",
+      "row": 0,
+      "col": 5
+    },
+    "8": {
+      "clue": "Uma fila de nomes",
+      "answer": "ELENCO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Tanto",
+      "answer": "TÃO",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "A primeira parte de uma viagem",
+      "answer": "IDA",
+      "row": 2,
+      "col": 2
+    },
+    "13": {
+      "clue": "Grande árvore tropical típica da África",
+      "answer": "BAOBA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Certificar por escrito",
+      "answer": "ATESTAR",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "Renato Teixeira, músico",
+      "answer": "RT",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Época de acasalamento de animais",
+      "answer": "CIO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Banhar a terra",
+      "answer": "IRRIGAR",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Guarda japonês do palácio imperial",
+      "answer": "SAMURAI",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Caminho ao atalho determinado",
+      "answer": "TRAMITE",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(-moscada) Condimento e estimulante gástrico",
+      "answer": "NOZ",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Mãe, no candomblé",
+      "answer": "IA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "A Bia atriz mineira de \"Loop\"",
+      "answer": "ARANTES",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "A voz de muitos gatos",
+      "answer": "MIADA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Som de batida na porta",
+      "answer": "TOC",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Palavra usada ao atender um telefonema",
+      "answer": "ALO",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "Fracionar um terreno",
+      "answer": "LOTEAR",
+      "row": 9,
+      "col": 5
+    },
+    "37": {
+      "clue": "Um número ímpar",
+      "answer": "TRES",
+      "row": 10,
+      "col": 2
+    },
+    "38": {
+      "clue": "Fortuna, riqueza",
+      "answer": "OURO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Pessoa querida",
+      "answer": "BEM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Orígenes Lessa, escritor",
+      "answer": "OL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Habilidosa, capaz",
+      "answer": "JEITOSA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Em que lugar?",
+      "answer": "ONDE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Abrev. ingl.) Uma derrota no ringue",
+      "answer": "KO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Diz-se de faixa de idade",
+      "answer": "ETARIA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Inútil, infrutífero",
+      "answer": "VÃO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Tecido de lã fina",
+      "answer": "CASIMIRA",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "O resultado de um trabalho artístico",
+      "answer": "OBRA",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Lodoso",
+      "answer": "BARRENTO",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "A profissão de Laura Cardoso",
+      "answer": "ATRIZ",
+      "row": 2,
+      "col": 10
+    },
+    "15": {
+      "clue": "Lamento",
+      "answer": "AI",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Peixe saboroso, de águas límpidas e frias",
+      "answer": "TRUTA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Tecido lustroso e macio",
+      "answer": "CETIM",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "(Bot.) O conjunto dos pistilos",
+      "answer": "GINECEU",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Clube não profissional",
+      "answer": "AMADOR",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Divisão da piscina para natação",
+      "answer": "RAIA",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "O símbolo do ósmio, elemento químico",
+      "answer": "OS",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Qualquer cãozinho",
+      "answer": "TOTO",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "(Inform.) Tecla que geralmente fica ao lado da barra de espaço",
+      "answer": "ALT",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "Molde para fazer queijo",
+      "answer": "ARO",
+      "row": 8,
+      "col": 10
+    },
+    "35": {
+      "clue": "Linguagem de Sinais",
+      "answer": "LS",
+      "row": 9,
+      "col": 5
+    },
+    "36": {
+      "clue": "O alimento dos pulmões",
+      "answer": "AR",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

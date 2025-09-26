@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Posto, posição, ponto",
+      "answer": "LUGAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Um jogo com bolas de madeira",
+      "answer": "BOCHA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Peça para fechar cinta, bolsa",
+      "answer": "FIVELA",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Separam o N do R",
+      "answer": "OPQ",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Processo para perda da umidade",
+      "answer": "SECAGEM",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Aposição de estampilha a um documento",
+      "answer": "SELAGEM",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Julio Iglesias, cantor",
+      "answer": "JI",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Preferido, querido",
+      "answer": "DILETO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "O músico McCartney, dos Beatles",
+      "answer": "PAUL",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Elemento químico metálico de símbolo In",
+      "answer": "INDIO",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "De longa duração e pouca intensidade",
+      "answer": "LENTO",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "(Pop.) Correr rapidamente",
+      "answer": "VOAR",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Muito bonita",
+      "answer": "LINDA",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "Abreviatura de idem",
+      "answer": "ID",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Fazer deitar",
+      "answer": "ACAMAR",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "(Hot) Um sanduíche",
+      "answer": "DOG",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Arquipélago português do Atlântico, com capital Ponta Delgada",
+      "answer": "AÇORES",
+      "row": 8,
+      "col": 4
+    },
+    "31": {
+      "clue": "(Batata-) Outro nome da mandioquinha-salsa",
+      "answer": "BAROA",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Imposto sobre Operações Financeiras",
+      "answer": "IOF",
+      "row": 9,
+      "col": 8
+    },
+    "35": {
+      "clue": "Criado, escravo",
+      "answer": "SERVO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "A capital do Tibete",
+      "answer": "LHASA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Unidade Federativa",
+      "answer": "UF",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um nome de mulher",
+      "answer": "GISELDA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Planta que produz uma amêndoa comestível",
+      "answer": "AVELEIRA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Moderação nos modos, nos impulsos",
+      "answer": "RECATO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Importante cidade do Rio Grande do Sul",
+      "answer": "BAGE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O sufixo usado na internet para designar empresas comerciais",
+      "answer": "COM",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Famosa marca de impressoras",
+      "answer": "HP",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Aquela coisa",
+      "answer": "AQUILO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "O Titicaca fica entre a Bolívia e o Peru",
+      "answer": "LAGO",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Sair da linha de prumo",
+      "answer": "EMPENAR",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Reunião periódica dos sacerdotes de uma diocese",
+      "answer": "SINODO",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Planta usada na produção de fibras têxteis",
+      "answer": "JUTA",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Obrigações contraídas por bens recebidos",
+      "answer": "DIVIDAS",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "A Sadi jornalista",
+      "answer": "ANDREIA",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Pomar de limoeiros",
+      "answer": "LIMOAL",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "(Fig.) Vínculo, ligação",
+      "answer": "LAÇO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "O oposto de barato",
+      "answer": "CARO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Abreviatura (em português) da Grã-Bretanha",
+      "answer": "GBR",
+      "row": 8,
+      "col": 2
+    },
+    "30": {
+      "clue": "Socorro!",
+      "answer": "SOS",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Alceu Valença, músico de \"Cavalo de Pau\"",
+      "answer": "AV",
+      "row": 9,
+      "col": 3
+    },
+    "34": {
+      "clue": "A nota que precede o sol",
+      "answer": "FA",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

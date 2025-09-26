@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Leito",
+      "answer": "CAMA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Fr.) Calça justa, cujas pernas se prendem por alças por baixo dos pés",
+      "answer": "FUSEAU",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "O autor e diretor de novelas Walter (1935-2001)",
+      "answer": "AVANCINI",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Leandro Firmino, ator de \"Cidade de Deus\"",
+      "answer": "LF",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Em + estas",
+      "answer": "NESTAS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "A parte do calçado que se apoia no chão",
+      "answer": "SOLA",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Os montes com o Matterhorn",
+      "answer": "ALPES",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Tabaco que faz espirrar",
+      "answer": "RAPE",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Inútil (fem.)",
+      "answer": "VÃ",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Um tipo de farinha granulada",
+      "answer": "SEMOLINA",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Um biscoito wafer com chocolate",
+      "answer": "BIS",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Remuneratório",
+      "answer": "SALARIAL",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Boletim de Ocorrência",
+      "answer": "BO",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Recipiente para servir chá",
+      "answer": "BULE",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Parte giratória de certas máquinas e motores elétricos",
+      "answer": "ROTOR",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Um religioso",
+      "answer": "FREI",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Um personagem pré-histórico de Maurício de Sousa",
+      "answer": "PITECO",
+      "row": 8,
+      "col": 5
+    },
+    "34": {
+      "clue": "Interjeição que expressa diversos sentimentos",
+      "answer": "UI",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Roupa masculina usada por baixo das calças",
+      "answer": "CEROULAS",
+      "row": 9,
+      "col": 3
+    },
+    "37": {
+      "clue": "(Mús.) Acorde de sons sucessivos no violão",
+      "answer": "ARPEJO",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Terreno, pavimento",
+      "answer": "SOLO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Cultura de cânhamo, cujo fuste produz fibras têxteis resistentes",
+      "answer": "CANAVES",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Fruto nuciforme usadas em culinária",
+      "answer": "AVELÃ",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sigla de um famoso museu paulistano",
+      "answer": "MASP",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Primeiro",
+      "answer": "ANTES",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Física",
+      "answer": "FIS",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Ingl.) United Nations",
+      "answer": "UN",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Matéria-prima para a fabricação de cordas",
+      "answer": "SISAL",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Chave de fenda sextavada",
+      "answer": "ALLEN",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Ainda bem!",
+      "answer": "UFA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Habitação humilde",
+      "answer": "CASEBRE",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Uma droga narcótica",
+      "answer": "OPIO",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "A cidade argentina onde nasceu Che Guevara",
+      "answer": "ROSARIO",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "1.002, em algarismos romanos",
+      "answer": "MII",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Carinhoso",
+      "answer": "AMOROSO",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Azul, para os ingleses",
+      "answer": "BLUE",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Inaugurar",
+      "answer": "ABRIR",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "(in Chains) Banda de rock pesado",
+      "answer": "ALICE",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Antiga equipe de corridas da F1",
+      "answer": "LOTUS",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Abertura do saxofone por onde se sopra para produzir o som",
+      "answer": "BOCAL",
+      "row": 6,
+      "col": 9
+    },
+    "31": {
+      "clue": "O músico sertanejo Michel",
+      "answer": "TELO",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "(Pop.) Briga",
+      "answer": "FUA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Red.) Profissional",
+      "answer": "PRO",
+      "row": 8,
+      "col": 5
+    },
+    "36": {
+      "clue": "As iniciais do ex-lutador de boxe Jofre",
+      "answer": "EJ",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

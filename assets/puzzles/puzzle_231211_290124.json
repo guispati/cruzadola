@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Utensílio doméstico para tirar o pó",
+      "answer": "ESPANADOR",
+      "row": 0,
+      "col": 1
+    },
+    "10": {
+      "clue": "Um papagaio",
+      "answer": "CACATUA",
+      "row": 1,
+      "col": 2
+    },
+    "12": {
+      "clue": "Uai!",
+      "answer": "UE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Designação carinhosa para o irmão da mãe",
+      "answer": "TITIO",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Letra de Câmbio",
+      "answer": "LC",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Ficar deitado, adoecido, de forma prolongada",
+      "answer": "ENCAMAR",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "7, em algarismos romanos",
+      "answer": "VII",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Borboleta noturna",
+      "answer": "BRUXA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "O aviso sonoro usado por trens",
+      "answer": "APITO",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Mal vestido",
+      "answer": "ROTO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Partícula que constitui o núcleo do átomo",
+      "answer": "PROTON",
+      "row": 5,
+      "col": 5
+    },
+    "24": {
+      "clue": "Desencrespar o cabelo",
+      "answer": "ALISAR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "O estado brasileiro com a Ilha de Marajó",
+      "answer": "PARA",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Uma conjunção adversativa",
+      "answer": "MAS",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Da parte pendente da orelha",
+      "answer": "LOBULAR",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Substância que enche os pulmões",
+      "answer": "AR",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Que diz respeito a todos os cidadãos",
+      "answer": "CIVIL",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "O símbolo do elemento químico lítio",
+      "answer": "LI",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Unidade de medida da intensidade do som",
+      "answer": "DECIBEL",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Autoritário, dominador, arrogante",
+      "answer": "IMPERIOSO",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Sigla do estado de Blumenau e Tubarão",
+      "answer": "SC",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Tribo extinta da Bahia e do Espírito Santo",
+      "answer": "PATAXOS",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "O contrário de abaixo",
+      "answer": "ACIMA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "A parte mais substanciosa do leite",
+      "answer": "NATA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Lançar com violência uma coisa longe de si",
+      "answer": "ATIRAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Dupla de músicos",
+      "answer": "DUO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Olivier Anquier, chef e apresentador francês, radicado no Brasil",
+      "answer": "OA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Construção para aliviar o impacto das ondas",
+      "answer": "QUEBRAMAR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Relativo a ações como títulos de crédito",
+      "answer": "ACIONARIO",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "(Gír.) Expor de maneira confusa",
+      "answer": "ENROLAR",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Beira-mar",
+      "answer": "LITORAL",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Tez",
+      "answer": "CUTIS",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Fundamental para a existência",
+      "answer": "VITAL",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Relativo ao choupo, árvore cultivada como ornamental ou pelas madeira",
+      "answer": "POPULEO",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Descender",
+      "answer": "PROVIR",
+      "row": 5,
+      "col": 5
+    },
+    "25": {
+      "clue": "O roqueiro Cooper, de fama nos anos 1970",
+      "answer": "ALICE",
+      "row": 6,
+      "col": 4
+    },
+    "29": {
+      "clue": "O som que imita a buzina de um carro",
+      "answer": "BIBI",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Dígitos que indicam um endereço postal",
+      "answer": "CEP",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Dean Martin, ator",
+      "answer": "DM",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "As iniciais do músico carioca Lulu",
+      "answer": "LS",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

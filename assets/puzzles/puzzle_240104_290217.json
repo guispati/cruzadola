@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Fig.) Extorquir dinheiro, impondo preços altos",
+      "answer": "SANGRAR",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Fala",
+      "answer": "VOZ",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Pronunciar discurso",
+      "answer": "ORAR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Palermice, tolice",
+      "answer": "BOBICE",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "O Gomes músico baiano",
+      "answer": "PEPEU",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Grande festa da cristandade",
+      "answer": "NATAL",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Catinga, mau cheiro",
+      "answer": "ACA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Larápio, malfeitor",
+      "answer": "BANDIDO",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Planta também chamada falsa-noz-moscada",
+      "answer": "ALPINIA",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Ordem de Serviço",
+      "answer": "OS",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "O Tas jornalista e comunicador paulista",
+      "answer": "MARCELO",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Emenda Constitucional",
+      "answer": "EC",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Brava, irritada",
+      "answer": "RAIVOSA",
+      "row": 6,
+      "col": 3
+    },
+    "29": {
+      "clue": "Ato de indicar dia, mês e ano",
+      "answer": "DATAÇÃO",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Clube de Regatas Flamengo",
+      "answer": "CRF",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "Náusea, enjoo",
+      "answer": "ENOJO",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Pop.) Irritabilidade fácil",
+      "answer": "NEURA",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "Comida paraense inspirada numa receita indígena",
+      "answer": "TACACA",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Apartamento que possui serviços de hotel",
+      "answer": "FLAT",
+      "row": 9,
+      "col": 7
+    },
+    "39": {
+      "clue": "Distância entre duas vigas",
+      "answer": "VÃO",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Que apresenta água estagnada, rasa e com vegetação",
+      "answer": "ALAGOSO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um prato como o gaspacho ou a canja",
+      "answer": "SOPA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Gênero de palmeira cultivada em parques e jardins",
+      "answer": "ARECA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Mistura para bombas incendiárias",
+      "answer": "NAPALM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Abrev.: Grécia",
+      "answer": "GRE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "As iniciais da atriz sul-mato-grossense Balabanian",
+      "answer": "AB",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Músico fluminense da Jovem Guarda, apelidado \"príncipe\"",
+      "answer": "RONNIEVON",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Elemento de composição: vinha",
+      "answer": "VITI",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Tornado cavo",
+      "answer": "OCADO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Cuidadoso",
+      "answer": "ZELOSO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "A peça que faz o sino soar",
+      "answer": "BADALO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Outro nome do turu, molusco que cava galerias em madeira (cais e barcos)",
+      "answer": "UBIRAÇOCA",
+      "row": 2,
+      "col": 4
+    },
+    "18": {
+      "clue": "Senhora idosa",
+      "answer": "ANCIÃ",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Chuva forte e rápida no litoral baiano",
+      "answer": "PARAJA",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Um canal de TV",
+      "answer": "REDETV",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Beijo de paz e amizade",
+      "answer": "OSCULO",
+      "row": 5,
+      "col": 8
+    },
+    "26": {
+      "clue": "(Bíbl.) A terra prometida por Deus ao seu povo",
+      "answer": "CANAÃ",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Penhor",
+      "answer": "ARRAS",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "Resto de cigarro",
+      "answer": "TOCO",
+      "row": 7,
+      "col": 2
+    },
+    "32": {
+      "clue": "Coisa ocorrida",
+      "answer": "FATO",
+      "row": 7,
+      "col": 10
+    },
+    "35": {
+      "clue": "As letras entre o D e o H",
+      "answer": "EFG",
+      "row": 8,
+      "col": 7
+    },
+    "37": {
+      "clue": "O músico de jazz Jarreau",
+      "answer": "AL",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

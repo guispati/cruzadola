@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Aquela que é indiferente a tudo",
+      "answer": "APATICA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Antecede Dom, no calendário",
+      "answer": "SAB",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Diz-se da anestesia restrita a determinada área do corpo",
+      "answer": "LOCAL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "(Pop.) Exageradamente delicado",
+      "answer": "FLOZO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Denominação dada aos automóveis que podem utilizar diferentes combustíveis",
+      "answer": "FLEX",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O militar gaúcho Ernesto (1908-1996), presidente na ditadura",
+      "answer": "GEISEL",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Mulher que pilota uma aeronave",
+      "answer": "AVIADORA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Dante Alighieri (1265-1321), autor de \"A Divina Comédia\"",
+      "answer": "DA",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Cotangente",
+      "answer": "COT",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Cidade de PE",
+      "answer": "OLINDA",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Comover",
+      "answer": "APIEDAR",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Edifício",
+      "answer": "PREDIO",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Tempo entre Jul e Set",
+      "answer": "AGO",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Sílaba que se repete em abóbora",
+      "answer": "BO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Produzir alteração essencial",
+      "answer": "DERROGAR",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Um time carioca de futebol",
+      "answer": "OLARIA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Peça do banheiro própria para dejeções",
+      "answer": "VASO",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Testemunhar",
+      "answer": "DEPOR",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "A maior cordilheira da América do Sul",
+      "answer": "ANDES",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Precede o ó",
+      "answer": "ENE",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Inquieto devido à espera",
+      "answer": "ANSIOSO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Verdura muito usada em sanduíches, juntamente com o tomate e a cebola",
+      "answer": "ALFACE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Animal marinho de corpo macio e oval, sem concha e com oito tentáculos",
+      "answer": "POLVO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Consentir em fazer o que é oferecido",
+      "answer": "ACEITAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Encargo",
+      "answer": "TAXA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Ivone Lara (1921-2018), sambista",
+      "answer": "IL",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Aquele que ajusta ao padrão",
+      "answer": "AFERIDOR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Sigla usada para pedir socorro; significa salvem nossas almas",
+      "answer": "SOS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Áspera como o vinagre",
+      "answer": "AZEDA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Esfera",
+      "answer": "BOLA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Cipó lenhoso",
+      "answer": "LIANA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "A jogadora que pode tocar a bola com a mão, no futebol",
+      "answer": "GOLEIRA",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Perturbação das faculdades mentais, do juízo",
+      "answer": "DOIDEIRA",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Limpo com escavadora subaquática",
+      "answer": "DRAGADO",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "O cineasta Almodóvar, de \"O Quarto ao Lado\"",
+      "answer": "PEDRO",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Vagaroso",
+      "answer": "MOROSO",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "Fecunda os estames das flores",
+      "answer": "POLEN",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "O argônio e o xenônio são nobres",
+      "answer": "GASES",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "(Gír.) Desânimo",
+      "answer": "BODE",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Objeto Voador Não Identificado",
+      "answer": "OVNI",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Redução popular de apartamento",
+      "answer": "APE",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "O A das cartas",
+      "answer": "AS",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

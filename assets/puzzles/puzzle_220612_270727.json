@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Que não se pode dispensar",
+      "answer": "IMPERDIVEL",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "A parte escura do dia",
+      "answer": "NOITE",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Possessivo masculino",
+      "answer": "MEU",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Processo judicial",
+      "answer": "AÇÃO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Documento de Arrecadação do Simples",
+      "answer": "DAS",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Marcos Palmeira, ator carioca",
+      "answer": "MP",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Qualquer espaço vazio entre dois pontos ou duas coisas",
+      "answer": "VÃO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Alinhar os cabelos",
+      "answer": "PENTEAR",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "As vogais de terço",
+      "answer": "EO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Próximo, vizinho",
+      "answer": "CONTIGUO",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "A atriz e apresentadora Ana",
+      "answer": "FURTADO",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "Testemunho escrito",
+      "answer": "ATESTADO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Quím.) O bismuto",
+      "answer": "BI",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "Orientado, dirigido",
+      "answer": "VOLTADO",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Término, cessação da existência de algo",
+      "answer": "FIM",
+      "row": 7,
+      "col": 8
+    },
+    "26": {
+      "clue": "Elvis Presley (1935-1977), cantor e ator",
+      "answer": "EP",
+      "row": 8,
+      "col": 0
+    },
+    "27": {
+      "clue": "Época histórica",
+      "answer": "ERA",
+      "row": 8,
+      "col": 3
+    },
+    "28": {
+      "clue": "Pompa",
+      "answer": "GALA",
+      "row": 8,
+      "col": 7
+    },
+    "29": {
+      "clue": "Típica exclamação de surpresa do matuto",
+      "answer": "UAI",
+      "row": 9,
+      "col": 2
+    },
+    "30": {
+      "clue": "Sigla para a doença responsável pela atual pandemia",
+      "answer": "COVID",
+      "row": 9,
+      "col": 6
+    },
+    "31": {
+      "clue": "Inexplicável, extraordinário",
+      "answer": "MIRACULOSO",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Inacessível a embarcações",
+      "answer": "INAVEGAVEL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Proposta",
+      "answer": "MOÇÃO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Brinquedo impulsionado por um cordel",
+      "answer": "PIÃO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Sufixo químico",
+      "answer": "ETO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Marcha que faz o carro andar para trás",
+      "answer": "RE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Magnetizado",
+      "answer": "IMANTADO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Portando roupa apropriada para uma ocasião",
+      "answer": "VESTIDO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Em italiano é io e em francês é je",
+      "answer": "EU",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "Próximo",
+      "answer": "APROXIMADO",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "Como a roda da engrenagem",
+      "answer": "DENTADA",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "O oposto de bom",
+      "answer": "MAU",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Entrada principal de um edifício, condomínio etc.",
+      "answer": "PORTARIA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "O \"eu\" da psicanálise",
+      "answer": "EGO",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Correr com as despesas de",
+      "answer": "CUSTEAR",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Sabor amargo",
+      "answer": "FEL",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "O de linha é o carro mais completo na sua categoria",
+      "answer": "TOP",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Substância que age na digestão",
+      "answer": "BILIS",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Depósito de mel das abelhas",
+      "answer": "FAVO",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "O olímpico é marcado de uma cobrança de escanteio",
+      "answer": "GOL",
+      "row": 8,
+      "col": 7
+    },
+    "29": {
+      "clue": "Palavra que expressa dor",
+      "answer": "UI",
+      "row": 9,
+      "col": 2
+    },
+    "30": {
+      "clue": "(Quím.) O símbolo do cobre",
+      "answer": "CU",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

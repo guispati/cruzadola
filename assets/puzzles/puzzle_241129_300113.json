@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cetáceo de até 30 m de comprimento e 120 toneladas",
+      "answer": "BALEIAAZUL",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Prova que pode inocentar um réu",
+      "answer": "ALIBI",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "A metade de duzentos",
+      "answer": "CEM",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "(Inform.) Um milhão, usado como medida",
+      "answer": "MEGA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Outro sobrenome do Pero escrivão da esquadra de Cabral",
+      "answer": "VAZ",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Julio Iglesias, cantor espanhol",
+      "answer": "JI",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "A tenista Haddad, uma das melhores do mundo",
+      "answer": "BIA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Babar",
+      "answer": "SALIVAR",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "A sigla da medida de distância Unidade Astronômica",
+      "answer": "UA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Proteína que é um pigmento corporal",
+      "answer": "MELANINA",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "(Pop.) Abobado, preguiçoso",
+      "answer": "PAMONHA",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "Tendência natural",
+      "answer": "INSTINTO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "O símbolo químico do lutécio",
+      "answer": "LU",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "9 anos",
+      "answer": "NOVENIO",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "O cantora baiana Preta",
+      "answer": "GIL",
+      "row": 7,
+      "col": 8
+    },
+    "26": {
+      "clue": "Abreviatura de hertz, unidade de frequência",
+      "answer": "HZ",
+      "row": 8,
+      "col": 0
+    },
+    "27": {
+      "clue": "Fruto em drupas amareladas",
+      "answer": "JUA",
+      "row": 8,
+      "col": 3
+    },
+    "28": {
+      "clue": "Deus do vinho e da fertilidade",
+      "answer": "BACO",
+      "row": 8,
+      "col": 7
+    },
+    "29": {
+      "clue": "Tempero usado em pequenos grãos",
+      "answer": "SAL",
+      "row": 9,
+      "col": 2
+    },
+    "30": {
+      "clue": "Rendimentos do dinheiro emprestado",
+      "answer": "JUROS",
+      "row": 9,
+      "col": 6
+    },
+    "31": {
+      "clue": "(Pop.) Aquele que faz musculação",
+      "answer": "MAROMBEIRO",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Outro nome da planta cana-de-passarinho",
+      "answer": "BAMBUZINHO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Alameda",
+      "answer": "ALEIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Mistura de metais fundidos",
+      "answer": "LIGA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Interjeição de alegria, admiração",
+      "answer": "EBA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "As vogais de viril",
+      "answer": "II",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Cantiga de ninar",
+      "answer": "ACALANTO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Um apelido para José",
+      "answer": "ZEZINHO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Três menos dois",
+      "answer": "UM",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "Inexplicável, extraordinário",
+      "answer": "MIRACULOSO",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "Uma das três regiões da Bélgica",
+      "answer": "VALONIA",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "O período entre Dez e Fev",
+      "answer": "JAN",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Pequena semente",
+      "answer": "SEMINULO",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "A nossa Láctea",
+      "answer": "VIA",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Cortar lenha no mato",
+      "answer": "MATEJAR",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Um clube de futebol holandês",
+      "answer": "PSV",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "(-moscada) Um condimento",
+      "answer": "NOZ",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Uma bebida como o Frangelico ou o Drambuie",
+      "answer": "LICOR",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Um que trabalha na limpeza das ruas",
+      "answer": "GARI",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Berreiro de criança",
+      "answer": "BUE",
+      "row": 8,
+      "col": 7
+    },
+    "29": {
+      "clue": "Faz dupla com Guarabyra, na MPB",
+      "answer": "SA",
+      "row": 9,
+      "col": 2
+    },
+    "30": {
+      "clue": "Jornal do Brasil",
+      "answer": "JB",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "across": {
+    "1": {
+      "clue": "Sinal para indicar o caminho",
+      "answer": "FLECHA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Viseira",
+      "answer": "PALA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Metal semelhante à platina, muito duro, raríssimo",
+      "answer": "RENIO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "A doença da pandemia que teve início em 2019",
+      "answer": "COVID",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Perplexo",
+      "answer": "ESTARRECIDO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Scooby-) Famoso cão da Hanna-Barbera",
+      "answer": "DOO",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Ser proveniente",
+      "answer": "DERIVAR",
+      "row": 3,
+      "col": 4
+    },
+    "16": {
+      "clue": "Plantação que supre a indústria de cigarros",
+      "answer": "TABACAL",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "O pequeno furo por onde a pele respira",
+      "answer": "PORO",
+      "row": 5,
+      "col": 0
+    },
+    "19": {
+      "clue": "Conjunto de cavalos, cabritos etc.",
+      "answer": "GADO",
+      "row": 5,
+      "col": 7
+    },
+    "22": {
+      "clue": "Da nação europeia cuja capital é Vilnius",
+      "answer": "LITUANO",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Unir em matrimônio",
+      "answer": "ESPOSAR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Um dos três estados da matéria",
+      "answer": "GAS",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Que deixa passar a luz sem permitir que se vejam os objetos",
+      "answer": "TRANSLUCIDO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Cada aurícula do coração",
+      "answer": "ATRIO",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Famosa marca de chocolate",
+      "answer": "BATON",
+      "row": 9,
+      "col": 6
+    },
+    "34": {
+      "clue": "Descarga elétrica na atmosfera",
+      "answer": "RAIO",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Exemplar de um periódico",
+      "answer": "NUMERO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O Flintstone dos desenhos animados",
+      "answer": "FRED",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "País da África com capital Maseru",
+      "answer": "LESOTO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Cantar dando a cada nota o devido tom",
+      "answer": "ENTOAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Companhia",
+      "answer": "CIA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Multidão selvagem, indisciplinada",
+      "answer": "HORDA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Lugar sujo, imundo e desorganizado",
+      "answer": "POCILGA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Tel) A segunda maior cidade de Israel",
+      "answer": "AVIV",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Trabalho, labuta",
+      "answer": "LIDA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O que serve para embelezar",
+      "answer": "ADORNO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Substância que se forma nos ouvidos",
+      "answer": "CERA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Execução musical de um solista",
+      "answer": "RECITAL",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Aquele que não tem juízo ou inteligência",
+      "answer": "BOLONIO",
+      "row": 4,
+      "col": 3
+    },
+    "18": {
+      "clue": "Fazer versos",
+      "answer": "POETAR",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "(Med.) Inflamação de um vaso sanguíneo ou linfático",
+      "answer": "ANGITE",
+      "row": 5,
+      "col": 8
+    },
+    "21": {
+      "clue": "Que cedeu um bem",
+      "answer": "DOADOR",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "(Interj.) Está certo!",
+      "answer": "ISSO",
+      "row": 6,
+      "col": 4
+    },
+    "24": {
+      "clue": "Ave de mau agouro",
+      "answer": "URUBU",
+      "row": 6,
+      "col": 6
+    },
+    "26": {
+      "clue": "Abrev.: senhorita",
+      "answer": "SRTA",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Cerco para peixes",
+      "answer": "PARI",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Desejo de dormir",
+      "answer": "SONO",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Clube Atlético Mineiro",
+      "answer": "CAM",
+      "row": 8,
+      "col": 7
+    }
+  }
+}

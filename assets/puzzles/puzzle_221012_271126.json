@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O tio do Pato Donald",
+      "answer": "PATINHAS",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "1005, em algarismos romanos",
+      "answer": "MV",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "(de) Em lugar posterior a",
+      "answer": "ATRAS",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Variedade de mexerica",
+      "answer": "PONCÃ",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Proporção de uma substância determinada",
+      "answer": "TEOR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Pop.) Corpo que recebe espírito",
+      "answer": "CAVALO",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Uma futura noiva",
+      "answer": "NAMORADA",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "O Barnabé personagem do \"Sítio do Pica-Pau Amarelo\"",
+      "answer": "TIO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Desportista não profissional (fem.)",
+      "answer": "AMADORA",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Antigo Testamento",
+      "answer": "AT",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Voz forte e enérgica",
+      "answer": "BRADO",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "O cantor e compositor Motta",
+      "answer": "ED",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "O planeta com os característicos anéis",
+      "answer": "SATURNO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Um grande antílope, com chifres parecidos com os dos bois",
+      "answer": "GNU",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "A igreja principal da diocese",
+      "answer": "CATEDRAL",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "A varinha do maestro",
+      "answer": "BATUTA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Não usado",
+      "answer": "NOVO",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Inseto que, para se nutrir, corroe madeira, livros etc.",
+      "answer": "BROCA",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Matem.) Quantidade determinada por uma grandeza e uma direção",
+      "answer": "VETOR",
+      "row": 9,
+      "col": 6
+    },
+    "34": {
+      "clue": "(Quím.) Berílio",
+      "answer": "BE",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Plano para enganar",
+      "answer": "ARDILEZA",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Os Três) Famosa série cômica",
+      "answer": "PATETAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Inclusive, mesmo",
+      "answer": "ATE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Pop.) Vaso sanitário",
+      "answer": "TRONO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Figura da mitologia, protetora das águas",
+      "answer": "IARA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Nelson Sargento, músico carioca",
+      "answer": "NS",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Aquele que desbasta, corta o excesso de",
+      "answer": "APARADOR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Um tipo de pão",
+      "answer": "SOVADO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Equipe inglesa de F1",
+      "answer": "MCLAREN",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Distância entre dois pontos de uma viga, abóbada, arco etc.",
+      "answer": "VÃO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "O crawl é o mais praticado nas piscinas",
+      "answer": "NADO",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Bloco para anotações de pedidos pelo garçom",
+      "answer": "COMANDA",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "(Fig.) Malhar, falar mal de",
+      "answer": "MARRETAR",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Cidade baiana da região de Ilhéus-Itabuna",
+      "answer": "ITACARE",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Tubulação usada para condução de águas",
+      "answer": "ADUTORA",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "(Pop.) Olho",
+      "answer": "BUTUCA",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "(Fig.) Jeito, habilidade",
+      "answer": "TATO",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "A abertura da laringe em que se forma a voz",
+      "answer": "GLOTE",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Joia para dedos",
+      "answer": "ANEL",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Big Brother Brasil",
+      "answer": "BBB",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "O som produzido pelo aparelho fonador",
+      "answer": "VOZ",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "A metade de XII, em romanos",
+      "answer": "VI",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

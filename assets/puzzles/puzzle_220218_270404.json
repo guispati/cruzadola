@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Garfo, colher e...",
+      "answer": "FACA",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "Que é justa, merecida",
+      "answer": "DEVIDA",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Que foi",
+      "answer": "IDO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "(Fig.) Sujeira, porcaria",
+      "answer": "LIXO",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Inezita Barroso (1925-2015), cantora e apresentadora",
+      "answer": "IB",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Cova, gruta",
+      "answer": "FURNA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Tufo de plantas arbustivas ou rasteiras",
+      "answer": "MOITA",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Que desce a pique ou com grande inclinação",
+      "answer": "ABRUPTO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Tempero usado em grãos",
+      "answer": "SAL",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Perceber um som",
+      "answer": "OUVIR",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Na parte externa de alguma coisa",
+      "answer": "FORA",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Controle de carga feito em caminhões carregados",
+      "answer": "PESAGEM",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Análogo",
+      "answer": "AFIM",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Osso da parte posterior do septo nasal",
+      "answer": "VOMER",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "A abreviatura que segue Exma.",
+      "answer": "SRA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "O de ocorrência relata um caso policial",
+      "answer": "BOLETIM",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Dar à luz",
+      "answer": "GERAR",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Peixe também chamado calunga",
+      "answer": "PARGO",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Um grito de dor",
+      "answer": "AI",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Tratamento usado para pessoa íntima",
+      "answer": "VOCE",
+      "row": 9,
+      "col": 3
+    },
+    "37": {
+      "clue": "Imposto sobre Operações Financeiras",
+      "answer": "IOF",
+      "row": 9,
+      "col": 8
+    },
+    "38": {
+      "clue": "Ressonar",
+      "answer": "RONCAR",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "O Rodrigo apresentador de TV",
+      "answer": "FARO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A mais importante federação internacional de futebol",
+      "answer": "FIFA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Faz as plantas crescerem mais viçosas",
+      "answer": "ADUBO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Fazer girar em torno de um eixo",
+      "answer": "CORRUPIAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O Cavalcanti (1897-1976) pintor",
+      "answer": "DI",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "Abreviatura de excelentíssimo",
+      "answer": "EXMO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Passeio de parapente",
+      "answer": "VOO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Fig.) Determinar",
+      "answer": "DITAR",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Comover",
+      "answer": "ABALAR",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Peça usada para escrever ou desenhar",
+      "answer": "LAPIS",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Massa de vapores de água que encobre o Sol",
+      "answer": "NUVEM",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Igualdade de dimensões",
+      "answer": "ISOMETRIA",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Sabor adstringente de uma bebida",
+      "answer": "TRAVO",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Um antônimo para macho",
+      "answer": "FEMEA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Fazer em pedaços (papel, tecido etc.)",
+      "answer": "RASGAR",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "O militar, em 1964, depôs o presidente João Goulart",
+      "answer": "GOLPE",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Trava, breque",
+      "answer": "FREIO",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Severidade na educação",
+      "answer": "RIGOR",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Pãozinho doce de fubá e ovos",
+      "answer": "BROA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Bolor facilmente encontrado em lugares úmidos",
+      "answer": "MOFO",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "(Sigla) Acidente Vascular Cerebral",
+      "answer": "AVC",
+      "row": 8,
+      "col": 3
+    },
+    "36": {
+      "clue": "O símbolo do cromo, elemento químico",
+      "answer": "CR",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Seguinte, imediato",
+      "answer": "OUTRO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Em menor intensidade",
+      "answer": "MENOS",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Refeição da noite",
+      "answer": "CEIA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "(Dick) Uma obra-prima de Herman Melville",
+      "answer": "MOBY",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Série de degraus que conduz a lugares altos e baixos e por onde, andando, se pode subir ou descer",
+      "answer": "ESCADA",
+      "row": 2,
+      "col": 2
+    },
+    "13": {
+      "clue": "Poder Legislativo",
+      "answer": "PL",
+      "row": 2,
+      "col": 9
+    },
+    "14": {
+      "clue": "(Quím.) Rubídio",
+      "answer": "RB",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "País africano cuja capital é Acra",
+      "answer": "GANA",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "As extremidades dos membros inferiores",
+      "answer": "PES",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Estilo decorativo muito enfeitado",
+      "answer": "ROCOCO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Sanção prevista na lei para o autor de crimes ou delitos",
+      "answer": "PENA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "A sigla da doença Esclerose Lateral Amiotrófica",
+      "answer": "ELA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Que professa doutrina contrária aos dogmas da igreja",
+      "answer": "HEREGE",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "O andamento habitual",
+      "answer": "NORMALIDADE",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Que gosta de fazer o mal, atormentar, maltratar",
+      "answer": "CRUEL",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Posto do Exército, inferior a tenente-coronel",
+      "answer": "MAJOR",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "Defeituoso",
+      "answer": "ANOMALO",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "Emitir, pela boca, gases provenientes do estômago",
+      "answer": "ARROTAR",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Senhora",
+      "answer": "SRA",
+      "row": 9,
+      "col": 8
+    },
+    "35": {
+      "clue": "Fita adesiva",
+      "answer": "DUREX",
+      "row": 10,
+      "col": 1
+    },
+    "36": {
+      "clue": "O músico McCartney, ex-integrante dos Beatles",
+      "answer": "PAUL",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Acontecimento",
+      "answer": "OCORRENCIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Uai!",
+      "answer": "UE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Black) Um traje para ocasiões formais",
+      "answer": "TIE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Laceração de um tecido",
+      "answer": "RASGO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A indústria das roupas",
+      "answer": "MODA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Exclam.: surpresa",
+      "answer": "EBA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Nova York",
+      "answer": "NY",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Folhinha verde usada como tempero",
+      "answer": "SALSA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "O escritor e novelista Carlos, de \"Em Família\"",
+      "answer": "MANOEL",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Baleia cinzenta, com até 20 m de comprimento",
+      "answer": "CACHALOTE",
+      "row": 2,
+      "col": 4
+    },
+    "13": {
+      "clue": "Um destino turístico na serra fluminense",
+      "answer": "PENEDO",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Mofo",
+      "answer": "BOLOR",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "Grudenta",
+      "answer": "PEGAJOSA",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Cidade pernambucana famosa por suas feira popular",
+      "answer": "CARUARU",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "O acelerador da bicicleta",
+      "answer": "PEDAL",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Compor em verso",
+      "answer": "RIMAR",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Inferior em número, extensão, duração etc.",
+      "answer": "MENOR",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Plantação de mate",
+      "answer": "ERVAL",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "(de Castro) Compositor, multiinstrumentista e produtor musical",
+      "answer": "MAX",
+      "row": 8,
+      "col": 5
+    },
+    "32": {
+      "clue": "Roberto Dinamite, ídolo do Vasco",
+      "answer": "RD",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "Sufixo da Rússia nos endereços da internet",
+      "answer": "RU",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

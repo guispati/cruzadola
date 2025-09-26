@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Econ.) Oferecer ao mercado mais do que ele pode absorver",
+      "answer": "INFLACIONAR",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Fêmea animal que teve cria",
+      "answer": "MÃE",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "O de Lima Duarte é Ariclenes",
+      "answer": "NOME",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "(Econ.) Unidade Orçamentária",
+      "answer": "UO",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "Uma fruta",
+      "answer": "MAÇÃ",
+      "row": 2,
+      "col": 3
+    },
+    "13": {
+      "clue": "Síndrome que atinge somente as mulheres",
+      "answer": "TPM",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Aba frontal dos bonés",
+      "answer": "PALA",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Grupo musical somente de canto",
+      "answer": "CORO",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "País da África cuja capital é Cairo",
+      "answer": "EGITO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "(Villa-) Um dos grandes nomes da música brasileira",
+      "answer": "LOBOS",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "Nascidos em Montevidéu",
+      "answer": "URUGUAIOS",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Agradecido",
+      "answer": "GRATO",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "U, O, I, E ou A",
+      "answer": "VOGAL",
+      "row": 6,
+      "col": 6
+    },
+    "24": {
+      "clue": "Que possui pouca flexibilidade",
+      "answer": "RIJO",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Satanás, Capeta",
+      "answer": "SATÃ",
+      "row": 7,
+      "col": 5
+    },
+    "26": {
+      "clue": "Interjeição que indica surpresa",
+      "answer": "UAU",
+      "row": 8,
+      "col": 0
+    },
+    "27": {
+      "clue": "Uma característica dos polos",
+      "answer": "NEVE",
+      "row": 8,
+      "col": 4
+    },
+    "28": {
+      "clue": "Kevin Costner, ator",
+      "answer": "KC",
+      "row": 8,
+      "col": 9
+    },
+    "29": {
+      "clue": "(Fig.) Administração, direção",
+      "answer": "LEME",
+      "row": 9,
+      "col": 3
+    },
+    "30": {
+      "clue": "Som de ave",
+      "answer": "PIO",
+      "row": 9,
+      "col": 8
+    },
+    "31": {
+      "clue": "Contrário às forças armadas",
+      "answer": "ANTIMILITAR",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Salvo",
+      "answer": "IMUNE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Advérbio que expressa negação",
+      "answer": "NÃO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Crença em Deus",
+      "answer": "FE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Que é afim, semelhante",
+      "answer": "ANALOGO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Surra",
+      "answer": "COÇA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Objeto que atrai o ferro",
+      "answer": "IMÃ",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Em física, abreviatura de oersted",
+      "answer": "OE",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O Graciliano (1892-1953) do livro \"Vidas Secas\"",
+      "answer": "RAMOS",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Que vive na roça",
+      "answer": "MATUTO",
+      "row": 2,
+      "col": 3
+    },
+    "13": {
+      "clue": "Rampa com ondulações, para diversão",
+      "answer": "TOBOGÃ",
+      "row": 2,
+      "col": 8
+    },
+    "14": {
+      "clue": "Conversa informal",
+      "answer": "PROSA",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Outro nome do peixe dourado",
+      "answer": "PIRAJU",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Mamífero semelhante ao lobo",
+      "answer": "COIOTE",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Menina",
+      "answer": "GURIA",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Que pode ser limpo",
+      "answer": "LAVAVEL",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Caverna",
+      "answer": "GRUTA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Uma bebida como o Limoncello",
+      "answer": "LICOR",
+      "row": 6,
+      "col": 10
+    },
+    "25": {
+      "clue": "Prefixo: metade",
+      "answer": "SEMI",
+      "row": 7,
+      "col": 5
+    },
+    "27": {
+      "clue": "E ninguém",
+      "answer": "NEM",
+      "row": 8,
+      "col": 4
+    },
+    "28": {
+      "clue": "Uma marca coreana de carros",
+      "answer": "KIA",
+      "row": 8,
+      "col": 9
+    },
+    "29": {
+      "clue": "(Quím.) O símbolo do lítio",
+      "answer": "LI",
+      "row": 9,
+      "col": 3
+    },
+    "30": {
+      "clue": "O que transforma cria em cripta",
+      "answer": "PT",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "O osso da coxa",
+      "answer": "FEMUR",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Peças do vestuário que são usadas nos pés",
+      "answer": "MEIAS",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Descorado pelo tempo",
+      "answer": "AMARELADO",
+      "row": 1,
+      "col": 2
+    },
+    "12": {
+      "clue": "Rita Lobo, chef",
+      "answer": "RL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Região de SP com alta concentração de indústrias",
+      "answer": "ABECE",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Vicente Celestino (1894-1968), cantor de \"O Ébrio\"",
+      "answer": "VC",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Marca chinesa fabricante de carros",
+      "answer": "JAC",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Até que enfim!",
+      "answer": "UFA",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Animal de corte",
+      "answer": "BOI",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Encontrado pela primeira vez",
+      "answer": "ACHADO",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Tapa de mão fechada",
+      "answer": "SOCO",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Talhada em pedaços",
+      "answer": "RECORTADA",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Veio de água corrente",
+      "answer": "BICA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Aloprado, biruta",
+      "answer": "MALUCO",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Ajustar, adaptar",
+      "answer": "AMOLDAR",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Novercentos e noventa e nove mais um",
+      "answer": "MIL",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Boletim Oficial",
+      "answer": "BO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Desviar (o rumo, a rota etc.)",
+      "answer": "MUDAR",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Anistia Internacional",
+      "answer": "AI",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "Árvore de grandes flores laranja",
+      "answer": "ESPATODEA",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "De cabelos claros",
+      "answer": "LOURO",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Nem esta nem aquela",
+      "answer": "OUTRA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Conjunto dos instrumentos de trabalho do ferreiro",
+      "answer": "FORJA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Reprovável, desonesta",
+      "answer": "MA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Artigo feminino que não determina exatamente",
+      "answer": "UMA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Que possui rabo grande",
+      "answer": "RABUDO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Uma cidade santa dos muçulmanos",
+      "answer": "MECA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "O sujeito de ignora ou comemora",
+      "answer": "ELE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Inteligência Artificial",
+      "answer": "IA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Profissão que consiste em aconselhar e representar pessoas sobre questões jurídicas",
+      "answer": "ADVOCACIA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Companheiro de negócios",
+      "answer": "SOCIO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Militar que conseguiu aposentadoria definitiva",
+      "answer": "REFORMADO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Que chora",
+      "answer": "LACRIMOSO",
+      "row": 2,
+      "col": 1
+    },
+    "17": {
+      "clue": "Do país de Praga e Brno",
+      "answer": "CHECO",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Suor malcheiroso",
+      "answer": "BODUM",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Restabelecer o sossego",
+      "answer": "ACALMAR",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "O grosso é usado para temperar carnes",
+      "answer": "SAL",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "(Pop.) Gamado, vidrado",
+      "answer": "TARADO",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Uma torre bíblica",
+      "answer": "BABEL",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Pequeno fruto verde ou quase preto",
+      "answer": "OLIVA",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Canal no organismo animal",
+      "answer": "DUTO",
+      "row": 7,
+      "col": 4
+    },
+    "33": {
+      "clue": "Autor de crime",
+      "answer": "REU",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "Plutônio, elemento químico",
+      "answer": "PU",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "(Abrev.) Antigo Testamento",
+      "answer": "AT",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

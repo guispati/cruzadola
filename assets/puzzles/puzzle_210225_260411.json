@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Aquisições mediante pagamento",
+      "answer": "COMPRAS",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "A plantação de um fruto muito usado para enfeitar bolos",
+      "answer": "CEREJAL",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Sigla do estado da Bahia",
+      "answer": "BA",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Precede Dez",
+      "answer": "NOV",
+      "row": 2,
+      "col": 2
+    },
+    "13": {
+      "clue": "Cão de tamanho médio, robusto, com pelagem curta",
+      "answer": "BOXER",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Carnívoro semiaquático, de pele valiosa",
+      "answer": "VISOM",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "(Pop.) Cachaça",
+      "answer": "JURA",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Calha",
+      "answer": "CANALETA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "(Mús.) A nota E",
+      "answer": "MI",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "O suporte da lente dos óculos",
+      "answer": "ARO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "(Pop.) Mulher de meia-idade não casada",
+      "answer": "TIA",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Pelados, despidos",
+      "answer": "NUS",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "(Farm.) Unidades Internacionais",
+      "answer": "UI",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Coagulado",
+      "answer": "COALHADO",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Parte da perna entre o quadril e o joelho",
+      "answer": "COXA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Líquido que circula na planta e a alimenta",
+      "answer": "SEIVA",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "O executor de uma sentença de morte",
+      "answer": "ALGOZ",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Nota Fiscal Eletrônica",
+      "answer": "NFE",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "O parceiro de Guarabyra, do sucesso \"Espanhola\"",
+      "answer": "SA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Em música, composição para seis executantes",
+      "answer": "SEXTETO",
+      "row": 9,
+      "col": 3
+    },
+    "37": {
+      "clue": "(Med.) Criança recém-nascida",
+      "answer": "NEONATO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Otaviano Costa, ator e apresentador",
+      "answer": "OC",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Garoto",
+      "answer": "MENINO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O que se escreve sem vínculo à métrica poética",
+      "answer": "PROSA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Conturbado",
+      "answer": "REVOLTO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "As iniciais da atriz Jolie",
+      "answer": "AJ",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Precede Dom",
+      "answer": "SAB",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Lugar agradável e prazeroso",
+      "answer": "PARAISO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Estabelecimento comercial em que se expõem e vendem mercadorias",
+      "answer": "LOJA",
+      "row": 1,
+      "col": 7
+    },
+    "11": {
+      "clue": "Tipo de short que vai quase até os joelhos",
+      "answer": "BERMUDA",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Um pouco de... luxúria",
+      "answer": "XU",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Doença infecciosa aguda, endêmica nos países tropicais",
+      "answer": "VARIOLA",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "As peças de vestuário usadas nos pés",
+      "answer": "MEIAS",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Montanhas que separam os mares Negro e Cáspio",
+      "answer": "CAUCASO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Conjunto de dons naturais",
+      "answer": "TALENTO",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Utensílio da máquina de costura e do tear",
+      "answer": "NAVETA",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "Desordem e confusão",
+      "answer": "CAOS",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Traço de união",
+      "answer": "HIFEN",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Um padrão de medida de roupas",
+      "answer": "XG",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "(Pop.) Muito tranquilo e confiante",
+      "answer": "ZEN",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "Xenônio",
+      "answer": "XE",
+      "row": 9,
+      "col": 5
+    },
+    "36": {
+      "clue": "O que muda de picar para picotar",
+      "answer": "OT",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

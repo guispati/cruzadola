@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um quebra-cabeça de 7 peças",
+      "answer": "TANGRAM",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "(Fisiot.) Reeducação Postural Global",
+      "answer": "RPG",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Pequeno fruto amarelo comestível",
+      "answer": "UVAIA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Material de trabalho do juiz de futebol",
+      "answer": "APITO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Franzido (em vestido)",
+      "answer": "PLISSAGEM",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Até que enfim!",
+      "answer": "UFA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Um tipo de boné vazado",
+      "answer": "VISEIRA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Tio sem tê",
+      "answer": "IO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "A atriz de TV Helena",
+      "answer": "RANALDI",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Caixão mortuário",
+      "answer": "URNA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Um corpo d'água como o Paranoá",
+      "answer": "LAGO",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "Apresentação de banda de música em praça pública",
+      "answer": "RETRETA",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Ítalo Calvino (1923-1985), escritor italiano",
+      "answer": "IC",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Que pede muito dinheiro",
+      "answer": "CAREIRO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "A nota musical simbolizada pelo G",
+      "answer": "SOL",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "O escritor Silva, de \"Roque Santeiro\"",
+      "answer": "AGUINALDO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Cheio de) Diz-se de quem fica com muitas frescuras",
+      "answer": "DEDOS",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Da Dinamarca",
+      "answer": "DANES",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Doméstica que cuida das crianças",
+      "answer": "AMA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Amor excessivo ao bem próprio",
+      "answer": "EGOISMO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ave típica do Pantanal",
+      "answer": "TUIUIU",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O que transforma cheiro em chaveiro",
+      "answer": "AV",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Material usado na confecção de bolsas",
+      "answer": "NAPA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A Preta e o Gilberto músicos baianos",
+      "answer": "GIL",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Aversão, repulsão",
+      "answer": "RAIVA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "O ex-piloto de Fórmula 1 Felipe",
+      "answer": "MASSA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Dura, rigorosa",
+      "answer": "RIGIDA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Oftalm.) Um espessamento da conjuntiva",
+      "answer": "PTERIGIO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Outro nome da jujuba",
+      "answer": "GOMA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Um prato típico da culinária espanhola",
+      "answer": "PAELLA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Franca, verdadeira",
+      "answer": "SINCERA",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Plantas usadas para alimentar o gado",
+      "answer": "FORRAGEM",
+      "row": 3,
+      "col": 1
+    },
+    "19": {
+      "clue": "Apuração de valor das apostas",
+      "answer": "RATEIO",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "O Pablo (1904-1974), poeta chileno",
+      "answer": "NERUDA",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Fechado",
+      "answer": "OCLUSO",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Creme usado para tratar e amaciar o cabelo",
+      "answer": "RINSE",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Teto de pano ou de lona",
+      "answer": "TOLDO",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "Palavra que designa os elementos que formam um conjunto",
+      "answer": "CADA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Barulhos, ruídos",
+      "answer": "SONS",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Nesse ponto",
+      "answer": "DAI",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Evandro Mesquita, ator e músico",
+      "answer": "EM",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

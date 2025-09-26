@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "A capital do Afeganistão",
+      "answer": "CABUL",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O apelido do time de SC que sofreu uma grande tragédia em 2016",
+      "answer": "CHAPE",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "A seguir",
+      "answer": "APOS",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Um doce como o \"Sonho de Valsa\" ou o \"Serenata de Amor\"",
+      "answer": "BOMBOM",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Unidade de pressão de símbolo mb",
+      "answer": "MILIBAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Uma entrada para conexão do PC",
+      "answer": "USB",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Compreender",
+      "answer": "ATINAR",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Pronome demonstrativo feminino",
+      "answer": "ESTA",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Pessoa cuja assinatura garante o pagamento de promissória",
+      "answer": "AVALISTA",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Três vezes campeão",
+      "answer": "TRI",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Ativa, ligeira",
+      "answer": "ESPERTA",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "Acometer",
+      "answer": "AFETAR",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Transforma melado em modelado",
+      "answer": "OD",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "(Med.) Suspensão da respiração",
+      "answer": "APNEIA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "A região cervical",
+      "answer": "NUCA",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Ser infiel",
+      "answer": "TRAIR",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Fig.) Mulher da qual alguém fez sua musa inspiradora",
+      "answer": "DIVA",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Oersted",
+      "answer": "OE",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Atitude de quem se mostra afetado no vestir",
+      "answer": "JANOTADA",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Uma extremidade do cachorro",
+      "answer": "RABO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Encarcerados",
+      "answer": "PRESOS",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Móvel para dormir",
+      "answer": "CAMA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Esp.) Atuar como juiz",
+      "answer": "APITAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Mulher nascida no país cuja capital é La Paz",
+      "answer": "BOLIVIANA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Complexo industrial que produz álcool e açúcar",
+      "answer": "USINA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A do ketchup é vermelha",
+      "answer": "COR",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Henri Matisse, pintor",
+      "answer": "HM",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Aproveitar com exagero",
+      "answer": "ABUSAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Ingl.) Publicação em um blog",
+      "answer": "POST",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Sem brilho (fem.)",
+      "answer": "EMBAÇADA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Trabalha com café",
+      "answer": "BARISTA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Embarcação miúda, geralmente a remo, com a popa e a proa finas e elevadas",
+      "answer": "BALEEIRA",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Massa de amianto e cimento usada em telhas",
+      "answer": "ETERNITE",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Uma clínica para tratamento de distúrbios da alimentação, saúde e beleza",
+      "answer": "SPA",
+      "row": 4,
+      "col": 6
+    },
+    "19": {
+      "clue": "Máquina usada na terraplenagem",
+      "answer": "TRATOR",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Sensibilizado",
+      "answer": "TOCADO",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Município acreano da região de Tarauacá",
+      "answer": "FEIJO",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Roedor semelhante ao porquinho-da-índia",
+      "answer": "PREA",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Os frutos da videira",
+      "answer": "UVAS",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Mágoa originada por desgostos do espírito ou do coração",
+      "answer": "DOR",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Nilo Peçanha (1867-1924), ex-presidente do Brasil",
+      "answer": "NP",
+      "row": 9,
+      "col": 5
+    },
+    "34": {
+      "clue": "São três em cambalacho",
+      "answer": "AS",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

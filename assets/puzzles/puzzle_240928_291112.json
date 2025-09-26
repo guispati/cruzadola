@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Outro nome da palmeira coco-de-indaiá",
+      "answer": "ANAJA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Náusea, enjoo",
+      "answer": "ENOJO",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "(Claros) Uma cidade de MG",
+      "answer": "MONTES",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Festa Literária Internacional de Paraty",
+      "answer": "FLIP",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "O que transforma triar em tributar",
+      "answer": "BUT",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Arbusto que se cultiva como ornamental",
+      "answer": "ROBLE",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "A sambista carioca Lara",
+      "answer": "IVONE",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Recibo de Pagamento a Autônomo",
+      "answer": "RPA",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "A parte inferior do tênis",
+      "answer": "SOLA",
+      "row": 4,
+      "col": 0
+    },
+    "23": {
+      "clue": "O mais velho (contrapõe-se a júnior)",
+      "answer": "SENIOR",
+      "row": 4,
+      "col": 5
+    },
+    "25": {
+      "clue": "Ansioso, depressivo e inquieto",
+      "answer": "DISFORICO",
+      "row": 5,
+      "col": 1
+    },
+    "27": {
+      "clue": "O roqueiro Kurt (1967-1994), do \"Nirvana\"",
+      "answer": "COBAIN",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Sem valor",
+      "answer": "NULO",
+      "row": 6,
+      "col": 7
+    },
+    "30": {
+      "clue": "Unidade de medidas agrárias",
+      "answer": "ARE",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "País cuja capital é Katmandu",
+      "answer": "NEPAL",
+      "row": 7,
+      "col": 4
+    },
+    "33": {
+      "clue": "Muito curto",
+      "answer": "RENTE",
+      "row": 8,
+      "col": 2
+    },
+    "35": {
+      "clue": "Tribunal Superior Eleitoral",
+      "answer": "TSE",
+      "row": 8,
+      "col": 8
+    },
+    "37": {
+      "clue": "Clube holandês de futebol",
+      "answer": "AJAX",
+      "row": 9,
+      "col": 0
+    },
+    "39": {
+      "clue": "Ainda assim",
+      "answer": "EMBORA",
+      "row": 9,
+      "col": 5
+    },
+    "41": {
+      "clue": "Um povo banto da África do Sul",
+      "answer": "ZULUS",
+      "row": 10,
+      "col": 0
+    },
+    "42": {
+      "clue": "Tirar aquilo que fecha",
+      "answer": "ABRIR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Tanto um como o outro",
+      "answer": "AMBOS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Camp) O estádio de futebol do Barcelona, na Espanha",
+      "answer": "NOU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Que se opõe ao liberalismo",
+      "answer": "ANTILIBERAL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "As iniciais do ator Travolta, de \"Grease\"",
+      "answer": "JT",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Elemento de composição: ar",
+      "answer": "AERO",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "A associação do futebol americano dos EUA",
+      "answer": "NFL",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Cultivador de legumes",
+      "answer": "OLERICULTOR",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "(-Paraná) Grande cidade de Rondônia",
+      "answer": "JI",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Decidir entre um ou outro",
+      "answer": "OPTAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Modo de pronunciar",
+      "answer": "SONSONETE",
+      "row": 1,
+      "col": 5
+    },
+    "16": {
+      "clue": "(Ingl.) Cerveja",
+      "answer": "BEER",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "O fundo lodoso do rio",
+      "answer": "VASA",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "(Ingl.) Rede, cadeia",
+      "answer": "POOL",
+      "row": 3,
+      "col": 9
+    },
+    "22": {
+      "clue": "Cheiro",
+      "answer": "ODOR",
+      "row": 4,
+      "col": 1
+    },
+    "24": {
+      "clue": "Uma caravela de Colombo",
+      "answer": "NINA",
+      "row": 4,
+      "col": 7
+    },
+    "26": {
+      "clue": "Um veleiro de regatas",
+      "answer": "FINN",
+      "row": 5,
+      "col": 4
+    },
+    "27": {
+      "clue": "Competente",
+      "answer": "CAPAZ",
+      "row": 6,
+      "col": 0
+    },
+    "29": {
+      "clue": "Lubrificar",
+      "answer": "OLEAR",
+      "row": 6,
+      "col": 10
+    },
+    "32": {
+      "clue": "Peixe também chamado camarupim",
+      "answer": "PEMA",
+      "row": 7,
+      "col": 6
+    },
+    "34": {
+      "clue": "Divindade das religiões afro-brasileiras",
+      "answer": "EXU",
+      "row": 8,
+      "col": 3
+    },
+    "36": {
+      "clue": "Precede Lanka no nome do país que tem Colombo como capital",
+      "answer": "SRI",
+      "row": 8,
+      "col": 9
+    },
+    "38": {
+      "clue": "Um apelido para Juliano",
+      "answer": "JU",
+      "row": 9,
+      "col": 1
+    },
+    "40": {
+      "clue": "Brigitte Bardot, atriz francesa",
+      "answer": "BB",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

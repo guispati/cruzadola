@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Peça usada na cobertura de casas",
+      "answer": "TELHA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Gram.) O sinal \"",
+      "answer": "ASPAS",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Braço de mar semelhante ao fiorde",
+      "answer": "RIA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "O bloco de folhas de cheque",
+      "answer": "TALÃO",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "O que transforma mico em músico",
+      "answer": "US",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "O mês que segue fevereiro",
+      "answer": "MARÇO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "(Fís.) O símbolo de Curie",
+      "answer": "CI",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Ato de temperar com sal peixe ou carne",
+      "answer": "SALGA",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "(Sigla) Material usada para fazer garrafas plásticas",
+      "answer": "PET",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Que está em período de gestação",
+      "answer": "PRENHE",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Uma parenta afim",
+      "answer": "NORA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Oculto",
+      "answer": "ESCONDIDO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "A dor pela morte de pessoa querida",
+      "answer": "LUTO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Espécie de xícara grande, sem asas",
+      "answer": "TIGELA",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Sigla inglesa do país da Flórida e do Maine",
+      "answer": "USA",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Levar determinado padrão de vida",
+      "answer": "VIVER",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Jogo japonês de tabuleiro",
+      "answer": "GO",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Expulsar da pátria",
+      "answer": "BANIR",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "O músico Ferrero",
+      "answer": "DI",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Estância de criação de cavalos selecionados",
+      "answer": "HARAS",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "Vértebra de animal",
+      "answer": "SUÃ",
+      "row": 9,
+      "col": 8
+    },
+    "32": {
+      "clue": "Material escolar que serve para medir",
+      "answer": "REGUA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Humor",
+      "answer": "ANIMO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um ex-presidente dos EUA",
+      "answer": "TRUMP",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Aqui está!",
+      "answer": "EIS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Nota musical de símbolo A",
+      "answer": "LA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Caminho que encurta distâncias",
+      "answer": "ATALHO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Presilha para o transporte de uma mala",
+      "answer": "ALÇA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Sadio",
+      "answer": "SÃO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Partículas acumuladas por falta de limpeza",
+      "answer": "PO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Facção",
+      "answer": "SEITA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "O campeão da última Copa do Mundo de Futebol",
+      "answer": "ARGENTINA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Um que não pode andar no passo normal",
+      "answer": "MANCO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Um fio cortante usado em pipas",
+      "answer": "CEROL",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Repouso após o almoço",
+      "answer": "SESTA",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Correr risco de",
+      "answer": "PODER",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Nova utilização",
+      "answer": "REUSO",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Grande rio da África (mais de 4.000 Km)",
+      "answer": "NIGER",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Limite de território",
+      "answer": "DIVISA",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Local, região",
+      "answer": "LUGAR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Meio de transporte fabricado pela Boeing",
+      "answer": "AVIÃO",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Peça de bambu, delgada, roliça e longa",
+      "answer": "VARA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Uma grande caixa com tampa convexa",
+      "answer": "BAU",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "De um",
+      "answer": "DUM",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Hectograma",
+      "answer": "HG",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "A nota musical simbolizada pela letra B",
+      "answer": "SI",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

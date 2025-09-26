@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cidade do Piauí da região do Baixo Parnaíba, no Norte do estado",
+      "answer": "BARRAS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Bolo coberto de açúcar ou frutas",
+      "answer": "CUCA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Instrumento musical de sopro",
+      "answer": "OBOE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Amar muito",
+      "answer": "ADORAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "O pintor Salvador",
+      "answer": "DALI",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Aquele que aplica a censura",
+      "answer": "CENSOR",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "F",
+      "answer": "EFE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Culpada",
+      "answer": "FALTOSA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Descer no aeroporto",
+      "answer": "ATERRAR",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Fio grosso",
+      "answer": "TRAMA",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Tão numeroso",
+      "answer": "TANTO",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Perder o poder atarraxar (parafuso)",
+      "answer": "ESPANAR",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Reprimir",
+      "answer": "ENFREAR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Desse jeito",
+      "answer": "TAL",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Interromper com intervalos",
+      "answer": "PAUSAR",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "(Inf.) Xixi",
+      "answer": "PIPI",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Raça de gatos, de pelo muito longo e fino",
+      "answer": "ANGORA",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Pisa neles quem age com cautela",
+      "answer": "OVOS",
+      "row": 9,
+      "col": 7
+    },
+    "34": {
+      "clue": "A atriz Meg, de \"Armadilhas do Amor\"",
+      "answer": "RYAN",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Tavares) Uma importante rodovia paulista",
+      "answer": "RAPOSO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Animal ágil, de chifres",
+      "answer": "BODE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Impedir a respiração",
+      "answer": "ABAFAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um jogo de cassino",
+      "answer": "ROLETA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Pelé para o futebol",
+      "answer": "REI",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Tirar da conta corrente, por meio de cheque ou cartão",
+      "answer": "SACAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Conselho Nacional de Trânsito",
+      "answer": "CONTRAN",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "No jogo do bicho, o 23º grupo",
+      "answer": "URSO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Muita confusão",
+      "answer": "CAOS",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Pop.) Coisa sensacional",
+      "answer": "ARRASO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Denunciar alguém como culpado de um crime",
+      "answer": "DELATAR",
+      "row": 1,
+      "col": 6
+    },
+    "16": {
+      "clue": "(Mús.) Executar com expressão as partes de",
+      "answer": "FRASEAR",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "(Lake and Palmer) Banda britânica de rock, dos anos 1970",
+      "answer": "EMERSON",
+      "row": 4,
+      "col": 3
+    },
+    "19": {
+      "clue": "Subir com a ajuda de mãos e pés",
+      "answer": "TREPAR",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Nascido em determinado local",
+      "answer": "NATIVO",
+      "row": 5,
+      "col": 8
+    },
+    "22": {
+      "clue": "Pedaços de tecidos velhos, rotos ou inúteis",
+      "answer": "TRAPOS",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Impedir o movimento",
+      "answer": "PARAR",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "A People comediante mineira",
+      "answer": "NANY",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Ação para escapar a uma dificuldade",
+      "answer": "FUGA",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Sem dobras",
+      "answer": "LISO",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Um estilo musical",
+      "answer": "POP",
+      "row": 8,
+      "col": 7
+    }
+  }
+}

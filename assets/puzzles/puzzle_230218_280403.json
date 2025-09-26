@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Objetivo",
+      "answer": "ESCOPO",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "A atriz e apresentadora Regina",
+      "answer": "CASE",
+      "row": 0,
+      "col": 7
+    },
+    "11": {
+      "clue": "Erva alpestre, muito usada em medicina caseira",
+      "answer": "ARNICA",
+      "row": 1,
+      "col": 1
+    },
+    "13": {
+      "clue": "Polícia Rodoviária Federal",
+      "answer": "PRF",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Silvo",
+      "answer": "APITO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "O River, time argentino",
+      "answer": "PLATE",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Amor, em inglês",
+      "answer": "LOVE",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Desentendimento, querela",
+      "answer": "BRIGA",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Um nome muito comum de equipes de futebol",
+      "answer": "AMERICA",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Segue Mar e antecede Mai",
+      "answer": "ABR",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Retardar",
+      "answer": "DEMORAR",
+      "row": 5,
+      "col": 4
+    },
+    "26": {
+      "clue": "Rodrigo Lombardi, ator",
+      "answer": "RL",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Máxima exatidão",
+      "answer": "RIGOR",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "Sigla do estado nordestino com as cidades de Piripiri e Luis Correia",
+      "answer": "PI",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Virar (um carro, em acidente)",
+      "answer": "CAPOTAR",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "(Red.) Pós-graduação",
+      "answer": "POS",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Humor",
+      "answer": "ANIMO",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "A ave-símbolo dos EUA",
+      "answer": "AGUIA",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Recebedora, nos ônibus, do passe ou o dinheiro da passagem",
+      "answer": "COBRADORA",
+      "row": 9,
+      "col": 1
+    },
+    "37": {
+      "clue": "Furinho da pele, ponto de saída do suor",
+      "answer": "PORO",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Ritmo espanhol de música e dança",
+      "answer": "BOLERO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Um anuro comedor de insetos",
+      "answer": "SAPO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Peneirar",
+      "answer": "CRIVAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Para) Expressão popular, indica extrema urgência",
+      "answer": "ONTEM",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Devoto",
+      "answer": "PIO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Otaviano Costa, ator e apresentador de TV",
+      "answer": "OC",
+      "row": 0,
+      "col": 5
+    },
+    "8": {
+      "clue": "Ficar embaciado, desbotado",
+      "answer": "APAGAR",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Abreviatura de senhorita",
+      "answer": "SRTA",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "O nome da 6ª letra do alfabeto",
+      "answer": "EFE",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Apurado, sofisticado",
+      "answer": "APRIMORADO",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Uma sandália sem salto",
+      "answer": "ALPARCA",
+      "row": 2,
+      "col": 0
+    },
+    "16": {
+      "clue": "Uma bebida como o Limoncello",
+      "answer": "LICOR",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "(Pop.) Cafona",
+      "answer": "BREGA",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Produtor de livros",
+      "answer": "EDITOR",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Vento típico das regiões marinhas, suave, fresco, agradável",
+      "answer": "BRISA",
+      "row": 4,
+      "col": 10
+    },
+    "23": {
+      "clue": "O músico popular Billy, de \"Teresa da Praia\"",
+      "answer": "BLANCO",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Patrocinar",
+      "answer": "APOIAR",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Abertura à força, com o emprego de violência",
+      "answer": "ROMBO",
+      "row": 6,
+      "col": 3
+    },
+    "30": {
+      "clue": "Que se agrava em sentido desfavorável",
+      "answer": "PIOR",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "Um prato feito de batata",
+      "answer": "PURE",
+      "row": 7,
+      "col": 8
+    },
+    "34": {
+      "clue": "Tento, no futebol e no handebol",
+      "answer": "GOL",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "As iniciais do músico Barbosa (1910-1982), de \"Trem das Onze\"",
+      "answer": "AB",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "No jogo do bicho, o 24.º grupo",
+      "answer": "VEADO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Estado de repouso psíquico e físico",
+      "answer": "RELAX",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "A forma de despedida dos caipiras",
+      "answer": "INTE",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Bebê, em inglês",
+      "answer": "BABY",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Um animal como o condor ou o pardal",
+      "answer": "AVE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Onomatopeia de som de tambor",
+      "answer": "BUM",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Relação tranquila entre cidadãos",
+      "answer": "PAZ",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Que não se pode resolver",
+      "answer": "INSOLUVEL",
+      "row": 3,
+      "col": 1
+    },
+    "20": {
+      "clue": "Alojamento para turistas ou forasteiros",
+      "answer": "HOTEL",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Que se movimenta com rapidez",
+      "answer": "VELOZ",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Tempo da Páscoa, da Ressurreição",
+      "answer": "ALELUIA",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Nilo Peçanha (1867-1924), presidente do Brasil",
+      "answer": "NP",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Do ouvido",
+      "answer": "OTICO",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "Manganês, elemento químico",
+      "answer": "MN",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Então",
+      "answer": "DAI",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "A parte que diferencia o chapéu da boina",
+      "answer": "ABA",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Um fruto moscado",
+      "answer": "NOZ",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "A antiga Rússia",
+      "answer": "URSS",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "De madrugada",
+      "answer": "CEDO",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "(Ling.) Função sintática de objeto direto",
+      "answer": "ACUSATIVO",
+      "row": 9,
+      "col": 1
+    },
+    "39": {
+      "clue": "Farrapo",
+      "answer": "TRAPO",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Unido",
+      "answer": "COESO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Rel.) A crucis foi um doloroso caminho de Jesus",
+      "answer": "VIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Expedição",
+      "answer": "ENVIO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Concentrada, alerta",
+      "answer": "ATENTA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Uma das preposições fundamentais",
+      "answer": "DE",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "As iniciais da cantora Borba",
+      "answer": "EB",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Extensão da gola do paletó",
+      "answer": "LAPELA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Tremor de terra",
+      "answer": "ABALO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "As três últimas letras do nosso alfabeto",
+      "answer": "XYZ",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Uma forma de abreviar o nome do mês 7",
+      "answer": "JUL",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Formulário utilizado para pagamento de valores",
+      "answer": "BOLETA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "(Pop.) Confusão, bagunça",
+      "answer": "MUVUCA",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "A objeto de coleção do filatelista",
+      "answer": "SELO",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Corrente de água doce",
+      "answer": "VEIO",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Natural da Índia",
+      "answer": "HINDU",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Tonto, atordoado",
+      "answer": "ZONZO",
+      "row": 4,
+      "col": 10
+    },
+    "24": {
+      "clue": "Um país africano banhado pelo Mediterrâneo",
+      "answer": "LIBIA",
+      "row": 5,
+      "col": 5
+    },
+    "26": {
+      "clue": "Interromper",
+      "answer": "PARAR",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Boas maneiras",
+      "answer": "MODOS",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "Um meio de atrair peixes",
+      "answer": "ISCA",
+      "row": 7,
+      "col": 2
+    },
+    "32": {
+      "clue": "(em) Diz-se de clara de ovo que se bateu até virar espuma",
+      "answer": "NEVE",
+      "row": 7,
+      "col": 8
+    },
+    "34": {
+      "clue": "Sigla inglesa para Stand Up Paddle, esporte feito com prancha e remo",
+      "answer": "SUP",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Época da procriação",
+      "answer": "CIO",
+      "row": 8,
+      "col": 7
+    },
+    "37": {
+      "clue": "Ermo",
+      "answer": "SO",
+      "row": 9,
+      "col": 4
+    },
+    "38": {
+      "clue": "Tribunal de Contas",
+      "answer": "TC",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "A cachaça de peruanos e chilenos, feita à base de uvas",
+      "answer": "PISCO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Um sinal musical",
+      "answer": "CLAVE",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Que acontece a cada doze meses",
+      "answer": "ANUAL",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Gênero de caracóis como o escargot",
+      "answer": "HELIX",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Indústria que produz açúcar e álcool em grande escala",
+      "answer": "USINA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Como a voz da soprano",
+      "answer": "AGUDA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Tecido grosseiro e forte",
+      "answer": "LONA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "O jogador argentino Messi",
+      "answer": "LIONEL",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "(Capim-) Uma planta forrageira",
+      "answer": "NAPIER",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "A UF de Itabaiana e Aracaju",
+      "answer": "SE",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Plantas como o manjericão, a sálvia e o tomilho",
+      "answer": "ERVAS",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Sigla de um estado sulino",
+      "answer": "PR",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "A maior ilha fluviomarinha do planeta",
+      "answer": "MARAJO",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Atribuir a culpa a alguém",
+      "answer": "ACUSAR",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Cidade da França, capital da Mosela",
+      "answer": "METZ",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "A Sophia, atriz italiana",
+      "answer": "LOREN",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Nas residências, quarto com banheiro anexo",
+      "answer": "SUITE",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "A loja que vende e conserta óculos",
+      "answer": "OTICA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Paul and Mary) Grupo de música folk dos anos 1960",
+      "answer": "PETER",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Sugar (o recém-nascido) o leite materno",
+      "answer": "MAMAR",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Cl",
+      "answer": "CLORO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O músico McCartney",
+      "answer": "PAUL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Que não consegue dormir",
+      "answer": "INSONE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Coruja encontrada em toda a América do Sul, de plumagem branca",
+      "answer": "SUINA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Aperitivo feito de fatia de pão com ingredientes",
+      "answer": "CANAPE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Saudação entre amigos",
+      "answer": "OLA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Amolar uma faca em certa ferramenta de aço",
+      "answer": "CHAIRAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Um brinquedo de peças de encaixe",
+      "answer": "LEGO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Um frequentador da faculdade",
+      "answer": "ALUNO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "A planta da uva",
+      "answer": "VIDE",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Espalhar odores",
+      "answer": "EXALAR",
+      "row": 0,
+      "col": 10
+    },
+    "16": {
+      "clue": "Transportar",
+      "answer": "LEVAR",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Unir por laços fraternos",
+      "answer": "IRMANAR",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Saudação hebraica de paz",
+      "answer": "SHALOM",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "O dramaturgo irlandês Beckett (1906-1989), de \"Esperando Godot\"",
+      "answer": "SAMUEL",
+      "row": 5,
+      "col": 7
+    },
+    "22": {
+      "clue": "O bruxo Harry, personagem de livros e filmes, ídolo de crianças e adolescentes",
+      "answer": "POTTER",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "A cidade italiana onde se encontra o Santo Sudário",
+      "answer": "TURIM",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Maneira de atuar",
+      "answer": "JEITO",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Parte de cada um",
+      "answer": "COTA",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Tempo com falta de chuvas",
+      "answer": "SECA",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "O número ovalado de 340",
+      "answer": "ZERO",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "Serviço de Proteção ao Crédito",
+      "answer": "SPC",
+      "row": 8,
+      "col": 6
+    }
+  }
+}

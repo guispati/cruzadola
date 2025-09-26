@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Escondido",
+      "answer": "OCULTO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Uma doença infectocontagiosa",
+      "answer": "TIFO",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "O músico Borges, de \"Sonho Real\"",
+      "answer": "LO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Festa popular no interior",
+      "answer": "ARRAIAL",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Informações impressas na parte inferior da página de rosto de um livro",
+      "answer": "IMPRENTA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "United Airlines",
+      "answer": "UA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Tirar as rugosidades do ferro",
+      "answer": "LIMAR",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "(De) Me",
+      "answer": "MIM",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "O estado de Columbus, nos EUA",
+      "answer": "OHIO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Paulada",
+      "answer": "RIPADA",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Caldo de galinha com arroz",
+      "answer": "CANJA",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Fecho ecler",
+      "answer": "ZIPER",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Permanência provisória",
+      "answer": "ESTADA",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Tecido leve usado em curativos",
+      "answer": "GAZE",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "(Pop.) Senhor",
+      "answer": "NHO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Misturar com o elemento I",
+      "answer": "IODAR",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Olívia Torres, atriz paulista",
+      "answer": "OT",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Vista extensa de paisagem",
+      "answer": "PANORAMA",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Aproximar-se de alguém para dirigir-lhe a palavra",
+      "answer": "ABORDAR",
+      "row": 9,
+      "col": 1
+    },
+    "36": {
+      "clue": "Ministério da Defesa",
+      "answer": "MD",
+      "row": 9,
+      "col": 9
+    },
+    "37": {
+      "clue": "Traduzir em fatos o pensamento",
+      "answer": "AGIR",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "O músico Carlos, o \"Tremendão\"",
+      "answer": "ERASMO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Tempo durante o qual certas rochas foram formadas, entre 35 e 23 milhões de anos",
+      "answer": "OLIGOCENO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Junto a",
+      "answer": "COM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Região espanhola de um famoso vinho",
+      "answer": "LARIOJA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Comboio ferroviário",
+      "answer": "TREM",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Enfeitar",
+      "answer": "ORNAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Pop.) Tratamento que se dá a mulher de certa idade e cujo nome se ignora",
+      "answer": "TIA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "As vogais de Diva",
+      "answer": "IA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Fluência",
+      "answer": "FLUIDEZ",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Uma profissional como Camila Pitanga",
+      "answer": "ATRIZ",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Aparelho de ginástica, para saltos",
+      "answer": "PLINTO",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Do tom do losango da bandeira brasileira",
+      "answer": "AMARELADO",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Peixe fluvial, de carne apreciada",
+      "answer": "MAPARA",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "#, em inglês",
+      "answer": "HASHTAG",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Gosma peculiar das galinhas",
+      "answer": "PIGARRA",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Remarcar um compromisso para outra ocasião",
+      "answer": "ADIAR",
+      "row": 5,
+      "col": 4
+    },
+    "26": {
+      "clue": "Para que lugar?",
+      "answer": "AONDE",
+      "row": 6,
+      "col": 5
+    },
+    "30": {
+      "clue": "Conceder, ceder",
+      "answer": "DOAR",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Colocar em posição adequada",
+      "answer": "POR",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "3.000, em romanos",
+      "answer": "MMM",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "(Quím.) O bismuto",
+      "answer": "BI",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma caminhonete da Ford",
+      "answer": "MAVERICK",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Elizabeth Taylor (1932-2011), atriz inglesa de \"Cleópatra\"",
+      "answer": "ET",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Pedra usada em bijuterias",
+      "answer": "ONIX",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "8ª",
+      "answer": "OITAVA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Arbusto da família do alecrim",
+      "answer": "ROSMANO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Junto a",
+      "answer": "COM",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "O romancista russo Tchekov (1860-1904)",
+      "answer": "ANTON",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Máquina de tecelagem",
+      "answer": "TEAR",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Interjeição que expressa ânimo, excitação",
+      "answer": "EIA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Perseguir",
+      "answer": "ACOSSAR",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "O símbolo químico do samário",
+      "answer": "SM",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Lugar onde reina a felicidade",
+      "answer": "OLIMPO",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Aquele que está à escuta",
+      "answer": "OUVIDOR",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Registro Civil",
+      "answer": "RC",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "O centro espacial e aeronáutico dos EUA",
+      "answer": "NASA",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Região do mar Mediterrâneo situada entre a Grécia e a Turquia",
+      "answer": "EGEU",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Área do teatro para pequeno grupo de pessoas",
+      "answer": "FRISA",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Pouco molhada",
+      "answer": "UMIDA",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "(-símile) Reprodução de um documento",
+      "answer": "FAC",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Língua e povo da Europa sul-oriental",
+      "answer": "ROMENO",
+      "row": 9,
+      "col": 4
+    },
+    "38": {
+      "clue": "Colocar uma coisa próxima ou sobre a outra",
+      "answer": "APOR",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "A capital zimbabuana",
+      "answer": "HARARE",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Vinícius de) Poeta e compositor carioca (1913-1980)",
+      "answer": "MORAES",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Pessoa que não se identifica",
+      "answer": "ANONIMO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Paisagem, panorama",
+      "answer": "VISTA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Excelentíssimo",
+      "answer": "EXMO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Partícula molecular carregada de eletricidade",
+      "answer": "ION",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Cir.) Instrumento usado em cirurgias abdominais",
+      "answer": "CIOTOMO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "As consoantes em Kate",
+      "answer": "KT",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Famosa cidade portuguesa",
+      "answer": "EVORA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Antiga companhia aérea nacional",
+      "answer": "TAM",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "(Por) De modo inesperado, acidental",
+      "answer": "ACASO",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Examinar com atenção",
+      "answer": "ANALISAR",
+      "row": 2,
+      "col": 4
+    },
+    "18": {
+      "clue": "Apertar de maneira a extrair o suco",
+      "answer": "ESPREMER",
+      "row": 3,
+      "col": 7
+    },
+    "21": {
+      "clue": "Aparecida, para os íntimos",
+      "answer": "CIDA",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Tropa de bestas de carga engatadas",
+      "answer": "RECUA",
+      "row": 4,
+      "col": 10
+    },
+    "24": {
+      "clue": "Os óvulos fecundados de um peixe",
+      "answer": "OVAS",
+      "row": 5,
+      "col": 3
+    },
+    "26": {
+      "clue": "Que não é semelhante a nenhum outro",
+      "answer": "UNICO",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Posição do que contorna alguma coisa",
+      "answer": "REDOR",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Marca chinesa de automóveis",
+      "answer": "EFFA",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "A atriz Lollobrigida, de \"Amor à Italiana\"",
+      "answer": "GINA",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "Estilo de música jovem urbana",
+      "answer": "RAP",
+      "row": 8,
+      "col": 1
+    },
+    "34": {
+      "clue": "A hora que segue o meio-dia",
+      "answer": "UMA",
+      "row": 8,
+      "col": 6
+    },
+    "37": {
+      "clue": "Interjeição de admiração, surpresa, espanto",
+      "answer": "OH",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Completo",
+      "answer": "CABAL",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Conhecer",
+      "answer": "SABER",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "O que serve para embelezar",
+      "answer": "ADORNO",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "O que torna versos consonantes",
+      "answer": "RIMA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "A veste que simboliza a advocacia",
+      "answer": "BECA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Doença de) Mal cujo vetor pode ser o inseto barbeiro",
+      "answer": "CHAGAS",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "(Pop.) Ação de namorar com muitos beijos, abraços etc.",
+      "answer": "AGARRO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "(Cão-) Animal treinado para acompanhar deficientes visuais",
+      "answer": "GUIA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Precede Leñas, na estação argentina de esqui",
+      "answer": "LAS",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Fantástico",
+      "answer": "IRREAL",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Inconveniente, senão",
+      "answer": "POREM",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "(Ingl.) Pequeno aposento para roupas e calçados",
+      "answer": "CLOSET",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "O típico bar dos ingleses",
+      "answer": "PUB",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Ter plena convicção",
+      "answer": "CRER",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Um ciclo de orações",
+      "answer": "NOVENA",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "(Ingl.) Um tipo de hospedagem com recreação e divertimento",
+      "answer": "RESORT",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Índigo",
+      "answer": "ANIL",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "(Fem.) Pouco mais ou menos",
+      "answer": "UMAS",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Equivocada, enganada",
+      "answer": "ERRADA",
+      "row": 9,
+      "col": 5
+    },
+    "36": {
+      "clue": "Reduzir a nada",
+      "answer": "ZERAR",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Atravessar, transpassar",
+      "answer": "VARAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Uma doutrina filosófica-religiosa judaica",
+      "answer": "CABALA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Depósito de vinhos",
+      "answer": "ADEGA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Os bicos por onde queimam as chamas no fogão",
+      "answer": "BOCAS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Usar a relha",
+      "answer": "ARAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Luis Nassif, jornalista",
+      "answer": "LN",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Vento suave e primaveril",
+      "answer": "ARAGEM",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Ave aquática de cauda, pescoço e bico alongados",
+      "answer": "BIGUA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "(Ingl.) Correio eletrônico",
+      "answer": "EMAIL",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Situação financeira péssima",
+      "answer": "RASA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Convergente",
+      "answer": "OCORRENTE",
+      "row": 1,
+      "col": 5
+    },
+    "17": {
+      "clue": "O Níger e o Congo ficam na África",
+      "answer": "RIOS",
+      "row": 3,
+      "col": 4
+    },
+    "21": {
+      "clue": "Que vai sempre na mesma direção",
+      "answer": "RETO",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Permeável, como uma esponja",
+      "answer": "POROSA",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Tirar a solidez",
+      "answer": "ABALAR",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "Pode ser hidratante",
+      "answer": "CREME",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Contundir",
+      "answer": "LESAR",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Padecer",
+      "answer": "PENAR",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Ligada, presa",
+      "answer": "UNIDA",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Gesticulação pela qual alguém se persigna e se benze",
+      "answer": "CRUZ",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Artigo de pesca",
+      "answer": "VARA",
+      "row": 7,
+      "col": 7
+    },
+    "35": {
+      "clue": "Ronnie Von, cantor",
+      "answer": "RV",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

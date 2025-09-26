@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Remunerável",
+      "answer": "PAGAVEL",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Um aparelho localizador",
+      "answer": "GPS",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "O jornalista esportivo Neto",
+      "answer": "ABEL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Ato de deslizar pela onda com o apoio do corpo",
+      "answer": "JACARE",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Grande flor sem perfume",
+      "answer": "DALIA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "O que fecunda os estames das flores",
+      "answer": "POLEN",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Declaração",
+      "answer": "ATO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Um cesto para bebês",
+      "answer": "MOISES",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "A marcha menos usada pelos automóveis",
+      "answer": "RE",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Pedir esmola para viver",
+      "answer": "MENDIGAR",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Terra possuída por um conde",
+      "answer": "CONDADO",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Danificado, estragado",
+      "answer": "AVARIADO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Mús.) A terceira nota da escala",
+      "answer": "MI",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Que não se pode medir",
+      "answer": "IMENSO",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "(Drive) Um dispositivo de informática",
+      "answer": "PEN",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Uma das substâncias usadas no concreto",
+      "answer": "AREIA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Pegada, sinal",
+      "answer": "RASTO",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "(Esp.) Resultado que sai do 1x0 para 1x2",
+      "answer": "VIRADA",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Direção oblíqua",
+      "answer": "VIES",
+      "row": 9,
+      "col": 7
+    },
+    "34": {
+      "clue": "Forma feminina de um pronome pessoal",
+      "answer": "ELA",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Desprovido de luz",
+      "answer": "OBSCURO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Lugar onde se compra roscas, baguetes etc.",
+      "answer": "PADARIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Redução de preço",
+      "answer": "ABATE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Fig.) Frieza, indiferença ou insensibilidade ante os sentimentos, palavras ou atos de outra pessoa",
+      "answer": "GELO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um pouco mais adiante",
+      "answer": "ALI",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Érick Jacquin, chef",
+      "answer": "EJ",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Que dá forma a pedras preciosas",
+      "answer": "LAPIDADOR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Uma variedade de limão",
+      "answer": "GALEGO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Atada",
+      "answer": "PRESA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Abrev.) Senador",
+      "answer": "SEN",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Costurado",
+      "answer": "COSIDO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Infantil, agarotado",
+      "answer": "AMENINADO",
+      "row": 2,
+      "col": 4
+    },
+    "18": {
+      "clue": "As formações onde os surfistas atuam",
+      "answer": "ONDAS",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Outro nome do peixe maria-da-toca",
+      "answer": "MOREIA",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Que traz prejuízo irreparável,  gravíssimo",
+      "answer": "RUINOSO",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Aparelho para filmar ou fotografar",
+      "answer": "CAMERA",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Próprio do homem",
+      "answer": "VIRIL",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Enfiar",
+      "answer": "METER",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Interjeição para mandar calar",
+      "answer": "PSIU",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Corruíra, gavião ou frango",
+      "answer": "AVE",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Med.) Sigla para acidente vascular cerebral",
+      "answer": "AVC",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "A vogal 1 e a consoante 1",
+      "answer": "AB",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

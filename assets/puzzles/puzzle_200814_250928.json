@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ação de armazenar dados ocupando menor espaço",
+      "answer": "COMPACTAÇÃO",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Típica massa italiana",
+      "answer": "MACARRÃO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "As iniciais do sambista Barbosa (1910-1982)",
+      "answer": "AB",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "O artista pernambucano Britto",
+      "answer": "ROMERO",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "25/12",
+      "answer": "NATAL",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "A última e a primeira letra do nosso alfabeto",
+      "answer": "ZA",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "A nota entre ré e fá",
+      "answer": "MI",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Fita usada em eletricidade",
+      "answer": "FIO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Ficar mutilado",
+      "answer": "ALEIJAR",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "Amarelo-avermelhado",
+      "answer": "RUFO",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Unidade comercial para o café",
+      "answer": "SACA",
+      "row": 5,
+      "col": 7
+    },
+    "26": {
+      "clue": "Aproximar, achegar",
+      "answer": "ACERCAR",
+      "row": 6,
+      "col": 0
+    },
+    "29": {
+      "clue": "As iniciais do escritor Cony (1926-2018)",
+      "answer": "CHC",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "De + a",
+      "answer": "DA",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Segue o cê",
+      "answer": "DE",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "Ave de forte musculatura e voo rápido",
+      "answer": "AGUIA",
+      "row": 7,
+      "col": 6
+    },
+    "34": {
+      "clue": "O antigo Irã",
+      "answer": "PERSIA",
+      "row": 8,
+      "col": 2
+    },
+    "36": {
+      "clue": "As iniciais do cantor e compositor Nascimento",
+      "answer": "MN",
+      "row": 8,
+      "col": 9
+    },
+    "37": {
+      "clue": "(Mús.) Ponteio",
+      "answer": "PONTEADO",
+      "row": 9,
+      "col": 1
+    },
+    "39": {
+      "clue": "Revestimento para paredes",
+      "answer": "MASSAGROSSA",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Esquinado, cortado em bisel",
+      "answer": "CHANFRADO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "As iniciais da cantora Monte, de \"Barulhinho Bom\"",
+      "answer": "MM",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Em direção de",
+      "answer": "PARA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Naquele local",
+      "answer": "ACOLA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Clube Atlético Mineiro",
+      "answer": "CAM",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "13",
+      "answer": "TREZE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Aquele que dirige embarcações pequenas",
+      "answer": "ARRAIS",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Metade da... facção",
+      "answer": "ÇÃO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Um sufixo aumentativo",
+      "answer": "ÃO",
+      "row": 0,
+      "col": 9
+    },
+    "12": {
+      "clue": "Taberna, bodega",
+      "answer": "BAIUCA",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Planta ornamental também chamada espinho-de-fogo",
+      "answer": "PIRACANTA",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Bala dura e grudenta",
+      "answer": "TOFE",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "(Mús.) Outro nome do cavaquinho",
+      "answer": "MACHIM",
+      "row": 3,
+      "col": 9
+    },
+    "21": {
+      "clue": "Quando cheia, ilumina a noite",
+      "answer": "LUA",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "(Pop.) Pessoa cafona, brega",
+      "answer": "JACU",
+      "row": 4,
+      "col": 8
+    },
+    "24": {
+      "clue": "Disposições dadas por superior",
+      "answer": "ORDENS",
+      "row": 5,
+      "col": 3
+    },
+    "27": {
+      "clue": "Que sabe bem (fem.)",
+      "answer": "CERTA",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "Vir aparecendo",
+      "answer": "RAIAR",
+      "row": 6,
+      "col": 6
+    },
+    "33": {
+      "clue": "Reses em geral",
+      "answer": "GADO",
+      "row": 7,
+      "col": 7
+    },
+    "34": {
+      "clue": "(Red.) Formação acadêmica para quem já concluiu um curso de graduação",
+      "answer": "POS",
+      "row": 8,
+      "col": 2
+    },
+    "35": {
+      "clue": "Abreviatura de segurança",
+      "answer": "SEG",
+      "row": 8,
+      "col": 5
+    },
+    "37": {
+      "clue": "Ferramenta para remover entulho",
+      "answer": "PA",
+      "row": 9,
+      "col": 1
+    },
+    "38": {
+      "clue": "Ordem de Serviço",
+      "answer": "OS",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

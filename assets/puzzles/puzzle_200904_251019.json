@@ -1,0 +1,294 @@
+{
+  "across": {
+    "1": {
+      "clue": "Bando, corja",
+      "answer": "QUADRILHA",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "O ácido que provoca a gota",
+      "answer": "URICO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Nem ontem nem amanhã",
+      "answer": "HOJE",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "O próprio ser",
+      "answer": "EU",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Formam um arquipélago",
+      "answer": "ILHAS",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "(Quím.) Ferro",
+      "answer": "FE",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Índice de Preços ao Produtor",
+      "answer": "IPP",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Imensurável período de tempo",
+      "answer": "EON",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Senador",
+      "answer": "SEN",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Uma marca de carros com características off road",
+      "answer": "JEEP",
+      "row": 4,
+      "col": 0
+    },
+    "23": {
+      "clue": "Tecido grosso e forte",
+      "answer": "LONA",
+      "row": 4,
+      "col": 5
+    },
+    "25": {
+      "clue": "O Chateaubriand (1891-1968) introdutor da tevê no Brasil",
+      "answer": "ASSIS",
+      "row": 5,
+      "col": 0
+    },
+    "27": {
+      "clue": "Na direção de",
+      "answer": "SOBRE",
+      "row": 5,
+      "col": 6
+    },
+    "29": {
+      "clue": "O cantor e pianista Nat King (1919-1965)",
+      "answer": "COLE",
+      "row": 6,
+      "col": 2
+    },
+    "31": {
+      "clue": "(Fig.) Ter semelhança com, significar",
+      "answer": "SOAR",
+      "row": 6,
+      "col": 7
+    },
+    "32": {
+      "clue": "Instituto de Energia Atômica",
+      "answer": "IEA",
+      "row": 7,
+      "col": 0
+    },
+    "34": {
+      "clue": "Interjeição de admiração, de surpresa",
+      "answer": "OTA",
+      "row": 7,
+      "col": 4
+    },
+    "36": {
+      "clue": "(Fisiot.) Reeducação Postural Global",
+      "answer": "RPG",
+      "row": 7,
+      "col": 8
+    },
+    "37": {
+      "clue": "Sigla do estado de Batalha e Maceió",
+      "answer": "AL",
+      "row": 8,
+      "col": 0
+    },
+    "38": {
+      "clue": "(Geom.) Sem ângulos",
+      "answer": "AGONO",
+      "row": 8,
+      "col": 3
+    },
+    "40": {
+      "clue": "Outro nome da palmeira tucum",
+      "answer": "IU",
+      "row": 8,
+      "col": 9
+    },
+    "41": {
+      "clue": "O espírito imortal",
+      "answer": "ALMA",
+      "row": 9,
+      "col": 1
+    },
+    "43": {
+      "clue": "(Ingl.) Bife do lombo do boi, cortado da parte fina do final da alcatra, com um segmento de osso",
+      "answer": "TBONE",
+      "row": 9,
+      "col": 6
+    },
+    "45": {
+      "clue": "Frequentadores de praias, piscinas etc.",
+      "answer": "BANHISTAS",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Vende gouda, camembert e mascarpone",
+      "answer": "QUEIJARIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Livro de contos de Monteiro Lobato, em que o autor lança o Jeca Tatu",
+      "answer": "URUPES",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Lamento",
+      "answer": "AI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "601, em algarismos romanos",
+      "answer": "DCI",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Pequeno passeio",
+      "answer": "ROLE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Extensas planícies de vegetação herbácea, na América do Sul",
+      "answer": "LHANOS",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Metade da... hóstia",
+      "answer": "HOS",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "As iniciais da atriz Jolie, de \"Garota, Interrompida\"",
+      "answer": "AJ",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "F",
+      "answer": "EFE",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Holanda",
+      "answer": "HOL",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "(Marinh.) Cabos ou cordas que prendem a vela à verga",
+      "answer": "ENVERGUES",
+      "row": 2,
+      "col": 10
+    },
+    "18": {
+      "clue": "A arte de fisgar peixes",
+      "answer": "PESCA",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "Sensação no paladar",
+      "answer": "SABOR",
+      "row": 3,
+      "col": 8
+    },
+    "22": {
+      "clue": "Voz dos pássaros",
+      "answer": "PIO",
+      "row": 4,
+      "col": 3
+    },
+    "24": {
+      "clue": "Inclui eu e outros",
+      "answer": "NOS",
+      "row": 4,
+      "col": 7
+    },
+    "26": {
+      "clue": "Frase publicitária",
+      "answer": "SLOGAN",
+      "row": 5,
+      "col": 4
+    },
+    "28": {
+      "clue": "Roubo feito com violência",
+      "answer": "RAPINA",
+      "row": 5,
+      "col": 9
+    },
+    "30": {
+      "clue": "Sufixo diminutivo",
+      "answer": "ETO",
+      "row": 6,
+      "col": 5
+    },
+    "33": {
+      "clue": "Um pronome pessoal feminino",
+      "answer": "ELA",
+      "row": 7,
+      "col": 1
+    },
+    "35": {
+      "clue": "Contra",
+      "answer": "ANTI",
+      "row": 7,
+      "col": 6
+    },
+    "38": {
+      "clue": "Doméstica que tem a seu encargo as crianças",
+      "answer": "AMA",
+      "row": 8,
+      "col": 3
+    },
+    "39": {
+      "clue": "Abreviatura de observação",
+      "answer": "OBS",
+      "row": 8,
+      "col": 7
+    },
+    "42": {
+      "clue": "As iniciais do músico Bonfá (1922-2001), de \"Manhã de Carnaval\"",
+      "answer": "LB",
+      "row": 9,
+      "col": 2
+    },
+    "44": {
+      "clue": "Ondas Tropicais",
+      "answer": "OT",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

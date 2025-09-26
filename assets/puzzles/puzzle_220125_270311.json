@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma concorrente da Coca-Cola",
+      "answer": "PEPSI",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Pessoa que sofre de vista curta",
+      "answer": "MIOPE",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "O antônimo de pequenez",
+      "answer": "GRANDEZA",
+      "row": 1,
+      "col": 1
+    },
+    "13": {
+      "clue": "Capta ondas de TV, rádio, internet etc.",
+      "answer": "ANTENA",
+      "row": 2,
+      "col": 2
+    },
+    "14": {
+      "clue": "Robert Plant, vocalista do \"Led Zeppelin\"",
+      "answer": "RP",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Escola de Polícia",
+      "answer": "EP",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "A tua família",
+      "answer": "TEUS",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Líquido segregado pelo fígado",
+      "answer": "FEL",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "(Fig.) Ríspido, grosseiro",
+      "answer": "SECO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Que gosta de fazer o mal",
+      "answer": "SADICO",
+      "row": 4,
+      "col": 5
+    },
+    "23": {
+      "clue": "Peça usada para prender e enfeitar o cabelo",
+      "answer": "TIARA",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Deixar em testamento",
+      "answer": "LEGAR",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "Cidade da Inglaterra, célebre por sua universidade",
+      "answer": "OXFORD",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Doido de droga",
+      "answer": "NOIA",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Diz-se do imputado reconhecido culpado",
+      "answer": "REU",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Cume",
+      "answer": "TOPO",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "(Fís.) Símbolo de rutherford",
+      "answer": "RD",
+      "row": 7,
+      "col": 9
+    },
+    "33": {
+      "clue": "Carlos Saldanha, cineasta de \"A Era do Gelo\" e \"Rio\"",
+      "answer": "CS",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Linha terminal ou divisória",
+      "answer": "LIMITE",
+      "row": 8,
+      "col": 3
+    },
+    "36": {
+      "clue": "Vendido até o último exemplar",
+      "answer": "ESGOTADO",
+      "row": 9,
+      "col": 2
+    },
+    "38": {
+      "clue": "Letra redonda",
+      "answer": "RONDO",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "A ave que é mascote do Flamengo",
+      "answer": "URUBU",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "As letras que cercam o F",
+      "answer": "EG",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(burro) Muito",
+      "answer": "PRA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O Rodrigo, ator de \"Bicho de Sete Cabeças\"",
+      "answer": "SANTORO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Forma sertaneja de até",
+      "answer": "INTE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Publicado uma vez por mês",
+      "answer": "MENSAL",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "A cantora carioca de \"Pesadão\"",
+      "answer": "IZA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Boa sem bê",
+      "answer": "OA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Que foi objeto de estudo, pesquisa etc.",
+      "answer": "EXPLORADO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Santo) Locução que expressa medo, alegria etc.",
+      "answer": "DEUS",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Virar, voltar para o lado oposto",
+      "answer": "DESTORCER",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Pesar (falando de culpas ou responsabilidades)",
+      "answer": "RECAIR",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Um signo do zodíaco",
+      "answer": "PEIXES",
+      "row": 3,
+      "col": 1
+    },
+    "18": {
+      "clue": "Fruto com que se faz doces",
+      "answer": "FIGO",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Um craque de seleção pentacampeã de futebol",
+      "answer": "CAFU",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Deixar transparecer",
+      "answer": "DENOTAR",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "Mercadoria",
+      "answer": "ARTIGO",
+      "row": 5,
+      "col": 4
+    },
+    "27": {
+      "clue": "Igreja principal",
+      "answer": "DOMO",
+      "row": 6,
+      "col": 5
+    },
+    "31": {
+      "clue": "Tradicional marca brasileira de cachaça",
+      "answer": "PITU",
+      "row": 7,
+      "col": 6
+    },
+    "34": {
+      "clue": "(Sigla) Substância com propriedades alucinógenas",
+      "answer": "LSD",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "O músico Lobo da bossa nova",
+      "answer": "EDU",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "Escola Naval",
+      "answer": "EN",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "Olavo Bilac (1865-1918), poeta",
+      "answer": "OB",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

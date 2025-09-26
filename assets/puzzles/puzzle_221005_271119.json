@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Caixa-forte",
+      "answer": "COFRE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Linguagem particular, comum a determinada categoria de pessoas",
+      "answer": "GIRIA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Ciclo histórico",
+      "answer": "ERA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Conceder prêmio a",
+      "answer": "LAUREAR",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Nelson Dantas (1927-2006), ator carioca",
+      "answer": "ND",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O ritmo musical de Bob Marley",
+      "answer": "REGGAE",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Rota regular de aviões comerciais",
+      "answer": "AEROVIA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Dupla de cantores ou executantes",
+      "answer": "DUO",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Deslocar-se na água por impulso próprio",
+      "answer": "NADAR",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "(Ingl.) Venerado nas artes",
+      "answer": "CULT",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Soltar (o cão) sua voz intermitente",
+      "answer": "LATIR",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Trato",
+      "answer": "PACTO",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "O oposto de amor",
+      "answer": "ODIO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Transgredir preceito religioso",
+      "answer": "PECAR",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "(Psiq.) A sigla de Transtorno Obsessivo-Compulsivo",
+      "answer": "TOC",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Expor",
+      "answer": "MOSTRAR",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Mergulhado",
+      "answer": "IMERSO",
+      "row": 8,
+      "col": 2
+    },
+    "30": {
+      "clue": "Imediatamente",
+      "answer": "JA",
+      "row": 8,
+      "col": 9
+    },
+    "31": {
+      "clue": "Qualquer indivíduo",
+      "answer": "CIDADÃO",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Clube Atlético Mineiro",
+      "answer": "CAM",
+      "row": 9,
+      "col": 8
+    },
+    "34": {
+      "clue": "Sismo",
+      "answer": "ABALO",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Qualquer corpo celeste",
+      "answer": "ASTRO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Passagem de uma peça",
+      "answer": "CENA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O salário dos empregados",
+      "answer": "ORDENADO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A quarta nota musical",
+      "answer": "FA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Tornar mais alto",
+      "answer": "ELEVAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Um grande nome do tênis brasileiro",
+      "answer": "GUGA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Violenta reação dos nervos",
+      "answer": "IRA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Instruir de novo e melhor, corrigindo desvios",
+      "answer": "REEDUCAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Interjeição que exprime desprezo ou pouco-caso",
+      "answer": "IA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Saída de gases estomacais pela boca",
+      "answer": "ARROTO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Passar à ação",
+      "answer": "AGIR",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "(Quím.) Rh",
+      "answer": "RODIO",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Certo veneno para exterminar roedores",
+      "answer": "RATICIDA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Ofender de maneira grave, conscientemente",
+      "answer": "ULTRAJAR",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "Uma planta como o xiquexique",
+      "answer": "CACTO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "(Pop.) Loteria esportiva",
+      "answer": "LOTECA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "O ex-presidente do Brasil Epitácio (1865-1942)",
+      "answer": "PESSOA",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "(Ponta) Importante cidade do MS",
+      "answer": "PORÃ",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Temor, ansiedade",
+      "answer": "MEDO",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Palma benta que se distribui entre os fiéis no domingo anterior à Páscoa",
+      "answer": "RAMO",
+      "row": 7,
+      "col": 10
+    },
+    "29": {
+      "clue": "O que se opõe ao bem, à ordem, à virtude",
+      "answer": "MAL",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Instituto Butantan",
+      "answer": "IB",
+      "row": 9,
+      "col": 1
+    },
+    "33": {
+      "clue": "Christiane Torloni, atriz paulistana",
+      "answer": "CT",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

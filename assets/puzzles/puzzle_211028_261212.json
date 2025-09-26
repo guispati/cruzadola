@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Bot.) Carrapateira",
+      "answer": "MAMONA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Pasta fria que se coloca em torradas",
+      "answer": "PATE",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "O mais famoso rei dos hunos",
+      "answer": "ATILA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Cheirar mal",
+      "answer": "FEDER",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Sérgio Reis, músico",
+      "answer": "SR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Crescer, encorpar",
+      "answer": "ENFORMAR",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Lustre",
+      "answer": "POLIDURA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Faz dupla com Guarabyra, na MPB",
+      "answer": "SA",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "O sétimo planeta a partir do Sol",
+      "answer": "URANO",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Termo bancário",
+      "answer": "TED",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "Sapinho",
+      "answer": "AFTA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "(Gír.) Conversa-mole",
+      "answer": "LERO",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "Gume de instrumento cortante",
+      "answer": "FIO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Trivial, comum",
+      "answer": "BANAL",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Sufixo: agente, autor",
+      "answer": "OR",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Elevada medida de tensão elétrica",
+      "answer": "MEGAVOLT",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Grande quantidade do produto gasoso resultante dos corpos em combustão",
+      "answer": "FUMAÇADA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Unidade Orçamentária",
+      "answer": "UO",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Caminho cercado de árvores",
+      "answer": "ALEIA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "O mês entre março e maio",
+      "answer": "ABRIL",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Meio diâmetro",
+      "answer": "RAIO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "O antônimo de fino",
+      "answer": "GROSSO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Sigla de um famoso museu paulistano",
+      "answer": "MASP",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Fig.) Pavoroso",
+      "answer": "ATRO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A nota que antecede o fá",
+      "answer": "MI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Mulher que produz e vende objetos de cerâmica",
+      "answer": "OLEIRA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A atriz Costa",
+      "answer": "NANDA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "O fruto da Pyrus communis",
+      "answer": "PERA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Administração",
+      "answer": "ADM",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Ingl.) Anúncio para despertar a curiosidade dos consumidores",
+      "answer": "TEASER",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Que segue direção diferente da desejada",
+      "answer": "ERRADO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Tribunal de justiça",
+      "answer": "FORO",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "(Pop.) Qualquer música desafinada",
+      "answer": "FUNGAGA",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "A dor pela morte de pessoa querida",
+      "answer": "LUTO",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "O cantor sertanejo Michel",
+      "answer": "TELO",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "Tornar mole",
+      "answer": "AFOFAR",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Fut.) Demonstração de muita habilidade",
+      "answer": "FIRULA",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Lavatório",
+      "answer": "LAVABO",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "Grau muito alto (quantitativo ou qualitativo)",
+      "answer": "BEÇA",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "Uma forma de se deslocar na água",
+      "answer": "NADAR",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Vestimenta que se usa na praia",
+      "answer": "MAIO",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "O Buñuel (1900-1983), cineasta espanhol",
+      "answer": "LUIS",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Que diz bobagens",
+      "answer": "TOLO",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Microempreendedor Individual",
+      "answer": "MEI",
+      "row": 8,
+      "col": 2
+    },
+    "35": {
+      "clue": "Um vizinho de SC",
+      "answer": "RS",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

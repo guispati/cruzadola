@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Golpear com uma parte extrema do corpo",
+      "answer": "CABECEAR",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Glória Pires, atriz",
+      "answer": "GP",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "O oposto de ralé",
+      "answer": "ELITE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Vantagem ou ganho econômico",
+      "answer": "LUCRO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Tira de madeira comprida e estreita",
+      "answer": "RIPA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Ofender",
+      "answer": "MAGOAR",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Dante Alighieri (1265-1321), poeta italiano",
+      "answer": "DA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Posto novamente em atividade depois de um período de interrupção",
+      "answer": "REABERTO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Profissional que atua em teatro, TV, circo etc.",
+      "answer": "ARTISTA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Pronome oblíquo da primeira pessoa do plural",
+      "answer": "NOS",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "O cantor português Leal, de \"Bate o Pé\"",
+      "answer": "ROBERTO",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Período de excitabilidade sexual da fêmea",
+      "answer": "CIO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Rocha de tonalidade cinzento-escura ou azulada",
+      "answer": "ARDOSIA",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "Revezar",
+      "answer": "ALTERNAR",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Nereu Ramos, presidente do Brasil",
+      "answer": "NR",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Instrumento para afiar facas e similares",
+      "answer": "CHAIRA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Diz-se de indivíduo duro e indelicado, por caráter e modos",
+      "answer": "RUDE",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Pequena propriedade cultivada",
+      "answer": "HORTA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Um pedaço de rocambole",
+      "answer": "FATIA",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Sigla do estado de Guarapari e Linhares",
+      "answer": "ES",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Do vaso por onde circula o sangue do coração aos pulmões",
+      "answer": "ARTERIAL",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um fio sintético como o da escova de dentes",
+      "answer": "CERDA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Estabelecer ligação",
+      "answer": "ALIAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sinal eletrônico emitido a intervalos regulares ou não",
+      "answer": "BIP",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Que diz respeito à idade",
+      "answer": "ETARIO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "C",
+      "answer": "CE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "A arma dos guardas suíços do Vaticano",
+      "answer": "ALABARDA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Pó cosmético para o rosto",
+      "answer": "RUGE",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Agradecido",
+      "answer": "GRATO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Os orifícios por onde sai o suor",
+      "answer": "POROS",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Chifres",
+      "answer": "CORNOS",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Uma das duas avós",
+      "answer": "MATERNA",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Tocar de leve em",
+      "answer": "ESBARRAR",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Andar em ritmo de corrida",
+      "answer": "TROTAR",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Queimar muito",
+      "answer": "TORRAR",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "Remuneração que ator, músico etc. recebe por apresentação",
+      "answer": "CACHE",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Orifício que serve de passadeira a fitas ou cordões",
+      "answer": "ILHOS",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Um dos países emergentes, com capital Nova Délhi",
+      "answer": "INDIA",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Tem muita areia",
+      "answer": "AREAL",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "(NE) Interjeição de alegria e incitamento",
+      "answer": "EITA",
+      "row": 7,
+      "col": 3
+    },
+    "33": {
+      "clue": "Unidade hospitalar para doentes em estado grave",
+      "answer": "UTI",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "Crença em um Deus",
+      "answer": "FE",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

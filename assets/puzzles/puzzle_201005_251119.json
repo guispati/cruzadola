@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Aves oferecidas nas ceias de final de ano",
+      "answer": "PERUS",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Trinta dividido por seis",
+      "answer": "CINCO",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "(Inform.) Tecla que cancela uma ação ou limpa uma tela",
+      "answer": "ESC",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "A cidade pernambucana com a praia de Porto de Galinhas",
+      "answer": "IPOJUCA",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Santa Catarina",
+      "answer": "SC",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O Zappa (1940-1993) músico de rock",
+      "answer": "FRANK",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "(Quím.) Césio",
+      "answer": "CS",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Defeito de gaguejar",
+      "answer": "CACOETE",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "A atriz Moraes das novelas",
+      "answer": "ALINNE",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Fazem o transporte de energia",
+      "answer": "FIOS",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "(Fig.) Capacidade de execução",
+      "answer": "POTENCIAL",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Atitude estudada",
+      "answer": "POSE",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Grandes tormentos físicos",
+      "answer": "TRATOS",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "O parceiro de Sampaio na dupla sertaneja",
+      "answer": "TEODORO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Distrito Policial",
+      "answer": "DP",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Mexerico",
+      "answer": "BOATO",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "O Capone (1899-1947) gângster",
+      "answer": "AL",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Juiz",
+      "answer": "ARBITRO",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Inseticida proibido devido à sua toxicidade",
+      "answer": "DDT",
+      "row": 9,
+      "col": 8
+    },
+    "35": {
+      "clue": "Erro geralmente involuntário",
+      "answer": "LAPSO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Neblina",
+      "answer": "NEVOA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O ato de tirar um peixe da água",
+      "answer": "PESCA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Cabeleira arrancada do crânio com a pele",
+      "answer": "ESCALPO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Registro Civil",
+      "answer": "RC",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Aparelho que gera sinais acústicos intensos",
+      "answer": "SIRENE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "A forma da peça onde se enrola fios de lã",
+      "answer": "CONE",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Separam o H do L",
+      "answer": "IJK",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Sem enfeites",
+      "answer": "NU",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "300, em romanos",
+      "answer": "CCC",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A banda de rock do sucesso \"Stand by Me\"",
+      "answer": "OASIS",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Tornar exclusiva uma invenção",
+      "answer": "PATENTEAR",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Chafariz",
+      "answer": "FONTE",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "Cuidadoso",
+      "answer": "CIOSO",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Pausa, interrupção",
+      "answer": "HIATO",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Venda a crédito",
+      "answer": "FIADO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Perfumado",
+      "answer": "OLORADO",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Planta de folhas verdes e amarelas e estrias vermelhas",
+      "answer": "CROTON",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Peça fundamental para o movimento da bicicleta",
+      "answer": "PEDAL",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Língua) Falta de moderação no falar",
+      "answer": "SOLTA",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "No futebol, toquinho dado com o lado do pé",
+      "answer": "TOTO",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "(burro) Expressa grande quantidade",
+      "answer": "PRA",
+      "row": 8,
+      "col": 1
+    },
+    "30": {
+      "clue": "Pedido de repetição num show",
+      "answer": "BIS",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Baden Powell (1937-2000), violonista da MPB",
+      "answer": "BP",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Dígito Verificador",
+      "answer": "DV",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

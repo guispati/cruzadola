@@ -1,0 +1,228 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um a um",
+      "answer": "EMPATE",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "No jogo do bicho, o 25º grupo",
+      "answer": "VACA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "A Teresa de Calcutá foi uma religiosa",
+      "answer": "MADRE",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Cláusula do comércio marítimo: franco a bordo",
+      "answer": "FOB",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Substância que elimina a queimação do estômago",
+      "answer": "BICARBONATO",
+      "row": 2,
+      "col": 0
+    },
+    "16": {
+      "clue": "Abreviatura inglesa de Estados Unidos",
+      "answer": "US",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Cidade gaúcha próxima à capital",
+      "answer": "GRAVATAI",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "(O) Romance de José de Alencar",
+      "answer": "GUARANI",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Minha, em latim",
+      "answer": "MEA",
+      "row": 5,
+      "col": 1
+    },
+    "20": {
+      "clue": "De + as",
+      "answer": "DAS",
+      "row": 5,
+      "col": 7
+    },
+    "22": {
+      "clue": "Poeta",
+      "answer": "RIMADOR",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Usar o leque",
+      "answer": "ABANICAR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Lázaro Ramos, ator",
+      "answer": "LR",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Saudação cerimoniosa entre os muçulmanos",
+      "answer": "SALAMALEQUE",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "As iniciais do construtor do 14-Bis",
+      "answer": "ASD",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "(-negra) Uma aranha muito venenosa",
+      "answer": "VIUVA",
+      "row": 9,
+      "col": 6
+    },
+    "33": {
+      "clue": "A fêmea de um grande felino",
+      "answer": "LEOA",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Apoiar em fatos considerados como hipóteses",
+      "answer": "BASEAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Outro nome do bicho piolho-de-cobra",
+      "answer": "EMBUA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O sinal da adição",
+      "answer": "MAIS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Padoca sem vogais",
+      "answer": "PDC",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Uma cidade do Tocantins",
+      "answer": "ARAGUAINA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O terceiro planeta mais próximo do Sol",
+      "answer": "TERRA",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Cortar em pedaços finos e largos",
+      "answer": "AFATIAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A parte de cada um",
+      "answer": "COTA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Canto dos condutores de boiadas",
+      "answer": "ABOIO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Sepultura",
+      "answer": "COVA",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Abrigo usado por campistas",
+      "answer": "BARRACA",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Músico de pop rock, ex-integrante do grupo Titãs",
+      "answer": "NANDOREIS",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "Os músicos Vandré e Azevedo",
+      "answer": "GERALDO",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Par",
+      "answer": "CASAL",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Presente delicado",
+      "answer": "MIMO",
+      "row": 6,
+      "col": 4
+    },
+    "24": {
+      "clue": "A de Oliveira (1917-1972) cantora",
+      "answer": "DALVA",
+      "row": 6,
+      "col": 6
+    },
+    "25": {
+      "clue": "Brecar (carro)",
+      "answer": "FREAR",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "(Jumping) Um esporte radical",
+      "answer": "BASE",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Um acessório do goleiro",
+      "answer": "LUVA",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Q",
+      "answer": "QUE",
+      "row": 8,
+      "col": 8
+    }
+  }
+}

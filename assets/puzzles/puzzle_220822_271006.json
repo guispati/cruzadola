@@ -1,0 +1,222 @@
+{
+  "across": {
+    "1": {
+      "clue": "O político norte-americano Obama, ex-presidente",
+      "answer": "BARACK",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Unidade de medida da potência elétrica, correspondente a um joule por segundo",
+      "answer": "WATT",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Sovaco",
+      "answer": "AXILA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Um dispositivo anticoncepcional",
+      "answer": "DIU",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "Receber impressão",
+      "answer": "SENTIR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O ator Brad, de \"O Curioso Caso de Benjamin Button\"",
+      "answer": "PITT",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Nos animais, características corporais que diferenciam machos e fêmeas",
+      "answer": "SEXO",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Faísca elétrica típica de uma tempestade",
+      "answer": "RAIO",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Dilacerador",
+      "answer": "ROMPEDOR",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Representação teatral curta, antecedente à peça principal",
+      "answer": "ANTEATO",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "Que agrada ver",
+      "answer": "ATRAENTE",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Disposição na largada",
+      "answer": "GRID",
+      "row": 7,
+      "col": 0
+    },
+    "24": {
+      "clue": "Forte moeda do mercado econômico internacional",
+      "answer": "IENE",
+      "row": 7,
+      "col": 5
+    },
+    "27": {
+      "clue": "Equipamento que puxa água para o ralo",
+      "answer": "RODO",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Corajoso, audaz",
+      "answer": "ARDIDO",
+      "row": 8,
+      "col": 5
+    },
+    "30": {
+      "clue": "Sem exceção de",
+      "answer": "ATE",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Os filhos do filhos",
+      "answer": "NETOS",
+      "row": 9,
+      "col": 6
+    },
+    "32": {
+      "clue": "Prece, oração",
+      "answer": "REZA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Mulato arruivado",
+      "answer": "SARARA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Constituinte principal",
+      "answer": "BASE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Interj.) Boa sorte, felicidades",
+      "answer": "AXE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Filtros de sangue",
+      "answer": "RINS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Que vem um depois do outro sucessivamente",
+      "answer": "ALTERNADO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Embalagem, geralmente de madeira, que serve para acondicionar mercadorias",
+      "answer": "CAIXOTE",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Postergado",
+      "answer": "ADIADO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Designação carinhosa do irmão do pai",
+      "answer": "TITIO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Aquela que protege",
+      "answer": "TUTORA",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Região europeia que era chamada de Dácia",
+      "answer": "ROMENIA",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Desejar ou querer (algo que geralmente se acha além de nossa capacidade)",
+      "answer": "PRETENDER",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "Uma das duas avós",
+      "answer": "PATERNA",
+      "row": 4,
+      "col": 6
+    },
+    "19": {
+      "clue": "Dedicar ao serviço de Deus",
+      "answer": "SAGRAR",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Secura",
+      "answer": "ARIDEZ",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "(Pop.) Gozação a que os veteranos de faculdades submetem os calouros",
+      "answer": "TROTE",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "(NE) Interjeição de alegria",
+      "answer": "EITA",
+      "row": 7,
+      "col": 8
+    },
+    "26": {
+      "clue": "Cor vermelho-clara",
+      "answer": "ROSA",
+      "row": 7,
+      "col": 10
+    },
+    "29": {
+      "clue": "A de barriga também é chamada enteralgia",
+      "answer": "DOR",
+      "row": 8,
+      "col": 9
+    }
+  }
+}

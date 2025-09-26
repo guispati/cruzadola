@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "A de Copacabana fica no Rio de Janeiro",
+      "answer": "PRAIA",
+      "row": 0,
+      "col": 1
+    },
+    "6": {
+      "clue": "Antigo tecido de lã, fino e lustroso",
+      "answer": "LILA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Transgredir leis",
+      "answer": "VIOLAR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Os políticos da Câmara Municipal",
+      "answer": "EDIS",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Não validar um gol",
+      "answer": "ANULAR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Um níquel dos EUA",
+      "answer": "CENT",
+      "row": 2,
+      "col": 7
+    },
+    "14": {
+      "clue": "O Santo Padre",
+      "answer": "PAPA",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Rebocado",
+      "answer": "ATOADO",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "(Red.) Transgênero",
+      "answer": "TRANS",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Emitir (o leão) a sua voz característica",
+      "answer": "URRAR",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "Prato oriental, espeto de carne em cubos, cozido com cebola, tomate e pimentão",
+      "answer": "KEBAB",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "(Gír.) Pessoa sem ocupação",
+      "answer": "VAGAL",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Contaminar, poluir",
+      "answer": "SUJAR",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "Fazer retirar, afugentar",
+      "answer": "AMORAR",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Total da conta",
+      "answer": "SOMA",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Pessoa viciada em computadores e games",
+      "answer": "NERD",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Livrar de suspeitas",
+      "answer": "ILIBAR",
+      "row": 8,
+      "col": 5
+    },
+    "34": {
+      "clue": "(Ingl.) Registro ininterrupto de uma cena, com câmera",
+      "answer": "TAKE",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Cordão para rodar pião",
+      "answer": "FIEIRA",
+      "row": 9,
+      "col": 5
+    },
+    "36": {
+      "clue": "O guitarrista Clapton",
+      "answer": "ERIC",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "(Pão de) Geralmente é cortado em fatias",
+      "answer": "FORMA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Colocar pinos",
+      "answer": "PINAR",
+      "row": 0,
+      "col": 1
+    },
+    "2": {
+      "clue": "Peça de vestir",
+      "answer": "ROUPA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "O escritor francês (1804-1869) de \"O Livro dos Espíritos\"",
+      "answer": "ALLANKARDEC",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Instituto do Açúcar e do Álcool",
+      "answer": "IAA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Sufixo aumentativo feminino",
+      "answer": "ARRA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Arquiteto francês, um dos mais importantes do século XX",
+      "answer": "LECORBUSIER",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Planejar",
+      "answer": "IDEAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Bela, formosa",
+      "answer": "LINDA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O Piazzola (1921-1992), um dos maiores nomes da música argentina",
+      "answer": "ASTOR",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Interjeição imitativa de golpe rápido",
+      "answer": "VAPT",
+      "row": 1,
+      "col": 0
+    },
+    "16": {
+      "clue": "Que te cabe (fem., pl.)",
+      "answer": "TUAS",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Assento para cavaleiros",
+      "answer": "SELA",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "A metade dianteira da embarcação",
+      "answer": "VANTE",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "Repartir pela metade",
+      "answer": "AMEAR",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "O escritor russo Máximo (1868-1936), de \"Os Pequenos Burgueses\"",
+      "answer": "GORKI",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "O músico Tom (1927-1994)",
+      "answer": "JOBIM",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Azeda, não doce",
+      "answer": "AMARA",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Incomum, pouco numerosa",
+      "answer": "RARA",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "No jazz, frase curta, simples, fácil de lembrar",
+      "answer": "RIFF",
+      "row": 7,
+      "col": 5
+    },
+    "33": {
+      "clue": "Maço de coisas iguais",
+      "answer": "LIO",
+      "row": 8,
+      "col": 6
+    }
+  }
+}

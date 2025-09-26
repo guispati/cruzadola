@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "Falta de desenvolvimento de um órgão",
+      "answer": "ATROFIA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Entretanto",
+      "answer": "MAS",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "A cor do romã",
+      "answer": "GRENA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "(de união) Outro nome do hífen",
+      "answer": "TRAÇO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Em matemática, o número que é elevado a certa potência",
+      "answer": "RAIZ",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "As mulheres nascidas em Bonn e Colônia",
+      "answer": "ALEMÃS",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Érick Jacquin, chef",
+      "answer": "EJ",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Um trabalho para preparação profissional",
+      "answer": "ESTAGIO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Composto usado com azeite e vinagre para temperar saladas",
+      "answer": "SAL",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Um tipo de consoante",
+      "answer": "NASAL",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Um quase nada",
+      "answer": "TRIZ",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Autômato mecânico e eletrônico",
+      "answer": "ROBO",
+      "row": 5,
+      "col": 7
+    },
+    "26": {
+      "clue": "Glândulas mamárias",
+      "answer": "TETAS",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "Abreviatura (em português) do Senegal",
+      "answer": "SEN",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "Grande cidade sul-mato-grossense",
+      "answer": "CORUMBA",
+      "row": 7,
+      "col": 1
+    },
+    "32": {
+      "clue": "Interjeição de espanto",
+      "answer": "XI",
+      "row": 7,
+      "col": 9
+    },
+    "33": {
+      "clue": "O antônimo de cara",
+      "answer": "BARATA",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Ingl.) Teste, questionário",
+      "answer": "QUIZ",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "Bem definido",
+      "answer": "CLARO",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Um anão da Branca de Neve",
+      "answer": "DUNGA",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "No futebol, retângulo formado pelas traves",
+      "answer": "GOL",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Fazer a inspeção ou averiguação de",
+      "answer": "REVISAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Zona do Nordeste do Brasil, entre a mata e a caatinga",
+      "answer": "AGRESTE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Vestir",
+      "answer": "TRAJAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Uma peça do jogo de xadrez",
+      "answer": "REI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Dezenove menos oito",
+      "answer": "ONZE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A nota que precede o sol",
+      "answer": "FA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Coleção de mapas ou cartas geográficas",
+      "answer": "ATLAS",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Bicos do peito",
+      "answer": "MAMILOS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Assunto principal de uma obra literária",
+      "answer": "AÇÃO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Sigla usada para pedir socorro",
+      "answer": "SOS",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Aspergir",
+      "answer": "REGAR",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Um destino turístico no Chile",
+      "answer": "ATACAMA",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Sena sem vogais",
+      "answer": "SN",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Beira-mar",
+      "answer": "LITORAL",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Produzir íons em um gás ou líquido",
+      "answer": "IONIZAR",
+      "row": 4,
+      "col": 10
+    },
+    "23": {
+      "clue": "Chegar ao número 0",
+      "answer": "ZERAR",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "(Pop.) Varíola",
+      "answer": "BEXIGA",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Que supervisiona, governa",
+      "answer": "TUTOR",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "Sônia Bridi, jornalista catarinense",
+      "answer": "SB",
+      "row": 6,
+      "col": 6
+    },
+    "30": {
+      "clue": "Região mais espessa e endurecida da pele",
+      "answer": "CALO",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "Especialmente próximo (no espaço)",
+      "answer": "AQUI",
+      "row": 7,
+      "col": 7
+    },
+    "33": {
+      "clue": "Bacilo Calmette-Guérin, a vacina contra a tuberculose",
+      "answer": "BCG",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "Correlativo de outros",
+      "answer": "UNS",
+      "row": 8,
+      "col": 8
+    },
+    "37": {
+      "clue": "Dígito Verificador",
+      "answer": "DV",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

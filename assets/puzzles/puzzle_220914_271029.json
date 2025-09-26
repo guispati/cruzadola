@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "A cordilheira de La Paz e Bogotá",
+      "answer": "ANDES",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Ser unicelular que é parasita do homem",
+      "answer": "AMEBA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Espaço para degustação de comidas e bebidas",
+      "answer": "GOURMET",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "A direção oposta ao Norte",
+      "answer": "SUL",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Receptáculo usado para recolher votos",
+      "answer": "URNA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O número de cordas de um violino",
+      "answer": "QUATRO",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Uma grande ave",
+      "answer": "EMA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Roubar",
+      "answer": "FURTAR",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Instituto de Antropologia",
+      "answer": "IA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Aquele que toma conta (de alguém)",
+      "answer": "CUIDADOR",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Reprimida, refreada",
+      "answer": "CONTIDA",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Marcado num caderno de compromissos",
+      "answer": "AGENDADO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Hanna-Barbera",
+      "answer": "HB",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Um antônimo de tolerante",
+      "answer": "RIGIDO",
+      "row": 7,
+      "col": 1
+    },
+    "26": {
+      "clue": "Homem que tem filhos",
+      "answer": "PAI",
+      "row": 7,
+      "col": 8
+    },
+    "27": {
+      "clue": "Portador da doença causada pelo bacilo de Eberth",
+      "answer": "TIFOSO",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Arte divinatória feita através de cartas ilustradas",
+      "answer": "TARO",
+      "row": 8,
+      "col": 7
+    },
+    "29": {
+      "clue": "Insumo para vacinas",
+      "answer": "IFA",
+      "row": 9,
+      "col": 0
+    },
+    "30": {
+      "clue": "Que dura três anos",
+      "answer": "TRIENAL",
+      "row": 9,
+      "col": 4
+    },
+    "32": {
+      "clue": "De temperatura branda, nem quente nem fria",
+      "answer": "MORNA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Fixa",
+      "answer": "PRESA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Cano que dá vazão à chuva do telhado",
+      "answer": "AGUEIRA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Lei",
+      "answer": "NORMA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Monte de areia móvel formado pela ação do vento",
+      "answer": "DUNA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A atual é a neozóica",
+      "answer": "ERA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Selton Mello, ator",
+      "answer": "SM",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Maravilhado",
+      "answer": "ATURDIDO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Permanência provisória",
+      "answer": "ESTADA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Pop.) Indivíduo de pouca inteligência",
+      "answer": "BURRO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Palavra dita ao atender uma ligação telefônica",
+      "answer": "ALO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Bom cavaleiro",
+      "answer": "EQUITADOR",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Trouxa",
+      "answer": "ATADO",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Atleta de corridas de longa distância",
+      "answer": "FUNDISTA",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Brazzaville é a capital desta nação",
+      "answer": "CONGO",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Rabo de papagaio",
+      "answer": "RABIOLA",
+      "row": 4,
+      "col": 10
+    },
+    "21": {
+      "clue": "Cortar os cereais",
+      "answer": "CEIFAR",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Uma ferramenta do encanador",
+      "answer": "GRIFO",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Coudelaria",
+      "answer": "HARAS",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Parada forçada de um veículo por avaria do motor",
+      "answer": "PANE",
+      "row": 7,
+      "col": 8
+    },
+    "27": {
+      "clue": "O cantor carioca Maia (1942-1998)",
+      "answer": "TIM",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Possuir",
+      "answer": "TER",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "Ivo Pitanguy (1926-2016), cirurgião plástico",
+      "answer": "IP",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Aquele que tempera com cloreto de sódio",
+      "answer": "SALGADOR",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Um carro da VW",
+      "answer": "UP",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Lugar onde a areia é abundante",
+      "answer": "AREAL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Cor básica para impressão de cromias",
+      "answer": "CIANO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Tecido grosso e resistente usado em calças, aventais etc",
+      "answer": "BRIM",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Bolinha de fios usada como enfeite",
+      "answer": "POMPOM",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Um sufixo aumentativo",
+      "answer": "ÃO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Disparar uma arma de fogo",
+      "answer": "ATIRAR",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "(Ingl.) Grande painel de propaganda",
+      "answer": "OUTDOOR",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Interj.: espanto",
+      "answer": "UPA",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Diagrama de processos biológicos",
+      "answer": "BIORRITMO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "(de) De memória",
+      "answer": "COR",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Um antigo aparelho de som",
+      "answer": "RADIOLA",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "Aquele que prende, atrela",
+      "answer": "ATADOR",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "(Ingl.) Na moda",
+      "answer": "IN",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "(Pop.) O traseiro",
+      "answer": "NADEGA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Grande região industrial próxima à capital paulista",
+      "answer": "ABCD",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Poste do gol",
+      "answer": "TRAVE",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Tema",
+      "answer": "IDEIA",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Gato sem consoantes",
+      "answer": "AO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Tapear",
+      "answer": "EMBROMAR",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Substância detergente",
+      "answer": "SABÃO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Impulso irresistível",
+      "answer": "ARROUBO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Regra constante entre fenômenos",
+      "answer": "LEI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Gír.) Apaixonado",
+      "answer": "GAMADO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Sigla do estado de Arapiraca",
+      "answer": "AL",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Acontecido por acaso",
+      "answer": "OCORRIDO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Repetição que dá harmonia aos versos",
+      "answer": "RIMA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Um jogo de cartas com números e cores",
+      "answer": "UNO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Ave conhecida também como picaú",
+      "answer": "POMBA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Posição vertical",
+      "answer": "APRUMO",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "(Pop.) Agravamento de estado de saúde",
+      "answer": "PIORADA",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Ação de assar, tostar",
+      "answer": "TORRAGEM",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Dito espirituoso",
+      "answer": "TIRADA",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "O P da PRF",
+      "answer": "POLICIA",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Posto fora",
+      "answer": "TIRADO",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "Cálculo",
+      "answer": "CONTA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Ritmo, velocidade",
+      "answer": "ANDAR",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "Aparelho eletrônico para entretenimento",
+      "answer": "TEVE",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "Círculo metálico que envolve uma roda de bicicleta",
+      "answer": "ARO",
+      "row": 8,
+      "col": 1
+    },
+    "33": {
+      "clue": "Ente querido ou amado",
+      "answer": "BEM",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "Estar (bem ou mal) de saúde",
+      "answer": "IR",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

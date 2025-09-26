@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um tipo de álcool",
+      "answer": "ETILICO",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Uma forma de se abreviar o nome do mês 6",
+      "answer": "JUN",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Documento Único de Transferência",
+      "answer": "DUT",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Escrito em caracteres secretos",
+      "answer": "CIFRADO",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "(Gír.) Dinheiro",
+      "answer": "GRANA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Contente",
+      "answer": "FELIZ",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Figura constante no cristianismo, islamismo e judaísmo, mensageiro de Deus",
+      "answer": "ANJO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Um apelido do Benedito",
+      "answer": "BENE",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "(Ingl.) No boxe, um dos tempos de uma competição",
+      "answer": "ROUND",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Os diferentes aspectos da Lua",
+      "answer": "FASES",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Uma cerveja escura, forte",
+      "answer": "STOUT",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Estação de esqui dos EUA, no Colorado",
+      "answer": "ASPEN",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Eliminar, fazer perder",
+      "answer": "TIRAR",
+      "row": 6,
+      "col": 6
+    },
+    "29": {
+      "clue": "(River) Um clássico da música norte-americana",
+      "answer": "MOON",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "O de Deus é um pico da serra dos Órgãos, no RJ",
+      "answer": "DEDO",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "(Anat.) Membrana que segrega um líquido que lubrifica as articulações",
+      "answer": "BURSA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Grande vasilha de madeira para líquidos",
+      "answer": "TONEL",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Um terreno como uma duna",
+      "answer": "AREEIRO",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "A capital da Jordânia",
+      "answer": "AMÃ",
+      "row": 9,
+      "col": 8
+    },
+    "37": {
+      "clue": "(-sal) Falto de graça, de vivacidade",
+      "answer": "SEM",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Mercado popular de hortifrúti",
+      "answer": "SACOLÃO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O escritor estadunidense Rice Burroughs (1875-1950), criador de Tarzan (1914)",
+      "answer": "EDGAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Grupo de pessoas que trabalha alternando a sua ação com outro ou outros grupos",
+      "answer": "TURNO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Cidade paulista próxima a Bauru",
+      "answer": "ITAJU",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Palmeira muito cultivada em vasos",
+      "answer": "ICA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Fís.) O símbolo de Curie",
+      "answer": "CI",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Ingl.) Desligado",
+      "answer": "OFF",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Cidade paulista próxima a São José do Rio Preto",
+      "answer": "JALES",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Cidade do norte da Itália",
+      "answer": "UDINE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Os frutos da nogueira",
+      "answer": "NOZES",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Afastado com violência",
+      "answer": "REBATIDO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "(Ingl.) Filme que recorre a elementos surreais, a situações absurdas etc.",
+      "answer": "NONSENSE",
+      "row": 2,
+      "col": 3
+    },
+    "19": {
+      "clue": "Departamento do Tesouro Nacional",
+      "answer": "DTN",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Abreviatura de futebol",
+      "answer": "FUT",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Uma e outra",
+      "answer": "AMBAS",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Cidade paraense, considerada a \"Capital de Marajó\"",
+      "answer": "SOURE",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Inconveniente, senão",
+      "answer": "POREM",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Que se refere ao rim",
+      "answer": "RENAL",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Gesto afetado",
+      "answer": "ADEMÃ",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Outro nome do rocambole",
+      "answer": "ROLÃO",
+      "row": 6,
+      "col": 10
+    },
+    "32": {
+      "clue": "Gemidos",
+      "answer": "AIS",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "(Psiq.) A sigla de Transtorno Obsessivo-Compulsivo, doença mental",
+      "answer": "TOC",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "As iniciais do \"trapalhão\" Aragão",
+      "answer": "RA",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

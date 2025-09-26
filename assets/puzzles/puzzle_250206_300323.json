@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Que intervém com a própria presença ativa em ato de interesse coletivo",
+      "answer": "PARTICIPE",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Limitada",
+      "answer": "LTDA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O estado dos EUA com capital Juneau",
+      "answer": "ALASCA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "União Europeia",
+      "answer": "UE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Plantação de certa palmeira de gomo comestível",
+      "answer": "PALMITAL",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "A região portuguesa com Braga e Barcelos",
+      "answer": "MINHO",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Atrai metais",
+      "answer": "IMÃ",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Concentrada",
+      "answer": "ATENTA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Época",
+      "answer": "ERA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Combustível para fornos e lareiras",
+      "answer": "LENHA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "A cantora mineira Nunes (1942-1983)",
+      "answer": "CLARA",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "A irmã da mãe",
+      "answer": "TIA",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Pessoa com a qual se tem uma dívida",
+      "answer": "CREDOR",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Período entre Dez e Fev",
+      "answer": "JAN",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Refúgio, abrigo",
+      "answer": "COUTO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Introduzir no sangue",
+      "answer": "INOCULAR",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "O neônio, em química",
+      "answer": "NE",
+      "row": 8,
+      "col": 9
+    },
+    "31": {
+      "clue": "(Pop.) Loteria esportiva",
+      "answer": "LOTECA",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "A formação do mar onde Gabriel Medina trabalha",
+      "answer": "ONDA",
+      "row": 9,
+      "col": 7
+    },
+    "34": {
+      "clue": "Dar ares, fingir",
+      "answer": "APARENTAR",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O oposto de singular",
+      "answer": "PLURAL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ainda",
+      "answer": "ATE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Roberto Drummond, autor de \"Hilda Furacão\"",
+      "answer": "RD",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Palmadinha, leve pancada com a mão",
+      "answer": "TAPINHA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Cano por onde correm as águas da chuva",
+      "answer": "CALHA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Ilustríssimo",
+      "answer": "ILMO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O dos burros é o mesmo que dicionário",
+      "answer": "PAI",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Deitado",
+      "answer": "ESTIRADO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Homem bonitão, elegante",
+      "answer": "GALÃ",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Carro esportivo fabricado pela GM",
+      "answer": "CAMARO",
+      "row": 1,
+      "col": 9
+    },
+    "15": {
+      "clue": "Animal com focinho em tromba",
+      "answer": "ANTA",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Moça muito jovem",
+      "answer": "MENINOTA",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Doença caracterizada por espasmos e rigidez muscular",
+      "answer": "TETANO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Um componente do átomo",
+      "answer": "ELETRON",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Não cozida",
+      "answer": "CRUA",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Aparelhar um cavalo",
+      "answer": "ARREAR",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "(Pop.) Dar certo, funcionar",
+      "answer": "COLAR",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "(Qui nem) Um sucesso de Luiz Gonzaga",
+      "answer": "JILO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Mestre-) Pessoa que cozinha pratos de qualidade, de grande habilidade",
+      "answer": "CUCA",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Os números que indicam um endereço postal",
+      "answer": "CEP",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Opção de resposta em provas",
+      "answer": "NDA",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Nathália Timberg, atriz",
+      "answer": "NT",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

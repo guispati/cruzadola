@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Lat.) Conjuntos universitários",
+      "answer": "CAMPI",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Bebida alcoólica a base de ervas e plantas",
+      "answer": "CYNAR",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Peça que proporciona voo",
+      "answer": "ASA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Marca italiana de pneus",
+      "answer": "PIRELLI",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Antigo nome do Mianmar, país asiático",
+      "answer": "BIRMANIA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Abreviatura de videoteipe",
+      "answer": "VT",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Descarga elétrica atmosférica",
+      "answer": "RAIO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Substância corante extraída do pau-brasil",
+      "answer": "CARMIM",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "O Marcelo especialista nos jogos de dupla, no tênis",
+      "answer": "MELO",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "(Pop.) IR",
+      "answer": "LEÃO",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Mármore usado em obras artísticas antigas",
+      "answer": "PALOMBINO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Famosa empresa cinematográfica",
+      "answer": "PARAMOUNT",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Gaivota",
+      "answer": "ATI",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Bete Davis (1908-1989), atriz de \"Morte Sobre o Nilo\"",
+      "answer": "BD",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Ato inoportuno",
+      "answer": "GAFE",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Língua de indígenas sul-americanos",
+      "answer": "JE",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Que te cabe (fem., pl.)",
+      "answer": "TUAS",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Abreviatura (em português) da Lituânia",
+      "answer": "LIT",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Um jogo de tabuleiro, de estratégia",
+      "answer": "XADREZ",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Interjeição de surpresa, espanto",
+      "answer": "XI",
+      "row": 9,
+      "col": 9
+    },
+    "37": {
+      "clue": "Pasta usada na culinária japonesa",
+      "answer": "MISSO",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "O cereal jogado nos recém-casados",
+      "answer": "ARROZ",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "No jogo do bicho, as dezenas 21, 22, 23 e 24",
+      "answer": "CABRA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O continente de Laos e Mongólia",
+      "answer": "ASIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Árvore amazônica, de flores róseas e vistosas",
+      "answer": "MARIMARI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Cerveja um pouco amarga e alcoólica",
+      "answer": "IPA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Filhote",
+      "answer": "CRIA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "(Ingl.) Cavalo puro-sangue com cerca de um ano de idade",
+      "answer": "YEARLING",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Negra Li, cantora",
+      "answer": "NL",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Outro nome do enxadão",
+      "answer": "ALVIÃO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Mús.) Balanço",
+      "answer": "RITMO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Amofinar, aborrecer",
+      "answer": "INCOMODAR",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Um dos miúdos das aves",
+      "answer": "MOELA",
+      "row": 2,
+      "col": 3
+    },
+    "18": {
+      "clue": "Que se faz de cor",
+      "answer": "MENTAL",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Que tem grande dorso ou costas",
+      "answer": "LOMBUDO",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Pasta fria, comida como aperitivo",
+      "answer": "PATE",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Elemento de composição: boi",
+      "answer": "BU",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Aprendiz de marinheiro, encarregado da limpeza de uma embarcação",
+      "answer": "PAJEM",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Menino, garoto",
+      "answer": "PETIZ",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Que não varia",
+      "answer": "FIXO",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "O apresentador de TV Marcelo",
+      "answer": "TAS",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Mar, na Austrália",
+      "answer": "SEA",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Xis sem i",
+      "answer": "XS",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "O símbolo químico do zircônio",
+      "answer": "ZR",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

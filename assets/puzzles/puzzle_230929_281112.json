@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Repercutir, soando ou ressoando",
+      "answer": "PULSAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Repreensão, descompostura",
+      "answer": "PITO",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Superior de ordem religiosa",
+      "answer": "PRIOR",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Grande rio italiano",
+      "answer": "ARNO",
+      "row": 1,
+      "col": 6
+    },
+    "11": {
+      "clue": "Jogo com times de quinze jogadores e bola oval",
+      "answer": "RUGBI",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "Reunião que envolve debate de um tema",
+      "answer": "FORUM",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Relativo ao bacilo de uma doença semelhante à febre tifoide",
+      "answer": "PARATIFICO",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Outro nome do peixe camarupim",
+      "answer": "PEMA",
+      "row": 4,
+      "col": 0
+    },
+    "17": {
+      "clue": "Sem sabor",
+      "answer": "ITE",
+      "row": 4,
+      "col": 5
+    },
+    "18": {
+      "clue": "(Quím.) O símbolo do elemento da medalha do vice-campeão",
+      "answer": "AG",
+      "row": 4,
+      "col": 9
+    },
+    "19": {
+      "clue": "Roda dentada que engrena em outra",
+      "answer": "ENTROSA",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Tiro de Guerra",
+      "answer": "TG",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Azul esverdeado",
+      "answer": "CIÃ",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "O líquido da laranja",
+      "answer": "SUCO",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Vergonhoso",
+      "answer": "INDECOROSO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "A nação de Yaren, na Oceania",
+      "answer": "NAURU",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "O político Bernardes (1875-1955), presidente da República de 1922 a 1926",
+      "answer": "ARTUR",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Estação ecológica conhecida por \"Pantanal Gaúcho\"",
+      "answer": "TAIM",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "Terra lavrada",
+      "answer": "LEIVA",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "A cantora argentina Mercedes (1935-2009)",
+      "answer": "SOSA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "O Walt criador dos personagens Mickey, Pateta etc.",
+      "answer": "DISNEY",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Pedro Paulo Rangel, ator carioca",
+      "answer": "PPR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Cogumelo também chamado orelha-de-pau",
+      "answer": "URUPE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Conexão",
+      "answer": "LIGAME",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Arrogância",
+      "answer": "SOBRANCERIA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Canto para voz solo, numa ópera",
+      "answer": "ARIA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Compõem o corpo docente",
+      "answer": "PROFESSORES",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Rel.) A inscrição da Cruz",
+      "answer": "INRI",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Uma peça para cobrir a cabeça",
+      "answer": "TOUCA",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Indisposição intestinal",
+      "answer": "AFITO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Madeira nobre para móveis",
+      "answer": "MOGNO",
+      "row": 2,
+      "col": 10
+    },
+    "15": {
+      "clue": "Grande caminhada",
+      "answer": "TIRÃO",
+      "row": 3,
+      "col": 5
+    },
+    "16": {
+      "clue": "O ditador Vladimir, da Rússia",
+      "answer": "PUTIN",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Palmeira, também chamada cumari, cultivada por seu palmito",
+      "answer": "TICUM",
+      "row": 5,
+      "col": 4
+    },
+    "21": {
+      "clue": "A capital do Texas, nos EUA",
+      "answer": "AUSTIN",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Elemento de composição: queixo",
+      "answer": "GNATO",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Hortaliça que acompanha a feijoada",
+      "answer": "COUVE",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "(-peças) Um tipo de roupa de banho feminina",
+      "answer": "DUAS",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Corrida de regularidade, de carros, motos etc.",
+      "answer": "RALI",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "O músico Charles, de \"Georgia on my Mind\"",
+      "answer": "RAY",
+      "row": 8,
+      "col": 10
+    }
+  }
+}

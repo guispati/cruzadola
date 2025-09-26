@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ulceração da mucosa bucal",
+      "answer": "AFTA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Instrumento cortante constituído de lâmina e cabo",
+      "answer": "FACA",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Idiota",
+      "answer": "LORPA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Solicitar humildemente",
+      "answer": "PEDIR",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Competição que inclui três atividades esportivas diferentes",
+      "answer": "TRIATLO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O sujeito de vê ou olha",
+      "answer": "ELE",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "As duas últimas vogais",
+      "answer": "OU",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Inclinação doentia para a religiosidade",
+      "answer": "TEOMANIA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "O hábitat da baleia",
+      "answer": "MAR",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Tão numeroso",
+      "answer": "TANTO",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Tornar disponível",
+      "answer": "LIBERAR",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Cheirar mal",
+      "answer": "FEDER",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Uma arte de vanguarda",
+      "answer": "POP",
+      "row": 6,
+      "col": 7
+    },
+    "26": {
+      "clue": "Cruel, prepotente e violento",
+      "answer": "TIRANICO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Eloísa Mafalda (1924-2018), atriz paulista",
+      "answer": "EM",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Abreviatura de um exame do coração",
+      "answer": "ECG",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Palanque",
+      "answer": "TABLADO",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Leigo",
+      "answer": "LAICO",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "A disputa decisiva",
+      "answer": "FINAL",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Vocal",
+      "answer": "ORAL",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "A parte do sapato que toca o piso",
+      "answer": "SOLA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O antônimo de baixo",
+      "answer": "ALTO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Lugar onde funcionam os órgãos do poder judiciário",
+      "answer": "FORUM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Clube campeão em competição esportiva pela terceira vez",
+      "answer": "TRI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Que se encontra oficialmente sem nacionalidade",
+      "answer": "APATRIDA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O símbolo químico do ferro",
+      "answer": "FE",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "Em direção ao interior de",
+      "answer": "ADENTRO",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Pestana",
+      "answer": "CILIO",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Pode ser calculada em m², ha, cm² etc.",
+      "answer": "AREA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Inclusive",
+      "answer": "ATE",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Arvoredo frutífero",
+      "answer": "POMAR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Um jogo legal",
+      "answer": "LOTERIA",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Cidade goiana, uma das maiores do estado",
+      "answer": "ANAPOLIS",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Reação anormal de um organismo para uma substância",
+      "answer": "ALERGIA",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "O Chico personagem caipira de Maurício de Sousa",
+      "answer": "BENTO",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Não ir além de",
+      "answer": "FICAR",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "A peça da bicicleta que tem a função de lhe imprimir movimento",
+      "answer": "PEDAL",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "O cantor Michel, de \"Ai, Se Eu Te Pego\"",
+      "answer": "TELO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Confederação Brasileira de Futebol",
+      "answer": "CBF",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "A peça que amortece os solavancos dos carros",
+      "answer": "MOLA",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "O de 1896 ficou marcado pela guerra de Canudos, na Bahia",
+      "answer": "ANO",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "O símbolo químico do cloro",
+      "answer": "CL",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "2": {
+      "clue": "Que causa a morte de abelhas",
+      "answer": "APICIDA",
+      "row": 0,
+      "col": 4
+    },
+    "8": {
+      "clue": "Interjeição que expressa pesar ou grande dor",
+      "answer": "AI",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Universidade Estadual de Campinas",
+      "answer": "UNICAMP",
+      "row": 1,
+      "col": 3
+    },
+    "11": {
+      "clue": "Maravilhoso, excelente, extraordinário",
+      "answer": "GRANDE",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Blaise Pascal (1623-1662), matemático francês",
+      "answer": "BP",
+      "row": 2,
+      "col": 7
+    },
+    "14": {
+      "clue": "Navegante",
+      "answer": "NAUTA",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Um vaso sanguíneo",
+      "answer": "VEIA",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "Capaz",
+      "answer": "APTO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Diz-se de noite clara, límpida e sem nuvens",
+      "answer": "SERENA",
+      "row": 4,
+      "col": 5
+    },
+    "20": {
+      "clue": "Fim de... perpétuo",
+      "answer": "TUO",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "A cidade do Iguaçu, no PR",
+      "answer": "FOZ",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "Dicionário",
+      "answer": "DIC",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Piloto de pequena embarcação",
+      "answer": "ARRAIS",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Vontade de comer",
+      "answer": "FOME",
+      "row": 6,
+      "col": 7
+    },
+    "26": {
+      "clue": "Voz prolongada dos cães",
+      "answer": "UIVO",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Pôr os pés sobre",
+      "answer": "PISAR",
+      "row": 7,
+      "col": 6
+    },
+    "28": {
+      "clue": "Zona do Interior",
+      "answer": "ZI",
+      "row": 8,
+      "col": 2
+    },
+    "29": {
+      "clue": "Cesto de cipó, palha ou taquara",
+      "answer": "BALAIO",
+      "row": 8,
+      "col": 5
+    },
+    "30": {
+      "clue": "Animal de estimação",
+      "answer": "MASCOTE",
+      "row": 9,
+      "col": 1
+    },
+    "32": {
+      "clue": "Spike Lee, cineasta de \"Faça a Coisa Certa\"",
+      "answer": "SL",
+      "row": 9,
+      "col": 9
+    },
+    "33": {
+      "clue": "Um osso da perna",
+      "answer": "PERONIO",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Indivíduo muito rico",
+      "answer": "MAGNATA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Interjeição para que alguém se apresse",
+      "answer": "ANDA",
+      "row": 0,
+      "col": 4
+    },
+    "3": {
+      "clue": "Torta, em inglês",
+      "answer": "PIE",
+      "row": 0,
+      "col": 5
+    },
+    "4": {
+      "clue": "Ivon Curi (1928-1995), ator e cantor de \"Assim Era a Atlântida\"",
+      "answer": "IC",
+      "row": 0,
+      "col": 6
+    },
+    "5": {
+      "clue": "Comportar",
+      "answer": "CABER",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "Desumana, insensível",
+      "answer": "IMPIEDOSA",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Departamento de Pessoal",
+      "answer": "DP",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Um pássaro canoro da Amazônia",
+      "answer": "IRAPURU",
+      "row": 1,
+      "col": 1
+    },
+    "10": {
+      "clue": "Banha ou gordura de porco",
+      "answer": "UNTO",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Permitir",
+      "answer": "AUTORIZAR",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Certa ocasião",
+      "answer": "VEZ",
+      "row": 3,
+      "col": 6
+    },
+    "16": {
+      "clue": "Minhocas, botos e girafas",
+      "answer": "ANIMAIS",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Sigla universal usada para pedir socorro; significa \"salvem nossas almas\"",
+      "answer": "SOS",
+      "row": 4,
+      "col": 5
+    },
+    "19": {
+      "clue": "Pequeno fruto semelhante à cereja",
+      "answer": "ACEROLA",
+      "row": 4,
+      "col": 10
+    },
+    "21": {
+      "clue": "Gume de instrumento cortante",
+      "answer": "FIO",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Conselho, advertência",
+      "answer": "AVISO",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Corte especial da carne bovina",
+      "answer": "FILE",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "O Donald é um personagem de Walt Disney",
+      "answer": "PATO",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "(Pop.) Pessoa gorda, corpulenta",
+      "answer": "BOI",
+      "row": 8,
+      "col": 5
+    },
+    "30": {
+      "clue": "O balido da ovelha",
+      "answer": "ME",
+      "row": 9,
+      "col": 1
+    },
+    "31": {
+      "clue": "Clara Nunes, cantora",
+      "answer": "CN",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "across": {
+    "1": {
+      "clue": "Firmar novamente parafusos e porcas",
+      "answer": "REAPERTAR",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Experiência, prova",
+      "answer": "TENTATIVA",
+      "row": 1,
+      "col": 2
+    },
+    "12": {
+      "clue": "O planeta entre a Terra e Júpiter",
+      "answer": "MARTE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Lugar",
+      "answer": "LOCAL",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Pôr mãos à obra",
+      "answer": "AGIR",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Boneca de trapos",
+      "answer": "MONA",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Filhos de filhos",
+      "answer": "NETOS",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Divindade primitiva adorada pelos selvagens",
+      "answer": "TOTEM",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "Um perito em vinhos",
+      "answer": "ENOLOGO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Órgão apto ao voo",
+      "answer": "ASA",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Sebastião Tapajós, violonista",
+      "answer": "ST",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Formam um arquipélago",
+      "answer": "ILHAS",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "(Quím.) Estanho",
+      "answer": "SN",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "O corte das messes",
+      "answer": "CEIFA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "As peças do vestuário que cobrem as mãos",
+      "answer": "LUVAS",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Morador de rua",
+      "answer": "SEMTETO",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "Fogueira onde se queimavam cadáveres",
+      "answer": "PIRA",
+      "row": 9,
+      "col": 1
+    },
+    "33": {
+      "clue": "Pequena quantidade",
+      "answer": "TICO",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Unidade monetária do Uruguai",
+      "answer": "PESO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "(Pop.) Secreção nasal ressequida",
+      "answer": "MELECA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Sonhador, fantasioso",
+      "answer": "ROMANESCO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Fig.) Divergência",
+      "answer": "ATRITO",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Relativo ao \"ouro negro\"",
+      "answer": "PETROLIFERO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "A letra que precede o ó",
+      "answer": "ENE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Responsável Técnico",
+      "answer": "RT",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Pessoa que se julga o maioral",
+      "answer": "TAL",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Microscópica parte da matéria",
+      "answer": "ATOMO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Um queijo fresco, macio, muito usado em recheios",
+      "answer": "RICOTA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O grupo brasileiro de forró de \"Rindo à Toa\"",
+      "answer": "FALAMANSA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "A cantora mato-grossense da Mata",
+      "answer": "VANESSA",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Que exerce alguma ação",
+      "answer": "AGENTE",
+      "row": 2,
+      "col": 1
+    },
+    "18": {
+      "clue": "O período mais quente do verão",
+      "answer": "SOLAMA",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Banheiro",
+      "answer": "TOALETE",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "George Harrison (1943-2001), ex-beatle",
+      "answer": "GH",
+      "row": 5,
+      "col": 5
+    },
+    "25": {
+      "clue": "Feito com delicadeza",
+      "answer": "SUTIL",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "A atriz mineira Valverde",
+      "answer": "ISIS",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Tratamento entre pessoas de igual condição",
+      "answer": "VOCE",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "A UF de Gravatá e Caruaru",
+      "answer": "PE",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "Otaviano Costa, ator e apresentador de TV",
+      "answer": "OC",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

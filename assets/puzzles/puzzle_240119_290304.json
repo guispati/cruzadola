@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "A cantora de \"Desce pro Play\"",
+      "answer": "ANITTA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Periquito",
+      "answer": "TUIM",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "A abreviatura da região com MT e o DF",
+      "answer": "CO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Governar",
+      "answer": "REGER",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Em + a",
+      "answer": "NA",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Uma profissional como Julia Roberts",
+      "answer": "ATRIZ",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "A terceira maior cidade inglesa",
+      "answer": "LEEDS",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Mês 5",
+      "answer": "MAIO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Um refrigerante muito consumido",
+      "answer": "PEPSI",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Polícia Rodoviária Federal",
+      "answer": "PRF",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Nascidos em Salvador, Jequié e Itabuna",
+      "answer": "BAIANOS",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "No interior",
+      "answer": "ADENTRO",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Disposto em raios",
+      "answer": "RADIADO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "O contrário de ruim",
+      "answer": "BOM",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "O oposto de curta",
+      "answer": "LONGA",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Fenômeno marítimo de movimento de alta e baixa das águas",
+      "answer": "MARE",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Devido a agentes patogênicos",
+      "answer": "VIRAL",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Morte",
+      "answer": "PERDA",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Otaviano Costa, ator e apresentador de TV",
+      "answer": "OC",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "As peças de vestuário usadas nos pés",
+      "answer": "MEIAS",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "O cantor carioca Motta",
+      "answer": "ED",
+      "row": 9,
+      "col": 9
+    },
+    "36": {
+      "clue": "Tecido adiposo",
+      "answer": "SEBO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Lesão no corpo provocada por um agente externo",
+      "answer": "TRAUMA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O intuito de quem compra uma barraca",
+      "answer": "ACAMPAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Perceber alguma coisa",
+      "answer": "NOTAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Conjunto ou grupo de três pessoas",
+      "answer": "TRIO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Cútis, pele do rosto",
+      "answer": "TEZ",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "As iniciais da apresentadora e modelo Galisteu",
+      "answer": "AG",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Subir com a ajuda de mãos e pés",
+      "answer": "TREPAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Um dacota, caiapó ou mapuche",
+      "answer": "INDIO",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Conjunção que expressa indecisão",
+      "answer": "MAS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Escolhido",
+      "answer": "ELEITO",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Aquele que sorteia",
+      "answer": "RIFADOR",
+      "row": 2,
+      "col": 2
+    },
+    "16": {
+      "clue": "Menosprezar",
+      "answer": "ESNOBAR",
+      "row": 2,
+      "col": 8
+    },
+    "18": {
+      "clue": "Mamífero semelhante ao urso",
+      "answer": "PANDA",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Cão usado na caça de coelhos e lebres",
+      "answer": "BEAGLE",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Terreno em que foi espalhado o grão para germinar",
+      "answer": "SEMEADA",
+      "row": 4,
+      "col": 10
+    },
+    "23": {
+      "clue": "Gerador que produz e distribui corrente contínua",
+      "answer": "DINAMO",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Uma que conheceu o \"país das maravilhas\"",
+      "answer": "ALICE",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Obrigação dada por superior",
+      "answer": "ORDEM",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Comissão diretora de uma assembleia",
+      "answer": "MESA",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Tu e eles",
+      "answer": "VOS",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Duas pessoas",
+      "answer": "PAR",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Carisma",
+      "answer": "IT",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

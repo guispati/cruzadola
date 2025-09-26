@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Objeto com que se desenha sobre superfícies",
+      "answer": "LAPIS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O músico carioca Tom (1927-1994)",
+      "answer": "JOBIM",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Grande desgraça pública",
+      "answer": "CALAMIDADE",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Prestar declarações",
+      "answer": "DEPOR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Fio da barba",
+      "answer": "PELO",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "O contrário de off",
+      "answer": "ON",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Ação ou palavra inoportuna",
+      "answer": "GAFE",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Tecla do PC",
+      "answer": "ESC",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Que faz mal",
+      "answer": "NOCIVO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Gír.) Tomar bebida alcoólica",
+      "answer": "PIAR",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Pacificar",
+      "answer": "ACALMAR",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "(Gír.) Sem dinheiro",
+      "answer": "LISO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Menina",
+      "answer": "GAROTA",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Um sistema operacional em informática, atualmente pouco usado",
+      "answer": "DOS",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Fruto de gomos em forma de pinha",
+      "answer": "JACA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "O que se acrescenta ao melado para ficar modelado",
+      "answer": "OD",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Sorte",
+      "answer": "DITA",
+      "row": 8,
+      "col": 1
+    },
+    "33": {
+      "clue": "Intervalo",
+      "answer": "HIATO",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Profissional que estaciona carros",
+      "answer": "MANOBRISTA",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Peça que faz furos para parafusos",
+      "answer": "BROCA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Estômago moedor das aves",
+      "answer": "MOELA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Sinal que se faz com a cabeça, as mãos etc. para dar a conhecer o que se deseja",
+      "answer": "ACENO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Metade do... papaia",
+      "answer": "PAP",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Que não tem cabimento",
+      "answer": "ILOGICO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Salve! (nos cultos afro-brasileiros)",
+      "answer": "SARAVA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Um carro como o Renegade ou o Vitara",
+      "answer": "JIPE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Composição lírica dividida em estrofes iguais",
+      "answer": "ODE",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Um Zeca da MPB",
+      "answer": "BALEIRO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Aquela que tem muitos anos de vida",
+      "answer": "IDOSA",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Para mim",
+      "answer": "ME",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Um pato das HQs",
+      "answer": "DONALD",
+      "row": 2,
+      "col": 0
+    },
+    "16": {
+      "clue": "(Pop.) Atrevimento",
+      "answer": "FOLGA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Que deu origem, a partir do nada",
+      "answer": "CRIADO",
+      "row": 3,
+      "col": 10
+    },
+    "20": {
+      "clue": "Uma atração de Monte Carlo e de Punta del Leste",
+      "answer": "CASSINO",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Lugar agradável e prazeroso",
+      "answer": "PARAISO",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "(Mús.) Outro nome do cavaquinho",
+      "answer": "MACHIM",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Misturar quimicamente com o elemento I",
+      "answer": "IODAR",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Inteiro, não parcial",
+      "answer": "TOTAL",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Dinheiro usado para corromper alguém",
+      "answer": "JABA",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Onomatopeia de uma batida à porta",
+      "answer": "TOC",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Palavra usada para dar maior relevo ao que se afirma",
+      "answer": "ATE",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "Marinha do Brasil",
+      "answer": "MB",
+      "row": 9,
+      "col": 0
+    }
+  }
+}

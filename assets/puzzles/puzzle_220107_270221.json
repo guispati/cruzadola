@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "Buraco onde animais se abrigam",
+      "answer": "TOCA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Fincar (estaca, prego etc.)",
+      "answer": "CRAVAR",
+      "row": 0,
+      "col": 5
+    },
+    "11": {
+      "clue": "Desprezível, vil",
+      "answer": "RUIM",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Inflamação da mucosa nasal",
+      "answer": "RINITE",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Glamour",
+      "answer": "IT",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Paraíba) Cidade mineira da divisa com o Rio de Janeiro",
+      "answer": "ALEM",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "(-moscada) Condimento",
+      "answer": "NOZ",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Sensação agradável",
+      "answer": "PRAZER",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "A combinação de inverno com inferno",
+      "answer": "RIMA",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "(Villa-) Compositor, um grande nome da música brasileira",
+      "answer": "LOBOS",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Hálito contaminado de outro odor",
+      "answer": "BAFO",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Um exame de laboratório",
+      "answer": "ANALISE",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "O clarão do astro mais próximo da Terra",
+      "answer": "LUAR",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Remediar males, livrar-se de doenças",
+      "answer": "CURAR",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Pelé fez mais de mil",
+      "answer": "GOLS",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Menina",
+      "answer": "GAROTA",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "Habitação coletiva de índios",
+      "answer": "OCA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Fogueira crematória",
+      "answer": "PIRA",
+      "row": 8,
+      "col": 4
+    },
+    "31": {
+      "clue": "O astatínio, elemento químico",
+      "answer": "AT",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Gritar muito",
+      "answer": "LADRAR",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Objeto cujas faces opostas somam sempre sete",
+      "answer": "DADO",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "Palavras de apreço",
+      "answer": "ELOGIO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Com farinha, viram macarrão",
+      "answer": "OVOS",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O de 6 é 18",
+      "answer": "TRIPLO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um segundo",
+      "answer": "OUTRO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Curie",
+      "answer": "CI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O maior rio do mundo",
+      "answer": "AMAZONAS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Ter confiança",
+      "answer": "CRER",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Uma víscera do abdome",
+      "answer": "RIM",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Antônio Nóbrega, artista e músico recifense",
+      "answer": "AN",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Que produz vinho em abundância",
+      "answer": "VINIFERO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Microscópica parte da matéria",
+      "answer": "ATOMO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Prece, oração",
+      "answer": "REZA",
+      "row": 0,
+      "col": 10
+    },
+    "15": {
+      "clue": "Ferir",
+      "answer": "LESAR",
+      "row": 2,
+      "col": 4
+    },
+    "18": {
+      "clue": "Convexo",
+      "answer": "ABAULADO",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Que se riscou",
+      "answer": "RASURADO",
+      "row": 3,
+      "col": 7
+    },
+    "21": {
+      "clue": "Comer (diz-se de ave)",
+      "answer": "BICAR",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Um instrumento musical de percussão",
+      "answer": "PRATOS",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "Da região",
+      "answer": "LOCAL",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Amarrado, preso",
+      "answer": "ATADO",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Pequena quantidade de líquido",
+      "answer": "GOLE",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Pequena excursão",
+      "answer": "GIRO",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "Animal masculino que deu origem a outro",
+      "answer": "PAI",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Radamés Gnatalli (1906-1988), músico",
+      "answer": "RG",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Avenida",
+      "answer": "AV",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

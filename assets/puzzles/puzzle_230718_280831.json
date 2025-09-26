@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O local de trabalho de Filipe Toledo (pl.)",
+      "answer": "ONDAS",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Um número como o 7 ou o 93",
+      "answer": "IMPAR",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "O oposto de bonita",
+      "answer": "FEIA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Peixe parecido com a piranha",
+      "answer": "PACU",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Eletrocardiograma",
+      "answer": "ECG",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Inf.) Pai",
+      "answer": "PAPAI",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Colo de garrafa, com entrada estreita",
+      "answer": "GARGALO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Cada um dos dois órgãos que produzem a urina",
+      "answer": "RIM",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Alugar",
+      "answer": "ARRENDAR",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Palmeira que fornece fibra vegetal",
+      "answer": "RAFIA",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "O nosso planeta",
+      "answer": "TERRA",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "A unidade monetária da Venezuela",
+      "answer": "BOLIVAR",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Emma Thompson, atriz de \"Vestígios do Dia\"",
+      "answer": "ET",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Sigla de um estado que faz divisa com Minas Gerais e Goiás",
+      "answer": "BA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Marcar, assinalar",
+      "answer": "ABALIZAR",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "O oposto de sair",
+      "answer": "ENTRAR",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "A peça que se acende no \"parabéns pra você\"",
+      "answer": "VELA",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "O oposto de sim",
+      "answer": "NÃO",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "O dia 25 de dezembro",
+      "answer": "NATAL",
+      "row": 9,
+      "col": 4
+    },
+    "38": {
+      "clue": "Companheiro de negócios",
+      "answer": "SOCIO",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "(Pop.) Menina-moça",
+      "answer": "BROTO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Respirar com dificuldade, por cansaço",
+      "answer": "OFEGAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Coisa nenhuma",
+      "answer": "NECA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Gram.) Grupo de duas letras usadas para representar um único som",
+      "answer": "DIGRAFO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Alcoólicos Anônimos",
+      "answer": "AA",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "Ministério da Pesca e Aquicultura",
+      "answer": "MPA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Voar vagarosamente",
+      "answer": "PAIRAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Sigla de uma era antiquíssima",
+      "answer": "AC",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Pernicioso",
+      "answer": "RUIM",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Dança coreográfica",
+      "answer": "BALE",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Da PB",
+      "answer": "PARAIBANO",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "(do Paranapanema) Região paulista na divisa com MS e PR",
+      "answer": "PONTAL",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Fazer títulos falsos de terras",
+      "answer": "GRILAR",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Fictício",
+      "answer": "IRREAL",
+      "row": 3,
+      "col": 9
+    },
+    "21": {
+      "clue": "Proceder",
+      "answer": "DERIVAR",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "(Pop.) Ato de agitar o ar com vigor ou força",
+      "answer": "ABANÃO",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Falta de pontualidade no cumprimento de um compromisso",
+      "answer": "ATRASO",
+      "row": 5,
+      "col": 10
+    },
+    "27": {
+      "clue": "Peça roliça e longa usada em pescarias",
+      "answer": "VARA",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "O que compõe um patrimônio",
+      "answer": "BENS",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Dedicação ardente",
+      "answer": "ZELO",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "(Psiq.) A sigla de Transtorno Obsessivo-Compulsivo, doença mental",
+      "answer": "TOC",
+      "row": 8,
+      "col": 2
+    },
+    "37": {
+      "clue": "(Quím.) O térbio",
+      "answer": "TB",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

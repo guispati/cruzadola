@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Acompanham as facas e as colheres",
+      "answer": "GARFOS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Sinal musical, vale metade da semicolcheia",
+      "answer": "FUSA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "De uma cidade do Triângulo Mineiro",
+      "answer": "ARAXAENSE",
+      "row": 1,
+      "col": 2
+    },
+    "12": {
+      "clue": "Japonês que emigra para a América",
+      "answer": "ISSEI",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Fruto com formato semelhante ao da pera",
+      "answer": "FIGO",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Fundação Instituto de Pesquisas Econômicas",
+      "answer": "FIPE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "A Müller apresentadora da TV",
+      "answer": "TITI",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Sufixo feminino de ão",
+      "answer": "ONA",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "O escritor francês de Balzac (1799-1850)",
+      "answer": "HONORE",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Roda de pedra para afiar facas",
+      "answer": "MO",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Livrar, libertar",
+      "answer": "TIRAR",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Bolsa de Valores",
+      "answer": "BV",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Uma das partes mais saborosas da carne de porco",
+      "answer": "PERNIL",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Prefixo: anterioridade",
+      "answer": "PRE",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Músico baiano que, com Osmar, criou os trios elétricos",
+      "answer": "DODO",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "Desgastar, friccionando",
+      "answer": "PUIR",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "O músico Santos, de \"Um Certo Alguém\"",
+      "answer": "LULU",
+      "row": 8,
+      "col": 1
+    },
+    "30": {
+      "clue": "Superfícies ásperas que se formam por atrito, nas mãos e nos pés",
+      "answer": "CALOS",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Ator de \"King Richard - Criando Campeãs\"",
+      "answer": "WILLSMITH",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "O estilista argelino Saint-Laurent (1936-2008), um dos grandes nomes da alta costura",
+      "answer": "YVES",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "A cantora de música pop Britney",
+      "answer": "SPEARS",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Uma raça de cães de pequeno porte",
+      "answer": "GRIFOM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Lasca",
+      "answer": "RASPA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "(Ingl.) Grátis",
+      "answer": "FREE",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Oásis sem esses",
+      "answer": "OAI",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "As consoantes de sexo",
+      "answer": "SX",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Administrador de bens alheios ou de propriedade agrícola",
+      "answer": "FEITOR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Aplicar óleo sagrado",
+      "answer": "UNGIR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Símbolo de su-sudoeste",
+      "answer": "SSO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Albert Einstein (1879-1955), autor da Teoria da Relatividade",
+      "answer": "AE",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Por fim",
+      "answer": "AFINAL",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Uma cidade mato-grossense",
+      "answer": "SINOP",
+      "row": 2,
+      "col": 1
+    },
+    "16": {
+      "clue": "(Quím.) O Th",
+      "answer": "TORIO",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Habitantes da Índia",
+      "answer": "HINDUS",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Beberrão",
+      "answer": "EBRIO",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Filme de animação lançado em 2016",
+      "answer": "TROLLS",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Contra",
+      "answer": "VERSUS",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Próprio para comer",
+      "answer": "EDULE",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "(Pop.) Indivíduo sem caráter",
+      "answer": "PULHA",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Massa fria comida como aperitivo",
+      "answer": "PATE",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "54, em algarismos romanos",
+      "answer": "LIV",
+      "row": 8,
+      "col": 1
+    },
+    "30": {
+      "clue": "Conselho Interministerial de Preços",
+      "answer": "CIP",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "As letras que cercam o X",
+      "answer": "WY",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Sigla do estado que faz fronteira com Bolívia e Paraguai",
+      "answer": "MS",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

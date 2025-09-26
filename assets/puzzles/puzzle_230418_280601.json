@@ -1,0 +1,258 @@
+{
+  "across": {
+    "2": {
+      "clue": "(Gír.) Conflito, desordem",
+      "answer": "FUZUE",
+      "row": 0,
+      "col": 2
+    },
+    "6": {
+      "clue": "(Net) Fim de semana",
+      "answer": "FDS",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Estudante, educando",
+      "answer": "ALUNO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "A resposta para um atchim",
+      "answer": "SAUDE",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Parte fronteira de algo em relação ao observador",
+      "answer": "ROSTO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Sofrer aflição, dor",
+      "answer": "PENAR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Canal",
+      "answer": "DUTO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Retalho de pano, mais comprido que largo",
+      "answer": "TIRA",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "A letra que precede o ó",
+      "answer": "ENE",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "A mão em que o motorista deve dirigir",
+      "answer": "DIREITA",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Um meio de transporte público",
+      "answer": "METRO",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "Desvalorização ou depreciação da moeda",
+      "answer": "DESAGIO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "O símbolo matemático de secante",
+      "answer": "SEC",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "Rugido de feras",
+      "answer": "URRO",
+      "row": 7,
+      "col": 2
+    },
+    "26": {
+      "clue": "Multidão de gente",
+      "answer": "POVO",
+      "row": 7,
+      "col": 7
+    },
+    "27": {
+      "clue": "Muito ampla",
+      "answer": "VASTA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "A abertura do trombone por onde se sopra para produzir o som",
+      "answer": "BOCAL",
+      "row": 8,
+      "col": 6
+    },
+    "30": {
+      "clue": "Natural de uma ilha",
+      "answer": "ILHEU",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Vento de força moderada",
+      "answer": "BRISA",
+      "row": 9,
+      "col": 6
+    },
+    "32": {
+      "clue": "Contração de preposição e advérbio de lugar",
+      "answer": "DAI",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Barra de uma substância usada em limpeza",
+      "answer": "SABÃO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Fora de hora",
+      "answer": "TARDE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O tronco da árvore",
+      "answer": "FUSTE",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Medicamento de uso externo à base de gordura",
+      "answer": "UNTO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "(Red.) Parque para animais",
+      "answer": "ZOO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Um sinal de resfriado ou alergia",
+      "answer": "ESPIRRO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Sigla do órgão que cuida da proteção e amparo ao índio",
+      "answer": "FUNAI",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Débito Direto Autorizado, operação bancária",
+      "answer": "DDA",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Longa extensão de montanhas e montes",
+      "answer": "SERRA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Sala para descontrair",
+      "answer": "LOUNGE",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "O transporte feito através de aviões",
+      "answer": "AEREO",
+      "row": 1,
+      "col": 7
+    },
+    "16": {
+      "clue": "Designação carinhosa do irmão do pai",
+      "answer": "TITIO",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Os passos numa escada",
+      "answer": "DEGRAUS",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Escuridão profunda",
+      "answer": "TREVAS",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "O quarto planeta mais próximo do Sol",
+      "answer": "MARTE",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "O músico Byrne, do \"Talking Heads\"",
+      "answer": "DAVID",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "Uma especialidade da culinária japonesa",
+      "answer": "SUSHI",
+      "row": 6,
+      "col": 2
+    },
+    "23": {
+      "clue": "Parceiro, companheiro",
+      "answer": "SOCIO",
+      "row": 6,
+      "col": 8
+    },
+    "24": {
+      "clue": "Objeto que se leva pendurado no pescoço, usado como ornato",
+      "answer": "COLAR",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "(Ponta) Cidade do MS, na fronteira com o Paraguai",
+      "answer": "PORÃ",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Nome árabe do seu Deus",
+      "answer": "ALA",
+      "row": 8,
+      "col": 1
+    },
+    "29": {
+      "clue": "(Sigla) Um famoso reality show",
+      "answer": "BBB",
+      "row": 8,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Tradicional bairro e time de futebol carioca",
+      "answer": "BANGU",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Oral",
+      "answer": "BUCAL",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "O primeiro e menor número inteiro",
+      "answer": "UM",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Fraudulenta, ilusória",
+      "answer": "ENGANOSA",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Designação dada a festejos religiosos diversos",
+      "answer": "FOLIA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Convocar como testemunha",
+      "answer": "CITAR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Condições climáticas",
+      "answer": "ARES",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Parede que delimita um terreno",
+      "answer": "MURO",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Confiar um segredo",
+      "answer": "REVELAR",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "A crucis foi o doloroso caminho de Jesus",
+      "answer": "VIA",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Componente que faz reduzir a resistência frontal ou aerodinâmica da parte a que está afixado",
+      "answer": "CARENAGEM",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "(Rel.) O armador da Arca",
+      "answer": "NOE",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Ficar no mesmo nível ou altura",
+      "answer": "IGUALAR",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Entrançado próprio para cercados",
+      "answer": "TELA",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "Víspora",
+      "answer": "LOTO",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Costas",
+      "answer": "DORSO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Mestre e profeta, fundador do cristianismo",
+      "answer": "JESUS",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Cruzar (animais)",
+      "answer": "ACASALAR",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Regina Casé, atriz",
+      "answer": "RC",
+      "row": 9,
+      "col": 9
+    },
+    "34": {
+      "clue": "Tempo livre de compromissos",
+      "answer": "LAZER",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Pop.) Pão francês cortado em duas fatias, de que se retira o miolo",
+      "answer": "CANOA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Expelir ar pela boca, com força",
+      "answer": "BUFAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Pop.) Pessoa graciosa ou boazinha",
+      "answer": "AMORECO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Jato de água quente que irrompe do solo",
+      "answer": "GEISER",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "A cidade baiana com a ilha de Comandatuba",
+      "answer": "UNA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Pop.) Pessoa que só gosta de sair de casa à noite",
+      "answer": "BACURAU",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Ligar, atar",
+      "answer": "UNIR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "As junções entre braços e antebraços",
+      "answer": "COTOVELOS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Membro de que aves e insetos se servem para voar",
+      "answer": "ASA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Inseto em formação",
+      "answer": "LARVA",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "(Pop.) Pessoa intrigante, mexeriqueira",
+      "answer": "LEVAETRAZ",
+      "row": 2,
+      "col": 2
+    },
+    "16": {
+      "clue": "História em quadrinhos oriental",
+      "answer": "MANGA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Pôr em hasta pública",
+      "answer": "LEILOAR",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Verde",
+      "answer": "IMATURO",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "(Pop.) Grupo de amigos",
+      "answer": "GALERA",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "O tenista espanhol Rafael",
+      "answer": "NADAL",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "A espiral do parafuso",
+      "answer": "ROSCA",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "S",
+      "answer": "ESSE",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Cabana",
+      "answer": "OCA",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "Marca chinesa fabricante de carros",
+      "answer": "JAC",
+      "row": 8,
+      "col": 6
+    }
+  }
+}

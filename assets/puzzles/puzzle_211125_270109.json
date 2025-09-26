@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cantora muito cultuada, famosa",
+      "answer": "DIVA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Galinha pequena, que ainda não põe ovos",
+      "answer": "FRANGA",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Alterar, introduzindo novidade",
+      "answer": "INOVAR",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Adolescente, em inglês",
+      "answer": "TEEN",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Repassar o texto",
+      "answer": "RELER",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O menino criado por lobos, dos desenhos infantis",
+      "answer": "MOGLI",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Provocar",
+      "answer": "DESAFIAR",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "1.002, em algarismos romanos",
+      "answer": "MII",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Golpe dado com as nádegas",
+      "answer": "BUNDADA",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "(Rád.) Ondas Tropicais",
+      "answer": "OT",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Quím.) Elemento de símbolo Ce",
+      "answer": "CERIO",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "A atual rainha Elizabeth",
+      "answer": "II",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Político que se une a outros para que votem segundo determinados interesses",
+      "answer": "LOBISTA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Substância amarelada que se forma em feridas",
+      "answer": "PUS",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Ocultar à vista",
+      "answer": "ESCONDER",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "Simples",
+      "answer": "UNICO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Excursão de artistas",
+      "answer": "TURNE",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "O campo",
+      "answer": "ROÇA",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "(do Paranapanema) Região paulista na divisa com MS e PR",
+      "answer": "PONTAL",
+      "row": 9,
+      "col": 5
+    },
+    "34": {
+      "clue": "A capital das Ilhas Cook, no Pacífico",
+      "answer": "AVARUA",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Mús.) Executado por apenas uma pessoa",
+      "answer": "SOLO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Abrev.: Direito",
+      "answer": "DIR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Que ainda não foi publicado",
+      "answer": "INEDITO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O esporte do técnico José Roberto Guimarães",
+      "answer": "VOLEI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Pintassilgos, colibris e galos",
+      "answer": "AVES",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Frâncio",
+      "answer": "FR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Rebocado",
+      "answer": "ATOADO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "A partida que desempata o jogo",
+      "answer": "NEGRA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Pasta que dá forma aos cabelos",
+      "answer": "GEL",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Jacarés e minhocas",
+      "answer": "ANIMAIS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Friso ornamental",
+      "answer": "ARABESCO",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Espécie de trevo aquático",
+      "answer": "MINIANTO",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Aquilo que foi roubado",
+      "answer": "FURTO",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Enquadra o quadro",
+      "answer": "MOLDURA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Cotidiano",
+      "answer": "DIURNAL",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "(Pop.) Fugir sorrateiramente",
+      "answer": "CISCAR",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Lábio volumoso",
+      "answer": "BEIÇA",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "O contrário de longe",
+      "answer": "PERTO",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "De + um (pl.)",
+      "answer": "DUNS",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "O período entre Out e Dez",
+      "answer": "NOV",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "Argola de corrente",
+      "answer": "ELO",
+      "row": 8,
+      "col": 10
+    },
+    "33": {
+      "clue": "Uma ferramenta agrícola",
+      "answer": "PA",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

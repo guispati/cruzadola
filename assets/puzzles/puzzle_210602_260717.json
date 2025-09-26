@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Fazer funcionar",
+      "answer": "ATIVAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Ingl.) Venerado nas artes",
+      "answer": "CULT",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Som de sineta ou sirene, nas escolas, para indicar o início e o término das aulas",
+      "answer": "SINAL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Guardar, pôr",
+      "answer": "BOTAR",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "A mãe da esposa",
+      "answer": "SOGRA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Nem loira nem morena",
+      "answer": "RUIVA",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Limpar ou retirar, esfregando",
+      "answer": "RASPAR",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Aretha Franklin (1942-2018), cantora de jazz",
+      "answer": "AF",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Aquele que atinge o alvo",
+      "answer": "ACERTADOR",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Tipo de memória de computador em que as informações podem ser alteradas pelo usuário",
+      "answer": "RAM",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Uma formação como o São Francisco",
+      "answer": "RIO",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "Abreviatura de eletrocardiograma",
+      "answer": "ECG",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "O músico Menotti, da dupla sertaneja com Fabiano",
+      "answer": "CESAR",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Menor que cidade, maior que aldeia",
+      "answer": "VILA",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Ali",
+      "answer": "LA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Examinar com minúcias",
+      "answer": "ANALISAR",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Fazer adquirir amizades",
+      "answer": "ENTROSAR",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "Um ingrediente do uísque",
+      "answer": "MALTE",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "A coletividade",
+      "answer": "TODOS",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Espaço de terreno",
+      "answer": "AREA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Esponjoso",
+      "answer": "POROSO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Limpar o monco",
+      "answer": "ASSOAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O pai dos primos",
+      "answer": "TIO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Que tem forte declive",
+      "answer": "INGREME",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Passar a noite acordado",
+      "answer": "VARAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Que abre caminho, se espraia",
+      "answer": "ALASTRANTE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Pele de certos animais, usada na confecção de roupas e calçados",
+      "answer": "COURO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Leitos de) Uma carência no pico da pandemia",
+      "answer": "UTI",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Massa mineral pastosa, em fusão natural, resultante da erupção de um vulcão",
+      "answer": "LAVA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Transitar, passar",
+      "answer": "TRAFEGAR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "É retumbante no Hino Nacional",
+      "answer": "BRADO",
+      "row": 1,
+      "col": 6
+    },
+    "15": {
+      "clue": "Voar lentamente",
+      "answer": "PAIRAR",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "O cineasta Diegues, de \"Xica da Silva\"",
+      "answer": "CACA",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Dança popular com que se festeja a véspera e o dia da Epifania",
+      "answer": "REISADO",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "(Montes) Importante cidade de MG",
+      "answer": "CLAROS",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Boa, pura",
+      "answer": "SANTA",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Mostrador",
+      "answer": "VISOR",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Espécie de laranja de sabor agridoce",
+      "answer": "LIMA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Um jogo com cartelas numeradas",
+      "answer": "LOTO",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "(Gram.) A terceira pessoa do singular",
+      "answer": "ELE",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "A substância que respiramos",
+      "answer": "AR",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "Sem a companhia de outras pessoas",
+      "answer": "SO",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

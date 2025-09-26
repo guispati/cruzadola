@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "(de Você) Sucesso de Chico Buarque que foi censurado na ditadura militar",
+      "answer": "APESAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Museu de Arte de São Paulo",
+      "answer": "MASP",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Um cosmético para maquiagem",
+      "answer": "RIMEL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Solvente usado em pintura",
+      "answer": "TINER",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Pobreza de sangue",
+      "answer": "ANEMIA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Criancinha de colo",
+      "answer": "NENE",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "(Mús.) A nota C",
+      "answer": "DO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Do país de Reykjavik",
+      "answer": "ISLANDES",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Um prato típico do norte e do nordeste brasileiro",
+      "answer": "TAPIOCA",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Um tipo de pimenta muito ardida",
+      "answer": "MALAGUETA",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Sensibilidade aos sabores",
+      "answer": "PALADAR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Poder ter ou conter (pessoas, animais, etc.)",
+      "answer": "ACOMODAR",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Conjunção que expressa subordinação à ação principal",
+      "answer": "SE",
+      "row": 7,
+      "col": 9
+    },
+    "27": {
+      "clue": "Menino, garoto",
+      "answer": "GURI",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Fertilizar a terra para cultura",
+      "answer": "ADUBAR",
+      "row": 8,
+      "col": 5
+    },
+    "30": {
+      "clue": "Sinal que se faz com as mãos",
+      "answer": "ACENO",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "O símbolo de Ohm",
+      "answer": "OMEGA",
+      "row": 9,
+      "col": 6
+    },
+    "32": {
+      "clue": "Uma flor perfumada",
+      "answer": "ROSA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Cobrir com o elemento químico Cr",
+      "answer": "CROMAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ferramenta para remover a terra antes da semeadura",
+      "answer": "ARADO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Bater) Sair (o carro) do ponto da regulagem do motor",
+      "answer": "PINO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "M",
+      "answer": "EME",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Prefixo: metade",
+      "answer": "SEMI",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Inscrito para ser convocado para o serviço militar",
+      "answer": "ALISTADO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Uma ratinha da Disney",
+      "answer": "MINNIE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Relato sucinto de um fato jocoso ou curioso",
+      "answer": "ANEDOTA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Filósofo de grande influência sobre a cultura europeia (4 a.C. - 65)",
+      "answer": "SENECA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Atada",
+      "answer": "PRESA",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Inundada, coberta de água",
+      "answer": "ALAGADA",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Aquele que conta os votos",
+      "answer": "APURADOR",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "O V da BV",
+      "answer": "VALORES",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Ave da família da codorna",
+      "answer": "MACUCO",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Fina folha metálica",
+      "answer": "LAMINA",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Saldar uma dívida",
+      "answer": "PAGAR",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Chegar no número 0",
+      "answer": "ZERAR",
+      "row": 6,
+      "col": 10
+    },
+    "25": {
+      "clue": "Direção do movimento do barco",
+      "answer": "RUMO",
+      "row": 7,
+      "col": 7
+    },
+    "26": {
+      "clue": "Narrativa heroica, com incidentes e perigos",
+      "answer": "SAGA",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Com clareza",
+      "answer": "BEM",
+      "row": 8,
+      "col": 8
+    }
+  }
+}

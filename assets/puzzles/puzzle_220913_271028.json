@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Sensação de satisfação",
+      "answer": "AGRADO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Fig.) Sem afeto, sem calor humano",
+      "answer": "FRIO",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Uma consequência do calor",
+      "answer": "SUOR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Uma planta aquática flutuante",
+      "answer": "AGUAPE",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Fios que formam a barba",
+      "answer": "PELOS",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Precede durante e depois",
+      "answer": "ANTES",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Um animal como a águia ou a ema",
+      "answer": "AVE",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Substância com o pH inferior a 7",
+      "answer": "ACIDO",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Corpo celeste secundário, como a Lua",
+      "answer": "SATELITE",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Crença em um Deus",
+      "answer": "FE",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Que foi seguido através de pistas",
+      "answer": "RASTREADO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "K",
+      "answer": "CA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Uma erva daninha muito comum",
+      "answer": "TIRIRICA",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Motivo",
+      "answer": "FATOR",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "O aconchego da família",
+      "answer": "LAR",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Ligada, presa",
+      "answer": "UNIDA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Letra do alfabeto grego que é símbolo de fim, termo",
+      "answer": "OMEGA",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Rico de vibrações",
+      "answer": "SONORO",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Fim de prece",
+      "answer": "AMEM",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "Aniversário",
+      "answer": "ANOS",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Carne fatiada, comida como aperitivo",
+      "answer": "SALAME",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Sinais para destacar uma citação",
+      "answer": "ASPAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O Che (1928-1967) da revolução cubana",
+      "answer": "GUEVARA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(-russa) Um jogo suicida",
+      "answer": "ROLETA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Pequeno círculo de metal ou madeira",
+      "answer": "ARO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Oceano Atlântico",
+      "answer": "OA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Lançar ferro",
+      "answer": "FUNDEAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Um animal como Jerry, dos desenhos animados",
+      "answer": "RATO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(O Tronco do) Uma obra de José de Alencar",
+      "answer": "IPE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Ponto cardeal que se abrevia O",
+      "answer": "OESTE",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Um instrumetista dos sopros",
+      "answer": "GAITEIRO",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Caminhar rapidamente, aos pulos",
+      "answer": "SALTITAR",
+      "row": 2,
+      "col": 4
+    },
+    "18": {
+      "clue": "Nuvem formada por cristais de gelo",
+      "answer": "CIRRO",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "São 26 no Brasil",
+      "answer": "ESTADOS",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Ajuste para a formação de imagens nítidas",
+      "answer": "FOCAGEM",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Necessidade de optar entre duas alternativas",
+      "answer": "DILEMA",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "(Dir.) Caso pelo qual se intenta uma ação na justiça e que se faz objeto de um processo",
+      "answer": "CAUSA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Fio de metal flexível",
+      "answer": "ARAME",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Delgado, estreito",
+      "answer": "FINO",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "(-stop) Sem interrupção",
+      "answer": "NON",
+      "row": 8,
+      "col": 1
+    },
+    "32": {
+      "clue": "Pecado",
+      "answer": "MAL",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Ordem de Serviço",
+      "answer": "OS",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

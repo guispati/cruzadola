@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O Amarelo é uma música sertaneja de sucesso",
+      "answer": "CAMARO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O ferro que é retirado do alto-forno",
+      "answer": "GUSA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Por outro lado, em outras palavras",
+      "answer": "ALIAS",
+      "row": 1,
+      "col": 2
+    },
+    "12": {
+      "clue": "Uma partícula para frases negativas",
+      "answer": "NEM",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Roda em torno de algo",
+      "answer": "CERCO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "País africano cortado pelo rio Nilo",
+      "answer": "EGITO",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "(-pintada) O animal da nota de R$50",
+      "answer": "ONÇA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Gritar, berrar",
+      "answer": "BRADAR",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Vertigem",
+      "answer": "TONTEIRA",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "(Quím.) Berílio",
+      "answer": "BE",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Espécie de carvão fóssil",
+      "answer": "TURFA",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Partículas que se acumulam sobre móveis e objetos sem limpeza",
+      "answer": "PO",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Vertente, ladeira",
+      "answer": "LANÇANTE",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "(Mar.) Ato de atracar um navio a um ponto de terra",
+      "answer": "ABORDO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Copo para vinho",
+      "answer": "TAÇA",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "O Horrível personagem de HQs",
+      "answer": "HAGAR",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Um grande time do futebol italiano",
+      "answer": "MILAN",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "1.002, em romanos",
+      "answer": "MII",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Áspera como o vinagre",
+      "answer": "AZEDA",
+      "row": 9,
+      "col": 4
+    },
+    "35": {
+      "clue": "Necessidade de dormir",
+      "answer": "SONO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Um caderno de memórias",
+      "answer": "DIARIO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ingrediente da queijadinha",
+      "answer": "COCO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O mês com o dia internacional contra a discriminação racial (dia 21)",
+      "answer": "MARÇO",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Cidade maranhense com famoso centro de lançamento de foguetes",
+      "answer": "ALCANTARA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "O Paraná é o segundo maior da América do Sul",
+      "answer": "RIO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Oswaldo Aranha (1894-1960), político gaúcho, um dos arquitetos da Revolução de 1930",
+      "answer": "OA",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Ligada, presa",
+      "answer": "UNIDA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Sinal em forma de flecha",
+      "answer": "SETA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Geol.) Diz-se de mineral não cristalizado",
+      "answer": "AMORFO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Tip.) Pequeno traço que remata pontos terminais de algumas letras",
+      "answer": "SERIFA",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "O ser humano",
+      "answer": "ENTE",
+      "row": 2,
+      "col": 1
+    },
+    "16": {
+      "clue": "Cuja boa qualidade foi afiançada (fem.)",
+      "answer": "GARANTIDA",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "A cama do bebê",
+      "answer": "BERÇO",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Terreno desértico, característico das zonas árticas",
+      "answer": "TUNDRA",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "O músico alemão Johannes (1833-1897)",
+      "answer": "BRAHMS",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Uma composição musical ou artística",
+      "answer": "PEÇA",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "(Inform., ingl.) Nome que identifica um usuário em um sistema",
+      "answer": "LOGIN",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Relativo ao calcanhar",
+      "answer": "TALAR",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "De cor pálido-ouro",
+      "answer": "BAIO",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Um personagem como Zangado ou Mestre",
+      "answer": "ANÃO",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Microempreendedor Individual",
+      "answer": "MEI",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Zélia Duncan, cantora fluminense",
+      "answer": "ZD",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

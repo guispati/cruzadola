@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "No Antigo Testamento, denominação de Deus",
+      "answer": "JEOVA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Grupo de artistas que viaja dando espetáculos",
+      "answer": "TRUPE",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Mais ou menos",
+      "answer": "UNS",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Tecido sintético",
+      "answer": "LAICRA",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Bem cadenciado",
+      "answer": "RITMICO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Um ingrediente do daiquiri",
+      "answer": "RUM",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Motivo grave de queixa",
+      "answer": "AGRAVO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Um recipiente para flores",
+      "answer": "VASO",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Bicar no solo, à cata de insetos, migalhas etc.",
+      "answer": "MARISCAR",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Sociedade Anônima",
+      "answer": "SA",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Apanhar do chão",
+      "answer": "CATAR",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "A parte do corpo onde se coloca o sapato",
+      "answer": "PE",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "(Fig.) Pessoa desclassificada, vagabunda, ordinária",
+      "answer": "VIRALATA",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Sunga",
+      "answer": "MAIO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "O cineasta francês Jean-Luc, de \"Je Vous Salue Marie\"",
+      "answer": "GODARD",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "Sufixo de internet",
+      "answer": "ONG",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Uma das mais famosas sinfonias de Beethoven",
+      "answer": "HEROICA",
+      "row": 8,
+      "col": 4
+    },
+    "31": {
+      "clue": "Canoa pequena, usada principalmente na pesca",
+      "answer": "JACUMÃ",
+      "row": 9,
+      "col": 1
+    },
+    "33": {
+      "clue": "Um material usado na produção de frascos não retornáveis",
+      "answer": "PET",
+      "row": 9,
+      "col": 8
+    },
+    "34": {
+      "clue": "Empecilho, óbice, obstáculo",
+      "answer": "POREM",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Antigo carro da Chevrolet",
+      "answer": "OPALA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Promessa",
+      "answer": "JURA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Quebra-cabeça",
+      "answer": "ENIGMA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Molusco",
+      "answer": "OSTRA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Tornar mais leve",
+      "answer": "ALIVIAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "O pai dos primos",
+      "answer": "TIO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Raimundo Correia (1859-1911), poeta de \"Primeiros Sonhos\"",
+      "answer": "RC",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Rugir",
+      "answer": "URRAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O naipe do trevo",
+      "answer": "PAUS",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Aproximação do litoral",
+      "answer": "ACOSTAGEM",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "O Garcia ator e apresentador carioca",
+      "answer": "MARCIO",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Incapaz de determinação, de firmeza",
+      "answer": "MOLE",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Furado de lado a lado",
+      "answer": "VARADO",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Temperatura muito elevada",
+      "answer": "CALORÃO",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "Luta japonesa com homens corpulentos",
+      "answer": "SUMO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Rochedo à flor da água",
+      "answer": "PARCEL",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Colocar traves em",
+      "answer": "VIGAR",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Parede de barro aplicado sobre gradeamento de varas",
+      "answer": "TAIPA",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "O da guarda é a pessoa que cuida de uma outra",
+      "answer": "ANJO",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Dia na agenda",
+      "answer": "DATA",
+      "row": 7,
+      "col": 10
+    },
+    "30": {
+      "clue": "Interj.: dúvida",
+      "answer": "HUM",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "C",
+      "answer": "CE",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

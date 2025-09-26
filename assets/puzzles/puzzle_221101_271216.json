@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "O grupo dos sucessos \"Sapato Velho\" e \"Whisky a Go Go\"",
+      "answer": "ROUPANOVA",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Plantação de mate",
+      "answer": "ERVAL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "(Bezerra da) Sambista pernambucano",
+      "answer": "SILVA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Peça usada para prender uma pessoa pelos pulsos",
+      "answer": "ALGEMA",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Um tipo de sangue",
+      "answer": "AB",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Instituto de Letras",
+      "answer": "IL",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Um rei cujo reinado dura só três dias",
+      "answer": "MOMO",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "(burro) Locução para expressar grande quantidade",
+      "answer": "PRA",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "O Pererê, de uma perna só, que se diverte assustando viajantes",
+      "answer": "SACI",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Dissipar, desvanecer",
+      "answer": "ESVAIR",
+      "row": 4,
+      "col": 5
+    },
+    "24": {
+      "clue": "Lutador",
+      "answer": "GUERREIRO",
+      "row": 5,
+      "col": 1
+    },
+    "26": {
+      "clue": "Cidade litorânea gaúcha, a mais oriental do estado",
+      "answer": "TORRES",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Matriz usada em serigrafia",
+      "answer": "TELA",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Sigla inglesa do país do Grand Canyon e do Times Square",
+      "answer": "USA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Passar café e água através de um filtro para se obter somente a bebida",
+      "answer": "COAR",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "O símbolo químico de um dos metais mais preciosos",
+      "answer": "AU",
+      "row": 7,
+      "col": 9
+    },
+    "33": {
+      "clue": "Comissão Técnica",
+      "answer": "CT",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Uma marca de pneus",
+      "answer": "DUNLOP",
+      "row": 8,
+      "col": 3
+    },
+    "36": {
+      "clue": "(-Barbera) Famoso estúdio de desenhos animados",
+      "answer": "HANNA",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "(Biol.) Ser que tem origem em outro, por reprodução assexuada",
+      "answer": "CLONE",
+      "row": 9,
+      "col": 6
+    },
+    "40": {
+      "clue": "Salão para cuidar dos pelos das faces do homem",
+      "answer": "BARBEARIA",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Dinheiro brasileiro (pl.)",
+      "answer": "REAIS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Sufixo: autor",
+      "answer": "OR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Fruto da parreira",
+      "answer": "UVA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Fr.) Pequeno doce, seco, crocante, folheado em forma de folhas da palmeira",
+      "answer": "PALMIER",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Qualquer coisa",
+      "answer": "ALGO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Passagem de fluidos através de membrana porosa",
+      "answer": "OSMOSE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "A crucis foi o doloroso caminho de Jesus",
+      "answer": "VIA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Sigla do estado do Alagoas",
+      "answer": "AL",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Salivar",
+      "answer": "BABAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Doença infecciosa aguda dos países tropicais",
+      "answer": "VARIOLA",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "O piloto Fittipaldi",
+      "answer": "EMERSON",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "O crustáceo usado em uma famosa obra do espanhol Salvador Dalí",
+      "answer": "LAGOSTA",
+      "row": 3,
+      "col": 1
+    },
+    "19": {
+      "clue": "Placa de trânsito que obriga a não continuar",
+      "answer": "PARE",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Restabelecimento de saúde",
+      "answer": "CURA",
+      "row": 4,
+      "col": 2
+    },
+    "23": {
+      "clue": "Toca-discos",
+      "answer": "VITROLA",
+      "row": 4,
+      "col": 7
+    },
+    "25": {
+      "clue": "Andar para trás",
+      "answer": "RECUAR",
+      "row": 5,
+      "col": 4
+    },
+    "26": {
+      "clue": "(Mec.) Haste metálica que articula ou firma duas ou mais peças",
+      "answer": "TUCHO",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "A lei que libertou os escravos",
+      "answer": "AUREA",
+      "row": 6,
+      "col": 10
+    },
+    "31": {
+      "clue": "Cervo de enormes chifres",
+      "answer": "ALCE",
+      "row": 7,
+      "col": 6
+    },
+    "34": {
+      "clue": "Teste que examina os genes",
+      "answer": "DNA",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Colocar, botar ovos",
+      "answer": "POR",
+      "row": 8,
+      "col": 8
+    },
+    "37": {
+      "clue": "O nióbio, em química",
+      "answer": "NB",
+      "row": 9,
+      "col": 2
+    },
+    "39": {
+      "clue": "Transforma malha em manilha",
+      "answer": "NI",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

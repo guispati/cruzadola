@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "O andar de cima de um prédio de dois andares",
+      "answer": "ALTOS",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O tabuleiro de xadrez possui 64",
+      "answer": "CASAS",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Dar nascimento a filho",
+      "answer": "TER",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "(Fig.) Disperso, confuso",
+      "answer": "BRUMOSO",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Região de Portugal cuja capital é Évora",
+      "answer": "ALENTEJO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Quím.) Estanho",
+      "answer": "SN",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "(Ingl.) Diz-se de clipe feito para apresentação comercial",
+      "answer": "DEMO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Encosto",
+      "answer": "COSTAS",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Antigo carro romano puxado por dois cavalos",
+      "answer": "BIGA",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "(Vale-) Modalidade de luta livre muito violenta",
+      "answer": "TUDO",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Espécie invasora de áreas plantadas, híbrido da família dos suínos",
+      "answer": "JAVAPORCO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Mulheres nascidas em Varsóvia ou Cracóvia",
+      "answer": "POLONESAS",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Sigla inglesa de uma superpotência mundial",
+      "answer": "USA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Abrev.) Diretório Acadêmico",
+      "answer": "DA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Uma variação do tom violeta",
+      "answer": "ROXA",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Os extremos da... xucrice",
+      "answer": "XE",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Pedra dura, esverdeada como a azeitona",
+      "answer": "JADE",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "A fruta que pode ser moscada",
+      "answer": "NOZ",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Planta brasileira também chamada pé-de-bezerro",
+      "answer": "TAIOBA",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "A 4ª letra e 3ª consoante do alfabeto",
+      "answer": "DE",
+      "row": 9,
+      "col": 9
+    },
+    "37": {
+      "clue": "Pão doce de massa retorcida",
+      "answer": "ROSCA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "O de \"Auto da Compadecida\" é Ariano Suassuna",
+      "answer": "AUTOR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Trouxa, molho",
+      "answer": "ATADO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Pop.) Desequilibrado, pancada",
+      "answer": "LELE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um meio de transporte de passageiros, de alta velocidade",
+      "answer": "TREMBALA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Uma rede de TV",
+      "answer": "SBT",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Do qual",
+      "answer": "CUJO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Extrair um exemplar de",
+      "answer": "AMOSTRAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Isolado",
+      "answer": "SO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Uma carne de churrasco",
+      "answer": "ASSADO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Manhoso, dissimulado",
+      "answer": "SONSO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Repavimentado",
+      "answer": "RECAPEADO",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Homem que está para casar",
+      "answer": "NOIVO",
+      "row": 2,
+      "col": 3
+    },
+    "18": {
+      "clue": "Cidade dos EUA, no Arizona",
+      "answer": "TUCSON",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "(Fig.) Vida de farrista, vida dissoluta",
+      "answer": "GANDAIA",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "O escritor Saramago (1922-2010), Nobel de 1998",
+      "answer": "JOSE",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Ordem de Serviço",
+      "answer": "OS",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Mover para perto de si",
+      "answer": "PUXAR",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Realizar, obrar",
+      "answer": "FAZER",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Carinho especial que se tem por algo",
+      "answer": "XODO",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Uma marca chinesa de carros",
+      "answer": "JAC",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Escola de Belas Artes",
+      "answer": "EBA",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "O Eliot (1888-1965), escritor inglês Nobel de 1948",
+      "answer": "TS",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "O som do latido de um cão",
+      "answer": "AU",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

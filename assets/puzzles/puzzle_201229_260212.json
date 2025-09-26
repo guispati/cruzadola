@@ -1,0 +1,90 @@
+{
+  "across": {
+    "2": {
+      "clue": "Onde deve haver muito dinheiro, segundo a tradicional canção de fim de ano",
+      "answer": "BOLSO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Uma fruta seca típica desta época (pl.)",
+      "answer": "NOZES",
+      "row": 2,
+      "col": 0
+    },
+    "9": {
+      "clue": "A contagem para marcar o fim do ano",
+      "answer": "REGRESSIVA",
+      "row": 6,
+      "col": 0
+    },
+    "12": {
+      "clue": "Uma das bebidas mais consumidas nestas festas",
+      "answer": "ESPUMANTE",
+      "row": 8,
+      "col": 1
+    },
+    "13": {
+      "clue": "O primeiro país a entrar no ano-novo",
+      "answer": "KIRIBATI",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Dia Mundial da) É comemorado em primeiro de janeiro",
+      "answer": "PAZ",
+      "row": 0,
+      "col": 2
+    },
+    "2": {
+      "clue": "(Roupas) São usadas tradicionalmente na passagem do ano",
+      "answer": "BRANCAS",
+      "row": 0,
+      "col": 6
+    },
+    "3": {
+      "clue": "Um prato da ceia",
+      "answer": "LOMBO",
+      "row": 0,
+      "col": 8
+    },
+    "4": {
+      "clue": "Segundo a superstição, devemos pular sete, atraindo boa sorte",
+      "answer": "ONDAS",
+      "row": 0,
+      "col": 10
+    },
+    "5": {
+      "clue": "O de 2021 está sendo esperado com muita ansiedade",
+      "answer": "ANO",
+      "row": 1,
+      "col": 0
+    },
+    "7": {
+      "clue": "É pra dar e vender, na canção de final de ano",
+      "answer": "SAUDE",
+      "row": 2,
+      "col": 4
+    },
+    "8": {
+      "clue": "Os de artifício formam um espetáculo pirotécnico",
+      "answer": "FOGOS",
+      "row": 4,
+      "col": 2
+    },
+    "10": {
+      "clue": "A Americana, no Pacífico, será a último região a receber 2021",
+      "answer": "SAMOA",
+      "row": 6,
+      "col": 5
+    },
+    "11": {
+      "clue": "(Ano Velho) Assim começa a mais conhecida música de final de ano",
+      "answer": "ADEUS",
+      "row": 6,
+      "col": 9
+    }
+  }
+}

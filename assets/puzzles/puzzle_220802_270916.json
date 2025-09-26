@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Peça móvel para vedar recipientes",
+      "answer": "TAMPA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Livro de geógrafo",
+      "answer": "ATLAS",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Indivíduo que trabalha em fábrica de telhas",
+      "answer": "OLEIRO",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "A moeda de Portugal",
+      "answer": "EURO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Manifestação de bom humor",
+      "answer": "RISO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Do corpo",
+      "answer": "CARNAL",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "O antônimo de fechada",
+      "answer": "ABERTA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Subespécie animal",
+      "answer": "RAÇA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Incógnita",
+      "answer": "XIS",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Apoiar de um lado",
+      "answer": "ESCORAR",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Acompanhar alguém para mostrar-lhe o caminho",
+      "answer": "GUIAR",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Propagador, distribuidor",
+      "answer": "DIFUSOR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Fut.) Video Assistant Referee",
+      "answer": "VAR",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Elipsoidal",
+      "answer": "OVAL",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Pequeno de corpo",
+      "answer": "NANICO",
+      "row": 7,
+      "col": 5
+    },
+    "32": {
+      "clue": "A cor levemente prateada da conta que se forma nas conchas de alguns moluscos",
+      "answer": "PEROLA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Um presente de noivado",
+      "answer": "ANEL",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Divisões de uma peça teatral",
+      "answer": "ATOS",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Roubo feito com violência",
+      "answer": "RAPINA",
+      "row": 9,
+      "col": 5
+    },
+    "37": {
+      "clue": "(Pop.) Ato de procurar recreação ou repouso",
+      "answer": "RELAX",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Validade, legitimidade",
+      "answer": "VALOR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A parte do corpo que fica entre o pescoço e o abdome",
+      "answer": "TORAX",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Prova que pode inocentar um acusado",
+      "answer": "ALIBI",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "São doze em um ano",
+      "answer": "MESES",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um comparativo de mal",
+      "answer": "PIOR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A substância que constitui a atmosfera da Terra",
+      "answer": "AR",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Grande espanto",
+      "answer": "TERROR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Relativo à Lua",
+      "answer": "LUNAR",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Fruto de um arbusto parecido com a goiabeira",
+      "answer": "ARAÇA",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Relativo à planta do pé",
+      "answer": "SOLAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Causar, provocar",
+      "answer": "OCASIONAR",
+      "row": 1,
+      "col": 5
+    },
+    "17": {
+      "clue": "A tua família",
+      "answer": "TEUS",
+      "row": 3,
+      "col": 4
+    },
+    "21": {
+      "clue": "Um dos lados da moeda",
+      "answer": "CARA",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Uma característica da Magali",
+      "answer": "GULOSA",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Fazer ingerir droga",
+      "answer": "DOPAR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "A cantora Sangalo",
+      "answer": "IVETE",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Torre sinalizadora comum no litoral",
+      "answer": "FAROL",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "O material com o qual se fabricavam LPs",
+      "answer": "VINIL",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Sinal que se faz para alguém",
+      "answer": "ACENO",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Girar como uma bola",
+      "answer": "ROLAR",
+      "row": 6,
+      "col": 10
+    },
+    "31": {
+      "clue": "Pelica usada na confecção de luvas e bolsas",
+      "answer": "NAPA",
+      "row": 7,
+      "col": 7
+    },
+    "36": {
+      "clue": "Avenida",
+      "answer": "AV",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

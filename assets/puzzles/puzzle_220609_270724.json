@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "Fita métrica de grande comprimento, usada na medição de terrenos",
+      "answer": "TRENA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Pop.) Parar de funcionar",
+      "answer": "PIFAR",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "O estilo de rock do grupo \"Ratos de Porão\"",
+      "answer": "PUNK",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "O cubo de dois",
+      "answer": "OITO",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Falecimento, passamento",
+      "answer": "OBITO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Fam.) Manjar delicioso",
+      "answer": "PITEU",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Aquele que é compatriota, conterrâneo",
+      "answer": "PATRICIO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Um automóvel compacto da VW",
+      "answer": "UP",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Dar de mamar",
+      "answer": "ALEITAR",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Ato de prender animais à viatura",
+      "answer": "ATRELAGEM",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Que pode servir de alimento",
+      "answer": "COMIVEL",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Alain Delon, ator francês de \"A Piscina\"",
+      "answer": "AD",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Que pode ter risco (pista, curva etc.)",
+      "answer": "PERIGOSA",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "Prefixo: excesso, aumento",
+      "answer": "SUPER",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Beneficiar",
+      "answer": "DOTAR",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Brejo",
+      "answer": "PAUL",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "A voz humana",
+      "answer": "FALA",
+      "row": 9,
+      "col": 5
+    },
+    "34": {
+      "clue": "São dois no compasso",
+      "answer": "ESSES",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Palerma, imbecil",
+      "answer": "LORPA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Conjunto de soldados",
+      "answer": "TROPA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Cognome",
+      "answer": "EPITETO",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Ser tomado por um sentimento",
+      "answer": "NUTRIR",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Período entre o entardecer e a fase que o segue",
+      "answer": "ANOITECER",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Um brinquedo",
+      "answer": "IOIO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Um carro da Honda",
+      "answer": "FIT",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Ímpio, que não crê em Deus",
+      "answer": "ATEU",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Peça de vestir",
+      "answer": "ROUPA",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Guloseima doce, de tamanho e consistência variada",
+      "answer": "BALA",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "No formato dos famosos templos egípcios",
+      "answer": "PIRAMIDAL",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Energia térmica",
+      "answer": "CALOR",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Dedicar, oferecer",
+      "answer": "DEVOTAR",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Homem que é sustentado por sua amante",
+      "answer": "GIGOLO",
+      "row": 5,
+      "col": 7
+    },
+    "22": {
+      "clue": "Em jogos de azar, o bolo",
+      "answer": "MESA",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Uma pedra ornamental colorida",
+      "answer": "JASPE",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Inseto em formação",
+      "answer": "LARVA",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "2 (Fem.)",
+      "answer": "DUAS",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "O órgão que envolve todo o corpo do ser humano",
+      "answer": "PELE",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Um indício de infecção",
+      "answer": "PUS",
+      "row": 8,
+      "col": 2
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um método de condicionamento físico e fisioterapia",
+      "answer": "PILATES",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Tradição, Família e Propriedade",
+      "answer": "TFP",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Substância que aumenta a fecundidade da terra",
+      "answer": "ADUBO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Cessar um processo ou atividade",
+      "answer": "PARAR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Limpar, raspando",
+      "answer": "RAER",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O contrário de falante",
+      "answer": "CALADO",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Antigo punhal recurvado",
+      "answer": "SICA",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Creme comestível de um fruto roxo-escuro",
+      "answer": "AÇAI",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Dennis Carvalho, ator e diretor",
+      "answer": "DC",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "(NE) Mulher loura",
+      "answer": "GALEGA",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Muito entusiasmado, animado",
+      "answer": "EUFORICO",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Campeonato vencido duas vezes",
+      "answer": "BI",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Su-sudoeste",
+      "answer": "SSO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Aplaudir insistentemente",
+      "answer": "ACLAMAR",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "Substâncias alimentícias de alto teor nutritivo",
+      "answer": "PROTEINAS",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "A cor oficial do exército brasileiro",
+      "answer": "VERDE",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Uma objeção",
+      "answer": "POREM",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "A capital Buenos",
+      "answer": "AIRES",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Clube Atético Mineiro",
+      "answer": "CAM",
+      "row": 9,
+      "col": 8
+    },
+    "36": {
+      "clue": "0",
+      "answer": "ZERO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Atraso, espera",
+      "answer": "DEMORA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Superfícies onde são penduradas prateleiras",
+      "answer": "PAREDES",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Metade de uma viagem",
+      "answer": "IDA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Outro nome da sífilis",
+      "answer": "LUES",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Casa de assistência social",
+      "answer": "ABRIGO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A UF de Formoso do Araguaia e Palmas",
+      "answer": "TO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Clínica para tratamento de distúrbios da alimentação, saúde e beleza",
+      "answer": "SPA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Larva que se alimenta de tecido, papel etc.",
+      "answer": "TRAÇA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A benfeitora de Pinóquio e Cinderela",
+      "answer": "FADA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Não permitir",
+      "answer": "PROIBIR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Nascido em Arapiraca ou Maceió",
+      "answer": "ALAGOANO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Taça para licores",
+      "answer": "CALICE",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Especificidade, cunho",
+      "answer": "CARATER",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Saliva",
+      "answer": "CUSPE",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Fenômeno solar ou lunar periódico",
+      "answer": "ECLIPSE",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Pôr revestimento interno em",
+      "answer": "FORRAR",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Fundamentar",
+      "answer": "BASEAR",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Limite",
+      "answer": "MARCO",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Sentimento de antipatia, hostilidade ou aversão",
+      "answer": "ODIO",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Ocasião em que um fato acontece",
+      "answer": "VEZ",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "A sigla inglesa da modalidade de luta de Amanda Nunes",
+      "answer": "MMA",
+      "row": 8,
+      "col": 10
+    },
+    "34": {
+      "clue": "Eletrodinâmico",
+      "answer": "ED",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

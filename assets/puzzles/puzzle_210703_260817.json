@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Acolá",
+      "answer": "ALEM",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O poeta Gonçalves, de \"Segundos Cantos\"",
+      "answer": "DIAS",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Próprio da velhice",
+      "answer": "SENIL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "A capital europeia de um país não banhado por mares ou oceanos",
+      "answer": "BERNA",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Mulheres nascidas em Essex ou Bristol",
+      "answer": "INGLESAS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O apelido da lady inglesa cuja morte abalou o mundo",
+      "answer": "DI",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Ação",
+      "answer": "ATO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Continuar depois de uma interrupção",
+      "answer": "RETOMAR",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Uma saudação informal",
+      "answer": "OLA",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Nutrir, alimentar",
+      "answer": "CEVAR",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Predizer, prognosticar",
+      "answer": "FUTURAR",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Mortal",
+      "answer": "FATAL",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Glândula que dá equilíbrio hídrico ao corpo",
+      "answer": "RIM",
+      "row": 6,
+      "col": 7
+    },
+    "26": {
+      "clue": "Grupo indígena que habita o alto do rio Xingu (MT)",
+      "answer": "JURUNAS",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "A gente",
+      "answer": "NOS",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Sufixo: autor, agente",
+      "answer": "OR",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Tornado pior",
+      "answer": "AGRAVADO",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "A Furacão personagem do romance de Roberto Drummond",
+      "answer": "HILDA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Pop.) Dirigente, mentor",
+      "answer": "LIDER",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "O crawl é o mais praticado nas piscinas",
+      "answer": "NADO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Divisão, parte",
+      "answer": "RAMO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O continente do Quirguistão e do Turcomenistão",
+      "answer": "ASIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Demorado como tartaruga",
+      "answer": "LENTO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Dirigir (barco) para uma baía",
+      "answer": "ENGOLFAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Os quilos de uma tonelada",
+      "answer": "MIL",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Pop.) Jogar cadáver em local ermo",
+      "answer": "DESOVAR",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "Locomover-se",
+      "answer": "IR",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Perambular",
+      "answer": "ANDAR",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Aparecer, surgir, romper",
+      "answer": "SAIR",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "(Inform.) Disponibilizar dados de um meio de armazenamento onde foram previamente gravados",
+      "answer": "LER",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Fechar bruscamente",
+      "answer": "BATER",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Que se celebra a cada cem anos",
+      "answer": "SECULAR",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Molho condimentado para conservar, temperar ou amaciar carnes",
+      "answer": "MARINADA",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Processado",
+      "answer": "AUTUADO",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Biquíni muito pequeno",
+      "answer": "TANGA",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Ímpeto violento",
+      "answer": "FURIA",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Conecta o computador à rede de telefonia",
+      "answer": "MODEM",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "O Travolta ator",
+      "answer": "JOHN",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Tempero branco e granuloso",
+      "answer": "SAL",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "Líquido usado na hidratação de doentes",
+      "answer": "SORO",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "Dirigir-se de lá para cá",
+      "answer": "VIR",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Lima Duarte",
+      "answer": "LD",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Aluno de Academia Militar",
+      "answer": "CADETE",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "São Paulo Futebol Clube",
+      "answer": "SPFC",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Sem conteúdo",
+      "answer": "OCO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Estar situado à margem ou beira de",
+      "answer": "ORLAR",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "(Pop.) O de galinha é um conjunto de rugas",
+      "answer": "PE",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Prancha de madeira",
+      "answer": "TABULETA",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Um contrário de alegre",
+      "answer": "INFELIZ",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Um carro da Honda brasileira",
+      "answer": "FIT",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Caminho que encurta distâncias",
+      "answer": "ATALHO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Vaso em que arde o fogo olímpico",
+      "answer": "PIRA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "A lâmina que a manicure pinta",
+      "answer": "UNHA",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "O fêmur forma o seu esqueleto",
+      "answer": "COXA",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Uma roupa para grávidas",
+      "answer": "BATA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "O estado PR",
+      "answer": "PARANA",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Parte de uma viagem",
+      "answer": "IDA",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Outro nome do totó, espécie de jogo de futebol de mesa",
+      "answer": "PEBOLIM",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Ossos que formam a caixa torácica",
+      "answer": "COSTELAS",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Segue ípsilon",
+      "answer": "ZE",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Jorrar, escorrer",
+      "answer": "MINAR",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "O Peter personagem de história infantil",
+      "answer": "PAN",
+      "row": 9,
+      "col": 8
+    },
+    "32": {
+      "clue": "A forma da bola de futebol americano",
+      "answer": "OVAL",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Ação de consertar algo",
+      "answer": "REPARO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Reprodução de um original",
+      "answer": "COPIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Saliente, proeminente",
+      "answer": "ACENTUADO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Daquele",
+      "answer": "DO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Acessório de mesa e banheiro",
+      "answer": "TOALHA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Elemento das terras raras, de símbolo Er",
+      "answer": "ERBIO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Substância abundante nas águas marinhas",
+      "answer": "SAL",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Relativo ao que é colado, preso anteriormente",
+      "answer": "PREFIXAL",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Embarcação semelhante a uma balsa",
+      "answer": "CHATA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "A claridade que vem da lanterna",
+      "answer": "LUZ",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Peça usada na cobertura de edifícios",
+      "answer": "TELHA",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Governar despoticamente",
+      "answer": "TIRANIZAR",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Aparição sobrenatural de pessoa morta",
+      "answer": "FANTASMA",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Os orifícios por onde o suor sai do corpo",
+      "answer": "POROS",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Um night-club",
+      "answer": "CABARE",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Minhoca, cabra ou passarinho",
+      "answer": "BICHO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Fazer ficar sem a casca",
+      "answer": "PELAR",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "Agradável",
+      "answer": "AMENO",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "(Drive) Dispositivo de informática",
+      "answer": "PEN",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "O acento de procissão",
+      "answer": "TIL",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "O braço de uma hélice",
+      "answer": "PA",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

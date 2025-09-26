@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Combinar data para fazer algo",
+      "answer": "ATERMAR",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "(Hot) Pão com salsicha e outros ingredientes",
+      "answer": "DOG",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Relativo à Lua",
+      "answer": "LUNAR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Fase, estágio",
+      "answer": "ETAPA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Vantagens",
+      "answer": "PROS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Diz-se de vento que sopra da terra para o mar",
+      "answer": "TERRAL",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Que não foi mexido",
+      "answer": "INTOCADO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Cabelo branco",
+      "answer": "CÃ",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "(Bíbl.) O personagem que salvou os animais numa arca",
+      "answer": "NOE",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Folga de uma tarefa cansativa",
+      "answer": "ALIVIO",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "(Gír.) Multar",
+      "answer": "CANETAR",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "(Pop.) Interessante",
+      "answer": "BACANA",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Período de 12 meses",
+      "answer": "ANO",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Letras separadas pelo T",
+      "answer": "SU",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Ferir gravemente no ventre",
+      "answer": "ESTRIPAR",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "O mês do dia dos pais",
+      "answer": "AGOSTO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Canal no organismo animal",
+      "answer": "DUTO",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Abrir buraco ou sulco",
+      "answer": "CAVAR",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Procriar",
+      "answer": "GERAR",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Cólera incontrolável",
+      "answer": "IRA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Amontoamento",
+      "answer": "ACUMULO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Do sistema montanhoso que abrange França, Suíça e Itália, dentre outros países",
+      "answer": "ALPINO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O segundo é a votação final para definição de um governante",
+      "answer": "TURNO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Coleção de garrafas de vinho",
+      "answer": "ENOTECA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "De pouca profundidade",
+      "answer": "RASO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Maria Rita, cantora paulista",
+      "answer": "MR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Publicar de novo",
+      "answer": "REEDITAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Executar, praticar (um movimento corporal)",
+      "answer": "DAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Que não se deixa atravessar pela luz",
+      "answer": "OPACO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Bonitão",
+      "answer": "GALÃ",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Composição poética popular, constituída por estrofes de quatro versos",
+      "answer": "TROVA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Aptidão natural",
+      "answer": "TALENTO",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "(Serra da) Região das nascentes do rio São Francisco",
+      "answer": "CANASTRA",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Pássaro de lindo canto",
+      "answer": "IRAPURU",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Diz-se de luz ligada",
+      "answer": "ACESA",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "O irmão de Chitãozinho, da dupla sertaneja",
+      "answer": "XORORO",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "(Gír.) Dar pane, travar (celular, computador etc.)",
+      "answer": "BUGAR",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "25 de dezembro",
+      "answer": "NATAL",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Personagem folclórico de uma perna só",
+      "answer": "SACI",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "A mesma coisa",
+      "answer": "IDEM",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Ovo de peixe",
+      "answer": "OVA",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "Um apelido para Gustavo",
+      "answer": "GU",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

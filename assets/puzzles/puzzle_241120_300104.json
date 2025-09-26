@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O continente da Somália e do Sudão",
+      "answer": "AFRICA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "A atriz filha de Procópio Ferreira",
+      "answer": "BIBI",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Uma veste de chef de cozinha",
+      "answer": "DOLMÃ",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Um dos chefes da Revolução Russa (1870-1924)",
+      "answer": "LENIN",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Unidade Federativa",
+      "answer": "UF",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Curral de porcos",
+      "answer": "POCILGA",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Bico de gás dos fogões",
+      "answer": "BOCA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "A atriz Vieira",
+      "answer": "ANGELA",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Uma maneira de demonstrar afeto",
+      "answer": "ACARINHAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "O lacrimogêneo é usado para dispersar manifestações",
+      "answer": "GAS",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Um membro da família",
+      "answer": "TIA",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "A primeira parte da viagem",
+      "answer": "IDA",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "Domador",
+      "answer": "AMANSADOR",
+      "row": 6,
+      "col": 2
+    },
+    "28": {
+      "clue": "Fruto também chamado araticum-cortiça",
+      "answer": "MAROLO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Peça que controla a entrada de líquido em caixa-d’água",
+      "answer": "BOIA",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Médico que trabalha em questões jurídicas",
+      "answer": "LEGISTA",
+      "row": 8,
+      "col": 1
+    },
+    "33": {
+      "clue": "Danny DeVito, ator de \"Batman: o Retorno\"",
+      "answer": "DD",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "Uma empresa automobilística chinesa",
+      "answer": "CHANA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Naquela ocasião",
+      "answer": "ENTÃO",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "Prêmio, acúmulo de apostas",
+      "answer": "BOLO",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Sugerir, aconselhar como útil, oportuno",
+      "answer": "PROPOR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Distribuição de fertilizantes na terra",
+      "answer": "ADUBAGEM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Mexerico",
+      "answer": "FOFOCA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Relê sem és",
+      "answer": "RL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um número como o 7 ou o 55",
+      "answer": "IMPAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A constelação da grande estrela Sírio",
+      "answer": "CÃO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "De Bruges ou Bruxelas",
+      "answer": "BELGA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Mastigado e engolido",
+      "answer": "INGERIDO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O apresentador e repórter Pedro",
+      "answer": "BIAL",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O símbolo do elemento índio, em química",
+      "answer": "IN",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Traços do rosto, do corpo",
+      "answer": "LINHAS",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Os dentes que se destacam no Drácula",
+      "answer": "CANINOS",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Conjunto de servidores subordinados ao rei",
+      "answer": "CASAREAL",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Móvel para serviços de bufê",
+      "answer": "APARADOR",
+      "row": 3,
+      "col": 10
+    },
+    "20": {
+      "clue": "O país da Toscana e da Sicília",
+      "answer": "ITALIA",
+      "row": 4,
+      "col": 4
+    },
+    "24": {
+      "clue": "(Gír.) Aquele que faz uso de entorpecentes",
+      "answer": "DOIDÃO",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Madeira nobre para móveis",
+      "answer": "MOGNO",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Leque",
+      "answer": "ABANO",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Um dente usado na alimentação",
+      "answer": "ALHO",
+      "row": 7,
+      "col": 1
+    },
+    "32": {
+      "clue": "Possuir",
+      "answer": "TER",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Colômbio, elemento químico",
+      "answer": "CB",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Tom Petty, músico de \"Free Fallin\"",
+      "answer": "TP",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

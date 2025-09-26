@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Fig.) Pessoa, indivíduo",
+      "answer": "CARA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Tradicional prato da culinária japonesa",
+      "answer": "LAMEN",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Pedra usada em camafeus",
+      "answer": "ONIX",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Flor pequena, perfumada, rosa ou branca",
+      "answer": "RESEDA",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Pancada de chuva",
+      "answer": "BATEGA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Fechar as asas (a ave), para descer mais depressa",
+      "answer": "SIAR",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Um sufixo diminutivo feminino",
+      "answer": "OTA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "A unidade monetária da Índia",
+      "answer": "RUPIA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Sair líquido em golfada",
+      "answer": "GORGOLAR",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Daqueles",
+      "answer": "DOS",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "Sinhá",
+      "answer": "SIA",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Adquirir por uso, por um período de tempo determinado por lei",
+      "answer": "USUCAPIR",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "Incrustação para restauração de um dente",
+      "answer": "BLOCO",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Uma ponta da... sanfona",
+      "answer": "ONA",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Classe, turma",
+      "answer": "SALA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Galpão para aeronaves",
+      "answer": "HANGAR",
+      "row": 8,
+      "col": 5
+    },
+    "34": {
+      "clue": "Que não se fecha a ideias novas",
+      "answer": "ABERTO",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Queijo típico da Grécia",
+      "answer": "FETA",
+      "row": 9,
+      "col": 7
+    },
+    "37": {
+      "clue": "Cobra de veneno muito violento, que tem na cabeça uma mancha em forma de âncora",
+      "answer": "URUTU",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Os satélites de Saturno e Júpiter",
+      "answer": "LUAS",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Em construção, elemento vazado que permite a entrada de luz e claridade",
+      "answer": "COBOGO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Substância corante usada em laticínios",
+      "answer": "ANATO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Abreviatura de ritardando",
+      "answer": "RITARD",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Gênero musical originário da Bahia",
+      "answer": "AXE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Mans) Cidade francesa com famoso autódromo",
+      "answer": "LE",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "O império da Ásia ocidental que correspondente ao atual Curdistão",
+      "answer": "ASSIRIA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Roupa que pode ser soquete, três-quartos etc.",
+      "answer": "MEIA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Escola de Defesa Antiaérea",
+      "answer": "EDA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A cantora capixaba Leão (1942-1989), de \"A Banda\"",
+      "answer": "NARA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "O romancista Pompéia (1863-1895)",
+      "answer": "RAUL",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Um antônimo de fino",
+      "answer": "GROSSO",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "A festa cristã em que se trocam ovos de chocolate",
+      "answer": "PASCOA",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "O político gaúcho João (1918-1976), ex-presidente da República",
+      "answer": "GOULART",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "O ponto mais afastado da órbita",
+      "answer": "APOGEU",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "(Serra das) Trecho da Serra da Mantiqueira próximo à Baixada Fluminense",
+      "answer": "ARARAS",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Sufixo: pequeno",
+      "answer": "UCHO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Congênita, natural",
+      "answer": "INATA",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "(e Jacó) Uma obra de Machado de Assis",
+      "answer": "ESAU",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Azul, em francês",
+      "answer": "BLEU",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "Abreviatura do mês 4",
+      "answer": "ABR",
+      "row": 8,
+      "col": 1
+    },
+    "33": {
+      "clue": "A sigla do futebol americano nos EUA",
+      "answer": "NFL",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "A segunda pessoa",
+      "answer": "TU",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

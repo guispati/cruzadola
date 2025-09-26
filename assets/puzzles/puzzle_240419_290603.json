@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Tornar sem beleza, de aparência desagradável",
+      "answer": "AFEAR",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "De Moscou (fem.)",
+      "answer": "RUSSA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Nacional, em Funai",
+      "answer": "NA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Uma grande empresa do ramo financeiro",
+      "answer": "CITIBANK",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "O escritor Kafka (1883-1924), de \"A Metamorfose\"",
+      "answer": "FRANZ",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Nação com capital Bamaco",
+      "answer": "MALI",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Substância protéica, constituinte da parte orgânica do tecido ósseo",
+      "answer": "OSSEINA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Índice de Preços ao Produtor",
+      "answer": "IPP",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Estilo de música popular urbana",
+      "answer": "RAP",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Que se pode sanar (uma doença)",
+      "answer": "CURAVEL",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Uma bomba muito poderosa",
+      "answer": "ATOMICA",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Escritor inglês (1888-1965), Nobel da literatura de 1948",
+      "answer": "TSELIOT",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "As iniciais do músico Gilberto (1961-2019), da Bossa Nova",
+      "answer": "JG",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Numerosas",
+      "answer": "MUITAS",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Cidade e rio do Rio Grande do Sul",
+      "answer": "IJUI",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Dizer um Pai-Nosso",
+      "answer": "ORAR",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "A sexagésima parte da hora",
+      "answer": "MINUTO",
+      "row": 8,
+      "col": 5
+    },
+    "32": {
+      "clue": "Olavo Bilac (1865-1918), poeta carioca",
+      "answer": "OB",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Cidade de São Paulo, próxima a Mogi-Mirim",
+      "answer": "ITAPIRA",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Que nos pertence",
+      "answer": "NOSSO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "As estátuas da ilha de Páscoa, no Chile",
+      "answer": "MOAIS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Antigo vaso usado para armazenar vinho, água etc.",
+      "answer": "ANFORA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Fig.) Ação que induz ao logro",
+      "answer": "FARSA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Outro nome da espinha, erupção inflamatória da pele",
+      "answer": "ACNE",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Referente à cultura do arroz",
+      "answer": "RIZICOLA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Dicionário de versos que repetem o som final de suas palavras",
+      "answer": "RIMARIO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Tipo de canoa indígena",
+      "answer": "UBA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Líquido que, segregado pelas glândulas da boca, auxilia a digestão",
+      "answer": "SALIVA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Ingl.) Um veleiro de recreio",
+      "answer": "SNIPE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(-47) Famoso fuzil russo",
+      "answer": "AK",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Cidade de SP",
+      "answer": "ASPASIA",
+      "row": 2,
+      "col": 2
+    },
+    "16": {
+      "clue": "Moeda antiga",
+      "answer": "NUMISMA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Cópia, mais ou menos disfarçada, de obra alheia",
+      "answer": "PLAGIO",
+      "row": 3,
+      "col": 10
+    },
+    "21": {
+      "clue": "O Ac dos químicos",
+      "answer": "ACTINIO",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Um jogo eletrônico de encaixe de peças",
+      "answer": "TETRIS",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Mecanismo que aumenta a potência de motores",
+      "answer": "TURBO",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Cidade do Amazonas, na região do Alto Solimões",
+      "answer": "JUTAI",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Lua, em inglês",
+      "answer": "MOON",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Promessa solene",
+      "answer": "JURA",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Inquérito Policial Militar",
+      "answer": "IPM",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Sigla do Tocantins",
+      "answer": "TO",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

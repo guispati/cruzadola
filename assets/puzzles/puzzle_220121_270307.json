@@ -1,0 +1,246 @@
+{
+  "across": {
+    "2": {
+      "clue": "Naufragar",
+      "answer": "AFUNDAR",
+      "row": 0,
+      "col": 2
+    },
+    "8": {
+      "clue": "Cervo de grandes chifres",
+      "answer": "ALCE",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Material como o chumbo",
+      "answer": "METAL",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "O maior rio do estado de São Paulo",
+      "answer": "TIETE",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Pés-de-galinha",
+      "answer": "RUGAS",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Objeto resultante do trabalho de um artista",
+      "answer": "OBRA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Lesão provocada por um agente externo",
+      "answer": "TRAUMA",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "(Fig.) Pôr em pratos limpos",
+      "answer": "ACLARAR",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Paola Carosella, chef argentina",
+      "answer": "PC",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "Teste que examina os genes",
+      "answer": "DNA",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Bastante",
+      "answer": "BEM",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "Desse lugar",
+      "answer": "DAI",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "União Europeia",
+      "answer": "UE",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Abrir a boca, por sono",
+      "answer": "BOCEJAR",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Sabido, esperto",
+      "answer": "ASTUTO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Preparado para branquear roupa lavada",
+      "answer": "ANIL",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Cidade histórica próxima a Diamantina (MG)",
+      "answer": "SERRO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Nação africana com capital Conacri",
+      "answer": "GUINE",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Tornar enxuto",
+      "answer": "SECAR",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "A atriz Leandra",
+      "answer": "LEAL",
+      "row": 9,
+      "col": 7
+    },
+    "35": {
+      "clue": "Relativo à guerra",
+      "answer": "MARCIAL",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Verdade",
+      "answer": "FATO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Próximo",
+      "answer": "ACERCA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Relativo ao feto",
+      "answer": "FETAL",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "As pontas da... nuvem",
+      "answer": "NM",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "Hemorragia (cerebral)",
+      "answer": "DERRAME",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Participar interpretando um personagem",
+      "answer": "ATUAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Carne ensopada com legumes e bastante molho",
+      "answer": "RAGU",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Nascidos no país que tem Beirute como capital",
+      "answer": "LIBANESES",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Uma lanterna rústica",
+      "answer": "LAMPARINA",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Entidade popular do nosso folclore",
+      "answer": "SACI",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "(Pop.) Uma coisa qualquer",
+      "answer": "TRECO",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Uma maneira de se fechar a camisa",
+      "answer": "ABOTOAR",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "(-peças) Biquíni",
+      "answer": "DUAS",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "O Alves jogador brasileiro de futebol",
+      "answer": "DANIEL",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "A tradicional veste da mulher afegã",
+      "answer": "BURCA",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Gaiola para animais de grande porte",
+      "answer": "JAULA",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Vagões e locomotiva",
+      "answer": "TREM",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "(Pop.) Desequilibrado, pancada",
+      "answer": "LELE",
+      "row": 7,
+      "col": 10
+    },
+    "33": {
+      "clue": "As iniciais do cantor Carlos, de \"Emoções\"",
+      "answer": "RC",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

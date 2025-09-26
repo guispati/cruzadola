@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "O Arlindo pagodeiro e compositor carioca",
+      "answer": "CRUZ",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "(Pop.) Copiar uma ideia",
+      "answer": "CHUPAR",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Exclamação de incerteza",
+      "answer": "HUM",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Conjunto de ocas",
+      "answer": "TABA",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "As iniciais do cantor espanhol Iglesias",
+      "answer": "JI",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "O aroma para a pizza",
+      "answer": "OREGANO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Sigla) Esporte feito com uma grande prancha e remo",
+      "answer": "SUP",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Que perdeu a razão devido à idade avançada",
+      "answer": "CADUCO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Corte de ramos de uma planta",
+      "answer": "PODA",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Alameda",
+      "answer": "ALEIA",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Saciar",
+      "answer": "MATAR",
+      "row": 4,
+      "col": 6
+    },
+    "19": {
+      "clue": "Tique",
+      "answer": "CACOETE",
+      "row": 5,
+      "col": 2
+    },
+    "20": {
+      "clue": "Substância com pH menor que 7 (fem.)",
+      "answer": "ACIDA",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "Que não é transparente (água)",
+      "answer": "TURVA",
+      "row": 6,
+      "col": 6
+    },
+    "25": {
+      "clue": "Tintura usada em medicina como antisséptico",
+      "answer": "IODO",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Recipiente para vinho ou chope",
+      "answer": "BARRIL",
+      "row": 7,
+      "col": 5
+    },
+    "27": {
+      "clue": "Voz dos pássaros",
+      "answer": "PIO",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Doença causada por carne de porco contaminada",
+      "answer": "TENIASE",
+      "row": 8,
+      "col": 4
+    },
+    "29": {
+      "clue": "O miolo do... bife",
+      "answer": "IF",
+      "row": 9,
+      "col": 0
+    },
+    "30": {
+      "clue": "O de rolo é semelhante a um rocambole, típico de Pernambuco",
+      "answer": "BOLO",
+      "row": 9,
+      "col": 3
+    },
+    "31": {
+      "clue": "Habilidade especial para algo",
+      "answer": "DOM",
+      "row": 9,
+      "col": 8
+    },
+    "32": {
+      "clue": "Uma capital às margens do Amazonas",
+      "answer": "MACAPA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Ponta) Importante cidade do MS",
+      "answer": "PORÃ",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Galinha que está incubando",
+      "answer": "CHOCA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Campestre, agrícola",
+      "answer": "RURAL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Levemente molhado",
+      "answer": "UMEDECIDO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Tubo",
+      "answer": "CANO",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "Famoso canal de filmes da TV paga",
+      "answer": "HBO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Unidade Astronômica",
+      "answer": "UA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Favor que se presta a alguém",
+      "answer": "AJUDA",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Pregar sarrafo",
+      "answer": "RIPAR",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Um dos carros-chefes da culinária paraense",
+      "answer": "TACACA",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Conduzido, governado",
+      "answer": "GUIADO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Coberto de terra ou de escombros",
+      "answer": "SOTERRADO",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Outro nome da ave marrequinha",
+      "answer": "PATURI",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Gás industrializado",
+      "answer": "METANO",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "Macaxeira, mandioca-doce",
+      "answer": "AIPIM",
+      "row": 6,
+      "col": 0
+    },
+    "21": {
+      "clue": "Tipo de chaminé usada sobre os fogões",
+      "answer": "COIFA",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Mostrador",
+      "answer": "VISOR",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "Nascida em Bonn ou Hannover",
+      "answer": "ALEMÃ",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Mulher bonita",
+      "answer": "BELA",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "O de linha é o carro mais completo na sua categoria",
+      "answer": "TOP",
+      "row": 8,
+      "col": 4
+    },
+    "30": {
+      "clue": "Sigla da Bahia",
+      "answer": "BA",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

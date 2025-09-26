@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Beberrão, ébrio",
+      "answer": "BEBUM",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "A corda sobre a qual equilibristas fazem apresentações",
+      "answer": "BAMBA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "A UF de João Câmara e Mossoró",
+      "answer": "RN",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Relativo às lições",
+      "answer": "LETIVO",
+      "row": 1,
+      "col": 3
+    },
+    "11": {
+      "clue": "Substância usada como corante",
+      "answer": "URUCU",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Tornar muito frio",
+      "answer": "GELAR",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Um sólido geométrico com vértice",
+      "answer": "CONE",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "A atitude estudada de quem vai ser fotografado",
+      "answer": "POSE",
+      "row": 3,
+      "col": 5
+    },
+    "16": {
+      "clue": "Inaugurar",
+      "answer": "ESTREAR",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Lasar Segall (1891-1957), pintor",
+      "answer": "LS",
+      "row": 4,
+      "col": 9
+    },
+    "19": {
+      "clue": "Reunido, adaptado",
+      "answer": "COADUNADO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Poeira",
+      "answer": "PO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Romance indianista de José de Alencar (1865)",
+      "answer": "IRACEMA",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "Uma roupa para mulheres grávidas",
+      "answer": "BATA",
+      "row": 7,
+      "col": 2
+    },
+    "27": {
+      "clue": "As bodas que comemoram 45 anos de casamento",
+      "answer": "RUBI",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Um sobrinho do meu pai",
+      "answer": "PRIMO",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Bancar, fingir",
+      "answer": "POSAR",
+      "row": 8,
+      "col": 6
+    },
+    "30": {
+      "clue": "Canteiro com rosas, dálias, gerânios etc.",
+      "answer": "JARDIM",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "Segue o cê",
+      "answer": "DE",
+      "row": 9,
+      "col": 9
+    },
+    "32": {
+      "clue": "A cantora italiana Pausini",
+      "answer": "LAURA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "(de Aquino) Um santo católico",
+      "answer": "TOMAS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O Lee (1940-1973), ícone de filmes de artes marciais",
+      "answer": "BRUCE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Obstáculo, embaraço",
+      "answer": "ENROSCO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ferida ou chaga",
+      "answer": "ULCERA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "(Malvado Favorito) Filme infantil de animação",
+      "answer": "MEU",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Utensílio de apoio para malhar e moldar metais",
+      "answer": "BIGORNA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Pardais e chupins",
+      "answer": "AVES",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Fig.) Que se comove facilmente",
+      "answer": "MOLE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(de) Depois de (no espaço)",
+      "answer": "ATRAS",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Medicamento de uso externo à base de gordura",
+      "answer": "UNTO",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Muito medo, pavor",
+      "answer": "PAURA",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Empresa que publica livros",
+      "answer": "EDITORA",
+      "row": 4,
+      "col": 4
+    },
+    "18": {
+      "clue": "Redutor de velocidade",
+      "answer": "LOMBADA",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "Sem cor",
+      "answer": "ACROMO",
+      "row": 5,
+      "col": 7
+    },
+    "21": {
+      "clue": "(Rel.) Ente supremo",
+      "answer": "DEUS",
+      "row": 5,
+      "col": 8
+    },
+    "22": {
+      "clue": "Pode ser higiênico, crepom etc.",
+      "answer": "PAPEL",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "A capital americana Buenos",
+      "answer": "AIRES",
+      "row": 6,
+      "col": 10
+    },
+    "25": {
+      "clue": "Bolo feito com massa de mandioca",
+      "answer": "BIJU",
+      "row": 7,
+      "col": 2
+    },
+    "26": {
+      "clue": "Gostar muito de",
+      "answer": "AMAR",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "(Bull) Cão de combate",
+      "answer": "PIT",
+      "row": 8,
+      "col": 6
+    }
+  }
+}

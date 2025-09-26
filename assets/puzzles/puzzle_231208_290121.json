@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Sacudir o pó de",
+      "answer": "ESPANAR",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Serviço de Proteção ao Crédito",
+      "answer": "SPC",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Estado cuja capital é Augusta, noS EUA",
+      "answer": "MAINE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Invenção",
+      "answer": "IDEIA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Sinal sonoro breve produzido por aparelho eletrônico",
+      "answer": "BIPE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Med.) Retirar, através de certo tubo, líquidos e gases retidos no organismo",
+      "answer": "DRENAR",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Que não se deixa domesticar",
+      "answer": "ARISCO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Entra por ele quem se dá mal",
+      "answer": "CANO",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Interjeição que expressa concordância",
+      "answer": "TA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Uma parte do PC",
+      "answer": "TECLADO",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Um filme apresentado em partes",
+      "answer": "SERIADO",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Vazante da maré",
+      "answer": "JUSANTE",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "501, em algarismos romanos",
+      "answer": "DI",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Grupo que julga",
+      "answer": "JURI",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "O médico Gerhard (1841-1912); descobridor do bacilo da lepra",
+      "answer": "HANSEN",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "Maluco",
+      "answer": "ALUADO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Método de tratamento",
+      "answer": "CURA",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "Um tipo de nuvem",
+      "answer": "CIRRO",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Cidade litorânea estadunidense, na Flórida",
+      "answer": "MIAMI",
+      "row": 9,
+      "col": 6
+    },
+    "33": {
+      "clue": "Interjeição de grande admiração",
+      "answer": "UAU",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Dentes que permitem esmagar alimentos",
+      "answer": "MOLARES",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Choque violento",
+      "answer": "EMBATE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Pássaro da família do sanhaço",
+      "answer": "SAIRA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Inf.) Xixi",
+      "answer": "PIPI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Privar de sensibilidade",
+      "answer": "ANESTESIAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O lado oposto ao SO, na rosa dos ventos",
+      "answer": "NE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Tratar (alguém ou algo) com desdém",
+      "answer": "RIR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Um ramo do Parlamento",
+      "answer": "SENADO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O instrumento de Bach e Duke Ellington",
+      "answer": "PIANO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Muito estimado",
+      "answer": "CARO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Ato de ir abaixo",
+      "answer": "DECADENCIA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "(Cul.) Alimento açucarado para se pegar com a mão, comum em festas",
+      "answer": "DOCINHO",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "(Pop.) Catimba",
+      "answer": "CERA",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Embalagem para atum",
+      "answer": "LATA",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Molusco também chamado mexilhão-das-pedras",
+      "answer": "SURURU",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "As competições derradeiras de um campeonato esportivo",
+      "answer": "FINAIS",
+      "row": 5,
+      "col": 10
+    },
+    "23": {
+      "clue": "A atriz Roberts, de \"Uma Linda Mulher\" e \"Noiva em Fuga\"",
+      "answer": "JULIA",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "A segunda camada da pele",
+      "answer": "DERME",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Ave galinácea do Brasil",
+      "answer": "JACU",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Transpirar",
+      "answer": "SUAR",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Poder de realizar algo bom ou ruim (ironicamente, no último caso)",
+      "answer": "DOM",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Marco Luque, humorista",
+      "answer": "ML",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

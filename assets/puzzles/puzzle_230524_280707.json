@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Qualidade do que é suave ao tato",
+      "answer": "MACIEZ",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Do \"Continente Negro\"",
+      "answer": "AFRO",
+      "row": 0,
+      "col": 7
+    },
+    "11": {
+      "clue": "Referente a representações teatrais",
+      "answer": "CENICO",
+      "row": 1,
+      "col": 1
+    },
+    "13": {
+      "clue": "Partícula molecular carregada de eletricidade",
+      "answer": "ION",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Vaso para água",
+      "answer": "JARRA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Pura, imaculada",
+      "answer": "CASTA",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Uma cidade do Rio Grande do Sul",
+      "answer": "IJUI",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Recipiente usado para armazenagem de cereais",
+      "answer": "TULHA",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Exclamação que expressa incerteza e incredulidade",
+      "answer": "HUM",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Outro nome da salsa-do-monte",
+      "answer": "AIPO",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Sigla do estado de Araruama",
+      "answer": "RJ",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Empresa Brasileira de Aeronáutica",
+      "answer": "EMBRAER",
+      "row": 5,
+      "col": 2
+    },
+    "26": {
+      "clue": "Distrito Policial",
+      "answer": "DP",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Cheiro desagradável",
+      "answer": "ODOR",
+      "row": 6,
+      "col": 3
+    },
+    "29": {
+      "clue": "Abreviatura da esporte",
+      "answer": "ESP",
+      "row": 6,
+      "col": 8
+    },
+    "31": {
+      "clue": "Vínculos afetivos, morais",
+      "answer": "LAÇOS",
+      "row": 7,
+      "col": 1
+    },
+    "33": {
+      "clue": "O ator de novelas Reymond",
+      "answer": "CAUÃ",
+      "row": 7,
+      "col": 7
+    },
+    "34": {
+      "clue": "Fibra têxtil artificial",
+      "answer": "RAIOM",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "O oposto de gordo",
+      "answer": "MAGRO",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "Pessoa com Deficiência",
+      "answer": "PCD",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Tornar mais brando",
+      "answer": "EMOLIR",
+      "row": 9,
+      "col": 4
+    },
+    "39": {
+      "clue": "(Abre.) O contrário de feminino",
+      "answer": "MASC",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "(Montes) Cidade do norte do estado de Minas",
+      "answer": "CLAROS",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Uma cor de tinta para pintar os cabelos",
+      "answer": "ACAJU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Cera do ouvido",
+      "answer": "CERUME",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Rel.) Inscrição que Pilatos pôs na Santa Cruz",
+      "answer": "INRI",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Estudo de Impacto Ambiental",
+      "answer": "EIA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "As iniciais do apresentador de TV Camargo",
+      "answer": "ZC",
+      "row": 0,
+      "col": 5
+    },
+    "8": {
+      "clue": "Peixe, em inglês",
+      "answer": "FISH",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Descrever órbita circular",
+      "answer": "ROTAR",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Ão feminino",
+      "answer": "ONA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Fazer (alguém) executar tarefas",
+      "answer": "OCUPAR",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Guerra santa muçulmana",
+      "answer": "JIHAD",
+      "row": 2,
+      "col": 0
+    },
+    "16": {
+      "clue": "Outro nome da babosa",
+      "answer": "ALOE",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "Disparos de arma de fogo",
+      "answer": "TIROS",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "A maior cavidade visceral do corpo humano",
+      "answer": "ABDOME",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Nação com capital Tóquio",
+      "answer": "JAPÃO",
+      "row": 4,
+      "col": 10
+    },
+    "24": {
+      "clue": "Novo, jovem",
+      "answer": "MOÇO",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Entrar em reação química",
+      "answer": "REAGIR",
+      "row": 5,
+      "col": 8
+    },
+    "27": {
+      "clue": "Cada um dos eletrodos de uma válvula eletrônica",
+      "answer": "PLACA",
+      "row": 6,
+      "col": 1
+    },
+    "30": {
+      "clue": "Imundície, lixo",
+      "answer": "SURRO",
+      "row": 6,
+      "col": 9
+    },
+    "32": {
+      "clue": "Uma síndrome do sistema imunológico",
+      "answer": "AIDS",
+      "row": 7,
+      "col": 2
+    },
+    "33": {
+      "clue": "Pequena enseada entre rochedos",
+      "answer": "CALA",
+      "row": 7,
+      "col": 7
+    },
+    "34": {
+      "clue": "Grupo de pop rock dos anos 80, fez sucesso com \"Olhar 43\"",
+      "answer": "RPM",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Fisioq.) Molécula-grama",
+      "answer": "MOL",
+      "row": 8,
+      "col": 6
+    },
+    "38": {
+      "clue": "Macaulay Culkin, ator de \"Esqueceram de Mim\"",
+      "answer": "MC",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

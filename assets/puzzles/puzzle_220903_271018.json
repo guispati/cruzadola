@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Grupo de alunos de uma mesma sala",
+      "answer": "CLASSE",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Peixe parecido com a piranha",
+      "answer": "PACU",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "O símbolo do hólmio",
+      "answer": "HO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Particularidade",
+      "answer": "PORMENOR",
+      "row": 1,
+      "col": 3
+    },
+    "13": {
+      "clue": "Mãe de potros",
+      "answer": "EGUA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Automóvel fabricado pela VW",
+      "answer": "VIRTUS",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Final",
+      "answer": "FIM",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Relativo ao lar, à vida doméstica",
+      "answer": "CASEIRO",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Em + ela",
+      "answer": "NELA",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Um pouquinho",
+      "answer": "TICO",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Aquele que negocia US$ no mercado paralelo",
+      "answer": "DOLEIRO",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Tempo com falta de chuvas",
+      "answer": "SECA",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "(Gír.) Indivíduo",
+      "answer": "CARA",
+      "row": 6,
+      "col": 6
+    },
+    "25": {
+      "clue": "Oferenda a Exu, feita nas encruzilhadas",
+      "answer": "MACUMBA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Bull) Cão de combate de grande força",
+      "answer": "PIT",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Sacudir",
+      "answer": "AGITAR",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "A extremidade do leme nos barcos",
+      "answer": "POPA",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "Secreção de suor",
+      "answer": "SUDORESE",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Instituto Butantan",
+      "answer": "IB",
+      "row": 9,
+      "col": 9
+    },
+    "34": {
+      "clue": "Mais ruim",
+      "answer": "PIOR",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Notícia mais recente",
+      "answer": "ULTIMA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Pal. fr.) Cozinheiro de um restaurante",
+      "answer": "CHEF",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Inform., ingl.) Nome de identificação de um usuário",
+      "answer": "LOGIN",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Clínica de saúde e beleza",
+      "answer": "SPA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Deserto",
+      "answer": "SO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Vegetação que cresce espontaneamente",
+      "answer": "ERVA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Árvore de frutos muito apreciados",
+      "answer": "PEREIRA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Substância defensiva elaborada pelo organismo",
+      "answer": "ANTICORPO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Pele de boi",
+      "answer": "COURO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "No jogo do bicho, o 23º grupo",
+      "answer": "URSO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Atitude contemplativa do espírito",
+      "answer": "MISTICA",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Levemente molhado",
+      "answer": "UMEDECIDO",
+      "row": 2,
+      "col": 2
+    },
+    "17": {
+      "clue": "Outro nome da lula",
+      "answer": "CALAMAR",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Leitor de notícias no rádio e televisão",
+      "answer": "LOCUTOR",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Um pequeno primata",
+      "answer": "SAGUI",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Macaxeira, mandioca-doce",
+      "answer": "AIPIM",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Sigla de um museu paulistano",
+      "answer": "MASP",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Substância usada para calafetar",
+      "answer": "BREU",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "Arraial indígena",
+      "answer": "TABA",
+      "row": 7,
+      "col": 10
+    },
+    "30": {
+      "clue": "Polímero usado na produção de frascos",
+      "answer": "PET",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Sérgio Loroza, ator",
+      "answer": "SL",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

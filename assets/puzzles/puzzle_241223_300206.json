@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um grande sucesso da MPB",
+      "answer": "VAIPASSAR",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Depende da matriz",
+      "answer": "FILIAL",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "Um índice de soluções químicas",
+      "answer": "PH",
+      "row": 1,
+      "col": 9
+    },
+    "11": {
+      "clue": "Registro Civil",
+      "answer": "RC",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Que contém ouro",
+      "answer": "AURIFERO",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Documento de Ordem de Crédito",
+      "answer": "DOC",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Um alto cargo administrativo",
+      "answer": "DIRETOR",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Princípio, começo",
+      "answer": "INICIO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Atividade profissional",
+      "answer": "RAMO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Transpiração",
+      "answer": "SUOR",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Erva usada para alimentar animais",
+      "answer": "FENO",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "O de Bia é Beatriz",
+      "answer": "NOME",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "País da África com capital Maseru",
+      "answer": "LESOTO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Encorajar",
+      "answer": "ALENTAR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "A sigla de Lesão por Esforço Repetitivo",
+      "answer": "LER",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Que se estende pelo chão",
+      "answer": "RASTEIRO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Ronald Golias (1929-2005), humorista",
+      "answer": "RG",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Dilermando Reis (1916-1977), violonista",
+      "answer": "DR",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Ingl.) Chamada de uma  empresa para correção de falha em produto",
+      "answer": "RECALL",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Salário, remuneração",
+      "answer": "HONORARIO",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O Giuseppe (1813-1901), compositor da ópera \"Aída\"",
+      "answer": "VERDI",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Instituto Federal",
+      "answer": "IF",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Índio jovem",
+      "answer": "PIA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Referir-se",
+      "answer": "ALUDIR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Pão redondo e achatado, sem fermento",
+      "answer": "SIRIO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Caber em sorte",
+      "answer": "SAIR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O segundo-tenente de antigamente",
+      "answer": "ALFERES",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Gênero musical popular originário do RJ",
+      "answer": "CHORO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "(Ingl.) Organizador de festas e eventos",
+      "answer": "PROMOTER",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Confortar, principalmente com palavras",
+      "answer": "CONSOLAR",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Combustível",
+      "answer": "ETANOL",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Medo de que a pessoa amada dedique seu afeto a outra pessoa (pl.)",
+      "answer": "CIUMES",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Erva usada no tempero de carnes e peixes",
+      "answer": "COENTRO",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Calçar os pés do cavalo",
+      "answer": "FERRAR",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Erva de flores rosa-púrpura, usada em óleos aromáticos",
+      "answer": "NARDO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Leigo",
+      "answer": "LAICO",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Uma parte do corpo como o fígado",
+      "answer": "ORGÃO",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "(Red., ingl.) Adolescente",
+      "answer": "TEEN",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Saudação entre amigos",
+      "answer": "OLA",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "(Quím.) O laurêncio",
+      "answer": "LR",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

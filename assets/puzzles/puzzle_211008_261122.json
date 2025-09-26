@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Inflamação do órgão linfoide da garganta",
+      "answer": "AMIGDALITE",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "O conjunto das folhas de uma planta",
+      "answer": "RAMA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Desprovido de boas maneiras",
+      "answer": "RUDE",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Ainda",
+      "answer": "ATE",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Abastecimento do cartucho de uma impressora",
+      "answer": "RECARGA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "(Fig.) Mudar de opinião, de partido",
+      "answer": "BANDEAR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "O reino de Netuno",
+      "answer": "MAR",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Referido anteriormente",
+      "answer": "SUPRADITO",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Banho de vapor de água quente",
+      "answer": "SAUNA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "O animal que puxa o trenó do Papai Noel",
+      "answer": "RENA",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Carvão aceso, incandescente",
+      "answer": "BRASA",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Taxa cobrada por atraso no pagamento de uma dívida",
+      "answer": "MORA",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Senhora",
+      "answer": "SRA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Líquido que se espreme dos frutos",
+      "answer": "SUCO",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Inezita Barroso (1925-2015), cantora e apresentadora",
+      "answer": "IB",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Animal de cornos ramificados, pernas longas e cauda curta",
+      "answer": "VEADO",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "(Golpe do) Casamento por dinheiro",
+      "answer": "BAU",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Extasiado",
+      "answer": "INEBRIADO",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Lição ministrada por um professor",
+      "answer": "AULA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Guarnecido com borda",
+      "answer": "ORLADO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Povos que habitam a maior península da Terra",
+      "answer": "ARABES",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Bosque",
+      "answer": "MATA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Quantitativamente ilimitado",
+      "answer": "IMENSURAVEL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Ginástica Artística",
+      "answer": "GA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Refinar o açúcar",
+      "answer": "AREAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Fig.) Atingir, colher (algo prazeroso)",
+      "answer": "LUCRAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "A primeira parte de uma viagem",
+      "answer": "IDA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Fim",
+      "answer": "TERMINO",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "Arte divinatória através de cartas",
+      "answer": "TARO",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "(Fig.) Reler, rever matéria estudada",
+      "answer": "REPASSAR",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Porção de bichanos",
+      "answer": "GATARIA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Colina de areia",
+      "answer": "DUNA",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "(Ingl.) Diz-se de clipe feito para apresentação comercial",
+      "answer": "DEMO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Abreviatura do mês que antecede maio",
+      "answer": "ABR",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Parte sonora de um filme",
+      "answer": "AUDIO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Uso excessivo de algo",
+      "answer": "ABUSO",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Dispositivo para diminuir a resistência do ar nos carros",
+      "answer": "SAIA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Filtrar",
+      "answer": "COAR",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Exclamação para demonstrar alegria, surpresa",
+      "answer": "EBA",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Caridosa",
+      "answer": "BOA",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "Despido",
+      "answer": "NU",
+      "row": 9,
+      "col": 1
+    },
+    "36": {
+      "clue": "(Abrev.) Decilitro",
+      "answer": "DL",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

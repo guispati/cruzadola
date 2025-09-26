@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Fazer perder o uso da razão",
+      "answer": "AMALUCAR",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Érico Veríssimo (1905-1975), autor de \"O Tempo e o Vento\"",
+      "answer": "EV",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "A forma do que é sagital",
+      "answer": "SETA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O oposto ao lado correto",
+      "answer": "AVESSO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Entrar em crise psicótica",
+      "answer": "SURTAR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "O filho da filha",
+      "answer": "NETO",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Indígena de grande tribo amazônica",
+      "answer": "IANOMAMI",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Um quarto de quarenta",
+      "answer": "DEZ",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Da abertura da laringe em que se forma a voz",
+      "answer": "GLOTICO",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Ordem de Pagamento",
+      "answer": "OP",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "1/1000 de mm",
+      "answer": "MICRO",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "A UF de Cruzeiro do Sul e Xapuri",
+      "answer": "AC",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "(Pop.) Brincar",
+      "answer": "ROSETAR",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Vantagem",
+      "answer": "PRO",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Falta total de combustível, resultando em parada do veículo",
+      "answer": "PANESECA",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Desidratado",
+      "answer": "SECO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Expressar por meio de cantigas",
+      "answer": "TROVAR",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Agravar-se (o estado de saúde)",
+      "answer": "PIORAR",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Palavra com que se designa uma pessoa, uma cidade etc.",
+      "answer": "NOME",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "Ataulfo Alves (1909-1969), músico",
+      "answer": "AA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Dar posse",
+      "answer": "APODERAR",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Aquele que submete à ação do fogo",
+      "answer": "ASSADOR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um pronome possessivo masculino",
+      "answer": "MEU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A profissão de Marina Ruy Barbosa",
+      "answer": "ATRIZ",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Uma embalagem para ervilhas",
+      "answer": "LATA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Atriz carioca de \"Garota do Momento\"",
+      "answer": "CAROLCASTRO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Abrev.) Avenida",
+      "answer": "AV",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O humorista Aragão, o Didi",
+      "answer": "RENATO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Fig.) Prolongar",
+      "answer": "ESTICAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Viagem aérea",
+      "answer": "VOO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Pref.: metade",
+      "answer": "SEMI",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "(Med.) Inflamação de um vaso sanguíneo ou linfático",
+      "answer": "ANGITE",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "O oposto de nascer",
+      "answer": "MORRER",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Aventura fabulosa",
+      "answer": "EPOPEIA",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Aparecer à memória ou ao pensamento",
+      "answer": "OCORRER",
+      "row": 4,
+      "col": 10
+    },
+    "23": {
+      "clue": "Espécie de candelabro, com vários braços",
+      "answer": "MENORA",
+      "row": 5,
+      "col": 3
+    },
+    "26": {
+      "clue": "Embalagem usada para comercializar farinha",
+      "answer": "SACO",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Grande repugnância",
+      "answer": "PAVOR",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "A forma da casquinha do sorvete",
+      "answer": "CONE",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Um tipo de clínica",
+      "answer": "SPA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Patroa",
+      "answer": "AMA",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "Adélia Prado, poetisa",
+      "answer": "AP",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

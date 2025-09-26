@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O planeta entre a Terra e Júpiter",
+      "answer": "MARTE",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Cola feita de farinha de trigo ou de qualquer outro polvilho",
+      "answer": "GRUDE",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Uma plantação de frutas",
+      "answer": "AMEIXAL",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "(Rel.) O armador da Arca",
+      "answer": "NOE",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Frase ou comportamento errado ou completamente inoportuno",
+      "answer": "RATA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Termo inglês que designa sala de estar",
+      "answer": "LIVING",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "O de 1945 marcou o fim da Segunda Guerra Mundial",
+      "answer": "ANO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Pop.) Gole",
+      "answer": "BICADA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Seguem o R",
+      "answer": "ST",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Alimentado, nutrido",
+      "answer": "COMIDO",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Jogador de \"pingue-pongue\"",
+      "answer": "MESATENISTA",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Um combustível para reatores nucleares",
+      "answer": "URANIO",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Ronald Golias (1929-2005), humorista",
+      "answer": "RG",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Em romanos é XXX",
+      "answer": "TRINTA",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Dispositivo Intrauterino",
+      "answer": "DIU",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Mulher peixe",
+      "answer": "SEREIA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "O Sul é a região composta por Uruguai, Argentina e Chile",
+      "answer": "CONE",
+      "row": 8,
+      "col": 7
+    },
+    "30": {
+      "clue": "Sigla inglesa do país de NY e LA",
+      "answer": "USA",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Julgamento positivo ou negativo",
+      "answer": "CRITICA",
+      "row": 9,
+      "col": 4
+    },
+    "33": {
+      "clue": "Margem, extremidade",
+      "answer": "BORDA",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Pop.) Acelerar muito o automóvel",
+      "answer": "PISAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Estado de apatia",
+      "answer": "MARASMO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Pessoa que tem inclinação por alguma coisa em especial",
+      "answer": "AMANTE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Íntegro",
+      "answer": "RETO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Pop.) Tratamento que se dá a mulher de certa idade e cujo nome se ignora",
+      "answer": "TIA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Prefixo: fora de",
+      "answer": "EX",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Trepadeira de flores vistosas, cultivada como ornamental",
+      "answer": "GLICINIA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "A da Tijuca é uma grande escola de samba carioca",
+      "answer": "UNIDOS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A Flor tinha dois maridos, na obra de Jorge Amado",
+      "answer": "DONA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Abrev.) Exame que registra as variações do potencial elétrico do cérebro",
+      "answer": "EEG",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Dar de comer",
+      "answer": "ALIMENTAR",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Que não faz nada",
+      "answer": "VADIO",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Uma ciência natural",
+      "answer": "BOTANICA",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Um buraco no dente",
+      "answer": "CARIE",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Andar ao léu",
+      "answer": "VAGUEAR",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Espancar",
+      "answer": "SURRAR",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Qualquer abertura, rachadura estreita",
+      "answer": "TRINCA",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Rijo",
+      "answer": "TESO",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "2",
+      "answer": "DOIS",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Pref.: inferioridade",
+      "answer": "SUB",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Uma unidade hospitalar",
+      "answer": "CTI",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Imposto Predial",
+      "answer": "IP",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

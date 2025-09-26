@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "A menina que visita o \"país das maravilhas\"",
+      "answer": "ALICE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Um grande bairro da cidade de SP",
+      "answer": "ITAIM",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "O Alexandre ator paranaense",
+      "answer": "NERO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O povo que construiu Machu Picchu, no Peru",
+      "answer": "INCA",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "(de Aquino) Famoso santo da Igreja Católica",
+      "answer": "TOMAS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Provocar mau-humor",
+      "answer": "AMUAR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Improrrogável",
+      "answer": "INADIAVEL",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Que se deixou como estava",
+      "answer": "INALTERADO",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Escola de Defesa Antiaérea",
+      "answer": "EDA",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Medroso, sem coragem",
+      "answer": "VIL",
+      "row": 5,
+      "col": 4
+    },
+    "21": {
+      "clue": "O cineasta estadunidense Howard, de \"O Código Da Vinci\"",
+      "answer": "RON",
+      "row": 5,
+      "col": 8
+    },
+    "22": {
+      "clue": "O tenor espanhol José",
+      "answer": "CARRERAS",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "A terceira nota da escala natural de dó",
+      "answer": "MI",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Zilka Salaberry (1917-2005), atriz",
+      "answer": "ZS",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Que contém U",
+      "answer": "URANOSO",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "Cidade catarinense da região de Rio do Sul, no vale do Itajaí",
+      "answer": "IBIRAMA",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "A parte de dentro, o interior de alguma coisa",
+      "answer": "MIOLO",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Parecer de um especialista",
+      "answer": "LAUDO",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Uma planta usada como condimento",
+      "answer": "AIPO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Que possui pouca flexibilidade",
+      "answer": "RIJO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Prefixo que indica ação contrária",
+      "answer": "ANTI",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(da Silva) Um dos grandes jogadores de futebol do Brasil",
+      "answer": "LEONIDAS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Unir por laços fraternos",
+      "answer": "IRMANAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Água filtrada para barrela",
+      "answer": "COADA",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "(Ingl.) Dispositivo que avisa o final de um tempo preestabelecido",
+      "answer": "TIMER",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Não validar um gol",
+      "answer": "ANULAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Palmeira cultivada em vasos",
+      "answer": "ICA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O Guglielmo (1874-1937) inventor italiano",
+      "answer": "MARCONI",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "O locutor de rádio mineiro José",
+      "answer": "SILVERIO",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Plantação de árvores, cujo fruto produzido encerra uma amêndoa comestível",
+      "answer": "AVELANAL",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Usar o revólver",
+      "answer": "ATIRAR",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Catedral",
+      "answer": "DOMO",
+      "row": 4,
+      "col": 9
+    },
+    "19": {
+      "clue": "Doença cutânea caracterizada por pústulas, escamas etc.",
+      "answer": "ECZEMA",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "A moeda da Rússia",
+      "answer": "RUBLO",
+      "row": 6,
+      "col": 3
+    },
+    "24": {
+      "clue": "Adicionar, juntar",
+      "answer": "SOMAR",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Pequeno macaco, de cauda felpuda e comprida",
+      "answer": "SAUI",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Três letras que ficam juntas no lado direito do teclado",
+      "answer": "IOP",
+      "row": 8,
+      "col": 2
+    },
+    "30": {
+      "clue": "(Red.) Parque onde podem ser vistos jacarés e veados",
+      "answer": "ZOO",
+      "row": 8,
+      "col": 10
+    },
+    "32": {
+      "clue": "Dois, em algarismos romanos",
+      "answer": "II",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "Disc Jockey",
+      "answer": "DJ",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

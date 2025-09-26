@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Fugir da prisão",
+      "answer": "EVADIR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Algo proibido por motivos sagrados",
+      "answer": "TABU",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "O número de jogadores de uma equipe de polo aquático",
+      "answer": "SETE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Adornar de penas",
+      "answer": "PLUMAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Situação problemática, com apenas três modos de solução",
+      "answer": "TRILEMA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Orçamento Geral da União",
+      "answer": "OGU",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Avesso",
+      "answer": "INVES",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "O poeta fluminense Luís (1861-1929), da ABL",
+      "answer": "MURAT",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Voz do gato",
+      "answer": "MIO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "O antônimo de rico",
+      "answer": "POBRE",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Rabo de... avestruz",
+      "answer": "UZ",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Do país cuja capital é Acra",
+      "answer": "GANENSE",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Outro nome do peixe bagre",
+      "answer": "JANDIA",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Tecnologia da Informação",
+      "answer": "TI",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Receber, aceitar",
+      "answer": "ACOLHER",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "O jornalista e ex-apresentador de TV Moreira",
+      "answer": "CID",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "O Ouro Preto, cantor da banda \"Capital Inicial\"",
+      "answer": "DINHO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Que não reflete a luz, sem brilho",
+      "answer": "OPACO",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Interjeição típica do sul, exprime admiração ou espanto",
+      "answer": "OIGALE",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "A atriz e cantora Mariana",
+      "answer": "RIOS",
+      "row": 9,
+      "col": 7
+    },
+    "37": {
+      "clue": "O Sena corta Paris",
+      "answer": "RIO",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Aguçar (faca, canivete etc.)",
+      "answer": "AFIAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Que incita, provoca, fomenta",
+      "answer": "ESTIMULADOR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Substância usada para proteger metais, madeiras, etc.",
+      "answer": "VERNIZ",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Em filosofia, que possui a faculdade de agir livremente",
+      "answer": "ATIVO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Daquele homem",
+      "answer": "DELE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Grupo de pop rock dos anos 80, fez sucesso com \"Olhar 43\"",
+      "answer": "RPM",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Precede ele",
+      "answer": "TU",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Outro nome do carrapicho, planta com pequenos espinhos que aderem às roupas",
+      "answer": "AMORES",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Fruto carnudo e arredondado",
+      "answer": "BAGA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Serpente de veneno muito violento",
+      "answer": "URUTU",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Aquele que passa a língua sobre algo",
+      "answer": "LAMBEIRO",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Nascida no país europeu que tem Madri como capital",
+      "answer": "ESPANHOLA",
+      "row": 2,
+      "col": 4
+    },
+    "18": {
+      "clue": "A mais moderna é a biométrica",
+      "answer": "URNA",
+      "row": 3,
+      "col": 7
+    },
+    "21": {
+      "clue": "Em que lugar?",
+      "answer": "ONDE",
+      "row": 4,
+      "col": 5
+    },
+    "23": {
+      "clue": "(-preta) Tubarão das águas tropicais, também chamado machote",
+      "answer": "GALHA",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Relativo ao perfil moral",
+      "answer": "ETICO",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Espécie de samba rural, de origem africana",
+      "answer": "JONGO",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "O oposto de jovem",
+      "answer": "IDOSO",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "103, em algarismos romanos",
+      "answer": "CIII",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Ir ao chão",
+      "answer": "CAIR",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "(burro) Muito",
+      "answer": "PRA",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "As letras que separam o D e o G",
+      "answer": "EF",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "O de feijão é um prato típico de MG",
+      "answer": "TUTU",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "Filma e tira fotos",
+      "answer": "CAMERA",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Fraudulenta, ilusória",
+      "answer": "ENGANOSA",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Dar lustro a",
+      "answer": "POLIR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Macaxeira, mandioca-doce",
+      "answer": "AIPIM",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Mover-se na água",
+      "answer": "NADAR",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "12",
+      "answer": "DOZE",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Arthur Zanetti, ginasta",
+      "answer": "AZ",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Tornar célebre",
+      "answer": "AFAMAR",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Pele do rosto",
+      "answer": "TEZ",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Apartamento",
+      "answer": "APE",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Interjeição que designa espanto",
+      "answer": "OPA",
+      "row": 5,
+      "col": 8
+    },
+    "26": {
+      "clue": "Sensação de satisfação",
+      "answer": "AGRADO",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "O símbolo do érbio, elemento químico",
+      "answer": "ER",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "Massa de fubá cozido em água e sal",
+      "answer": "ANGU",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Fecho de correr usado em mochilas",
+      "answer": "ZIPER",
+      "row": 7,
+      "col": 5
+    },
+    "34": {
+      "clue": "Sequência ininterrupta",
+      "answer": "SERIE",
+      "row": 8,
+      "col": 0
+    },
+    "36": {
+      "clue": "Que existe",
+      "answer": "ATUAL",
+      "row": 8,
+      "col": 6
+    },
+    "38": {
+      "clue": "Chamar a atenção de forma enérgica",
+      "answer": "CENSURAR",
+      "row": 9,
+      "col": 1
+    },
+    "40": {
+      "clue": "Matéria-prima para fumantes",
+      "answer": "TABACO",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "O Samuel do \"Skank\"",
+      "answer": "ROSA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Que ocupa a posição mais elevada",
+      "answer": "TOP",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Tecido sobre o qual se pinta um quadro",
+      "answer": "TELA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Ligada, presa",
+      "answer": "UNIDA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "K",
+      "answer": "CA",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "A apresentadora de TV Paula Padrão",
+      "answer": "ANA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Diz-se da carne usada no quibe",
+      "answer": "MOIDA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Um tipo de semente unicelular e uninuclear",
+      "answer": "ESPORO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A parte da planta que se desenvolve debaixo da terra",
+      "answer": "RAIZ",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Escrever",
+      "answer": "GRAFAR",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Dezesseis menos cinco",
+      "answer": "ONZE",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Adoçar em demasia",
+      "answer": "MELAR",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Jovem",
+      "answer": "RAPAZ",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "(de) Em posição inferior ou secundária",
+      "answer": "ATRAS",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Ser interposto",
+      "answer": "MEDIAR",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "A capital da Croácia, país europeu",
+      "answer": "ZAGREB",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "",
+      "answer": "PERA",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Mudança súbita de direção",
+      "answer": "GUINA",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "Escolher",
+      "answer": "OPTAR",
+      "row": 6,
+      "col": 7
+    },
+    "31": {
+      "clue": "(Gír.) Coisa nenhuma, nada",
+      "answer": "NECA",
+      "row": 7,
+      "col": 1
+    },
+    "33": {
+      "clue": "A moeda da Polônia, Portugal e Dinamarca",
+      "answer": "EURO",
+      "row": 7,
+      "col": 8
+    },
+    "35": {
+      "clue": "Fica no extremo superior esquerdo do teclado",
+      "answer": "ESC",
+      "row": 8,
+      "col": 4
+    },
+    "37": {
+      "clue": "O astro que fica a pouco mais de 380.000 quilômetros da Terra",
+      "answer": "LUA",
+      "row": 8,
+      "col": 10
+    },
+    "39": {
+      "clue": "Unidade Orçamentária",
+      "answer": "UO",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Renovação do ar",
+      "answer": "AERAÇÃO",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "(Matem.) Símbolo da função trigonométrica cotangente",
+      "answer": "COT",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Um jogo de cartas disputado por duas duplas",
+      "answer": "TRUCO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Veado",
+      "answer": "CERVO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "(Pop.) Chuva",
+      "answer": "REGA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Habituais, usuais",
+      "answer": "COMUNS",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Um clássico de Chico Buarque",
+      "answer": "ABANDA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Flutuador",
+      "answer": "BOIA",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Prolongar",
+      "answer": "SUSTENTAR",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "(do Chão) Distrito de Santarém (PA), possui lindas praias de água doce",
+      "answer": "ALTER",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Razoável, plausível",
+      "answer": "ACEITAVEL",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Coisa, ser",
+      "answer": "ENTE",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Monte, morro",
+      "answer": "COLINA",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "Descrição",
+      "answer": "RELATO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "O Robin, lendário herói inglês da Idade Média",
+      "answer": "HOOD",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "(Fr.) Apático, indiferente",
+      "answer": "BLASE",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Quebrar (uma empresa)",
+      "answer": "FALIR",
+      "row": 9,
+      "col": 6
+    },
+    "34": {
+      "clue": "Conjunto inglês de rock, de sucesso nos anos 70 e 80",
+      "answer": "YES",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Cidade italiana famosa por seu mármore",
+      "answer": "CARRARA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Depois",
+      "answer": "ATRAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Grande vulcão ativo, localizado na Antártica",
+      "answer": "EREBUS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sulcos que criam um franzido na pele de idosos",
+      "answer": "RUGAS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A família de plantas da erva-gigante",
+      "answer": "ACANTACEAS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Ponta de... lenço",
+      "answer": "ÇO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Que não é compacto ou maciço",
+      "answer": "OCO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "A parte do sangue que coagula",
+      "answer": "CRUOR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Disco voador",
+      "answer": "OVNI",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Cortar rente (cabelo, erva etc.)",
+      "answer": "TOSAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Misturar as cartas",
+      "answer": "EMBARALHAR",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Hino da liturgia",
+      "answer": "CANTICO",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Pertencente àquele homem",
+      "answer": "DELE",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Cobertura de uma residência",
+      "answer": "TETO",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "O pintor francês Auguste (1841-1919)",
+      "answer": "RENOIR",
+      "row": 5,
+      "col": 9
+    },
+    "22": {
+      "clue": "(Ingl.) Jogo entre dois times de futebol tradicionalmente rivais",
+      "answer": "DERBY",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Mítico gigante que carrega nas costas o globo terrestre",
+      "answer": "ATLAS",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Instrumento musical da música sertaneja",
+      "answer": "VIOLA",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "Mulher que rouba",
+      "answer": "LADRA",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Em + ele",
+      "answer": "NELE",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Tecnologia",
+      "answer": "TEC",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Fernanda Rodrigues, atriz",
+      "answer": "FR",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

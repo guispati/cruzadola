@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "A utilidade da foice",
+      "answer": "CEIFAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O Cubas da obra de Machado de Assis",
+      "answer": "BRAS",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Animal semelhante ao cavalo, porém menor",
+      "answer": "ASNO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Peixe comum no litoral brasileiro",
+      "answer": "PARATI",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Cidade paulista da região de São João da Boa Vista",
+      "answer": "ITOBI",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "O músico Kley, de \"O Sol\"",
+      "answer": "VITOR",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Que socorre e ajuda",
+      "answer": "AUXILIADOR",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Polícia Federal",
+      "answer": "PF",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "O ator Paulo (1922-2007)",
+      "answer": "AUTRAN",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Sindicato de advogados",
+      "answer": "OAB",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Precede Jun",
+      "answer": "MAI",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Senhora",
+      "answer": "AMA",
+      "row": 5,
+      "col": 8
+    },
+    "26": {
+      "clue": "Lançar (a carga) fora da embarcação",
+      "answer": "ALIJAR",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "Oduvaldo Vianna, dramaturgo",
+      "answer": "OV",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "(Fig.) Homem grandalhão",
+      "answer": "GRANADEIRO",
+      "row": 7,
+      "col": 1
+    },
+    "32": {
+      "clue": "Charme, elegância",
+      "answer": "GRAÇA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "(do Chão) Destino turístico paraense, pelas praias de água doce",
+      "answer": "ALTER",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Criadora, realizadora",
+      "answer": "AUTORA",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Uma erupção epidérmica muito comum na juventude",
+      "answer": "ACNE",
+      "row": 9,
+      "col": 7
+    },
+    "37": {
+      "clue": "País da Indochina com capital Vientiane",
+      "answer": "LAOS",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Margens, extremidades",
+      "answer": "BORDAS",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Indígenas do sul do PA e norte do MT",
+      "answer": "CAIAPOS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Recinto fechado em que se eleva a temperatura artificialmente",
+      "answer": "ESTUFA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um aço que não enferruja",
+      "answer": "INOX",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Aversão",
+      "answer": "FOBIA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Relações Públicas",
+      "answer": "RP",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Famoso livro de Paulo Coelho",
+      "answer": "BRIDA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Mulher excêntrica, bizarra",
+      "answer": "RATONA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A profissão de Robert Redford",
+      "answer": "ATOR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Um título inglês de nobreza",
+      "answer": "SIR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Danificada, estragada",
+      "answer": "AVARIADA",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Acender uma luz num ambiente escuro",
+      "answer": "ILUMINAR",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "A cidade goiana mais ao sul do estado",
+      "answer": "ITAJA",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Privilégios",
+      "answer": "FAVORES",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "(Gír.) Curtição",
+      "answer": "BARATO",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Mulher de tom de pele entre o pardo e o negro",
+      "answer": "MORENA",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Vínculos afetivos, morais",
+      "answer": "LAÇOS",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "Tocar de leve em alguma coisa",
+      "answer": "RELAR",
+      "row": 6,
+      "col": 7
+    },
+    "30": {
+      "clue": "Tipo de guindaste para levantar grandes pesos",
+      "answer": "GRUA",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "Imposto sobre a Transmissão Causa Mortis e Doações",
+      "answer": "ITCD",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "A cantora Costa, do sucesso \"Tigresa\"",
+      "answer": "GAL",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "As letras que antecedem o C",
+      "answer": "AB",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

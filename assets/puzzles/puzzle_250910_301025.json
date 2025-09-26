@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Recepção",
+      "answer": "TRATAMENTO",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Prisioneiro de garantia",
+      "answer": "REFEM",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Impróprio, incorreto",
+      "answer": "MAU",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Traduzir a palavra ou o pensamento em fatos",
+      "answer": "AGIR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Serviço que cuida da saúde do cidadão brasileiro",
+      "answer": "SUS",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Neste momento",
+      "answer": "JA",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Em + um",
+      "answer": "NUM",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Corpo morto",
+      "answer": "CADAVER",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "(Roberta) Cantora da MPB",
+      "answer": "SA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Nos hospitais, os papéis onde médicos e enfermeiros fazem observações sobre o doente",
+      "answer": "PAPELETA",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Produzir espigas (o milho)",
+      "answer": "BONECAR",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "Banhar levemente",
+      "answer": "UMEDECER",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "O silício, entre os químicos",
+      "answer": "SI",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "Fazer o acabamento de uma roupa",
+      "answer": "REMATAR",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Dry) Tecido para roupas esportivas",
+      "answer": "FIT",
+      "row": 7,
+      "col": 8
+    },
+    "26": {
+      "clue": "Latido de cão",
+      "answer": "AU",
+      "row": 8,
+      "col": 0
+    },
+    "27": {
+      "clue": "Executar um movimento corporal",
+      "answer": "DAR",
+      "row": 8,
+      "col": 3
+    },
+    "28": {
+      "clue": "Bacia oblonga de banheiro",
+      "answer": "BIDE",
+      "row": 8,
+      "col": 7
+    },
+    "29": {
+      "clue": "(Ingl.) Deus",
+      "answer": "GOD",
+      "row": 9,
+      "col": 2
+    },
+    "30": {
+      "clue": "Ato de ficar em estado ainda mais ruim",
+      "answer": "PIORA",
+      "row": 9,
+      "col": 6
+    },
+    "31": {
+      "clue": "Passar para o lado de lá",
+      "answer": "ATRAVESSAR",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Em medicina, um tipo de infarto do miocárdio",
+      "answer": "TRANSMURAL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Material escolar usado para medir",
+      "answer": "REGUA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Congênere",
+      "answer": "AFIM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Possuir para uso, serviço ou para estar à disposição de",
+      "answer": "TER",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Sigla do estado da região Norte com o pico da Neblina",
+      "answer": "AM",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Fazer calar",
+      "answer": "EMUDECER",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Tornar fanhoso um som",
+      "answer": "NASALAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "A segunda pessoa gramatical",
+      "answer": "TU",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "Viver à custa de",
+      "answer": "PARASITEAR",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "Passar de leve pelas chamas",
+      "answer": "SAPECAR",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "(ski) Moto aquática",
+      "answer": "JET",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "(Pop.) Assinatura",
+      "answer": "CANETADA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Avistar",
+      "answer": "VER",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Aquele que elimina os ramos inúteis de uma planta",
+      "answer": "PODADOR",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Com conforto físico",
+      "answer": "BEM",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "(Malvado Favorito) Famoso filme infantil de animação",
+      "answer": "MEU",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Um tipo de vinho feito com suco fermentado de maçãs",
+      "answer": "SIDRA",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Cabos que fazem o transporte de dados",
+      "answer": "FIOS",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Um biscoito wafer muito consumido",
+      "answer": "BIS",
+      "row": 8,
+      "col": 7
+    },
+    "29": {
+      "clue": "Gran Turismo",
+      "answer": "GT",
+      "row": 9,
+      "col": 2
+    },
+    "30": {
+      "clue": "A UF de Petrolina e Olinda",
+      "answer": "PE",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

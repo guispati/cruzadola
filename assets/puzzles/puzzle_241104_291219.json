@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Cercar) Caminhar sem firmeza, cambaleante, devido a embriaguez",
+      "answer": "FRANGO",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "A nação com Machu Pichu",
+      "answer": "PERU",
+      "row": 0,
+      "col": 7
+    },
+    "11": {
+      "clue": "Parte da capa de livros que se dobra para dentro",
+      "answer": "ORELHA",
+      "row": 1,
+      "col": 1
+    },
+    "13": {
+      "clue": "(Fazer) Ser merecedor",
+      "answer": "JUS",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Perturbação física e psíquica repentina, grave",
+      "answer": "ABALO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Dobra",
+      "answer": "PREGA",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Túnica de advogado",
+      "answer": "TOGA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Peixe de águas claras e frias, de carne saborosa",
+      "answer": "TRUTA",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Uma modalidade olímpica",
+      "answer": "ESGRIMA",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "O oposto de sem",
+      "answer": "COM",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Peregrinação",
+      "answer": "ROMARIA",
+      "row": 5,
+      "col": 4
+    },
+    "26": {
+      "clue": "Hugo Chávez (1954-2013), ditador venezuelano",
+      "answer": "HC",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Medo angustioso",
+      "answer": "PAVOR",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "Letícia Spiller, atriz",
+      "answer": "LS",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Tornar muito branco",
+      "answer": "ALVEJAR",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "São dois em pipoca",
+      "answer": "PES",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Sobra de uma destruição",
+      "answer": "RUINA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Carinho",
+      "answer": "AFAGO",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "(Bot.) Membrana interna do óvulo vegetal",
+      "answer": "SECUNDINA",
+      "row": 9,
+      "col": 1
+    },
+    "37": {
+      "clue": "O Louro fantoche de um programa de TV",
+      "answer": "JOSE",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Tipo de veludo",
+      "answer": "COTELE",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Um autômato como o R2D2",
+      "answer": "ROBO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Vento brando e fresco",
+      "answer": "ARAGEM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Em + elas",
+      "answer": "NELAS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Garantia da Lei e da Ordem",
+      "answer": "GLO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Interjeição de surpresa, espanto",
+      "answer": "OH",
+      "row": 0,
+      "col": 5
+    },
+    "8": {
+      "clue": "Expelir",
+      "answer": "EJETAR",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Sulco que interrompe a uniformidade da pele",
+      "answer": "RUGA",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "United States of America",
+      "answer": "USA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Apurado, sofisticado",
+      "answer": "APRIMORADO",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Encher em excesso",
+      "answer": "ATOCHAR",
+      "row": 2,
+      "col": 0
+    },
+    "16": {
+      "clue": "Pôr a embarcação na rota desejada",
+      "answer": "RUMAR",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "Quadra musicada",
+      "answer": "TROVA",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Um famoso bairro do Rio de Janeiro",
+      "answer": "GRAJAU",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Cada pequena etapa de uma caminhada",
+      "answer": "PASSO",
+      "row": 4,
+      "col": 10
+    },
+    "23": {
+      "clue": "Fechado",
+      "answer": "OCLUSO",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Proibido por lei",
+      "answer": "ILEGAL",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Prega para diminuir a largura de uma roupa",
+      "answer": "PENCE",
+      "row": 6,
+      "col": 3
+    },
+    "30": {
+      "clue": "(Fig.) Tendência determinada por forças externas",
+      "answer": "VIES",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "(Pop.) Esquecimento momentâneo",
+      "answer": "PANE",
+      "row": 7,
+      "col": 8
+    },
+    "34": {
+      "clue": "Carro fabricado pela Honda",
+      "answer": "FIT",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "Nelson Cavaquinho, sambista",
+      "answer": "NC",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

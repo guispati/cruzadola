@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "Incompetência, inabilidade",
+      "answer": "IMPERICIA",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "O estado de Augusta, nos EUA",
+      "answer": "MAINE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Peça de vestimenta",
+      "answer": "ROUPA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Cômodo e fácil de ser usado",
+      "answer": "PRATICO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Um dispositivo contraceptivo",
+      "answer": "DIU",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Uma grande constelação do Hemisfério Norte",
+      "answer": "URSAMAIOR",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Faísca",
+      "answer": "RAIO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Embalagem usada para transportar pequenas compras",
+      "answer": "SACOLA",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Um osso da coluna vertebral",
+      "answer": "SACRO",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "A nação de Georgetown",
+      "answer": "GUIANA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Pão de milho",
+      "answer": "BROA",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Documento de um contrato, feito por oficial público",
+      "answer": "ESCRITURA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "O S de SP",
+      "answer": "SÃO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Fácil de manejar",
+      "answer": "MANEIRO",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Equipamento para explorações científicas",
+      "answer": "SONDA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Existir",
+      "answer": "HAVER",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "(Viola) Um clássico da MPB",
+      "answer": "ENLUARADA",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Tornar obrigatório",
+      "answer": "IMPOR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Extensão de água como o Mediterrâneo",
+      "answer": "MAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "PI",
+      "answer": "PIAUI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Fazer adquirir amizades",
+      "answer": "ENTROSAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Os cás do baralho",
+      "answer": "REIS",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Quím.) Cobrir algo com Cr",
+      "answer": "CROMAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Rio sem erre",
+      "answer": "IO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Parte sonora de um filme",
+      "answer": "AUDIO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "(Lady) Um sucesso de Roberto Carlos",
+      "answer": "LAURA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Um inseto que se alimenta de sangue",
+      "answer": "PIOLHO",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "(Gír.) Mentira",
+      "answer": "CASCATA",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Dar a cor do elemento químico de símbolo Cu",
+      "answer": "ACOBREAR",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Referência vaga e indireta",
+      "answer": "ALUSÃO",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "(Gír.) Muito legal, fora de série",
+      "answer": "ANIMAL",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Substância usada para imobilizar um membro fraturado",
+      "answer": "GESSO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Fig.) Símbolo, marca",
+      "answer": "ICONE",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Ira",
+      "answer": "RAIVA",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Fruto muito escuro",
+      "answer": "AMORA",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "O foco da manicure",
+      "answer": "UNHA",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Vermelho, em Los Angeles",
+      "answer": "RED",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "Diogo Nogueira, sambista",
+      "answer": "DN",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

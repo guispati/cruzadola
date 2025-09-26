@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Elegante",
+      "answer": "GARBOSO",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Em eletrônica, símbolo de Frequência Super Elevada",
+      "answer": "SHF",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Mulher muito admirada",
+      "answer": "DEUSA",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Ruela sem saída",
+      "answer": "BECO",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Excepcional, incomparável, único",
+      "answer": "PELE",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "O Ralph estilista de moda",
+      "answer": "LAUREN",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Um dado do endereço",
+      "answer": "RUA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Líquido açucarado ou não, engrossado mediante fervura",
+      "answer": "CALDA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Assoalhar, pavimentar",
+      "answer": "ESTRADAR",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Disposição constante em dar prova de coragem",
+      "answer": "OUSADIA",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "(Pop.) Paquerar",
+      "answer": "GAVIONAR",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Aparelho que conecta computador e telefone",
+      "answer": "MODEM",
+      "row": 7,
+      "col": 2
+    },
+    "26": {
+      "clue": "Certidão Negativa de Débito",
+      "answer": "CND",
+      "row": 7,
+      "col": 8
+    },
+    "27": {
+      "clue": "Enganador",
+      "answer": "ILUSOR",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Um cachorro da Turma da Mônica",
+      "answer": "BIDU",
+      "row": 8,
+      "col": 7
+    },
+    "30": {
+      "clue": "(Gír.) Tiro de arma de fogo",
+      "answer": "TECO",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Aplicação de tinta sobre uma superfície",
+      "answer": "DEMÃO",
+      "row": 9,
+      "col": 5
+    },
+    "33": {
+      "clue": "Círculo metálico a que se adapta o pneu das bicicletas",
+      "answer": "ARO",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Ingl., inform.) Rede",
+      "answer": "NETWORK",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Tchau para sempre",
+      "answer": "ADEUS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Exposição informativa",
+      "answer": "RELATO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Choradeira de criança",
+      "answer": "BUE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Artigo (plural)",
+      "answer": "OS",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Um prato de entrada das refeições",
+      "answer": "SALADAVERDE",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Um grande sucesso do grupo \"Legião Urbana\"",
+      "answer": "SERA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Hospital Central do Exército",
+      "answer": "HCE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Red.) Médico da voz e da fala",
+      "answer": "FONO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Cidade italiana próxima a Bolonha",
+      "answer": "BUDRIO",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Roedor também chamado bengo",
+      "answer": "PREA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Personagem das \"Mil e uma Noites\"",
+      "answer": "ALADIM",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Não mais solteiro",
+      "answer": "CASADO",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Enrugado",
+      "answer": "RUGOSO",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Indivíduo que tem idade avançada",
+      "answer": "ANCIÃO",
+      "row": 5,
+      "col": 8
+    },
+    "21": {
+      "clue": "A língua oficial do Paquistão",
+      "answer": "URDU",
+      "row": 5,
+      "col": 10
+    },
+    "23": {
+      "clue": "Pequeno palanque usado em procissões",
+      "answer": "ANDOR",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "A forma do que é cestoide",
+      "answer": "FITA",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Fluido viscoso, comum nos tecidos de revestimento de animais",
+      "answer": "MUCO",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "Examinar com profundidade (o conteúdo de um texto escrito)",
+      "answer": "LER",
+      "row": 8,
+      "col": 1
+    },
+    "29": {
+      "clue": "Carro",
+      "answer": "BMW",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Elizabeth Taylor (1932-2011), atriz de \"Cleópatra\"",
+      "answer": "ET",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

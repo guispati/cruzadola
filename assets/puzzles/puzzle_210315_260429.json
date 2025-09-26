@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Exercitar-se em, praticar habitualmente",
+      "answer": "FAZER",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Vontade, gosto",
+      "answer": "GRADO",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Instituto Nacional de Seguro Social",
+      "answer": "INSS",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Ponto fundamental de uma doutrina religiosa",
+      "answer": "DOGMA",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "O começo do... ódio",
+      "answer": "OD",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "Um meio de transporte de passageiros, de alta velocidade",
+      "answer": "TREMBALA",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Tira comprida e estreita de madeira",
+      "answer": "SARRAFO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Executar um movimento corporal",
+      "answer": "DAR",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Caro demais",
+      "answer": "ROUBO",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Pequeno roedor do Brasil, semelhante ao coelho",
+      "answer": "CUIM",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Esquentar um pouco",
+      "answer": "AMORNAR",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "No lugar em que",
+      "answer": "ONDE",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Corpo bom condutor de calor e eletricidade",
+      "answer": "METAL",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "São três em paralelepípedo",
+      "answer": "PES",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "(Raposo) Importante rodovia paulista",
+      "answer": "TAVARES",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "(Ingl.) Pessoa que não pertence a um determinado grupo",
+      "answer": "OUTSIDER",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Igreja principal de uma diocese",
+      "answer": "SE",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Governo de um soberano",
+      "answer": "REINO",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "Elemento de composição: metade",
+      "answer": "SEMI",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "Cidade serrana do RJ, próxima a Cantagalo",
+      "answer": "CARMO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Vasos que levam sangue ao coração",
+      "answer": "VEIAS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Fazem o transporte da eletricidade e também de dados",
+      "answer": "FIOS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Passar ou achar-se (em relação à saúde)",
+      "answer": "ANDAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Zona Sul",
+      "answer": "ZS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um fertilizante da terra",
+      "answer": "ESTRUME",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A divisão natural da mexerica",
+      "answer": "GOMO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "(Ingl.) Um sistema de cores para dispositivos eletrônicos",
+      "answer": "RGB",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Sazonar",
+      "answer": "AMADURAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O Lama tibetano",
+      "answer": "DALAI",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Desfigurado, disforme",
+      "answer": "DEFORMADO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "A parte traseira de qualquer objeto",
+      "answer": "RABO",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Instrumento usado em guerras",
+      "answer": "ARMA",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "(Ingl.) Um tipo de carro conversível, para duas pessoas",
+      "answer": "ROADSTER",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Em psicologia, liberação de emoções ou tensões reprimidas",
+      "answer": "CATARSE",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Recipiente de vidro, plástico etc., usado para consumir bebidas",
+      "answer": "COPO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Uma característica dos polos",
+      "answer": "NEVE",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "(Pop.) Mau humor",
+      "answer": "NEURA",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Molusco encontrado em lugares úmidos",
+      "answer": "LESMA",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Juízo natural",
+      "answer": "TINO",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "O número de cordas do banjo",
+      "answer": "SEIS",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "A última palavra de um solteiro",
+      "answer": "SIM",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Estado Islâmico",
+      "answer": "EI",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

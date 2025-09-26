@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "João Pessoa é sua capital",
+      "answer": "PARAIBA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "O skatista carioca Burnquist",
+      "answer": "BOB",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Que está concentrado",
+      "answer": "ATENTO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Concedida, oferecida",
+      "answer": "DADA",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Estrada, em inglês",
+      "answer": "ROAD",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(nos acuda) Locução que significa grande movimento",
+      "answer": "DEUS",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "(Abrev.) Em economia, ao ano",
+      "answer": "AA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Tentativa ou execução de crime",
+      "answer": "ATENTADO",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Gosto",
+      "answer": "GRADO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Parte do corpo humano que liga a cabeça ao tronco",
+      "answer": "COLO",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Sem brilho",
+      "answer": "FOSCO",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Equipe campeã pela terceira vez",
+      "answer": "TRI",
+      "row": 5,
+      "col": 8
+    },
+    "26": {
+      "clue": "Ministério Público do Trabalho",
+      "answer": "MPT",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Importante cidade da Holanda",
+      "answer": "HELMOND",
+      "row": 6,
+      "col": 4
+    },
+    "30": {
+      "clue": "Cidade mineira, na região de Manhuaçu",
+      "answer": "LAJINHA",
+      "row": 7,
+      "col": 1
+    },
+    "32": {
+      "clue": "Àquele, àquilo",
+      "answer": "AO",
+      "row": 7,
+      "col": 9
+    },
+    "33": {
+      "clue": "O pronome que precede ele",
+      "answer": "TU",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Lagoa da cidade de Salvador",
+      "answer": "ABAETE",
+      "row": 8,
+      "col": 3
+    },
+    "36": {
+      "clue": "Ser unicelular que é parasita do homem",
+      "answer": "AMEBA",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Espingarda, fuzil",
+      "answer": "RIFLE",
+      "row": 9,
+      "col": 6
+    },
+    "40": {
+      "clue": "O atual é Leão XIV",
+      "answer": "PAPA",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "Empenho em fazer as coisas",
+      "answer": "ZELO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Certa região ou localidade",
+      "answer": "PARAGEM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Conduzir um barco a reboque",
+      "answer": "ATOAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Mitol.) A mãe dos deuses",
+      "answer": "REA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Passado, decorrido",
+      "answer": "ANDADO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Encanto",
+      "answer": "IT",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Animal ágil, de chifres grandes, com um tufo de pelos longos no queixo",
+      "answer": "BODE",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Rocha vulcânica",
+      "answer": "BASALTO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Transforma melado em modelado",
+      "answer": "OD",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Um órgão do abdome",
+      "answer": "BAÇO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Canal",
+      "answer": "DUTO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Retrair, contrair",
+      "answer": "ENCOLHER",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Indústria japonesa de eletroeletrônicos",
+      "answer": "TOSHIBA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Grande recipiente para vinhos",
+      "answer": "DORNA",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "Pequena ulceração principalmente da mucosa bucal",
+      "answer": "AFTA",
+      "row": 4,
+      "col": 2
+    },
+    "23": {
+      "clue": "Passagem de uma representação teatral",
+      "answer": "CENA",
+      "row": 5,
+      "col": 5
+    },
+    "25": {
+      "clue": "Competente",
+      "answer": "IDONEO",
+      "row": 5,
+      "col": 10
+    },
+    "27": {
+      "clue": "Pena de ave, usada em fantasias de carnaval",
+      "answer": "PLUMA",
+      "row": 6,
+      "col": 1
+    },
+    "29": {
+      "clue": "Passagem suave de uma a outra cor",
+      "answer": "MATIZ",
+      "row": 6,
+      "col": 7
+    },
+    "31": {
+      "clue": "Dinheiro pago a um radialista ou a um apresentador de tevê para promoção de um produto",
+      "answer": "JABA",
+      "row": 7,
+      "col": 3
+    },
+    "33": {
+      "clue": "Transportes Aéreos Portugueses",
+      "answer": "TAP",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "F",
+      "answer": "EFE",
+      "row": 8,
+      "col": 8
+    },
+    "37": {
+      "clue": "Elvis Presley (1935-1977), cantor de \"Hound Dog\"",
+      "answer": "EP",
+      "row": 9,
+      "col": 2
+    },
+    "39": {
+      "clue": "Leandro Lima, ator paraibano",
+      "answer": "LL",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

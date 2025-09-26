@@ -1,0 +1,252 @@
+{
+  "across": {
+    "2": {
+      "clue": "Blusa fechada, de malha de lã",
+      "answer": "SUETER",
+      "row": 0,
+      "col": 4
+    },
+    "8": {
+      "clue": "Edith Piaf (1915-1963), cantora francesa",
+      "answer": "EP",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Que responde de maneira intensa a um estímulo",
+      "answer": "SENSIVEL",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Medida padrão para coisas em construção",
+      "answer": "GABARITO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Uma variação de tu",
+      "answer": "TI",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Documento que formaliza um seguro",
+      "answer": "APOLICE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "O cantor Bono, do U2",
+      "answer": "VOX",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Em forma de saco",
+      "answer": "SACIFORME",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Indicação exata do tempo em que se faz ou acontece alguma coisa",
+      "answer": "DATA",
+      "row": 5,
+      "col": 1
+    },
+    "20": {
+      "clue": "Cidade do RJ, próxima a Cantagalo",
+      "answer": "CARMO",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Descer bruscamente",
+      "answer": "CAIR",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Cessação completa e definitiva da vida de um organismo",
+      "answer": "MORTE",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "Partículas de gelo que caem do céu",
+      "answer": "NEVE",
+      "row": 7,
+      "col": 2
+    },
+    "26": {
+      "clue": "Um apelido para Teresa",
+      "answer": "TETE",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Contração de para",
+      "answer": "PRA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Recolher (pó) por meio de sucção",
+      "answer": "ASPIRAR",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Autarquia Estadual",
+      "answer": "AE",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Mirar",
+      "answer": "VISAR",
+      "row": 9,
+      "col": 3
+    },
+    "34": {
+      "clue": "Estrôncio, elemento químico",
+      "answer": "SR",
+      "row": 9,
+      "col": 9
+    },
+    "35": {
+      "clue": "Uma marca de chocolate aerado",
+      "answer": "SUFLAIR",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Las) Cidade dos EUA",
+      "answer": "VEGAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Tip.) Pequeno traço que remata pontos terminais de algumas letras",
+      "answer": "SERIFA",
+      "row": 0,
+      "col": 4
+    },
+    "3": {
+      "clue": "Que não tem outro igual",
+      "answer": "UNICO",
+      "row": 0,
+      "col": 5
+    },
+    "4": {
+      "clue": "Adubo animal",
+      "answer": "ESTERCO",
+      "row": 0,
+      "col": 6
+    },
+    "5": {
+      "clue": "O Barnabé é um personagem do \"Sítio do Pica-Pau Amarelo\"",
+      "answer": "TIO",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "Érico Veríssimo (1905-1975), autor de \"Olhai os Lírios do Campo\"",
+      "answer": "EV",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Que não tem curva",
+      "answer": "RETO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Grande acúmulo de matéria adiposa na face e no pescoço",
+      "answer": "PAPADA",
+      "row": 1,
+      "col": 1
+    },
+    "10": {
+      "clue": "Substância usada como fertilizante",
+      "answer": "SALITRE",
+      "row": 1,
+      "col": 3
+    },
+    "11": {
+      "clue": "Aterro sanitário",
+      "answer": "LIXÃO",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "Depressão em serra ou cordilheira",
+      "answer": "BOCAINA",
+      "row": 2,
+      "col": 2
+    },
+    "16": {
+      "clue": "Fazer transbordar",
+      "answer": "VERTER",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Uma vítima da fé ou de um ideal",
+      "answer": "MARTIR",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Objetivos",
+      "answer": "METAS",
+      "row": 5,
+      "col": 9
+    },
+    "22": {
+      "clue": "O naipe do coração",
+      "answer": "COPAS",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Fut.) Jogador argentino, um dos melhores da história",
+      "answer": "MESSI",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Manifestação de desagrado por um espetáculo ruim",
+      "answer": "VAIA",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "O contrário de acerto",
+      "answer": "ERRO",
+      "row": 7,
+      "col": 10
+    },
+    "29": {
+      "clue": "Acusado de crime",
+      "answer": "REU",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "Parceiro",
+      "answer": "PAR",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Vanderlei Luxemburgo, técnico de futebol",
+      "answer": "VL",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

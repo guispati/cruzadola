@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma bebida como o Limoncello",
+      "answer": "LICOR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Satisfazer o apetite",
+      "answer": "COMER",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "(Ingl.) Processo de reprodução gráfica que relegou a segundo plano a litografia",
+      "answer": "OFFSET",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Banqueta baixa e larga, estofada",
+      "answer": "PUFE",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "(Quím.) O símbolo do rádio, substância usada em terapias medicinais",
+      "answer": "RA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Proporção de uma substância determinada",
+      "answer": "TEOR",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "O símbolo matemático de secante",
+      "answer": "SEC",
+      "row": 2,
+      "col": 8
+    },
+    "18": {
+      "clue": "Seduzida, atraída",
+      "answer": "TENTADA",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "O sabor de um molho muito usado na cozinha oriental",
+      "answer": "AGRIDOCE",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Libra",
+      "answer": "LB",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "O da Compadecida é uma obra de Suassuna",
+      "answer": "AUTO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "O Y dos químicos",
+      "answer": "ITRIO",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "A descendência, os descendentes",
+      "answer": "SUCESSORES",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Uma forma de abreviar o nome do oitavo mês do ano",
+      "answer": "AGO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Pôr em evidência",
+      "answer": "SINALAR",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "(Fís.) O símbolo do méson",
+      "answer": "MU",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Um ingrediente do molho vinagrete",
+      "answer": "TOMATE",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Som igual ao da buzina de um carro",
+      "answer": "BIBI",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Fazer penetrar à força e profundamente",
+      "answer": "CRAVAR",
+      "row": 9,
+      "col": 5
+    },
+    "37": {
+      "clue": "País africano cuja capital é Luanda",
+      "answer": "ANGOLA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Súplica",
+      "answer": "ROGO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Que se mostra excessivamente ingênuo, tolo, crédulo",
+      "answer": "LORPA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Insumo para vacinas",
+      "answer": "IFA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O símbolo químico do califórnio",
+      "answer": "CF",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Med.) Inflamação do tecido ósseo",
+      "answer": "OSTEITE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Nova cessão de um título de crédito mediante assinatura no verso",
+      "answer": "REENDOSSO",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Ordem de Pagamento",
+      "answer": "OP",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Mulher fonte de inspiração de um artista",
+      "answer": "MUSA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "F",
+      "answer": "EFE",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Comprovante de pagamento",
+      "answer": "RECIBO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Pebolim",
+      "answer": "TOTO",
+      "row": 1,
+      "col": 5
+    },
+    "16": {
+      "clue": "Limitar o consumo",
+      "answer": "RACIONAR",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "Jogo de cartas para quatro pessoas",
+      "answer": "TRUCO",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Denegrir",
+      "answer": "DETRATAR",
+      "row": 3,
+      "col": 7
+    },
+    "21": {
+      "clue": "O pintor francês Paul (1848-1903)",
+      "answer": "GAUGUIN",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Sem rugas (fem.)",
+      "answer": "LISA",
+      "row": 4,
+      "col": 9
+    },
+    "25": {
+      "clue": "(Geogr.) Conjunto de altos e baixos de uma região",
+      "answer": "RELEVO",
+      "row": 5,
+      "col": 8
+    },
+    "26": {
+      "clue": "O gênero musical de Paulinho da Viola e Cartola",
+      "answer": "SAMBA",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Um dos primeiros carros fabricados no Brasil",
+      "answer": "SIMCA",
+      "row": 6,
+      "col": 5
+    },
+    "30": {
+      "clue": "Único ou quase",
+      "answer": "RARO",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "O Barnabé do Sítio",
+      "answer": "TIO",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Bruno Gagliasso, ator carioca",
+      "answer": "BG",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "(Quím.) Prata",
+      "answer": "AG",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um mamão muito consumido",
+      "answer": "PAPAIA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Parte do porto onde se carrega e descarrega navios",
+      "answer": "DOCA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Ter efeito",
+      "answer": "AGIR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Caminhar pela margem de",
+      "answer": "BEIRAR",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Submeter a uma experiência",
+      "answer": "TESTAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Salto com) Uma modalidade do atletismo",
+      "answer": "VARA",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Era hoje até hoje",
+      "answer": "ONTEM",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Conseguir de graça",
+      "answer": "FILAR",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "Santo",
+      "answer": "STO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "O urubu tem duas",
+      "answer": "ASAS",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Enganado, iludido",
+      "answer": "EMBROMADO",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Animal de grande porte, peludo e feroz",
+      "answer": "URSO",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Uma tecla do computador",
+      "answer": "ESC",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "(dos Reis) A cidade fluminense onde se localiza a Ilha Grande",
+      "answer": "ANGRA",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Prudência",
+      "answer": "SENSO",
+      "row": 7,
+      "col": 6
+    },
+    "33": {
+      "clue": "O McCartney, ex-integrante dos Beatles",
+      "answer": "PAUL",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Satisfazer",
+      "answer": "BASTAR",
+      "row": 8,
+      "col": 5
+    },
+    "35": {
+      "clue": "Protelado",
+      "answer": "ADIADO",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Fio usado na indústria têxtil",
+      "answer": "SEDA",
+      "row": 9,
+      "col": 7
+    },
+    "37": {
+      "clue": "(Pop.) Rir de alguém por divertimento",
+      "answer": "ZOAR",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "A despeito de",
+      "answer": "APESAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(de Minas) Cidade mineira, próxima a Araxá",
+      "answer": "PATOS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O 86 foi uma série de filmes cômicos",
+      "answer": "AGENTE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Êmbolo",
+      "answer": "PISTOM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Sétima) O cinema",
+      "answer": "ARTE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Abreviatura do mês 4",
+      "answer": "ABR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Limite de território",
+      "answer": "DIVISA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Uma via para remédios",
+      "answer": "ORAL",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Parte da moeda que traz a efígie, oposta à coroa",
+      "answer": "CARA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Ave de cores muito vivas",
+      "answer": "ARARA",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Cabo de atracação",
+      "answer": "AMARRA",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Renomada",
+      "answer": "FAMOSA",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Pedido de socorro que significa \"salvem nossas almas\"",
+      "answer": "SOS",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Enganar através de artimanhas",
+      "answer": "BURLAR",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Molares, caninos e sisos",
+      "answer": "DENTES",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Resto de cadáver",
+      "answer": "OSSADA",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Homem novo",
+      "answer": "RAPAZ",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Ficar vermelho por vergonha",
+      "answer": "CORAR",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "(Sincronizado) Modalidade olímpica de esporte aquático",
+      "answer": "NADO",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Trela",
+      "answer": "GUIA",
+      "row": 7,
+      "col": 2
+    },
+    "32": {
+      "clue": "S",
+      "answer": "ESSE",
+      "row": 7,
+      "col": 7
+    },
+    "34": {
+      "clue": "O oposto de má",
+      "answer": "BOA",
+      "row": 8,
+      "col": 5
+    }
+  }
+}

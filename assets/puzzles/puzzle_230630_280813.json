@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Produzir uma música",
+      "answer": "COMPOR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Antônimo de baixo",
+      "answer": "ALTO",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Azul, em inglês",
+      "answer": "BLUE",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Elemento químico do grupo das terras raras",
+      "answer": "ERBIO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Conjunto de dirigentes de uma empresa",
+      "answer": "ESTAFE",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "(Abrev.) A vacina contra a tuberculose",
+      "answer": "BCG",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Misericordiosa",
+      "answer": "BOA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Reter na memória",
+      "answer": "DECORAR",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Artigo definido masculino plural",
+      "answer": "OS",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Muco ressecado das pálpebras",
+      "answer": "REMELA",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Fazer sair do lugar",
+      "answer": "MOVER",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Plantação de Pyrus communis",
+      "answer": "PERAL",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Aprovado",
+      "answer": "ACEITO",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Para aqui",
+      "answer": "CA",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Mais comprido do que largo",
+      "answer": "OBLONGO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Um verbo auxiliar",
+      "answer": "SER",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Contudo",
+      "answer": "MAS",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Escurecer",
+      "answer": "TURBAR",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "O bairro com a sede do Flamengo, no RJ",
+      "answer": "GAVEA",
+      "row": 9,
+      "col": 1
+    },
+    "36": {
+      "clue": "Veio de água corrente",
+      "answer": "BICA",
+      "row": 9,
+      "col": 7
+    },
+    "38": {
+      "clue": "Diz-se que não está para peixe quando nada dá certo",
+      "answer": "MARE",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Linguagem Brasileira de Sinais",
+      "answer": "LIBRAS",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "As iniciais da atriz paulista Becker",
+      "answer": "CB",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Cheio de substâncias graxas",
+      "answer": "OLEOSO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A mulher amada, inspiração de um poeta",
+      "answer": "MUSA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Sigla do material usado na produção de frascos de refrigerante",
+      "answer": "PET",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Prisioneiro de garantia",
+      "answer": "REFEM",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Aldir Blanc, músico",
+      "answer": "AB",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Suster no ar",
+      "answer": "LIBRAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Buraco onde a caça se esconde",
+      "answer": "TOCA",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Aparelho destinado a captar ondas sonoras",
+      "answer": "RECEPTOR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Que gruda, cola",
+      "answer": "ADERENTE",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Fazer títulos falsos de terras",
+      "answer": "GRILAR",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Doce confeitado de chocolate",
+      "answer": "BOMBOM",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "O de soja é usado na alimentação",
+      "answer": "OLEO",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Soldado recém-incorporado",
+      "answer": "RECO",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Dançar (a debutante) a sua primeira dança",
+      "answer": "VALSAR",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Próximo",
+      "answer": "ACERCA",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "O sinal =",
+      "answer": "IGUAL",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "Pequeno fruto carnudo e de forma redonda",
+      "answer": "BAGA",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Partir",
+      "answer": "SAIR",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "Big Brother Brasil",
+      "answer": "BBB",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "A letra que precede o dáblio",
+      "answer": "VE",
+      "row": 9,
+      "col": 3
+    },
+    "37": {
+      "clue": "Aviador de grande perícia",
+      "answer": "AS",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

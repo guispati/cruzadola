@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Fator de Proteção Solar",
+      "answer": "FPS",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "Uma parte do osso ilíaco",
+      "answer": "PUBIS",
+      "row": 0,
+      "col": 4
+    },
+    "9": {
+      "clue": "Mamífero da família dos felídeos, com cauda curta e tufos de pelos nas orelhas",
+      "answer": "LINCE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Atuante, participante",
+      "answer": "ATIVO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Duas letras vizinhas à direita do teclado",
+      "answer": "OP",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Lagoa de água salgada",
+      "answer": "ALAGAMAR",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Tromba de ar",
+      "answer": "CICLONE",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Órgão de saúde",
+      "answer": "PSM",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "O percurso de um navio no mar",
+      "answer": "ROTA",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Calçado de cano alto",
+      "answer": "BOTA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Sem piedade",
+      "answer": "DESALMADO",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Um jogo de azar",
+      "answer": "LOTO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Menino, garoto",
+      "answer": "GURI",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Oi",
+      "answer": "OPA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Outro nome da palmeira bacabá",
+      "answer": "PINDOBA",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Que tem a cor rosada",
+      "answer": "NACARADO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Elvis Presley (1935-1977), ícone do rock",
+      "answer": "EP",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "De Atenas ou Creta",
+      "answer": "GREGO",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "A técnica de fabricação dos instrumentos relativos à vista",
+      "answer": "OTICA",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "A banda de rock de \"Some Might Say\"",
+      "answer": "OASIS",
+      "row": 10,
+      "col": 2
+    },
+    "36": {
+      "clue": "(Ornit.) Outro nome da ave cambacica",
+      "answer": "SAI",
+      "row": 10,
+      "col": 8
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Farfalha de neve que cai da atmosfera como fio de lã branca",
+      "answer": "FLOCO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Inf.) Xixi",
+      "answer": "PIPI",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Quím.) Estanho",
+      "answer": "SN",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Bola de futebol",
+      "answer": "PELOTA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Importante cidade gaúcha",
+      "answer": "BAGE",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Pedra, em tupi-guarani",
+      "answer": "ITA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Bot.) Tipo de ramificação na qual um ramo se desenvolve mais do que outro",
+      "answer": "SIMPODIO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Recipiente côncavo que se usa para dar certa aperência a preparações culinárias",
+      "answer": "FORMA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Calejado",
+      "answer": "CALOSO",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Amplo",
+      "answer": "VASTO",
+      "row": 1,
+      "col": 9
+    },
+    "15": {
+      "clue": "(Patol.) Perda da sensibilidade à dor",
+      "answer": "ANALGIA",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Período quando surgiram os mamíferos e plantas",
+      "answer": "CRETACEO",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "A Brigitte atriz de \"E Deus Criou a Mulher\"",
+      "answer": "BARDOT",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Fazer ingerir droga",
+      "answer": "DOPAR",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "(e fundos) Grande quantidade de recursos, dinheiro etc.",
+      "answer": "MUNDOS",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Que tem uma determinada medida em extensão",
+      "answer": "LONGO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Tratamento íntimo para o próprio genitor",
+      "answer": "PAPAI",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Vantagens",
+      "answer": "PROS",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Traje de advocacia",
+      "answer": "BECA",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "A sexta consoante",
+      "answer": "AGA",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Ivete Sangalo, cantora",
+      "answer": "IS",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

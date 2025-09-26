@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um distúrbio gástrico",
+      "answer": "ACIDEZ",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Um exame classificatório para faculdades",
+      "answer": "ENEM",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "(Carrero World) Parque de diversões catarinense",
+      "answer": "BETO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Nascida na capital italiana",
+      "answer": "ROMANA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Crustáceo que vive fixado a rochas madeiras",
+      "answer": "CRACA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Fibra vegetal áspera e resistente",
+      "answer": "SISAL",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "O Phillips (1964-2022) jornalista britânico assassinado na Amazônia",
+      "answer": "DOM",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Roto",
+      "answer": "RASGADO",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Lagoa de água salgada",
+      "answer": "LAGAMAR",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Edson Celulari, ator paulista",
+      "answer": "EC",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Fazer o acabamento de uma roupa",
+      "answer": "REMATAR",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "(Rád.) Ondas Tropicais",
+      "answer": "OT",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Sazonar (fruto)",
+      "answer": "MADURAR",
+      "row": 6,
+      "col": 3
+    },
+    "29": {
+      "clue": "Viajar por mar",
+      "answer": "NAVEGAR",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "10",
+      "answer": "DEZ",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "Religioso de mosteiro",
+      "answer": "FRADE",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Companheiro, aliado",
+      "answer": "AMIGO",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "Língua de país",
+      "answer": "IDIOMA",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Figura da mitologia amazônica, protetora das águas",
+      "answer": "IARA",
+      "row": 9,
+      "col": 7
+    },
+    "39": {
+      "clue": "Partir ao meio",
+      "answer": "MEAR",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Oferecer como vítima a uma divindade",
+      "answer": "IMOLAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "As quatro primeiras letras do nosso alfabeto",
+      "answer": "ABCD",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Vidro moído que se passa na linha da pipa",
+      "answer": "CEROL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O Franco (1930-2011) presidente da República",
+      "answer": "ITAMAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Documento de Ordem de Crédito",
+      "answer": "DOC",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Zona Rural",
+      "answer": "ZR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Deixar o próprio país para viver em outro",
+      "answer": "EMIGRAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O principal centro espacial norte-americano",
+      "answer": "NASA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Exame Nacional de Desempenho de Estudantes",
+      "answer": "ENADE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A de Adoniran Barbosa é Saudosa",
+      "answer": "MALOCA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Esqueleto humano",
+      "answer": "OSSATURA",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Gradeamento de fios de metal",
+      "answer": "ARAMAGEM",
+      "row": 2,
+      "col": 4
+    },
+    "18": {
+      "clue": "Que é o objeto de grande afeição (fem.)",
+      "answer": "AMADA",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Que se queixa com insistência",
+      "answer": "GEMEDOR",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Que limita, circunscreve",
+      "answer": "CONFIM",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Que emite raios",
+      "answer": "RADIAL",
+      "row": 5,
+      "col": 8
+    },
+    "26": {
+      "clue": "Parte do dia que vai do meio-dia ao começo da noite",
+      "answer": "TARDE",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "(Matem.) Método padrão para solução de problema",
+      "answer": "REGRA",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "Uma manifestação de desagrado",
+      "answer": "VAIA",
+      "row": 7,
+      "col": 2
+    },
+    "32": {
+      "clue": "(Pop.) Rir de alguém por divertimento",
+      "answer": "ZOAR",
+      "row": 7,
+      "col": 10
+    },
+    "35": {
+      "clue": "Voz de gato",
+      "answer": "MIO",
+      "row": 8,
+      "col": 7
+    },
+    "37": {
+      "clue": "Grito de dor física",
+      "answer": "AI",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

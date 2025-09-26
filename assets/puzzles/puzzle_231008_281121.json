@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Canal de tevê especializado em filmes",
+      "answer": "CINEMAX",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Bar inglês",
+      "answer": "PUB",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Outro nome da gaita",
+      "answer": "HARMONICA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Encanto",
+      "answer": "IT",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Documento que acompanha um e-mail",
+      "answer": "ANEXO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Claude Troisgros, chef e apresentador francês",
+      "answer": "CT",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Tirante a preto",
+      "answer": "NEGRAL",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Uma parede para grafites",
+      "answer": "MURO",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "A família na sua intimidade",
+      "answer": "LAR",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Massa de vapores de água que encobre o Sol",
+      "answer": "NUVEM",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Tornar operante mediante uma lei",
+      "answer": "SANCIONAR",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "O dinheiro do cassino",
+      "answer": "FICHA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "1.002, em romanos",
+      "answer": "MII",
+      "row": 6,
+      "col": 6
+    },
+    "25": {
+      "clue": "Superfície plana delimitada",
+      "answer": "AREA",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Aquele que aplica as técnicas de ensino",
+      "answer": "DIDATA",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "(Fís.) Curie",
+      "answer": "CI",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "A cantora norte-americana Ross",
+      "answer": "DIANA",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Orçamento Participativo",
+      "answer": "OP",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Murmuração entre dentes",
+      "answer": "ROSNADELA",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Sem conteúdo (fem.)",
+      "answer": "OCA",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Aguentar, suportar com paciência",
+      "answer": "TOLERAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O país de Xangai e Qingdao",
+      "answer": "CHINA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Embarcação de luxo usada no transporte de pessoas",
+      "answer": "IATE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "As iniciais do sambista Rosa",
+      "answer": "NR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Misturado desordenadamente",
+      "answer": "EMARANHADO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Soberano vitalício e, geralmente, hereditário de uma nação ou Estado",
+      "answer": "MONARCA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Argola",
+      "answer": "ANEL",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Dezenove, em algarismos romanos",
+      "answer": "XIX",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Instrumento agrícola manual",
+      "answer": "PA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Cosmético usado nos lábios",
+      "answer": "BATOM",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Qualquer agrupamento populacional",
+      "answer": "COMUNIDADE",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Ter plena convicção",
+      "answer": "CRER",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Diz-se de um tipo de doce de frutas",
+      "answer": "GLACE",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Arbusto de bagas amarelas com polpa aromática e comestível",
+      "answer": "UVAIA",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Diz-se de cheque em que se declara o portador",
+      "answer": "NOMINAL",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Crustáceo marinho que se alimenta de carniça",
+      "answer": "SIRI",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "(Gráf.) Lâmina da guilhotina que corta o papel",
+      "answer": "FACÃO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Fechar",
+      "answer": "TAPAR",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Prejuízo",
+      "answer": "DANO",
+      "row": 7,
+      "col": 5
+    },
+    "27": {
+      "clue": "Abobada, ingênua",
+      "answer": "TOLA",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Infecções Sexualmente Transmissíveis",
+      "answer": "IST",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Rebeca Andrade, ginasta",
+      "answer": "RA",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "A desinência verbal de escorrer",
+      "answer": "ER",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

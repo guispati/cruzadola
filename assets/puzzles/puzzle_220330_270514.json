@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Paredes que cercam um recinto",
+      "answer": "MUROS",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Vinho em preparação",
+      "answer": "MOSTO",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "(Pal. ingl.) No voleibol, saque que o jogador oponente não consegue rebater",
+      "answer": "ACE",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Capaz",
+      "answer": "IDONEO",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Estado de inspiração em que mergulha um artista",
+      "answer": "TRANSE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O contrário de mole (fem.)",
+      "answer": "DURA",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Um famoso álbum de Gilberto Gil",
+      "answer": "REALCE",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Plural",
+      "answer": "PL",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Que se refere ao bico do peito",
+      "answer": "MAMILAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Red.) O mês 2",
+      "answer": "FEV",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Grande mar interior, situado entre o Cazaquistão e o Uzbequistão",
+      "answer": "ARAL",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Atirado com força",
+      "answer": "TACADO",
+      "row": 5,
+      "col": 5
+    },
+    "25": {
+      "clue": "Portar, possuir",
+      "answer": "TER",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Porco selvagem de grandes presas",
+      "answer": "JAVALI",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "(Ingl.) Na moda",
+      "answer": "IN",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Felicitações",
+      "answer": "PARABENS",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "A atriz Protásio, de \"A Sogra Perfeita\"",
+      "answer": "CACAU",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Fenda",
+      "answer": "RACHO",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Um personagem mutante verde, muito forte",
+      "answer": "HULK",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Gás utilizado em cartazes luminosos",
+      "answer": "NEON",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "Reestrear",
+      "answer": "RELANÇAR",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A ciência dos números e das funções",
+      "answer": "MATEMATICA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ucrânia",
+      "answer": "UCR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Montar de novo",
+      "answer": "REARMAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Uma fibra para cordas, esteiras e tapetes",
+      "answer": "SISAL",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Pedra de lagar",
+      "answer": "MO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Em que",
+      "answer": "ONDE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Que lhe cabe",
+      "answer": "SEU",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Pequeno peixe dos rios Negro e Paraná, espécie ornamental",
+      "answer": "TORPEDINHO",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "(Gír.) Abrir o bico",
+      "answer": "DELATAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "O Armstrong (1930-2012) primeiro homem a pisar na Lua",
+      "answer": "NEIL",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Coisa a que a ação é dirigida",
+      "answer": "ALVO",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Fincar",
+      "answer": "CRAVAR",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "Nome dado aos modernos estádios de futebol e praças de eventos",
+      "answer": "ARENA",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Morrer (ser humano)",
+      "answer": "FALECER",
+      "row": 4,
+      "col": 8
+    },
+    "24": {
+      "clue": "Habitação simples, pequena, rústica, sem acabamento",
+      "answer": "CABANA",
+      "row": 5,
+      "col": 7
+    },
+    "26": {
+      "clue": "Gaiola para animais grandes",
+      "answer": "JAULA",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "O Cèzanne (1839-1906) pintor francês",
+      "answer": "PAUL",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "Necessidade de dormir",
+      "answer": "SONO",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "(Guevara) Um dos cabeças da revolução cubana",
+      "answer": "CHE",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "Kim Novak, atriz de \"Um Corpo Que Cai\"",
+      "answer": "KN",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

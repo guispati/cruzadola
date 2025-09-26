@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cidade do RN",
+      "answer": "CAICO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "A capital iraquiana",
+      "answer": "BAGDA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Um ser como Shrek",
+      "answer": "OGRO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "A Vergueiro da MPB",
+      "answer": "DORA",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Helena Ranaldi, atriz paulistana",
+      "answer": "HR",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "Uma cidade do sul de Minas Gerais",
+      "answer": "BAEPENDI",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "O principal alimento servido em um churrasco",
+      "answer": "CARNE",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "A atriz Giulia, de \"Chico Xavier\"",
+      "answer": "GAM",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Cidade paulista da região de Jaú",
+      "answer": "BARIRI",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Sufixo aumentativo",
+      "answer": "ARRO",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Cantor medieval",
+      "answer": "MENESTREL",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Canadá",
+      "answer": "CAN",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Ingl.) Indivíduo que rejeita os costumes e valores burgueses",
+      "answer": "BEATNIK",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "Não doce",
+      "answer": "AMARO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "A atriz Piovani, de \"A Mulher Invisível\"",
+      "answer": "LUANA",
+      "row": 7,
+      "col": 6
+    },
+    "28": {
+      "clue": "Usain Bolt, recordista mundial dos 100 e 200 m do atletismo",
+      "answer": "UB",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Untar",
+      "answer": "OLEAR",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Duas letras vizinhas e centrais no teclado",
+      "answer": "GH",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Um time do futebol pernambucano",
+      "answer": "SANTACRUZ",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Uma língua oficial da Bolívia",
+      "answer": "AIMARA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Tecido adiposo",
+      "answer": "SEBO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Companhia de Habitação Popular",
+      "answer": "COHAB",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Abreviatura de agricultura",
+      "answer": "AGR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Andar",
+      "answer": "IR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O roqueiro Kurt (1967-1994), do \"Nirvana\"",
+      "answer": "COBAIN",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Batalhão de Operações Policiais Especiais",
+      "answer": "BOPE",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Unidade das medidas agrárias",
+      "answer": "ARE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Morte de tecido, resultante de isquemia ou invasão de bactérias",
+      "answer": "GANGRENA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Sem fermento",
+      "answer": "AZIMO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "A atriz e humorista carioca Fraga",
+      "answer": "DENISE",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Arredondar",
+      "answer": "ARREBOLAR",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "(Pal. ingl.) Indivíduo preferido, amado",
+      "answer": "DARLING",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Espaço entre os dentes de uma roda",
+      "answer": "CRENA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Cidade do Mato Grosso do Sul, na região de Dourados",
+      "answer": "AMAMBAI",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "A quarta estrela mais brilhante do céu",
+      "answer": "ARTURUS",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Relativo ao calcanhar",
+      "answer": "TALAR",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Motivo, razão",
+      "answer": "CAUSA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "A Frida pintora mexicana (1907-1954)",
+      "answer": "KAHLO",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Percurso de um avião",
+      "answer": "ROTA",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Interjeição que exprime nojo",
+      "answer": "ECA",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Nanômetro",
+      "answer": "NM",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Zona Eleitoral",
+      "answer": "ZE",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

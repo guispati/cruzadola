@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Que imerge na água ou em outro líquido",
+      "answer": "MERGULHANTE",
+      "row": 0,
+      "col": 0
+    },
+    "11": {
+      "clue": "Pequena argola para proteger furos de ilhós",
+      "answer": "ANILHO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Cerveja, nos EUA",
+      "answer": "BEER",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Interjeição que exprime aprovação",
+      "answer": "ISTO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O músico paulistano de \"Desvairada\" (1915-1955)",
+      "answer": "GAROTO",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "(-vizinho) O dedo anular",
+      "answer": "SEU",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Da segunda cidade da Itália",
+      "answer": "MILANES",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "De Osaka ou Nagoya",
+      "answer": "JAPONES",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Relativo a cada uma das extremidades do eixo da Terra",
+      "answer": "POLAR",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Ramo de árvore",
+      "answer": "GALHO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Indústria de couros curtidos",
+      "answer": "PELARIA",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Prostíbulo",
+      "answer": "LUPANAR",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Flexão do pronome eu",
+      "answer": "MIM",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Ter a preferência",
+      "answer": "PRIMAR",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "O cargo de quem substitui o titular",
+      "answer": "VICE",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Preposição que indica prioridade no tempo",
+      "answer": "ANTE",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Falar em voz muito alta",
+      "answer": "GRITAR",
+      "row": 9,
+      "col": 5
+    },
+    "36": {
+      "clue": "O romancista de \"O Ateneu\" (1863-1895)",
+      "answer": "RAULPOMPEIA",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Matem.) O oposto de -",
+      "answer": "MAIS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ocasião propícia",
+      "answer": "ENSEJO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Cerimônia, liturgia",
+      "answer": "RITUAL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Garantia da Lei e da Ordem",
+      "answer": "GLO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Interjeição que exprime dor e espanto",
+      "answer": "UH",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Ingl.) Acesso a um programa",
+      "answer": "LOGIN",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Aquecer ou acalorar em extremo",
+      "answer": "ABRASAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Quím.) O Ne",
+      "answer": "NEON",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "A cantora Espíndola",
+      "answer": "TETE",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Desgaste causado pela água, vento etc.",
+      "answer": "EROSÃO",
+      "row": 0,
+      "col": 10
+    },
+    "15": {
+      "clue": "Citar como prova",
+      "answer": "ALEGAR",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Mais escura que a branca",
+      "answer": "MORENA",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Outro nome do bicho irara",
+      "answer": "PAPAMEL",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Tocar com a mão",
+      "answer": "PALPAR",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Linha de demarcação",
+      "answer": "LIMITE",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Poema japonês de três versos",
+      "answer": "HAICAI",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Logradouro menor que a praça",
+      "answer": "LARGO",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Caixão mortuário",
+      "answer": "URNA",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Tradicional marca brasileira de cachaça",
+      "answer": "PITU",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Pura e simples",
+      "answer": "MERA",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "Área (em evento) destinada à pessoas de prestígio",
+      "answer": "VIP",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "Renato Machado, jornalista carioca",
+      "answer": "RM",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Med.) Infecção do homem e dos animais, também chamada febre de malta",
+      "answer": "BRUCELOSE",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Típica exclamação caipira",
+      "answer": "UAI",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Doença que acomete principalmente homens, devida a perturbação do metabolismo do ácido úrico",
+      "answer": "GOTA",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "As iniciais do ex-piloto de F1 Fernando",
+      "answer": "FA",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "As iniciais da atriz Piovani, de \"A Mulher Invisível\"",
+      "answer": "LP",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Geom.) Parte de uma superfície compreendida entre dois meridianos",
+      "answer": "FUSO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Em boas condições de saúde",
+      "answer": "BEM",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Palavrório cheio de astúcia para persuadir e convencer",
+      "answer": "LABIA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Peça usada para prender o cabelo",
+      "answer": "TIARA",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "São dois em Cazuza",
+      "answer": "ZES",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Crescer, vegetando",
+      "answer": "MEDRAR",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Bosque espesso",
+      "answer": "MATAREU",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "O ponto obtido no futebol e no handebol",
+      "answer": "GOL",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Tecido de lã apropriado para forros",
+      "answer": "SAIETA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Suspender os pagamentos aos credores por impossibilidade de satisfazê-los",
+      "answer": "FALIR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Cessar",
+      "answer": "PARAR",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "O centro de... Olinda",
+      "answer": "IN",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "O negrinho de uma perna só, do folclore brasileiro",
+      "answer": "SACI",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Exclamação de desprezo",
+      "answer": "IXE",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "A letra que segue o dáblio",
+      "answer": "XIS",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Toga",
+      "answer": "BECA",
+      "row": 9,
+      "col": 4
+    },
+    "37": {
+      "clue": "A atual rainha Elizabeth",
+      "answer": "II",
+      "row": 9,
+      "col": 9
+    },
+    "38": {
+      "clue": "Um invertebrado como o caranguejo ou a aranha",
+      "answer": "ARTROPODE",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Terrier) Uma raça de cães de origem britânica",
+      "answer": "BULL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Moço",
+      "answer": "RAPAZ",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Uma ponta do... Piauí",
+      "answer": "UI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A mãe dos potros",
+      "answer": "EGUA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "O L da cidade LA, nos EUA",
+      "answer": "LOS",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Relativo ao tratamento e/ou à cura do aparelho auditivo",
+      "answer": "OTOTERAPICO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "A cantora Sandra de",
+      "answer": "SA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Ficar gostando ardentemente",
+      "answer": "GAMAR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Animal bravio e carnívoro",
+      "answer": "FERA",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Planta cujo fruto é usado em medicina e geleias, também chamada camapu",
+      "answer": "FISALIS",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Cidade de São Paulo, próxima à capital",
+      "answer": "BARUERI",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Sinal que abaixa a nota musical em meio tom",
+      "answer": "BEMOL",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Juízo e opinião sobre uma pessoa ou coisa",
+      "answer": "IDEIA",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Todavia, senão",
+      "answer": "MAS",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Soltar (o cão) gritos lamentosos",
+      "answer": "GANIR",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Automóvel de aluguel para transporte de passageiros",
+      "answer": "TAXI",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Um material utilizado para a higiene dos gatos",
+      "answer": "AREIA",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Imóvel, firme (fem.)",
+      "answer": "FIXA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Uma extremidade da lagartixa",
+      "answer": "RABO",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Os oito dígitos que indicam um endereço postal",
+      "answer": "CEP",
+      "row": 8,
+      "col": 5
+    },
+    "34": {
+      "clue": "As letras que separam o R do U",
+      "answer": "ST",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "As iniciais do cantor mineiro Altemar (1940-1983)",
+      "answer": "AD",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

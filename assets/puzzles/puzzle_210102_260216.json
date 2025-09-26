@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Brilho próprio do que é limpo",
+      "answer": "CLAREZA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Pronome da primeira pessoa do plural",
+      "answer": "NOS",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Uma função trigonométrica",
+      "answer": "SENO",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "Queijo de soja, da culinária oriental",
+      "answer": "TOFU",
+      "row": 1,
+      "col": 7
+    },
+    "11": {
+      "clue": "Esforço intenso e contínuo",
+      "answer": "AFINCO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "A Lobo chef",
+      "answer": "RITA",
+      "row": 2,
+      "col": 7
+    },
+    "14": {
+      "clue": "Elevar-se do chão com esforço rápido",
+      "answer": "PULAR",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Bater a massa de",
+      "answer": "SOVAR",
+      "row": 3,
+      "col": 6
+    },
+    "16": {
+      "clue": "Cada capítulo da peça",
+      "answer": "ATO",
+      "row": 4,
+      "col": 0
+    },
+    "17": {
+      "clue": "Substância mais conhecida por álcool etílico",
+      "answer": "ETANOL",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "A 2ª nota musical",
+      "answer": "RE",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "(Anat.) Parte acessória de um órgão",
+      "answer": "ANEXO",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "Miguel Falabella, ator e diretor de teatro e TV",
+      "answer": "MF",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Material sintético com pelos cerrados e que funciona como substituto do zíper",
+      "answer": "VELCRO",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Dez ao cubo",
+      "answer": "MIL",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Cada uma das curvas de uma espiral",
+      "answer": "VOLTA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Pedacinho de cereal desidratado",
+      "answer": "FLOCO",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "Ponto de mira que se procura atingir com tiro",
+      "answer": "ALVO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Que pode sustentar-se ou mover-se no ar por meio de asas ou algum meio mecânico",
+      "answer": "VOADOR",
+      "row": 8,
+      "col": 5
+    },
+    "31": {
+      "clue": "Normas, regras",
+      "answer": "LEIS",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Forma sertaneja de até",
+      "answer": "INTE",
+      "row": 9,
+      "col": 5
+    },
+    "33": {
+      "clue": "Advérbio que significa aqui está!",
+      "answer": "EIS",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "O ponto mais alto a que atinge a maré",
+      "answer": "PREAMAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Gráf.) Cobrir a área de impressão com tinta de modo uniforme, sem meios-tons",
+      "answer": "CHAPAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Casa de repouso para idosos",
+      "answer": "ASILO",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Cervo de uma das regiões polares",
+      "answer": "RENA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Situação complicada ou embaraçosa",
+      "answer": "ENCRENCA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Forma reduzida do local onde são expostos animais de diferentes espécies",
+      "answer": "ZOO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Homem que está para casar",
+      "answer": "NOIVO",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Relativo aos olhos",
+      "answer": "OFTALMICO",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Sair em gotas",
+      "answer": "SUAR",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "(Pop.) Vaso sanitário",
+      "answer": "TRONO",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Um esporte muito praticado nas praias",
+      "answer": "FUTEVOLEI",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "O instrumento musical de John Coltrane",
+      "answer": "SAXOFONE",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Antecede Qua",
+      "answer": "TER",
+      "row": 4,
+      "col": 5
+    },
+    "20": {
+      "clue": "A parte superior da casa",
+      "answer": "ALTOS",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Tornar viçoso, cheio de frescor",
+      "answer": "FLORIR",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "O cantor Presley (1935-1977)",
+      "answer": "ELVIS",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Conecta o computador à rede de telefonia",
+      "answer": "MODEM",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "O do Anhangabaú fica no centro de São Paulo",
+      "answer": "VALE",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Uma embalagem para leite em pó",
+      "answer": "LATA",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Ser proveniente de",
+      "answer": "VIR",
+      "row": 8,
+      "col": 5
+    }
+  }
+}

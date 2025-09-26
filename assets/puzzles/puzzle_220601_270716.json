@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Passível de ser contido, controlado",
+      "answer": "DOMINAVEL",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Precede o eme",
+      "answer": "ELE",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Um veículo para transporte coletivo",
+      "answer": "ONIBUS",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Ave comum no Brasil, de plumagem branca",
+      "answer": "GARCETA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Red.) Local onde são expostos animais de diferentes espécies",
+      "answer": "ZOO",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Amigo",
+      "answer": "COLEGA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Cauby Peixoto, cantor",
+      "answer": "CP",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Estar apaixonado",
+      "answer": "AMAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Ingl.) Autorretrato",
+      "answer": "SELFIE",
+      "row": 4,
+      "col": 5
+    },
+    "23": {
+      "clue": "As pontas das mãos e dos pés",
+      "answer": "DEDOS",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Adoçar em demasia",
+      "answer": "MELAR",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "Colocar numa sequência de lugares",
+      "answer": "ALOCAR",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Parte da roupa que fica junto ao pescoço",
+      "answer": "GOLA",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Preposição própria ou essencial",
+      "answer": "DE",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Tornar mais ardente",
+      "answer": "AVIVAR",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "Casa de índios",
+      "answer": "OCA",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Conferido e harmonizado com o padrão",
+      "answer": "AFERIDO",
+      "row": 8,
+      "col": 4
+    },
+    "36": {
+      "clue": "Afiançar, garantir como fiador",
+      "answer": "ABONAR",
+      "row": 9,
+      "col": 1
+    },
+    "38": {
+      "clue": "Administrar como remédio",
+      "answer": "DAR",
+      "row": 9,
+      "col": 8
+    },
+    "39": {
+      "clue": "Passagem de luz no teto de construções",
+      "answer": "CLARABOIA",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Danificado, estragado",
+      "answer": "DEGRADADO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Movimento de onda da torcida",
+      "answer": "OLA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Reunião de negociantes em lugar público",
+      "answer": "MERCADO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O Papai da festa de Natal",
+      "answer": "NOEL",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Precede durante e depois",
+      "answer": "ANTES",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(ao Centro da Terra) Livro de ficção científica de Júlio Verne",
+      "answer": "VIAGEM",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Náut.) Abreviatura de estibordo",
+      "answer": "EB",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Claridade do Sol",
+      "answer": "LUZ",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "O segundo S do SESC",
+      "answer": "SOCIAL",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Caduco, decrépito",
+      "answer": "COROCA",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Concessionária de um serviço público (transporte, comunicação, eletricidade etc.)",
+      "answer": "OPERADORA",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Citar como prova",
+      "answer": "ALEGAR",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "(Pop.) Catarro seco das fossas nasais",
+      "answer": "MELECA",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Cheio de gérberas, tulipas e margaridas",
+      "answer": "FLORIDO",
+      "row": 4,
+      "col": 8
+    },
+    "24": {
+      "clue": "Tipo de estepe das zonas tropicais e subtropicais",
+      "answer": "SAVANA",
+      "row": 5,
+      "col": 4
+    },
+    "27": {
+      "clue": "(Gír.) Dispensar por inútil",
+      "answer": "RIFAR",
+      "row": 6,
+      "col": 5
+    },
+    "31": {
+      "clue": "A atriz Holtz das novelas",
+      "answer": "VERA",
+      "row": 7,
+      "col": 6
+    },
+    "33": {
+      "clue": "Precedem o D",
+      "answer": "ABC",
+      "row": 8,
+      "col": 2
+    },
+    "35": {
+      "clue": "Contração de preposição e advérbio de lugar",
+      "answer": "DAI",
+      "row": 8,
+      "col": 9
+    },
+    "37": {
+      "clue": "Orígenes Lessa (1903-1986), escritor",
+      "answer": "OL",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "A carta mais importante no jogo do truco",
+      "answer": "ZAPE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Carro antigamente fabricado no Brasil, próprio para terrenos acidentados",
+      "answer": "GURGEL",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "(Modernos) Famoso filme de Charles Chaplin",
+      "answer": "TEMPOS",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "61, em romanos",
+      "answer": "LXI",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Fictício",
+      "answer": "IRREAL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Cume",
+      "answer": "TOPO",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Perverso, ruim",
+      "answer": "MAU",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "(Tavares) Rodovia paulista",
+      "answer": "RAPOSO",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Pequeno lambari",
+      "answer": "PIABA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Um serviço que cuida da saúde da população",
+      "answer": "SUS",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "(Quím.) Irídio",
+      "answer": "IR",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Irradiar, espalhar claridade",
+      "answer": "LUZIR",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Alagoas",
+      "answer": "AL",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Junho",
+      "answer": "JUN",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Um objeto qualquer",
+      "answer": "COISA",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "Roupa usada em dias frios",
+      "answer": "CASACO",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "(Abrev) Dicionário",
+      "answer": "DIC",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "A base da polenta",
+      "answer": "FUBA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Um dado dos mapas",
+      "answer": "ESCALA",
+      "row": 8,
+      "col": 5
+    },
+    "34": {
+      "clue": "Som de pássaro",
+      "answer": "PIO",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Sinal para indicar o caminho",
+      "answer": "FLECHA",
+      "row": 9,
+      "col": 4
+    },
+    "36": {
+      "clue": "Salve! (nos cultos afro-brasileiros)",
+      "answer": "SARAVA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "(Mús.) Conjunto de canto",
+      "answer": "CORO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Trazer para si",
+      "answer": "ATRAIR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um veículo como a Kombi",
+      "answer": "PERUA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Uma consoante bilabial",
+      "answer": "EME",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Parte da roupa que está junto ao pescoço",
+      "answer": "GOLA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Open) Importante torneio de tênis realizado nos EUA",
+      "answer": "US",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Ingl.) Um batom que hidrata e protege os lábios",
+      "answer": "GLOSS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Red.) Exibição de produtos",
+      "answer": "EXPO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Maço de coisas iguais",
+      "answer": "LIO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Cidade de Goiás, na região do vale do Rio dos Bois",
+      "answer": "PARAUNA",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Que não tem piedade",
+      "answer": "IMPIO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O signo que antecede Gêmeos",
+      "answer": "TOURO",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Famoso filme de Hitchcock (1960)",
+      "answer": "PSICOSE",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Espécie de casaco",
+      "answer": "BLUSA",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Chapa de identificação de automóveis",
+      "answer": "PLACA",
+      "row": 4,
+      "col": 10
+    },
+    "24": {
+      "clue": "Abrigar numa instituição de caridade",
+      "answer": "ASILAR",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "O cineasta e cronista carioca Arnaldo",
+      "answer": "JABOR",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Estado norte-americano cuja capital é Boise",
+      "answer": "IDAHO",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Vasilha própria para tomar o mate",
+      "answer": "CUIA",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "O quarto do presidiário",
+      "answer": "CELA",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "Fator de Proteção Solar",
+      "answer": "FPS",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Trezentos, em algarismos romanos",
+      "answer": "CCC",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "Fagundes Varella (1841-1875), poeta",
+      "answer": "FV",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

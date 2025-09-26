@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Infantil",
+      "answer": "MIRIM",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "A mesa sagrada da missa",
+      "answer": "ALTAR",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Uma tecla do notebook",
+      "answer": "ALT",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Um osso do peito",
+      "answer": "ESTERNO",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Um fator de hereditariedade",
+      "answer": "RH",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O estado de Picos e Piripiri",
+      "answer": "PIAUI",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Cercam o K",
+      "answer": "JL",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "(Pop.) Suavidade",
+      "answer": "MACIOTA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Última partida de certos jogos",
+      "answer": "BOA",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Que é constituído por ilhas",
+      "answer": "INSULAR",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Roçar os dentes uns contra os outros",
+      "answer": "RANGER",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Pop.) Um veículo de duas rodas",
+      "answer": "MOTO",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "A cantora Soares (1930-2022)",
+      "answer": "ELZA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Destinar a um fim específico",
+      "answer": "ALOCAR",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "(Med.) Diz-se de um tipo de anestesia",
+      "answer": "PERIDURAL",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Corta-se pela raiz, conforme o dito popular",
+      "answer": "MAL",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Amplamente conhecido",
+      "answer": "NOTORIO",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Símbolo de parsec, unidade de distância",
+      "answer": "PC",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "(de) Em lugar posterior a",
+      "answer": "ATRAS",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Bolsa de Valores",
+      "answer": "BV",
+      "row": 9,
+      "col": 9
+    },
+    "36": {
+      "clue": "Um peixe de couro sem escamas",
+      "answer": "BAGRE",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Foguete",
+      "answer": "ROJÃO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Rocha muito usada como piso e revestimentos",
+      "answer": "MARMORE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Uma porção de terra como Java ou Honshu",
+      "answer": "ILHA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Responsável Técnico",
+      "answer": "RT",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Biol.) Um processo de divisão celular",
+      "answer": "MEIOSE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Deste tempo",
+      "answer": "ATUAL",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "A regra que deveria ser igual para todos",
+      "answer": "LEI",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Tribunal de Recursos",
+      "answer": "TR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Fig.) Criança quieta, tranquila",
+      "answer": "ANJO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Que avançar volteando sobre si mesmo",
+      "answer": "ROLADOR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Que impregna, embebe ao máximo",
+      "answer": "SATURADOR",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "A ato de aplicar um colírio",
+      "answer": "PINGAR",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "Ferramenta de aço usada para esculpir o metal",
+      "answer": "CINZEL",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Criar furo em",
+      "answer": "BROCAR",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Carinhoso",
+      "answer": "AMOROSO",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Liga metálica para talheres",
+      "answer": "ALPACA",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Movimento nacionalista islâmico do Afeganistão",
+      "answer": "TALIBÃ",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Enfrentar, guerrear",
+      "answer": "LUTAR",
+      "row": 6,
+      "col": 6
+    },
+    "29": {
+      "clue": "Forma popular de até",
+      "answer": "INTE",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Estilo musical",
+      "answer": "MPB",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "O ingrediente fundamental na omelete",
+      "answer": "OVO",
+      "row": 8,
+      "col": 10
+    },
+    "34": {
+      "clue": "O que falta a quem está sufocando",
+      "answer": "AR",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

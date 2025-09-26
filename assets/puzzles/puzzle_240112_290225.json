@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Que é igual a outra",
+      "answer": "MESMA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Num ponto superior",
+      "answer": "ACIMA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Bola de fio enrolado",
+      "answer": "NOVELO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Delirium Tremens",
+      "answer": "DT",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Digníssimo",
+      "answer": "DD",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Habilidoso",
+      "answer": "DESTRO",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Espaço delimitado no interior de um prédio",
+      "answer": "RECINTO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "O total de anos de um século",
+      "answer": "CEM",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "(Pop.) Mau cheiro, catinga",
+      "answer": "INHACA",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Metade",
+      "answer": "MEIO",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Agir visando lucros exagerados",
+      "answer": "GANANCIAR",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "€",
+      "answer": "EURO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Cidade sede de um famoso festival de cinema francês",
+      "answer": "CANNES",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Com conforto físico",
+      "answer": "BEM",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "(Anat.) Saliência óssea do tornozelo",
+      "answer": "MALEOLO",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Fugir da prisão",
+      "answer": "EVADIR",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "Ivone Lara (1921-2018), sambista de \"Sonho Meu\"",
+      "answer": "IL",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Abreviatura de ibidem (no mesmo lugar)",
+      "answer": "IB",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Tornar nodoso",
+      "answer": "ENODAR",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "A região com a escápula",
+      "answer": "OMBRO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Calor forte, intenso",
+      "answer": "ARDOR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A capital europeia banhada pelo rio Manzanares",
+      "answer": "MADRI",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Sistema Nervoso",
+      "answer": "SN",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "O escritor francês Patrick, Nobel de Literatura de 2014",
+      "answer": "MODIANO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Planta usada em paisagismo, de folhas pequenas",
+      "answer": "AVENCA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Mús.) Agudo",
+      "answer": "ALTO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Uma característica como o laranja ou o verde",
+      "answer": "COR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O apelido da \"droga do amor\"",
+      "answer": "MD",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Momento breve",
+      "answer": "ATIMO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Vedado, parado",
+      "answer": "ESTANCADO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "",
+      "answer": "DENGUE",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Uma extensão de água salgada como o Pacífico",
+      "answer": "OCEANO",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Característica atraente",
+      "answer": "CHARME",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Empresa Individual de Responsabilidade Limitada",
+      "answer": "EIRELI",
+      "row": 3,
+      "col": 9
+    },
+    "21": {
+      "clue": "Explorar jazidas",
+      "answer": "MINERAR",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Quente (falando-se da temperatura)",
+      "answer": "CALIDA",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Beberrão",
+      "answer": "EBRIO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Da planta do pé",
+      "answer": "SOLAR",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "(Pop.) Irmão",
+      "answer": "MANO",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Perceber com os olhos a realidade concreta",
+      "answer": "VER",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Em música, si menor",
+      "answer": "BM",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "Símbolo da unidade física rutherford",
+      "answer": "RD",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

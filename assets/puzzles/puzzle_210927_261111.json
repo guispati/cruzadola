@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "A primeira folha da revista",
+      "answer": "CAPA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(James) O agente 007, de Ian Fleming",
+      "answer": "BOND",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "O país cuja capital é Moscou",
+      "answer": "RUSSIA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Tintura preparada com o pó das folhas do arbusto homônimo",
+      "answer": "HENA",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "O músico de rock Presley (1935-1977)",
+      "answer": "ELVIS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O dente que tritura os alimentos",
+      "answer": "MOLAR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Chico Anysio (1931-2012), humorista",
+      "answer": "CA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Gruta pequena",
+      "answer": "LOCA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Feita por ti",
+      "answer": "TUA",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "(Pop.) Tentar conseguir com muito empenho",
+      "answer": "BATALHAR",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Elton John, músico",
+      "answer": "EJ",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "De + essa",
+      "answer": "DESSA",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Famoso filme de animação",
+      "answer": "UP",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Substância que pode interromper a gravidez",
+      "answer": "ABORTIVO",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "(Abrev.) Bulgária",
+      "answer": "BUL",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Lisa) A mais conhecida obra de Leonardo da Vinci",
+      "answer": "MONA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "José Trajano, jornalista",
+      "answer": "JT",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Enganado com falsas promessas",
+      "answer": "ILUSO",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Palanque para procissões",
+      "answer": "ANDOR",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Não funda",
+      "answer": "RASA",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Pequena parte de um livro, de um escrito",
+      "answer": "TRECHO",
+      "row": 9,
+      "col": 5
+    },
+    "37": {
+      "clue": "O nacional da França é \"A Marselhesa\"",
+      "answer": "HINO",
+      "row": 10,
+      "col": 2
+    },
+    "38": {
+      "clue": "Fatalidade a que supostamente tudo no mundo está sujeito",
+      "answer": "SINA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Educa crianças",
+      "answer": "CRECHE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Período de ensinamentos dados dentro do horário escolar",
+      "answer": "AULA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um clube de futebol holandês",
+      "answer": "PSV",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Refugiado político",
+      "answer": "ASILADO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Sigla do estado com a Costa do Sauípe",
+      "answer": "BA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Redução de senhor",
+      "answer": "NHO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Uma variante do Coronavírus",
+      "answer": "DELTA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Face, rosto",
+      "answer": "CARA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Que mantém a mesma temperatura",
+      "answer": "ISOTERMO",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "A ilha da Oceania cuja capital é Yaren",
+      "answer": "NAURU",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Tomar em mau sentido",
+      "answer": "MALSINAR",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Puro",
+      "answer": "CASTO",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Relativo à capital de Cuba",
+      "answer": "HAVANES",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Gaiola para animais de grande porte",
+      "answer": "JAULA",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Dona",
+      "answer": "PATROA",
+      "row": 5,
+      "col": 10
+    },
+    "27": {
+      "clue": "(Ingl.) Cosmético usado para corar a face",
+      "answer": "BLUSH",
+      "row": 6,
+      "col": 2
+    },
+    "28": {
+      "clue": "Buraco para o jogo do pião",
+      "answer": "BIRA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "O Lennon dos Beatles",
+      "answer": "JOHN",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Ave de cores brilhantes, esverdeadas ou azuladas",
+      "answer": "SAI",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "601, em algarismos romanos",
+      "answer": "DCI",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "A UF de Palmas",
+      "answer": "TO",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

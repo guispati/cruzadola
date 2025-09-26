@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "O pintor Alfredo (1896-1988), das bandeirinhas",
+      "answer": "VOLPI",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Embalar",
+      "answer": "NINAR",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Aleatório, fortuito",
+      "answer": "RANDOMICO",
+      "row": 1,
+      "col": 2
+    },
+    "12": {
+      "clue": "O apelido da \"lady\" inglesa cuja morte abalou o mundo",
+      "answer": "DI",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Hortaliça que acompanha a feijoada",
+      "answer": "COUVE",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Um famoso alienígena do cinema",
+      "answer": "ET",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Um salgadinho",
+      "answer": "EMPADA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Um extremo da vaca",
+      "answer": "RABO",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "A mãe dos primos",
+      "answer": "TIA",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Importante cidade paulista, próxima à capital",
+      "answer": "OSASCO",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "Localizar-se",
+      "answer": "ESTAR",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Jogo vencido com facilidade",
+      "answer": "BAILE",
+      "row": 5,
+      "col": 6
+    },
+    "27": {
+      "clue": "Ridículo, de mau gosto",
+      "answer": "CAFONA",
+      "row": 6,
+      "col": 1
+    },
+    "29": {
+      "clue": "(de Castro) Compositor e músico carioca",
+      "answer": "MAX",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "Demonstração de alegria externada pelo rosto",
+      "answer": "RISO",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Os restos de um cadáver",
+      "answer": "OSSADA",
+      "row": 7,
+      "col": 5
+    },
+    "33": {
+      "clue": "1/5 de 20, em números romanos",
+      "answer": "IV",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "A cantora baiana Sangalo",
+      "answer": "IVETE",
+      "row": 8,
+      "col": 3
+    },
+    "36": {
+      "clue": "(Quím.) Terminação dos álcoois",
+      "answer": "OL",
+      "row": 8,
+      "col": 9
+    },
+    "37": {
+      "clue": "Que contém certa substância contida na hortelã",
+      "answer": "MENTOLADO",
+      "row": 9,
+      "col": 0
+    },
+    "40": {
+      "clue": "O executor de uma sentença de morte",
+      "answer": "ALGOZ",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "Colocar algo de volta ao lugar",
+      "answer": "REPOR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Atriz muito cotada do antigo teatro de revistas",
+      "answer": "VEDETE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O laurêncio, entre os químicos",
+      "answer": "LR",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Roedor noturno, vive próximo a rios",
+      "answer": "PACA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Que não tem cheiro",
+      "answer": "INODORO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Uma forma de abreviar o nome do penúltimo mês do ano",
+      "answer": "NOV",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Coberta de água",
+      "answer": "IMERSA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Quím.) Níquel",
+      "answer": "NI",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Uma forma de se preparar o bife",
+      "answer": "ACEBOLADO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Mal vestido",
+      "answer": "ROTO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "A hora entre uma e três",
+      "answer": "DUAS",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Que não se mistura",
+      "answer": "IMISCIVEL",
+      "row": 2,
+      "col": 1
+    },
+    "17": {
+      "clue": "São quatro nos ratos e nos jacarés",
+      "answer": "PATAS",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Em lugar mais alto",
+      "answer": "ACIMA",
+      "row": 3,
+      "col": 8
+    },
+    "22": {
+      "clue": "Ser suficiente",
+      "answer": "ABASTAR",
+      "row": 4,
+      "col": 6
+    },
+    "24": {
+      "clue": "Sem medo",
+      "answer": "AFOITO",
+      "row": 5,
+      "col": 3
+    },
+    "26": {
+      "clue": "Espalhar odores, vapores e outras substâncias que se perdem no ar",
+      "answer": "EXALAR",
+      "row": 5,
+      "col": 10
+    },
+    "28": {
+      "clue": "O Papai gorducho, que usa roupa vermelha e branca",
+      "answer": "NOEL",
+      "row": 6,
+      "col": 5
+    },
+    "30": {
+      "clue": "A combinação de mandar com governar",
+      "answer": "RIMA",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Ponto escolhido para aí se dar um evento, encontro etc.",
+      "answer": "SEDE",
+      "row": 7,
+      "col": 7
+    },
+    "35": {
+      "clue": "Som que sai da boca do homem quando fala",
+      "answer": "VOZ",
+      "row": 8,
+      "col": 4
+    },
+    "38": {
+      "clue": "Nomenclatura Geral",
+      "answer": "NG",
+      "row": 9,
+      "col": 2
+    },
+    "39": {
+      "clue": "Osmar Prado, ator",
+      "answer": "OP",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

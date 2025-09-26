@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Carvão muito quente, sem chamas",
+      "answer": "BRASA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Um Gabriel atacante do futebol",
+      "answer": "JESUS",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Uma degeneração renal",
+      "answer": "NEFROSE",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Pessoa dissimulada",
+      "answer": "MOSCÃO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Topo de serra",
+      "answer": "CUME",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Conjunto de três objetos",
+      "answer": "TRIO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Zeloso, cuidadoso",
+      "answer": "CIOSO",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "(Banda) Famoso grupo baiano de axé, criado em 1980",
+      "answer": "EVA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "(Ingl.) Saguão",
+      "answer": "HALL",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Decilitro",
+      "answer": "DL",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "(Rel.) A mãe de Jesus Cristo",
+      "answer": "VIRGEMMARIA",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Abreviatura de isto é",
+      "answer": "IE",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "O rio de Hamburgo e Dresden, na Alemanha",
+      "answer": "ELBA",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Espanha",
+      "answer": "ESP",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Plano da mesa",
+      "answer": "TAMPO",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Abreviatura de milha marítima",
+      "answer": "MIMA",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Atitude estudada de quem vai ser retratado",
+      "answer": "POSE",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Um usuário de livros",
+      "answer": "LEITOR",
+      "row": 8,
+      "col": 5
+    },
+    "34": {
+      "clue": "Piloto de embarcação fluvial de pesca",
+      "answer": "POPEIRO",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Em TV e cinema, cena muito rápida",
+      "answer": "FLASH",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "(Bíbl.) Um sumo-sacerdote do povo de Israel",
+      "answer": "AARÃO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ave muito comum no Brasil",
+      "answer": "BEMTEVI",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Fig.) Desejar com muita intensidade",
+      "answer": "ANSIAR",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Grosseiro, ríspido",
+      "answer": "SECO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Desejo intenso",
+      "answer": "AFÃ",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "O humorista e escritor Soares",
+      "answer": "JO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "A de samba é uma sociedade carnavalesca",
+      "answer": "ESCOLA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Os parentes dele",
+      "answer": "SEUS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Su-sueste",
+      "answer": "SSE",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Doce enrolado em espiral com recheio de geleia, chocolate etc.",
+      "answer": "ROCAMBOLE",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Cidade histórica italiana, na Úmbria",
+      "answer": "ORVIETO",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Aquilo que está em voga, de caráter efêmero",
+      "answer": "MODISMO",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Ilustríssima",
+      "answer": "ILMA",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Uma das mais famosas músicas dos Beatles",
+      "answer": "HELP",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Uma doença dos equinos e de alguns felinos",
+      "answer": "LAPARÃO",
+      "row": 4,
+      "col": 10
+    },
+    "23": {
+      "clue": "Signo que vai de 21 de maio a 20 de junho",
+      "answer": "GEMEOS",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Aquele que rege",
+      "answer": "REITOR",
+      "row": 5,
+      "col": 8
+    },
+    "29": {
+      "clue": "Antigo instrumento de tortura",
+      "answer": "ASPA",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Escopo",
+      "answer": "MIRA",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Polícia Rodoviária Federal",
+      "answer": "PRF",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Interj.) Avante!",
+      "answer": "EIA",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Em química, Potencial hidrogeniônico",
+      "answer": "PH",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Estampilha usada em cartas",
+      "answer": "SELO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Feixe pequeno",
+      "answer": "MOLHO",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Decisão final e irrevogável",
+      "answer": "ULTIMATO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "As letras que separam o O do R",
+      "answer": "PQ",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "A UF de Piripiri e Luis Correia",
+      "answer": "PI",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Trama usada pela aranha para apanhar comida",
+      "answer": "TEIA",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "(Arranha-) Edifício muito alto",
+      "answer": "CEU",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "(Pop.) Tosse convulsa",
+      "answer": "ESGANA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Competição automobilística de regularidade",
+      "answer": "RALI",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Coisas opostas",
+      "answer": "AVESSAS",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "O arquipélago com os vulcões Kilauea e Mauna Loa",
+      "answer": "HAVAI",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Terra que separa mares",
+      "answer": "ISTMO",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Libélula",
+      "answer": "ODONATO",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Erva daninha",
+      "answer": "MATO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Situado acima da superfície das águas",
+      "answer": "EMERSO",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "(Interj.) Avante!",
+      "answer": "EIA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Ingl.) Combustível",
+      "answer": "FUEL",
+      "row": 8,
+      "col": 4
+    },
+    "31": {
+      "clue": "O plutônio, em química",
+      "answer": "PU",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Mil e quinhentos, em algarismos romanos",
+      "answer": "MD",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Que tem múltiplas aptidões",
+      "answer": "VERSATIL",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "(Bezerra da) Sambista pernambucano",
+      "answer": "SILVA",
+      "row": 10,
+      "col": 1
+    },
+    "36": {
+      "clue": "O filósofo francês Descartes",
+      "answer": "RENE",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um herói dos quadrinhos e do cinema",
+      "answer": "SUPERHOMEM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A cantora Regina (1945-1982)",
+      "answer": "ELIS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Leis Trabalhistas",
+      "answer": "LT",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Que tem 8 faces ou lados",
+      "answer": "OITAVADO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Índios que dominaram a América Central e parte do México",
+      "answer": "MAIAS",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Um sufixo diminutivo feminino",
+      "answer": "OTA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Certo tecido fino e ralo",
+      "answer": "LO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Marca de carros",
+      "answer": "OPEL",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Movimento de alguma parte do corpo",
+      "answer": "MENEIO",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "kJ",
+      "answer": "QUILOJOULE",
+      "row": 1,
+      "col": 10
+    },
+    "15": {
+      "clue": "Cor marrom-acinzentada",
+      "answer": "CASTOR",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Dança provençal, de movimentos graciosos",
+      "answer": "GAVOTA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Limpar um pedaço de terra com certo instrumento de jardinagem",
+      "answer": "RASTELAR",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Uma raça de gatos de pelo curto e olhos azuis",
+      "answer": "SIAMES",
+      "row": 4,
+      "col": 6
+    },
+    "24": {
+      "clue": "(Pop.) Disposição irritadiça, pessimista",
+      "answer": "NEURA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Grave doença que ataca o sistema imunológico",
+      "answer": "AIDS",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Carro da Chevrolet",
+      "answer": "SPIN",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Antecede Mar",
+      "answer": "FEV",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Vanderlei Luxemburgo, técnico de futebol",
+      "answer": "VL",
+      "row": 9,
+      "col": 3
+    },
+    "34": {
+      "clue": "Tubo para conduzir água em ângulo reto",
+      "answer": "TE",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

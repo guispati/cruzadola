@@ -1,0 +1,108 @@
+{
+  "across": {
+    "3": {
+      "clue": "A praça do centro da cidade do Rio, junto ao Museu do Amanhã",
+      "answer": "MAUA",
+      "row": 1,
+      "col": 4
+    },
+    "4": {
+      "clue": "Museu de Arte Moderna, localizado no Parque do Flamengo, um dos mais importantes do país",
+      "answer": "MAM",
+      "row": 2,
+      "col": 0
+    },
+    "5": {
+      "clue": "(de Açúcar) Um dos mais conhecidos pontos turísticos do Brasil e do mundo",
+      "answer": "PÃO",
+      "row": 2,
+      "col": 8
+    },
+    "6": {
+      "clue": "A Rio-Niterói tem mais de 13 km de comprimento e foi inaugurada em 1974",
+      "answer": "PONTE",
+      "row": 3,
+      "col": 4
+    },
+    "7": {
+      "clue": "O cantor e compositor carioca Noel (1910-1937), de \"Palpite Infeliz\", nascido em Vila Isabel",
+      "answer": "ROSA",
+      "row": 4,
+      "col": 0
+    },
+    "9": {
+      "clue": "Um nome pelo qual é conhecido o aeroporto localizado na Ilha do Governador",
+      "answer": "GALEÃO",
+      "row": 5,
+      "col": 5
+    },
+    "11": {
+      "clue": "A da Guanabara banha Magé, Niterói e outras cidades, além da capital do estado do Rio de Janeiro",
+      "answer": "BAIA",
+      "row": 6,
+      "col": 2
+    },
+    "12": {
+      "clue": "Uma festa que atrai grande público para a praia de Copacabana",
+      "answer": "REVEILLON",
+      "row": 8,
+      "col": 2
+    },
+    "13": {
+      "clue": "O Niemeyer (1907-2012) arquiteto carioca autor de obras como o Plano Piloto de Brasília e a Casa das Canoas",
+      "answer": "OSCAR",
+      "row": 10,
+      "col": 0
+    },
+    "14": {
+      "clue": "O formato dos desenhos do calçadão de Copacabana, feito com pedras portuguesas",
+      "answer": "ONDAS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O maestro, cantor e compositor carioca Jobim (1927-1994), ícone da música mundial",
+      "answer": "TOM",
+      "row": 0,
+      "col": 2
+    },
+    "2": {
+      "clue": "(da Boa Vista) O parque onde se localiza o Museu Nacional, destruído por um incêndio em 2018",
+      "answer": "QUINTA",
+      "row": 0,
+      "col": 6
+    },
+    "4": {
+      "clue": "(Morro Dona) Serviu de cenário para várias gravações de filmes e clipes, como para Michael Jackson em 1996",
+      "answer": "MARTA",
+      "row": 2,
+      "col": 0
+    },
+    "5": {
+      "clue": "Praia e avenida da Barra da Tijuca; homenageiam um grande esportista carioca falecido em 1991",
+      "answer": "PEPE",
+      "row": 2,
+      "col": 8
+    },
+    "8": {
+      "clue": "A Linha que liga Jacarepaguá à Ilha do Fundão; seu nome oficial é Avenida Carlos Lacerda",
+      "answer": "AMARELA",
+      "row": 4,
+      "col": 3
+    },
+    "9": {
+      "clue": "O bairro com a sede do Clube de Regatas do Flamengo",
+      "answer": "GAVEA",
+      "row": 5,
+      "col": 5
+    },
+    "10": {
+      "clue": "Bairro da Zona Sul, entre Ipanema, a Lagoa Rodrigo de Freitas e o Vidigal; é um dos mais valorizados do Brasil",
+      "answer": "LEBLON",
+      "row": 5,
+      "col": 7
+    }
+  }
+}

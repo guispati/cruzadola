@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Antigo povo que habitou o território do atual México",
+      "answer": "ASTECAS",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Grande polo industrial paulista",
+      "answer": "ABC",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "(Fig.) Pessoa que ignora um assunto",
+      "answer": "LEIGO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Brado",
+      "answer": "BERRO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Uma bebida alcoólica transparente",
+      "answer": "GIM",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Ingl.) Nas corridas, a parada para acertos",
+      "answer": "PITSTOP",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Abster-se de uma ação",
+      "answer": "EVITAR",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Uma parte da peça de teatro",
+      "answer": "CENA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Assentar tábuas, vigas, caibros etc.",
+      "answer": "MADEIRAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Relativo à trajetória de um corpo celeste",
+      "answer": "ORBITAL",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Um animal como o gato (em relação à sua presa)",
+      "answer": "RATIVORO",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "O Kuerten tenista ex-número 1 do mundo",
+      "answer": "GUGA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Deter (corpo em movimento)",
+      "answer": "APARAR",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "Ave bicuda semelhante ao tucano",
+      "answer": "ARAÇARI",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Tecla muito usada pelos digitadores",
+      "answer": "ESC",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "(Gregório de) Poeta baiano da literatura colonial (1623-1696)",
+      "answer": "MATOS",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Som de coisa que cai ou bate na água",
+      "answer": "CHAPE",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Sigla do país que é a maior potência mundial",
+      "answer": "EUA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Justapor funcionalmente dois elementos",
+      "answer": "ACOPLAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Equipamento usado para prender uma pessoa pelos pulsos",
+      "answer": "ALGEMA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Líquido que circula na planta e a alimenta",
+      "answer": "SEIVA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Pouco corajoso",
+      "answer": "TIMIDO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "As letras que cercam o F",
+      "answer": "EG",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Árvore de madeira avermelhada, usada em marcenaria, e que produz um óleo medicinal",
+      "answer": "COPAIBA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Sigla da TV de Sílvio Santos",
+      "answer": "SBT",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Esmero na criação de algo",
+      "answer": "ARTE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Um bairro de Nova York",
+      "answer": "BRONX",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Uma vizinha da cozinha",
+      "answer": "COPA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Aquela que está na posse absoluta de outrem",
+      "answer": "ESCRAVA",
+      "row": 1,
+      "col": 7
+    },
+    "15": {
+      "clue": "Deixar nervoso",
+      "answer": "IRRITAR",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Sacada ampla e descoberta",
+      "answer": "TERRAÇO",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Não classificável",
+      "answer": "ATIPICO",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Marca de produtos cosméticos",
+      "answer": "LOREAL",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Apoiar com gritos, aplausos, incitamentos (um time)",
+      "answer": "TORCER",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "Um prato a base de milho verde",
+      "answer": "CURAU",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "(Culin.) Partículas da casca de certos frutos para enfeitar ou temperar pratos",
+      "answer": "RASPA",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Divisão do set, no tênis",
+      "answer": "GAME",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "(Pop.) Mulher jovem e atraente",
+      "answer": "GATA",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "A delta é usada para o voo livre",
+      "answer": "ASA",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "Harry Potter, personagem de livros e cinema",
+      "answer": "HP",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

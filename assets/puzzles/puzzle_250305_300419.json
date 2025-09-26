@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O oposto de presença",
+      "answer": "FALTA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Murmúrio de palavras em voz baixa",
+      "answer": "CICIO",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Um tipo de estrela",
+      "answer": "ANÃ",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Idiota, tolo",
+      "answer": "PARVO",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Pessoa Jurídica",
+      "answer": "PJ",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Que leva a adquirir dependência",
+      "answer": "VICIANTE",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "(O Gato de) Uma história infantil",
+      "answer": "BOTAS",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Pessoa desprezível",
+      "answer": "VIL",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Entrar em crise psicótica",
+      "answer": "SURTAR",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Abrev.: Bélgica",
+      "answer": "BEL",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Que exige a preferência absoluta",
+      "answer": "PRIORITARIO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "De + os",
+      "answer": "DOS",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Acabar, não continuar",
+      "answer": "CESSAR",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Dígito binário",
+      "answer": "BIT",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Vela grande de cera",
+      "answer": "CIRIO",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "(Pop.) Par de ouvidos",
+      "answer": "ORELHAME",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Claude Debussy (1862-1918), músico francês",
+      "answer": "CD",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "A capital de uma nação mediterrânea",
+      "answer": "CAIRO",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "Sufixo de gerúndios",
+      "answer": "NDO",
+      "row": 9,
+      "col": 8
+    },
+    "32": {
+      "clue": "Madeira dura, negra",
+      "answer": "EBANO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Ir de baixo para cima",
+      "answer": "SUBIR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Fundação de Amparo à Pesquisa do Estado de São Paulo",
+      "answer": "FAPESP",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Associação Nacional de Jornais",
+      "answer": "ANJ",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Fibra têxtil de origem animal",
+      "answer": "LÃ",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Pop.) Dar palpite",
+      "answer": "APITAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Um apelido para Cristina",
+      "answer": "CRIS",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Imposto sobre o Valor Agregado",
+      "answer": "IVA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Convertido",
+      "answer": "CONVERSO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Fábrica alemã de automóveis",
+      "answer": "OPEL",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Tratar com carinho",
+      "answer": "ACARICIAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "As cédulas com que se emitem as opiniões numa decisão resolvida por sufrágios",
+      "answer": "VOTOS",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Árvore do hemisfério norte",
+      "answer": "TILIA",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Coleção de espécimes que incluem os musgos",
+      "answer": "BRIOTECA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Enredar, tecer",
+      "answer": "URDIR",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "O Count (1904-1984) músico estadunidense de jazz",
+      "answer": "BASIE",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Modos, procedimentos",
+      "answer": "TERMOS",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Aquele que fala com eloquência",
+      "answer": "ORADOR",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Uma cobertura para a cabeça",
+      "answer": "BONE",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Som agudo, prolongado e desagradável",
+      "answer": "CHIO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "(House) Comércio que oferece conexão para a internet e jogos em rede",
+      "answer": "LAN",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "401, em algarismos romanos",
+      "answer": "CDI",
+      "row": 8,
+      "col": 9
+    },
+    "31": {
+      "clue": "Nair Bello (1931-2007), atriz paulistana",
+      "answer": "NB",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

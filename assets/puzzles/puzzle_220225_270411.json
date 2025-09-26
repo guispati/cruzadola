@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Sinal que multiplica dois números",
+      "answer": "VEZES",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Encontrar coisa perdida ou escondida",
+      "answer": "ACHAR",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Intervenção",
+      "answer": "MEDIAÇÃO",
+      "row": 1,
+      "col": 1
+    },
+    "13": {
+      "clue": "O antigo soberano turco",
+      "answer": "SULTÃO",
+      "row": 2,
+      "col": 2
+    },
+    "14": {
+      "clue": "O estanho, para os químicos",
+      "answer": "SN",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Erasmo Carlos, o \"Tremendão\"",
+      "answer": "EC",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Lodo",
+      "answer": "LIMO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "(Abrev.) Dicionário",
+      "answer": "DIC",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "(Pop.) Pequeno pedaço de qualquer coisa",
+      "answer": "COTOCO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Movimento circular",
+      "answer": "GIRO",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Colocar combustível novamente",
+      "answer": "REABASTECER",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Interjeição que indica algo que se acha espacialmente mais perto de quem fala",
+      "answer": "ISTO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "O primeiro de três anônimos",
+      "answer": "FULANO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Ingrediente básico no sanduíche",
+      "answer": "PÃO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Fator que transmite os caracteres hereditários",
+      "answer": "GENE",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Elizabeth Savalla, atriz",
+      "answer": "ES",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Terapia Ocupacional",
+      "answer": "TO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "O ator Tony, de \"A Corrida do Século\"",
+      "answer": "CURTIS",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Documento que marca o fim da escravidão no Brasil (1888)",
+      "answer": "LEIAUREA",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Plano inclinado",
+      "answer": "RAMPA",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "O Ramos de Oliveira (1930-2002), capitão da seleção de futebol bicampeã do mundo, em 1962",
+      "answer": "MAURO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Preposição que expressa variadas relações",
+      "answer": "EM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "São dois na pizza",
+      "answer": "ZES",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Letrista e compositor carioca, da bossa nova",
+      "answer": "EDULOBO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Substância que compõe o vidro",
+      "answer": "SILICA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "A palavra que completa o bordão \"Luz, câmera, ...\"",
+      "answer": "AÇÃO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Nome de duas constelações, uma Maior e a outra Menor",
+      "answer": "CÃO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O símbolo do elemento químico hólmio",
+      "answer": "HO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Que guarda ódio",
+      "answer": "RANCOROSO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Tempo, ar",
+      "answer": "ATMOSFERA",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Decifrar",
+      "answer": "DECRIPTAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Aparelho que gera o sinal sonoro da ambulância",
+      "answer": "SIRENE",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Força de atração entre as moléculas de um corpo",
+      "answer": "COESÃO",
+      "row": 3,
+      "col": 1
+    },
+    "18": {
+      "clue": "(Pop.) Boa informação",
+      "answer": "DICA",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Prudência",
+      "answer": "TATO",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Extensa massa de água congelada",
+      "answer": "GELEIRA",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Cidade maranhense, na região do Alto Mearim e Grajaú",
+      "answer": "TUNTUM",
+      "row": 5,
+      "col": 6
+    },
+    "27": {
+      "clue": "(Ademir da) Um ídolo do time de futebol do Palmeiras",
+      "answer": "GUIA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Código para cartas",
+      "answer": "CEP",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "(-vizinho) O dedo anular",
+      "answer": "SEU",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "O símbolo de lúmen, unidade de fluxo luminoso",
+      "answer": "LM",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Substância que é necessária para todos os seres vivos",
+      "answer": "AR",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

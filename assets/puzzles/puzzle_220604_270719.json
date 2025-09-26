@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Caixa para transportar garrafas",
+      "answer": "ENGRADADO",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Delegado de faroeste",
+      "answer": "XERIFE",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Opção em prova de múltipla escolha",
+      "answer": "NDA",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "São três em Batatais",
+      "answer": "AS",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Misturada",
+      "answer": "MISTA",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Sigla do estado de Feira de Santana",
+      "answer": "BA",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Uma conexão de PC",
+      "answer": "USB",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "O hábitat da jubarte",
+      "answer": "MAR",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Código de Endereçamento Postal",
+      "answer": "CEP",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "11-5",
+      "answer": "SEIS",
+      "row": 4,
+      "col": 0
+    },
+    "23": {
+      "clue": "Diâmetro de um cabo",
+      "answer": "BITOLA",
+      "row": 4,
+      "col": 5
+    },
+    "25": {
+      "clue": "Dividir em frações, em partes",
+      "answer": "COTIZAR",
+      "row": 5,
+      "col": 2
+    },
+    "27": {
+      "clue": "Sem os requisitos necessários",
+      "answer": "INABIL",
+      "row": 6,
+      "col": 0
+    },
+    "29": {
+      "clue": "Aparelho com que se dirigem embarcações",
+      "answer": "LEME",
+      "row": 6,
+      "col": 7
+    },
+    "31": {
+      "clue": "Ficar na presença de",
+      "answer": "VER",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "A quantidade de quilos de uma tonelada",
+      "answer": "MIL",
+      "row": 7,
+      "col": 4
+    },
+    "34": {
+      "clue": "O ponto cardeal S",
+      "answer": "SUL",
+      "row": 7,
+      "col": 8
+    },
+    "35": {
+      "clue": "Osvaldo Cruz (1872-1917), médico e sanitarista",
+      "answer": "OC",
+      "row": 8,
+      "col": 0
+    },
+    "36": {
+      "clue": "Filhos de filhos",
+      "answer": "NETOS",
+      "row": 8,
+      "col": 3
+    },
+    "38": {
+      "clue": "Leandro Hassum, ator",
+      "answer": "LH",
+      "row": 8,
+      "col": 9
+    },
+    "39": {
+      "clue": "Precede Set",
+      "answer": "AGO",
+      "row": 9,
+      "col": 1
+    },
+    "41": {
+      "clue": "O contrário de fechada",
+      "answer": "ABERTA",
+      "row": 9,
+      "col": 5
+    },
+    "43": {
+      "clue": "Fazer reunir um caminho a outro ou uma coisa a outra",
+      "answer": "ENTRONCAR",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Muito cansativo",
+      "answer": "EXAUSTIVO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Em + esse",
+      "answer": "NESSE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Graciliano Ramos (1892-1953), escritor de \"Vidas Secas\"",
+      "answer": "GR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O órgão que se retira na nefrectomia",
+      "answer": "RIM",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Análogo",
+      "answer": "AFIM",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Inform.) Impedir a ação de um dispositivo, função etc.",
+      "answer": "DESABILITAR",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Teste para reconhecimento de paternidade",
+      "answer": "DNA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Oxigênio Dissolvido",
+      "answer": "OD",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "O personagem da Bíblia que foi morto por seu irmão Caim",
+      "answer": "ABEL",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Quase nada",
+      "answer": "TRIZ",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Prover do que é necessário",
+      "answer": "APARELHAR",
+      "row": 2,
+      "col": 10
+    },
+    "18": {
+      "clue": "Bebericar",
+      "answer": "BICAR",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "São três na bandeira italiana",
+      "answer": "CORES",
+      "row": 3,
+      "col": 8
+    },
+    "22": {
+      "clue": "Debaixo de",
+      "answer": "SOB",
+      "row": 4,
+      "col": 3
+    },
+    "24": {
+      "clue": "De certa qualidade",
+      "answer": "TAL",
+      "row": 4,
+      "col": 7
+    },
+    "26": {
+      "clue": "Equipe de modalidade esportiva",
+      "answer": "TIME",
+      "row": 5,
+      "col": 4
+    },
+    "28": {
+      "clue": "(Gír.) Nada",
+      "answer": "NECA",
+      "row": 6,
+      "col": 1
+    },
+    "30": {
+      "clue": "Pena por infração",
+      "answer": "MULTA",
+      "row": 6,
+      "col": 9
+    },
+    "33": {
+      "clue": "O animal que quer comer a Chapeuzinho Vermelho",
+      "answer": "LOBO",
+      "row": 7,
+      "col": 6
+    },
+    "36": {
+      "clue": "(-stop) Sem interrupção",
+      "answer": "NON",
+      "row": 8,
+      "col": 3
+    },
+    "37": {
+      "clue": "Senegal",
+      "answer": "SEN",
+      "row": 8,
+      "col": 7
+    },
+    "40": {
+      "clue": "Apelido de Geraldo",
+      "answer": "GE",
+      "row": 9,
+      "col": 2
+    },
+    "42": {
+      "clue": "Rita Cadillac, atriz e dançarina",
+      "answer": "RC",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

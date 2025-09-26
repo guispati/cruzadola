@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cidade histórica italiana, no extremo sul",
+      "answer": "LECCE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Grande indústria química e farmacêutica alermã",
+      "answer": "MERCK",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Interjeição de aprovação",
+      "answer": "ISTO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Relativo a folhas",
+      "answer": "FOLIAR",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Glória Pires, atriz",
+      "answer": "GP",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Ter novamente a posse",
+      "answer": "REAVER",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "(Fig.) Homem de muita valentia e bravura",
+      "answer": "HERCULES",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Gustave Flaubert (1821-1880), escritor de \"Madame Bovary\"",
+      "answer": "GF",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Que dura três anos",
+      "answer": "TRIENAL",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Aposta, em inglês",
+      "answer": "BET",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "Aquele que aplaude calorosamente",
+      "answer": "ACLAMADOR",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Passado",
+      "answer": "IDO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Ter o aspecto de",
+      "answer": "PARECER",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "A nota que precede todas as outras",
+      "answer": "DO",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Mulher cuja beleza chama a atenção",
+      "answer": "BONITONA",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "Repercutir, soando ou ressoando",
+      "answer": "PULSAR",
+      "row": 8,
+      "col": 2
+    },
+    "28": {
+      "clue": "Cândido Portinari (1903-1962), pintor",
+      "answer": "CP",
+      "row": 8,
+      "col": 9
+    },
+    "29": {
+      "clue": "O país europeu cortado pelos montes Apeninos",
+      "answer": "ITALIA",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Um dos grandes continentes",
+      "answer": "ASIA",
+      "row": 9,
+      "col": 7
+    },
+    "33": {
+      "clue": "No entanto, contudo",
+      "answer": "ALIAS",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Usar manteiga na forma",
+      "answer": "UNTAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Luz, em inglês",
+      "answer": "LIGHT",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Provável, previsto",
+      "answer": "ESPERADO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Cotó sem ós",
+      "answer": "CT",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Cavalo veloz",
+      "answer": "CORCEL",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Empresa que fabrica ou vende mesas e estantes",
+      "answer": "MOVELARIA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Segue vós",
+      "answer": "ELES",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O contrário de chorar",
+      "answer": "RIR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Neste lugar (próximo, ou em relação a quem fala)",
+      "answer": "CA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Papel usado em saquinhos e embalagens",
+      "answer": "KRAFT",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "O grupo de forró de \"Rindo à Toa\"",
+      "answer": "FALAMANSA",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Cidade baiana próxima a Porto Seguro",
+      "answer": "EUNAPOLIS",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "(Porto) Território dos EUA no mar do Caribe, com capital San Juan",
+      "answer": "RICO",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Administração",
+      "answer": "GERENCIA",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Palerma",
+      "answer": "BOCO",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Departamento Estadual de Trânsito",
+      "answer": "DETRAN",
+      "row": 5,
+      "col": 7
+    },
+    "22": {
+      "clue": "Assunto principal de uma obra",
+      "answer": "IDEIA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Cortar os cabelos rente à pele",
+      "answer": "RAPAR",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Tem as indicações de uso de um remédio",
+      "answer": "BULA",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "Animal masculino que deu origem a outro",
+      "answer": "PAI",
+      "row": 8,
+      "col": 2
+    },
+    "30": {
+      "clue": "(Quím.) Tálio",
+      "answer": "TL",
+      "row": 9,
+      "col": 1
+    },
+    "32": {
+      "clue": "Sylvia Telles (1934-1966), cantora da bossa-nova",
+      "answer": "ST",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

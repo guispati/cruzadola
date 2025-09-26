@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Obrigações morais",
+      "answer": "DEVERES",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "As consoantes de cabide",
+      "answer": "CBD",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Resultado feliz",
+      "answer": "EXITO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Encontrar coisa escondida",
+      "answer": "ACHAR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Executar, praticar (um movimento corporal)",
+      "answer": "DAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Porção que se corta de certos corpos",
+      "answer": "TALHADA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Loja que faz lentes de contato",
+      "answer": "OTICA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Feijão verde",
+      "answer": "VAGEM",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Classe, turma",
+      "answer": "SALA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Que não tem caráter",
+      "answer": "SACANA",
+      "row": 4,
+      "col": 5
+    },
+    "20": {
+      "clue": "Crosta que adere aos dentes sujos",
+      "answer": "SARRO",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Quem a perde, paga",
+      "answer": "APOSTA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "No boxe, a quantidade de minutos de um round",
+      "answer": "TRES",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Cometer um homicídio",
+      "answer": "MATAR",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Festa em que se dança",
+      "answer": "BAILE",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Que foi impedido",
+      "answer": "EVITADO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Bull) Um cão de grande força",
+      "answer": "PIT",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Pontos onde se queimam as chamas no fogão",
+      "answer": "BOCAS",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Zunzum, mexerico",
+      "answer": "BOATO",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Banda de rodagem de uma roda, na qual se encaixa o pneu",
+      "answer": "ARO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Revelar-se subitamente",
+      "answer": "OCORRER",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "As partes das mãos onde são usados os anéis",
+      "answer": "DEDOS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Correta, sem erros",
+      "answer": "EXATA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Próprio do homem",
+      "answer": "VIRIL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Alienígena",
+      "answer": "ET",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O percurso de um avião em voo",
+      "answer": "ROTA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Livrar do perigo",
+      "answer": "SALVAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Cicatriz",
+      "answer": "CHAGA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O violonista Powell (1937-2000)",
+      "answer": "BADEN",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Episódio muito comovente",
+      "answer": "DRAMA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Riso sarcástico, cínico",
+      "answer": "CHACOTA",
+      "row": 1,
+      "col": 7
+    },
+    "16": {
+      "clue": "Um sorvete",
+      "answer": "CASSATA",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Abreviatura de senhora",
+      "answer": "SRA",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Falta de pontualidade num compromisso",
+      "answer": "ATRASO",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "Organismo unicelular, parasita do homem",
+      "answer": "AMEBA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Grande susto",
+      "answer": "PAVOR",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Próprio da vista",
+      "answer": "OTICO",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "(Pop.) Espancar",
+      "answer": "RIPAR",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Alta sociedade",
+      "answer": "ELITE",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Campo de ação",
+      "answer": "SETOR",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Que é ingênuo",
+      "answer": "BOBO",
+      "row": 7,
+      "col": 6
+    },
+    "35": {
+      "clue": "Sufixo: autor, agente",
+      "answer": "OR",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

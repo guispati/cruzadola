@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Objeto para desenhar e escrever",
+      "answer": "LAPIS",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Pop.) De pouca inteligência",
+      "answer": "BURRO",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Era Cristã",
+      "answer": "EC",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Um dos ingredientes da média",
+      "answer": "CAFE",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Durante o governo de",
+      "answer": "SOB",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "(Mús.) Composição para piano solo ou duo com piano",
+      "answer": "SONATA",
+      "row": 2,
+      "col": 2
+    },
+    "14": {
+      "clue": "Dráuzio Varella, médico",
+      "answer": "DV",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Em direção ao interior de",
+      "answer": "ADENTRO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Animal de estábulo",
+      "answer": "BOI",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "(Urbana) A banda de pop rock de \"Faroeste Caboclo\"",
+      "answer": "LEGIÃO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Presente delicado",
+      "answer": "MIMO",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Homem que compra mercadorias por atacado, revendendo-as, obtendo lucro",
+      "answer": "SACOLEIRO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "(Fut.) A ave símbolo do Atlético Mineiro",
+      "answer": "GALO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Burla, fraude",
+      "answer": "ENLIÇO",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "A associação do futebol americano dos EUA",
+      "answer": "NFL",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Ir ver alguém, por amizade, doença ou outro motivo",
+      "answer": "VISITAR",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Interjeição de resposta a um chamamento",
+      "answer": "OI",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Vara fina de madeira",
+      "answer": "VARETA",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "O piloto de F1 Verstappen",
+      "answer": "MAX",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "A de conveniência vende fast-foods, cigarros etc.",
+      "answer": "LOJA",
+      "row": 9,
+      "col": 4
+    },
+    "32": {
+      "clue": "Uma interjeição para espantar aves",
+      "answer": "XO",
+      "row": 9,
+      "col": 9
+    },
+    "33": {
+      "clue": "Instrumento musical comum em igrejas",
+      "answer": "ORGÃO",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "(e Progresso) O lema da bandeira brasileira",
+      "answer": "ORDEM",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Estabelecido por lei",
+      "answer": "LEGAL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "As iniciais do flautista Carrilho",
+      "answer": "AC",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Muito representativo",
+      "answer": "ICONICO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Falso beato",
+      "answer": "SANTÃO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Carrero World) Famoso parque temático",
+      "answer": "BETO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "A sigla do estado que só faz divisa com SC",
+      "answer": "RS",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Mulher atendente de ônibus, geralmente em viagens longas",
+      "answer": "RODOMOÇA",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Fácil de ver, de entender",
+      "answer": "OBVIO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Trabalha numa torre destinada a orientar navios",
+      "answer": "FAROLEIRO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "O Lasar (1889-1957), famoso artista",
+      "answer": "SEGALL",
+      "row": 2,
+      "col": 2
+    },
+    "16": {
+      "clue": "Provocar",
+      "answer": "DESAFIAR",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "(Pop.) Bebida alcoólica destilada",
+      "answer": "BIRITA",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Exercer efetivamente uma atividade profissional",
+      "answer": "MILITAR",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Ocasião propícia",
+      "answer": "ENSEJO",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Personagem de fábulas",
+      "answer": "GNOMO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Fibra sintética usada para isolamento térmico",
+      "answer": "ORLOM",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Sulco que conduz água",
+      "answer": "VALO",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Abreviatura de uma medida padrão para roupas",
+      "answer": "XG",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "Os extremos da... xucrice",
+      "answer": "XE",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Inspiração",
+      "answer": "MUSA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Um tradicional jogo eletrônico",
+      "answer": "PACMAN",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Separado, solto",
+      "answer": "AVULSO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Amor, em Londres",
+      "answer": "LOVE",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Mofo, bafio",
+      "answer": "RANÇO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Dar educação, refinamento",
+      "answer": "POLIR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Palavrinha que expressa dor",
+      "answer": "UI",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Reserva marinha catarinense próxima a Bombinhas",
+      "answer": "ARVOREDO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Uma session dos improvisadores do jazz",
+      "answer": "JAM",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "O humorista Aragão, o Didi",
+      "answer": "RENATO",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Em direção à parte interior de",
+      "answer": "ADENTRO",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "A copa das árvores",
+      "answer": "FRONDE",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "1006, em algarismos romanos",
+      "answer": "MVI",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Cidade paulista próxima a Ourinhos",
+      "answer": "SARUTAIA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Eduardo Bueno, jornalista e escritor",
+      "answer": "EB",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Órgão onde se desenvolve o feto",
+      "answer": "UTERO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "(-negro) Flamenguista",
+      "answer": "RUBRO",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Cesto grande de vime ou cipó",
+      "answer": "JACA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Ofender",
+      "answer": "MAGOAR",
+      "row": 9,
+      "col": 5
+    },
+    "35": {
+      "clue": "Sinal de perigo",
+      "answer": "ALARME",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "A Soares de \"Do Cóccix Até o Pescoço\"",
+      "answer": "ELZA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um membro da tripulação",
+      "answer": "MARUJO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Fruto de sabor agridoce, usado em sucos e sorvetes",
+      "answer": "UVAIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sol, em Londres",
+      "answer": "SUN",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Mala sem) Pessoa chata, inconveniente",
+      "answer": "ALÇA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Partículas acumuladas por falta de limpeza",
+      "answer": "PO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Purificar a água com Cl",
+      "answer": "CLORAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Tecido de algodão, quente, usado em agasalhos",
+      "answer": "MOLETOM",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Sôfrego",
+      "answer": "AVIDO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O Alexandre ator paranaense",
+      "answer": "NERO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Cidade italiana da costa sul do golfo de Nápoles",
+      "answer": "SORRENTO",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "O \"calçado\" da dançarina de balé",
+      "answer": "PONTEIRA",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Uma operação comercial",
+      "answer": "VENDA",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Ave parecida com uma pata",
+      "answer": "MARRECA",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Deixar algo fritar até que fique acobreado",
+      "answer": "DOURAR",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "(Fig.) Pessoa maligna, venenosa",
+      "answer": "VIBORA",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "Que é inevitável",
+      "answer": "FATAL",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Que diz a verdade ou é fonte de verdade",
+      "answer": "VERAZ",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Sem crédito, desmoralizada",
+      "answer": "SUJA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "O grau mais alto",
+      "answer": "AUGE",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Abreviatura da Bolívia",
+      "answer": "BOL",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Para mim",
+      "answer": "ME",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

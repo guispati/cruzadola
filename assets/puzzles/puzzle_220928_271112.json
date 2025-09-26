@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Square) Famosa região de Manhattan, em NY",
+      "answer": "TIMES",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(del Este) Cidade uruguaia, destino turístico",
+      "answer": "PUNTA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Imposto sobre Operações Financeiras",
+      "answer": "IOF",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Instalar-se sob barracas, ao ar livre",
+      "answer": "ACAMPAR",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "O que transforma Sara em Sandra",
+      "answer": "ND",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Um ornamento para o penteado",
+      "answer": "TIARA",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "O século em que o Brasil foi descoberto",
+      "answer": "XV",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Cidade canadense, capital de Ontário",
+      "answer": "TORONTO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Fita para transportar eletricidade",
+      "answer": "FIO",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Parar de repente",
+      "answer": "ESTACAR",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Uma participante de concurso de beleza",
+      "answer": "MISS",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Depr.) Pequeno estabelecimento comercial",
+      "answer": "LOJECA",
+      "row": 5,
+      "col": 5
+    },
+    "25": {
+      "clue": "(Fig.) Pessoa que ignora um assunto",
+      "answer": "LEIGO",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Servir-se habitualmente de",
+      "answer": "USAR",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "(Quím.) Combinar com H",
+      "answer": "HIDROGENAR",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "As vogais de calabar",
+      "answer": "AAA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Erva de propriedades excitantes, peitorais e vermicidas",
+      "answer": "MASTRUZ",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Lilia Cabral, atriz paulista",
+      "answer": "LC",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Grande animal marinho encontrado no ártico",
+      "answer": "MORSA",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Tom Zé, músico baiano",
+      "answer": "TZ",
+      "row": 9,
+      "col": 9
+    },
+    "36": {
+      "clue": "Uma marca de carros esportivos",
+      "answer": "LOTUS",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "A Oryza sativa, cereal cultivado há mais de 5.000 anos",
+      "answer": "ARROZ",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O garoto das HQs de aventura produzidas pelo belga Hergé",
+      "answer": "TINTIM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Substância usada como antisséptico",
+      "answer": "IODO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ministério da Fazenda",
+      "answer": "MF",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Louis) Importante cidade dos EUA, no estado de Missouri",
+      "answer": "SAINT",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Sacerdote com jurisdição própria",
+      "answer": "PAROCO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "A hora que segue o meio-dia",
+      "answer": "UMA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "São separadas pelo O",
+      "answer": "NP",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Um transporte de passageiros das cidades",
+      "answer": "TAXI",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Levantar perpendicularmente",
+      "answer": "ARVORAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Classificar",
+      "answer": "CATALOGAR",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Expelir da garganta",
+      "answer": "TOSSIR",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "Flor pequena, perfumada, rosa ou branca",
+      "answer": "RESEDA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Trabalhar os metais com certa engrenagem motora",
+      "answer": "FRESAR",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Colecionar",
+      "answer": "AJUNTAR",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "(Anat.) Osso da bacia",
+      "answer": "ILIACO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Outro nome do jenipapeiro",
+      "answer": "CARUTO",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Partes da laranja",
+      "answer": "GOMOS",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "(Ingl.) Sala de entrada de um edifício",
+      "answer": "HALL",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Um pronome demonstrativo feminino",
+      "answer": "ESSA",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Imita o som do sono",
+      "answer": "ZZZ",
+      "row": 8,
+      "col": 10
+    },
+    "34": {
+      "clue": "O som que imita a voz da vaca",
+      "answer": "MU",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

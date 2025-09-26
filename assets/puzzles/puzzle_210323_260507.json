@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Planta da qual se extrai um veneno muito poderoso",
+      "answer": "CICUTA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Abreviatura em inglês do sistema de cores usado em impressões gráficas",
+      "answer": "CMYK",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Um personagem como Atchim ou Feliz",
+      "answer": "ANÃO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "(Terra da) Um apelido para a capital paulista",
+      "answer": "GAROA",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Imposto Sobre Serviços",
+      "answer": "ISS",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Divisão da terra em buracos para recebimento de sementes",
+      "answer": "COVAL",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "O som do mugido da vaca",
+      "answer": "MU",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Antiga moeda dos estados ibéricos",
+      "answer": "MARAVEDI",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "A capital da Suazilândia, na África",
+      "answer": "MBABANE",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Edson Celulari, ator",
+      "answer": "EC",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Cu, elemento químico",
+      "answer": "COBRE",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "(Fam.) Pedacinho de qualquer coisa",
+      "answer": "TISCO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Indivíduo que obtém o primeiro grau de formatura em qualquer curso universitário",
+      "answer": "BACHAREL",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "(Quím.) O samário",
+      "answer": "SM",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Trocar beijinhos",
+      "answer": "BEIJOCAR",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Roupa que protege parte da perna",
+      "answer": "POLAINA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Mulher que aleita criança alheia",
+      "answer": "AMA",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Que se foi",
+      "answer": "IDO",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Dança em que as pessoas giram de mãos dadas",
+      "answer": "RODA",
+      "row": 9,
+      "col": 4
+    },
+    "36": {
+      "clue": "(Abrev.) Antigo Testamento",
+      "answer": "AT",
+      "row": 9,
+      "col": 9
+    },
+    "37": {
+      "clue": "Pão doce de massa retorcida",
+      "answer": "ROSCA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Nem esta nem aquela",
+      "answer": "OUTRA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O irmão de Abel, na Bíblia",
+      "answer": "CAIM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Econ.) Item exigido para a produção (energia, matérias-primas, equipamentos etc.)",
+      "answer": "INSUMO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Cabelos brancos",
+      "answer": "CÃS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Unidade Orçamentária",
+      "answer": "UO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Neste instante",
+      "answer": "AGORA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Instrumento musical semelhante ao cavaquinho",
+      "answer": "CRAVEIRO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O contrário de duro",
+      "answer": "MOLE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Ficam juntas em... Yale",
+      "answer": "YA",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "De grandes dimensões",
+      "answer": "AVANTAJADO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Parte alta da cama",
+      "answer": "CABECEIRA",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "(Gír.) Pequeno ganho avulso",
+      "answer": "BICO",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Cidade do Pará, às margens do Tocantins",
+      "answer": "MARABA",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Recitar em voz alta",
+      "answer": "DECLAMAR",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "(Sigla) Um famoso reality show",
+      "answer": "BBB",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Expelir, lançar fora da boca a saliva, com força",
+      "answer": "CUSPIR",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Grande aridez",
+      "answer": "SECA",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "Canto celebrativo",
+      "answer": "HINO",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Condição",
+      "answer": "MODO",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "(Pop.) Gafe",
+      "answer": "RATA",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "(Angeles Lakers) Time de basquete dos EUA",
+      "answer": "LOS",
+      "row": 8,
+      "col": 2
+    },
+    "35": {
+      "clue": "O som do latido de um cão",
+      "answer": "AU",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "A banda do sucesso \"Vou Deixar\"",
+      "answer": "SKANK",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Instrumento musical de sopro",
+      "answer": "GAITA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Objeto a que se atribuem qualidades sobrenaturais",
+      "answer": "FEITIÇO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Conveniente",
+      "answer": "OPORTUNO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "101, em algarismos romanos",
+      "answer": "CI",
+      "row": 2,
+      "col": 9
+    },
+    "14": {
+      "clue": "Pedido insistente",
+      "answer": "ROGO",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "A atriz francesa Brigitte",
+      "answer": "BARDOT",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Que te pertence",
+      "answer": "TEU",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Relativo à vida doméstica",
+      "answer": "CASEIRO",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Uma cidade santa dos muçulmanos",
+      "answer": "MECA",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "(Interj.) Está certo!",
+      "answer": "ISSO",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Pequeno órgão portátil",
+      "answer": "REALEJO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Abrev.: Camarões",
+      "answer": "CAM",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Fricção entre dois corpos que tocam um no outro",
+      "answer": "ATRITO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "A benfeitora de Pinóquio e Cinderela",
+      "answer": "FADA",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "O molibdênio",
+      "answer": "MO",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Aquele que prepara casas para botões do vestuário",
+      "answer": "CASEADOR",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Remediado",
+      "answer": "SANEADO",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "Arbusto de folhas aromáticas, utilizadas como condimento",
+      "answer": "LOURO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Região posterior do tronco correspondente às vértebras",
+      "answer": "DORSO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um time de futebol do Recife (PE)",
+      "answer": "SPORT",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Submeter a muito calor",
+      "answer": "AFOGUEAR",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Famoso imperador romano",
+      "answer": "NERO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Uma caixa para pequenos objetos",
+      "answer": "KIT",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Academia com aparelhos destinados aos exercícios físicos",
+      "answer": "GINASIO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Arquipélago português localizado no Atlântico, com capital Ponta Delgada",
+      "answer": "AÇORES",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Eu, em italiano",
+      "answer": "IO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Compartimento reservado",
+      "answer": "ADITO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "A uterina é um ducto do sistema reprodutor feminino",
+      "answer": "TUBA",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Obra literária de poucos versos",
+      "answer": "POEMETO",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "Consagrado rei",
+      "answer": "COROADO",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Programa que efetua a chamada via modem",
+      "answer": "DISCADOR",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "O músico baiano Veloso, de \"Podres Poderes\"",
+      "answer": "CAETANO",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Fotografar",
+      "answer": "CLICAR",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Caminho subsidiário de estradas de ferro",
+      "answer": "RAMAL",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "O Trajano jornalista e comentarista esportivo",
+      "answer": "JOSE",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "O mês do dia de são Longuinho",
+      "answer": "MARÇO",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "O estilo de canção portuguesa de Amália Rodrigues",
+      "answer": "FADO",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Educação a Distância",
+      "answer": "EAD",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Letras separadas pelo T",
+      "answer": "SU",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

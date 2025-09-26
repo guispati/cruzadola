@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Valentão",
+      "answer": "BRABO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Nevoeiro denso que reduz ou anula a visibilidade",
+      "answer": "BRUMA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Uma cobertura para a cabeça",
+      "answer": "BONE",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Banho de vapor de água quente",
+      "answer": "SAUNA",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Um foco da manicure",
+      "answer": "CUTICULA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "David Bowie (1947-2016), cantor inglês de rock",
+      "answer": "DB",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Pequena ferida",
+      "answer": "PEREBA",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "(Pop.) Para + o",
+      "answer": "PRO",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Espécie de cesto grande",
+      "answer": "PANACU",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Ingresso para espetáculos vendido pela metade do preço",
+      "answer": "MEIA",
+      "row": 4,
+      "col": 7
+    },
+    "19": {
+      "clue": "Inclinar-se (o navio) submergindo de um lado",
+      "answer": "ADERNAR",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "Coisa insignificante",
+      "answer": "NADA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Cópia de segurança, em informática",
+      "answer": "BECAPE",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Pequeno círculo de metal",
+      "answer": "ARO",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "A cidade natal de Pablo Picasso, na Espanha",
+      "answer": "MALAGA",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Sigmund Freud (1856-1939), médico austríaco",
+      "answer": "SF",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Nascido em importante cidade suíça",
+      "answer": "GENEBRES",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Instrumento usado por árbitros esportivos",
+      "answer": "APITO",
+      "row": 9,
+      "col": 1
+    },
+    "32": {
+      "clue": "Um dos animais do calendário chinês",
+      "answer": "RATO",
+      "row": 9,
+      "col": 7
+    },
+    "33": {
+      "clue": "(Pop.) Trabalho avulso para agência de publicidade",
+      "answer": "FRILA",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Os diferentes tons de tinta",
+      "answer": "CORES",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Estação inglesa de rádio e televisão",
+      "answer": "BBC",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Peça de vestir, como a camisa ou a calça",
+      "answer": "ROUPA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Atento, bem informado, ligado",
+      "answer": "ANTENADO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Região adjacente",
+      "answer": "BEIRADA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Trem-) Um meio de transporte de alta velocidade",
+      "answer": "BALA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Via, na cidade, destinada aos veículos",
+      "answer": "RUA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Ingl.) United Nations",
+      "answer": "UN",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A maior cidade espanhola",
+      "answer": "MADRI",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Que fica próximo da cidade",
+      "answer": "SUBURBANO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Cheiro ruim de suor",
+      "answer": "CECE",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Casa de diversões, onde se bebe e dança",
+      "answer": "BOATE",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Viajar",
+      "answer": "PERAGRAR",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Cobrem as aves",
+      "answer": "PENAS",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Que versa sobre a morte e assuntos afins",
+      "answer": "MACABRO",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Combinação de preposição com pronome pessoal",
+      "answer": "NELE",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Respirar com dificuldade",
+      "answer": "ARFAR",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Tecido todo bordado com lantejoulas",
+      "answer": "PAETE",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Finalidade a alcançar",
+      "answer": "META",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "O cantora e apresentadora de TV baiana Preta",
+      "answer": "GIL",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "Sigla inglesa usada para pedir socorro",
+      "answer": "SOS",
+      "row": 8,
+      "col": 10
+    },
+    "31": {
+      "clue": "(Matem.) 3,1415",
+      "answer": "PI",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

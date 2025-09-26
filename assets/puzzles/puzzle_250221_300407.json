@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Marca deixada no corpo por um ferimento",
+      "answer": "CICATRIZ",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Vera Fischer, atriz",
+      "answer": "VF",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Corante azul forte",
+      "answer": "ANIL",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "Droga extraída da papoula",
+      "answer": "OPIO",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Notícia",
+      "answer": "AVISO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Tingir",
+      "answer": "CORAR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Animal que se parece com um caranguejo",
+      "answer": "SIRI",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Sensação de desconforto, associada à necessidade de comer",
+      "answer": "FOME",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Executivo Nacional",
+      "answer": "EN",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "A última palavra das orações",
+      "answer": "AMEM",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Um dos ingredientes do martini",
+      "answer": "GIM",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "(Pop.) Pessoa que não tem timidez",
+      "answer": "CARADEPAU",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "(Dry) Um tipo de tecido usado em roupas esportivas",
+      "answer": "FIT",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Pasta para dar brilho ao piso",
+      "answer": "CERA",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "Antônio Nóbrega, artista e músico recifense",
+      "answer": "AN",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Desmoronar, desabar",
+      "answer": "RUIR",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "Região, área",
+      "answer": "ZONA",
+      "row": 7,
+      "col": 7
+    },
+    "33": {
+      "clue": "Abrigo para pessoas desamparadas",
+      "answer": "ASILO",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "Tomar (água, refrigerante etc.)",
+      "answer": "BEBER",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "Um peixe ornamental",
+      "answer": "NEON",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Tramar, urdir (tecido)",
+      "answer": "FIAR",
+      "row": 9,
+      "col": 5
+    },
+    "38": {
+      "clue": "Kim Novak, atriz de \"Um Corpo Que Cai\"",
+      "answer": "KN",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Que se encontra protegido, abrigado",
+      "answer": "AMPARADO",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O acento de à",
+      "answer": "CRASE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Levar um tombo",
+      "answer": "CAIR",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "(Fig.) Desejar com muita intensidade",
+      "answer": "ANSIAR",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "O pai do primo",
+      "answer": "TIO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Rodrigo Lombardi, ator",
+      "answer": "RL",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Um efeito para fotos",
+      "answer": "ZOOM",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "A pública é qualquer rua, avenida etc. de uso público",
+      "answer": "VIA",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Reunião que envolve debate de um tema",
+      "answer": "FORUM",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Franzido ou dobra de tecido",
+      "answer": "PREGA",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "(Leonardo da) Grande nome do Renascimento",
+      "answer": "VINCI",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "No xadrez, eliminar uma peça do adversário",
+      "answer": "COMER",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Cheirar mal",
+      "answer": "FEDER",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Liso, polido, aveludado",
+      "answer": "MACIO",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "A unidade monetária da China",
+      "answer": "IUANE",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Entrada",
+      "answer": "ATRIO",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Pacificar",
+      "answer": "PAZEAR",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "O músico de rock Zappa (1940-1993)",
+      "answer": "FRANK",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Erva perfumada",
+      "answer": "NARDO",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "(Anat.) Outro nome do cúbito, osso do antebraço",
+      "answer": "ULNA",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "Trabalho de construção",
+      "answer": "OBRA",
+      "row": 7,
+      "col": 8
+    },
+    "34": {
+      "clue": "Abreviatura (em português) do Senegal",
+      "answer": "SEN",
+      "row": 8,
+      "col": 1
+    },
+    "35": {
+      "clue": "A Haddad Maia, a melhor tenista do país atualmente",
+      "answer": "BIA",
+      "row": 8,
+      "col": 6
+    },
+    "37": {
+      "clue": "Fernando Pessoa, poeta português",
+      "answer": "FP",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

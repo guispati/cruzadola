@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ato de deslizar desgovernadamente sobre o solo",
+      "answer": "DERRAPAGEM",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "(Inform.) Uma unidade de medida de informação",
+      "answer": "MEGABIT",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Sigla do estado de Pindamonhangaba e Itaquaquecetuba",
+      "answer": "SP",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Viver em um lugar",
+      "answer": "MORAR",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Distrito Policial",
+      "answer": "DP",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Endurecimento epidérmico",
+      "answer": "CALO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Serra) País africano rico em diamantes",
+      "answer": "LEOA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Desejo, vontade de comer",
+      "answer": "APETITE",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "O século em que ocorreu a Peste Negra, que vitimou milhões de pessoas",
+      "answer": "XIV",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Uma formação como Aral, na Ásia",
+      "answer": "LAGOSALGADO",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Dona de casa",
+      "answer": "AMA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Ingl.) Uma pequena motocicleta",
+      "answer": "SCOOTER",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "(Horizonte) A capital de MG",
+      "answer": "BELO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "A borralheira é a heroína de um conto de Perrault",
+      "answer": "GATA",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Ralph Lauren, estilista",
+      "answer": "RL",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Que está junto, em contato",
+      "answer": "UNIDO",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Escola Naval",
+      "answer": "EN",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "Caipira, capiau, jeca",
+      "answer": "BROCOIO",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "Sedutor, excitante",
+      "answer": "PROVOCANTE",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Grande dano ou perda",
+      "answer": "DESCALABRO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Roger Moore (1927-2017), ator inglês",
+      "answer": "RM",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "(Controle) Altera canais, volume etc. em TVs e DVDs",
+      "answer": "REMOTO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Assembleia Geral Ordinária",
+      "answer": "AGO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Gram.) Relativo à estrutura do período em frases coordenadas",
+      "answer": "PARATACTICO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Projeção de telhado",
+      "answer": "ABA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Menina, em inglês",
+      "answer": "GIRL",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Alienígena",
+      "answer": "ET",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Assustador, que mete medo",
+      "answer": "APAVORANTE",
+      "row": 1,
+      "col": 10
+    },
+    "12": {
+      "clue": "Pequeno carnívoro, também conhecido por irara",
+      "answer": "PAPAMEL",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "(Pop.) Aquele que tem pouco juízo",
+      "answer": "DOIDETE",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Relativo à classe jurídica",
+      "answer": "LEGAL",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Uma ciência como a matemática e a geometria",
+      "answer": "EXATA",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Imposto Sobre Serviços",
+      "answer": "ISS",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "(Fig.) Vínculo, união espiritual ou moral",
+      "answer": "ELO",
+      "row": 4,
+      "col": 6
+    },
+    "24": {
+      "clue": "(Bot.) Arbusto e fruto da nossa flora",
+      "answer": "GOGOIA",
+      "row": 5,
+      "col": 7
+    },
+    "28": {
+      "clue": "Elemento químico usado em joalheria, próteses dentárias etc.",
+      "answer": "OURO",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "Uma forma de abreviar o nome do mês 11",
+      "answer": "NOV",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "A abreviatura de um tipo de transferência bancária",
+      "answer": "DOC",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Bromo",
+      "answer": "BR",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "O que muda de Vera para Verona",
+      "answer": "ON",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

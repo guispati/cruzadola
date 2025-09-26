@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Mapa",
+      "answer": "CARTA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Gram.) Partícula que, acrescentada à palavra, muda seu sentido",
+      "answer": "AFIXO",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "(Náut.) Conjunto das peças na qual se prende a vela no mastro",
+      "answer": "VERGAME",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "O ator Pacino, de \"Casa Gucci\"",
+      "answer": "AL",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Argola de ferro com que se prendiam escravos",
+      "answer": "PEGA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Formiga de ferroada dolorosa",
+      "answer": "LAVAPE",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Clarear o cabelo",
+      "answer": "ALOIRAR",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Dupla de músicos",
+      "answer": "DUO",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Mãe de girinos",
+      "answer": "RÃ",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Aquele que dirige, governa",
+      "answer": "REGEDOR",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Túnel aberto por certos animais, como formigas e toupeiras",
+      "answer": "GALERIA",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Sigla do estado de João Pessoa",
+      "answer": "PB",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "O mais alto quadrúpede",
+      "answer": "GIRAFA",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "O político Rodrigues, Presidente da República entre 1902-1906",
+      "answer": "ALVES",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Gír.) Denunciar, alcaguetar",
+      "answer": "DEDAR",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "(Pop.) Molhar a camisa",
+      "answer": "SUAR",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Vagão ferroviário para transporte de animais em pé",
+      "answer": "GAIOLA",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Cada elemento do cálice da flor",
+      "answer": "SEPALA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Os minutos de um round no boxe",
+      "answer": "TRES",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "Desgaste causado pela água, vento etc.",
+      "answer": "EROSÃO",
+      "row": 10,
+      "col": 2
+    },
+    "37": {
+      "clue": "Interjeição usada para induzir as cavalgaduras a cessar o movimento",
+      "answer": "XO",
+      "row": 10,
+      "col": 9
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Fruto usado em doces, chocolates e licores",
+      "answer": "AVELÃ",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(José Lins do) O romancista paraibano de \"Menino de Engenho\"",
+      "answer": "REGO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Entregar ao inimigo",
+      "answer": "TRAIR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Quím.) O símbolo do metal da medalha do vice-campeão",
+      "answer": "AG",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Pálida",
+      "answer": "AMARELADA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Fevereiro",
+      "answer": "FEV",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Cidade do Acre, na região de Brasiléia",
+      "answer": "XAPURI",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Produto usado no motor dos carros",
+      "answer": "OLEO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Transbordar",
+      "answer": "ALAGAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "(Lat.) No mesmo ritmo",
+      "answer": "PARIPASSU",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Aquele que rende culto a Deus",
+      "answer": "ADORADOR",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "(Bittencourt) Grande rodovia que liga S e SE do Brasil",
+      "answer": "REGIS",
+      "row": 3,
+      "col": 4
+    },
+    "21": {
+      "clue": "Funcionamento irregular de um mecanismo",
+      "answer": "DEFEITO",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Falta de pontualidade no cumprimento de um compromisso",
+      "answer": "ATRASO",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Azul, para os ingleses",
+      "answer": "BLUE",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Causar",
+      "answer": "GERAR",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "Cigarro eletrônico",
+      "answer": "VAPE",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Um apelido de Alexandre",
+      "answer": "ALEX",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Como o He e o Ne",
+      "answer": "GAS",
+      "row": 8,
+      "col": 5
+    },
+    "34": {
+      "clue": "Tecido fino como escumilha",
+      "answer": "LO",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

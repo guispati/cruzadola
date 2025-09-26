@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "O antônimo de fechado",
+      "answer": "ABERTO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O contrário de melhor",
+      "answer": "PIOR",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Tremer de medo",
+      "answer": "TINIR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Nervosa, irritada",
+      "answer": "BRAVA",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "(Ingl.) Um processo de impressão",
+      "answer": "OFFSET",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Nesta ocasião, neste momento",
+      "answer": "AQUI",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "(Biol.) Um processo de divisão do núcleo das células germinais",
+      "answer": "MEIOSE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Que não tem valor (fem.)",
+      "answer": "NULA",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Dar aparência de Ag",
+      "answer": "PRATEAR",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Abertura à força, com violência",
+      "answer": "ROMBO",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "Condição de criador de obra literária",
+      "answer": "AUTORIA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Tecido empregado principalmente na confecção de calças",
+      "answer": "BRIM",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Mulher de um povo itinerante",
+      "answer": "CIGANA",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "O que torna versos consonantes",
+      "answer": "RIMA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Do sovaco",
+      "answer": "AXILAR",
+      "row": 8,
+      "col": 5
+    },
+    "31": {
+      "clue": "Cláusulas de um documento",
+      "answer": "ITENS",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Áspera como o vinagre",
+      "answer": "AZEDA",
+      "row": 9,
+      "col": 6
+    },
+    "33": {
+      "clue": "Sem asperezas",
+      "answer": "LISO",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Med.) Retirar substâncias retidas no organismo através de certo tubo",
+      "answer": "DRENAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Parte microscópica da matéria",
+      "answer": "ATOMO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O de panela é cozido em molho de cebola, tomates etc.",
+      "answer": "BIFE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Por fim",
+      "answer": "ENFIM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O ato da gargalhada",
+      "answer": "RISO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Plantar em outro lugar",
+      "answer": "TRESPOR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Choro",
+      "answer": "PRANTO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Animal do Tibete, semelhante a um boi",
+      "answer": "IAQUE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "De forma de ovo",
+      "answer": "OVULAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Vir aparecendo",
+      "answer": "RAIAR",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Diz-se da garrafa usada para manter quente o café",
+      "answer": "TERMICA",
+      "row": 2,
+      "col": 5
+    },
+    "18": {
+      "clue": "Antônimo de elevar",
+      "answer": "ABAIXAR",
+      "row": 4,
+      "col": 6
+    },
+    "19": {
+      "clue": "Uma ave que turturina",
+      "answer": "JURITI",
+      "row": 5,
+      "col": 1
+    },
+    "20": {
+      "clue": "Da capital da Itália",
+      "answer": "ROMANO",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "O mês do dia da mentira",
+      "answer": "ABRIL",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "O diário londrino fundado em 1785",
+      "answer": "TIMES",
+      "row": 6,
+      "col": 2
+    },
+    "23": {
+      "clue": "(Van) Banda de rock famosa nos anos 1980",
+      "answer": "HALEN",
+      "row": 6,
+      "col": 8
+    },
+    "24": {
+      "clue": "Voltar (o doente) a um bom estado de saúde",
+      "answer": "SARAR",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Famosa pirâmide do Egito",
+      "answer": "GIZE",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "(De) Expressão usada como agradecimento",
+      "answer": "NADA",
+      "row": 7,
+      "col": 9
+    }
+  }
+}

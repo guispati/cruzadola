@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ato de aguçar um lápis",
+      "answer": "APARO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O Barack, ex-presidente dos EUA",
+      "answer": "OBAMA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Um peixinho dos desenhos animados",
+      "answer": "NEMO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Esvoaçar",
+      "answer": "ADEJAR",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Sabor amargo e adstringente de qualquer comida ou bebida",
+      "answer": "TRAVOR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Suprema, máxima",
+      "answer": "SUMA",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "A capital da Armênia",
+      "answer": "IEREVAN",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(TV) Técnica para transmissão de uma segunda opção de áudio",
+      "answer": "SAP",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Centro de gravidade",
+      "answer": "BARICENTRO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Abrev.: decalitro",
+      "answer": "DAL",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "A Nouvelle do cinema",
+      "answer": "VAGUE",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "Espécie de broche, mais simples",
+      "answer": "BOTON",
+      "row": 6,
+      "col": 3
+    },
+    "23": {
+      "clue": "Nelson Mandela, político sul-africano",
+      "answer": "NM",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "Castanha verde, grande e mole do caju",
+      "answer": "MATURI",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Semente muito consumida atualmente por seu valor nutricional",
+      "answer": "CHIA",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "(Por) De modo inesperado",
+      "answer": "ACASO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Cantor e ator paulistano",
+      "answer": "FIUK",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Índice Nacional de Preços ao Consumidor",
+      "answer": "INPC",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Percurso sinuoso entre obstáculos",
+      "answer": "SLALOM",
+      "row": 9,
+      "col": 5
+    },
+    "34": {
+      "clue": "Abreviatura de Sudeste",
+      "answer": "SE",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Madeira de uma árvore nativa do Brasil, usada para curtir cachaça",
+      "answer": "AMBURANA",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Prefixo que indica oposição",
+      "answer": "ANTI",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Gír.) No futebol, jogador de baixo nível técnico",
+      "answer": "PEREBA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Tarsila do) Pintora e escultora paulista (1897-1973)",
+      "answer": "AMARAL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Land) Famosa indústria de veículos todo-terreno",
+      "answer": "ROVER",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Oxigênio Dissolvido",
+      "answer": "OD",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "São dois em babosa",
+      "answer": "BES",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Ato de tornar exato",
+      "answer": "AJUSTE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Sugar o leite materno (o recém-nascido)",
+      "answer": "MAMAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Cidade do Tocantins, da região de Araguaína",
+      "answer": "ARAPOEMA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Vento forte e constante de algumas regiões do Nordeste",
+      "answer": "ARACATI",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Aquele que se alimenta de ovos",
+      "answer": "OVIVORO",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "A palavra da bandeira da Paraíba",
+      "answer": "NEGO",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Comunicar",
+      "answer": "NUNCIAR",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Além da conta",
+      "answer": "DEMAIS",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Tentativa, pretensão",
+      "answer": "BUSCA",
+      "row": 6,
+      "col": 3
+    },
+    "23": {
+      "clue": "Marca japonesa de equipamentos eletrônicos",
+      "answer": "NIKON",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Uma erupção epidérmica",
+      "answer": "ACNE",
+      "row": 7,
+      "col": 1
+    },
+    "26": {
+      "clue": "Empresa aérea portuguesa",
+      "answer": "TAP",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "Uma dança havaiana",
+      "answer": "HULA",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Tradicional rival do Fla",
+      "answer": "FLU",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "O símbolo químico do antimônio",
+      "answer": "SB",
+      "row": 9,
+      "col": 5
+    },
+    "33": {
+      "clue": "Desonesta, ruim",
+      "answer": "MA",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

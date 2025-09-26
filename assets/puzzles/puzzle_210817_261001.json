@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Carvão incandescente, sem lançar chamas",
+      "answer": "BRASA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O produto agrícola de um ano",
+      "answer": "SAFRA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Gato manso, doméstico",
+      "answer": "BICHANO",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "Pequena caverna",
+      "answer": "GRUTA",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "A autoridade encarregada de dirigir a diocese",
+      "answer": "BISPO",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Gastar",
+      "answer": "DESEMBOLSAR",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "No islamismo, termo usado para designar Deus",
+      "answer": "ALA",
+      "row": 4,
+      "col": 0
+    },
+    "17": {
+      "clue": "Casal",
+      "answer": "PAR",
+      "row": 4,
+      "col": 4
+    },
+    "18": {
+      "clue": "Registro de uma assembleia",
+      "answer": "ATA",
+      "row": 4,
+      "col": 8
+    },
+    "19": {
+      "clue": "Aranha muito agressiva, perigosa e venenosa",
+      "answer": "ARMADEIRA",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "60, em algarismos romanos",
+      "answer": "LX",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Que corresponde a um presumível modelo de perfeição",
+      "answer": "IDEAL",
+      "row": 6,
+      "col": 3
+    },
+    "24": {
+      "clue": "Grande êxito",
+      "answer": "SU",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Vir ao pensamento",
+      "answer": "OCORRER",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "(Basq.) Bloqueio no arremesso do adversário",
+      "answer": "TOCO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Na moda, corte enviesado do vestido",
+      "answer": "GODE",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Que arrasa",
+      "answer": "AVASSALADOR",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Raio que pode perfurar o aço",
+      "answer": "LASER",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Que recebe muita luz",
+      "answer": "CLARO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Capital iraquiana",
+      "answer": "BAGDA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Aproveitar com exagero",
+      "answer": "ABUSAR",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "(Pal. ingl.) Um endereço na internet",
+      "answer": "SITE",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Instalado para pernoite em meio à natureza",
+      "answer": "ACAMPADO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Fig.) Deliciar-se com",
+      "answer": "SABOREAR",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Substância corante para tingir de azul",
+      "answer": "ANIL",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Revolver a terra com o focinho",
+      "answer": "FOSSAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Salvo, exceto",
+      "answer": "AFORA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Distensão física e psíquica",
+      "answer": "RELAX",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "São quatro nos camelos, nos dromedários e nos rinocerontes",
+      "answer": "PATAS",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Confusão, bagunça",
+      "answer": "BADERNA",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Doença provocada por fungo",
+      "answer": "MICOSE",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "Não legítimo",
+      "answer": "ILEGAL",
+      "row": 5,
+      "col": 7
+    },
+    "22": {
+      "clue": "Fatídico",
+      "answer": "LETAL",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "O órgão onde o feto se desenvolve",
+      "answer": "UTERO",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Os casebres que formam a taba",
+      "answer": "OCAS",
+      "row": 7,
+      "col": 2
+    },
+    "27": {
+      "clue": "Brincadeira infantil com canto e dança",
+      "answer": "RODA",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "(Uma) Gíria que significa coisíssima nenhuma",
+      "answer": "OVA",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "A de cabeça também é chamada cefaleia",
+      "answer": "DOR",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Sérgio Reis, cantor e compositor sertanejo",
+      "answer": "SR",
+      "row": 9,
+      "col": 4
+    },
+    "34": {
+      "clue": "As iniciais da atriz Lilia",
+      "answer": "LC",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

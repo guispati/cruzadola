@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Macio ao tato, como certo tecido",
+      "answer": "CETINOSO",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "O símbolo do índio, em química",
+      "answer": "IN",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Um ser como o tamanduá ou a anta",
+      "answer": "ANIMAL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "(Pop.) Ranho seco",
+      "answer": "TATU",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Adoçar em demasia",
+      "answer": "MELAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Fruto comestível do feijoeiro, tenro, verde e com sementes pequenas",
+      "answer": "VAGEM",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Érico Veríssimo (1905-1975), autor de \"Incidente em Antares\"",
+      "answer": "EV",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "O astronauta russo Iúri (1934-1968)",
+      "answer": "GAGARIN",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "A Rita chef",
+      "answer": "LOBO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Que está sem ocupação (fem.)",
+      "answer": "OCIOSA",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Vogais sem consoantes",
+      "answer": "OAI",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "O T.S. (1888-1965), escritor, prêmio Nobel de 1948",
+      "answer": "ELIOT",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Cidade da Alemanha, importante centro cultural e artístico",
+      "answer": "DRESDEN",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Abreviatura inglesa para os aplicativos de celulares",
+      "answer": "APP",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Que nos pertence (fem. e pl.)",
+      "answer": "NOSSAS",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Isto é",
+      "answer": "IE",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Do ouvido",
+      "answer": "OTICO",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Andar girando",
+      "answer": "ROTAR",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Elemento de composição: máquina",
+      "answer": "MECANO",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Ser supremo",
+      "answer": "DEUS",
+      "row": 9,
+      "col": 7
+    },
+    "38": {
+      "clue": "Cheiro agradável ou desagradável",
+      "answer": "ODOR",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Combustível de reatores nucleares",
+      "answer": "URANIO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Pop.) Um mercado popular informal",
+      "answer": "CAMELODROMO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Tornar obscuro",
+      "answer": "ENEVOAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O acento ~",
+      "answer": "TIL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Uma fase da evolução dos insetos",
+      "answer": "IMAGO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A cantora capixaba Leão (1942-1989), de \"A Banda\"",
+      "answer": "NARA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Orígenes Lessa (1903-1986), escritor",
+      "answer": "OL",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Aquele que comete tolices",
+      "answer": "OTARIO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Cláusulas de um documento",
+      "answer": "ITENS",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Em um",
+      "answer": "NUM",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Indivíduo que explora quem precisa de dinheiro",
+      "answer": "AGIOTA",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Imunizar de vírus",
+      "answer": "VACINAR",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Tragos de bebida",
+      "answer": "GOLES",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "(Bot.) Bianual",
+      "answer": "BIENICO",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Borrifado, respingado",
+      "answer": "ASPERSO",
+      "row": 4,
+      "col": 10
+    },
+    "23": {
+      "clue": "O Arantes do Nacimento é Pelé",
+      "answer": "EDSON",
+      "row": 5,
+      "col": 4
+    },
+    "25": {
+      "clue": "Dar murros em",
+      "answer": "SOCAR",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "PI",
+      "answer": "PIAUI",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Barrilha",
+      "answer": "SODA",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Transferência Eletrônica Disponível",
+      "answer": "TED",
+      "row": 8,
+      "col": 1
+    },
+    "34": {
+      "clue": "10, em Nova York",
+      "answer": "TEN",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "Conjunção que sugere opção",
+      "answer": "OU",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

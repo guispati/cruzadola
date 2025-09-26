@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "O Chateaubriand (1891-1968) introdutor da tevê no Brasil",
+      "answer": "ASSIS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Qualquer peça contendo furo em que se pode encaixar outra (o macho)",
+      "answer": "FEMEA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Que torna mais fácil a circulação do suco nutritivo das plantas",
+      "answer": "SEIVOSO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "As letras que separam o O e o S",
+      "answer": "PQR",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Polícia Rodoviária Federal",
+      "answer": "PRF",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Peça que ajuda a transportar doentes",
+      "answer": "MACA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "As iniciais da atriz Andress, de \"Cassino Royale\"",
+      "answer": "UA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Fôlego",
+      "answer": "AR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Talher cortante",
+      "answer": "FACA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Perverso",
+      "answer": "MAU",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "(Pop.) Pessoa cujo físico foi moldado por ginástica, esportes",
+      "answer": "SARADO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "A atriz Werneck",
+      "answer": "TATA",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Que faz ou vende armações para encerrar pássaros",
+      "answer": "GAIOLEIRO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "A da Guanabara banha o Rio de Janeiro e Niterói, dentre outras",
+      "answer": "BAIA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Um sólido sem base",
+      "answer": "ESFERA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Iluminação",
+      "answer": "LUZ",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Personagem histórico, que se torna lendário",
+      "answer": "MITO",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Magnetismo pessoal",
+      "answer": "IT",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "(Quím.) Actínio",
+      "answer": "AC",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Exteriormente",
+      "answer": "FORA",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Um pó branco usado em construções",
+      "answer": "CAL",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "As consoantes em China",
+      "answer": "CHN",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Bagunça",
+      "answer": "BADERNA",
+      "row": 9,
+      "col": 4
+    },
+    "37": {
+      "clue": "O ator Brito",
+      "answer": "KAYKY",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Grandes corpos aquosos (mares, rios etc.)",
+      "answer": "AGUAS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Sinais que abrem e fecham citações",
+      "answer": "ASPAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um destino turístico do sul do país",
+      "answer": "SERRAGAUCHA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Serviço de Inspeção Federal",
+      "answer": "SIF",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Ivete Vargas (1927-1984), jornalista e política gaúcha",
+      "answer": "IV",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Totalizado",
+      "answer": "SOMADO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Animal domesticado para apresentações em parques aquáticos",
+      "answer": "FOCA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Medida Provisória",
+      "answer": "MP",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Mulher nascida em Quito",
+      "answer": "EQUATORIANA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Município de Sergipe, na região de Boquim",
+      "answer": "ARAUA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Diz-se de mulher que faz venda domiciliar ou em locais de trabalho de mercadorias",
+      "answer": "SACOLEIRA",
+      "row": 1,
+      "col": 5
+    },
+    "17": {
+      "clue": "Cipreste",
+      "answer": "FAIA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "(Fig.) Ocasião",
+      "answer": "MARE",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Ramo subterrâneo de uma planta",
+      "answer": "RAIZ",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Grave doença infectocontagiosa",
+      "answer": "TIFO",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Permanência provisória",
+      "answer": "ESTADA",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "(tie) Traje formal",
+      "answer": "BLACK",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Um livro de geografia",
+      "answer": "ATLAS",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "(Dick) A grande baleia do livro de Herman Melville",
+      "answer": "MOBY",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Imaturo",
+      "answer": "CRU",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Nova York",
+      "answer": "NY",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "As iniciais do general Geisel (1908-1996), um dos presidentes da ditadura militar",
+      "answer": "EG",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

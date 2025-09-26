@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um mutante verde, muito forte, personagem fantástico",
+      "answer": "HULK",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "A parte mais elevada",
+      "answer": "CUME",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Barulhenta",
+      "answer": "RUIDOSA",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "(Quím.) O símbolo do gálio",
+      "answer": "GA",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Direção de bicicleta",
+      "answer": "GUIDOM",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "O poder ou a autoridade eclesiástica",
+      "answer": "CRUZ",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Observação",
+      "answer": "OBS",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Um dos sete pequenos ossos da parte posterior do pé",
+      "answer": "CUBOIDE",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Pronome pessoal da 2ª pessoa do singular",
+      "answer": "TU",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Conserto no calçado",
+      "answer": "REMONTE",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "(Salvador) A capital de El Salvador",
+      "answer": "SAN",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "Tratamento que os escravos davam aos senhores",
+      "answer": "NHO",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Examinada, verificada",
+      "answer": "TESTADA",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Sai, pombinha!",
+      "answer": "XO",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Condimentos",
+      "answer": "TEMPERO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Um número como 100 ou 14",
+      "answer": "PAR",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Vasilha própria para tomar o mate",
+      "answer": "CUIA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Peça de carne tostada",
+      "answer": "ASSADO",
+      "row": 8,
+      "col": 5
+    },
+    "31": {
+      "clue": "(Quím.) O hássio",
+      "answer": "HS",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Sob",
+      "answer": "DEBAIXO",
+      "row": 9,
+      "col": 3
+    },
+    "34": {
+      "clue": "O anteontem de depois de amanhã",
+      "answer": "HOJE",
+      "row": 10,
+      "col": 2
+    },
+    "35": {
+      "clue": "O olfato dos cães",
+      "answer": "FARO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "A ave símbolo do time do Flamengo",
+      "answer": "URUBU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O Fernando Veríssimo escritor gaúcho",
+      "answer": "LUIS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Abelha) A banda de pop rock de \"Como Eu Quero\"",
+      "answer": "KID",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Matem.) O C do MMC",
+      "answer": "COMUM",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Open) Importantes torneio de tênis",
+      "answer": "US",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Narcótico também conhecido como bagulho ou erva",
+      "answer": "MACONHA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Um aplicativo para auxílio de rotas no trânsito",
+      "answer": "WAZE",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Relativo a professores",
+      "answer": "DOCENTE",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Jogo com bolinhas de vidro",
+      "answer": "GUDE",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Pingo",
+      "answer": "GOTA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Ato sagrado de um culto",
+      "answer": "RITO",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Generosa",
+      "answer": "BONDOSA",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Cortado rente à pele",
+      "answer": "RASPADO",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Elemento de composição: metade",
+      "answer": "SEMI",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Tribunal de justiça",
+      "answer": "FORO",
+      "row": 5,
+      "col": 10
+    },
+    "23": {
+      "clue": "A tua família",
+      "answer": "TEUS",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "A língua do Alcorão, o livro sagrado do islamismo",
+      "answer": "ARABE",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Típica veste usada pelas mulheres iranianas",
+      "answer": "XADOR",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "(Pop.) Encanto pessoal, charme",
+      "answer": "TCHÃ",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Fig.) Marajá",
+      "answer": "PAXA",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Serviço de Inspeção Federal",
+      "answer": "SIF",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Elton John, músico",
+      "answer": "EJ",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cueiros",
+      "answer": "FRALDAS",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Os 8 dígitos que indicam um endereço postal",
+      "answer": "CEP",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Eletrencefalograma",
+      "answer": "EEG",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "(Med.) Criança recém-nascida",
+      "answer": "NEONATO",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Espécie de casaco",
+      "answer": "BLUSA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "O assento das motocicletas",
+      "answer": "SELIM",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Grande faísca elétrica",
+      "answer": "RAIO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "O primeiro órgão do aparelho digestivo",
+      "answer": "BOCA",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Prova",
+      "answer": "EXAME",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Frenesi, delírio",
+      "answer": "FUROR",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "O mês com o dia da sogra (28)",
+      "answer": "ABRIL",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Chega!",
+      "answer": "BASTA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Produzir sons em instrumentos musicais",
+      "answer": "TOCAR",
+      "row": 6,
+      "col": 6
+    },
+    "29": {
+      "clue": "Neste lugar",
+      "answer": "AQUI",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Serviço de Atendimento Médico de Urgência",
+      "answer": "SAMU",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Planta usada em xaropes expectorantes",
+      "answer": "GUACO",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Calçado com rodinhas, para rolar sobre pavimentos lisos",
+      "answer": "PATIM",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Cancelar, anular os efeitos (de uma lei)",
+      "answer": "REVOGAR",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Redução do nome do mês 8",
+      "answer": "AGO",
+      "row": 9,
+      "col": 8
+    },
+    "37": {
+      "clue": "O fonema que se repete no metacismo",
+      "answer": "EME",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Deixar (um negócio) prestes a concluir",
+      "answer": "AMARRAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um sintoma da Covid",
+      "answer": "FEBRE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Pop.) Ato de procurar recreação ou repouso",
+      "answer": "RELAX",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "No jogo do bicho, o 2º grupo",
+      "answer": "AGUIA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Teste que examina os genes para reconhecimento de paternidade",
+      "answer": "DNA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Antecedem o I, o O e o U",
+      "answer": "AE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(A) Sem companhia",
+      "answer": "SOS",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Uma característica do verão",
+      "answer": "CALOR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Relativo ao aspecto ou perfil moral",
+      "answer": "ETICO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Plantação de caquizeiros, parreiras e mexeriqueiras",
+      "answer": "POMAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "A de Órion pode ser observada a olho nu",
+      "answer": "NEBULOSA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "(Biol.) Que é próprio do corpo",
+      "answer": "SOMATICO",
+      "row": 2,
+      "col": 3
+    },
+    "19": {
+      "clue": "Interjeição de alegria, surpresa",
+      "answer": "EBA",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "(Dry) Tecido para roupas esportivas",
+      "answer": "FIT",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Um peixe de pele sem escamas",
+      "answer": "BAGRE",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "(de) Abaixo de",
+      "answer": "AQUEM",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Ameno, aprazível, brando, moderado",
+      "answer": "SUAVE",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Buscar",
+      "answer": "CATAR",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Companheira",
+      "answer": "AMIGA",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Barulho, burburinho",
+      "answer": "RUMOR",
+      "row": 6,
+      "col": 10
+    },
+    "32": {
+      "clue": "Um pouco de... droga",
+      "answer": "OGA",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "(Pop.) Para",
+      "answer": "PRA",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "A sigla do estado de Parintins e Tefé",
+      "answer": "AM",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

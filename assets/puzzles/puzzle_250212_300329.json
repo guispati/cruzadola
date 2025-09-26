@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Universal",
+      "answer": "GERAL",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "A cordilheira do lago Titicaca",
+      "answer": "ANDES",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "A UF de Cachoeiro de Itapemirim",
+      "answer": "ES",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Sem dentes",
+      "answer": "BANGUELO",
+      "row": 1,
+      "col": 3
+    },
+    "13": {
+      "clue": "Estimular, fazer crescer",
+      "answer": "ACIRRAR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Dez vezes dez",
+      "answer": "CEM",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "O ator Murilo",
+      "answer": "ROSA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Fina e agradável ao tato",
+      "answer": "SEDOSA",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Que respira com ruído durante o sono",
+      "answer": "RONCADOR",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Estrábico",
+      "answer": "VESGO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Que se tem desde o nascimento",
+      "answer": "INATO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Direcionado, focado",
+      "answer": "CENTRADO",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "(Fig.) Ato de coagir, de pressionar",
+      "answer": "APERTO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Palerma",
+      "answer": "BOCO",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Julho",
+      "answer": "JUL",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Transformar em ferida",
+      "answer": "ULCERAR",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Plantação de certas árvores frutíferas",
+      "answer": "AMENDOAL",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "600, em romanos",
+      "answer": "DC",
+      "row": 9,
+      "col": 9
+    },
+    "36": {
+      "clue": "Corte",
+      "answer": "RASGO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Uma porção de água com pouco fluxo",
+      "answer": "LAGOA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Baixar excessivamente a temperatura",
+      "answer": "GEAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Contagem",
+      "answer": "ESCORE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Abarcar, incluir",
+      "answer": "ABRANGER",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "O aconchego da família",
+      "answer": "LAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Atacar",
+      "answer": "AGREDIR",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Sem roupas",
+      "answer": "NU",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Profissional que arruma e enfeita uma residência",
+      "answer": "DECORADOR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A terceira pessoa do plural",
+      "answer": "ELES",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Totalizado",
+      "answer": "SOMADO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Centro espacial e aeronáutico dos Estados Unidos",
+      "answer": "NASA",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Um triângulo regular",
+      "answer": "ISOSCELES",
+      "row": 2,
+      "col": 2
+    },
+    "18": {
+      "clue": "Uma personagem da \"Escolinha do Professor Raimundo\"",
+      "answer": "DONABELA",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Todavia",
+      "answer": "CONTUDO",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "(Gír.) Sentir o efeito de droga",
+      "answer": "VIAJAR",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Sensibilizado",
+      "answer": "TOCADO",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Boboca",
+      "answer": "TOLO",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Suçuarana",
+      "answer": "PUMA",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Um cetáceo branco e preto",
+      "answer": "ORCA",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "Pó branco usado em argamassa",
+      "answer": "CAL",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Normas Gerais",
+      "answer": "NG",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um equipamento para acender o fogo da churrasqueira",
+      "answer": "ASSOPRADOR",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Tronco",
+      "answer": "CAULE",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Líquido digestivo segregado pelo fígado",
+      "answer": "FEL",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Excelentíssima",
+      "answer": "EXMA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Líquido de ferida infeccionada",
+      "answer": "PUS",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Em francês é je e em espanhol é yo",
+      "answer": "EU",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Que está saudável",
+      "answer": "SÃO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Solução corante",
+      "answer": "TINTURA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Único",
+      "answer": "SO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Limitar o consumo",
+      "answer": "RACIONAR",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "As partes que formam a corola das flores",
+      "answer": "PETALAS",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "Retomar a posse de um território",
+      "answer": "REOCUPAR",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Sigla) Um tipo de empresa",
+      "answer": "SA",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "Ter o comando absoluto",
+      "answer": "IMPERAR",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "O som de uma batida, nas HQs",
+      "answer": "BUM",
+      "row": 7,
+      "col": 8
+    },
+    "26": {
+      "clue": "(Fís.) Abrev.: oersted",
+      "answer": "OE",
+      "row": 8,
+      "col": 0
+    },
+    "27": {
+      "clue": "Grande mala",
+      "answer": "BAU",
+      "row": 8,
+      "col": 3
+    },
+    "28": {
+      "clue": "Cada estágio do desenvolvimento de uma pessoa",
+      "answer": "FASE",
+      "row": 8,
+      "col": 7
+    },
+    "29": {
+      "clue": "(Drive) Um dispositivo de informática",
+      "answer": "PEN",
+      "row": 9,
+      "col": 2
+    },
+    "30": {
+      "clue": "(Ingl.) Diz-se de alimento com baixo teor de açúcar",
+      "answer": "LIGHT",
+      "row": 9,
+      "col": 6
+    },
+    "31": {
+      "clue": "Negócio em que há fraude",
+      "answer": "MARACUTAIA",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Peças e objetos secundários que completam a montagem de um carro, moto etc.",
+      "answer": "ACESSORIOS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Alemão de Dresden ou Oldenburg",
+      "answer": "SAXÃO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Tradicional luta japonesa",
+      "answer": "SUMO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Uma manifestação da torcida nos estádios",
+      "answer": "OLA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Uma consoante oclusiva",
+      "answer": "PE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Tornar mais estreito",
+      "answer": "AFUNILAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Discordar, divergir",
+      "answer": "DESTOAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Orígenes Lessa (1903-1986), escritor de \"O Evangelho de Lázaro\" e \"Rua do Sol\"",
+      "answer": "OL",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "Goleiro",
+      "answer": "GUARDAMETA",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "Um pássaro de desenhos animados",
+      "answer": "PICAPAU",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Período de importância histórica",
+      "answer": "ERA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Lagarta de mariposa",
+      "answer": "TATURANA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Aproximadamente",
+      "answer": "UNS",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "(Telecom.) Captar os sinais de uma emissora",
+      "answer": "RECEBER",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Uma arte de vanguarda",
+      "answer": "POP",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "A letra que vale 1.000 em algarismos romanos",
+      "answer": "EME",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Um comida oriental",
+      "answer": "SUSHI",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Pequeno fruto carnudo arredondado",
+      "answer": "BAGA",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "(Dry) Tecido para roupas esportivas",
+      "answer": "FIT",
+      "row": 8,
+      "col": 7
+    },
+    "29": {
+      "clue": "Complementa o trabalho da picareta",
+      "answer": "PA",
+      "row": 9,
+      "col": 2
+    },
+    "30": {
+      "clue": "Um apelido para Luíza",
+      "answer": "LU",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

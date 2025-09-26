@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Homem e mulher que geraram um filho",
+      "answer": "PAIS",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Sem proveito",
+      "answer": "INUTIL",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "A zona do Polo Norte",
+      "answer": "ARTICO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "(Neol.) Mensagem que se multiplica rapidamente",
+      "answer": "MEME",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Acordo de cavalheiros",
+      "answer": "TRATO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Golpe feito com a pressão do pé",
+      "answer": "PISÃO",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Tornado maior",
+      "answer": "AUMENTADO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "O tempo entre Sex e Dom",
+      "answer": "SAB",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Tronco de madeira grossa que serve para cortar a carne nos açougues",
+      "answer": "CEPO",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "A 12ª consoante",
+      "answer": "PE",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "Veloz, rápido",
+      "answer": "CELERE",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Oitocentos mais duzentos",
+      "answer": "MIL",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Tetê sem tês",
+      "answer": "EE",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Marcar (tempo) para realização de alguma coisa",
+      "answer": "APRAZAR",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "A metade de XXVIII, em romanos",
+      "answer": "XIV",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Plantação de um fruto que enfeita bolos",
+      "answer": "CEREJAL",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Ponto em que se encontram três estradas",
+      "answer": "TRIVIO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Parte de um todo dividido",
+      "answer": "LOTE",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Rh",
+      "answer": "RODIO",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Devido a agentes patogênicos",
+      "answer": "VIRAL",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Suspensão temporária dos movimentos respiratórios",
+      "answer": "APNEIA",
+      "row": 10,
+      "col": 2
+    },
+    "36": {
+      "clue": "A sigla do estado de Aracaju",
+      "answer": "SE",
+      "row": 10,
+      "col": 9
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "São quatro nas hienas e nos rinocerontes",
+      "answer": "PATAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Baderneiro",
+      "answer": "ARRUACEIRO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Nome de duas cidades, uma na BA e outra em PE",
+      "answer": "ITAMBE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Ingl.) Local na internet",
+      "answer": "SITE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Pio sem pê",
+      "answer": "IO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Pouco molhado",
+      "answer": "UMIDO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Rijo",
+      "answer": "TESO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Atrai metais",
+      "answer": "IMÃ",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O político Brizola (1922-2004)",
+      "answer": "LEONEL",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Cidade chilena, a segunda do país",
+      "answer": "CONCEPCION",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "(Pop.) Jogar conversa fora",
+      "answer": "PAPEAR",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Que fica ao nível do chão",
+      "answer": "TERREO",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "O do Caribe é uma famosa série de filmes de aventura",
+      "answer": "PIRATAS",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Naquele lugar",
+      "answer": "LA",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Posto do Exército, inferior a tenente-coronel",
+      "answer": "MAJOR",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Aquele que executa tarefa suplementar ou adicional",
+      "answer": "EXTRA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "A Gattai (1916-2008), do livro \"Anarquistas, Graças a Deus\"",
+      "answer": "ZELIA",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "(Fig.) O tempo de existência de uma coisa",
+      "answer": "VIDA",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "(Pop.) desordem",
+      "answer": "LELE",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Área destinada, em eventos, à autoridades e pessoas de prestígio",
+      "answer": "VIP",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Metade de XII",
+      "answer": "VI",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

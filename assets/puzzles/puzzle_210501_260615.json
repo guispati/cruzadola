@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O mês do descobrimento do Brasil",
+      "answer": "ABRIL",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Mulher corajosa",
+      "answer": "BRAVA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Sentido que permite a percepção dos sons e dos ruídos",
+      "answer": "OUVIDO",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "A carta marcada com um senhor coroado",
+      "answer": "REI",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Um fabuloso Babá",
+      "answer": "ALI",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "A utilidade da foice",
+      "answer": "CEIFAR",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Gentil, de boa educação",
+      "answer": "CORTES",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "(Gír.) Qualquer prazer provocado por droga",
+      "answer": "ONDA",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "A substância que enche os pulmões",
+      "answer": "AR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Retrair, contrair",
+      "answer": "ENCOLHER",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Conta de vidro miúda e colorida",
+      "answer": "MIÇANGA",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Trepadeira muito cultivada como ornamental",
+      "answer": "ALAMANDA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "O símbolo químico do cobalto",
+      "answer": "CO",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Animal do Papai Noel",
+      "answer": "RENA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Aparecer de repente",
+      "answer": "SURGIR",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "Conforme a regra",
+      "answer": "NORMAL",
+      "row": 8,
+      "col": 1
+    },
+    "32": {
+      "clue": "A letra 6",
+      "answer": "EFE",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "A ele",
+      "answer": "LHE",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Cercar com fios de metal",
+      "answer": "ARAMAR",
+      "row": 9,
+      "col": 4
+    },
+    "36": {
+      "clue": "Uma característica do verão",
+      "answer": "CALOR",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Do campo",
+      "answer": "RURAL",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Uma formação de fungos",
+      "answer": "BOLOR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Cair com impetuosidade",
+      "answer": "RUIR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A metade de VIII",
+      "answer": "IV",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Autorização para faltar ao serviço",
+      "answer": "LICENÇA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Um animal que nos fornece carne, couro e força de trabalho",
+      "answer": "BOI",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Um animal como a tarântula",
+      "answer": "ARANHA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Uma cor do semáforo",
+      "answer": "VERDE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Outro nome do bicho-preguiça",
+      "answer": "AI",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Estar (a terra) em interrupção de cultura",
+      "answer": "DESCANSAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Completar, finalizar",
+      "answer": "ACABAR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Afrouxar, desapertar",
+      "answer": "FOLGAR",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Querer continuar (uma ação) com insistência",
+      "answer": "TEIMAR",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Vegetal lenhoso de grande porte",
+      "answer": "ARVORE",
+      "row": 3,
+      "col": 10
+    },
+    "22": {
+      "clue": "Oscilar",
+      "answer": "ONDULAR",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "O radialista da Nóbrega (1913-1976), criador do programa \"Praça da Alegria\"",
+      "answer": "MANOEL",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Qualquer matéria vegetal (ramos, galhos etc.) destinada a servir de combustível",
+      "answer": "LENHA",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Cômputo total",
+      "answer": "CIFRA",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Congelar o orvalho",
+      "answer": "GEAR",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Não banha nem a Suíça nem o Acre",
+      "answer": "MAR",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Louise Cardoso, atriz carioca",
+      "answer": "LC",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "O som que imita a voz da vaca",
+      "answer": "MU",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

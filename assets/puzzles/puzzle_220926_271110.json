@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Pop.) Voz do gato",
+      "answer": "MIAU",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Conjunto de pessoas que declamam trechos literários",
+      "answer": "JOGRAL",
+      "row": 0,
+      "col": 5
+    },
+    "11": {
+      "clue": "O músico Valença, de \"Sol e Chuva\"",
+      "answer": "ALCEU",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Carnívoro noturno típico da África",
+      "answer": "HIENA",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "(Pop.) Senhor",
+      "answer": "NHO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Ramo subterrâneo de uma planta",
+      "answer": "RAIZ",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "Danny DeVito, ator de \"Batman: o Retorno\"",
+      "answer": "DD",
+      "row": 2,
+      "col": 9
+    },
+    "18": {
+      "clue": "Colo de garrafa",
+      "answer": "GARGALO",
+      "row": 3,
+      "col": 0
+    },
+    "20": {
+      "clue": "Época da procriação",
+      "answer": "CIO",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Mal que se causa a alguma coisa",
+      "answer": "DANO",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "O que compõe um patrimônio",
+      "answer": "BENS",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Do país europeu de Riga",
+      "answer": "LETONIANO",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Um brinquedo infantil",
+      "answer": "PIÃO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Parte da roupa que circunda o pescoço",
+      "answer": "GOLA",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Um ingrediente do quindim",
+      "answer": "OVO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Adepto a reformas extremas",
+      "answer": "RADICAL",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "A Negra cantora",
+      "answer": "LI",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Promessa solene",
+      "answer": "JURA",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Que constitui um todo",
+      "answer": "UNO",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "São dois na bicicleta",
+      "answer": "PNEUS",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "De pouco valor",
+      "answer": "RELES",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "Apetrecho de alfaiate",
+      "answer": "AGULHA",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Os pontos marcados no futebol",
+      "answer": "GOLS",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Parte do vestuário na qual se enfia o braço",
+      "answer": "MANGA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Uma região como Bananal ou Marajó",
+      "answer": "ILHA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Outro nome da sanfona",
+      "answer": "ACORDEÃO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "União Europeia",
+      "answer": "UE",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "O estado de Columbus, nos EUA",
+      "answer": "OHIO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O de cera é para desenhar",
+      "answer": "GIZ",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Uma marcha dos carros",
+      "answer": "RE",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Relativo aos Andes",
+      "answer": "ANDINO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Flancos",
+      "answer": "LADOS",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "O planeta entre Saturno e Netuno",
+      "answer": "URANO",
+      "row": 1,
+      "col": 4
+    },
+    "16": {
+      "clue": "Estender os músculos antes de uma atividade física",
+      "answer": "ALONGAR",
+      "row": 2,
+      "col": 5
+    },
+    "19": {
+      "clue": "Um bicho como Garfield",
+      "answer": "GATO",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Salas de refeições",
+      "answer": "CENACULO",
+      "row": 3,
+      "col": 8
+    },
+    "22": {
+      "clue": "Ilha da Indonésia, centro turístico",
+      "answer": "BALI",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "(Ingl.) Sala de estar",
+      "answer": "LIVING",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Misturar com o elemento I",
+      "answer": "IODAR",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "A parte mais apreciada dos frutos",
+      "answer": "POLPA",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Ingl.) Um tipo de batom",
+      "answer": "GLOSS",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Banda canadense de rock progressivo",
+      "answer": "RUSH",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Adorno que se traz no dedo",
+      "answer": "ANEL",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Precede Ago",
+      "answer": "JUL",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Precede tu",
+      "answer": "EU",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "Eliane Giardini, atriz paulista",
+      "answer": "EG",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "A Dietrich (1901-1992), atriz e cantora alemã",
+      "answer": "MARLENE",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "(Zool.) Diz-se da ave que tem as penas da cauda em forma de leque",
+      "answer": "AGRIPENE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Bromo, elemento químico",
+      "answer": "BR",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Poxa!",
+      "answer": "PO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Do país da Europa com capital Chisinau",
+      "answer": "MOLDAVIO",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Ministro de Deus",
+      "answer": "SACERDOTE",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Parte de uma composição musical que arremata a peça",
+      "answer": "CODA",
+      "row": 4,
+      "col": 1
+    },
+    "17": {
+      "clue": "A claridade que vem da lâmpada",
+      "answer": "LUZ",
+      "row": 4,
+      "col": 8
+    },
+    "18": {
+      "clue": "Um animal que fornece leite",
+      "answer": "VACA",
+      "row": 5,
+      "col": 0
+    },
+    "19": {
+      "clue": "(Folha-) Acrobacia aérea em que o avião desce como uma folha caindo",
+      "answer": "SECA",
+      "row": 5,
+      "col": 7
+    },
+    "20": {
+      "clue": "Doméstica que tem a seu encargo as crianças",
+      "answer": "AMA",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "O antônimo de bonita",
+      "answer": "FEIA",
+      "row": 6,
+      "col": 6
+    },
+    "23": {
+      "clue": "Rejeitado",
+      "answer": "REPROVADO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Planta ornamental com flores de diversas cores",
+      "answer": "GLADIOLO",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "José Aldo, lutador de MMA",
+      "answer": "JA",
+      "row": 8,
+      "col": 9
+    },
+    "29": {
+      "clue": "As vogais de frevo",
+      "answer": "EO",
+      "row": 9,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Rel.) Diz-se da pia em que se recebe um dos Sacramentos",
+      "answer": "BATISMAL",
+      "row": 9,
+      "col": 3
+    },
+    "32": {
+      "clue": "Estado com capital Boa Vista",
+      "answer": "RORAIMA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Desenho de um país",
+      "answer": "MAPA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Assembleia Geral Ordinária",
+      "answer": "AGO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Robert Redford, ator de \"Golpe de Mestre\"",
+      "answer": "RR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Refresco de certos frutos cítricos",
+      "answer": "LIMADA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Período histórico",
+      "answer": "EPOCA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Combinação de preposição com pronome pessoal",
+      "answer": "NELE",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Condimento semelhante ao funcho",
+      "answer": "ENDRO",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Ato de grande coragem, de generoso valor",
+      "answer": "PROEZA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Escola em casa",
+      "answer": "EAD",
+      "row": 1,
+      "col": 7
+    },
+    "11": {
+      "clue": "O apelido do músico Milton Nascimento",
+      "answer": "BITUCA",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "(Fut.) Uma forma de chutar a bola enquanto ela ainda está no ar",
+      "answer": "VOLEIO",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Disfarce, dissimulação",
+      "answer": "SOCAPA",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Vendedor ambulante",
+      "answer": "CAMELO",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "Campina cultivada",
+      "answer": "VARGEM",
+      "row": 5,
+      "col": 0
+    },
+    "19": {
+      "clue": "Fina e agradável ao tato",
+      "answer": "SEDOSA",
+      "row": 5,
+      "col": 7
+    },
+    "21": {
+      "clue": "Flutuar",
+      "answer": "BOIAR",
+      "row": 6,
+      "col": 4
+    },
+    "22": {
+      "clue": "Ir à bancarrota",
+      "answer": "FALIR",
+      "row": 6,
+      "col": 6
+    },
+    "24": {
+      "clue": "Recibo de Depósito Bancário",
+      "answer": "RDB",
+      "row": 7,
+      "col": 3
+    },
+    "25": {
+      "clue": "A opção feita numa eleição",
+      "answer": "VOTO",
+      "row": 7,
+      "col": 5
+    },
+    "26": {
+      "clue": "Discurso",
+      "answer": "FALA",
+      "row": 7,
+      "col": 10
+    },
+    "28": {
+      "clue": "Jamaica",
+      "answer": "JAM",
+      "row": 8,
+      "col": 9
+    },
+    "31": {
+      "clue": "(Mús.) A nota E",
+      "answer": "MI",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "2": {
+      "clue": "No futebol, chutar a bola em movimento",
+      "answer": "EMENDAR",
+      "row": 0,
+      "col": 4
+    },
+    "8": {
+      "clue": "O símbolo químico do gás hélio",
+      "answer": "HE",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Programa do Ministério da Educação para concessão de bolsas de estudos",
+      "answer": "PROUNI",
+      "row": 1,
+      "col": 3
+    },
+    "11": {
+      "clue": "Engolir",
+      "answer": "INGERIR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Não curtido, em estado natural",
+      "answer": "CRU",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Um que provoca perturbações sociais",
+      "answer": "AGITADOR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Universidade Católica",
+      "answer": "UC",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Latada",
+      "answer": "RAMADA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Um bicho-papão como Shrek, do cinema",
+      "answer": "OGRO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "O Michel cantor",
+      "answer": "TELO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "(Cabeça-) Burro",
+      "answer": "DURA",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Arbusto que fornece uma tintura para cabelos",
+      "answer": "HENA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "A peça que prende o aro do basquete",
+      "answer": "TABELA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Uma forma de mola",
+      "answer": "ESPIRAL",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "Outro nome do piche",
+      "answer": "PEZ",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "A cantora carioca Leny",
+      "answer": "ANDRADE",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Variação de tu",
+      "answer": "TI",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Oposto de quente",
+      "answer": "FRIO",
+      "row": 9,
+      "col": 3
+    },
+    "34": {
+      "clue": "Uma das peças do xadrez",
+      "answer": "REI",
+      "row": 9,
+      "col": 8
+    },
+    "35": {
+      "clue": "Recolher ou abrigar em instituição de caridade",
+      "answer": "ASILAR",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "A última e a primeira letra do nosso alfabeto",
+      "answer": "ZA",
+      "row": 10,
+      "col": 9
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Gír.) Dar a bronca",
+      "answer": "CHIAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Que não está certo",
+      "answer": "ERRADO",
+      "row": 0,
+      "col": 4
+    },
+    "3": {
+      "clue": "Diz-se da carne usada no hambúrguer",
+      "answer": "MOIDA",
+      "row": 0,
+      "col": 5
+    },
+    "4": {
+      "clue": "A moeda €",
+      "answer": "EURO",
+      "row": 0,
+      "col": 6
+    },
+    "5": {
+      "clue": "Nina sem vogais",
+      "answer": "NN",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "(Abrev.) Dicionário",
+      "answer": "DIC",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Quase áfono",
+      "answer": "ROUCO",
+      "row": 0,
+      "col": 10
+    },
+    "9": {
+      "clue": "Peça que prende os vagões um a outro",
+      "answer": "ENGATE",
+      "row": 1,
+      "col": 1
+    },
+    "10": {
+      "clue": "As partes que formam a corola das flores",
+      "answer": "PETALAS",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "A apresentadora de TV Luciana",
+      "answer": "GIMENEZ",
+      "row": 2,
+      "col": 2
+    },
+    "14": {
+      "clue": "Carro off-road produzido até a década de 1970",
+      "answer": "RURAL",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Praticar apropriação indébita de bem alheio",
+      "answer": "ROUBAR",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Germinar, brotar",
+      "answer": "GRELAR",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Flecha",
+      "answer": "DARDO",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "7 vezes",
+      "answer": "HEPTA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Fazer vibrar",
+      "answer": "TINIR",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Cereal nutritivo, rico em fibras",
+      "answer": "AVEIA",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Um grande estado brasileiro",
+      "answer": "PARA",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Advérbio: aqui está!",
+      "answer": "EIS",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "Um sexto de sessenta",
+      "answer": "DEZ",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Fernanda Lima, modelo e apresentadora gaúcha",
+      "answer": "FL",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

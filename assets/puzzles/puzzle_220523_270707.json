@@ -1,0 +1,294 @@
+{
+  "across": {
+    "1": {
+      "clue": "Grande planície do sul da América do Sul",
+      "answer": "PAMPA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Nome de um poderoso orixá",
+      "answer": "XANGO",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Um tecido usado na fabricação de freios",
+      "answer": "LONA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Precede Leñas na famosa estação de esqui da Argentina",
+      "answer": "LAS",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Dó, ré, mi, (?)...",
+      "answer": "FA",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "(Open) Importante torneio de tênis realizado nos EUA",
+      "answer": "US",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Vagões puxados por uma locomotiva",
+      "answer": "TREM",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Que vive se metendo em encrencas",
+      "answer": "BRIGÃO",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Uma forma do pronome tu",
+      "answer": "TI",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "O contrário de acima",
+      "answer": "ABAIXO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Fazem o transporte de dados",
+      "answer": "FIOS",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Meio para atrair peixe",
+      "answer": "ISCA",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "(Kong) Um grande macaco do cinema",
+      "answer": "KING",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Palavra que precede o nome do frade",
+      "answer": "FREI",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Catalogar",
+      "answer": "FICHAR",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "As vogais de terno",
+      "answer": "EO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Peça que equipa animais de montaria",
+      "answer": "ARREIO",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Voz do lobo",
+      "answer": "UIVO",
+      "row": 8,
+      "col": 4
+    },
+    "31": {
+      "clue": "Kim Novak, atriz de \"Um Corpo Que Cai\"",
+      "answer": "KN",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Extraterrestre",
+      "answer": "ET",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Rede de canais de filmes da TV paga",
+      "answer": "HBO",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "O número de faces do cubo",
+      "answer": "SEIS",
+      "row": 9,
+      "col": 7
+    },
+    "37": {
+      "clue": "Um esporte com bola oval",
+      "answer": "RUGBI",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Elemento de aparelho de prótese dentária",
+      "answer": "PONTE",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Pena de ave",
+      "answer": "PLUMA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Àqueles",
+      "answer": "AOS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "As iniciais do músico Nascimento",
+      "answer": "MN",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A Poeta jornalista",
+      "answer": "PATRICIA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Feiticeiro, curandeiro",
+      "answer": "XAMÃ",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Artigo feminino para mais de uma pessoa",
+      "answer": "AS",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Gilberto Freyre (1900-1987), de \"Casa-Grande & Senzala\"",
+      "answer": "GF",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Terra fértil num deserto",
+      "answer": "OASIS",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Um brinquedo de peças que se encaixam",
+      "answer": "LEGO",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Disputa, competição",
+      "answer": "RIXA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Constituinte principal",
+      "answer": "BASE",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Sem interesses ou lucros",
+      "answer": "OFICIOSO",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Vestuário de advogado durante um julgamento",
+      "answer": "TOGA",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Estúdio de computação gráfica ou editoração eletrônica",
+      "answer": "BIRO",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Suf.: pequeno",
+      "answer": "INHO",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "A capital ucraniana",
+      "answer": "KIEV",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Cheirar mal",
+      "answer": "FEDER",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Fig.) Seco, desprovido de afeto, de calor humano",
+      "answer": "FRIO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Um creme cosmético usado para tratar o cabelo",
+      "answer": "RINSE",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Cor muito vermelha",
+      "answer": "RUBI",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Jogo de ferramentas",
+      "answer": "KIT",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Pronome da segunda pessoa do singular",
+      "answer": "TU",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "Héctor Babenco, cineasta de \"Carandiru\"",
+      "answer": "HB",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "Escola Naval",
+      "answer": "EN",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

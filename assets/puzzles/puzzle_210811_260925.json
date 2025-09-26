@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um tipo de traque que se estoura por divertimento",
+      "answer": "BOMBINHA",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Cinquenta e cinco, em romanos",
+      "answer": "LV",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Fibra leve e sedosa, usada para enchimento de travesseiros, almofadas etc.",
+      "answer": "PAINA",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Conjunto de três músicos",
+      "answer": "TRIO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Obra destinada a represar águas para irrigação",
+      "answer": "AÇUDE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Vieira) Famosa avenida carioca",
+      "answer": "SOUTO",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Isenta de males",
+      "answer": "SÃ",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Lançar de si",
+      "answer": "EXPELIR",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "(Ingl.) Filho",
+      "answer": "SON",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Aquele que veda",
+      "answer": "TAPADOR",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Abundante",
+      "answer": "OPIPARO",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Fluir, correr serenamente",
+      "answer": "DIMANAR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Pedido de socorro internacionalmente reconhecido",
+      "answer": "SOS",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Horrível, repugnante",
+      "answer": "BESTIAL",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "(Open) Importante torneio de tênis",
+      "answer": "US",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Homem muito devoto",
+      "answer": "BEATO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "De + esta",
+      "answer": "DESTA",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Desacerto",
+      "answer": "ERRO",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Ingerir um alimento sólido",
+      "answer": "COMER",
+      "row": 9,
+      "col": 5
+    },
+    "36": {
+      "clue": "Pedra usada para amolar tesouras e facas",
+      "answer": "MO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Tornar muito enxuto",
+      "answer": "RESSECAR",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Direito de escolha",
+      "answer": "OPÇÃO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Perverso, ruim",
+      "answer": "MAU",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Peça do sanitário, atualmente em desuso",
+      "answer": "BIDE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Que não está acabado, aniquilado",
+      "answer": "INEXTINTO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Sódio",
+      "answer": "NA",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Afundar na lama",
+      "answer": "ATOLAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "A medida mais comum para se comprar gasolina",
+      "answer": "LITRO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Viagem de foguete",
+      "answer": "VOO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Barulhos",
+      "answer": "RUIDOS",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "(Bashar Al-) Ditador sírio",
+      "answer": "ASSAD",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Que romperam a união matrimonial",
+      "answer": "SEPARADOS",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Tratamento infantil para o próprio genitor",
+      "answer": "PAPAI",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Conferir o cargo de",
+      "answer": "NOMEAR",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "A montanha dos parques de diversões",
+      "answer": "RUSSA",
+      "row": 4,
+      "col": 10
+    },
+    "23": {
+      "clue": "Ministro da religião protestante",
+      "answer": "PASTOR",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Da península que compreende Portugal e Espanha",
+      "answer": "IBERO",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Nem esta nem aquela",
+      "answer": "OUTRA",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Timão",
+      "answer": "LEME",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "De maneira conveniente, com propriedade",
+      "answer": "BEM",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Matem.) Secante",
+      "answer": "SEC",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "Campos Salles (1841-1913), presidente do Brasil",
+      "answer": "CS",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Empecilho, obstáculo",
+      "answer": "POREM",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Um tom entre o branco e o preto",
+      "answer": "CINZA",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Pequena porca",
+      "answer": "LEITOA",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Dezoito menos onze",
+      "answer": "SETE",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Abreviatura da Áustria",
+      "answer": "AUT",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Um tipo de batom",
+      "answer": "GLOSS",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "Conhecido bairro da cidade do Rio de Janeiro",
+      "answer": "MEIER",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Símbolo de su-sudoeste",
+      "answer": "SSO",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Município do estado do Ceará, na região de Iguatu",
+      "answer": "OROS",
+      "row": 4,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Petit) Uma sobremesa de bolo e sorvete",
+      "answer": "GATEAU",
+      "row": 4,
+      "col": 5
+    },
+    "25": {
+      "clue": "Tronco de madeira",
+      "answer": "ATORA",
+      "row": 5,
+      "col": 3
+    },
+    "27": {
+      "clue": "Dissolver uma substância num líquido",
+      "answer": "DILUIR",
+      "row": 6,
+      "col": 0
+    },
+    "29": {
+      "clue": "Um terço de nove",
+      "answer": "TRES",
+      "row": 6,
+      "col": 7
+    },
+    "32": {
+      "clue": "As três ultimas vogais",
+      "answer": "IOU",
+      "row": 7,
+      "col": 0
+    },
+    "33": {
+      "clue": "Sobra de pipoca",
+      "answer": "PIRUA",
+      "row": 7,
+      "col": 4
+    },
+    "35": {
+      "clue": "Podre, estagnado",
+      "answer": "CHOCO",
+      "row": 8,
+      "col": 2
+    },
+    "37": {
+      "clue": "Símbolo de megaparsec, unidade de distância em astronomia",
+      "answer": "MPC",
+      "row": 8,
+      "col": 8
+    },
+    "39": {
+      "clue": "O antônimo de mole",
+      "answer": "DURO",
+      "row": 9,
+      "col": 0
+    },
+    "41": {
+      "clue": "Dar trabalho a",
+      "answer": "OCUPAR",
+      "row": 9,
+      "col": 5
+    },
+    "43": {
+      "clue": "Cidade gaúcha próxima a Novo Hamburgo",
+      "answer": "IVOTI",
+      "row": 10,
+      "col": 0
+    },
+    "44": {
+      "clue": "A pintora mexicana Frida (1907-1954)",
+      "answer": "KHALO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Projeto elaborado que se destina a uma determinada finalidade",
+      "answer": "PLANO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "As vogais de Romeu",
+      "answer": "OEU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Harmonia",
+      "answer": "RITMO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Famoso monstrinho do cineasta Steven Spielberg",
+      "answer": "ET",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(das Cruzes) Cidade paulista próxima à capital",
+      "answer": "MOGI",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Imposto Sobre Serviços",
+      "answer": "ISS",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Contração de preposição e pronome demonstrativo",
+      "answer": "NESSE",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Zona Tropical",
+      "answer": "ZT",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "As vogais do nosso alfabeto",
+      "answer": "AEIOU",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Um carro carnavalesco",
+      "answer": "ALEGORICO",
+      "row": 1,
+      "col": 5
+    },
+    "16": {
+      "clue": "Pronunciar discurso",
+      "answer": "ORAR",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "(Bíbl.) Renunciou, por gulodice, à primogenitura",
+      "answer": "ESAU",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Planta que cobre quiosques",
+      "answer": "SAPE",
+      "row": 3,
+      "col": 9
+    },
+    "22": {
+      "clue": "Descarga elétrica acompanhada de trovão e relâmpago",
+      "answer": "RAIO",
+      "row": 4,
+      "col": 1
+    },
+    "24": {
+      "clue": "O Jeca personagem de Monteiro Lobato",
+      "answer": "TATU",
+      "row": 4,
+      "col": 7
+    },
+    "26": {
+      "clue": "Modelo, padrão",
+      "answer": "TIPO",
+      "row": 5,
+      "col": 4
+    },
+    "27": {
+      "clue": "Famoso samba-canção de Tom Jobim",
+      "answer": "DINDI",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Ganho financeiro",
+      "answer": "LUCRO",
+      "row": 6,
+      "col": 2
+    },
+    "30": {
+      "clue": "Ladeira",
+      "answer": "RAMPA",
+      "row": 6,
+      "col": 8
+    },
+    "31": {
+      "clue": "Osso do final da coluna",
+      "answer": "SACRO",
+      "row": 6,
+      "col": 10
+    },
+    "34": {
+      "clue": "O estilo do \"Rush\" e do \"Raimundos\"",
+      "answer": "ROCK",
+      "row": 7,
+      "col": 6
+    },
+    "36": {
+      "clue": "(Ingl.) Quente",
+      "answer": "HOT",
+      "row": 8,
+      "col": 3
+    },
+    "38": {
+      "clue": "Abrev.: Palestina",
+      "answer": "PAL",
+      "row": 8,
+      "col": 9
+    },
+    "40": {
+      "clue": "Abreviatura de ultravioleta, raio solar",
+      "answer": "UV",
+      "row": 9,
+      "col": 1
+    },
+    "42": {
+      "clue": "Interjeição de dor, admiração",
+      "answer": "UH",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O de cozinha acontece antes do casamento",
+      "answer": "CHA",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "Substância que aumenta a fecundidade da terra",
+      "answer": "ADUBO",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Dança havaiana",
+      "answer": "HULA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "O cachorro de Mickey",
+      "answer": "PLUTO",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Próprio para fazer mergulhar, afundar",
+      "answer": "IMERSIVO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Nilo Peçanha (1867-1924), presidente do Brasil",
+      "answer": "NP",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Determinado número de pessoas",
+      "answer": "GRUPO",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "1002, em romanos",
+      "answer": "MII",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "O conjunto dos cristãos católicos",
+      "answer": "IGREJA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "(Esp.) Subdivisões do jogo de tênis",
+      "answer": "SETS",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Máxima",
+      "answer": "LEMA",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Variedade de foice muito afiada, de cabo curto, usada para cortar madeira, galhos etc.",
+      "answer": "PODÃO",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Qualidade física, intelectual ou moral",
+      "answer": "DOTE",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Hábito nocivo",
+      "answer": "VICIO",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "Exame do ouvido",
+      "answer": "OTOSCOPIA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "T",
+      "answer": "TE",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Cortar",
+      "answer": "SECIONAR",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Pedra semipreciosa muito dura, esverdeada",
+      "answer": "JADE",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "Pequeno caranguejo",
+      "answer": "SIRI",
+      "row": 9,
+      "col": 7
+    },
+    "32": {
+      "clue": "Para trás",
+      "answer": "RETRO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Red.) Parque onde podem ser vistos jacarés e veados",
+      "answer": "ZOO",
+      "row": 10,
+      "col": 8
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Pimenta fundamental na cozinha mexicana",
+      "answer": "CHILI",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Exclamação de incerteza, incredulidade",
+      "answer": "HUM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Trecho musical de caráter gracioso e leve, de andamento ligeiro",
+      "answer": "ALEGRETO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Mira que se procura atingir",
+      "answer": "ALVO",
+      "row": 0,
+      "col": 6
+    },
+    "5": {
+      "clue": "Dupla de cantores ou instrumentistas",
+      "answer": "DUO",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "(Mús.) O antigo nome da nota dó",
+      "answer": "UT",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "(Pop.) Galã",
+      "answer": "BONITÃO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Atirar",
+      "answer": "ARREMESSAR",
+      "row": 1,
+      "col": 3
+    },
+    "10": {
+      "clue": "Grande recipiente para estocagem de vinho",
+      "answer": "PIPA",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Não limpa",
+      "answer": "SUJA",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Andar de um edifício",
+      "answer": "PISO",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "A margem interior da página de um livro",
+      "answer": "MEDIANIZ",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Abertura da laringe onde a voz se forma",
+      "answer": "GLOTE",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Parceiros de negócios",
+      "answer": "SOCIOS",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "(Inf.) Xixi",
+      "answer": "PIPI",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Favorecer",
+      "answer": "DOTAR",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Um grande sucesso de Tim Maia",
+      "answer": "VOCE",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Antes da ocasião própria",
+      "answer": "CEDO",
+      "row": 7,
+      "col": 4
+    },
+    "26": {
+      "clue": "Sentimento de honra, dignidade, valor",
+      "answer": "BRIO",
+      "row": 7,
+      "col": 10
+    },
+    "29": {
+      "clue": "O suporte da lente dos óculos",
+      "answer": "ARO",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "As iniciais do ator Travolta, de \"Grease\"",
+      "answer": "JT",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

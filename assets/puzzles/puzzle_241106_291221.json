@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cidade mineira próxima a Patos de Minas",
+      "answer": "FELIXLANDIA",
+      "row": 0,
+      "col": 0
+    },
+    "11": {
+      "clue": "Auxílio ou gratificação monetária",
+      "answer": "ABONO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Orifícios da pele por onde sai o suor",
+      "answer": "POROS",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Um famoso técnico de futebol",
+      "answer": "CUCA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Terreno coberto de vegetação rasteira, como no planalto Central",
+      "answer": "GERAIS",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "A arma dos guardas suíços do Vaticano",
+      "answer": "ALABARDA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Oersted",
+      "answer": "OE",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Livrar de suspeitas",
+      "answer": "ILIBAR",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Abreviatura do antigo cruzeiro",
+      "answer": "CR",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "O cineasta George, de \"Guerra nas Estrelas\"",
+      "answer": "LUCAS",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Helena Rubistein, dos cosméticos",
+      "answer": "HR",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Fina ao tato",
+      "answer": "SEDOSA",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "Angelina Jolie, de \"Salt\"",
+      "answer": "AJ",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Que sofreu aumento",
+      "answer": "MAJORADO",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "Enjoado",
+      "answer": "NOJADO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "O cachorro do Franjinha, da Turma da Mônica",
+      "answer": "BIDU",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Que tem pouca ou nenhuma elevação",
+      "answer": "CHATO",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Fechar um recipiente, impedindo a saída do líquido",
+      "answer": "VEDAR",
+      "row": 9,
+      "col": 6
+    },
+    "34": {
+      "clue": "Que se colocou em um grande caminhão, que transporta cargas pesadas",
+      "answer": "ENCARRETADO",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O talher que corta",
+      "answer": "FACA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ferver",
+      "answer": "EBULIR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Do lugar",
+      "answer": "LOCAL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Sem os requisitos necessários",
+      "answer": "INABIL",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Interjeição para espantar aves",
+      "answer": "XO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Enfeitado, adornado",
+      "answer": "APEDRADO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Pop.) A parenta que se opõe a sogra",
+      "answer": "NORA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Abreviatura que precede o nome da médica",
+      "answer": "DRA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Brinquedo que sobe e desce pendurado num fio",
+      "answer": "IOIO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Tornar limpo",
+      "answer": "ASSEAR",
+      "row": 0,
+      "col": 10
+    },
+    "14": {
+      "clue": "Zombaria",
+      "answer": "GRACEJO",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Que faz uso injusto de privilégios",
+      "answer": "ABUSADOR",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Circunstância conveniente para se fazer algo",
+      "answer": "CHANCE",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Fr.) Sorvete feito de suco de frutas ou de licor",
+      "answer": "SORBET",
+      "row": 5,
+      "col": 7
+    },
+    "22": {
+      "clue": "Um sobrenome da Bia tenista",
+      "answer": "HADDAD",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Peça de vestuário que pode ser de praia",
+      "answer": "SAIDA",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "O Fitzgerald Kennedy presidente assassinado dos EUA",
+      "answer": "JOHN",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Bosque",
+      "answer": "MATA",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Metal símbolo de riqueza",
+      "answer": "OURO",
+      "row": 7,
+      "col": 10
+    },
+    "30": {
+      "clue": "Uma marca de carros",
+      "answer": "JAC",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "Antecede o dáblio",
+      "answer": "VE",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

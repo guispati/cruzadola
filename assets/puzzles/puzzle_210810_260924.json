@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Talher usado para fatiar alimentos",
+      "answer": "FACA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "As oceânicas são depressões produndas",
+      "answer": "FOSSAS",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Que tem os órgãos da visão muito desenvolvidos",
+      "answer": "OLHUDO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Instrumento de sopro usado em bandas e orquestras",
+      "answer": "TUBA",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "A atriz Proença",
+      "answer": "MAITE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Absoluto",
+      "answer": "CABAL",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Escondido",
+      "answer": "ESCONSO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Insumo para vacinas",
+      "answer": "IFA",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "O que prende ou apreende",
+      "answer": "CAPTURADOR",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "A nota entre o mi e o sol",
+      "answer": "FA",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Escolha antológica de trechos literários",
+      "answer": "SELETA",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "(Fig.) Eliminar, suprimir",
+      "answer": "RISCAR",
+      "row": 6,
+      "col": 2
+    },
+    "23": {
+      "clue": "O símbolo químico do hânio",
+      "answer": "HA",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "(Gír.) Pessoa viciada em craque",
+      "answer": "NOIA",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Ser como o rato ou a girafa",
+      "answer": "ANIMAL",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "Dicionário",
+      "answer": "DIC",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Cidade de SP, próxima a Jaú",
+      "answer": "BROTAS",
+      "row": 8,
+      "col": 4
+    },
+    "30": {
+      "clue": "Partícula mínima",
+      "answer": "ATOMO",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Saquinho com ervas aromáticas",
+      "answer": "SACHE",
+      "row": 9,
+      "col": 6
+    },
+    "34": {
+      "clue": "Emitir (o cão) a sua voz rouca ameaçadora",
+      "answer": "ROSNAR",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Geom.) Metade de um diâmetro",
+      "answer": "RAIO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Sensação de desconforto pela necessidade de comida",
+      "answer": "FOME",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Península americana do noroeste do continente",
+      "answer": "ALASCA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Cachaça",
+      "answer": "CHICA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Exame de um cadáver para determinar a causa da morte",
+      "answer": "AUTOPSIA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A sílaba que se repete na fofoca",
+      "answer": "FO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Santa",
+      "answer": "STA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O sentido oposto à descida",
+      "answer": "SUBIDA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Sufocação",
+      "answer": "ABAFO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Relativo à remuneração do trabalho prestado",
+      "answer": "SALARIAL",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "As saliências de uma engrenagem",
+      "answer": "DENTES",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "De Seul ou Pyongyang",
+      "answer": "COREANOS",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Abrir regos na terra",
+      "answer": "SULCAR",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Desentender-se com alguém",
+      "answer": "ATRITAR",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Construir, erguer",
+      "answer": "FUNDAR",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Têm muitos bens",
+      "answer": "RICOS",
+      "row": 6,
+      "col": 2
+    },
+    "23": {
+      "clue": "Par de pauzinhos usados na culinária oriental",
+      "answer": "HASHI",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "O número dos ossículos do punho",
+      "answer": "OITO",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Peça que ajuda a transportar doentes",
+      "answer": "MACA",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Generosa",
+      "answer": "BOA",
+      "row": 8,
+      "col": 4
+    },
+    "31": {
+      "clue": "Milton Neves, jornalista esportivo",
+      "answer": "MN",
+      "row": 9,
+      "col": 3
+    },
+    "33": {
+      "clue": "Dedo sem dês",
+      "answer": "EO",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

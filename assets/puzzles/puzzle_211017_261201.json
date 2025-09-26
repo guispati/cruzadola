@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Lava expelida de um vulcão",
+      "answer": "MAGMA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Pop.) Uma das refeições diárias",
+      "answer": "JANTA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Tranquilizar",
+      "answer": "AQUIETAR",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Eduardo Sterblitch, humorista",
+      "answer": "ES",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Cheio de defeitos, falhas ou imperfeições",
+      "answer": "RUIM",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Barulhos",
+      "answer": "RUIDOS",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Posto de capitão",
+      "answer": "GINETA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Garoto",
+      "answer": "GURI",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Ponderar, tomar em consideração",
+      "answer": "ATENTAR",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "A UF de Pedra Azul e Monte Verde",
+      "answer": "MG",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "A mais numerosa classe de seres vivos",
+      "answer": "INSETOS",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Argumento",
+      "answer": "ASSUNTO",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Edson Celulari, ator",
+      "answer": "EC",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Dar aparência de Ag",
+      "answer": "PRATEAR",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "O do Vigor, ex-BBB",
+      "answer": "GIL",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "O resultado de um trabalho",
+      "answer": "OBRA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Aquele que aplica as técnicas de ensino",
+      "answer": "DIDATA",
+      "row": 8,
+      "col": 5
+    },
+    "34": {
+      "clue": "Expelir ovos (a ave)",
+      "answer": "POR",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Imunizar de doença",
+      "answer": "VACINAR",
+      "row": 9,
+      "col": 4
+    },
+    "36": {
+      "clue": "Em tempos passados",
+      "answer": "OUTRORA",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A extremidade branca da página",
+      "answer": "MARGEM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Cá",
+      "answer": "AQUI",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Mudança súbita de direção",
+      "answer": "GUINA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Pessoa que tem a mania de imitar",
+      "answer": "MIMETISTA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Frase sem consoantes",
+      "answer": "AE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Um dos maiores peixes de água doce do Brasil",
+      "answer": "JAU",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Jap.) Obrigado",
+      "answer": "ARIGATO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Porcentagem de uma substância numa mistura",
+      "answer": "TEOR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Deste modo",
+      "answer": "ASSIM",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Atravessar a nado",
+      "answer": "TRANSNADAR",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Difícil",
+      "answer": "DURO",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Fino",
+      "answer": "TENUE",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Muito triste",
+      "answer": "TETRICO",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Maneira delicada e gentil",
+      "answer": "GARBO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Sociedade secreta",
+      "answer": "SEITA",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "Borra",
+      "answer": "SARRO",
+      "row": 6,
+      "col": 2
+    },
+    "28": {
+      "clue": "(Fig.) Que não apresenta ou oferece dúvida",
+      "answer": "CLARO",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "A extremidade onde geralmente se coloca o leme dos barcos",
+      "answer": "POPA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Grande vontade para alguma coisa",
+      "answer": "GANA",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "Direito",
+      "answer": "DIR",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "Videoteipe",
+      "answer": "VT",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ajustado ao meio em que vive",
+      "answer": "ADAPTADO",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Jorge Amado (1912-2001), escritor baiano",
+      "answer": "JA",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Prender temporariamente para investigação",
+      "answer": "DETER",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Passar em (algo) sumo de planta venenosa",
+      "answer": "ERVAR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Vestir",
+      "answer": "USAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O mundo muçulmano",
+      "answer": "ISLAME",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Ativo Disponível",
+      "answer": "AD",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "A arcada formada pelos maxilares",
+      "answer": "DENTARIA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Queda abundante de neve, acompanhada de temporal",
+      "answer": "NEVASCA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Apelido de Geraldo",
+      "answer": "GE",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Encosta ou declive muito íngreme, abrupto",
+      "answer": "ESCARPA",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "(Abrev.) O console PlayStation",
+      "answer": "PS",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Que sofre de certo distúrbio psiquiátrico",
+      "answer": "AUTISTA",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "Profissional que colhe notícias para periódicos",
+      "answer": "REPORTER",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Quím.) A prata",
+      "answer": "AG",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Produtor de cerâmica",
+      "answer": "OLEIRO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Abreviatura de ilustríssimo",
+      "answer": "ILMO",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Um doce",
+      "answer": "TORTA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Fruto carnudo de caroço duro",
+      "answer": "DRUPA",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Aquele que se notabiliza num esporte",
+      "answer": "AS",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Tornar pronunciado (por oposição a escrito)",
+      "answer": "ORALIZAR",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Alfândega",
+      "answer": "ADUANA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A começar de",
+      "answer": "DESDE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Registro escrito do que se passou numa reunião",
+      "answer": "ATA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Contabiliza-se, junto com os danos, quem sofre prejuízos pelo credor",
+      "answer": "PERDAS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Taxa Referencial",
+      "answer": "TR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Desta maneira",
+      "answer": "DESTARTE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Borda",
+      "answer": "ORLA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O Oliver chef britânico",
+      "answer": "JAMIE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "No futebol há a grande e a pequena",
+      "answer": "AREA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "O estadista gaúcho Getúlio (1883-1954)",
+      "answer": "VARGAS",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Indivíduo imprudente",
+      "answer": "INCAUTO",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Cuspir de maneira ruidosa e inconveniente",
+      "answer": "ESCARRAR",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Outro nome do planeta Vênus",
+      "answer": "VESPER",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Diarreia",
+      "answer": "PIRIRI",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "Ofender",
+      "answer": "MAGOAR",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "Fios que formam a barba",
+      "answer": "PELOS",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Peça para vedar recipientes",
+      "answer": "TAMPA",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Itinerário aeronaval",
+      "answer": "ROTA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "14 - 6",
+      "answer": "OITO",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "A iluminação proveniente do Sol",
+      "answer": "LUZ",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "(Abrev.) Decilitro",
+      "answer": "DL",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

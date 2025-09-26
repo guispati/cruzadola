@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Apresentar alguém como aspirante a um cargo eletivo",
+      "answer": "CANDIDATAR",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Solo de praia",
+      "answer": "AREIA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Marido da rainha",
+      "answer": "REI",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Narrativa cheia de incidentes e perigos",
+      "answer": "SAGA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "E não, e ninguém",
+      "answer": "NEM",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "O símbolo de quilolitro",
+      "answer": "KL",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "(Abrev.) Santo",
+      "answer": "STO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Calendário ilustrado por luas",
+      "answer": "LUNARIO",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "O que transforma fera em feiura",
+      "answer": "IU",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Resumir",
+      "answer": "SUMARIAR",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Um pássaro canoro",
+      "answer": "CANARIO",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "Qualquer assembleia ou tribunal que reúne em sessão os seus membros",
+      "answer": "PLENARIO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Meio... meio",
+      "answer": "ME",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "O oposto de repulsão",
+      "answer": "EMPATIA",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Pessoa amada",
+      "answer": "BEM",
+      "row": 7,
+      "col": 8
+    },
+    "26": {
+      "clue": "(Ingl.) Na moda",
+      "answer": "IN",
+      "row": 8,
+      "col": 0
+    },
+    "27": {
+      "clue": "Estrada, caminho",
+      "answer": "VIA",
+      "row": 8,
+      "col": 3
+    },
+    "28": {
+      "clue": "Tira elástica para prender meias femininas",
+      "answer": "LIGA",
+      "row": 8,
+      "col": 7
+    },
+    "29": {
+      "clue": "(Matem.) Símbolo de secante",
+      "answer": "SEC",
+      "row": 9,
+      "col": 2
+    },
+    "30": {
+      "clue": "(Bíbl.) O monte no qual Moisés recebeu as Tábuas da Lei",
+      "answer": "SINAI",
+      "row": 9,
+      "col": 6
+    },
+    "31": {
+      "clue": "Do país entre Peru e Venezuela",
+      "answer": "COLOMBIANO",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Constelação do hemisfério norte, próxima à estrela polar",
+      "answer": "CASSIOPEIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Caranguejo dos mangues",
+      "answer": "ARATU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Palavra da bandeira da Paraíba",
+      "answer": "NEGO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um período como sábado",
+      "answer": "DIA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Instituto Agronômico",
+      "answer": "IA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Planta do hemisfério norte, cultivada como ornamental",
+      "answer": "ARENARIA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Assuntos a serem discutidos em um seminário",
+      "answer": "TEMARIO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Nesse ponto",
+      "answer": "AI",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "Uma planta ornamental",
+      "answer": "FLORDEMAIO",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "Ciência que estuda moedas e medalhas",
+      "answer": "NUMARIA",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Uma marca de automóveis",
+      "answer": "KIA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Maluco",
+      "answer": "LUNATICO",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Grande quantidade de líquido",
+      "answer": "RIO",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Remediável",
+      "answer": "SANAVEL",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Os 8 dígitos que indicam um endereço postal",
+      "answer": "CEP",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "As letras entre o K e o O",
+      "answer": "LMN",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "A atriz Fox, de \"Transformers\"",
+      "answer": "MEGAN",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Equipamento que indica o número de origem das chamadas telefônicas",
+      "answer": "BINA",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Metade de 104, em romanos",
+      "answer": "LII",
+      "row": 8,
+      "col": 7
+    },
+    "29": {
+      "clue": "Sem outra companhia",
+      "answer": "SO",
+      "row": 9,
+      "col": 2
+    },
+    "30": {
+      "clue": "Sônia Braga, atriz",
+      "answer": "SB",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Interjeição de susto, de espanto",
+      "answer": "VIXE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O piloto paulistano Barrichello",
+      "answer": "RUBENS",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "A atriz Jennifer, de \"Esposa de Mentirinha\"",
+      "answer": "ANISTON",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Personagem bíblico, herói do dilúvio",
+      "answer": "NOE",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "O neodímio, para os químicos",
+      "answer": "ND",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Latejante",
+      "answer": "PULSATIL",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "A eleição na qual o eleitor vota exatamente em seu candidato",
+      "answer": "DIRETA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Um apelido para Roberta",
+      "answer": "BETA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Acesso de fúria",
+      "answer": "RAIVA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "(Fig.) Ponto principal",
+      "answer": "BASE",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Um tipo de disputa cultural, com problemas imprevistos",
+      "answer": "GINCANA",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Jogo de azar com cartelas numeradas de 1 a 90",
+      "answer": "LOTO",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Que rouba (fem.)",
+      "answer": "LADRA",
+      "row": 6,
+      "col": 6
+    },
+    "26": {
+      "clue": "Vaso com fogo simbólico, como o dos Jogos Olímpicos",
+      "answer": "PIRA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "O radialista da Nóbrega (1913-1976), criador de \"Praça da Alegria\"",
+      "answer": "MANOEL",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "Que está desperta do sono",
+      "answer": "ACORDADA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Tom Hanks, ator de \"Forrest Gump\"",
+      "answer": "TH",
+      "row": 8,
+      "col": 9
+    },
+    "31": {
+      "clue": "O sujeito de obrigais ou obedeceis",
+      "answer": "VOS",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Faixa usada em lesões",
+      "answer": "ATADURA",
+      "row": 9,
+      "col": 4
+    },
+    "34": {
+      "clue": "O patrimônio do Estado",
+      "answer": "ERARIO",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Pisa neles quem age com cautela",
+      "answer": "OVOS",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O músico Geraldo, de \"Disparada\"",
+      "answer": "VANDRE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Nova Délhi é a capital deste país",
+      "answer": "INDIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "11, em algarismos romanos",
+      "answer": "XI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Pop.) Tornar animado",
+      "answer": "ESPEVITAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Ave semelhante à pomba, de pequeno porte",
+      "answer": "ROLA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Pouco mais ou menos",
+      "answer": "UNS",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Esticado",
+      "answer": "ENTESADO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Período oposto ao dia",
+      "answer": "NOITE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Peça atrelada ao cavalo, sobre a qual o cavaleiro se senta",
+      "answer": "SELA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Medula óssea",
+      "answer": "TUTANO",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "(Fig.) Tolo",
+      "answer": "ABANANADO",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Difícil de suportar (fem.)",
+      "answer": "RIGOROSA",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "Canção popular romântica, de ritmo lento",
+      "answer": "BALADA",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Chifres de ruminante",
+      "answer": "GALHAS",
+      "row": 5,
+      "col": 10
+    },
+    "23": {
+      "clue": "Uma bebida como Limoncello",
+      "answer": "LICOR",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "(Pop.) Que assinala um retorno ao passado",
+      "answer": "RETRO",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Sobremesa feita com creme e bolachas",
+      "answer": "PAVE",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "O M do MS",
+      "answer": "MATO",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "Então",
+      "answer": "DAI",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Abreviatura de ultravioleta",
+      "answer": "UV",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Andar para trás",
+      "answer": "RECUAR",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Tatu de cabeça achatada",
+      "answer": "PEBA",
+      "row": 0,
+      "col": 7
+    },
+    "11": {
+      "clue": "Dor moral",
+      "answer": "AMARGOR",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "O músico Jobim (1927-1994)",
+      "answer": "TOM",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Nação",
+      "answer": "PAIS",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Grande península do sudeste asiático",
+      "answer": "MALAIA",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Ser dito ou proferido por distração, descontrole ou irreflexão",
+      "answer": "ESCAPAR",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Muito tranquilo e confiante",
+      "answer": "ZEN",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Objetivo que se tem em vista",
+      "answer": "INTUITO",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "Aquele que trabalha intensamente",
+      "answer": "LABUTADOR",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Germânio",
+      "answer": "GE",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Uma substância vegetal nutritiva",
+      "answer": "AMIDO",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Inspetor Geral",
+      "answer": "IG",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Pequena obra impressa, sem valor",
+      "answer": "LIVRECO",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Grande antílope com chifres parecidos com os dos bois",
+      "answer": "GNU",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Indivíduo que comete tolices",
+      "answer": "OTARIO",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "O ator e diretor de Oliveira",
+      "answer": "JUCA",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Amassar muito",
+      "answer": "SOCAR",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Parte do corpo entre o pescoço e o abdome",
+      "answer": "TORAX",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Buraco onde caranguejeiras e tarântulas se recolhem",
+      "answer": "ARANHEIRO",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Homem novo",
+      "answer": "RAPAZ",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Outro nome da ave xuri",
+      "answer": "EMA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A capital da Guiana Francesa",
+      "answer": "CAIENA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A abreviatura da antiga União Soviética",
+      "answer": "URSS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Quím.) Prata",
+      "answer": "AG",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Poético e sentimental",
+      "answer": "ROMANTICO",
+      "row": 0,
+      "col": 5
+    },
+    "8": {
+      "clue": "Que diz respeito à idade",
+      "answer": "ETARIO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Grande mamífero muito abatido para alimentação",
+      "answer": "BOI",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "O escritor Jorge (1912-2001), de \"Cacau\"",
+      "answer": "AMADO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Quem foi vítima de sequestro",
+      "answer": "RAPTADO",
+      "row": 1,
+      "col": 6
+    },
+    "16": {
+      "clue": "Parecer de especialista",
+      "answer": "LAUDO",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "(Pop.) Grande despeito por ver alguém possuir um bem que se desejaria ter",
+      "answer": "CIUMEIRA",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Que foi objeto de escolha",
+      "answer": "ELEITO",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Adquirir rachadura, fenda",
+      "answer": "TRINCAR",
+      "row": 4,
+      "col": 9
+    },
+    "24": {
+      "clue": "Impedir a entrada de",
+      "answer": "BARRAR",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Batom que hidrata e protege os lábios",
+      "answer": "GLOSS",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Diz-se do cavalo que é criado sem mãe",
+      "answer": "GUAXO",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "(Pop.) Tombo de surfista na onda",
+      "answer": "VACA",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "Garoto",
+      "answer": "GURI",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "O político Biden, presidente eleito dos EUA",
+      "answer": "JOE",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "Tom Hanks, ator de \"Náufrago\"",
+      "answer": "TH",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

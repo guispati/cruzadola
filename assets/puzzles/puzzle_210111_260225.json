@@ -1,0 +1,222 @@
+{
+  "across": {
+    "1": {
+      "clue": "O ano pode ter 365 ou 366",
+      "answer": "DIAS",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Os fiéis que frequentam uma sinagoga",
+      "answer": "JUDEUS",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Famosa cantora norte-americana de jazz (1938-2012)",
+      "answer": "ETTAJAMES",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Metal que, em liga com o aço, aumenta sua dureza",
+      "answer": "CROMO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Gram.) Os sinais \"",
+      "answer": "ASPAS",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Indígena de tribo que ocupava os territórios correspondentes à BA, ES e RJ",
+      "answer": "AIMORE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Quinhão",
+      "answer": "COTA",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Subir a lugar elevado",
+      "answer": "POIAR",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Rebelião contra os poderes constituídos",
+      "answer": "MOTIM",
+      "row": 4,
+      "col": 6
+    },
+    "19": {
+      "clue": "Objeto a que se atribuem virtudes de defesa contra desgraças, feitiços etc.",
+      "answer": "AMULETO",
+      "row": 5,
+      "col": 4
+    },
+    "21": {
+      "clue": "Que foi agitado",
+      "answer": "VIBRADO",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Fio fino, forte e macio produzido por uma larva",
+      "answer": "SEDA",
+      "row": 7,
+      "col": 0
+    },
+    "24": {
+      "clue": "Impulso dado a uma bola, no golfe",
+      "answer": "TACADA",
+      "row": 7,
+      "col": 5
+    },
+    "27": {
+      "clue": "Que não se pode mover para trás",
+      "answer": "INARREDAVEL",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Atividade que pode ser praticado de peito",
+      "answer": "NADO",
+      "row": 9,
+      "col": 0
+    },
+    "29": {
+      "clue": "Instrumento usado pelo crupiê nas mesas de jogos para recolher as fichas das apostas",
+      "answer": "RODO",
+      "row": 9,
+      "col": 5
+    },
+    "30": {
+      "clue": "Untar geralmente com finalidade de lubrificação",
+      "answer": "OLEAR",
+      "row": 10,
+      "col": 0
+    },
+    "31": {
+      "clue": "A face humana",
+      "answer": "ROSTO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Processo que confere à madeira uma superfície lisa e esbranquiçada",
+      "answer": "DECAPE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Elemento químico usado na fabricação de ímãs",
+      "answer": "ITRIO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Número de átomos que entra na formação da molécula de uma substância",
+      "answer": "ATOMICIDADE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um arquipélago da Oceania",
+      "answer": "SAMOA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "As iniciais do cantor e compositor Adriani",
+      "answer": "JA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "A 13ª hora",
+      "answer": "UMA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Fora do lugar",
+      "answer": "DESCOLOCADO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Projetor direcionável",
+      "answer": "ESPOTE",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Outro nome do gergelim",
+      "answer": "SESAMO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Sair com ímpeto (um líquido)",
+      "answer": "JORRAR",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Postura",
+      "answer": "ATITUDE",
+      "row": 2,
+      "col": 9
+    },
+    "18": {
+      "clue": "Que provoca alteração",
+      "answer": "MUDADOR",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "Mãe, em latim",
+      "answer": "MATER",
+      "row": 5,
+      "col": 5
+    },
+    "21": {
+      "clue": "Diz-se do valor que se pode dar a uma coisa para a sua eventual venda",
+      "answer": "VENAL",
+      "row": 6,
+      "col": 1
+    },
+    "22": {
+      "clue": "(Batata-) Mandioquinha-salsa",
+      "answer": "BAROA",
+      "row": 6,
+      "col": 3
+    },
+    "23": {
+      "clue": "Elemento de composição: China",
+      "answer": "SINO",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Pais da mãe e do pai",
+      "answer": "AVOS",
+      "row": 7,
+      "col": 8
+    },
+    "26": {
+      "clue": "Qualquer coisa",
+      "answer": "ALGO",
+      "row": 7,
+      "col": 10
+    }
+  }
+}

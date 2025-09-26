@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Objetivo final",
+      "answer": "META",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Concordar com algo",
+      "answer": "ACEDER",
+      "row": 0,
+      "col": 5
+    },
+    "11": {
+      "clue": "A cavidade sob o braço",
+      "answer": "AXILA",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Rel.) Imagem, estátua etc. usada como objeto de adoração",
+      "answer": "IDOLO",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Distância marítima de 1.852 metros",
+      "answer": "MILHA",
+      "row": 2,
+      "col": 2
+    },
+    "16": {
+      "clue": "Mario Vargas Llosa, escritor peruano",
+      "answer": "MVL",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Ação feita para intimidar",
+      "answer": "AMEAÇA",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Flutuador",
+      "answer": "BOIA",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Ataque impetuoso",
+      "answer": "ASSALTO",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Sérgio Reis, músico sertanejo",
+      "answer": "SR",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Hectograma",
+      "answer": "HG",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Tecido de arame para cercados",
+      "answer": "TELA",
+      "row": 5,
+      "col": 5
+    },
+    "25": {
+      "clue": "Aleia",
+      "answer": "ALAMEDA",
+      "row": 6,
+      "col": 1
+    },
+    "29": {
+      "clue": "Sigla do Amapá",
+      "answer": "AP",
+      "row": 6,
+      "col": 9
+    },
+    "31": {
+      "clue": "Enganar, iludir",
+      "answer": "BLEFAR",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Pequeno curso de águas",
+      "answer": "REGO",
+      "row": 7,
+      "col": 7
+    },
+    "34": {
+      "clue": "O fruto da fava",
+      "answer": "VAGEM",
+      "row": 8,
+      "col": 2
+    },
+    "36": {
+      "clue": "Um pronome para mais de uma pessoa",
+      "answer": "NOS",
+      "row": 8,
+      "col": 8
+    },
+    "37": {
+      "clue": "Porção de fumaça de cigarro inalada",
+      "answer": "TRAGO",
+      "row": 9,
+      "col": 0
+    },
+    "39": {
+      "clue": "Edição especial de revista",
+      "answer": "EXTRA",
+      "row": 9,
+      "col": 6
+    },
+    "41": {
+      "clue": "Uma das mais fortes moedas do mercado internacional",
+      "answer": "EURO",
+      "row": 10,
+      "col": 0
+    },
+    "42": {
+      "clue": "Erguer, levantar",
+      "answer": "ALCEAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Objeto usado pelos malabaristas, em forma de garrafa",
+      "answer": "MAÇA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Abreviatura de exemplo",
+      "answer": "EX",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Square) Famosa região de Manhattan, em NY",
+      "answer": "TIMES",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Além disso",
+      "answer": "ALIAS",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "Sigla da organização de espionagem e contra-espionagem norte-americana",
+      "answer": "CIA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O ator Harris, de \"A Rocha\"",
+      "answer": "ED",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Catedral",
+      "answer": "DOMO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O roqueiro e ator Presley (1935-1977)",
+      "answer": "ELVIS",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Girar como uma bola",
+      "answer": "ROLAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "(Mala sem) Indivíduo inconveniente",
+      "answer": "ALÇA",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Um aparelho de musculação",
+      "answer": "HALTERE",
+      "row": 2,
+      "col": 5
+    },
+    "18": {
+      "clue": "O cantor Sidney",
+      "answer": "MAGAL",
+      "row": 3,
+      "col": 1
+    },
+    "19": {
+      "clue": "(Pop.) Criar, usando a imaginação",
+      "answer": "BOLAR",
+      "row": 3,
+      "col": 7
+    },
+    "21": {
+      "clue": "Uma operação bancária",
+      "answer": "TED",
+      "row": 4,
+      "col": 6
+    },
+    "26": {
+      "clue": "Transportar",
+      "answer": "LEVAR",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Carícia",
+      "answer": "AFAGO",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "(Rel.) Cada um dos reis que foram a Belém para adorar Jesus",
+      "answer": "MAGO",
+      "row": 6,
+      "col": 4
+    },
+    "29": {
+      "clue": "Neste instante",
+      "answer": "AGORA",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "Ficar imóvel para ser fotografado",
+      "answer": "POSAR",
+      "row": 6,
+      "col": 10
+    },
+    "31": {
+      "clue": "Salto brusco de animal sobre a presa",
+      "answer": "BOTE",
+      "row": 7,
+      "col": 0
+    },
+    "33": {
+      "clue": "Coisa, ser",
+      "answer": "ENTE",
+      "row": 7,
+      "col": 8
+    },
+    "35": {
+      "clue": "O fluido doce produzido pelas abelhas",
+      "answer": "MEL",
+      "row": 8,
+      "col": 6
+    },
+    "38": {
+      "clue": "O que transforma pardo em parrudo",
+      "answer": "RU",
+      "row": 9,
+      "col": 1
+    },
+    "40": {
+      "clue": "90, em algarismos romanos",
+      "answer": "XC",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

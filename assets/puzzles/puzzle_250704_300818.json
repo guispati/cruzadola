@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Pop.) Revide, resposta",
+      "answer": "TROCO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O fiscal é um comprovante de compra",
+      "answer": "CUPOM",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "A nação de Holguín de Guantánamo",
+      "answer": "CUBA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Animal típico dos desertos",
+      "answer": "CAMELO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Elevar ao topo de um mastro",
+      "answer": "HASTEAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Pássaro de cores variadas",
+      "answer": "TIE",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Privar dos direitos civis",
+      "answer": "CASSAR",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Viola Davis, atriz",
+      "answer": "VD",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Figura mal distinta",
+      "answer": "VULTO",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Um brinquedo de linha e carretel",
+      "answer": "IOIO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "(Fig.) Homem desprezado ou repelido pela sociedade",
+      "answer": "PARIA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Deslocar",
+      "answer": "MOVER",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Os cabos que fazem o transporte da eletricidade",
+      "answer": "FIOS",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Fechar",
+      "answer": "TAPAR",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Isadora Duncan (1872-1927), bailarina estadunidense",
+      "answer": "ID",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Arrepiar",
+      "answer": "ERIÇAR",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "(Red.) Parque para rinocerontes, tigres e macacos",
+      "answer": "ZOO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Chapada do NE, nos estados do PI, CE e PE",
+      "answer": "ARARIPE",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Traços iniciais, provisórios, de uma obra de arte",
+      "answer": "ESBOÇO",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Porta, em Washington",
+      "answer": "DOOR",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "Pão doce de massa retorcida",
+      "answer": "ROSCA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Que nos pertence",
+      "answer": "NOSSO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Pop.) Encanto pessoal, charme",
+      "answer": "TCHÃ",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Logradouro destinado ao trânsito de veículos",
+      "answer": "RUA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Desprovido de luz",
+      "answer": "OBSCURO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Processo químico reativo",
+      "answer": "CATALISE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O lado oposto à coroa",
+      "answer": "CARA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Soma de dois meios",
+      "answer": "UM",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Shop) Loja de produtos para animais de estimação",
+      "answer": "PET",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O chef francês Anquier",
+      "answer": "OLIVIER",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Aparelho triturador",
+      "answer": "MOEDOR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Conto, narrativa",
+      "answer": "CASO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Pronome demonstrativo feminino",
+      "answer": "ESTA",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "(São José do) Cidade paulista próxima a Mococa",
+      "answer": "RIOPARDO",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Presunçoso",
+      "answer": "VAIDOSO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "(Anat.) Os órgãos situados de cada lado do útero, nas mulheres",
+      "answer": "OVARIOS",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Uma grande indústria framacêutica",
+      "answer": "PFIZER",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Objeto para malabar",
+      "answer": "MAÇA",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "O disparar da arma de fogo",
+      "answer": "TIRO",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Classe, tipo, categoria",
+      "answer": "RAÇA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "O Camilo ator cearense",
+      "answer": "GERO",
+      "row": 7,
+      "col": 10
+    },
+    "30": {
+      "clue": "Abreviatura de observação",
+      "answer": "OBS",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "(Red.) Uma formação acadêmica superior à graduação",
+      "answer": "POS",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "Otaviano Costa, ator e apresentador",
+      "answer": "OC",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

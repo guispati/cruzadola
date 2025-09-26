@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Frasco",
+      "answer": "CANTIL",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Pé de cachorro",
+      "answer": "PATA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Aperto, dificuldade",
+      "answer": "APURO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Estilo musical negro norte-americano",
+      "answer": "BLUES",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "No jogo de palitinhos, zero ponto",
+      "answer": "LONA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "O inimigo do Popeye, das histórias infantis",
+      "answer": "BRUTUS",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Caderno onde são anotados compromissos",
+      "answer": "AGENDA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "O músico mineiro Samuel, do \"Skank\"",
+      "answer": "ROSA",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Aparecer de novo",
+      "answer": "RESSURGIR",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Lanterna de automóvel",
+      "answer": "FAROL",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Desfazer os vínculos de afeto",
+      "answer": "DESAMIGAR",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Sentir grande afeição por alguém",
+      "answer": "AMAR",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Um utensílio como a Bic",
+      "answer": "CANETA",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "Barranco",
+      "answer": "RAVINA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Disposição dos carros na largada da F1",
+      "answer": "GRID",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "Diz-se de fruta áspera, como o abacaxi",
+      "answer": "ACIDA",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "A atriz Piovani, de \"A Mulher Invisível\"",
+      "answer": "LUANA",
+      "row": 9,
+      "col": 6
+    },
+    "33": {
+      "clue": "Nenhuma coisa",
+      "answer": "NADA",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Recorrer",
+      "answer": "APELAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Não falar",
+      "answer": "CALAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Grau máximo de desenvolvimento que se pode alcançar",
+      "answer": "APOGEU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O Whindersson youtuber e comediante piauiense",
+      "answer": "NUNES",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Mudada de um lugar para outro",
+      "answer": "TRANSFERIDA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Tio sem tê",
+      "answer": "IO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Aquele que domina vários idiomas",
+      "answer": "PLURILINGUE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O da pintura \"Guernica\" é o espanhol Pablo Picasso",
+      "answer": "AUTOR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A tua família",
+      "answer": "TEUS",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Muito, bastante",
+      "answer": "ASSAZ",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Sufixo do Brasil na internet",
+      "answer": "BR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Tenda usada por excursionistas",
+      "answer": "BARRACA",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "2 (Fem.)",
+      "answer": "DUAS",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Bala também chamada jujuba",
+      "answer": "GOMA",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "Veste usada por padres",
+      "answer": "BATINA",
+      "row": 5,
+      "col": 9
+    },
+    "21": {
+      "clue": "O Guilherme (1957-2016), ator carioca",
+      "answer": "KARAN",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "Famosa obra de Michelangelo",
+      "answer": "DAVID",
+      "row": 6,
+      "col": 2
+    },
+    "23": {
+      "clue": "O G do antigo CGC",
+      "answer": "GERAL",
+      "row": 6,
+      "col": 8
+    },
+    "24": {
+      "clue": "Aparelho usado pela PRF para detectar excesso de velocidade",
+      "answer": "RADAR",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Cama usada para retirar de campo um atleta lesionado",
+      "answer": "MACA",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Em + a",
+      "answer": "NA",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "O antecessor do CD",
+      "answer": "LP",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

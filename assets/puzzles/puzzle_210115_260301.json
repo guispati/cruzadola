@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "As compras feitas no mercado",
+      "answer": "FEIRA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Do lado de cá",
+      "answer": "AQUEM",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Sujeira, porcaria",
+      "answer": "LIXO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Cogumelo subterrâneo comestível",
+      "answer": "TRUFA",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Doença particular de uma região",
+      "answer": "ENDEMIA",
+      "row": 2,
+      "col": 2
+    },
+    "14": {
+      "clue": "Rutênio",
+      "answer": "RU",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Uma comida à base de milho",
+      "answer": "CURAU",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Objeto que multiplica o uso da tomada, também chamado benjamim",
+      "answer": "TE",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Fazer um líquido correr devagar e em pequena quantidade",
+      "answer": "ESCOAR",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Buraco pelo qual se passa um cordel para amarrar",
+      "answer": "ILHO",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "A região brasileira de Bagé e Apucarana",
+      "answer": "SUL",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Tempero usado na conservação de carnes",
+      "answer": "SAL",
+      "row": 5,
+      "col": 4
+    },
+    "25": {
+      "clue": "Forma oblíqua de eu",
+      "answer": "MIM",
+      "row": 5,
+      "col": 8
+    },
+    "26": {
+      "clue": "Preço fixo regulamentado",
+      "answer": "TAXA",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Uma membrana do olho",
+      "answer": "CORNEA",
+      "row": 6,
+      "col": 5
+    },
+    "30": {
+      "clue": "Alagoas",
+      "answer": "AL",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Nascente",
+      "answer": "BROTA",
+      "row": 7,
+      "col": 3
+    },
+    "33": {
+      "clue": "(Quím.) O manganês",
+      "answer": "MN",
+      "row": 7,
+      "col": 9
+    },
+    "34": {
+      "clue": "Aparelho que substitui um órgão faltante",
+      "answer": "PROTESE",
+      "row": 8,
+      "col": 2
+    },
+    "36": {
+      "clue": "Porção de barba deixada crescer lateralmente nas faces",
+      "answer": "SUIÇA",
+      "row": 9,
+      "col": 1
+    },
+    "37": {
+      "clue": "A primeira emissora de TV brasileira",
+      "answer": "TUPI",
+      "row": 9,
+      "col": 7
+    },
+    "39": {
+      "clue": "Peça que aciona um mecanismo no piano para produzir o som",
+      "answer": "TECLA",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "A atriz Fomm",
+      "answer": "JOANA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Relativo à grandes matas",
+      "answer": "FLORESTAL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Estado Islâmico",
+      "answer": "EI",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Exclamação de desprezo",
+      "answer": "IXE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O barulho alto da respiração durante o sono",
+      "answer": "RONCO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Um objeto como o fuzil ou a bazuca",
+      "answer": "ARMA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Fruto com casca marrom, fina e pilosa, com polpa verde e sumarenta",
+      "answer": "QUIUI",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Ainda bem!",
+      "answer": "UFA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Os extremos da... Estônia",
+      "answer": "EA",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Argila cozida em alta temperatura",
+      "answer": "TERRACOTA",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "(Fem.) Número par",
+      "answer": "DUAS",
+      "row": 2,
+      "col": 4
+    },
+    "13": {
+      "clue": "Método de adivinhação através de sinais na terra",
+      "answer": "GEOMANCIA",
+      "row": 2,
+      "col": 10
+    },
+    "15": {
+      "clue": "Habitual",
+      "answer": "USUAL",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "O Dominic tenista austríaco, um dos melhores da atualidade",
+      "answer": "THIEM",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "160, em algarismos romanos",
+      "answer": "CLX",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "As letras que ficam entre o K e o O",
+      "answer": "LMN",
+      "row": 4,
+      "col": 8
+    },
+    "24": {
+      "clue": "Porção de objetos leiloados de uma única vez",
+      "answer": "LOTE",
+      "row": 5,
+      "col": 6
+    },
+    "27": {
+      "clue": "O mês em que Tiradentes foi enforcado",
+      "answer": "ABRIL",
+      "row": 6,
+      "col": 3
+    },
+    "29": {
+      "clue": "Sinal, que fica no chão, de alguém que caminha",
+      "answer": "RASTO",
+      "row": 6,
+      "col": 7
+    },
+    "32": {
+      "clue": "O campo",
+      "answer": "ROÇA",
+      "row": 7,
+      "col": 4
+    },
+    "34": {
+      "clue": "Sigla de uma importante universidade brasileira",
+      "answer": "PUC",
+      "row": 8,
+      "col": 2
+    },
+    "35": {
+      "clue": "Égua sem gê",
+      "answer": "EUA",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "(Quím.) O selênio",
+      "answer": "SE",
+      "row": 9,
+      "col": 1
+    },
+    "38": {
+      "clue": "Pablo Neruda, escritor chileno",
+      "answer": "PN",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

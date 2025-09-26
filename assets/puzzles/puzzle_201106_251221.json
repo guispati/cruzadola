@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "A apresentadora de TV Sato",
+      "answer": "SABRINA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Serviço de Proteção ao Crédito",
+      "answer": "SPC",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "=",
+      "answer": "IGUAL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "(Pop.) Azedume",
+      "answer": "NEURA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Menino, garoto",
+      "answer": "GURI",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Aves que são muito comuns em praças urbanas",
+      "answer": "POMBOS",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Ondulação na superfície do mar",
+      "answer": "MAROLA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Chão",
+      "answer": "PISO",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Afastar do serviço por invalidez, tempo de serviço etc.",
+      "answer": "APOSENTAR",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Soltar (o cão) a sua voz",
+      "answer": "LATIR",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Tapar fendas para impedir a passagem da água ou do ar",
+      "answer": "CALAFETAR",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Os casebres que formam a taba",
+      "answer": "OCAS",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "(Med.) Endurecimento subcutâneo",
+      "answer": "NODULO",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "Bilhete de loteria ou de rifa",
+      "answer": "NUMERO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Elemento circular de um objeto",
+      "answer": "ANEL",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "O rio que banha Roma, na Itália",
+      "answer": "TIBRE",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Projeto mental",
+      "answer": "IDEIA",
+      "row": 9,
+      "col": 6
+    },
+    "34": {
+      "clue": "A letra que separa o ele e o ene",
+      "answer": "EME",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Expor demais ao sol",
+      "answer": "INSOLAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Símbolo matemático de soma ou total",
+      "answer": "SIGMA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Uma planta aquática",
+      "answer": "AGUAPE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Pop.) De pouca inteligência",
+      "answer": "BURRO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Feixes luminosos que são cerca de 10.000 vezes mais potentes que o solares",
+      "answer": "RAIOSLASER",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O fim de... abril",
+      "answer": "IL",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "No de 1888 o Brasil aboliu a escravatura",
+      "answer": "ANO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Dar acesso a lugar superior",
+      "answer": "SUBIR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Conveniências",
+      "answer": "PROS",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O Boris jornalista e apresentador de TV",
+      "answer": "CASOY",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Murado",
+      "answer": "EMPAREDADO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Baixada inundada junto às margens de rios",
+      "answer": "PANTANO",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "O contrário de traiçoeiro",
+      "answer": "LEAL",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Doença infecciosa aguda",
+      "answer": "TIFO",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Um animal como Moby Dick",
+      "answer": "BALEIA",
+      "row": 5,
+      "col": 9
+    },
+    "22": {
+      "clue": "Local onde brota água do solo",
+      "answer": "FONTE",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Município paranaense próximo a Londrina",
+      "answer": "CAMBE",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Passagem subterrânea em rodovia",
+      "answer": "TUNEL",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "Girar como uma bola",
+      "answer": "ROLAR",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Pequeno roedor do Brasil, parecido com o coelho",
+      "answer": "CUIM",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "O \"K\" do baralho",
+      "answer": "REI",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "São quatro em dificílimo",
+      "answer": "IS",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

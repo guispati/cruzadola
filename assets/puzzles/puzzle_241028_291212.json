@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "O cantor Santiago (1946-2013)",
+      "answer": "EMILIO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Pequena diferença",
+      "answer": "TRIZ",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Queda de flocos de gelo do céu, comum nos polos",
+      "answer": "NEVE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Uma mosca",
+      "answer": "VAREJA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "(Ingl.) Indicação de tamanho de roupas maior do que o grande",
+      "answer": "XL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "A maior cidade chinesa",
+      "answer": "XANGAI",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "A estrela mais brilhante do céu",
+      "answer": "SIRIUS",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Héctor Babenco, cineasta de \"Carandiru\"",
+      "answer": "HB",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Diz-se das frutas secas, cobertas com açúcar cristalizado",
+      "answer": "GLACE",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Tudo o que serve de suporte",
+      "answer": "APOIO",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "(Dir.) Cópia do mandado de citação",
+      "answer": "CONTRAFE",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "O Quadros (1917-1992) presidente do Brasil",
+      "answer": "JANIO",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Destino, geralmente mau, funesto",
+      "answer": "SINA",
+      "row": 6,
+      "col": 7
+    },
+    "26": {
+      "clue": "Pesar",
+      "answer": "DOR",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Aprontar desordem",
+      "answer": "TRISCAR",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Ugo Giorgetti, cineasta paulistano",
+      "answer": "UG",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Árvore anã, conservada em pequeno vaso",
+      "answer": "BONSAI",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Perda",
+      "answer": "DANO",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Retardamento",
+      "answer": "ATRASO",
+      "row": 9,
+      "col": 5
+    },
+    "35": {
+      "clue": "Juiz de futebol",
+      "answer": "ARBITRO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "A claridade emitida pelo abajur",
+      "answer": "LUZ",
+      "row": 10,
+      "col": 8
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Secagem",
+      "answer": "ENXUGO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A substância açucarada produzida pelas abelhas",
+      "answer": "MEL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O que transforma atado em ativado",
+      "answer": "IV",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Dicionário dos vocábulos usados por um autor",
+      "answer": "LEXICON",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Objetos Voadores Não Identificados",
+      "answer": "OVNI",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Furar de parte a parte",
+      "answer": "TRASPASSAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "A peça mais importante do xadrez",
+      "answer": "REI",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O que transforma bota em botija",
+      "answer": "IJ",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Aquele que possui as pernas e/ou os pés tortos",
+      "answer": "ZAMBO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Molhar plantas",
+      "answer": "AGUAR",
+      "row": 1,
+      "col": 6
+    },
+    "15": {
+      "clue": "Pedra de areia",
+      "answer": "ARENITO",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Tirar dinheiro da conta corrente",
+      "answer": "SACAR",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Mamífero voraz, de hábitos noturnos",
+      "answer": "HIENA",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "Que emana do governo",
+      "answer": "OFICIAL",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Manifestar-se de novo",
+      "answer": "TORNAR",
+      "row": 5,
+      "col": 5
+    },
+    "23": {
+      "clue": "Disputar um jogo",
+      "answer": "JOGAR",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "O cereal que o rizicultor planta",
+      "answer": "ARROZ",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "O cabeleireiro e maquiador Molinos",
+      "answer": "DUDA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Esta coisa",
+      "answer": "ISTO",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "Marido da vaca",
+      "answer": "BOI",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "O símbolo químico do nióbio",
+      "answer": "NB",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "As letras que cercam o T",
+      "answer": "SU",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

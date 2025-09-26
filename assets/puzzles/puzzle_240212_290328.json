@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O que prende ou apreende",
+      "answer": "CAPTURADOR",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "O principal produto da Embraer",
+      "answer": "AVIÃO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Um dado do endereço",
+      "answer": "CEP",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Um sobrenome comum aos filhos dos filhos",
+      "answer": "NETO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Fr.) Um tipo de champanhe",
+      "answer": "SEC",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Zona Tropical",
+      "answer": "ZT",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Evita neném",
+      "answer": "DIU",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Suéter",
+      "answer": "PULOVER",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Isabel Allende, escritora chilena",
+      "answer": "IA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Tecido leve usado na confecção de roupas",
+      "answer": "POPELINA",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Antigo guarda japonês do palácio imperial",
+      "answer": "SAMURAI",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "Dar posse ou domínio a",
+      "answer": "APODERAR",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "A mim",
+      "answer": "ME",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "Suportar com paciência",
+      "answer": "TOLERAR",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Ônibus, nos EUA",
+      "answer": "BUS",
+      "row": 7,
+      "col": 8
+    },
+    "26": {
+      "clue": "O \"A\" das cartas de jogar",
+      "answer": "AS",
+      "row": 8,
+      "col": 0
+    },
+    "27": {
+      "clue": "Qualquer substância corante",
+      "answer": "COR",
+      "row": 8,
+      "col": 3
+    },
+    "28": {
+      "clue": "Marca muitos o artilheiro",
+      "answer": "GOLS",
+      "row": 8,
+      "col": 7
+    },
+    "29": {
+      "clue": "(Hot Chili Peppers) Uma banda de rock",
+      "answer": "RED",
+      "row": 9,
+      "col": 2
+    },
+    "30": {
+      "clue": "Um instrumento musical de sopro",
+      "answer": "GAITA",
+      "row": 9,
+      "col": 6
+    },
+    "31": {
+      "clue": "Lançar",
+      "answer": "ARREMESSAR",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Apresentar alguém como aspirante a um cargo eletivo",
+      "answer": "CANDIDATAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Cereal nutritivo, rico em fibras",
+      "answer": "AVEIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Tradicional marca brasileira de cachaça",
+      "answer": "PITU",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Em tal quantidade",
+      "answer": "TÃO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A última e a penúltima vogais",
+      "answer": "UO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Tornar mais veloz",
+      "answer": "ACELERAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Levantar voo (avião ou hidravião)",
+      "answer": "DECOLAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Ordem de Pagamento",
+      "answer": "OP",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "Passar para o lado de lá",
+      "answer": "ATRAVESSAR",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "Produzir pus",
+      "answer": "SUPURAR",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Seita budista contemplativa japonesa",
+      "answer": "ZEN",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Cidade catarinense da região de Blumenau",
+      "answer": "POMERODE",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "XIV dividido por 2",
+      "answer": "VII",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Sofrer",
+      "answer": "PADECER",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Estrela que é o centro do nosso sistema planetário",
+      "answer": "SOL",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "(Red.) Uma formação acadêmica",
+      "answer": "POS",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Pena pecuniária",
+      "answer": "MULTA",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Os machos das vacas",
+      "answer": "BOIS",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "He, Ne, Ar, Kp, Xe ou Rn",
+      "answer": "GAS",
+      "row": 8,
+      "col": 7
+    },
+    "29": {
+      "clue": "Sigla de um estado extremo",
+      "answer": "RR",
+      "row": 9,
+      "col": 2
+    },
+    "30": {
+      "clue": "G",
+      "answer": "GE",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

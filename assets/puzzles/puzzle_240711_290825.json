@@ -1,0 +1,240 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ritmar",
+      "answer": "CADENCIAR",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Campeão pela terceira vez em um torneio",
+      "answer": "TRI",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "(Kong) Território asiático",
+      "answer": "HONG",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Woody Allen, cineasta de \"Meia-Noite em Paris\"",
+      "answer": "WA",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "(Ingl.) Hotel com recreação e divertimento para pessoas em férias",
+      "answer": "RESORT",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Astro, centro do nosso sistema planetário",
+      "answer": "SOL",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Terreno de pequenas dimensões, urbano ou rural",
+      "answer": "LOTE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Palavra inglesa que designa nova versão, no cinema e na TV",
+      "answer": "REMAKE",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Que é sempre atual",
+      "answer": "ATEMPORAL",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Valor usado por arquitetos nas construções",
+      "answer": "COTA",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "O d'Italia é uma tradicional prova de ciclismo",
+      "answer": "GIRO",
+      "row": 5,
+      "col": 7
+    },
+    "22": {
+      "clue": "Implorável",
+      "answer": "INVOCAVEL",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Pesar (culpa ou responsabilidade)",
+      "answer": "RECAIR",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Barro",
+      "answer": "LAMA",
+      "row": 7,
+      "col": 7
+    },
+    "27": {
+      "clue": "Ciclo de 12 meses",
+      "answer": "ANO",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "O Fernando (1923-2004), escritor mineiro",
+      "answer": "SABINO",
+      "row": 8,
+      "col": 4
+    },
+    "30": {
+      "clue": "Preposição que é o símbolo do caso genitivo",
+      "answer": "DE",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Culto semelhante à macumba",
+      "answer": "VODU",
+      "row": 9,
+      "col": 3
+    },
+    "32": {
+      "clue": "Cútis",
+      "answer": "TEZ",
+      "row": 9,
+      "col": 8
+    },
+    "34": {
+      "clue": "(Fís.) Uma unidade de medida de pressão",
+      "answer": "ATMOSFERA",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Charlize Theron, atriz de \"Monster\"",
+      "answer": "CT",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Saída de gases pela boca, produzindo barulho e odor desagradáveis",
+      "answer": "ARROTO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Produto isento de açúcares e/ou de baixo teor calórico",
+      "answer": "DIETETICO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Redução popular de senhor",
+      "answer": "NHO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Fortalecido",
+      "answer": "CORROBORADO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Red.) Tradicional equipe do futebol brasileiro",
+      "answer": "INTER",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Ariana Grande, atriz e cantora estadunidense",
+      "answer": "AG",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "A bruxa da história de \"A Bela Adormecida\"",
+      "answer": "MALEVOLA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Uma panela oriental",
+      "answer": "WOK",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "O espaço de tempo entre segunda e domingo",
+      "answer": "SEMANA",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Que produz a secreção das glândulas situadas no interior a boca",
+      "answer": "SALIVANTE",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Rasgado em pedaços",
+      "answer": "LACERADO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "A amiga da Mônica, personagens de Maurício de Sousa",
+      "answer": "MAGALI",
+      "row": 3,
+      "col": 7
+    },
+    "21": {
+      "clue": "Mastigar de novo",
+      "answer": "REMOER",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Animal cuja pele tem alto valor comercial",
+      "answer": "VISOM",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "N",
+      "answer": "ENE",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "(Ingl.) Ônibus",
+      "answer": "BUS",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Videoteipe",
+      "answer": "VT",
+      "row": 9,
+      "col": 3
+    },
+    "33": {
+      "clue": "Zona Aérea",
+      "answer": "ZA",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Conduzir um barco ou navio a reboque",
+      "answer": "ATOAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "A nação de Katmandu",
+      "answer": "NEPAL",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Saudação que se faz ao beber à saúde de alguém",
+      "answer": "TINTIM",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Disparo de espingarda",
+      "answer": "TIRO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Temor",
+      "answer": "MEDO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "A missão do cirurgião",
+      "answer": "OPERAR",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Outro nome do peixe-folha",
+      "answer": "PIRACA",
+      "row": 3,
+      "col": 1
+    },
+    "19": {
+      "clue": "A liga usada em cofres",
+      "answer": "AÇO",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "O Wood guitarrista dos \"Rolling Stones\"",
+      "answer": "RON",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "A do Sul foi sede das Olimpíadas de 1988",
+      "answer": "COREIA",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "Compor com cuidado",
+      "answer": "ELABORAR",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Abreviatura de Sem Data",
+      "answer": "SD",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Apenas",
+      "answer": "SO",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "O compositor Jair, de \"Alguém Como Tu\"",
+      "answer": "AMORIM",
+      "row": 6,
+      "col": 3
+    },
+    "30": {
+      "clue": "Nativo, indígena",
+      "answer": "ABORIGENE",
+      "row": 7,
+      "col": 2
+    },
+    "32": {
+      "clue": "Carrancudo",
+      "answer": "AMUADO",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Tempo passado",
+      "answer": "IDOS",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "Um tê no calendário",
+      "answer": "TERÇA",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "A brincadeira que se faz com os calouros de faculdades",
+      "answer": "TROTE",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "Esgotar completamente",
+      "answer": "EXAURIR",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Um ingrediente da argamassa",
+      "answer": "CAL",
+      "row": 10,
+      "col": 8
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Abreviatura de atmosfera",
+      "answer": "ATM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O italiano Giambattista (1696-1770), mestre na pintura de afrescos",
+      "answer": "TIEPOLO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Famosa praia da capital baiana",
+      "answer": "ONDINA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A profissão de Aílton Graça",
+      "answer": "ATOR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Rotary Internacional",
+      "answer": "RI",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Um sufixo diminutivo",
+      "answer": "ETE",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Açoite feito de couro cru",
+      "answer": "PIRAI",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Cidade baiana da região de Alagoinhas",
+      "answer": "ARAÇAS",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Tira de couro usada para atar um objeto",
+      "answer": "LORO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Nome popular de bebidas fermentadas",
+      "answer": "MOCORORO",
+      "row": 1,
+      "col": 5
+    },
+    "16": {
+      "clue": "Pomba do Nordeste, fonte de alimentação",
+      "answer": "PARARI",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "Poder conter (pessoas)",
+      "answer": "ACOMODAR",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Salvamento de vítimas de um acidente",
+      "answer": "RESGATE",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Construir uma obra arquitetônica",
+      "answer": "ERIGIR",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "Palmeira de semente oleaginosa",
+      "answer": "BABAÇU",
+      "row": 5,
+      "col": 3
+    },
+    "26": {
+      "clue": "Óleo para transporte pesado",
+      "answer": "DIESEL",
+      "row": 5,
+      "col": 10
+    },
+    "29": {
+      "clue": "Região produtora de vinhos na França",
+      "answer": "MEDOC",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "Vento aprazível",
+      "answer": "AURA",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "Resultado de avaliação em prova",
+      "answer": "NOTA",
+      "row": 7,
+      "col": 9
+    },
+    "33": {
+      "clue": "(Abrev.) México",
+      "answer": "MEX",
+      "row": 8,
+      "col": 1
+    },
+    "36": {
+      "clue": "Tribunal de Recursos",
+      "answer": "TR",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Qualquer procedimento técnico, científico",
+      "answer": "METODO",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Carência alimentar",
+      "answer": "FOME",
+      "row": 0,
+      "col": 7
+    },
+    "11": {
+      "clue": "A atriz Fernanda",
+      "answer": "TORRES",
+      "row": 1,
+      "col": 1
+    },
+    "13": {
+      "clue": "Caneta, nos EUA",
+      "answer": "PEN",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Fio curto e duro, como o de certas escovas",
+      "answer": "CERDA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Pedido de ajuda",
+      "answer": "APELO",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Declarar vendido (objeto leiloado)",
+      "answer": "ARREMATAR",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "(Fig.) Que se tornou assisado, prudente",
+      "answer": "AMADURADO",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Pessoa com Deficiência",
+      "answer": "PCD",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Pop.) Agente de polícia",
+      "answer": "TIRA",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Abreviatura de estibordo",
+      "answer": "EB",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Armadilha para apanhar pequenas aves",
+      "answer": "ARAPUCA",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Saudação entre amigos",
+      "answer": "ALO",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "51, em algarismos romanos",
+      "answer": "LI",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Um mal das articulações",
+      "answer": "ARTRITE",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "A classe popular da sociedade",
+      "answer": "VULGO",
+      "row": 8,
+      "col": 1
+    },
+    "33": {
+      "clue": "O Felipe Pondé escritor e filósofo",
+      "answer": "LUIZ",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "O Noel de 25 de dezembro",
+      "answer": "PAPAI",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Cansativo, irritante",
+      "answer": "CHATO",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "(burro) Muito, grande quantidade",
+      "answer": "PRA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Da árvore",
+      "answer": "ARBOREO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Composto usado como solvente",
+      "answer": "ETER",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Fatia de pão ressequida ao forno",
+      "answer": "TORRADA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Condição em que cada coisa é disposta em relação às outras coisas",
+      "answer": "ORDEM",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Arte de compor peças para o teatro",
+      "answer": "DRAMATURGIA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Física: abreviatura de oersted",
+      "answer": "OE",
+      "row": 0,
+      "col": 5
+    },
+    "8": {
+      "clue": "Uma obra como \"As Bodas de Fígaro\"",
+      "answer": "OPERA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Fluido produzido por abelhas",
+      "answer": "MEL",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Que tem aversão ao vinho",
+      "answer": "ENOFOBO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Provocar o grau máximo de concentração numa solução",
+      "answer": "SATURAR",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Relativo a certa região do antebraço",
+      "answer": "CARPAL",
+      "row": 2,
+      "col": 0
+    },
+    "16": {
+      "clue": "PA",
+      "answer": "PARA",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "Dependente de",
+      "answer": "ADICTO",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Prazer suave",
+      "answer": "DELEITE",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Peneirar",
+      "answer": "CRIVAR",
+      "row": 5,
+      "col": 1
+    },
+    "26": {
+      "clue": "Aba de boné",
+      "answer": "PALA",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Participar interpretando um personagem",
+      "answer": "ATUAR",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "Buraco pelo qual se passa um cordel",
+      "answer": "ILHO",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Interj.: surpresa",
+      "answer": "UPA",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "Elemento de composição: animal",
+      "answer": "ZOO",
+      "row": 8,
+      "col": 10
+    },
+    "35": {
+      "clue": "Pianíssimo",
+      "answer": "PP",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Colômbio, elemento químico",
+      "answer": "CB",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

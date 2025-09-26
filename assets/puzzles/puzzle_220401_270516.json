@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Corte de carne muito apreciado",
+      "answer": "PICANHA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Uma sigla usada em transferência bancária de valores",
+      "answer": "DOC",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "H",
+      "answer": "AGA",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "Feiticeiro",
+      "answer": "BRUXO",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Silêncio!",
+      "answer": "PSIU",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Azul forte",
+      "answer": "ANIL",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Pôr a sola dos pés sobre",
+      "answer": "PISAR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Venda a crédito",
+      "answer": "FIADO",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Sigla do estado do Alagoas",
+      "answer": "AL",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "(Red.) Quatro vezes campeão",
+      "answer": "TETRA",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Sigla do estado de Tarauacá e Xapuri",
+      "answer": "AC",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Perda da voz",
+      "answer": "AFONIA",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Abrev.: senhora",
+      "answer": "SRA",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "O contrário de escasso",
+      "answer": "ABUNDANTE",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Uma ameaça para os dentes",
+      "answer": "CARIE",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Quarenta dividido por oito",
+      "answer": "CINCO",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "Tornar o terreno desigual ou irregular",
+      "answer": "ACIDENTAR",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "Correr, desenvolver alta velocidade",
+      "answer": "ANDAR",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "O número de caçapas no jogo de sinuca",
+      "answer": "SEIS",
+      "row": 9,
+      "col": 6
+    },
+    "34": {
+      "clue": "Via",
+      "answer": "RUA",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Deixar (um negócio) prestes a concluir",
+      "answer": "AMARRAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Pig) Uma porquinha cor-de-rosa, de histórias infantis",
+      "answer": "PEPPA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Plataforma para embarque e desembarque num porto",
+      "answer": "CAIS",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Um refrigerante de sabor amargo",
+      "answer": "AGUATONICA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "O sódio, entre os químicos",
+      "answer": "NA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "As iniciais do Barbosa, de \"Trem das Onze\"",
+      "answer": "AB",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Monte característico de praias arenosas",
+      "answer": "DUNA",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Enferrujar",
+      "answer": "OXIDAR",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Especialista no assentamento de ladrilhos e azulejos",
+      "answer": "COLOCADOR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Cada divisão da pista de remo",
+      "answer": "RAIA",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Mão só tem uma",
+      "answer": "SILABA",
+      "row": 2,
+      "col": 1
+    },
+    "16": {
+      "clue": "Mulher que aluga a outrem uma propriedade",
+      "answer": "RENDEIRA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Nascida em Paris",
+      "answer": "FRANCESA",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "(Pop.) Solteirona",
+      "answer": "TIA",
+      "row": 4,
+      "col": 5
+    },
+    "23": {
+      "clue": "(Pop.) O que não dá certo",
+      "answer": "FURADA",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Experimentar em seu corpo, sua mente",
+      "answer": "SENTIR",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "Encontrar coisa perdida",
+      "answer": "ACHAR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Solvente para tintas",
+      "answer": "TINER",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "A comercial é o mesmo que loja",
+      "answer": "CASA",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Sem enfeites",
+      "answer": "NU",
+      "row": 9,
+      "col": 1
+    }
+  }
+}

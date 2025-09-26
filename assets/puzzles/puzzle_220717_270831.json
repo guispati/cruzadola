@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma importante premiação do cinema mundial",
+      "answer": "OSCAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Inf.) Machucado, doença",
+      "answer": "DODOI",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Que tem algum buraco",
+      "answer": "FURADO",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "(Lock) Tecla do PC",
+      "answer": "NUM",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Uma delícia da culinária nordestina",
+      "answer": "TAPIOCA",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Grande ilha da Indonésia, uma das maiores do mundo",
+      "answer": "SUMATRA",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "1005, em algarismos romanos",
+      "answer": "MV",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "O oposto de emitente",
+      "answer": "SACADO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Uma forma de chamar o genitor",
+      "answer": "PAIE",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Um gesto de afeto",
+      "answer": "AFAGO",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Por) A propósito",
+      "answer": "SINAL",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Uma placa de trânsito que proíbe de se ir adiante",
+      "answer": "PARE",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Iguaria saborosa",
+      "answer": "PITEU",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "O que muda de melar para modelar",
+      "answer": "OD",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "O trabalho de triturar até reduzir a pó",
+      "answer": "MOAGEM",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "Um animal que nos fornece carne, couro, força de trabalho etc.",
+      "answer": "BOI",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "O John Boyd (1840-1921) inventor do primeiro pneu",
+      "answer": "DUNLOP",
+      "row": 8,
+      "col": 4
+    },
+    "31": {
+      "clue": "Tira pintada em parede",
+      "answer": "FRISO",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "O fruto da nogueira",
+      "answer": "NOZ",
+      "row": 9,
+      "col": 8
+    },
+    "35": {
+      "clue": "Enraivecido",
+      "answer": "IRADO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Grande deserto do norte da África",
+      "answer": "SAARA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "As iniciais do médico austríaco Freud (1856-1939)",
+      "answer": "SF",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Incentivar (alguém) continuamente",
+      "answer": "CUTUCAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Gradeamento de fios de metal",
+      "answer": "ARAMAGEM",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Cortado rente",
+      "answer": "RAPADO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Ingl.) Porta",
+      "answer": "DOOR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Teste genético",
+      "answer": "DNA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Conjunção que sugere opção",
+      "answer": "OU",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Uma propriedade como um terreno",
+      "answer": "IMOVEL",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Frase, sentença",
+      "answer": "DITO",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Parte superior de uma coluna, ornamentada",
+      "answer": "CAPITEL",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "(Pop.) Descarado, desavergonhado",
+      "answer": "SAFADO",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Som que imita um gato",
+      "answer": "MIAU",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Grande anfíbio, de boca enorme, também chamado intanha",
+      "answer": "SAPOBOI",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Flor multicor semelhante à papoula",
+      "answer": "ANEMONA",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Libra e Peixes",
+      "answer": "SIGNOS",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Naipe do baralho em forma de um trevo negro",
+      "answer": "PAUS",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Grave sentimento de aversão e inimizade",
+      "answer": "ODIO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Insumo Farmacêutico Ativo",
+      "answer": "IFA",
+      "row": 8,
+      "col": 2
+    },
+    "30": {
+      "clue": "Colocar algo em outra coisa ou numa pessoa",
+      "answer": "POR",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "As iniciais do ator Duvall, de \"Rede de Intrigas\"",
+      "answer": "RD",
+      "row": 9,
+      "col": 3
+    },
+    "34": {
+      "clue": "A última e a primeira letra do alfabeto",
+      "answer": "ZA",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

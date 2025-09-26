@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Grande, excessivo",
+      "answer": "MUITO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Ingl.) Imprimir",
+      "answer": "PRINT",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Escrever (o próprio nome) de modo pessoal e único",
+      "answer": "ASSINAR",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "(Bíbl.) O armador de uma grande arca",
+      "answer": "NOE",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Sem asperezas",
+      "answer": "LISO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O ex-presidente dos EUA Trump",
+      "answer": "DONALD",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Período entre 1/1 e 31/12",
+      "answer": "ANO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Ferramenta de sapateiro, para furar o couro",
+      "answer": "SOVELA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "(Sigla) Um tipo de empresa mercantil",
+      "answer": "SA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Grande comitiva em viagem",
+      "answer": "CARAVANA",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Sabor",
+      "answer": "PALADAR",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Que usa de maneira inadequada",
+      "answer": "ABUSADOR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Viola Davis, atriz",
+      "answer": "VD",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Formando que fala pela turma",
+      "answer": "ORADOR",
+      "row": 7,
+      "col": 1
+    },
+    "26": {
+      "clue": "Colocar, pendurar ou fixar algo",
+      "answer": "POR",
+      "row": 7,
+      "col": 8
+    },
+    "27": {
+      "clue": "Tornar-se seguidor de um movimento",
+      "answer": "ADERIR",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "O eterno rei do futebol",
+      "answer": "PELE",
+      "row": 8,
+      "col": 7
+    },
+    "29": {
+      "clue": "A iluminação proveniente do Sol",
+      "answer": "LUZ",
+      "row": 9,
+      "col": 0
+    },
+    "30": {
+      "clue": "Cidade italiana, capital da Campanha",
+      "answer": "NAPOLES",
+      "row": 9,
+      "col": 4
+    },
+    "32": {
+      "clue": "O músico Batista, de \"Amor Perfeito\"",
+      "answer": "AMADO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "O dinheiro do Brasil (pl.)",
+      "answer": "REAIS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um país asiático",
+      "answer": "MALASIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Empresa que produz álcool em grande escala",
+      "answer": "USINA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Uma exclamação de aprovação",
+      "answer": "ISSO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Irmão do pai",
+      "answer": "TIO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Econ.) Ordinária Nominativa",
+      "answer": "ON",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "O espaço onde se experimenta roupas",
+      "answer": "PROVADOR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Aspirar",
+      "answer": "INALAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O cineasta Christopher",
+      "answer": "NOLAN",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Termo bancário",
+      "answer": "TED",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Devota de um culto religioso",
+      "answer": "ADORADORA",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Cair das nuvens a água congelada, em flocos",
+      "answer": "NEVAR",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Sultão egípcio (1137-1193), famoso herói muçulmano",
+      "answer": "SALADINO",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Depositar o dinheiro da aposta",
+      "answer": "CASAR",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "A atriz suíça Ursula, de \"Cassino Royale",
+      "answer": "ANDRESS",
+      "row": 4,
+      "col": 10
+    },
+    "21": {
+      "clue": "Castidade, inocência",
+      "answer": "PUREZA",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Transpiração malcheirosa",
+      "answer": "BODUM",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "(Esp.) A modalidade de Maurício e Bernard",
+      "answer": "VOLEI",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Por + aquela",
+      "answer": "PELA",
+      "row": 7,
+      "col": 8
+    },
+    "27": {
+      "clue": "No islamismo, termo usado para designar Deus",
+      "answer": "ALA",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "O escritor Edgar Allan (1809-1849), de \"Os Crimes da Rua Morgue\"",
+      "answer": "POE",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "Sigla do estado de Apucarana",
+      "answer": "PR",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

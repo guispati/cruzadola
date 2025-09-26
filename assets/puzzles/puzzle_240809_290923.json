@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Ingl.) Atividade de excursionar usando barraca",
+      "answer": "CAMPING",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Aparelho que reúne copiadora e telefone, hoje em desuso",
+      "answer": "FAX",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Tragédia em música",
+      "answer": "OPERA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Navegante",
+      "answer": "NAUTA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Duro, indelicado",
+      "answer": "RUDE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Entrar em crise psicótica",
+      "answer": "SURTAR",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Casca",
+      "answer": "CROSTA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Nome dado ao príncipe indiano Siddharta Gautama, fundador de uma religião",
+      "answer": "BUDA",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "(Quím.) Hólmio",
+      "answer": "HO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "O Rodrigo ator de \"Bicho de Sete Cabeças\"",
+      "answer": "SANTORO",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Guia que tem experiência em florestas",
+      "answer": "MATEIRO",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Animal carnívoro do sul da América do Sul, da família das ariranhas",
+      "answer": "JAGUARE",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Ney Latorraca, ator",
+      "answer": "NL",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Ilha turística da Indonésia, procurada para o surfe",
+      "answer": "BALI",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Uma série de documentos",
+      "answer": "DOSSIE",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "O Índico banha a Somália, a Indonésia e a Austrália",
+      "answer": "OCEANO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Tubo para esgoto",
+      "answer": "CANO",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "Nem este nem aquele",
+      "answer": "OUTRO",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Las) Cidade dos EUA, centro de jogatina",
+      "answer": "VEGAS",
+      "row": 9,
+      "col": 6
+    },
+    "33": {
+      "clue": "Uma marca de automóveis",
+      "answer": "KIA",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Aparência do que tem fundo claro com listras escuras",
+      "answer": "ZEBRURA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O mesmo que cortiça",
+      "answer": "CORCHA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Aperto, dificuldade",
+      "answer": "APURO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Temor, ansiedade",
+      "answer": "MEDO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Prever, adivinhar",
+      "answer": "PRESSAGIAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Instituto Agronômico",
+      "answer": "IA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Animal com chifres parecidos com os dos bois",
+      "answer": "GNU",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O tempo que há de vir",
+      "answer": "FUTURO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Feixe",
+      "answer": "ATADO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "De nome igual",
+      "answer": "XARA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Crescer como árvore",
+      "answer": "ARBORESCER",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Remediado",
+      "answer": "SANEADO",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Animal de corpo arredondado",
+      "answer": "TATU",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Explosão",
+      "answer": "TIRO",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Valise",
+      "answer": "MALETA",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Impregnada de substância gordurosa",
+      "answer": "OLEOSA",
+      "row": 5,
+      "col": 10
+    },
+    "23": {
+      "clue": "Cidade mineira próxima a São Sebastião do Paraíso",
+      "answer": "JACUI",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Adormecer uma criança ao som de cantigas",
+      "answer": "NINAR",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Livro, em NY",
+      "answer": "BOOK",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Uma fécula",
+      "answer": "SAGU",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "O fruto da nogueira",
+      "answer": "NOZ",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "(Inform.) Visual Basic",
+      "answer": "VB",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

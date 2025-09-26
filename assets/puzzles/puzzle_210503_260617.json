@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cantos, arestas",
+      "answer": "ANGULOS",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Órgão que consulta crédito",
+      "answer": "SPC",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "O eterno rei do futebol",
+      "answer": "PELE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Fruto de cacto nativo da América Central e do México",
+      "answer": "PITAIA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Manifestação concreta da vontade",
+      "answer": "ATO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Local onde o rei Artur se reunia com os cavaleiros da Távola Redonda",
+      "answer": "CAMELOT",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Baba pegajosa",
+      "answer": "GOSMA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "A filha de uma égua",
+      "answer": "POTRA",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Aquele que espalha sementes",
+      "answer": "SEMEADOR",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Roberto Carlos, cantor de \"O Portão\"",
+      "answer": "RC",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "O terrestre é a camada da Terra entre a crosta e o núcleo",
+      "answer": "MANTO",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Arnaldo Antunes, poeta e músico, ex-\"Titãs\"",
+      "answer": "AA",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Enchimento para blusas",
+      "answer": "OMBREIRA",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Pele de animais como o jacaré",
+      "answer": "COURO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Hortaliça que acompanha a feijoada",
+      "answer": "COUVE",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Exercício final para checar as condições técnicas de um atleta",
+      "answer": "APRONTO",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Direito",
+      "answer": "DIR",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Tecido maleável e escorregadio, de lã, seda, algodão ou fio sintético",
+      "answer": "JERSEI",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Construção para atracação de embarcações",
+      "answer": "PIER",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "Círculo metálico que envolve uma roda de bicicleta",
+      "answer": "ARO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Lembrado com tristeza e suavidade",
+      "answer": "SAUDOSO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Limpar o que está escrito ou arquivado",
+      "answer": "APAGAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O filho da filha",
+      "answer": "NETO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um batom que hidrata e protege",
+      "answer": "GLOSS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "União Europeia",
+      "answer": "UE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Uma saudação",
+      "answer": "OPA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Anat.) O sistema nervoso autônomo",
+      "answer": "SIMPATICO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "No atletismo, o mais alto é dado com a vara",
+      "answer": "SALTO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Pequeno pião",
+      "answer": "PIORRA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Procura",
+      "answer": "CATA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Forma uma dupla sertaneja com Sampaio",
+      "answer": "TEODORO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Habitante do país africano cuja capital é Iaundê",
+      "answer": "CAMARONES",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Os superiores são os braços e as mãos",
+      "answer": "MEMBROS",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "N",
+      "answer": "ENE",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "(Mini) Carro inglês, ícone dos anos 1960",
+      "answer": "COOPER",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Operação que precede a construção de um prédio",
+      "answer": "ATERRO",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Soco",
+      "answer": "MURRO",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Sinal sonoro",
+      "answer": "AUDIO",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Fruto usado para doces e geleias",
+      "answer": "CAJA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Fig.) Tendência determinada por forças externas",
+      "answer": "VIES",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Uma filha dos avós",
+      "answer": "TIA",
+      "row": 8,
+      "col": 5
+    },
+    "35": {
+      "clue": "(Quím.) Paládio",
+      "answer": "PD",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Típica dança cubana",
+      "answer": "RUMBA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Uma ave branca",
+      "answer": "CISNE",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Trabalhar a terra com meios mecânicos",
+      "answer": "ARAR",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "(Ingl.) Loja",
+      "answer": "SHOP",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "(Ingl.) Maquiagem",
+      "answer": "MAKEUP",
+      "row": 2,
+      "col": 2
+    },
+    "13": {
+      "clue": "O que transforma mudo em mugido",
+      "answer": "GI",
+      "row": 2,
+      "col": 9
+    },
+    "14": {
+      "clue": "Em química, Potencial hidrogeniônico",
+      "answer": "PH",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Uma das caravelas de Cristóvão Colombo",
+      "answer": "NINA",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Aposta, em inglês",
+      "answer": "BET",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Constelação em que se distinguem cinco estrelas principais, na cabeça do Touro",
+      "answer": "HIADES",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Uma parte da mexerica",
+      "answer": "GOMO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Queijo, um dos mais consumidos",
+      "answer": "PROVOLONE",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Um carro da Chevrolet",
+      "answer": "SPIN",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Barulhos",
+      "answer": "RUIDOS",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "(de Itamaracá) Cantora e compositora pernambucana",
+      "answer": "LIA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Até logo, em italiano",
+      "answer": "CIAO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "(Sigla) Um tipo de empresa",
+      "answer": "SA",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Abreviatura de isto é",
+      "answer": "IE",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "A figurinista francesa Coco (1883-1971)",
+      "answer": "CHANEL",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "O músico McCartney",
+      "answer": "PAUL",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "(Ingl.) A hora de maior movimento do trânsito",
+      "answer": "RUSH",
+      "row": 9,
+      "col": 7
+    },
+    "35": {
+      "clue": "Esporte de neve",
+      "answer": "ESQUI",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Uma peça como o Shift ou o F5",
+      "answer": "TECLA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O ator inglês Fiennes, de \"O Paciente Inglês\"",
+      "answer": "RALPH",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A bíblica cidade de Abraão e sua família",
+      "answer": "UR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Museu de Arte Moderna",
+      "answer": "MAM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O ator Lee, filho de Bruce Lee, de \"O Corvo\"",
+      "answer": "BRANDON",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O som da água em cascata",
+      "answer": "CHUA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Três letras que ficam juntas no lado direito do teclado",
+      "answer": "IOP",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Sigla do estado de Jaú e Itu",
+      "answer": "SP",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O país de Cairo",
+      "answer": "EGITO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Que pertence aos órgãos dos sentidos",
+      "answer": "SENSORIAL",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "A capital ucraniana",
+      "answer": "KIEV",
+      "row": 2,
+      "col": 4
+    },
+    "13": {
+      "clue": "Um signo",
+      "answer": "GEMEOS",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Jovem que, nos anos 1960 e 1970, levava vida alternativa",
+      "answer": "HIPPIE",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "(James) O agente 007, de Ian Fleming",
+      "answer": "BOND",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Melodia",
+      "answer": "ARIA",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Cidade paranaense do oeste do estado",
+      "answer": "GOIOERE",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "O cantor Santana",
+      "answer": "LUAN",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "(Ingl.) Cromo para projeção",
+      "answer": "SLIDE",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Ímpeto de raiva",
+      "answer": "SANHA",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Arroio que é fronteira entre o Brasil e o Uruguai",
+      "answer": "CHUI",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Conselho de Arquitetura e Urbanismo",
+      "answer": "CAU",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "O cineasta Besson",
+      "answer": "LUC",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "As letras que separam o O do R",
+      "answer": "PQ",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Solo sem ós",
+      "answer": "SL",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

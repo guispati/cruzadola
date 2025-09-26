@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um angolano nascido na capital",
+      "answer": "LUANDES",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "A vacina contra a tuberculose",
+      "answer": "BCG",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Pipi sem pês",
+      "answer": "II",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Cantar de forma harmônica",
+      "answer": "MELODIAR",
+      "row": 1,
+      "col": 3
+    },
+    "13": {
+      "clue": "1006, em algarismos romanos",
+      "answer": "MVI",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Ramo de planta usado em trabalhos artesanais",
+      "answer": "VIME",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Sem ornatos",
+      "answer": "NU",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "(Segurar as) Suportar situação difícil",
+      "answer": "PONTAS",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Feiticeira",
+      "answer": "MAGA",
+      "row": 3,
+      "col": 7
+    },
+    "21": {
+      "clue": "Falta de costume",
+      "answer": "DESABITO",
+      "row": 4,
+      "col": 2
+    },
+    "23": {
+      "clue": "Descargas elétricas que ocorrem em tempestades",
+      "answer": "RAIOS",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Em tempo anterior",
+      "answer": "ATRAS",
+      "row": 5,
+      "col": 6
+    },
+    "27": {
+      "clue": "Região italiana com capital Catanzaro",
+      "answer": "CALABRIA",
+      "row": 6,
+      "col": 1
+    },
+    "29": {
+      "clue": "Esticado",
+      "answer": "TESO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "(de) Um tipo de muro",
+      "answer": "ARRIMO",
+      "row": 7,
+      "col": 5
+    },
+    "32": {
+      "clue": "Sigla do estado das cidades de João Câmara e Natal",
+      "answer": "RN",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Cor branca acinzentada",
+      "answer": "GELO",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Uma maneira de mostrar agrado",
+      "answer": "RIR",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "Relativo ao osso localizado atrás do nariz",
+      "answer": "ETMOIDAL",
+      "row": 9,
+      "col": 0
+    },
+    "39": {
+      "clue": "As consoantes em Kate",
+      "answer": "KT",
+      "row": 9,
+      "col": 9
+    },
+    "40": {
+      "clue": "Pedido de socorro internacionalmente reconhecido",
+      "answer": "SOS",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "(Os) Obra-prima de Euclides da Cunha",
+      "answer": "SERTÕES",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Tornar claro, desanuviar",
+      "answer": "LIMPAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Som prolongado emitido pelos cães",
+      "answer": "UIVO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Nicolau Maquiavel (1469-1527), escritor e político italiano",
+      "answer": "NM",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Mulher depravada, libertina",
+      "answer": "DEVASSA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "A Lucinda atriz, cantora e escritora",
+      "answer": "ELISA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Vibração que viaja a 340 m/s",
+      "answer": "SOM",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Elemento de composição: dois, duas vezes",
+      "answer": "BI",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Peixe marinho, com pouco valor no mercado",
+      "answer": "CANGOA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Tipo de guindaste para grandes pesos",
+      "answer": "GRUA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Exonerar",
+      "answer": "DEMITIR",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "O sudeste asiático dos tempos antigos",
+      "answer": "INDIAS",
+      "row": 2,
+      "col": 2
+    },
+    "18": {
+      "clue": "Estudioso da natureza de Deus",
+      "answer": "TEOLOGO",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Trazer para si",
+      "answer": "ATRAIR",
+      "row": 3,
+      "col": 8
+    },
+    "22": {
+      "clue": "Emitir (o cão) latidos ao encontrar a pista do animal ou ao depará-lo",
+      "answer": "BARROAR",
+      "row": 4,
+      "col": 6
+    },
+    "24": {
+      "clue": "Um sinal como o til ou o circunflexo",
+      "answer": "ACENTO",
+      "row": 5,
+      "col": 1
+    },
+    "26": {
+      "clue": "Tipo de calção esportivo",
+      "answer": "SHORTS",
+      "row": 5,
+      "col": 10
+    },
+    "28": {
+      "clue": "Recipiente com alça usado em limpeza",
+      "answer": "BALDE",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "3",
+      "answer": "TRES",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "O pugilista estadunidense Tyson",
+      "answer": "MIKE",
+      "row": 7,
+      "col": 9
+    },
+    "34": {
+      "clue": "Aqui está!",
+      "answer": "EIS",
+      "row": 8,
+      "col": 4
+    },
+    "37": {
+      "clue": "Sigla do estado de Dourados e Bodoquena",
+      "answer": "MS",
+      "row": 9,
+      "col": 2
+    },
+    "38": {
+      "clue": "Leis Trabalhistas",
+      "answer": "LT",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

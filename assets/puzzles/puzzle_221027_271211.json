@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Quo) Termo latino, no estado em que se encontrava antes",
+      "answer": "STATUS",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Código Verificador",
+      "answer": "CV",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Uma alta patente militar",
+      "answer": "GENERAL",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Pronome pessoal: a ele",
+      "answer": "LHE",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "Última letra do alfabeto",
+      "answer": "ZE",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "Interromper de maneira violenta e resoluta",
+      "answer": "TRUNCAR",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "XV, em arábicos",
+      "answer": "QUINZE",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Roberto Drummond, escritor mineiro de \"Hilda Furacão\"",
+      "answer": "RD",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Outro nome do bicho-de-pé",
+      "answer": "TUNGA",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "No jogo do bicho, as dezenas de 53 a 56",
+      "answer": "GATO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Membro de uma seita muçulmana",
+      "answer": "XIITA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Vigorar, viger",
+      "answer": "VALER",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Uma peça como a metralhadora",
+      "answer": "ARMA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Fechar um recipiente, impedindo a saída do líquido",
+      "answer": "VEDAR",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Volt-ampère",
+      "answer": "VA",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Sair, retirar-se de",
+      "answer": "DEIXAR",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Declive de montanha",
+      "answer": "ENCOSTA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Ginástica Artística",
+      "answer": "GA",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Uma bebida que é ingrediente de muitos aperitivos",
+      "answer": "GIM",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Pequena árvore de madeira resistente",
+      "answer": "CAMBARA",
+      "row": 9,
+      "col": 4
+    },
+    "36": {
+      "clue": "Arnaldo Antunes, músico e poeta",
+      "answer": "AA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Cão de fila, de guarda, cuja postura é quase sempre agressiva e perigosa",
+      "answer": "LEBREU",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "As iniciais do ator capixaba Stênio",
+      "answer": "SG",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Epiderme",
+      "answer": "TEZ",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Tubarão de grande porte e ferocidade, das águas brasileiras",
+      "answer": "ANEQUIM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "T",
+      "answer": "TE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Plantas cujas folhas, em contato com a pele, produzem irritação",
+      "answer": "URTIGA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Pop.) Pessoa impertinente",
+      "answer": "SARNA",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "(Pal. ingl.) Avião alugado",
+      "answer": "CHARTER",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Qualidade do que ainda não está maduro",
+      "answer": "VERDOR",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Claridade do farol",
+      "answer": "LUZ",
+      "row": 1,
+      "col": 6
+    },
+    "11": {
+      "clue": "Laura Cardoso, atriz",
+      "answer": "LC",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Recusada, não concedida",
+      "answer": "NEGADA",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Oleoso",
+      "answer": "UNTADO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Autoridade imposta com violência e prepotência",
+      "answer": "TIRANIA",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Ampliar",
+      "answer": "ALARGAR",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Um tipo de pesca artesanal com redes e cerco",
+      "answer": "XAVEGA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Vergonha",
+      "answer": "VEXAME",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Que desempenha função essencial num organismo",
+      "answer": "VITAL",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Uma tecla muito utilizada pelo usuário de computadores",
+      "answer": "ESC",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "As iniciais do pintor francês Monet (1840-1926)",
+      "answer": "CM",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "Medida de 100 m²",
+      "answer": "ARE",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "Brigitte Bardot, atriz francesa de \"E Deus Criou a Mulher\"",
+      "answer": "BB",
+      "row": 9,
+      "col": 7
+    },
+    "35": {
+      "clue": "O som do latido de um cão",
+      "answer": "AU",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

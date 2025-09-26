@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Feijão verde",
+      "answer": "VAGEM",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Presumir, julgar",
+      "answer": "SUPOR",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Coberto de pão que se ralou",
+      "answer": "PANADO",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Representação de algo (fato, coisa etc.) indeterminado, indefinido",
+      "answer": "QUE",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Fortalecer, tornar íntegro e firme",
+      "answer": "SOLIDAR",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "A plantação de um fruto usado em molhos",
+      "answer": "TOMATAL",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Uma indústria de tevês, celulares etc.",
+      "answer": "LG",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Zombaria, provocação",
+      "answer": "PALEIO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Fêmea de cavalo",
+      "answer": "EGUA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "De vértice para cima",
+      "answer": "ERETO",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Terno e delicado",
+      "answer": "SUAVE",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "(Fig.) Resultado de grandes esforços",
+      "answer": "SUOR",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Famosa cidade da Jordânia",
+      "answer": "PETRA",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "Amplitude Modulada, modulação usada em rádios",
+      "answer": "AM",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Relativo ao olho ou à vista",
+      "answer": "OCULAR",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "(Fig.) Causa, origem",
+      "answer": "MÃE",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Processo de reprodução gráfica",
+      "answer": "OFFSET",
+      "row": 8,
+      "col": 4
+    },
+    "31": {
+      "clue": "O Javier presidente argentino",
+      "answer": "MILEI",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "O cantor carioca Maia (1942-1998)",
+      "answer": "TIM",
+      "row": 9,
+      "col": 8
+    },
+    "35": {
+      "clue": "Relativo a um dos países escandinavos",
+      "answer": "SUECO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Uma tecla de PC",
+      "answer": "ENTER",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Amapá",
+      "answer": "AP",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um produto da destilação do petróleo",
+      "answer": "GASOLEO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Instrumento para determinar o teor alcoólico do vinho",
+      "answer": "ENOMETRO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Idioma falado na Indonésia, Tailândia, Cingapura etc.",
+      "answer": "MALAIO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(limonada) Um refrigerante muito consumido",
+      "answer": "SODA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "As letras que separam o O do S",
+      "answer": "PQR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Conjunção que une ideias alternadas",
+      "answer": "OU",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O ritmo musical de Bob Marley e Jimmy Cliff",
+      "answer": "REGGAE",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Frase, sentença, afirmação",
+      "answer": "DITO",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Ilhas do mar de Behring, no norte do Pacífico",
+      "answer": "ALEUTAS",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Famoso autódromo gaúcho",
+      "answer": "TARUMÃ",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Um acessório do goleiro",
+      "answer": "LUVA",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Manifestação de tristeza por morte de alguém",
+      "answer": "PESAMES",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "O escritor português Almeida (1799-1854)",
+      "answer": "GARRETT",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Um tipo de foto",
+      "answer": "SELFIE",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Um banquinho",
+      "answer": "PUFE",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Parte extrema e fina de uma garrafa",
+      "answer": "COLO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "O nome da letra que é o símbolo de minuto",
+      "answer": "EME",
+      "row": 8,
+      "col": 2
+    },
+    "30": {
+      "clue": "Cantora paulista da MPB",
+      "answer": "TIE",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Iberê Camargo (1914-1994), artista gaúcho",
+      "answer": "IC",
+      "row": 9,
+      "col": 3
+    },
+    "34": {
+      "clue": "Marca Registrada",
+      "answer": "MR",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

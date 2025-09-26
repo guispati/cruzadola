@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cidade mineira da região da serra da Canastra",
+      "answer": "BAMBUI",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Doce de chocolate e bolachas",
+      "answer": "PAVE",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Falar em público",
+      "answer": "ORAR",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Ato de voar lentamente",
+      "answer": "PAIRO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Uma flor",
+      "answer": "LILAS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Magras) Diz-de de época difícil, de pobreza",
+      "answer": "VACAS",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Palmeira de flores acinzentadas",
+      "answer": "ICA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Árvore cuja madeira é usada em caixotaria",
+      "answer": "ARAPARI",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Mover-se em espiral",
+      "answer": "CARACOLAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Helena Rizzo, chef gaúcha",
+      "answer": "HR",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Livrar-se de uma dívida",
+      "answer": "PAGAR",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Quilovolt",
+      "answer": "KV",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Bandido, marginal",
+      "answer": "FORADALEI",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Atleta não profissional (fem.)",
+      "answer": "AMADORA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Índice de Preços ao Consumidor",
+      "answer": "IPC",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Certos roedores comuns",
+      "answer": "RATOS",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Moeda russa",
+      "answer": "RUBLO",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "O ditador russo Stalin (1879-1953), sucessor de Lenin",
+      "answer": "JOSEF",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "(Fut.) Um apelido da torcida do Corinthians",
+      "answer": "FIEL",
+      "row": 9,
+      "col": 7
+    },
+    "35": {
+      "clue": "(The) Banda britânica de rock",
+      "answer": "CURE",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Ferida comum em doentes acamados por longo tempo",
+      "answer": "ESCARA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Fazer comércio em pequena escala",
+      "answer": "BOLICHEAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Lavrar de leve, para arrancar ervas daninhas",
+      "answer": "ARICAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um osso da face",
+      "answer": "MALAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Abrev.: Brasil",
+      "answer": "BRA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Instituto de Psiquiatria",
+      "answer": "IP",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Peixe de rios, com faixas transversais escuras",
+      "answer": "PIAPARA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Curvar",
+      "answer": "ARCAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Mover-se como a borboleta",
+      "answer": "VOAR",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Rodear de cercas, regos etc.",
+      "answer": "AVALADAR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "O açúcar da beterraba",
+      "answer": "SACAROSE",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Que nasce ou vive nas matas",
+      "answer": "SILVICOLA",
+      "row": 2,
+      "col": 10
+    },
+    "18": {
+      "clue": "Imprecar",
+      "answer": "ROGAR",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Restituição, retribuição",
+      "answer": "APODOSE",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "O astrônomo alemão Johannes (1571-1930)",
+      "answer": "KEPLER",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Causa",
+      "answer": "FATOR",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Trípoli é a sua capital",
+      "answer": "LIBIA",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "A Coutinho jornalista e apresentadora",
+      "answer": "MAJU",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "Universidade Federal do Ceará",
+      "answer": "UFC",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Crença em um Deus",
+      "answer": "FE",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

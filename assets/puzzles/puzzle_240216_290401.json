@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Devolver (dinheiro gasto)",
+      "answer": "REEMBOLSAR",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Cognome",
+      "answer": "EPITETO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "O primeiro de uma série infinita",
+      "answer": "UM",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "O oposto de abaixo",
+      "answer": "ACIMA",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Uma consoante labiodental",
+      "answer": "VE",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Bar inglês",
+      "answer": "PUB",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Aproximar, achegar",
+      "answer": "ACERCAR",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Lugar em que alguém se apoia",
+      "answer": "ARRIMO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "A cantora e compositora capixaba Calazans",
+      "answer": "TECA",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Refratário a doença contagiosa",
+      "answer": "IMUNE",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Importante cidade industrial mineira",
+      "answer": "BETIM",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "(Pop.) Em uns",
+      "answer": "NUNS",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Furo no nariz por onde penetra o ar nas vias respiratórias",
+      "answer": "NARINA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "(Ingl.) Carro de moradia rebocado por um automóvel",
+      "answer": "TRAILER",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "O que se opõe ao bem",
+      "answer": "MAL",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Índice de Eficiência",
+      "answer": "IE",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Lama) Líder religioso tibetano",
+      "answer": "DALAI",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "O ródio, para os químicos",
+      "answer": "RH",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Nome sugerido para o elétron",
+      "answer": "NEGATON",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Estudo dos astros",
+      "answer": "ASTROSOFIA",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Calcinha, cueca ou sutiã",
+      "answer": "ROUPAINTIMA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Edward Elgar (1857-1934), compositor clássico inglês",
+      "answer": "EE",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Ministério da Pesca e Aquicultura",
+      "answer": "MPA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Calha para escoamento de águas",
+      "answer": "BICAME",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Do ouvido ou (var.) da vista",
+      "answer": "OTICO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O mecanismo que direciona um barco",
+      "answer": "LEME",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Ingl.) Interruptor automático para lâmpadas",
+      "answer": "STARTER",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Gram.) Uma contração comum",
+      "answer": "AO",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Famoso cantor paraibano",
+      "answer": "ZERAMALHO",
+      "row": 1,
+      "col": 10
+    },
+    "12": {
+      "clue": "Ruído das ondas do mar",
+      "answer": "MURMURE",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "A melhor forma de se proteger contra a Covid",
+      "answer": "VACINAR",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "A atriz Marquezine",
+      "answer": "BRUNA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Tecido para fantasias carnavalescas",
+      "answer": "CETIM",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "(Ingl.) Indivíduo aceito como membro de um grupo",
+      "answer": "INSIDER",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Que cobra pouco",
+      "answer": "BARATO",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Em + elas",
+      "answer": "NELAS",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Um corpo d’água como o Ness, na Escócia",
+      "answer": "LAGO",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Um imposto",
+      "answer": "IOF",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Estão no centro em... centro",
+      "answer": "NT",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "(Quím.) O símbolo do níquel, metal resistente aos ácidos",
+      "answer": "NI",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

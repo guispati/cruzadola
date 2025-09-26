@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Colega, companheira",
+      "answer": "AMIGA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Nação asiática com capital Catmandu",
+      "answer": "NEPAL",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Sem complexidade, sem importância (fem.)",
+      "answer": "MERA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Uma quantidade de líquido",
+      "answer": "GOLE",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Uma gradação de verde",
+      "answer": "OLIVA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Prato japonês, bolinho de arroz recheado e envolto em alga",
+      "answer": "SUSHI",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Falta de respeito",
+      "answer": "DESACATO",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Competição que inclui três atividades esportivas diferentes",
+      "answer": "TRIATLO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "(Gír.) Bebedeira",
+      "answer": "OPA",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "O Capibaribe corta Recife",
+      "answer": "RIO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "A atriz e cantora Mariana",
+      "answer": "RIOS",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Ordem de Pagamento",
+      "answer": "OP",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Abreviatura de ante Meridiem (antes do meio-dia)",
+      "answer": "AM",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Um material de trabalho da dançarina de balé",
+      "answer": "PONTEIRA",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "Descendência",
+      "answer": "RAMO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "O compositor Villa-Lobos (1887-1959)",
+      "answer": "HEITOR",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "Desta maneira",
+      "answer": "DESTARTE",
+      "row": 8,
+      "col": 1
+    },
+    "33": {
+      "clue": "Ato que pode indicar um mal da garganta",
+      "answer": "TOSSIR",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Animal cujo focinho termina numa espécie de tromba móvel",
+      "answer": "ANTA",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "A do Cassino, no RS, é a mais extensa do mundo, com 220 km",
+      "answer": "PRAIA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Pertencer",
+      "answer": "SER",
+      "row": 10,
+      "col": 8
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Extrair um exemplar para prova de sua qualidade",
+      "answer": "AMOSTRAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Fluido produzido por abelhas",
+      "answer": "MEL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ir",
+      "answer": "IRIDIO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Náut.) Plataforma a certa altura de um mastro",
+      "answer": "GAVEA",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "A mãe dos potros",
+      "answer": "EGUA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Cargo que alguém ocupa numa instituição",
+      "answer": "POSTO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Erva usada como condimento",
+      "answer": "ALHOPORO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Norma definida pelo Estado",
+      "answer": "LEI",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Corpo celeste",
+      "answer": "ASTRO",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "(Ingl.) Patinete",
+      "answer": "SCOOTER",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Pôr em fila",
+      "answer": "ALINHAR",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Poeta",
+      "answer": "RIMADOR",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Separar a briga",
+      "answer": "APARTAR",
+      "row": 4,
+      "col": 10
+    },
+    "23": {
+      "clue": "Sociedade secreta",
+      "answer": "SEITA",
+      "row": 5,
+      "col": 7
+    },
+    "26": {
+      "clue": "A cantora Zizi, da MPB",
+      "answer": "POSSI",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Cláusulas de um documento",
+      "answer": "ITENS",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Em jogos de azar, o bolo",
+      "answer": "MESA",
+      "row": 7,
+      "col": 2
+    },
+    "32": {
+      "clue": "A irmã da mãe",
+      "answer": "TIA",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Tonico Pereira, ator",
+      "answer": "TP",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "T",
+      "answer": "TE",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

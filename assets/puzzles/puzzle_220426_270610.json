@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Consciência individual",
+      "answer": "MENTE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Equipes",
+      "answer": "TIMES",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Instituto de Cardiologia",
+      "answer": "IC",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Placa que reveste peixes e répteis",
+      "answer": "ESCAMA",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Aptidão para fazer algo",
+      "answer": "DOM",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Fruto de polpa branca e casca vermelha ou verde",
+      "answer": "MAÇÃ",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Sigla do estado de Pedra Azul e Monte Verde",
+      "answer": "MG",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Amante (fem.)",
+      "answer": "AMADORA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Fluido produzido por abelhas",
+      "answer": "MEL",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Fécula usada em caldos e sopas",
+      "answer": "SEMOLA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Um animal como a Margarida, da Disney",
+      "answer": "PATA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "O almirante que é o patrono da Marinha do Brasil (1807-1897)",
+      "answer": "TAMANDARE",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Abrev.: senhorita",
+      "answer": "SRTA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "A primeira marca de pneus para automóveis",
+      "answer": "DUNLOP",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "A marca coreana dos automóveis Soul e Picanto",
+      "answer": "KIA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Planta da mesma família do álamo",
+      "answer": "VIMEIRO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Um tamanho de pilha",
+      "answer": "AA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Furo por onde a pele sua",
+      "answer": "PORO",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Segue o 999",
+      "answer": "MIL",
+      "row": 8,
+      "col": 8
+    },
+    "31": {
+      "clue": "(Pop.) Vale profundo e escarpado",
+      "answer": "PAVUNA",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "(Pop.) Ok!",
+      "answer": "TA",
+      "row": 9,
+      "col": 9
+    },
+    "34": {
+      "clue": "Planta usada como condimento",
+      "answer": "ENDRO",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Sensação de ameaça",
+      "answer": "TEMOR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O rei que transformava em ouro tudo o que tocasse",
+      "answer": "MIDAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Fís.) Estudo da reflexão dos sons",
+      "answer": "ECOMETRIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "T",
+      "answer": "TE",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Dádiva caridosa feita aos pobres",
+      "answer": "ESMOLA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Copo usado para beber champanhe",
+      "answer": "TAÇA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Ferro magnético",
+      "answer": "IMÃ",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Sigla de uma UF que faz divisa com o PI",
+      "answer": "MA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A do Rio Grande do Norte é RN",
+      "answer": "SIGLA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "O antigo presídio paulistano, marcado por um massacre de presos",
+      "answer": "CARANDIRU",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Trabalho fácil e rendoso",
+      "answer": "MAMATA",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Pedaço de matéria cósmica que cai na Terra",
+      "answer": "METEORITO",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Ação de amansar (animal)",
+      "answer": "DOMA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Um dos peixes mais apreciados para a pesca oceânica",
+      "answer": "MARLIM",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Falha no funcionamento de um motor, forçando sua parada",
+      "answer": "PANE",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "O ator José, de \"Abril Despedaçado\" e \"Memórias do Cárcere\"",
+      "answer": "DUMONT",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Esporte muito praticado por jovens, em pistas ruas e praças",
+      "answer": "SKATE",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Urso-) Grande urso branco das regiões árticas",
+      "answer": "POLAR",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "O pai da mãe, na linguagem infantil",
+      "answer": "VOVO",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Um número como 8 ou 70",
+      "answer": "PAR",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Pede Deferimento",
+      "answer": "PD",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "As duas primeiras vogais",
+      "answer": "AE",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

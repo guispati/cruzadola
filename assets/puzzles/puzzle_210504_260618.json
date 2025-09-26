@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Azedo, picante",
+      "answer": "ACRE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Ter fé",
+      "answer": "CRER",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "O estômago triturador das aves",
+      "answer": "MOELA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Ao lugar que",
+      "answer": "AONDE",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "(Lat.) E outras coisas",
+      "answer": "ETCETERA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Wagner Tiso, músico e compositor",
+      "answer": "WT",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "O que é indesejável",
+      "answer": "MAL",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Oficina de escultor",
+      "answer": "ESTUDIO",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Um curso de água como o Nilo",
+      "answer": "RIO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "O político russo Vladimir, presidente do país",
+      "answer": "PUTIN",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Símbolos como o 9 ou o 1.145",
+      "answer": "NUMEROS",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Ladrar",
+      "answer": "LATIR",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "(Sigla ingl.) Em informática, memória apenas de leitura",
+      "answer": "ROM",
+      "row": 6,
+      "col": 7
+    },
+    "26": {
+      "clue": "Picar com ferrão",
+      "answer": "FERROAR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Uma arte de vanguarda",
+      "answer": "POP",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Abreviatura de ultravioleta",
+      "answer": "UV",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Dominado com brutalidade, com violência",
+      "answer": "OPRIMIDO",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Grande peixe de pele sem escamas",
+      "answer": "BAGRE",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Speed) Desenho de sucesso nos anos 60",
+      "answer": "RACER",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Superfície plana delimitada",
+      "answer": "AREA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "A que ponto",
+      "answer": "COMO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A palavra do fim das orações",
+      "answer": "AMEM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Determinar um preço",
+      "answer": "COTAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Fazer afastar da posição perpendicular",
+      "answer": "RECLINAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "L",
+      "answer": "ELE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Comparsa",
+      "answer": "COAUTOR",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "Sigla do estado das cidades de João Câmara e Natal",
+      "answer": "RN",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "O ator paulistano Luisi",
+      "answer": "EDWIN",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Que não é torto",
+      "answer": "RETO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Sem exceção de",
+      "answer": "ATE",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "O político mineiro Bernardes (1875-1955), ex-presidente da República",
+      "answer": "ARTUR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Confiar na possibilidade de conseguir algo",
+      "answer": "ESPERAR",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Que sofre de alguma imperfeição de visão",
+      "answer": "DISOPICO",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Antigamente",
+      "answer": "OUTRORA",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Cegueta",
+      "answer": "MIOPE",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Portar algo para dar ou entregar a alguém",
+      "answer": "LEVAR",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Conecta o computador à rede de telefonia",
+      "answer": "MODEM",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "A base da polenta",
+      "answer": "FUBA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Uma maneira de mostrar alegria",
+      "answer": "RIR",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "O furinho por onde a pele respira",
+      "answer": "PORO",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "(Abrev.) O nome dos computadores da Apple",
+      "answer": "MAC",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "General Eletric",
+      "answer": "GE",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

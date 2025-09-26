@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Fazer deitar",
+      "answer": "ACAMAR",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Um apelido de Alexandre",
+      "answer": "ALEX",
+      "row": 0,
+      "col": 7
+    },
+    "11": {
+      "clue": "(Gír.) Movimento da rua, de uma multidão",
+      "answer": "AGITO",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Sem valor (fem.)",
+      "answer": "NULA",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Cidade paranaense da região de Cascavel",
+      "answer": "IBEMA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Populoso bairro paulistano",
+      "answer": "ITAIM",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Mal causado por falta de vitamina B1",
+      "answer": "BERIBERI",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Santo Padre",
+      "answer": "SP",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Um grande sucesso de Adoniran Barbosa",
+      "answer": "IRACEMA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "(-d'água) Bêbado, ébrio",
+      "answer": "PAU",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "Brusco, ríspido",
+      "answer": "TARASCO",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "(Maravilha) Famoso atacante do futebol",
+      "answer": "FIO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "O ator Cage, de \"Motoqueiro Fantasma\"",
+      "answer": "NICOLAS",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "Um gigante bíblico",
+      "answer": "OG",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Dança antiga, ao som de flautas",
+      "answer": "CALINICO",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "Seguir em direção de",
+      "answer": "RUMAR",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "(Secas) Obra de Graciliano Ramos, história sobre retirantes nordestinos",
+      "answer": "VIDAS",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "(Bíbl.) O irmão de Abel",
+      "answer": "CAIM",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Fr.) Ornamentação da cena de um teatro",
+      "answer": "DECOR",
+      "row": 9,
+      "col": 5
+    },
+    "34": {
+      "clue": "Princípio de vida no homem",
+      "answer": "ALMA",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Aplicar Cl à água, para purificá-la",
+      "answer": "CLORAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Pertencer por direito",
+      "answer": "CABER",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Que não envelhece",
+      "answer": "AGERATO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A gesticulação de modo expressivo",
+      "answer": "MIMICA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Vender por miúdo",
+      "answer": "ATABERNAR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Sigla do estado de Ariquemes e Cacoal",
+      "answer": "RO",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Prefixo que indica oposição",
+      "answer": "ANTI",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Meta espacial alcançada pelos norte-americanos em 1969",
+      "answer": "LUA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Um nome de mulher",
+      "answer": "ELISA",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Mistura à base de sabão usada para lavar os cabelos",
+      "answer": "XAMPU",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "O meio da... tíbia",
+      "answer": "IBI",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Propenso à cólera",
+      "answer": "IRASCIVEL",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "(Ingl.) Correio eletrônico",
+      "answer": "EMAIL",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Lustrador",
+      "answer": "POLIDOR",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Em forma de cone",
+      "answer": "CONICO",
+      "row": 5,
+      "col": 7
+    },
+    "22": {
+      "clue": "Jogo de adivinhação de palavras",
+      "answer": "FORCA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Uniforme",
+      "answer": "IGUAL",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Bolinho baiano à base de feijão",
+      "answer": "ACARA",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Pedido de socorro",
+      "answer": "SOS",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "(de gato) Um lance faltoso no futebol",
+      "answer": "CAMA",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Forma oblíqua de eu, sempre regida de preposição",
+      "answer": "MIM",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "600, em algarismos romanos",
+      "answer": "DC",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

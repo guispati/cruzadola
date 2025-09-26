@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "A capital senegalesa",
+      "answer": "DACAR",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "A parte transparente do ovo",
+      "answer": "CLARA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "(Open) Importante torneio de tênis realizado nos EUA",
+      "answer": "US",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Causar indignação",
+      "answer": "REVOLTAR",
+      "row": 1,
+      "col": 3
+    },
+    "13": {
+      "clue": "Demorar",
+      "answer": "ATARDAR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Equipamentos que protegem o operário",
+      "answer": "EPI",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Sentimento de necessidade de tomar um líquido",
+      "answer": "SEDE",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Independentes",
+      "answer": "LIVRES",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Declarar culpado",
+      "answer": "CONDENAR",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Um planeta que se supunha habitado",
+      "answer": "MARTE",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Combinação, acordo",
+      "answer": "TRATO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "(Anat.) Porção do osso temporal correspondente à parte do crânio situada atrás do pavilhão auricular",
+      "answer": "MASTOIDE",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Para sempre (fem.)",
+      "answer": "ETERNA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "A d'Azur é uma região turística da França",
+      "answer": "COTE",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Dicionário",
+      "answer": "DIC",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Criar pus",
+      "answer": "ULCERAR",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Plantação de certas árvores frutíferas",
+      "answer": "AMENDOAL",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Novo sem vogais",
+      "answer": "NV",
+      "row": 9,
+      "col": 9
+    },
+    "36": {
+      "clue": "Planta cujas folhas servem de forragem",
+      "answer": "SORGO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Pequena extensão de água estagnada",
+      "answer": "LAGOA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "2 (Fem.)",
+      "answer": "DUAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Povo que habitava o México antes da conquista espanhola",
+      "answer": "ASTECA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Dizer bravatas",
+      "answer": "ARRENTAR",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Vermelho, na Austrália",
+      "answer": "RED",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Uma das mais ricas cidades da antiga Grécia",
+      "answer": "CORINTO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Leila sem vogais",
+      "answer": "LL",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Que incute grande pavor",
+      "answer": "ATERRADOR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Tabaco em pó fino",
+      "answer": "RAPE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Desconfiado",
+      "answer": "ARISCO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "(-refeição) Tíquete-restaurante",
+      "answer": "VALE",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Começar a dormir",
+      "answer": "ADORMECER",
+      "row": 2,
+      "col": 2
+    },
+    "18": {
+      "clue": "Uma doença própria da infância",
+      "answer": "VARICELA",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Sem roupas",
+      "answer": "DESNUDO",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Valem 1, 5, 10, 25 e 50 centavos e também 1 real",
+      "answer": "MOEDAS",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Doença caracterizada por espasmos e rigidez muscular",
+      "answer": "TETANO",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Corpo vegetativo de algas e fungos",
+      "answer": "TALO",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Uma glândula endócrina localizada no tórax",
+      "answer": "TIMO",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Folhas do chá, secas e trituradas",
+      "answer": "ERVA",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "A viva é pura e a apagada é misturada com água",
+      "answer": "CAL",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Nelson Gonçalves (1919-1998), cantor gaúcho",
+      "answer": "NG",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

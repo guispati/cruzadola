@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um computador pessoal",
+      "answer": "TABLET",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Um estilo musical muito difundido",
+      "answer": "JAZZ",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Transitar, passar",
+      "answer": "TRAFEGAR",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Um ato como o assalto",
+      "answer": "CRIME",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Carro off-road produzido até a década de 1970",
+      "answer": "RURAL",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Grande quantidade de roedores muito comuns",
+      "answer": "RATARIA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "A décima terceira hora",
+      "answer": "UMA",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Sigla inglesa de uma grande potência",
+      "answer": "USA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Irritar",
+      "answer": "ENFADAR",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "A última e a primeira letra do nosso alfabeto",
+      "answer": "ZA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Estimular a um comportamento determinado",
+      "answer": "INCITAR",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Recortar na forma de pequenas saliências",
+      "answer": "DENTEAR",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Eudóxia de Barros, pianista paulista",
+      "answer": "EB",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Meios de vida",
+      "answer": "POSSES",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Casa de blocos de gelo usada por esquimós",
+      "answer": "IGLU",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "(Não por) Locução que significa de nada",
+      "answer": "ISSO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Fazer desenho indelével na pele",
+      "answer": "TATUAR",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Conjunto de roupas e acessórios de quem se casa",
+      "answer": "ENXOVAL",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Quadrúpedes abatidos para a alimentação do homem",
+      "answer": "RESES",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "(Mús.) Um piano antigo",
+      "answer": "CRAVO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Parcelas não recebidas e acumuladas de um pagamento",
+      "answer": "ATRASADOS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Pedra para construções",
+      "answer": "BRITA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Terra mais ou menos empapada em água",
+      "answer": "LAMA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Que leva para fora",
+      "answer": "EFERENTE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Multiplica o uso da tomada",
+      "answer": "TE",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Cidade e rio do estado de São Paulo",
+      "answer": "JAU",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O estádio do Santa Cruz, em Recife",
+      "answer": "ARRUDA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Tomar conta de",
+      "answer": "ZELAR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Maneira de escrever as palavras",
+      "answer": "GRAFIA",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "O sinal do positivo nas baterias",
+      "answer": "CRUZ",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Da cor da gema do ovo",
+      "answer": "AMARELA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "União sexual entre parentes consanguíneos",
+      "answer": "INCESTO",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Friccionar",
+      "answer": "ATRITAR",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Desperto",
+      "answer": "INSONE",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "São 4 em assessor",
+      "answer": "ESSES",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "No jogo do bicho, o grupo das dezenas 9, 10, 11, 12",
+      "answer": "BURRO",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Cais",
+      "answer": "PIER",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Vício capital que envolve comidas e bebidas",
+      "answer": "GULA",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Acidente Vascular Cerebral",
+      "answer": "AVC",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Xis sem i",
+      "answer": "XS",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

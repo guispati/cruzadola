@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Dito engraçado",
+      "answer": "PIADA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Ficar gostando ardentemente",
+      "answer": "GAMAR",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Tendência característica",
+      "answer": "INDOLE",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Filho de jumento com égua",
+      "answer": "MULA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "O pianista e músico polonês Frédéric (1810-1849)",
+      "answer": "CHOPIN",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "A Vênus dos egípcios",
+      "answer": "ISIS",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "(Fig.) Automóvel desconjuntado, em estado lamentável",
+      "answer": "LATA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Vive em acampamentos",
+      "answer": "CIGANO",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Saída de gases pela boca",
+      "answer": "ARROTO",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Estar, encontrar-se",
+      "answer": "SER",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Abreviatura de lés-sudeste",
+      "answer": "ESE",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Uma perturbação mental",
+      "answer": "TOC",
+      "row": 5,
+      "col": 8
+    },
+    "26": {
+      "clue": "Cadenciar",
+      "answer": "RITMAR",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "Bicho gelatinoso",
+      "answer": "MEDUSA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Um craque da história do futebol",
+      "answer": "ZICO",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Traduzir a palavra ou o pensamento em fatos",
+      "answer": "AGIR",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Lutar com armas iguais",
+      "answer": "DUELAR",
+      "row": 8,
+      "col": 5
+    },
+    "35": {
+      "clue": "Sinal em forma de flecha usado para indicar rumo",
+      "answer": "SETA",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Afluxo de líquidos",
+      "answer": "ONDADA",
+      "row": 9,
+      "col": 5
+    },
+    "37": {
+      "clue": "Conjunto de pessoas que descendem de um casal",
+      "answer": "PROLE",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "O desejo de quem passa mal",
+      "answer": "SARAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Legumes em vinagre",
+      "answer": "PICLES",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Fem.) Sufixo diminutivo",
+      "answer": "INHA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Tomar, assumir",
+      "answer": "ADOTAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Fazer ingerir droga",
+      "answer": "DOPAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Naquele lugar",
+      "answer": "ALI",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Que denota afeição ou carinho",
+      "answer": "AMIGO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "A mulher que é a inspiração de um poeta",
+      "answer": "MUSA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Qualidade do que é feito com apuro",
+      "answer": "ALINHO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Em geometria, ângulo de 180º",
+      "answer": "RASO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Apoiado",
+      "answer": "ENCOSTADO",
+      "row": 1,
+      "col": 5
+    },
+    "18": {
+      "clue": "Artigo de exposição escrita",
+      "answer": "ITEM",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "São quatro em um baralho",
+      "answer": "REIS",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Escolher entre vários",
+      "answer": "ELEGER",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Soar o apito",
+      "answer": "TRILAR",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "Pechinchar o preço de algo",
+      "answer": "CHORAR",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Do campo",
+      "answer": "RURAL",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Áspera como o vinagre",
+      "answer": "AZEDA",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Sigla de um importante museu paulistano",
+      "answer": "MASP",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "(-cujo) Sujeito",
+      "answer": "DITO",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "Qualquer elemento de um conjunto",
+      "answer": "CADA",
+      "row": 7,
+      "col": 9
+    },
+    "34": {
+      "clue": "Pouco mais ou menos",
+      "answer": "UNS",
+      "row": 8,
+      "col": 6
+    }
+  }
+}

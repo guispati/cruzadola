@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Impressionar favoravelmente",
+      "answer": "BOMBAR",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "A primeira emissora de TV do Brasil",
+      "answer": "TUPI",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Arbusto de frutos amarelos, bons para suco",
+      "answer": "UVAIEIRA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Prefixo que exprime a ideia de negação",
+      "answer": "AN",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Cabaça partida ao meio",
+      "answer": "CUIA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Novilha de menos de um ano",
+      "answer": "VITELA",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Saudação entre pessoas íntimas",
+      "answer": "ALO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Amadurecer",
+      "answer": "MATURAR",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "O símbolo químico do rádio",
+      "answer": "RA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "O goleiro bicampeão mundial pelo Brasil em 1958 e 1962",
+      "answer": "GILMAR",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Plantação de mate",
+      "answer": "ERVAL",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "O oposto de novo",
+      "answer": "IDOSO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Desconfiado",
+      "answer": "ARISCO",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "(Ingl.) United Nations",
+      "answer": "UN",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "O violonista Santos",
+      "answer": "TURIBIO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "1.002, em romanos",
+      "answer": "MII",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "O político Franco (1930-2011), ex-presidente da República",
+      "answer": "ITAMAR",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Edifício com a câmara municipal",
+      "answer": "PAÇO",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "(Quím.) O símbolo do níquel",
+      "answer": "NI",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "A ordem de homens e macacos",
+      "answer": "PRIMATAS",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "O órgão da visão",
+      "answer": "OLHO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Líquido",
+      "answer": "AQUOSO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um romeno da capital",
+      "answer": "BUCARESTINO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "De forma semelhante à de um óvulo",
+      "answer": "OVULAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O mês das noivas",
+      "answer": "MAIO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A Haddad Maia, melhor tenista do país atualmente",
+      "answer": "BIA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Autarquia Estadual",
+      "answer": "AE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Adversário",
+      "answer": "RIVAL",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Aquele que tem desenhos gravados no corpo",
+      "answer": "TATUADO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Aba de boné",
+      "answer": "PALA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Que não produz, no ouvido, um efeito agradável",
+      "answer": "INARMONIOSO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Bem cadenciado",
+      "answer": "RITMICO",
+      "row": 1,
+      "col": 6
+    },
+    "15": {
+      "clue": "Desacerto, engano",
+      "answer": "ERRO",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Uma unidade de pressão",
+      "answer": "MILIBAR",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "O ilegal é um grande problema para a região amazônica",
+      "answer": "GARIMPO",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "(Salto com) Uma modalidade do atletismo",
+      "answer": "VARA",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Barba das laterais da face, das orelhas as laterais da boca",
+      "answer": "SUIÇAS",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Damasco é a sua capital",
+      "answer": "SIRIA",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Que tem préstimo",
+      "answer": "UTIL",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "O M do MS",
+      "answer": "MATO",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Pedaço de madeira",
+      "answer": "PAU",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "Mário Quintana (1906-1994), poeta gaúcho",
+      "answer": "MQ",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

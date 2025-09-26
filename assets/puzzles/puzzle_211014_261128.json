@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Energia elétrica acumulada",
+      "answer": "CARGA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Menino que integra o cortejo de um casamento",
+      "answer": "PAJEM",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Peça de metal, geralmente circular, usada em transações monetárias",
+      "answer": "MOEDA",
+      "row": 1,
+      "col": 1
+    },
+    "13": {
+      "clue": "Tarifa",
+      "answer": "TAXA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "A da gazela é uma obra de José de Alencar",
+      "answer": "PATA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Cantar melodiosamente (pássaro)",
+      "answer": "TRINAR",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "(Fig.) Aborrecer, atormentar",
+      "answer": "APERREAR",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Voz imitativa do balido da ovelha ou da cabra",
+      "answer": "ME",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "Gil em relação a Preta",
+      "answer": "PAI",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "1x1 ou 0x0",
+      "answer": "EMPATE",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "Abertura nos fornos para dar saída à fumaça",
+      "answer": "RESPIRO",
+      "row": 5,
+      "col": 2
+    },
+    "26": {
+      "clue": "(Celtics) Um dos grandes times de basquetre dos EUA",
+      "answer": "BOSTON",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "O cantor e compositor Jaime",
+      "answer": "LEO",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "(Mús.) O F dos músicos",
+      "answer": "FA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Felicitações",
+      "answer": "PARABENS",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "Armação que permite a estabilidade de um barco fundeado",
+      "answer": "ANCORA",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Fam.) Travessura de criança",
+      "answer": "ARTE",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "O dramaturgo Gomes (1923-1999), de \"Roque Santeiro\"",
+      "answer": "DIAS",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Preencher, completar",
+      "answer": "LOTAR",
+      "row": 9,
+      "col": 5
+    },
+    "38": {
+      "clue": "Estar situado à beira de",
+      "answer": "ORLAR",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Corrida de cavalos",
+      "answer": "PAREO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Estado brasileiro da Região Norte, com capital Macapá",
+      "answer": "AMAPA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Descrição pormenorizada de uma viagem",
+      "answer": "ROTEIRO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Congelar o orvalho",
+      "answer": "GEAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Alexandre Dumas (1802-1870), escritor francês de \" Os Três Mosqueteiros\"",
+      "answer": "AD",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Disparar (uma arma de fogo)",
+      "answer": "ATIRAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O período entre Dez e Fev",
+      "answer": "JAN",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Análise minuciosa",
+      "answer": "EXAME",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "(Fig.) Circunstância",
+      "answer": "MARE",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Que é sempre atual",
+      "answer": "ATEMPORAL",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Na linguagem infantil, qualquer alimento",
+      "answer": "PAPA",
+      "row": 2,
+      "col": 0
+    },
+    "16": {
+      "clue": "Roubo feito com violência",
+      "answer": "RAPINA",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "Sobejar",
+      "answer": "RESTAR",
+      "row": 3,
+      "col": 4
+    },
+    "22": {
+      "clue": "Suportar",
+      "answer": "TOLERAR",
+      "row": 4,
+      "col": 8
+    },
+    "24": {
+      "clue": "Um dos cônjuges",
+      "answer": "ESPOSA",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Postura",
+      "answer": "POSE",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Exilar",
+      "answer": "BANIR",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "No meio",
+      "answer": "ENTRE",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Canção e dança populares de Portugal",
+      "answer": "FADO",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Blusa leve, que se usa solta",
+      "answer": "BATA",
+      "row": 7,
+      "col": 7
+    },
+    "33": {
+      "clue": "O ligante essencial da alvenaria",
+      "answer": "CAL",
+      "row": 8,
+      "col": 2
+    },
+    "37": {
+      "clue": "(Mús.) Abreviatura de opus (obra)",
+      "answer": "OP",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

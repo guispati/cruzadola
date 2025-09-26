@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Acima",
+      "answer": "SUPRA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Um microrganismo patogênico",
+      "answer": "VIRUS",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Antiga moeda brasileira de prata",
+      "answer": "PATACA",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "A comercial é o mesmo que loja",
+      "answer": "CASA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Conjunção de valor disjuntivo",
+      "answer": "OU",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Benta) A vó de Narizinho e Pedrinho",
+      "answer": "DONA",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "(Abrev. ingl.) Churrasco",
+      "answer": "BBQ",
+      "row": 2,
+      "col": 8
+    },
+    "18": {
+      "clue": "Inflorescência como a da estrelítzia",
+      "answer": "CICINIO",
+      "row": 3,
+      "col": 2
+    },
+    "20": {
+      "clue": "Torcedor do Fluminense ou do Grêmio",
+      "answer": "TRICOLOR",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Sigla do Ceará",
+      "answer": "CE",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Fazer vigília ao pé de um defunto",
+      "answer": "VELAR",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Tronco de madeira",
+      "answer": "TORA",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "Local em rios onde há pouco peixe",
+      "answer": "PIRAPANEMA",
+      "row": 6,
+      "col": 1
+    },
+    "29": {
+      "clue": "Fita metálica flexível usada em telefonia",
+      "answer": "FIO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Oferecer como homenagem",
+      "answer": "DEDICAR",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Universidade Católica",
+      "answer": "UC",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Caduco, decrépito",
+      "answer": "COROCA",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "(Madame) Filme estrelado por Lázaro Ramos",
+      "answer": "SATÃ",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Utensílios e trastes velhos",
+      "answer": "TRALHA",
+      "row": 9,
+      "col": 5
+    },
+    "37": {
+      "clue": "Estilo musical e de dança originários da Bahia",
+      "answer": "ARROCHA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Interpretar o que está escrito",
+      "answer": "LER",
+      "row": 10,
+      "col": 8
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(TV) Um canal voltado para esportes",
+      "answer": "SPORTV",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Muito bom!",
+      "answer": "UAU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Pop.) Perda total",
+      "answer": "PT",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Consolidar",
+      "answer": "RADICAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Agachado",
+      "answer": "ACOCORADO",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Instituto de Cardiologia",
+      "answer": "IC",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O de cavalo é um penteado",
+      "answer": "RABO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Abreviatura de uma entrada para conexão do computador",
+      "answer": "USB",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "A primeira raquetada de cada ponto do tênis",
+      "answer": "SAQUE",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Cor compreendida entre o azul e o violeta, no espectro solar",
+      "answer": "ANIL",
+      "row": 1,
+      "col": 5
+    },
+    "16": {
+      "clue": "Aquela que toma apontamentos",
+      "answer": "ANOTADORA",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "Pelo das pálpebras",
+      "answer": "CILIO",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Sarcástica",
+      "answer": "IRONICA",
+      "row": 3,
+      "col": 7
+    },
+    "21": {
+      "clue": "Tocar (o sino)",
+      "answer": "REPICAR",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Móvel usado para dormir e descansar",
+      "answer": "CAMA",
+      "row": 4,
+      "col": 9
+    },
+    "25": {
+      "clue": "(Ingl.) Chamada feita para correção em falha de produto",
+      "answer": "RECALL",
+      "row": 5,
+      "col": 8
+    },
+    "27": {
+      "clue": "Cidade australiana da costa oeste do país",
+      "answer": "PERTH",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Preparar, providenciar",
+      "answer": "ARMAR",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Um sinal musical",
+      "answer": "FUSA",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Cachorro",
+      "answer": "CÃO",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Tony Ramos, ator de \"Se Eu Fosse Você\"",
+      "answer": "TR",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Ele, em Nova York",
+      "answer": "HE",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Aquele que cura, doutor",
+      "answer": "MEDICO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Abrev.) Limitada",
+      "answer": "LTDA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Pedaço pequeno de linha",
+      "answer": "FIAPO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Abrev.: Romênia",
+      "answer": "ROM",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "(Ingl.) Na guerra, setor mais avançado das tropas",
+      "answer": "FRONT",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Palhinha extraída de uma palmeira, usada em móveis",
+      "answer": "RATÃ",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Desligado, em inglês",
+      "answer": "OFF",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Doutrina o oposto dos dogmas da igreja",
+      "answer": "HEREGE",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "A letra que separa o esse e o u",
+      "answer": "TE",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Perfeição de formas",
+      "answer": "BELEZA",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Cidade mineira na divisa com o ES",
+      "answer": "ALTOCAPARAO",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Pôr em plano superior",
+      "answer": "ELEVAR",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "As consoantes de alínea",
+      "answer": "LN",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Desabrochar",
+      "answer": "FLORIR",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "201, em algarismos romanos",
+      "answer": "CCI",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Dividir em duas partes iguais",
+      "answer": "MEAR",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Espaço não ocupado",
+      "answer": "VAZIO",
+      "row": 8,
+      "col": 5
+    },
+    "31": {
+      "clue": "O Vicious do punk rock",
+      "answer": "SID",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "As partes das mãos onde são usados os anéis",
+      "answer": "DEDOS",
+      "row": 9,
+      "col": 6
+    },
+    "34": {
+      "clue": "Substância usada na limpeza de metais",
+      "answer": "CAOL",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Um pato da Disney",
+      "answer": "DONALD",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Miguel Falabella, ator e diretor e TV",
+      "answer": "MF",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A famosa torre parisiense",
+      "answer": "EIFFEL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um boleto da Receita Federal",
+      "answer": "DARF",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Lipo sem ele",
+      "answer": "IPO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Saber de",
+      "answer": "CONHECER",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Inalar a fumaça do cigarro",
+      "answer": "TRAGAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Dom de natureza",
+      "answer": "DOTE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A capital da Jordânia, país árabe do Oriente Médio",
+      "answer": "AMÃ",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Cidade de Israel, centro cultural e industrial",
+      "answer": "TELAVIV",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Orar",
+      "answer": "REZAR",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "A organização em que a Finlândia foi recentemente incluída",
+      "answer": "OTAN",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Consertado, restaurado",
+      "answer": "REPARADO",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Mofo",
+      "answer": "BOLOR",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "O cantor Garrido",
+      "answer": "TONI",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Entrançado com uma teia de arames",
+      "answer": "TELADO",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Líquido usado como combustível",
+      "answer": "ALCOOL",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "O antônimo de bonita",
+      "answer": "FEIA",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "A cantora paulistana Moreira",
+      "answer": "CIDA",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Mario Sergio Cortella, filósofo paranaense",
+      "answer": "MSC",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Calmo",
+      "answer": "ZEN",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Abreviatura de Sem Data, usada em bibliografias",
+      "answer": "SD",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

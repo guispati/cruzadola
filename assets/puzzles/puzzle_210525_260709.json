@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Quindim, brigadeiro e manjar",
+      "answer": "DOCES",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Matéria-prima para blocos e agendas",
+      "answer": "PAPEL",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Elvis Presley (1935-1977), cantor e ator",
+      "answer": "EP",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "(Pop.) Agente de polícia",
+      "answer": "TIRA",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Ímpeto",
+      "answer": "ELÃ",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Serviço de Inspeção Federal",
+      "answer": "SIF",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Rel.) Pregação",
+      "answer": "SERMÃO",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "Que tem forma de pena",
+      "answer": "CALAMIDEO",
+      "row": 3,
+      "col": 0
+    },
+    "20": {
+      "clue": "Poder ter ou conter (pessoas, animais, etc.)",
+      "answer": "ACOMODAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "V",
+      "answer": "VE",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "A atriz Holtz das novelas",
+      "answer": "VERA",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Ingl.) Processador",
+      "answer": "CHIP",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "As vogais de trapo",
+      "answer": "AO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Redução do desenvolvimento de animais, em especial insetos, relacionada às estações do ano",
+      "answer": "DIAPAUSA",
+      "row": 6,
+      "col": 3
+    },
+    "29": {
+      "clue": "Dobrar sobre si (objeto ou parte do corpo)",
+      "answer": "CONTORCER",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "(Pop.) Ceder ao cansaço",
+      "answer": "MORGAR",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "(Kat) Um doce de wafer coberto com chocolate",
+      "answer": "KIT",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "O nosso yes",
+      "answer": "SIM",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Recipiente para recolher votos",
+      "answer": "URNA",
+      "row": 9,
+      "col": 4
+    },
+    "35": {
+      "clue": "(Sigla) Regimento de Infantaria",
+      "answer": "RI",
+      "row": 9,
+      "col": 9
+    },
+    "36": {
+      "clue": "Não montanhosa",
+      "answer": "PLANA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "A capacidade visual",
+      "answer": "OLHAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Tirar a terra de",
+      "answer": "DESCAVAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Relativo ao suco que se extrai da papoula",
+      "answer": "OPIACEO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Abreviatura de extraterrestre",
+      "answer": "ET",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Outro nome do terremoto",
+      "answer": "SISMO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Mulata",
+      "answer": "PARDA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "O auxiliar do boiadeiro",
+      "answer": "PEÃO",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "União",
+      "answer": "ELO",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Fibra mais quente do que o algodão",
+      "answer": "LÃ",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Fazer com que o organismo readquira água",
+      "answer": "REIDRATAR",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "A parte mais bela da planta",
+      "answer": "FLOR",
+      "row": 2,
+      "col": 2
+    },
+    "16": {
+      "clue": "Fazer comércio",
+      "answer": "MERCAR",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "O oposto de profissional",
+      "answer": "AMADOR",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Distribuir",
+      "answer": "REPARTIR",
+      "row": 3,
+      "col": 10
+    },
+    "21": {
+      "clue": "Pala dianteira do boné, para proteção do rosto e dos olhos",
+      "answer": "VISEIRA",
+      "row": 4,
+      "col": 9
+    },
+    "24": {
+      "clue": "O apresentador de TV Luciano",
+      "answer": "HUCK",
+      "row": 5,
+      "col": 8
+    },
+    "27": {
+      "clue": "(Med.) Adenite, bubão",
+      "answer": "INGUA",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "(Pop.) Diz-se de filme que demonstra luxúria ou libidinagem",
+      "answer": "PORNO",
+      "row": 6,
+      "col": 6
+    },
+    "29": {
+      "clue": "Cabelo grande",
+      "answer": "COMA",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "O número que segue o 999",
+      "answer": "MIL",
+      "row": 8,
+      "col": 1
+    },
+    "32": {
+      "clue": "Sigla do estado de Ribeirão Preto e Ribeirão Pires",
+      "answer": "SP",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "O Capone gângster",
+      "answer": "AL",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

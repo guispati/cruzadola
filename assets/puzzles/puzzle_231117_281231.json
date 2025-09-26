@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "Coisa difícil de definir, mistério",
+      "answer": "ENIGMA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Uma parte fundamental da picareta",
+      "answer": "CABO",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "O apresentador de TV Marcos",
+      "answer": "MION",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Sensação de vazio interior, sem causa aparente",
+      "answer": "ESPLIM",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "A sede da Unesco",
+      "answer": "ONU",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Trânsito de veículos em vias públicas",
+      "answer": "TRAFEGO",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Tom Hanks, ator de \"The Post: A Guerra Secreta\"",
+      "answer": "TH",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "A parte do navio oposta à popa",
+      "answer": "PROA",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "As vogais de guru",
+      "answer": "UU",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Praticante de um método de autodisciplina hindu",
+      "answer": "IOGUE",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Mordiscar",
+      "answer": "RATAR",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Sarrafo, ripa",
+      "answer": "RIPEIRA",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Uma obra como \"Rigoletto\"",
+      "answer": "OPERA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Sentimento de apreensão",
+      "answer": "ANSIA",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "Isabela Garcia, atriz carioca",
+      "answer": "IG",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Situado entre o oitavo e o décimo",
+      "answer": "NONO",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Vanderlei Luxemburgo, técnico de futebol",
+      "answer": "VL",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "O gás usado pelos balonistas",
+      "answer": "PROPANO",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "O ator Pesci, de \"Esqueceram de Mim\"",
+      "answer": "JOE",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "Molusco também chamado mexilhão-das-pedras",
+      "answer": "SURURU",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Cidade da França, capital da Mosela",
+      "answer": "METZ",
+      "row": 9,
+      "col": 7
+    },
+    "37": {
+      "clue": "O gê do LGBT",
+      "answer": "GAYS",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "(Med.) Uma grave infecção",
+      "answer": "SEPSIA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Que se comove com facilidade",
+      "answer": "EMOTIVO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A casa dos passarinhos e seus filhotes",
+      "answer": "NINHO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "As três últimas vogais",
+      "answer": "IOU",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Guarda Nacional",
+      "answer": "GN",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Elemento de composição: ar",
+      "answer": "AERO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Cadastro de Pessoa Física",
+      "answer": "CPF",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Ilhas do mar de Behring, no Pacífico",
+      "answer": "ALEUTAS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Ave aquática de cauda, pescoço e bico muito alongados",
+      "answer": "BIGUA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Elemento de composição: ombro",
+      "answer": "OMO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Relativo ao maior deserto do globo",
+      "answer": "SAARIANO",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Perfurar a cavidade craniana com certo instrumento cirúrgico",
+      "answer": "TREPANAR",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Desgastar, friccionando",
+      "answer": "PUIR",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "O Peck ator de \"Os Canhões de Navarone\"",
+      "answer": "GREGORY",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Rio italiano, banha Florença e Pisa",
+      "answer": "ARNO",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Designação para uma série de reis",
+      "answer": "REALEZA",
+      "row": 4,
+      "col": 10
+    },
+    "25": {
+      "clue": "O que sobra da pipoca",
+      "answer": "PIRUA",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Cidade gaúcha próxima a Novo Hamburgo",
+      "answer": "IVOTI",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "Peso, encargo, geralmente em sentido moral",
+      "answer": "ONUS",
+      "row": 7,
+      "col": 5
+    },
+    "32": {
+      "clue": "Um dos melhores times europeus de futebol",
+      "answer": "PSG",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Líquido amarelado que se forma em feridas",
+      "answer": "PUS",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Grupo ao qual pertencem muitas tribos indígenas brasileiras",
+      "answer": "JES",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "Medida Provisória",
+      "answer": "MP",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

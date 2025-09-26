@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Tirar o NaCl do bacalhau",
+      "answer": "DESSALGAR",
+      "row": 0,
+      "col": 1
+    },
+    "8": {
+      "clue": "O símbolo do frâncio, em química",
+      "answer": "FR",
+      "row": 1,
+      "col": 0
+    },
+    "9": {
+      "clue": "Produto que substitui o original que se gastou",
+      "answer": "REFIL",
+      "row": 1,
+      "col": 3
+    },
+    "10": {
+      "clue": "Antonio Vivaldi (1678-1741), músico clássico",
+      "answer": "AV",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Do lugar",
+      "answer": "LOCAL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Fofa",
+      "answer": "MACIA",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Uma forma de abreviar o nome do mês 8",
+      "answer": "AGO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Certificado pela autoridade pública ou por uma autoridade competente",
+      "answer": "OFICIAL",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Nação com capital Acra",
+      "answer": "GANA",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Fibra sintética usada na confecção de maiôs, biquínis etc.",
+      "answer": "LAICRA",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "(Med.) Relativo à neoformação exagerada de um tecido local",
+      "answer": "TUMORAL",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Notabilizar",
+      "answer": "AFAMAR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Tira de madeira comprida e estreita",
+      "answer": "RIPA",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "As regiões dos glúteos",
+      "answer": "NADEGAS",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "A da abóbora é laranja",
+      "answer": "COR",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "(Pop.) Vaso sanitário",
+      "answer": "TRONO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "O tempo corrido desde o nascimento",
+      "answer": "IDADE",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Edith Piaf (1915-1963), cantora francesa",
+      "answer": "EP",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Tão grande",
+      "answer": "TANTO",
+      "row": 9,
+      "col": 3
+    },
+    "37": {
+      "clue": "A sigla do estado de Mário Quintana e Elis Regina",
+      "answer": "RS",
+      "row": 9,
+      "col": 9
+    },
+    "38": {
+      "clue": "Uma famosa novela da TV (2019)",
+      "answer": "AMORDEMÃE",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Interjeição de irritação",
+      "answer": "DROGA",
+      "row": 0,
+      "col": 1
+    },
+    "2": {
+      "clue": "Abreviatura de senhora",
+      "answer": "SRA",
+      "row": 0,
+      "col": 3
+    },
+    "3": {
+      "clue": "Estampilha usada em cartas",
+      "answer": "SELO",
+      "row": 0,
+      "col": 4
+    },
+    "4": {
+      "clue": "Air France",
+      "answer": "AF",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "(Fig.) O primeiro momento",
+      "answer": "LIMIAR",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Geleira",
+      "answer": "GLACIAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Iluminar intensamente",
+      "answer": "RAIAR",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Na linguagem jurídica, o crime no instante em que é cometido",
+      "answer": "FLAGRANTE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "(Governador) Grande cidade mineira",
+      "answer": "VALADARES",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "Calculado",
+      "answer": "CONTADO",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Periódica",
+      "answer": "CICLICA",
+      "row": 2,
+      "col": 8
+    },
+    "18": {
+      "clue": "O reino vegetal",
+      "answer": "FLORA",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Adição, elevação",
+      "answer": "AUMENTO",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Causar tristeza",
+      "answer": "MAGOAR",
+      "row": 5,
+      "col": 4
+    },
+    "25": {
+      "clue": "Lasca de madeira que fica presa na pele",
+      "answer": "FARPA",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Infecto, fétido",
+      "answer": "PODRE",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "(Pal. ingl.) Página da internet",
+      "answer": "SITE",
+      "row": 7,
+      "col": 6
+    },
+    "33": {
+      "clue": "Antecede Seg",
+      "answer": "DOM",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "Neil Diamond, músico do sucesso \"Sweet Caroline\"",
+      "answer": "ND",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

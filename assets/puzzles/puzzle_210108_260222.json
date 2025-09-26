@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um dos quatro naipes",
+      "answer": "COPAS",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Objeto usado para se escrever em quadro-negro",
+      "answer": "GIZ",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "(Uma) Gíria que significa coisíssima nenhuma",
+      "answer": "OVA",
+      "row": 1,
+      "col": 0
+    },
+    "9": {
+      "clue": "Uma rede de TV especializada em esportes",
+      "answer": "ESPN",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "O que muda de pato para palito",
+      "answer": "LI",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Atos exteriores",
+      "answer": "MOSTRAS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "99 + 1",
+      "answer": "CEM",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "(-bala) Um meio de transporte de alta velocidade",
+      "answer": "TREM",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Tudo o que serve para dar fundamento",
+      "answer": "BASE",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Qualquer sal de determinado ácido venenoso existente somente em solução",
+      "answer": "CIANURETO",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Timbre da voz",
+      "answer": "FONIA",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "O oposto de ralé",
+      "answer": "ELITE",
+      "row": 5,
+      "col": 6
+    },
+    "21": {
+      "clue": "Que compreende contos, novelas, romances etc.",
+      "answer": "NARRATIVO",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Comida que se põe num anzol para atrair o peixe e fisgá-lo",
+      "answer": "ISCA",
+      "row": 7,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Pop.) Jornalista novato",
+      "answer": "FOCA",
+      "row": 7,
+      "col": 5
+    },
+    "26": {
+      "clue": "Uma meta espacial alcançada pelos norte-americanos em 1969",
+      "answer": "LUA",
+      "row": 8,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Pop.) Pontapé com o ponta do calçado",
+      "answer": "BICANCA",
+      "row": 8,
+      "col": 4
+    },
+    "29": {
+      "clue": "(Abrev.) Hectolitro",
+      "answer": "HL",
+      "row": 9,
+      "col": 0
+    },
+    "30": {
+      "clue": "Parte amarelada do ovo",
+      "answer": "GEMA",
+      "row": 9,
+      "col": 3
+    },
+    "31": {
+      "clue": "Tão grande",
+      "answer": "TAL",
+      "row": 9,
+      "col": 8
+    },
+    "32": {
+      "clue": "Um sufixo da net",
+      "answer": "COM",
+      "row": 10,
+      "col": 2
+    },
+    "33": {
+      "clue": "Plaqueta que serve de base à porca",
+      "answer": "RUELA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "À medida que",
+      "answer": "COMO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Na França é oeuf",
+      "answer": "OVO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Planta de flores amarelas e raiz carnosa, com sabor adocicado",
+      "answer": "PASTINACA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Abrandar",
+      "answer": "SERENAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Guia da Previdência Social",
+      "answer": "GPS",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "O símbolo químico do índio",
+      "answer": "IN",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Vara flexível usada para fazer móveis, cestas etc.",
+      "answer": "VIME",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Um socorro de urgência",
+      "answer": "SAMU",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Nação africana com capital Maseru",
+      "answer": "LESOTO",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Peixe de escama, de água doce, carnívoro",
+      "answer": "TRAIRA",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Que inspira simpatia",
+      "answer": "CATIVANTE",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Da guerra (fem.)",
+      "answer": "BELICA",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Um representante diplomático",
+      "answer": "CONSUL",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "Modificar em alguns pontos",
+      "answer": "RETOCAR",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Qualitativamente semelhante",
+      "answer": "AFIM",
+      "row": 6,
+      "col": 5
+    },
+    "23": {
+      "clue": "Um acidente geográfico como Marajó ou Galápagos",
+      "answer": "ILHA",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "A voz articulada do homem",
+      "answer": "FALA",
+      "row": 7,
+      "col": 10
+    },
+    "27": {
+      "clue": "Direito",
+      "answer": "BEM",
+      "row": 8,
+      "col": 4
+    },
+    "28": {
+      "clue": "Ligante que se mistura com o cimento",
+      "answer": "CAL",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Sigla do estado de Caldas Novas",
+      "answer": "GO",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

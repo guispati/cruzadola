@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Idêntico",
+      "answer": "MESMO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Uma matéria-prima para editores",
+      "answer": "PAPEL",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "(Mulheres de) Uma novela que fez muito sucesso",
+      "answer": "AREIA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Energia",
+      "answer": "ANIMO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "No xadrez são 64",
+      "answer": "CASAS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "A atriz Glória, do filme \"Se Eu Fosse Você\"",
+      "answer": "PIRES",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Prover um avião do pessoal necessário para as manobras e serviços",
+      "answer": "TRIPULAR",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Ainda bem!",
+      "answer": "UFA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Vértebra de animal",
+      "answer": "SUÃ",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Glândula humana que mantém o equilíbrio hídrico do corpo",
+      "answer": "RIM",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Campeonato vencido por um indivíduo por duas vezes",
+      "answer": "BI",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "A UF de Porto Nacional e Palmas",
+      "answer": "TO",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "(Inform.) Tecla que geralmente fica ao lado da barra de espaço",
+      "answer": "ALT",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Automóvel fabricado pela Honda",
+      "answer": "FIT",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "O sujeito de perdoais ou culpais",
+      "answer": "VOS",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Peixe carnívoro dos rios São Francisco e Prata",
+      "answer": "TABARANA",
+      "row": 7,
+      "col": 1
+    },
+    "32": {
+      "clue": "Bramir, rugir",
+      "answer": "URRAR",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Enrubescer",
+      "answer": "CORAR",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Que tem boa saúde",
+      "answer": "SADIO",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Estado brasileiro da grande Região Norte",
+      "answer": "AMAPA",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "Tem muita areia",
+      "answer": "AREAL",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Dar nova vista d'olhos no texto",
+      "answer": "RELER",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Palmeira também chamada coco-de-catarro",
+      "answer": "MACAUBA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Tempo memorável de mais ou menos longa duração",
+      "answer": "ERA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Soneca vespertina",
+      "answer": "SESTA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Emitir som (gato)",
+      "answer": "MIAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Terra fértil no meio de um deserto",
+      "answer": "OASIS",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Erva forrageira, também chamada capim-marmelada",
+      "answer": "PAPUÃ",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "A cor azul",
+      "answer": "ANIL",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Ficar louco",
+      "answer": "PIRAR",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Aposentado",
+      "answer": "EMERITO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "(Angeles Lakers) Um time de basquete dos EUA",
+      "answer": "LOS",
+      "row": 0,
+      "col": 10
+    },
+    "16": {
+      "clue": "Castigar",
+      "answer": "PUNIR",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Deixar ou fazer passar através de",
+      "answer": "FILTRAR",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Expor",
+      "answer": "MOSTRAR",
+      "row": 4,
+      "col": 10
+    },
+    "25": {
+      "clue": "Vai do meio-dia ao começo da noite",
+      "answer": "TARDE",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "A luz mais forte dos carros",
+      "answer": "FAROL",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "Lançar com ímpeto e força",
+      "answer": "TACAR",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "Armação usada para secar roupas, dependurando-as",
+      "answer": "VARAL",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "Área para cavalos",
+      "answer": "BAIA",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "O do Guga é Gustavo",
+      "answer": "NOME",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Sigla inglesa do país de NY e LA",
+      "answer": "USA",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Redução de apartamento",
+      "answer": "APE",
+      "row": 8,
+      "col": 9
+    }
+  }
+}

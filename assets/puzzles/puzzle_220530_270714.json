@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma planta usada como forragem",
+      "answer": "CAPIM",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Próprio da velhice",
+      "answer": "SENIL",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Harmonizar instrumentos musicais",
+      "answer": "AFINAR",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Famosa apresentadora da TV",
+      "answer": "XUXA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "K",
+      "answer": "CA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Flor amarela e perfumada",
+      "answer": "GIESTA",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "Atemorizar, intimidar",
+      "answer": "ASSUSTAR",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Reprovável, desonesta",
+      "answer": "MA",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "Que te pertence (fem.)",
+      "answer": "TUA",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Destruir, matar",
+      "answer": "ACABAR",
+      "row": 4,
+      "col": 5
+    },
+    "23": {
+      "clue": "A session dos músicos improvisadores do jazz",
+      "answer": "JAM",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Argola de corrente",
+      "answer": "ELO",
+      "row": 5,
+      "col": 8
+    },
+    "26": {
+      "clue": "Amar com devoção",
+      "answer": "ADORAR",
+      "row": 6,
+      "col": 0
+    },
+    "29": {
+      "clue": "Um banco público brasileiro",
+      "answer": "CEF",
+      "row": 6,
+      "col": 7
+    },
+    "30": {
+      "clue": "(Pop.) Poxa!",
+      "answer": "PO",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Dar posse ou domínio a",
+      "answer": "APODERAR",
+      "row": 7,
+      "col": 3
+    },
+    "34": {
+      "clue": "O Justin cantor estadunidense",
+      "answer": "BIEBER",
+      "row": 8,
+      "col": 2
+    },
+    "35": {
+      "clue": "O sambista carioca Kéti (1921-1999)",
+      "answer": "ZE",
+      "row": 8,
+      "col": 9
+    },
+    "36": {
+      "clue": "Região da vértebra cervical",
+      "answer": "NUCA",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "(Ingl.) Ponta de estoque",
+      "answer": "OUTLET",
+      "row": 9,
+      "col": 5
+    },
+    "40": {
+      "clue": "(dos Reis) A cidade onde se localiza a Ilha Grande",
+      "answer": "ANGRA",
+      "row": 10,
+      "col": 0
+    },
+    "41": {
+      "clue": "O osso que constitui a última parte da coluna vertebral",
+      "answer": "SACRO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O cineasta Diegues, de \"Bye Bye Brasil\"",
+      "answer": "CACA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Colocado à distância",
+      "answer": "AFASTADO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A UF de Picos e Piripiri",
+      "answer": "PI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Inflamação ou inchaço na virilha",
+      "answer": "INGUA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O sinal da adição",
+      "answer": "MAIS",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Qualquer coisa mais que o usual",
+      "answer": "EXTRA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Despida",
+      "answer": "NUA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Nove, em algarismos romanos",
+      "answer": "IX",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Personagem bíblico ressuscitado por Jesus",
+      "answer": "LAZARO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "A linha sem curvas",
+      "answer": "RETA",
+      "row": 1,
+      "col": 5
+    },
+    "16": {
+      "clue": "Entidade popular do nosso folclore",
+      "answer": "SACI",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "Luta japonesa com homens corpulentos",
+      "answer": "SUMO",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Prejudicar, danar",
+      "answer": "MALFAZER",
+      "row": 3,
+      "col": 9
+    },
+    "22": {
+      "clue": "(Ingl.) Cerveja",
+      "answer": "BEER",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Espécie de jaqueta",
+      "answer": "JAPONA",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Planta muito usada na cobertura de quiosques",
+      "answer": "SAPE",
+      "row": 5,
+      "col": 4
+    },
+    "27": {
+      "clue": "Vir aparecendo",
+      "answer": "RAIAR",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "Uma máquina como o R2D2 ou o C-3PO, do \"Guerra nas Estrelas\"",
+      "answer": "ROBO",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "Firmemente persuadida",
+      "answer": "CERTA",
+      "row": 6,
+      "col": 7
+    },
+    "32": {
+      "clue": "(Rel.) Ente supremo",
+      "answer": "DEUS",
+      "row": 7,
+      "col": 6
+    },
+    "33": {
+      "clue": "Sem curvatura",
+      "answer": "RETO",
+      "row": 7,
+      "col": 10
+    },
+    "34": {
+      "clue": "Abreviatura da vacina contra a tuberculose",
+      "answer": "BCG",
+      "row": 8,
+      "col": 2
+    },
+    "37": {
+      "clue": "União Nacional",
+      "answer": "UN",
+      "row": 9,
+      "col": 1
+    },
+    "39": {
+      "clue": "Louise Cardoso, atriz carioca",
+      "answer": "LC",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

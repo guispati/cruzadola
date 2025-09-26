@@ -1,0 +1,258 @@
+{
+  "across": {
+    "2": {
+      "clue": "Disponibilidade de cambiais que um Estado possui em praças estrangeiras",
+      "answer": "DIVISAS",
+      "row": 0,
+      "col": 4
+    },
+    "8": {
+      "clue": "O centro do... trovão",
+      "answer": "OV",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Sem exageros",
+      "answer": "MODICO",
+      "row": 1,
+      "col": 3
+    },
+    "11": {
+      "clue": "Algarismo que se escreve à direita da vírgula em um numero fracionário",
+      "answer": "DECIMAL",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Separam K e O",
+      "answer": "LMN",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Cumprimento preciso, estrito",
+      "answer": "EXATIDÃO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Sigla do estado de Colatina e Linhares",
+      "answer": "ES",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Vesperal",
+      "answer": "MATINE",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Leve repreensão",
+      "answer": "PITO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Mágico, feiticeiro",
+      "answer": "MAGO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Uma saia muito curta",
+      "answer": "MINI",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Fim, limite, termo",
+      "answer": "META",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "O rio sagrado dos hindus",
+      "answer": "GANGES",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Fazer voltar para trás",
+      "answer": "ARRETAR",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "Grande antílope de chifres parecidos com os dos bois",
+      "answer": "GNU",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Chapada do NE, nos estados do PI, CE e PE",
+      "answer": "ARARIPE",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Isadora Duncan (1872-1927), bailarina",
+      "answer": "ID",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Tramar, urdir (tecido)",
+      "answer": "FIAR",
+      "row": 9,
+      "col": 3
+    },
+    "34": {
+      "clue": "(Abrev.) Dicionário",
+      "answer": "DIC",
+      "row": 9,
+      "col": 8
+    },
+    "35": {
+      "clue": "Abrir fendas ou gretas em",
+      "answer": "RACHAR",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Expressão para espantar aves",
+      "answer": "XO",
+      "row": 10,
+      "col": 9
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Conecta o PC à net",
+      "answer": "MODEM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Jogo com 28 pedras pontuadas",
+      "answer": "DOMINO",
+      "row": 0,
+      "col": 4
+    },
+    "3": {
+      "clue": "Tempo de vida",
+      "answer": "IDADE",
+      "row": 0,
+      "col": 5
+    },
+    "4": {
+      "clue": "Personagem má",
+      "answer": "VILÃ",
+      "row": 0,
+      "col": 6
+    },
+    "5": {
+      "clue": "Iberê Camargo (1914-1994), pintor, gravador e desenhista",
+      "answer": "IC",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "A nota entre fá e lá",
+      "answer": "SOL",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Manhoso, dissimulado",
+      "answer": "SONSO",
+      "row": 0,
+      "col": 10
+    },
+    "9": {
+      "clue": "Humilhação, vergonha",
+      "answer": "VEXAME",
+      "row": 1,
+      "col": 1
+    },
+    "10": {
+      "clue": "Tornar mais brando, suave",
+      "answer": "MITIGAR",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Pessoa de baixa estatura",
+      "answer": "CATATAU",
+      "row": 2,
+      "col": 2
+    },
+    "14": {
+      "clue": "Ofício, trabalho",
+      "answer": "METIE",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Dar o seu palpite",
+      "answer": "OPINAR",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "A Guimarães atriz e comediante",
+      "answer": "INGRID",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Fazer alguma coisa sem apuro ou cuidado",
+      "answer": "MATAR",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Soltar (o bovino) a sua voz",
+      "answer": "MUGIR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Dar vida a um próprio semelhante",
+      "answer": "GERAR",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Nascido no país de Estocolmo",
+      "answer": "SUECO",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Divisão de piscina em competição",
+      "answer": "RAIA",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Opção de resposta em provas",
+      "answer": "NDA",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "(Econ.) Uma forma de transferir valores",
+      "answer": "PIX",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Francis Hime, músico",
+      "answer": "FH",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

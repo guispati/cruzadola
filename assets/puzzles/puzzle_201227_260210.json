@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Exame de avaliação estudantil",
+      "answer": "PROVA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Fazer a escolha de",
+      "answer": "TRIAR",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Peça que protege o casco dos navios durante a atracação",
+      "answer": "DEFENSA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Feixe",
+      "answer": "LIO",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Os extremos da... vanguarda",
+      "answer": "VA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Gradação de cores",
+      "answer": "NUANCE",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Língua antiga, ainda usada nas missas",
+      "answer": "LATIM",
+      "row": 3,
+      "col": 1
+    },
+    "18": {
+      "clue": "Em vista de",
+      "answer": "ANTE",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Planta criada em viveiro para posterior plantação definitiva",
+      "answer": "MUDA",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "O violeiro e cantor sertanejo Carreiro",
+      "answer": "TIÃO",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "De preço elevado",
+      "answer": "CARO",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "O conjunto das celas construídas pelas abelhas",
+      "answer": "FAVO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Massa formada por alimentos após a deglutição",
+      "answer": "BOLO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Dispositivo para produzir sopro de ar",
+      "answer": "FOLE",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Cursos d'água que formam uma bacia",
+      "answer": "RIOS",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Ingl.) Um acessório de cozinha",
+      "answer": "GRILL",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "Dorso",
+      "answer": "COSTAS",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "As iniciais do ginasta Zanetti, campeão mundial e olímpico em argolas",
+      "answer": "AZ",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Um membro da família",
+      "answer": "TIA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Tinta usada pelas mulheres para pintar as unhas",
+      "answer": "ESMALTE",
+      "row": 9,
+      "col": 4
+    },
+    "37": {
+      "clue": "Deslocar aquilo que veda",
+      "answer": "ABRIR",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Plantas como o endro, a sálvia e o tomilho",
+      "answer": "ERVAS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ponto de Venda",
+      "answer": "PDV",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Que tem base concreta",
+      "answer": "REAL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O de inglês",
+      "answer": "OF",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Arriscado, perigoso",
+      "answer": "VENTUROSO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Aprovado",
+      "answer": "ANUIDO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Símbolo de tangente",
+      "answer": "TAN",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Que não se pode aliviar ou suavizar",
+      "answer": "ILENIVEL",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Interjeição que expressa dor",
+      "answer": "AI",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A marca de automóveis Alfa",
+      "answer": "ROMEO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Folha de pinheiro",
+      "answer": "SAMA",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "(Fig.) Incentivar, estimular",
+      "answer": "CATALISAR",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Reunir em aldeia de índios",
+      "answer": "AMALOCAR",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Em tal grau",
+      "answer": "TÃO",
+      "row": 3,
+      "col": 9
+    },
+    "22": {
+      "clue": "Comitê Olímpico Internacional",
+      "answer": "COI",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Buraco, cavidade",
+      "answer": "FORAME",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Nascente",
+      "answer": "BROTA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Sigla) Um benefício dos trabalhadores",
+      "answer": "FGTS",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Uma embalagem para leite em pó",
+      "answer": "LATA",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "O que é ou existe",
+      "answer": "SER",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "São dois em Cazuza",
+      "answer": "ZES",
+      "row": 8,
+      "col": 10
+    },
+    "34": {
+      "clue": "Instituto Butantan",
+      "answer": "IB",
+      "row": 9,
+      "col": 1
+    },
+    "36": {
+      "clue": "Cinquenta e cinco, em algarismos romanos",
+      "answer": "LV",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

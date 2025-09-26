@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Provocador, instigador",
+      "answer": "DANADOR",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Canoa indígena talhada numa árvore",
+      "answer": "UBA",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Deus nagô da guerra",
+      "answer": "OGUM",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O Schünemann cineasta e ator gaúcho",
+      "answer": "WERNER",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Obrigação, encargo",
+      "answer": "MUNUS",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Ceifar, capinar",
+      "answer": "SEGAR",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Uma cobertura para casebres",
+      "answer": "SAPE",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "O músico paulista Madi, de \"Chove Lá Fora\"",
+      "answer": "TITO",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Nico Fidenco, cantor italiano",
+      "answer": "NF",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Atravessar",
+      "answer": "ROMPER",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "(Ingl.) Termo usado nos esportes, significando fora de combate",
+      "answer": "OUT",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Ave de bico muito longo e recurvo",
+      "answer": "IBIS",
+      "row": 5,
+      "col": 4
+    },
+    "26": {
+      "clue": "O símbolo químico do hólmio",
+      "answer": "HO",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Aquele que se dedica à instrução dos cegos",
+      "answer": "TIFLOLOGO",
+      "row": 6,
+      "col": 1
+    },
+    "30": {
+      "clue": "Concerto de banda de música em praça pública",
+      "answer": "RETRETA",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "As letras que separam o Q e do U",
+      "answer": "RST",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "Cidade paraibana, no sertão do estado",
+      "answer": "IBIARA",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Localizado",
+      "answer": "SITO",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "(Matem.) Símbolo de cotangente",
+      "answer": "COTG",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Planta ornamental, de flores vermelhas",
+      "answer": "RUELIA",
+      "row": 9,
+      "col": 5
+    },
+    "38": {
+      "clue": "Contudo",
+      "answer": "ALIAS",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Saltar",
+      "answer": "PULAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Jogo popular com 28 pedras",
+      "answer": "DOMINO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Advocacia Geral da União",
+      "answer": "AGU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Em uns",
+      "answer": "NUNS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Provocar mau-humor",
+      "answer": "AMUAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Orson Welles, ator",
+      "answer": "OW",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Quadrúpede que serve de alimento ao homem",
+      "answer": "RES",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Aplicar óleo sagrado",
+      "answer": "UNGIR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Um andamento rítmico do jazz",
+      "answer": "BEAT",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Pequeno regato",
+      "answer": "ARROIO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Esticado",
+      "answer": "RETESO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "(Ingl.) Parte do carro destinada a melhorar a aerodinâmica",
+      "answer": "SPOILER",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "Tornar menos cortante",
+      "answer": "EMBOTAR",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "O esporte de Kaká e Raí",
+      "answer": "FUTEBOL",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "(Pop.) Grana, dinheiro",
+      "answer": "PILA",
+      "row": 4,
+      "col": 6
+    },
+    "24": {
+      "clue": "Situação confusa, ruidosa",
+      "answer": "TITITI",
+      "row": 5,
+      "col": 2
+    },
+    "26": {
+      "clue": "No catolicismo, rodela de pão ázimo oferecida aos fiéis na comunhão",
+      "answer": "HOSTIA",
+      "row": 5,
+      "col": 9
+    },
+    "28": {
+      "clue": "A atriz Denise",
+      "answer": "FRAGA",
+      "row": 6,
+      "col": 3
+    },
+    "29": {
+      "clue": "(Ingl.) Acessório de cozinha usado para grelhar",
+      "answer": "GRILL",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "Que tem muitos bens (fem.)",
+      "answer": "RICA",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Dar som forte",
+      "answer": "TOAR",
+      "row": 7,
+      "col": 10
+    },
+    "34": {
+      "clue": "(Pop.) Senhor",
+      "answer": "SEU",
+      "row": 8,
+      "col": 7
+    },
+    "37": {
+      "clue": "Um automóvel compacto da VW",
+      "answer": "UP",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

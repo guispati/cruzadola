@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Relativo a um ajuste tratado entre duas ou mais pessoas",
+      "answer": "PACTUAL",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Ponto de Venda",
+      "answer": "PDV",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Passado",
+      "answer": "IDO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Um monstro como Drácula",
+      "answer": "VAMPIRO",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "(Red.) O dia seguinte à quinta",
+      "answer": "SEXTA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Um apoio para os óculos",
+      "answer": "NARIZ",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Funcionar, produzir efeito",
+      "answer": "AGIR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "A espacial é destinada a viagens interplanetárias",
+      "answer": "NAVE",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "O político Nereu (1888-1956), ex-presidente da República",
+      "answer": "RAMOS",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "São quatro na impressão de policromias",
+      "answer": "CORES",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Decência",
+      "answer": "PUDOR",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "A capital europeia com o rio Sena",
+      "answer": "PARIS",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Chupar o leite",
+      "answer": "MAMAR",
+      "row": 6,
+      "col": 6
+    },
+    "29": {
+      "clue": "O guitarrista Clapton",
+      "answer": "ERIC",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Parede que delimita um terreno",
+      "answer": "MURO",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Um tipo de consoante",
+      "answer": "NASAL",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Um secador de roupas",
+      "answer": "VARAL",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Venerado",
+      "answer": "ADORADO",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Projeção de telhado",
+      "answer": "ABA",
+      "row": 9,
+      "col": 8
+    },
+    "37": {
+      "clue": "Uma sigla para pedir socorro",
+      "answer": "SOS",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "(Ingl.) Revelação do final de um filme antes de seu término",
+      "answer": "SPOILER",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Andar sobre",
+      "answer": "PISAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Depósito de vinhos",
+      "answer": "ADEGA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Almofada que serve de assento ou encosto",
+      "answer": "COXIM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O fruto da videira",
+      "answer": "UVA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Arnaldo Antunes, poeta e músico, ex-\"Titãs\"",
+      "answer": "AA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Separam K e O",
+      "answer": "LMN",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Pop.) Enlouquecer",
+      "answer": "PIRAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(-in) Um tipo de cinema",
+      "answer": "DRIVE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "As várias partes de uma composição musical",
+      "answer": "VOZES",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Vista de uma paisagem",
+      "answer": "PANORAMA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Bater, sem querer, o pé num obstáculo",
+      "answer": "TROPICAR",
+      "row": 2,
+      "col": 3
+    },
+    "19": {
+      "clue": "Serviço que cuida da saúde do cidadão brasileiro",
+      "answer": "SUS",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "O antônimo de sem",
+      "answer": "COM",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Cobrem as aves",
+      "answer": "PENAS",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Instrumento para lavrar e abrir sulcos na terra",
+      "answer": "ARADO",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Rs, nas conversas na internet",
+      "answer": "RISOS",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Gênero de pintura em que Portinari foi mestre",
+      "answer": "MURAL",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "De uma comunidade islâmica do Norte da África ou do Oriente Médio",
+      "answer": "ARABE",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Girar como uma bola",
+      "answer": "ROLAR",
+      "row": 6,
+      "col": 10
+    },
+    "32": {
+      "clue": "(Leñas) Uma estação argentina de esqui",
+      "answer": "LAS",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Passeio de planador",
+      "answer": "VOO",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Delegacia de Polícia",
+      "answer": "DP",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

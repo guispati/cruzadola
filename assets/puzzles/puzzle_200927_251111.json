@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma grife de roupas e acessórios de luxo",
+      "answer": "GUCCI",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Peça usada nos carros, preta e redonda",
+      "answer": "PNEU",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "A atriz norte-americana de \"Mulher Nota 10\"",
+      "answer": "BODEREK",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Ativo Disponível",
+      "answer": "AD",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Gír.) Pessoa adoidada, amalucada",
+      "answer": "PINEL",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Ginástica Rítmica",
+      "answer": "GR",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "A capital da Letônia",
+      "answer": "RIGA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Imberbe",
+      "answer": "GLABRO",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Ceder",
+      "answer": "DAR",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Ciências Espaciais e Atmosféricas (INPE)",
+      "answer": "CEA",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "As iniciais de Pelé",
+      "answer": "EAN",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Diz-se do verso clássico de doze sílabas",
+      "answer": "ALEXANDRINO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Federação Internacional de Ginástica",
+      "answer": "FIG",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Redução popular de senhor",
+      "answer": "NHO",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "Empresa aérea japonesa",
+      "answer": "JAL",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Cidade gaúcha próxima a Porto Alegre",
+      "answer": "OSORIO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Em música, padrão rítmico constante numa composição",
+      "answer": "MODO",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "General Eletric",
+      "answer": "GE",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Profundo mal-estar",
+      "answer": "ANSIA",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Anita Garibaldi (1821-1849), heroína catarinense",
+      "answer": "AG",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Indivíduo que tem título de nobreza",
+      "answer": "FIDALGO",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "12",
+      "answer": "DOZE",
+      "row": 10,
+      "col": 1
+    },
+    "36": {
+      "clue": "Grupo criminoso organizado",
+      "answer": "MAFIA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Placa para impedir a queima descontrolada numa fornalha",
+      "answer": "GUARDAFOGO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Corpo de Bombeiros",
+      "answer": "CB",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Fica ao lado da cozinha",
+      "answer": "COPA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Meio... idiota",
+      "answer": "IDI",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Um religioso como os cardeais, os bispos ou os abades",
+      "answer": "PRELADO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "(Fem.) Combinação de preposição com pronome pessoal",
+      "answer": "NELA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O fim de... Kubitschek",
+      "answer": "EK",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Que é rico de imaginação, inventivo",
+      "answer": "ENGENHOSA",
+      "row": 1,
+      "col": 5
+    },
+    "10": {
+      "clue": "Relação de datas e acontecimentos históricos",
+      "answer": "CRONOLOGIA",
+      "row": 1,
+      "col": 10
+    },
+    "12": {
+      "clue": "Processo de limpeza do sangue",
+      "answer": "DIALISE",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Pequena bomba",
+      "answer": "GRANADA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "De Atenas ou Creta",
+      "answer": "GREGO",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Gesto de carinho feito com os lábios",
+      "answer": "BEIJO",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "O estádio de futebol da Portuguesa (SP)",
+      "answer": "CANINDE",
+      "row": 4,
+      "col": 4
+    },
+    "27": {
+      "clue": "A parte subterrânea da árvore",
+      "answer": "RAIZ",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Feiticeira",
+      "answer": "MAGA",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "O meio do... filme",
+      "answer": "ILM",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "A sílaba que se repete na fofoca",
+      "answer": "FO",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "O de inglês",
+      "answer": "OF",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

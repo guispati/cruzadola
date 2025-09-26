@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Que está na transição entre infância e adolescência",
+      "answer": "PUBERE",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O conjunto das folhas de uma planta",
+      "answer": "RAMA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Igual",
+      "answer": "AFIM",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Aguentar com paciência, resignação",
+      "answer": "ATURAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Vacina antipólio",
+      "answer": "SABIN",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Um creme para o cabelo",
+      "answer": "RINSE",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Ilha da baía de Todos os Santos",
+      "answer": "ITAPARICA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Antonio Vivaldi (1678-1741), compositor italiano",
+      "answer": "AV",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "A mesma coisa",
+      "answer": "IDEM",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Substância usada na indústria de construção",
+      "answer": "CAL",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Arrancar do solo",
+      "answer": "ERRADICAR",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "França",
+      "answer": "FRA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "A de nascimento consta no RG",
+      "answer": "DATA",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "Andréa Beltrão, atriz",
+      "answer": "AB",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Famoso humorista e músico paulista",
+      "answer": "ARYTOLEDO",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Percorrer, indo para cima",
+      "answer": "SUBIR",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Velho, decrépito",
+      "answer": "SENIL",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Promulgar",
+      "answer": "EMANAR",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Que tem conhecimentos adquiridos pela leitura",
+      "answer": "LIDO",
+      "row": 9,
+      "col": 7
+    },
+    "38": {
+      "clue": "Outro nome da ave frango-d'água",
+      "answer": "SANA",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Voz própria dos batráquios",
+      "answer": "COAXAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Maleta para documentos e papéis",
+      "answer": "PASTA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ainda bem!",
+      "answer": "UFA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Som que imita a buzina de um carro",
+      "answer": "BIBI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Pôr em circulação",
+      "answer": "EMITIR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Fera sem consoantes",
+      "answer": "EA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Desmoronar",
+      "answer": "RUIR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Tintura usada em contusões e edemas e como contra-irritante",
+      "answer": "ARNICA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Representação plástica do rosto",
+      "answer": "MASCARA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Praia",
+      "answer": "AREAL",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Curso de um processo, segundo as regras",
+      "answer": "TRAMITES",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Uma desportista como Maria Lenk",
+      "answer": "NADADORA",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "A peça através da qual se dá movimento em uma bicicleta",
+      "answer": "PEDAL",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Ferramenta de furar madeira",
+      "answer": "VERRUMA",
+      "row": 4,
+      "col": 1
+    },
+    "23": {
+      "clue": "Famosa marca de óculos",
+      "answer": "RAYBAN",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "A fêmea de cão",
+      "answer": "CADELA",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "Os diferentes aspectos da Lua",
+      "answer": "FASES",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Uma formação de fungos",
+      "answer": "BOLOR",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Grande vasilha para carregar água, lavar roupa, tomar banho etc.",
+      "answer": "TINA",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "Pedra usada em bijuterias",
+      "answer": "ONIX",
+      "row": 7,
+      "col": 8
+    },
+    "34": {
+      "clue": "Jornada",
+      "answer": "IDA",
+      "row": 8,
+      "col": 9
+    },
+    "36": {
+      "clue": "Raimundo Correia (1859-1911), escritor maranhense",
+      "answer": "RC",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

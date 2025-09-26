@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma unidade de medida elétrica V",
+      "answer": "VOLT",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Vergonha",
+      "answer": "VEXAME",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "A lista dos capítulos",
+      "answer": "INDICE",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "(Ingl.) Um tipo de torneio esportivo",
+      "answer": "OPEN",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Nelson Gonçalves, cantor",
+      "answer": "NG",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Carro de praça",
+      "answer": "TAXI",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "O Babá dos 40 ladrões",
+      "answer": "ALI",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Produzido por transformação, metamorfose",
+      "answer": "MUTANTE",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Exaltar intensamente",
+      "answer": "ACALORAR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "1",
+      "answer": "UM",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Relativo à boca",
+      "answer": "ORAL",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Unidade de medida também chamada arrátel",
+      "answer": "LIBRA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Nascidas na Colômbia, no Panamá e no México",
+      "answer": "AMERICANAS",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "As pontas das pernas",
+      "answer": "PES",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Resumido",
+      "answer": "CONCISO",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Charme",
+      "answer": "IT",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Site na internet que oferece serviços variados",
+      "answer": "PORTAL",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Mamata",
+      "answer": "TETA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Impressão deixada pelo dedo sobre numa superfície",
+      "answer": "DEDADA",
+      "row": 9,
+      "col": 5
+    },
+    "36": {
+      "clue": "(Anat.) Cavidade ocular",
+      "answer": "ORBITA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Condições climáticas",
+      "answer": "ARES",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Chegada",
+      "answer": "VINDA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Organização Não Governamental",
+      "answer": "ONG",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "As consoantes de alado",
+      "answer": "LD",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Possuidor, detentor",
+      "answer": "TITULAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Humilhar, afligir, maltratar",
+      "answer": "VEXAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Sai, galinha!",
+      "answer": "XO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Associação de Pais e Amigos dos Excepcionais",
+      "answer": "APAE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O Gibson ator australiano",
+      "answer": "MEL",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Quebra-cabeça",
+      "answer": "ENIGMA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Relativo à igreja apostólica romana",
+      "answer": "CATOLICO",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Que aspira",
+      "answer": "INALANTE",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Movimentações das águas oceânicas",
+      "answer": "MARES",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Rachada",
+      "answer": "TRINCADA",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Executar",
+      "answer": "COMETER",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "A antiga Rússia",
+      "answer": "URSS",
+      "row": 4,
+      "col": 9
+    },
+    "24": {
+      "clue": "Dançar",
+      "answer": "BAILAR",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "Aviso sonoro que era usado por trens",
+      "answer": "APITO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Fio que dá o som ao violão",
+      "answer": "CORDA",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "Formam tabas",
+      "answer": "OCAS",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "(dos burros) Um sinônimo para dicionário",
+      "answer": "PAI",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Tobias Barreto (1839-1889), escritor",
+      "answer": "TB",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "D",
+      "answer": "DE",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

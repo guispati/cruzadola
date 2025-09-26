@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "(QR) Um código de barras",
+      "answer": "CODE",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "Frase feita, que anuncia e caracteriza um produto",
+      "answer": "SLOGAN",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Abreviatura de agricultura",
+      "answer": "AGR",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Condição do cônjuge que ficou, por motivo de morte, sem o outro cônjuge",
+      "answer": "VIUVEZ",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Julgamento, opinião",
+      "answer": "CRITICA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Um não inglês",
+      "answer": "NOT",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Barril para guardar vinho e cerveja, com 840 litros",
+      "answer": "TONEL",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "O tempo oposto ao dia",
+      "answer": "NOITE",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "(Kong) Um grande macaco do cinema",
+      "answer": "KING",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "(-festas) Saudação usada no Natal ou Ano-Novo",
+      "answer": "BOAS",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "O fundador do Islamismo",
+      "answer": "MAOME",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Pequeno molusco de água doce",
+      "answer": "ARUA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Cãozinho peludo",
+      "answer": "LULU",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "A capital europeia com o museu do Prado",
+      "answer": "MADRI",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Um lutador de uma arte marcial oriental",
+      "answer": "NINJA",
+      "row": 7,
+      "col": 6
+    },
+    "33": {
+      "clue": "Uma ave marinha",
+      "answer": "ATI",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Os competidores que lutam em um tatame",
+      "answer": "JUDOCAS",
+      "row": 8,
+      "col": 4
+    },
+    "36": {
+      "clue": "Figura matemática que se mede em graus",
+      "answer": "ANGULO",
+      "row": 9,
+      "col": 1
+    },
+    "38": {
+      "clue": "Abrev.: Lituânia",
+      "answer": "LIT",
+      "row": 9,
+      "col": 8
+    },
+    "39": {
+      "clue": "Um time gaúcho de futebol",
+      "answer": "GREMIO",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "O Recruta militar das HQs",
+      "answer": "ZERO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Planta como o xiquexique",
+      "answer": "CACTO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um bicho-papão",
+      "answer": "OGRO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Ingl.) Bebida alcoólica",
+      "answer": "DRINK",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Lat.) Assim mesmo",
+      "answer": "SIC",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "O cantor sul-mato-grossense Santana",
+      "answer": "LUAN",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Ordem Verbal",
+      "answer": "OV",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Temperamento, caráter individual",
+      "answer": "GENIO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Misturar com o nitrogênio",
+      "answer": "AZOTAR",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "A capital da Lituânia",
+      "answer": "VILNA",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Querer continuar (uma ação) com insistência",
+      "answer": "TEIMAR",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "São três em estatuto",
+      "answer": "TES",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "(Anat.) Um ponto para medir o crânio",
+      "answer": "OBELIO",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "No handebol, o ponto obtido",
+      "answer": "GOL",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Ter por tema",
+      "answer": "TRATAR",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "A Terra, com todos os seus países e pessoas",
+      "answer": "MUNDO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Senhora, patroa",
+      "answer": "AMA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Cidade do norte da Itália",
+      "answer": "UDINE",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Tio, em inglês",
+      "answer": "UNCLE",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Deteriorado pelo uso",
+      "answer": "GASTO",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Cidade e rio do Rio Grande do Sul",
+      "answer": "IJUI",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "O cantor Rodrigues (1939-2014), de nossa MPB",
+      "answer": "JAIR",
+      "row": 7,
+      "col": 9
+    },
+    "35": {
+      "clue": "Grito de sofrimento",
+      "answer": "ULO",
+      "row": 8,
+      "col": 5
+    },
+    "37": {
+      "clue": "Gabriel Medina, surfista tricampeão mundial",
+      "answer": "GM",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

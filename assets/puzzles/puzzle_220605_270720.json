@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Estado com capital Curitiba",
+      "answer": "PARANA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Chupeta",
+      "answer": "BICO",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Corrigida, alterada, modificada",
+      "answer": "EMENDADA",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "(Gír.) Pessoa sem ocupação",
+      "answer": "VAGAL",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Que se tem desde o nascimento",
+      "answer": "INATO",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Uma fruta seca usada em culinária",
+      "answer": "UVAPASSA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Inquérito Policial",
+      "answer": "IP",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Sem valor (fem.)",
+      "answer": "NULA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Terreno em subida",
+      "answer": "ACLIVE",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Um Babá das histórias de \"Mil e uma Noites\"",
+      "answer": "ALI",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Um irmão do pai",
+      "answer": "TIO",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "A intimidade familiar",
+      "answer": "LAR",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Osso da parte mais baixa da coluna vertebral",
+      "answer": "SACRO",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Remédio",
+      "answer": "CURA",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "(Esp.) Vitória de um time cujo oponente desistiu da disputa",
+      "answer": "WO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "A arte literária",
+      "answer": "LETRAS",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Profissional da produção de filmes",
+      "answer": "CINEASTA",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "(Fig.) Pessoa extremamente cansada",
+      "answer": "TRAPO",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Pelos que nascem no rosto do homem",
+      "answer": "BARBA",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Tecido leve",
+      "answer": "TULE",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "(Esp.) Derrotar por muitos tentos",
+      "answer": "GOLEAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Pop.) Vale profundo e escarpado",
+      "answer": "PAVUNA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Vantagem especial concedida a alguém",
+      "answer": "REGALIA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Estado brasileiro onde o rio Amazonas encontra o mar",
+      "answer": "AMAPA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Em + ela",
+      "answer": "NELA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Prefixo que exprime negação",
+      "answer": "AN",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "De nenhuma gravidade",
+      "answer": "BANAL",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O oposto de volta",
+      "answer": "IDA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Atrair pelo charme, pela inteligência",
+      "answer": "CATIVAR",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "O voador é o mesmo que óvni",
+      "answer": "DISCO",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Separado, solto",
+      "answer": "AVULSO",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Funcionar, abrir",
+      "answer": "OPERAR",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Típica veste escocesa",
+      "answer": "SAIOTE",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "De grande mérito",
+      "answer": "ILUSTRE",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Carrinho para deslizar na neve",
+      "answer": "TRENO",
+      "row": 5,
+      "col": 4
+    },
+    "25": {
+      "clue": "Pequeno prendedor de papéis",
+      "answer": "CLIPE",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Duas pessoas que vivem em união",
+      "answer": "CASAL",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Unidade de medida da potência elétrica",
+      "answer": "WATT",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Pop.) Cauda",
+      "answer": "RABO",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "Pó branco usado em construções",
+      "answer": "CAL",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "Saliência ou projeção de telhado",
+      "answer": "ABA",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "O rutênio, entre os químicos",
+      "answer": "RU",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "Elemento fundamental à respiração",
+      "answer": "AR",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

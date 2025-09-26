@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma das capitais bolivianas",
+      "answer": "SUCRE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Errôneo, enganoso",
+      "answer": "FALSO",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Diante de",
+      "answer": "ANTE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Que se realiza em curto espaço de tempo",
+      "answer": "CELERE",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Pena",
+      "answer": "DO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "No teatro, o espaço para os espectadores",
+      "answer": "PLATEIA",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Aquela que dá o que possui, por generosidade",
+      "answer": "DOADORA",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Junto",
+      "answer": "ACERCA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Um instrumento de sopro",
+      "answer": "TUBA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "(Fisioq.) Abreviatura de molécula-grama",
+      "answer": "MOL",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Não prosseguir",
+      "answer": "PARAR",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Um personagem do nosso folclore",
+      "answer": "SACIPERERE",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Contar em poucas palavras",
+      "answer": "RESUMIR",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Precedem o D",
+      "answer": "ABC",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Seguir na companhia de alguém",
+      "answer": "IR",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "A parte entre o pescoço e o diafragma",
+      "answer": "TORAX",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Atos Institucionais",
+      "answer": "AI",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Planta também chamada camapu",
+      "answer": "FISALIS",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Mecanismo apto a receber impressões externas",
+      "answer": "SENSOR",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Um receptáculo para grande quantidade de café",
+      "answer": "SACA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O ex-presidente iraquiano Hussein",
+      "answer": "SADDAM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um jogo de cartas com números e cores",
+      "answer": "UNO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Conselho Tutelar",
+      "answer": "CT",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Colocar de volta",
+      "answer": "REPOR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Ser ainda no útero",
+      "answer": "FETO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Prevenir de um perigo",
+      "answer": "ALERTAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Documento que marcou o fim da escravidão no Brasil",
+      "answer": "LEIAUREA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Senhora",
+      "answer": "SRA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Fís.) Abreviatura de oersted",
+      "answer": "OE",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Um dos elementos de um conjunto ou categoria",
+      "answer": "CADA",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Que chora",
+      "answer": "LACRIMOSO",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Daquelas mulheres",
+      "answer": "DELAS",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Semelhante (fem.)",
+      "answer": "PARECIDA",
+      "row": 3,
+      "col": 10
+    },
+    "18": {
+      "clue": "Costurar",
+      "answer": "COSER",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Pelos que nascem no rosto do homem",
+      "answer": "BARBA",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Plantação de frutos cônicos e doces",
+      "answer": "PERAL",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Tez",
+      "answer": "CUTIS",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Enlouquecer",
+      "answer": "PIRAR",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Órgãos atingidos pela nefrite",
+      "answer": "RINS",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "A letra entre o dáblio e o ípsilon",
+      "answer": "XIS",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Friedrich Nietzsche (1844-1900), filósofo alemão de \"Crepúsculo dos Ídolos\"",
+      "answer": "FN",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Sociedade Anônima",
+      "answer": "SA",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

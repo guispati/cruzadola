@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Que existe",
+      "answer": "ATUAL",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Fruto carnudo de caroço duro",
+      "answer": "DRUPA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "(-stop) Sem interrupção",
+      "answer": "NON",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Equino",
+      "answer": "CAVALAR",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Pequeno periquito brasileiro",
+      "answer": "TUIM",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Um tipo de porcelana",
+      "answer": "BISCUI",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Curvado, inclinado",
+      "answer": "ARCADO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Órgão que envolve o corpo humano",
+      "answer": "PELE",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Combinar data para fazer algo",
+      "answer": "ATERMAR",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Emerson Fittipaldi, campeão mundial de F1 e Indy",
+      "answer": "EF",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Frequentar escola, faculdade etc.",
+      "answer": "ESTUDAR",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Prefixo de inferioridade",
+      "answer": "SUB",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "O oposto de barato",
+      "answer": "CARO",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "O \"A\" do baralho",
+      "answer": "AS",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "Excursão que atrai caçadores para a África",
+      "answer": "SAFARI",
+      "row": 7,
+      "col": 1
+    },
+    "32": {
+      "clue": "Adeus, em inglês",
+      "answer": "BYE",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "(Ingl.) Acesso a um programa",
+      "answer": "LOGIN",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Ser unicelular que é parasita do homem",
+      "answer": "AMEBA",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "Tratar com inveja, ciúme",
+      "answer": "DESPEITAR",
+      "row": 9,
+      "col": 2
+    },
+    "38": {
+      "clue": "Percurso sinuoso entre obstáculos",
+      "answer": "SLALOM",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Material que serve de cobrir cargas em transporte",
+      "answer": "LONA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Estrela de Escorpião, uma das mais brilhantes do céu",
+      "answer": "ANTARES",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Fr.) Viagem ou passeio",
+      "answer": "TOUR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Exclusiva, rara",
+      "answer": "UNICA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Louise Cardoso, atriz carioca",
+      "answer": "LC",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "506, em romanos",
+      "answer": "DVI",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Cortado rente à pele",
+      "answer": "RASPADO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Uma ferida na parede interna do estômago",
+      "answer": "ULCERA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O pintor francês Cèzanne (1839-1906), do impressionismo",
+      "answer": "PAUL",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A primeira constelação zodiacal",
+      "answer": "ARIES",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Expelir o feto antes do tempo",
+      "answer": "ABORTAR",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "O chá do chimarrão",
+      "answer": "MATE",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "Apoio, suporte (da cadeira)",
+      "answer": "DESCANSO",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Cidade mineira da Zona da Mata",
+      "answer": "MURIAE",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "O horário é o sistema que divide o globo em 24 meridianos",
+      "answer": "FUSO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Tradicional marca de óculos",
+      "answer": "RAYBAN",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "A capital iraquiana",
+      "answer": "BAGDA",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "Campo cultivado",
+      "answer": "SEARA",
+      "row": 6,
+      "col": 10
+    },
+    "31": {
+      "clue": "Exato, preciso",
+      "answer": "FIEL",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "(Carrero World) Famoso parque temático, localizado em Penha (SC)",
+      "answer": "BETO",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "(Hermanos) Banda de pop rock nacional",
+      "answer": "LOS",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "Oitocentos + duzentos",
+      "answer": "MIL",
+      "row": 8,
+      "col": 7
+    },
+    "37": {
+      "clue": "Polícia Militar",
+      "answer": "PM",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

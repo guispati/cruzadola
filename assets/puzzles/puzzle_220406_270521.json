@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Contar os votos",
+      "answer": "APURAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Equipe de futebol, vôlei, basquete etc.",
+      "answer": "TIME",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Prisioneiro de garantia",
+      "answer": "REFEM",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Um vidro resistente a altas temperaturas",
+      "answer": "PIREX",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "(Quím.) O frâncio",
+      "answer": "FR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "O Tl dos químicos",
+      "answer": "TALIO",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Serviço de Trânsito",
+      "answer": "ST",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Provocar, despertar impaciência ou raiva",
+      "answer": "ACIRRAR",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "A da mata é verde",
+      "answer": "COR",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "A linha sem sinuosidades",
+      "answer": "RETA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Prato baiano típico da sua culinária",
+      "answer": "VATAPA",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Excelente, perfeito",
+      "answer": "PRIMOROSO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Apertar o gatilho",
+      "answer": "ATIRAR",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Embalagem para sardinhas",
+      "answer": "LATA",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Época da procriação",
+      "answer": "CIO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "No futebol, fazer troca de passes entre dois jogadores",
+      "answer": "TABELAR",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "1/4 de XVI",
+      "answer": "IV",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Deixar de funcionar",
+      "answer": "PARAR",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Mariana Rios, cantora e atriz mineira",
+      "answer": "MR",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Determinar a temperatura de",
+      "answer": "MEDIR",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Ba, em química",
+      "answer": "BARIO",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "(Astron.) A estrela mais brilhante de uma constelação",
+      "answer": "ALFA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "(Pop.) Fama, renome",
+      "answer": "CARTAZ",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Respirar com dificuldade",
+      "answer": "ARFAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Que pode ser compreendido, notado",
+      "answer": "PERCEPTIVEL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Unidade Federativa",
+      "answer": "UF",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Puxar a si",
+      "answer": "RETRAIR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Gostar de",
+      "answer": "AMAR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Um irmão do pai",
+      "answer": "TIO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Caminhar daqui para lá",
+      "answer": "IR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Região histórica entre os rios Tigre e Eufrates, no Oriente Médio",
+      "answer": "MESOPOTAMIA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Edição especial de revista",
+      "answer": "EXTRA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Ficar louco",
+      "answer": "PIRAR",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Cultivar, plantar",
+      "answer": "LAVORAR",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Y, em química",
+      "answer": "ITRIO",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Par composto de mulher e homem",
+      "answer": "CASAL",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Ser capaz de resistir a alguma coisa",
+      "answer": "TOLERAR",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "(Gír.) Resolver, dar solução a",
+      "answer": "MATAR",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "O oposto de abaixo",
+      "answer": "ACIMA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "O cereal que é jogado em recém-casados",
+      "answer": "ARROZ",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "A profissional que cuida de crianças",
+      "answer": "BABA",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Bacia para lavar louças e apetrechos diversos",
+      "answer": "PIA",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Sigla do Distrito Federal",
+      "answer": "DF",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Cercam o S",
+      "answer": "RT",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

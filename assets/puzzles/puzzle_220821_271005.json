@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Bandido que rouba barcos e navios",
+      "answer": "PIRATA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Limitada",
+      "answer": "LTDA",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Que vota",
+      "answer": "ELEITOR",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Por outro lado",
+      "answer": "ALIAS",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Relativo ao perfil moral",
+      "answer": "ETICO",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "De + esse",
+      "answer": "DESSE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Colocar algo de volta ao lugar",
+      "answer": "REPOR",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "A primeira vogal e a primeira consoante do alfabeto",
+      "answer": "AB",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "1 (fem.)",
+      "answer": "UMA",
+      "row": 4,
+      "col": 8
+    },
+    "19": {
+      "clue": "Peça de ferro, plástico etc., provida ou não de rosca, para conexão de tubos e canos",
+      "answer": "LUVA",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Endurecimento da pele causado por atrito",
+      "answer": "CALO",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Dar educação, refinamento",
+      "answer": "POLIR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Dileta",
+      "answer": "AMADA",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "Geralmente é a maior tecla do teclado",
+      "answer": "ENTER",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "A \"cidade-luz\", capital da França",
+      "answer": "PARIS",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "Enganador",
+      "answer": "ILUSOR",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "Abreviatura de santíssimo",
+      "answer": "SS",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Em TV e cinema, take",
+      "answer": "TOMADA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Uma das regiões administrativas do DF",
+      "answer": "GAMA",
+      "row": 9,
+      "col": 7
+    },
+    "37": {
+      "clue": "A sigla do país com o Grand Canyon",
+      "answer": "EUA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Tradicional doce dos países ibero-americanos",
+      "answer": "ALFAJOR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Historinha que faz rir",
+      "answer": "PIADA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Rel.) O dia em que se comemora a adoração do Menino Jesus pelos Magos",
+      "answer": "REIS",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Os atletas que, em esportes coletivos, atuam pelas laterais do campo",
+      "answer": "ALAS",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Dissertação escrita",
+      "answer": "TESE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Nesse aspecto",
+      "answer": "AI",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Grupo de objetos leiloados de uma vez",
+      "answer": "LOTE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Prover um avião do pessoal necessário para as manobras e serviços",
+      "answer": "TRIPULAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O oposto de inclusive",
+      "answer": "AFORA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "O dia entre Seg e Qua",
+      "answer": "TER",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Famoso bairro carioca",
+      "answer": "LEBLON",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Atitude de quem só se preocupa com o seu próprio bem-estar",
+      "answer": "COMODISMO",
+      "row": 2,
+      "col": 9
+    },
+    "20": {
+      "clue": "Aquela que ocupa o lugar do fim numa série sucessiva",
+      "answer": "ULTIMA",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "Pequena rua estreita",
+      "answer": "VIELA",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "O estádio do Santa Cruz, em Recife",
+      "answer": "ARRUDA",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Cobertura de motor de veículo de combustão interna",
+      "answer": "CAPO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Diz-se de derrota imerecida",
+      "answer": "AMARGA",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "Utensílio próprio para arranjar, compor ou desemaranhar os cabelos",
+      "answer": "PENTE",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Expor à ação de um forno, para cozinhar",
+      "answer": "ASSAR",
+      "row": 6,
+      "col": 10
+    },
+    "31": {
+      "clue": "Substância usada para temperar saladas",
+      "answer": "SAL",
+      "row": 8,
+      "col": 5
+    },
+    "34": {
+      "clue": "Conjunção que dá ideia de alternância, ligando pensamentos que se excluem",
+      "answer": "OU",
+      "row": 9,
+      "col": 1
+    },
+    "36": {
+      "clue": "Angelina Jolie, atriz de \"A Troca\"",
+      "answer": "AJ",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

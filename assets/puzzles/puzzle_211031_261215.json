@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "Pronome demonstrativo",
+      "answer": "ISSO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "25/12 e 31/12",
+      "answer": "FESTAS",
+      "row": 0,
+      "col": 5
+    },
+    "11": {
+      "clue": "(Pop.) Em uns",
+      "answer": "NUNS",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Sem pigmentos na pele (fem.)",
+      "answer": "ALBINA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Adélia Prado, escritora mineira",
+      "answer": "AP",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Lúcifer, capeta",
+      "answer": "SATÃ",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Abrev.: Tecnologia",
+      "answer": "TEC",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Situação em que pode ocorrer um dano",
+      "answer": "PERIGO",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Sem valor",
+      "answer": "MIXO",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Sabor adstringente",
+      "answer": "TRAVO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Um grande ídolo do Flamengo",
+      "answer": "ZICO",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "A escola de samba azul e branco, do RJ",
+      "answer": "PORTELA",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Que não é macia",
+      "answer": "DURA",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Uma bebida como o Drambuie",
+      "answer": "LICOR",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Elemento de composição: som",
+      "answer": "FONO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Formiga de porte pequeno, avermelhada, de ferroada dolorosa",
+      "answer": "LAVAPE",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "Iluminação",
+      "answer": "LUZ",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Mús.) Conjunto de canto",
+      "answer": "CORO",
+      "row": 8,
+      "col": 4
+    },
+    "31": {
+      "clue": "Tiro de Guerra",
+      "answer": "TG",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Um estado do noroeste dos EUA",
+      "answer": "OREGON",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Festa típica de praias",
+      "answer": "LUAU",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "(-russa) Um jogo suicida",
+      "answer": "ROLETA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "HQ apresentada em uma única faixa horizontal",
+      "answer": "TIRA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Que não tem capacidade",
+      "answer": "INAPTO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Interjeição: uau!, maravilha!",
+      "answer": "SUPER",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O estanho, entre os químicos",
+      "answer": "SN",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Que se alimenta dos elementos que formam o esqueleto dos vertebrados",
+      "answer": "OSSIVORO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O que acontece ou aconteceu",
+      "answer": "FATO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Movimento súbito, espontâneo",
+      "answer": "ELÃ",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Sônia Bridi, jornalista catarinense",
+      "answer": "SB",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Um grande lago andino",
+      "answer": "TITICACA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Ligado",
+      "answer": "ANEXO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Um continente para produtos a granel",
+      "answer": "SACO",
+      "row": 0,
+      "col": 10
+    },
+    "15": {
+      "clue": "Neste instante",
+      "answer": "AGORA",
+      "row": 2,
+      "col": 4
+    },
+    "18": {
+      "clue": "Personagem de tradicional história alemã, de longas tranças",
+      "answer": "RAPUNZEL",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Uma unidade de tensão elétrica",
+      "answer": "MILIVOLT",
+      "row": 3,
+      "col": 7
+    },
+    "21": {
+      "clue": "Interessar-se",
+      "answer": "ZELAR",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Cessação temporária de hostilidades",
+      "answer": "TREGUA",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "O rio que banha Porto, em Portugal",
+      "answer": "DOURO",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Dar preferência",
+      "answer": "OPTAR",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Parte da planta, a que precede o fruto",
+      "answer": "FLOR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Material usado como cobertura de circos e barracas",
+      "answer": "LONA",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "Cotangente",
+      "answer": "COT",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "G",
+      "answer": "GE",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "(Farm.) Unidades Internacionais",
+      "answer": "UI",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

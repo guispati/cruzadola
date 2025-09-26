@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "A banda britânica de rock de \"London Calling\"",
+      "answer": "THECLASH",
+      "row": 0,
+      "col": 1
+    },
+    "8": {
+      "clue": "(Cul.) Preparação que pode ser doce ou salgada",
+      "answer": "CREME",
+      "row": 1,
+      "col": 0
+    },
+    "9": {
+      "clue": "Abreviatura de limitada",
+      "answer": "LTDA",
+      "row": 1,
+      "col": 6
+    },
+    "11": {
+      "clue": "(Geogr.) Conjunto de altos e baixos de uma região",
+      "answer": "RELEVO",
+      "row": 2,
+      "col": 2
+    },
+    "13": {
+      "clue": "Sophia Loren, atriz italiana",
+      "answer": "SL",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Marca chinesa de carros",
+      "answer": "JAC",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "A delta do voo livre",
+      "answer": "ASA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "(Pop.) Redução de apartamento",
+      "answer": "APE",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Uma das cores da bandeira brasileira",
+      "answer": "AZUL",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Ter a preferência",
+      "answer": "PRIMAR",
+      "row": 4,
+      "col": 5
+    },
+    "23": {
+      "clue": "Iluminador",
+      "answer": "ALUMIADOR",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Estimar muito",
+      "answer": "PREZAR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Planta aquática bastante primitiva",
+      "answer": "ALGA",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Documento de Arrecadação do Simples",
+      "answer": "DAS",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Duas pessoas",
+      "answer": "PAR",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "O olímpico é marcado de uma cobrança de escanteio",
+      "answer": "GOL",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Velocidade Diferencial",
+      "answer": "VD",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Matéria-prima para de luvas e calçados",
+      "answer": "PELICA",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Margem",
+      "answer": "ORLA",
+      "row": 9,
+      "col": 1
+    },
+    "37": {
+      "clue": "O M do ENEM",
+      "answer": "MEDIO",
+      "row": 9,
+      "col": 6
+    },
+    "39": {
+      "clue": "(Guerra dos) Importante revolta contra o governo do Brasil no período regencial (1835-1845)",
+      "answer": "FARRAPOS",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "As iniciais do ator Tony",
+      "answer": "TR",
+      "row": 0,
+      "col": 1
+    },
+    "2": {
+      "clue": "(Fig.) Homem de muita valentia e bravura",
+      "answer": "HERCULES",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "M",
+      "answer": "EME",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Quarto de prisioneiros nas cadeias",
+      "answer": "CELA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Pode ser de soltura",
+      "answer": "ALVARA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Abreviatura de santo",
+      "answer": "STO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Sigla ingl.) Alta Definção",
+      "answer": "HD",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Fruto aromático, usado em doces, sorvetes etc.",
+      "answer": "CAJA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Planta de brotos comestíveis quando tenros",
+      "answer": "ASPARGO",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Caderno preso por um tipo de mola fina",
+      "answer": "ESPIRAL",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Dedicar-se à leitura",
+      "answer": "LER",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Perseguido pela má sorte",
+      "answer": "AZARADO",
+      "row": 3,
+      "col": 1
+    },
+    "18": {
+      "clue": "Amassado, deformado",
+      "answer": "AMOLGADO",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "A iluminação que procede do Sol durante o dia",
+      "answer": "LUZ",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "A viagem que faz pressupor um regresso",
+      "answer": "IDA",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "Desenhar, sobre uma superfície, os contornos geográficos de uma região",
+      "answer": "MAPEAR",
+      "row": 5,
+      "col": 4
+    },
+    "25": {
+      "clue": "Programa de Demissão Voluntária",
+      "answer": "PDV",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Bulbo muito usado na alimentação",
+      "answer": "ALHO",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "A combinação de joia com lambisgoia",
+      "answer": "RIMA",
+      "row": 7,
+      "col": 6
+    },
+    "33": {
+      "clue": "(Gír.) Conversa",
+      "answer": "PLA",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Um dado da carta",
+      "answer": "CEP",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "Raimundo Fagner, cantor de \"Ave Noturna\"",
+      "answer": "RF",
+      "row": 9,
+      "col": 2
+    },
+    "38": {
+      "clue": "Põe os pingos neles quem quer deixar os fatos esclarecidos",
+      "answer": "IS",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

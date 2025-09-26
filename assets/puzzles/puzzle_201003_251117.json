@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Diz-se de rua com muitas árvores",
+      "answer": "ARBORIZADA",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Inocente, simplório",
+      "answer": "BOBO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "O número da camisa de Pelé",
+      "answer": "DEZ",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Uma multinacional dos eletroeletrônicos",
+      "answer": "LG",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Casa da Moeda do Brasil",
+      "answer": "CMB",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Incorporar, acolher",
+      "answer": "RECEBER",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "(Abrev.) Diretório Acadêmico",
+      "answer": "DA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Irmã unilateral",
+      "answer": "MEIAIRMÃ",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Vanessa da (?), cantora e compositora",
+      "answer": "MATA",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Um apelido para Sebastião",
+      "answer": "TIÃO",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Necessidade de dormir",
+      "answer": "SONO",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Acende o cigarro",
+      "answer": "FOGO",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "(Fut.) O capitão do penta",
+      "answer": "CAFU",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "(?) Benta, a vó de Narizinho e Pedrinho",
+      "answer": "DONA",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Uma característica da cama sobre a qual atletas fazem acrobacias",
+      "answer": "ELASTICA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Boletim de Ocorrência",
+      "answer": "BO",
+      "row": 7,
+      "col": 9
+    },
+    "28": {
+      "clue": "Lado contrário à esquerda",
+      "answer": "DIREITA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "(-stop) Sem interrupção",
+      "answer": "NON",
+      "row": 8,
+      "col": 8
+    },
+    "30": {
+      "clue": "Ocimar Versolato, estilista",
+      "answer": "OV",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Nas receitas médicas: em partes iguais",
+      "answer": "ANA",
+      "row": 9,
+      "col": 3
+    },
+    "32": {
+      "clue": "(Inform.) Unidade básica de informação",
+      "answer": "BYTE",
+      "row": 9,
+      "col": 7
+    },
+    "33": {
+      "clue": "Começar a nascer o dia",
+      "answer": "AURORESCER",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Antecedem o F",
+      "answer": "ABCDE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A capital europeia às margens do rio Tibre",
+      "answer": "ROMA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Big Brother Brasil",
+      "answer": "BBB",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Começo e fim do... ozônio",
+      "answer": "OO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Elaboração intelectual",
+      "answer": "IDEIA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O Pagodinho sambista",
+      "answer": "ZECA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Fruto servido como aperitivo",
+      "answer": "AZEITONA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "A língua falada em Bonn e Berlim",
+      "answer": "ALEMÃO",
+      "row": 0,
+      "col": 9
+    },
+    "12": {
+      "clue": "Qualquer pequeno corpo esférico ou arredondado",
+      "answer": "GRÃO",
+      "row": 1,
+      "col": 10
+    },
+    "14": {
+      "clue": "Fundamentalmente honesto",
+      "answer": "RETO",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Luta corpo a corpo",
+      "answer": "BRIGA",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Manejar",
+      "answer": "MANUSEAR",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "(Fig. pop.) Esperar em vão por alguém que não aparece",
+      "answer": "MOFAR",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Cuspe",
+      "answer": "SALIVA",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Animal polar adestrado em parques aquáticos",
+      "answer": "FOCA",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "O oposto de tarde",
+      "answer": "CEDO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Pronunciar palavras para que alguém as escreva",
+      "answer": "DITAR",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "Pó para impressoras a laser",
+      "answer": "TONER",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "O Marcos repórter esportivo",
+      "answer": "TINO",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Pequena embarcação para uso em lagos, açudes etc.",
+      "answer": "BOTE",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "New York City",
+      "answer": "NYC",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Base sem vogais",
+      "answer": "BS",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

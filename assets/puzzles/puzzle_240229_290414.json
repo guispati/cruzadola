@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "Que sofre de doença inflamatória dos rins",
+      "answer": "NEFRITICO",
+      "row": 0,
+      "col": 1
+    },
+    "10": {
+      "clue": "Conjunto de seres de patrimônio genético quase idêntico",
+      "answer": "BIOTIPO",
+      "row": 1,
+      "col": 2
+    },
+    "12": {
+      "clue": "A letras que separam o R e o V",
+      "answer": "STU",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Pessoa desengonçada, deselegante",
+      "answer": "MARMOTA",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Ato de ler a música pronunciando o nome das notas e dando o seu devido valor no tempo",
+      "answer": "SOLFEJO",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "(Fr.) Aperitivo feito com cassis e vinho",
+      "answer": "KIR",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Cidade catarinense",
+      "answer": "APIUNA",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Natuza Nery, jornalista",
+      "answer": "NN",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Grande depressão na terra",
+      "answer": "LERNA",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Marca de carros cujo símbolo é um cabrito montanhês",
+      "answer": "DODGE",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "O tântalo, em química",
+      "answer": "TA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Utensílios de cozinha",
+      "answer": "METAIS",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Uma abreviatura para administração",
+      "answer": "ADM",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Cidade paulista na divisa com o sul de Minas",
+      "answer": "CACONDE",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Aquela que dá o que possui, por caridade ou generosidade",
+      "answer": "DOADORA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Som que expressa um ruído leve e seco",
+      "answer": "TAC",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Planta também chamada pingo-de-ouro",
+      "answer": "DURANTA",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Osso longo do pé formado por um conjunto de cinco ossos",
+      "answer": "METATARSO",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Começar a ferver",
+      "answer": "EBULIR",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Fundos de Investimento",
+      "answer": "FI",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Nascida no país cuja capital é Bucareste",
+      "answer": "ROMENA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "A cidade de Goiás mais ao sul do estado",
+      "answer": "ITAJA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Explosão",
+      "answer": "TIRO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Inquérito Policial Militar",
+      "answer": "IPM",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O navegador inglês James (1728-1779) que consolidou a posse britânica na Austrália",
+      "answer": "COOK",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Atacado a mão armada",
+      "answer": "ASSALTADO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Jabá",
+      "answer": "CARNESECA",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "Com flâmulas ou galhardetes na extremidade superior dos mastros",
+      "answer": "TOPEADO",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Embebida em substância corante, para alterar a cor primitiva",
+      "answer": "TINGIDA",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Estilo musical",
+      "answer": "FUNK",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Outro nome do cetáceo toninha",
+      "answer": "BOTO",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Membro mais velho de um grupo (fem.)",
+      "answer": "DECANA",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "O ator carioca Daniel",
+      "answer": "DANTAS",
+      "row": 5,
+      "col": 8
+    },
+    "26": {
+      "clue": "Revolucionário francês (1743-1793)",
+      "answer": "MARAT",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "(in Brasil) Banda brasileira de rock dos anos 1970",
+      "answer": "MADE",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Branqueamento de roupa",
+      "answer": "CORA",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Documento Único de Transferência",
+      "answer": "DUT",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Tony Ramos, ator de \"Se Eu Fosse Você\"",
+      "answer": "TR",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

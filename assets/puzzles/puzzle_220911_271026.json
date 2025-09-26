@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Recipiente com alça usado em limpeza",
+      "answer": "BALDE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Prendedor para papel",
+      "answer": "CLIPE",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Unidade da Federação",
+      "answer": "UF",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Descobrir (um osso), tirando-lhe a polpa que o reveste",
+      "answer": "ESCARNAR",
+      "row": 1,
+      "col": 3
+    },
+    "13": {
+      "clue": "Um tipo de queijo",
+      "answer": "FRESCAL",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Abrev.: senhora",
+      "answer": "SRA",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "(Matem.) Reta orientada",
+      "answer": "EIXO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Satisfazer",
+      "answer": "FARTAR",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Inventar, criar, idealizar",
+      "answer": "CONCEBER",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "(-bomba) Veículo usado em atentados",
+      "answer": "CARRO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Nova utilização",
+      "answer": "REUSO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Lodoso",
+      "answer": "BARRENTO",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Núcleo habitado central ou periférico",
+      "answer": "BAIRRO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Uma unidade de medida elétrica V",
+      "answer": "VOLT",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Tecla de computador",
+      "answer": "ALT",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Exalar, emanar",
+      "answer": "ESPIRAR",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "O primeiro Parque Nacional do Brasil, criado em 1937",
+      "answer": "ITATIAIA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "A letra que precede o é",
+      "answer": "DE",
+      "row": 9,
+      "col": 9
+    },
+    "36": {
+      "clue": "O mais importante vaso do corpo humano",
+      "answer": "AORTA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Peças como bazucas, bombas e espadas",
+      "answer": "ARMAS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Mesa para servir iguarias e bebidas em festas e reuniões",
+      "answer": "BUFE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O continente com Serra Leoa e Namíbia",
+      "answer": "AFRICA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ofender o pudor",
+      "answer": "DESONRAR",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Uma tecla do computador",
+      "answer": "ESC",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Náut.) Cabo grosso, amarra",
+      "answer": "CALABRE",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "(Quím.) O laurêncio",
+      "answer": "LR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Aquele que ensina, que adestra",
+      "answer": "INSTRUTOR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O segundo maior estado do Brasil",
+      "answer": "PARA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O estado considerado como administração financeira",
+      "answer": "ERARIO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Bebida escura, aromática e excitante",
+      "answer": "CAFE",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Sair dos limites",
+      "answer": "EXORBITAR",
+      "row": 2,
+      "col": 2
+    },
+    "18": {
+      "clue": "Devolver",
+      "answer": "REENVIAR",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "O sobrenome dos poetas Viriato e Raimundo",
+      "answer": "CORREIA",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Animal usado em experiências",
+      "answer": "COBAIA",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Um lance perigoso no futebol",
+      "answer": "SOLADA",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Cor vermelho-clara",
+      "answer": "ROSA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Desenvolvido verticalmente",
+      "answer": "ALTO",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Doze menos nove",
+      "answer": "TRES",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "A bacia onde louças são lavadas",
+      "answer": "PIA",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Tina Turner, cantora e atriz",
+      "answer": "TT",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

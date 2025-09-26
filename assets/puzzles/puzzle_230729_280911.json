@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Carro da VW",
+      "answer": "FUSCA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Tradicional bairro do Rio de Janeiro",
+      "answer": "GAVEA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Um antílope africano",
+      "answer": "PALANCA",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Ti invertido",
+      "answer": "IT",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Pequena cidade mineira, no sul do estado",
+      "answer": "JACUI",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Um artigo francês",
+      "answer": "LE",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Cidade do Acre, na região de Brasiléia",
+      "answer": "XAPURI",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "As horas depois da uma",
+      "answer": "DUAS",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Interjeição de alegria, admiração",
+      "answer": "EBA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Isento de vaidade",
+      "answer": "MODESTO",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Dar a um centro rural caráter de cidade",
+      "answer": "URBANIZAR",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Decompor (um número) em seus fatores primos",
+      "answer": "FATORAR",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Dicionário",
+      "answer": "DIC",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "A mesma coisa de antes",
+      "answer": "IDEM",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "O membro mais velho de uma academia",
+      "answer": "DECANO",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "(Quím.) Tântalo",
+      "answer": "TA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Nascente",
+      "answer": "BROTA",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Antonio Vivaldi (1678-1741), músico clássico",
+      "answer": "AV",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "Da capital do Egito",
+      "answer": "CAIROTA",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Da cor do sangue",
+      "answer": "RUBRO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Descida de um paredão, com cordas",
+      "answer": "RAPEL",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Molho, conjunto",
+      "answer": "FEIXE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Sigla de São Paulo",
+      "answer": "SP",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Fruto amarelo, rosado ou vermelho, rico em vitamina C",
+      "answer": "CAJU",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Pôr em apreensão",
+      "answer": "ALARMAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Grande antílope de cornos semelhantes aos do boi",
+      "answer": "GNU",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Um distúrbio gástrico",
+      "answer": "ACIDEZ",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Volt-ampère, unidade de potência",
+      "answer": "VA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Que arde produzindo chama",
+      "answer": "ACESO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "(Jur.) Autor de ação judicial",
+      "answer": "ACIONADOR",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Quadro com as quatro operações fundamentais da aritmética",
+      "answer": "TABUADA",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Privada",
+      "answer": "LATRINA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Pedaço",
+      "answer": "PARTE",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Que não é nova",
+      "answer": "USADA",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Um alto cargo administrativo",
+      "answer": "DIRETOR",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Superar todas as expectativas",
+      "answer": "BOMBAR",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Olhar com atenção",
+      "answer": "FITAR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Antro",
+      "answer": "COVIL",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Escolha do café",
+      "answer": "CATA",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Corrente de água",
+      "answer": "RIO",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "O colômbio, entre os químicos",
+      "answer": "CB",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Sigla do estado de Mazagão e Macapá",
+      "answer": "AP",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

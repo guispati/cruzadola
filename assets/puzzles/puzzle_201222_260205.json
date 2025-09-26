@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "A capital paraense",
+      "answer": "BELEM",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Preso, unido",
+      "answer": "AFIXO",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "(Fig.) Coisa atraente",
+      "answer": "IMÃ",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Atormentar, torturar",
+      "answer": "AFLIGIR",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Sigla do estado de Ribeirão Preto e Registro",
+      "answer": "SP",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "A flor que se levava na lapela",
+      "answer": "CRAVO",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Uma medida padrão para tamanho de roupas",
+      "answer": "XG",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Mestiço de branco com índio",
+      "answer": "CABOCLO",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Capital de um país banhado pelo mar Egeu",
+      "answer": "ATENAS",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Resto de cigarro fumado, que se joga fora",
+      "answer": "TOCO",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Envolto em mexericos",
+      "answer": "INTRIGADO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "A da gazela é uma obra do escritor José de Alencar",
+      "answer": "PATA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Após",
+      "answer": "DEPOIS",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Outro nome da fruta abricó",
+      "answer": "DAMASCO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Mato Grosso do Sul",
+      "answer": "MS",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Domínio, autoridade",
+      "answer": "PODER",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Edson Celulari, ator",
+      "answer": "EC",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Da família dos carneiros, bois, antílopes etc.",
+      "answer": "BOVIDEO",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Nesse ponto",
+      "answer": "DAI",
+      "row": 9,
+      "col": 8
+    },
+    "35": {
+      "clue": "Morte",
+      "answer": "OBITO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "A exalação que apaga a vela",
+      "answer": "SOPRO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Pop.) Indivíduo ruim, de mau caráter",
+      "answer": "BISCA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O oposto de repulsão",
+      "answer": "EMPATIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um fio muito usado na confecção de blusas de frio",
+      "answer": "LÃ",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Causar profunda impressão moral em",
+      "answer": "MARCAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Que é branco",
+      "answer": "ALVO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Fina corrente de líquido",
+      "answer": "FIO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Instituto de Geografia",
+      "answer": "IG",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O século ao qual pertence o ano de 1801",
+      "answer": "XIX",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Veículo de divulgação",
+      "answer": "ORGÃO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Deslealdade",
+      "answer": "FALSIDADE",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Consideração, estima, apreço, respeito",
+      "answer": "CONTA",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "O Chico personagem caipira das HQs",
+      "answer": "BENTO",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Boas maneiras",
+      "answer": "MODOS",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Arrolhar",
+      "answer": "TAPAR",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Dar pancada com as patas traseiras, própria dos quadrúpedes",
+      "answer": "COICEAR",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Terceiro signo do zodíaco, que vai de 21 de maio a 20 de junho",
+      "answer": "GEMEOS",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "(-correio) Uma ave domesticável",
+      "answer": "POMBO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Parceiro em negócio",
+      "answer": "SOCIO",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Músico baiano que, com Osmar, criou os trios elétricos",
+      "answer": "DODO",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "À sombra de",
+      "answer": "SOB",
+      "row": 8,
+      "col": 1
+    },
+    "30": {
+      "clue": "Piotr Ilitch Tchaikovsky (1840-1893), compositor",
+      "answer": "PIT",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "1/10 de LX",
+      "answer": "VI",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Distrito Policial",
+      "answer": "DP",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Do estado AM",
+      "answer": "AMAZONENSE",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Água em estado gasoso",
+      "answer": "VAPOR",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Feito por ele ou ela",
+      "answer": "SEU",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Acima do padrão ou maior que o normal",
+      "answer": "ALTO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Rede de tevê, especializada em música",
+      "answer": "MTV",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Abreviatura de plural",
+      "answer": "PL",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Tratamento que os escravos davam aos senhores",
+      "answer": "NHO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "A caricatura de um drama",
+      "answer": "PARODIA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "(Quím.) O tântalo",
+      "answer": "TA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "O arquipélago cuja fossa constitui o mais profundo vale submarino",
+      "answer": "MARIANAS",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Completa, pronta",
+      "answer": "FORMADA",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "Animado",
+      "answer": "ALENTADO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Lázaro Ramos, ator de \"Madame Satã\"",
+      "answer": "LR",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "Região litorânea europeia no Mediterrâneo",
+      "answer": "RIVIERA",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Espaço de tempo equivalente a 24 horas",
+      "answer": "DIA",
+      "row": 7,
+      "col": 8
+    },
+    "26": {
+      "clue": "Dean Martin, ator",
+      "answer": "DM",
+      "row": 8,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Nastácia) Personagem de Monteiro Lobato",
+      "answer": "TIA",
+      "row": 8,
+      "col": 3
+    },
+    "28": {
+      "clue": "O James 007",
+      "answer": "BOND",
+      "row": 8,
+      "col": 7
+    },
+    "29": {
+      "clue": "Sofrimento que faz chorar",
+      "answer": "DOR",
+      "row": 9,
+      "col": 2
+    },
+    "30": {
+      "clue": "O parceiro do Magro na dupla cômica",
+      "answer": "GORDO",
+      "row": 9,
+      "col": 6
+    },
+    "31": {
+      "clue": "Não desperdiçar",
+      "answer": "APROVEITAR",
+      "row": 10,
+      "col": 1
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Fr.) De vanguarda",
+      "answer": "AVANTGARDE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Entrançado que se usa na armação de lajes",
+      "answer": "MALHA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Que tem as qualidades exigidas",
+      "answer": "APTO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Red.) Parque onde podem ser vistos jacarés e veados",
+      "answer": "ZOO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Sufixo: autor, agente",
+      "answer": "OR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Com sulcos",
+      "answer": "ESTRIADA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Nublado",
+      "answer": "NEVOADO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "As letras que cercam o T",
+      "answer": "SU",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "O que se espraia ou se estende",
+      "answer": "ALASTRADOR",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "O mar que banha Istambul, na Turquia",
+      "answer": "MARMARA",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Local para se lavar louças",
+      "answer": "PIA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Médico obstetra que assiste as parturientes",
+      "answer": "PARTEIRO",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "O teste que examina os genes para fins de reconhecimento de paternidade",
+      "answer": "DNA",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Tela do PC",
+      "answer": "MONITOR",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Abreviatura do nome do segundo mês",
+      "answer": "FEV",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Limite",
+      "answer": "LIM",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "Formosa, bela",
+      "answer": "LINDA",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Distúrbios Osteomusculares Relacionados ao Trabalho",
+      "answer": "DORT",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "(Peixe-) Outro nome do manati",
+      "answer": "BOI",
+      "row": 8,
+      "col": 7
+    },
+    "29": {
+      "clue": "Delegacia de Polícia",
+      "answer": "DP",
+      "row": 9,
+      "col": 2
+    },
+    "30": {
+      "clue": "A quinta consoante",
+      "answer": "GE",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

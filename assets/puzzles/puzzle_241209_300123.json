@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Pegar o gosto do café sem açúcar",
+      "answer": "AMARGAR",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Centro de Tratamento Intensivo",
+      "answer": "CTI",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O trabalhador que limpa as ruas",
+      "answer": "GARI",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Chamar a juízo",
+      "answer": "CITAR",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Um fornecedor do construtor",
+      "answer": "AREAL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "As movimentações das águas dos oceanos, para cima e para baixo",
+      "answer": "MARES",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Soltar (o cão) seus gritos lamentosos",
+      "answer": "GANIR",
+      "row": 3,
+      "col": 1
+    },
+    "18": {
+      "clue": "Equipe de futebol",
+      "answer": "TIME",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Sigla da UF que faz divisa com MA e BA",
+      "answer": "TO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Acrescentar",
+      "answer": "ADITAR",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "(da Serra) Cidade da Grande São Paulo",
+      "answer": "ITAPECERICA",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Famosa marca mexicana de cerveja",
+      "answer": "CORONA",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "(Quím.) Ósmio",
+      "answer": "OS",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "De forma elíptica",
+      "answer": "OVAL",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Som que, nas escolas, indica o início e o término das aulas",
+      "answer": "SINAL",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "Língua falada pelos antigos romanos",
+      "answer": "LATIM",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "O assento das motos",
+      "answer": "SELIM",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Duas pessoas que mantêm relação íntima",
+      "answer": "CASAL",
+      "row": 9,
+      "col": 1
+    },
+    "37": {
+      "clue": "A cantora capixaba Calazans",
+      "answer": "TECA",
+      "row": 9,
+      "col": 7
+    },
+    "38": {
+      "clue": "(Fut.) Uma tecnologia que auxilia arbitragens",
+      "answer": "VAR",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "O personagem que quer devorar Chapeuzinho Vermelho",
+      "answer": "LOBOMAU",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "H",
+      "answer": "AGA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A Robbie atriz de \"Barbie\"",
+      "answer": "MARGOT",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Fig.) Campo em que se pratica certa atividade",
+      "answer": "AREA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Cidade goiana, próxima a Goianésia",
+      "answer": "RIANAPOLIS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Sigla do estado de Xapuri e Rio Branco",
+      "answer": "AC",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O órgão que é extirpado na nefrectomia",
+      "answer": "RIM",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Região do Ceará, abrange Crato e Juazeiro do Norte",
+      "answer": "CARIRI",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O meio de transporte da estação ferroviária",
+      "answer": "TREM",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Um parente distante",
+      "answer": "TATARANETO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Chefe, comandante",
+      "answer": "LIDER",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "(Vidas) Uma obra de Graciliano Ramos",
+      "answer": "SECAS",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Aqueles que possuem bens além dos necessários",
+      "answer": "RICOS",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Famosa região alpina da Áustria",
+      "answer": "TIROL",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "O esporte de Roger Federer",
+      "answer": "TENIS",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Concordar com submissão",
+      "answer": "ACATAR",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Dor aguda numa víscera abdominal",
+      "answer": "COLICA",
+      "row": 5,
+      "col": 9
+    },
+    "28": {
+      "clue": "A carne bovina usada como alimento",
+      "answer": "VACA",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "(disso) De mais a mais",
+      "answer": "ALEM",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "(-intencionado) Cuja intenção é prejudicar",
+      "answer": "MAL",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "Perverso, ruim",
+      "answer": "MAU",
+      "row": 8,
+      "col": 10
+    },
+    "36": {
+      "clue": "Um tipo de tecido leve e transparente",
+      "answer": "LO",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

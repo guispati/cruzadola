@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Ingl.) O conjunto das apostas nas corridas de cavalos",
+      "answer": "BETTING",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Tempo entre Mar e Mai",
+      "answer": "ABR",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "No meio",
+      "answer": "ENTRE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Beiço",
+      "answer": "LABIO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Naná Vasconcelos, músico pernambucano",
+      "answer": "NV",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Armação para fundear um navio",
+      "answer": "ANCORA",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Tecido para roupas esportivas",
+      "answer": "TACTEL",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Assunto, conteúdo, proposição, tese, mote",
+      "answer": "TEMA",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Continente do oriente",
+      "answer": "ASIA",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Acrescentar, somar",
+      "answer": "ADITAR",
+      "row": 4,
+      "col": 5
+    },
+    "23": {
+      "clue": "Perder a flexibilidade",
+      "answer": "ENDURECER",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Tosquiada",
+      "answer": "TOSADA",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "O que transforma bota em botija",
+      "answer": "IJ",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Um papagaio",
+      "answer": "TIRIBA",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Antílope com chifres parecidos com os dos bois",
+      "answer": "GNU",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Vesícula biliar",
+      "answer": "FEL",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "(Fig.) Orientar, guiar",
+      "answer": "NORTEAR",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Importante cidade portuária do litoral catarinense",
+      "answer": "ITAJAI",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "A massa de água que arrebenta na praia",
+      "answer": "ONDA",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "Solução que se emprega na hidratação de um doente",
+      "answer": "SORO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Erguer, levantar",
+      "answer": "ALCEAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Dona) A vovó de Monteiro Lobato",
+      "answer": "BENTA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Envasilhamento",
+      "answer": "ENVASE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "As consoantes de totó",
+      "answer": "TT",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um que cuida e alimenta animais",
+      "answer": "TRATADOR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Forte moeda do mercado econômico internacional",
+      "answer": "IENE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Garantia da Lei e da Ordem",
+      "answer": "GLO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Famosa lagoa de Salvador, ponto de atração turística",
+      "answer": "ABAETE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Red.) Campeão por duas vezes",
+      "answer": "BI",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Pop.) Ser despedido",
+      "answer": "RODAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Diz-se da zona do Polo Norte",
+      "answer": "ARTICA",
+      "row": 1,
+      "col": 7
+    },
+    "15": {
+      "clue": "Abertura envidraçada no alto de edifícios, para dar passagem à luz",
+      "answer": "CLARABOIA",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Brilhar tremeluzindo",
+      "answer": "CINTILAR",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Molho condimentado para conservar e temperar carnes",
+      "answer": "MARINADA",
+      "row": 3,
+      "col": 9
+    },
+    "22": {
+      "clue": "(Gír.) Denunciar",
+      "answer": "DEDAR",
+      "row": 4,
+      "col": 6
+    },
+    "24": {
+      "clue": "Indústria que produz energia, álcool etc.",
+      "answer": "USINA",
+      "row": 5,
+      "col": 4
+    },
+    "27": {
+      "clue": "Prometer formalmente",
+      "answer": "JURAR",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "(Fig.) Lar",
+      "answer": "TETO",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "O músico de rockabilly Vincent (1935-1971), de \"Be-Bop-A-Lula\"",
+      "answer": "GENE",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Física",
+      "answer": "FIS",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Psiq.) A sigla de Transtorno Obsessivo-Compulsivo",
+      "answer": "TOC",
+      "row": 8,
+      "col": 7
+    },
+    "34": {
+      "clue": "O humorista e escritor Soares (1938-2022)",
+      "answer": "JO",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

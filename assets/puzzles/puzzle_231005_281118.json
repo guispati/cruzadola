@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Que se pode ou se deve fazer como outrem",
+      "answer": "IMITAVEL",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "(-Paraná) A segunda maior cidade de Rondônia",
+      "answer": "JI",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Equipamento que faz a conexão entre o computador e a linha telefônica",
+      "answer": "MODEM",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Limitado a um lugar",
+      "answer": "LOCAL",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Dar nós",
+      "answer": "ATAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Fama",
+      "answer": "RENOME",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Um apelido para Giovana",
+      "answer": "GI",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Que vive em bando",
+      "answer": "GREGARIO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Outro nome da árvore pau-de-lixa",
+      "answer": "EMBAUBA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "A letra entre o bê e o dê",
+      "answer": "CE",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "De um importante sistema montanhoso da Europa",
+      "answer": "ALPENSE",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Biblioteca Nacional",
+      "answer": "BN",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Comprimir em passagem estreita",
+      "answer": "ENTALAR",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "Membro de um bando organizado de malfeitores",
+      "answer": "GANGSTER",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Onomatopeia da voz dos cordeiros",
+      "answer": "BE",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "(Em) Ainda não decidido ou concluído",
+      "answer": "ABERTO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Mais adiante",
+      "answer": "ALEM",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Gerenciar",
+      "answer": "GERIR",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "O cantor norte-americano Springsteen",
+      "answer": "BRUCE",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Orígenes Lessa, escritor",
+      "answer": "OL",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Desmanchar o que foi feito",
+      "answer": "DESFAZER",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Fig.) Visão",
+      "answer": "IMAGEM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Revolta popular",
+      "answer": "MOTIM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Contrário de volta",
+      "answer": "IDA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um tecido que não amassa facilmente",
+      "answer": "TERGAL",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Agatha Moreira, atriz carioca",
+      "answer": "AM",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Pop.) Boa-pinta",
+      "answer": "ELEGANTE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "No jogo da porrinha, zero ponto pelo fato de o jogador nada ter na mão",
+      "answer": "LONA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O chef britânico Oliver",
+      "answer": "JAMIE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A parte do intestino em que se localiza o bacilo do tifo",
+      "answer": "ILEO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Cavalo de batalha",
+      "answer": "CORCEL",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "(Fam.) Filho, descendente",
+      "answer": "REBENTO",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Relativo às rochas",
+      "answer": "RUPESTRE",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "(Ingl.) Peça publicitária em forma de bandeira",
+      "answer": "BANNER",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Mulato aloirado",
+      "answer": "SARARA",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "Ter frio ou medo",
+      "answer": "TREMER",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "Uma torre bíblica",
+      "answer": "BABEL",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Região de São Paulo com grande concentração de indústrias",
+      "answer": "ABECE",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Um que fala com dificuldade",
+      "answer": "GAGO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Em algumas corridas de automóveis, colocação de largada dos carros",
+      "answer": "GRID",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "Iluminação",
+      "answer": "LUZ",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Bruno Fratus, nadador",
+      "answer": "BF",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

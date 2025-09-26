@@ -1,0 +1,258 @@
+{
+  "across": {
+    "2": {
+      "clue": "(Mús.) Sem tema definido",
+      "answer": "ATEMATICO",
+      "row": 0,
+      "col": 2
+    },
+    "10": {
+      "clue": "Evandro Mesquita, ator e músico",
+      "answer": "EM",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Falta de atividade",
+      "answer": "INAÇÃO",
+      "row": 1,
+      "col": 3
+    },
+    "13": {
+      "clue": "Divisão do Imposto de Renda",
+      "answer": "DIR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Qualquer pequeno corpo esférico ou arredondado",
+      "answer": "GRÃO",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Ronnie Von, cantor",
+      "answer": "RV",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Administrador de bens ou rendas de outrem",
+      "answer": "ECONOMO",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Microempreendedor Individual",
+      "answer": "MEI",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Pedra grande",
+      "answer": "MOLEDO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Rainha",
+      "answer": "DAMA",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Utensílio de mesa, para servir certa bebida alcoólica adocicada",
+      "answer": "LICOREIRO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Qualquer composição musical ou artística",
+      "answer": "PEÇA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Expedir",
+      "answer": "ENVIAR",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Resposta desfavorável",
+      "answer": "NÃO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Um segmento ósseo do dedo",
+      "answer": "FALANGE",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Extremo Oriente",
+      "answer": "EO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Planta tirada do viveiro para plantação definitiva",
+      "answer": "MUDA",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Abrev.: eletrencefalograma",
+      "answer": "EEG",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Um doce de amendoim",
+      "answer": "PAÇOCA",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Som que imita o balido da ovelha",
+      "answer": "ME",
+      "row": 9,
+      "col": 9
+    },
+    "35": {
+      "clue": "Município fluminense, na região dos Lagos",
+      "answer": "SAQUAREMA",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Cauda das reses e o respectivo cabelo",
+      "answer": "SEDEM",
+      "row": 0,
+      "col": 0
+    },
+    "3": {
+      "clue": "Uma variação do pronome tu",
+      "answer": "TI",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Logro, trapaça",
+      "answer": "ENGODO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Encadernador que trabalha com certo papel colorido com manchas e veios",
+      "answer": "MARMOREADOR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(de Graças) Um feriado dos EUA e Canadá",
+      "answer": "AÇÃO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Em tal grau",
+      "answer": "TÃO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Instituto Oceanográfico",
+      "answer": "IO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Evidente, lógico (fem.)",
+      "answer": "OBVIA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Pequeno macaco da Mata Atlântica",
+      "answer": "MICOLEÃO",
+      "row": 1,
+      "col": 1
+    },
+    "14": {
+      "clue": "Cilíndrico",
+      "answer": "ROLIÇO",
+      "row": 2,
+      "col": 2
+    },
+    "16": {
+      "clue": "Ato de triturar novamente até reduzir a pó",
+      "answer": "REMOAGEM",
+      "row": 2,
+      "col": 9
+    },
+    "18": {
+      "clue": "(Gír.) Coisa nenhuma",
+      "answer": "NECA",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Fuzileiro naval norte-americano",
+      "answer": "MARINE",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Ótima cantora",
+      "answer": "DIVA",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Ato de apertar entre os braços",
+      "answer": "ENLACE",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "São cinco nos carros de passeio, contando o estepe",
+      "answer": "PNEUS",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Administrar",
+      "answer": "REGER",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "(Pop.) Cara, rosto",
+      "answer": "FUÇA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Perverso",
+      "answer": "MAU",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "As letras que separam o O do R",
+      "answer": "PQ",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Sigla de um estado que faz divisa com RR e RO",
+      "answer": "AM",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Posto fora de ação",
+      "answer": "DESATIVADO",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Suposta aparição de pessoa morta ou de sua alma",
+      "answer": "ORO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Ilha espanhola do Mediterrâneo",
+      "answer": "IBIZA",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Peixe de água doce também chamado Saint Peter",
+      "answer": "TILAPIA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Sigla de Número mais provável, técnica usada para contagem",
+      "answer": "NMP",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "O conjunto das sete cores do espectro solar",
+      "answer": "IRIS",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Levantar com cordas",
+      "answer": "IÇAR",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "O escultor francês Auguste (1840-1917)",
+      "answer": "RODIN",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Cidade da região de São Carlos, em SP",
+      "answer": "IBATE",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Peixe cru fatiado, prato típico japonês",
+      "answer": "SASHIMI",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Egberto Gismonti, músico",
+      "answer": "EG",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Abreviatura de foot, medida inglesa de extensão",
+      "answer": "FT",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Igual, semelhante",
+      "answer": "COMPAR",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Os LPs possuiam o A e o B",
+      "answer": "LADO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Serpente do Brasil, também chamada boipevaçu",
+      "answer": "PEPEVA",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "Advocacia Geral da União",
+      "answer": "AGU",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Deslizarem (as rodas do carro) por efeito da aceleração",
+      "answer": "PATINAR",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Calças compridas e largas com bocas amplas",
+      "answer": "PANTALONAS",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "A \"Veneza marajoara\", cidade da ilha de Marajó (PA)",
+      "answer": "AFUA",
+      "row": 10,
+      "col": 2
+    },
+    "36": {
+      "clue": "Outro nome da babosa",
+      "answer": "ALOE",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Prover do que é necessário",
+      "answer": "DOTAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O ator Johnson",
+      "answer": "ERI",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Resistente na estrutura (fem.)",
+      "answer": "SOLIDA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Pop.) Pessoa insignificante",
+      "answer": "TIPINHO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Uma grande rede de hoteis",
+      "answer": "IBIS",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(de regra) Geralmente",
+      "answer": "VIA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "A primeira e a última letra",
+      "answer": "AZ",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "A do ventre é típica de certas regiões do Oriente",
+      "answer": "DANÇA",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "Anunciar em voz alta",
+      "answer": "APREGOAR",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "Desconfiado, ressabiado",
+      "answer": "ARISCO",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Um xeque no xadrez",
+      "answer": "MATE",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Cidade cearense próxima a Sobral",
+      "answer": "IBIAPINA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Cabo náutico para levantar pesos",
+      "answer": "OSTAGA",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Força súbita e intensa",
+      "answer": "IMPETO",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Antílope africano, saltador, de porte médio",
+      "answer": "IMPALA",
+      "row": 5,
+      "col": 5
+    },
+    "24": {
+      "clue": "Um aerofólio do avião",
+      "answer": "FLAPE",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Que se refere ao rim",
+      "answer": "RENAL",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Monte de areia",
+      "answer": "DUNA",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Peça onde se planta flores, ervas etc.",
+      "answer": "VASO",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "(-d'água) Bêbado, ébrio",
+      "answer": "PAU",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "Thaís Fersoza, atriz",
+      "answer": "TF",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

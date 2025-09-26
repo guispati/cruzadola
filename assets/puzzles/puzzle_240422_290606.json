@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Pedaço grande arrancado de qualquer alimento",
+      "answer": "NACO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Exalação pútrida que emana de animais em decomposição",
+      "answer": "MIASMA",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Uma fila de nomes",
+      "answer": "ELENCO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "O ator García Bernal, de \"Diários de Motocicleta\"",
+      "answer": "GAEL",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "(Red.) O dia seguinte à segunda",
+      "answer": "TERÇA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Cantor e apresentador paulistano",
+      "answer": "SUPLA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Esperado",
+      "answer": "AGUARDADO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Vibração que viaja a 340 m/s",
+      "answer": "SOM",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "O quarto do presidiário",
+      "answer": "CELA",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Precede o sobrenome do pintor Cavalcanti (1897-1976)",
+      "answer": "DI",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "Uma empresa de comunicação televisiva",
+      "answer": "REDETV",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Partes terminais dos membros de um vertebrado terrestre",
+      "answer": "PES",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Fundos de Investimento",
+      "answer": "FI",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Separação",
+      "answer": "TRIAGEM",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "(Sigla) Substância com propriedades alucinógenas",
+      "answer": "LSD",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Um tipo de cobertor",
+      "answer": "EDREDOM",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Um oposto de realidade",
+      "answer": "UTOPIA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "(-magro) Outro nome do bicho-pau",
+      "answer": "MANE",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Reparar, curar",
+      "answer": "SANAR",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "O assento das bicicletas",
+      "answer": "SELIM",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Incensar",
+      "answer": "AROMAR",
+      "row": 10,
+      "col": 2
+    },
+    "36": {
+      "clue": "Em física: abreviatura de oersted",
+      "answer": "OE",
+      "row": 10,
+      "col": 9
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "As filhas das filhas",
+      "answer": "NETAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Pessoa que se expressa por meio de imagens ou representações simbólicas",
+      "answer": "ALEGORISTA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Cera do ouvido",
+      "answer": "CERUME",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Medida de peso igual a 28,349 g",
+      "answer": "ONÇA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A roda de pedra do afiador de facas",
+      "answer": "MO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Como a voz da soprano",
+      "answer": "AGUDA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Pop.) Pessoa que observa um jogo",
+      "answer": "SAPO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Fluido açucarado, viscoso, produzido pelas abelhas",
+      "answer": "MEL",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A cantora canadense Morissette",
+      "answer": "ALANIS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Guarda que vive entre detentos",
+      "answer": "CARCEREIRO",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Defender de perigos, ameaças etc.",
+      "answer": "SALVAR",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Quem está presa",
+      "answer": "DETIDA",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Diabo, lúcifer",
+      "answer": "DEMONIO",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Departamento Técnico",
+      "answer": "DT",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Uma peça do piano",
+      "answer": "PEDAL",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Uma combinação de cartas do pôquer",
+      "answer": "FLUSH",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Exprimir a dor com voz lamentosa e não articulada",
+      "answer": "GEMER",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Proprietária",
+      "answer": "DONA",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Post viral",
+      "answer": "MEME",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Um número como 2 ou 70",
+      "answer": "PAR",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Faz dupla com Guarabyra, do sucesso \"Dona\"",
+      "answer": "SA",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

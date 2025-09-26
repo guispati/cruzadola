@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Ingl.) Empresa emergente com viés na inovação de serviços e negócios",
+      "answer": "STARTUP",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Som eletrônico de aviso",
+      "answer": "BIP",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Instrumento musical frequente nas igrejas",
+      "answer": "ORGÃO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Nervosa",
+      "answer": "IRADA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "(Pop.) Pessoa gorda, pesada, corpulenta",
+      "answer": "BOI",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O dedo mais curto e grosso da mão",
+      "answer": "POLEGAR",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Os pais dos pais",
+      "answer": "AVOS",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Móvel com gavetas para guardar roupas",
+      "answer": "COMODA",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Fio animal usado para suturas em cirurgias",
+      "answer": "CATEGUTE",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Afiada, aguçada",
+      "answer": "AMOLADA",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Pôr obstáculos a um movimento",
+      "answer": "ENTRAVAR",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "(Pop.) O \"salário\" dos filhos",
+      "answer": "MESADA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Vigoroso",
+      "answer": "RIJO",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Sem cheiro (fem.)",
+      "answer": "INODORA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Um serviço que cuida da saúde da população",
+      "answer": "SUS",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "(Por) A propósito",
+      "answer": "SINAL",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Historinha engraçada",
+      "answer": "PIADA",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Su-sudoeste",
+      "answer": "SSO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Divertir",
+      "answer": "ALEGRAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Pop.) Axila",
+      "answer": "SOBACO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Composição lírica ligeira e mais ou menos popular",
+      "answer": "TROVA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um que pratica a usura",
+      "answer": "AGIOTA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Mãe de girinos",
+      "answer": "RÃ",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O de linha é o carro mais completo na sua categoria",
+      "answer": "TOP",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Dirigir um avião",
+      "answer": "PILOTAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Grão de frutas e cereais",
+      "answer": "BAGO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A soma dos anos de uma pessoa",
+      "answer": "IDADE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O segundo maior estado do Brasil",
+      "answer": "PARA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Imitar de forma destorcida",
+      "answer": "REMEDAR",
+      "row": 1,
+      "col": 7
+    },
+    "15": {
+      "clue": "Não revelar, não demonstrar",
+      "answer": "OCULTAR",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Terreno em que foi espalhado o grão para germinar",
+      "answer": "SEMEADA",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Estante de supermercado",
+      "answer": "GONDOLA",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Mandar recado, informar",
+      "answer": "AVISAR",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Escrever livremente, sem normas métricas",
+      "answer": "PROSAR",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "O esporte de Thiago Monteiro e Bia Haddad",
+      "answer": "TENIS",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Obséquio",
+      "answer": "AJUDA",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Uma rainha da beleza",
+      "answer": "MISS",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Vontade ou necessidade de dormir",
+      "answer": "SONO",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "(Pop.) Redução de apartamento",
+      "answer": "APE",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "(Sigla) Instituto de Geologia",
+      "answer": "IG",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

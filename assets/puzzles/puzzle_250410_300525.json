@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Gír.) Prazer provocado por droga",
+      "answer": "ONDA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Base em que se arma algo",
+      "answer": "CHASSI",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Aba do telhado",
+      "answer": "BEIRAL",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "(Fig.) Escuridão total",
+      "answer": "BREU",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Navegar (embarcação)",
+      "answer": "VOGAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O estado CE",
+      "answer": "CEARA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Claro e evidente",
+      "answer": "INEGAVEL",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Índio, elemento químico",
+      "answer": "IN",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Conservar alguma coisa",
+      "answer": "RETER",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "F",
+      "answer": "EFE",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "Sabre oriental de lâmina com um só gume",
+      "answer": "CIMITARRA",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Terra natal",
+      "answer": "LAR",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "O desejo de quem tem fome",
+      "answer": "COMER",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "O fim de Asterix",
+      "answer": "IX",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Pureza",
+      "answer": "PURIDADE",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "(Tamanduá-) Animal encontrado da Venezuela ao Sul do Brasil",
+      "answer": "MIRIM",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Perder a resistência",
+      "answer": "CEDER",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Um dos quatro naipes",
+      "answer": "PAUS",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Um vasilhame",
+      "answer": "BOTIJA",
+      "row": 9,
+      "col": 5
+    },
+    "33": {
+      "clue": "Processo bioquímico",
+      "answer": "OSMOSE",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Mover-se como a águia",
+      "answer": "VOAR",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Evidente, lógica",
+      "answer": "OBVIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Gás usado em lâmpadas especiais",
+      "answer": "NEON",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um problema para quem sofre de apepsia",
+      "answer": "DIGERIR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Viração",
+      "answer": "ARAGEM",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O cloro",
+      "answer": "CL",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O jornalista esportivo Neto",
+      "answer": "ABEL",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Abrev.: senhora",
+      "answer": "SRA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Tip.) Pequeno traço que remata pontos terminais de algumas letras",
+      "answer": "SERIFA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A unidade monetária da China",
+      "answer": "IUANE",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Fruto doce, também chamado anona",
+      "answer": "ARATICUM",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Relativo à arte de trabalhar os vasos de terracota",
+      "answer": "CERAMICO",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Um termo da matemática",
+      "answer": "VETOR",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Que anda sem meta",
+      "answer": "ERRADIO",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "(do Sul) Grande cidade gaúcha",
+      "answer": "CAXIAS",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Famosa empresa de comunicação televisiva",
+      "answer": "REDETV",
+      "row": 5,
+      "col": 7
+    },
+    "22": {
+      "clue": "Asseado",
+      "answer": "LIMPO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Dar à luz",
+      "answer": "GERAR",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Pavimento",
+      "answer": "PISO",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "(-vu) Sensação de já ter vivido um fato",
+      "answer": "DEJA",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Bebida proveniente da cana-de-açúcar",
+      "answer": "RUM",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "(Mar.) Abreviatura de boreste",
+      "answer": "BE",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

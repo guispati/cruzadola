@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Escamas que se criam no couro cabeludo",
+      "answer": "CASPA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Menino que integra o cortejo de um casamento",
+      "answer": "PAJEM",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Considerar verdadeira alguma coisa",
+      "answer": "CRER",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Vaso de serviço de chá",
+      "answer": "BULE",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Uma característica do verão",
+      "answer": "CALOR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O oposto de rebelde",
+      "answer": "DOCIL",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "O maciço dos Alpes com Bolzano e Udine, na Itália",
+      "answer": "DOLOMITAS",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "Arnaldo Antunes, poeta e músico, ex-\"Titãs\"",
+      "answer": "AA",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Compartimento reservado",
+      "answer": "ADITO",
+      "row": 4,
+      "col": 3
+    },
+    "19": {
+      "clue": "Antonio Fagundes, ator",
+      "answer": "AF",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Uma maneira de se fechar a camisa",
+      "answer": "ABOTOAR",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "(lá) Expressão equivalente a pare",
+      "answer": "ALTO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Capiroto, coisa-ruim",
+      "answer": "DEMO",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Diz-se do cabelo de cor dourada",
+      "answer": "LOIRO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Domínio de fato exercido sobre uma coisa",
+      "answer": "PODER",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "Um tempero",
+      "answer": "PIMENTAROSA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Círculo metálico onde fica o pneu do carro",
+      "answer": "ARO",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Hot Chili Peppers) Uma banda de rock",
+      "answer": "RED",
+      "row": 9,
+      "col": 8
+    },
+    "33": {
+      "clue": "As iniciais do ator e humorista Aragão",
+      "answer": "RA",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "O contrário de maior",
+      "answer": "MENOR",
+      "row": 10,
+      "col": 3
+    },
+    "35": {
+      "clue": "O parceiro de Guarabyra, da MPB",
+      "answer": "SA",
+      "row": 10,
+      "col": 9
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Trezentos, em algarismos romanos",
+      "answer": "CCC",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Preparação da terra para o plantio",
+      "answer": "ARADA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Marca de fábrica, em certos produtos, obras e artigos",
+      "answer": "SELO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Uma forma de pagamento para sócios de uma empresa",
+      "answer": "PROLABORE",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "Utensílio de costureira e alfaiate",
+      "answer": "ABOTOADOR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O músico e humorista Chaves",
+      "answer": "JUCA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Um nome de mulher",
+      "answer": "ELISA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Substância açucarada produzida pelas abelhas",
+      "answer": "MEL",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Espécie de enxada para para ajuntar cereais nas eiras",
+      "answer": "RODO",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Já citado",
+      "answer": "DITO",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Episódio histórico, que se torna lendário",
+      "answer": "MITO",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Tatear",
+      "answer": "APALPAR",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Um doce de ovos",
+      "answer": "FLORADA",
+      "row": 4,
+      "col": 10
+    },
+    "21": {
+      "clue": "Momento breve",
+      "answer": "ATIMO",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Periferia",
+      "answer": "REDOR",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "(Pop.) Cerveja ou chope claro",
+      "answer": "LOIRA",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "São 12 no ano",
+      "answer": "MESES",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Oito mais três",
+      "answer": "ONZE",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Remunerado, recompensado",
+      "answer": "PAGO",
+      "row": 7,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Grande rio africano que deságua no Índico",
+      "answer": "ZAMBEZE",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Desprovido de",
+      "answer": "SEM",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Redondo, de forma regular e quase perfeita",
+      "answer": "TORNEADO",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Estrutura para sustentação de pontes",
+      "answer": "PILAR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Desta coisa",
+      "answer": "DISTO",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Atleta que se dedica ao esporte sem interesse econômico",
+      "answer": "AMADOR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Fig.) Tendência determinada por forças externas",
+      "answer": "VIES",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "O apresentador e humorista Soares",
+      "answer": "JO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Relativo à inundação de terras provocada por grande volume de águas",
+      "answer": "ALUVIAL",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Os povos que habitam uma grande península asiática",
+      "answer": "ARABES",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Abreviatura de hectare",
+      "answer": "HA",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "A quantidade de milímetros para formar um metro",
+      "answer": "MIL",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Decapitar",
+      "answer": "DEGOLAR",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "Todos os genes de um ser vivo",
+      "answer": "GENOMA",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Uma abreviatura para administração",
+      "answer": "ADM",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Qualidade de impetuoso",
+      "answer": "FUROR",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Neblina",
+      "answer": "NEVOA",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Pasta fria comida como aperitivo",
+      "answer": "PATE",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Provocar dor",
+      "answer": "DOER",
+      "row": 9,
+      "col": 5
+    },
+    "36": {
+      "clue": "Prova de esqui feita em percurso sinuoso entre obstáculos",
+      "answer": "SLALOM",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "(Pop.) Rapaz muito atraente",
+      "answer": "GATO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Mínimo espaço de tempo",
+      "answer": "ATIMO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Uma peça da suspensão dos carros",
+      "answer": "MOLA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Gritar, berrar",
+      "answer": "BRADAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Fig.) Enganador, tapeador",
+      "answer": "ENROLADOR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Z",
+      "answer": "ZE",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Educação a Distância",
+      "answer": "EAD",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Pessoa extraordinariamente semelhante no aspecto a outra",
+      "answer": "SOSIA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Controle sob a qual se acha uma coisa",
+      "answer": "MÃOS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Separado, repartido",
+      "answer": "DIVISO",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Mulher que cuida de crianças",
+      "answer": "PAJEM",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Qualquer cobertura de construção",
+      "answer": "TELHADO",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "O Braga, autor de \"O Conde e o Passarinho\"",
+      "answer": "RUBEM",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Um consumidor de hortaliças, legumes, frutas e cereais",
+      "answer": "VEGANO",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Atento",
+      "answer": "ALERTA",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Que dispõe de forças militares",
+      "answer": "ARMADO",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "O sinal =",
+      "answer": "IGUAL",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Terreno de mineração",
+      "answer": "LAVRA",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "O músico Rosa (1910-1937), o \"Poeta da Vila\"",
+      "answer": "NOEL",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "Fator de Proteção Solar",
+      "answer": "FPS",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Eletrencefalograma",
+      "answer": "EEG",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "Diego Maradona (1960-2020), ídolo do futebol",
+      "answer": "DM",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "País africano com capital Acra",
+      "answer": "GANA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O Roger jogador de futebol",
+      "answer": "GUEDES",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Que demonstra um estado de alma prazeroso, delicioso",
+      "answer": "ALEGRE",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Briga",
+      "answer": "RIXA",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "O maior felino asiático",
+      "answer": "TIGRE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Medo angustioso",
+      "answer": "PAVOR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Perceber um som",
+      "answer": "OUVIR",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Uma das duas partes de uma viagem",
+      "answer": "IDA",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Colonizador",
+      "answer": "POVOADOR",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Carmim, carmesim",
+      "answer": "MAGENTA",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Enfeitar",
+      "answer": "APARATAR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Abrev.) O contrário de masculino",
+      "answer": "FEM",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Gír.) Denunciar",
+      "answer": "DEDAR",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Instrumento agrícola para rasgar a terra em largos sulcos",
+      "answer": "ARADO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Na forma da bola de rúgbi",
+      "answer": "OVADO",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Coisa ocorrida",
+      "answer": "FATO",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Encarcerados",
+      "answer": "PRESOS",
+      "row": 9,
+      "col": 5
+    },
+    "34": {
+      "clue": "Cobrir completamente de águas",
+      "answer": "ALAGAR",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Unidade comercial de quantidade para café",
+      "answer": "SACA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Pequeno mamífero carnívoro domesticável",
+      "answer": "GATO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Lá",
+      "answer": "ALI",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A palavra da bandeira da Paraíba",
+      "answer": "NEGO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Reunir, associar",
+      "answer": "AGRUPAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "G",
+      "answer": "GE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Período de importância histórica",
+      "answer": "ERA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Débito",
+      "answer": "DIVIDA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Fuga em massa",
+      "answer": "EXODO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Mulato alourado",
+      "answer": "SARARA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Que deixou de vigorar",
+      "answer": "REVOGADO",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Diz-se do músculo que roda a palma da mão para trás e para baixo",
+      "answer": "PRONADOR",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "A cantora baiana Sangalo",
+      "answer": "IVETE",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "De lado a lado",
+      "answer": "ATRAVES",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "(Fam.) Confusão",
+      "answer": "BAFAFA",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Trabalho fácil e rendoso",
+      "answer": "MAMATA",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Plantação de frutos cônicos e doces",
+      "answer": "PERAL",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Pouco funda",
+      "answer": "RASA",
+      "row": 7,
+      "col": 8
+    },
+    "27": {
+      "clue": "Flor perfumada, muito difundida comercialmente",
+      "answer": "ROSA",
+      "row": 7,
+      "col": 10
+    },
+    "29": {
+      "clue": "(Hot) Um sanduíche",
+      "answer": "DOG",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "O escritor e novelista Comparato",
+      "answer": "DOC",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Sigla do único estado da região Sul que faz divisa com SP",
+      "answer": "PR",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "O Vianna, do conjunto \"Os Paralamas do Sucesso\"",
+      "answer": "HERBERT",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "O ditador iraquiano Saddam (1937-2006)",
+      "answer": "HUSSEIN",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Pedaço de... paçoca",
+      "answer": "AÇ",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Um resultado da falta de nutrição",
+      "answer": "ATROFIA",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "A atriz e cineasta Carla, de \"Carlota Joaquina, Princesa do Brasil\"",
+      "answer": "CAMURATI",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Uma forma de se servir um bife",
+      "answer": "ROLE",
+      "row": 4,
+      "col": 0
+    },
+    "17": {
+      "clue": "Sepultar um morto",
+      "answer": "INUMAR",
+      "row": 4,
+      "col": 5
+    },
+    "19": {
+      "clue": "Eletrodinâmico",
+      "answer": "ED",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "O sentido do gosto, do paladar",
+      "answer": "SABOR",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Um fio muito usado na confecção de blusas de frio",
+      "answer": "LÃ",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Quase pelado",
+      "answer": "SEMINU",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Pedaço",
+      "answer": "NACO",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Ponto da Terra oposto àquele em que se está",
+      "answer": "ANTIPODA",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Penedo",
+      "answer": "ROCHEDO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "A forma abreviada de você nas conversas on-line",
+      "answer": "VC",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Registrado",
+      "answer": "ANOTADO",
+      "row": 9,
+      "col": 3
+    },
+    "35": {
+      "clue": "Phoenix é a capital desse estado dos EUA",
+      "answer": "ARIZONA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Interjeição de admiração",
+      "answer": "EH",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Relativo ao campo",
+      "answer": "RURAL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "As consoantes de base",
+      "answer": "BS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Bíbl.) Irmão de Jacó",
+      "answer": "ESAU",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Recompensador",
+      "answer": "RETRIBUIDOR",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Aquele que trata com prepotência e dureza",
+      "answer": "TIRANO",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Erva também chamada erva-ruiva",
+      "answer": "AÇAFRÃO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Da noite",
+      "answer": "NOTURNO",
+      "row": 1,
+      "col": 7
+    },
+    "11": {
+      "clue": "Atos Institucionais",
+      "answer": "AI",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Termo",
+      "answer": "FIM",
+      "row": 2,
+      "col": 8
+    },
+    "14": {
+      "clue": "(QR) Um código de barras",
+      "answer": "CODE",
+      "row": 3,
+      "col": 1
+    },
+    "15": {
+      "clue": "Pequeno móvel que pode ser de cabeceira ou de canto",
+      "answer": "MESINHA",
+      "row": 3,
+      "col": 3
+    },
+    "16": {
+      "clue": "(Esp.) O atleta que fica no banco",
+      "answer": "RESERVA",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Organização que reúne países das Américas",
+      "answer": "ALCA",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Capta ondas de TV, internet etc.",
+      "answer": "ANTENA",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Famoso museu de Niterói",
+      "answer": "MAC",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Funcionário que tem um cargo especial nas embaixadas",
+      "answer": "ADIDO",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Pequeno crustáceo comestível",
+      "answer": "POTI",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "Otaviano Costa, ator e apresentador",
+      "answer": "OC",
+      "row": 8,
+      "col": 1
+    },
+    "33": {
+      "clue": "A primeira e a última letra",
+      "answer": "AZ",
+      "row": 9,
+      "col": 7
+    },
+    "34": {
+      "clue": "O oposto de off",
+      "answer": "ON",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

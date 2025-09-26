@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Filé-) O que é da melhor qualidade",
+      "answer": "MIGNON",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O gê do LGBT",
+      "answer": "GAYS",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Doce em calda, ou de consistência pastosa, feito de certo fruto polposo",
+      "answer": "PERADA",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Zona Aérea",
+      "answer": "ZA",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Que constitui motivo de vergonha ou de infâmia (fem.)",
+      "answer": "DESONROSA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "O símbolo do ósmio",
+      "answer": "OS",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Pode ser praticado de peito",
+      "answer": "NADO",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Pronome da segunda pessoa do plural",
+      "answer": "VOS",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Maneiras sociais",
+      "answer": "TRATO",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Noz também chamada nogueira-americana",
+      "answer": "PECÃ",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Esplêndido",
+      "answer": "LAUTO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Abrev.) Paralisia infantil",
+      "answer": "POLIO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Substância usada para fritar alimentos",
+      "answer": "OLEO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Multidão",
+      "answer": "POVÃO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Uma empresa aérea brasileira",
+      "answer": "GOL",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "0",
+      "answer": "ZERO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Serviço de Trânsito",
+      "answer": "ST",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Que anima, encoraja",
+      "answer": "ALENTADOR",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "As iniciais do músico Veloso, de \"Abraçaço\"",
+      "answer": "CV",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Sujo de gordura",
+      "answer": "UNTADO",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "Presilha usada para carregar a mala",
+      "answer": "ALÇA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Louvor",
+      "answer": "ELOGIO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Que não se expressa por palavras",
+      "answer": "MUDO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Sigla inglesa para Sistema de Posicionamento Global",
+      "answer": "GPS",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "(Med.) Criança recém-nascida",
+      "answer": "NEONATO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Enfeite, guarnecimento",
+      "answer": "ORNATO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Erva perfumada",
+      "answer": "NARDO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Pode ser lacrimogêneo",
+      "answer": "GAS",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "As duas últimas letras do nosso alfabeto",
+      "answer": "YZ",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Planta usada como condimento",
+      "answer": "SALSÃO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "(Scooby-) Famoso cão da Hanna-Barbera",
+      "answer": "DOO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Ruído forte e repentino",
+      "answer": "ESTALO",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "O fruto da aveleira",
+      "answer": "AVELÃ",
+      "row": 2,
+      "col": 8
+    },
+    "18": {
+      "clue": "(Fig.) Que não tem o devido proveito",
+      "answer": "OCIOSO",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "Plaqueta que serve de base à porca",
+      "answer": "RUELA",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Vilarejo, aldeia",
+      "answer": "POVOADO",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Coerência de raciocínio",
+      "answer": "LOGICA",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Site na internet que oferece serviços variados",
+      "answer": "PORTAL",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Utensílio próprio para arranjar os cabelos",
+      "answer": "PENTE",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "(Pop.) Tranquilo",
+      "answer": "ZEN",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "O Parada Dura foi um conjunto sertanejo",
+      "answer": "TRIO",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "O astro que ilumina a noite",
+      "answer": "LUA",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "(Hot) Um sanduíche de salsicha",
+      "answer": "DOG",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Vanderlei Luxemburgo, técnico de futebol",
+      "answer": "VL",
+      "row": 9,
+      "col": 1
+    }
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Sentir afeição, estima",
+      "answer": "APEGAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Grupo canadense de rock progressivo",
+      "answer": "RUSH",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "O primeiro número com três zeros",
+      "answer": "MIL",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "De pouco peso",
+      "answer": "LEVE",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Som que imita o latido de um cão",
+      "answer": "AU",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Ato de represália",
+      "answer": "BOICOTE",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Uma cor avermelhada",
+      "answer": "TIJOLO",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Diane Keaton, atriz de \"Tudo em Família\"",
+      "answer": "DK",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Escuridão absoluta",
+      "answer": "TREVA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Indivíduo de um povo bárbaro da Ásia central",
+      "answer": "HUNO",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Pois não!",
+      "answer": "OI",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Um número como o 11 ou o 27",
+      "answer": "IMPAR",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Toalete",
+      "answer": "WC",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "(Pop.) Cheiro ruim de suor",
+      "answer": "CECE",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Ave aquática, branca e de longo pescoço",
+      "answer": "CISNE",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "Perversa",
+      "answer": "MA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Pop.) Diarreia",
+      "answer": "ANDAÇO",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "Da nação africana de Lomé",
+      "answer": "TOGOLES",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Sérgio Loroza, ator e músico",
+      "answer": "SL",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Grupo de bens colocados à venda em leilão",
+      "answer": "LOTE",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "Dupla de executantes",
+      "answer": "DUO",
+      "row": 9,
+      "col": 8
+    },
+    "37": {
+      "clue": "(King) Um gorila do cinema",
+      "answer": "KONG",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Cobrir de pó",
+      "answer": "EMPOAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Recinto",
+      "answer": "AMBITO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Profundamente religioso",
+      "answer": "PIO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A alta sociedade",
+      "answer": "ELITE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Local onde se mora temporariamente",
+      "answer": "ALOJAMENTO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Que não tem curvatura",
+      "answer": "RETO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Marcha que faz o carro andar para trás",
+      "answer": "RE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Sigla) Um tipo de empresa mercantil",
+      "answer": "SA",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "O apresentador de TV Luciano",
+      "answer": "HUCK",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Patifaria",
+      "answer": "VELHACAGEM",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "O C do EMC, na antiga disciplina escolar",
+      "answer": "CIVICA",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "(-do-mar) Invertebrado em forma de disco",
+      "answer": "OURIÇO",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Síndrome decorrente de alteração cromossomial",
+      "answer": "DOWN",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Aquela que possui muitos bens, muitas coisas de valor",
+      "answer": "RICA",
+      "row": 4,
+      "col": 1
+    },
+    "24": {
+      "clue": "Indivíduo que indica defeitos",
+      "answer": "CENSOR",
+      "row": 5,
+      "col": 10
+    },
+    "27": {
+      "clue": "Salário",
+      "answer": "SOLDO",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "O controvertido empresário sul-africano Elon",
+      "answer": "MUSK",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Qualidade física, intelectual ou moral",
+      "answer": "DOTE",
+      "row": 7,
+      "col": 5
+    },
+    "32": {
+      "clue": "(Sigla) Estados Unidos da América",
+      "answer": "EUA",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "O cantor Borges, de \"Feira Moderna\"",
+      "answer": "LO",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "Uma marca de monitores e TVs",
+      "answer": "LG",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

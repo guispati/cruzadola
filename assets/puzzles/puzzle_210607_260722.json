@@ -1,0 +1,228 @@
+{
+  "across": {
+    "1": {
+      "clue": "Pio",
+      "answer": "DEVOTO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Pop.) Correr em grande velocidade",
+      "answer": "VOAR",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Segue tu (fem.)",
+      "answer": "ELA",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "Uma obra como \"Parasita\" ou \"Nomadland\"",
+      "answer": "FILME",
+      "row": 1,
+      "col": 6
+    },
+    "11": {
+      "clue": "Resto de dente que ficou na gengiva",
+      "answer": "ARNELA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Fevereiro só tem 28 ou 29",
+      "answer": "DIAS",
+      "row": 2,
+      "col": 7
+    },
+    "14": {
+      "clue": "Seguidor do islamismo",
+      "answer": "MOURO",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Concluído, acabado",
+      "answer": "FINDO",
+      "row": 3,
+      "col": 6
+    },
+    "16": {
+      "clue": "Aquele que marca, põe alguma coisa em evidência",
+      "answer": "ASSINALADOR",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Parte da bota que envolve a região do tornozelo",
+      "answer": "CANO",
+      "row": 5,
+      "col": 3
+    },
+    "20": {
+      "clue": "Árvore que habita maciçamente os cerrados",
+      "answer": "MURICI",
+      "row": 6,
+      "col": 2
+    },
+    "23": {
+      "clue": "A cor da bandeira da UE",
+      "answer": "AZUL",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Amamentar",
+      "answer": "LACTAR",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "(Pop.) Doido, louco",
+      "answer": "TANTÃ",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Queijo de origem holandesa, parecido com o prato",
+      "answer": "GOUDA",
+      "row": 8,
+      "col": 6
+    },
+    "30": {
+      "clue": "A droga contida no láudano",
+      "answer": "OPIO",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Planta também conhecida como erva-de-passarinho",
+      "answer": "TENTEM",
+      "row": 9,
+      "col": 5
+    },
+    "32": {
+      "clue": "Cidade histórica mineira próxima a Diamantina",
+      "answer": "SERRO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Malvado Favorito) Filme infantil de animação",
+      "answer": "MEU",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Série de episódios complicados",
+      "answer": "DRAMA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O segundo planeta mais próximo do Sol",
+      "answer": "VENUS",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Cultivador de legumes",
+      "answer": "OLERICULTOR",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "(Gráf.) Confeccionar bloco de cheques, recibos etc.",
+      "answer": "TALONAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Um tipo de broca usada em furadeira",
+      "answer": "VIDIA",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "A primeira capital de Pernambuco",
+      "answer": "OLINDA",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "O escritor Jorge (1912-2001), de \"Cacau\"",
+      "answer": "AMADO",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "(Ingl.) Um hotel de luxo",
+      "answer": "RESORT",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Vermelho-claro",
+      "answer": "ROSA",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Um processo de depósito de partículas sobre uma superfície, para redução de atrito, reflexo etc.",
+      "answer": "FLOCAGEM",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "Substância corante para tingir de azul",
+      "answer": "ANIL",
+      "row": 4,
+      "col": 5
+    },
+    "19": {
+      "clue": "(Lagoa dos) A maior laguna do Brasil, localizada no estado do Rio Grande do Sul",
+      "answer": "PATOS",
+      "row": 6,
+      "col": 0
+    },
+    "20": {
+      "clue": "Fornecer, prover",
+      "answer": "MUNIR",
+      "row": 6,
+      "col": 2
+    },
+    "21": {
+      "clue": "(Fig.) Coisa emblemática",
+      "answer": "ICONE",
+      "row": 6,
+      "col": 7
+    },
+    "22": {
+      "clue": "Onde está?",
+      "answer": "CADE",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "A carta mais importante no jogo do truco",
+      "answer": "ZAPE",
+      "row": 7,
+      "col": 1
+    },
+    "26": {
+      "clue": "O de feijão é um prato típico de MG",
+      "answer": "TUTU",
+      "row": 7,
+      "col": 8
+    },
+    "27": {
+      "clue": "Proveniência de um ancestral",
+      "answer": "RAMO",
+      "row": 7,
+      "col": 10
+    }
+  }
+}

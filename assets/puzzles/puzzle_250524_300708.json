@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Pop.) Introduzir-se sorrateiramente em",
+      "answer": "FURAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Tornar obrigatório",
+      "answer": "IMPOR",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "A ponta do cone",
+      "answer": "APICE",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "País insular da Oceania com capital Yaren",
+      "answer": "NAURU",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Animal encontrado na areia das praias",
+      "answer": "TATUI",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Meneio de corpo, trejeito",
+      "answer": "GINGA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Sobremesa típica da região do Cariri",
+      "answer": "MANGUSTA",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Que não tem cheiro (fem.)",
+      "answer": "INODORA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "A jornalista e apresentadora Paula Padrão",
+      "answer": "ANA",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "O xenônio, entre os químicos",
+      "answer": "XE",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Débora Bloch, atriz de \"Bossa Nova\"",
+      "answer": "DB",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Àqueles",
+      "answer": "AOS",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "O ator carioca Marzo (1940-2015)",
+      "answer": "CLAUDIO",
+      "row": 6,
+      "col": 4
+    },
+    "29": {
+      "clue": "Um fóssil com concha",
+      "answer": "NUMULITE",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "Compreender, poder explicar",
+      "answer": "SABER",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Erva para gado",
+      "answer": "PASTO",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Ciência da moral",
+      "answer": "ETICA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Prefixo: no meio de",
+      "answer": "INTER",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Viver em um lugar",
+      "answer": "MORAR",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "O dinheiro em circulação de um país",
+      "answer": "MOEDA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Âncora para fundear pequenos barcos",
+      "answer": "FATEIXA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Exprime espanto",
+      "answer": "UPA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Cadência musical",
+      "answer": "RITMO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Encurralado",
+      "answer": "ACUADO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Pimenta-do-) Especiaria comum na culinária",
+      "answer": "REINO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Inchação de gânglio da virilha",
+      "answer": "INGUA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O sinal +",
+      "answer": "MAIS",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Del Este) Destino turístico no Uruguai",
+      "answer": "PUNTA",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Leve tecido de algodão",
+      "answer": "ORGANDI",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Caminho livre entre as fileiras de qualquer plantação",
+      "answer": "RUA",
+      "row": 0,
+      "col": 10
+    },
+    "16": {
+      "clue": "(Ingl.) Um acessório elétrico da cozinha",
+      "answer": "GRILL",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "(Med.) Criança recém-nascida",
+      "answer": "NEONATO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Que tem a cor do jerimum",
+      "answer": "ABOBORA",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Medula óssea",
+      "answer": "TUTANO",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "Ir de baixo para cima",
+      "answer": "SUBIR",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Remediar males, livrar-se de doenças",
+      "answer": "CURAR",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "Outro nome da mandioca-doce",
+      "answer": "AIPIM",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "De + este",
+      "answer": "DESTE",
+      "row": 6,
+      "col": 8
+    },
+    "30": {
+      "clue": "Cidade santa do islamismo",
+      "answer": "MECA",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "(-pulo) Um chute no futebol",
+      "answer": "SEM",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Transferência Eletrônica Disponível",
+      "answer": "TED",
+      "row": 8,
+      "col": 9
+    }
+  }
+}

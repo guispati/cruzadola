@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "País do Oriente, com capital Taipé",
+      "answer": "TAIWAN",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Econ.) Cada uma das partes em que está dividido o capital de uma sociedade anônima",
+      "answer": "AÇÃO",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Nove vezes maior",
+      "answer": "NONUPLO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "1.400, em algarismos romanos",
+      "answer": "MCD",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Pássaro da mesma família da saíra",
+      "answer": "TERE",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Seabórgio, elemento químico",
+      "answer": "SG",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "(Pop.) O de chinelo é um zé-ninguém",
+      "answer": "PE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Qualquer hábito ou costume",
+      "answer": "VEZO",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Carne do boi, pode ser de dentro ou de fora",
+      "answer": "CHÃ",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Cidade mineira na divisa com o ES",
+      "answer": "ALTOCAPARAO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Moita de capim",
+      "answer": "SOCA",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Fazer discurso",
+      "answer": "ORAR",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Um processo de filmagem",
+      "answer": "CINEMASCOPE",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Moon, em português",
+      "answer": "LUA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Fruto doce, amararelo",
+      "answer": "ABIO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Abreviatura de exemplo",
+      "answer": "EX",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "A carta A",
+      "answer": "AS",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Fr.) Diz-se de vinho seco",
+      "answer": "BRUT",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Gorjeta, em inglês",
+      "answer": "TIP",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "(Pop.) Experiente, tarimbado",
+      "answer": "VIAJADO",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Grave doença, ataca o sistema imunológico",
+      "answer": "AIDS",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Uma das mais brilhantes estrelas do céu",
+      "answer": "ALTAIR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A cobertura do tanque de combustível",
+      "answer": "TAMPA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Indústria",
+      "answer": "IND",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "(Esp.) Abreviatura de walkover, vitória por não comparecimento",
+      "answer": "WO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Sala de entrada, de espera",
+      "answer": "ANTECAMARA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "O mesmo que nudez",
+      "answer": "NUEZA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Tipo de cerveja fabricada com malte pouco torrado",
+      "answer": "ALE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O fundo do... poço",
+      "answer": "ÇO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Rim, pâncreas ou útero",
+      "answer": "ORGÃO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Feito por querer",
+      "answer": "PROPOSITAL",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "O físico inventor de uma escala de temperaturas",
+      "answer": "CELSIUS",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Cão originário da China, de pele solta e enrugada",
+      "answer": "SHARPEI",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "(Pop.) Alguém",
+      "answer": "VOCE",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Indígena de grande tribo jê (Goiás)",
+      "answer": "CRAO",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Flor da água",
+      "answer": "TONA",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Segmento de uma curva",
+      "answer": "ARCO",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "A parte do ovo que contorna a gema",
+      "answer": "CLARA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "A capital da Nigéria",
+      "answer": "ABUJA",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Colocar à mostra",
+      "answer": "EXPOR",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Biscoito wafer de chocolate muito consumido",
+      "answer": "BIS",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Corda para rebocar embarcações",
+      "answer": "TOA",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Velocidade Diferencial",
+      "answer": "VD",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "As iniciais do prelado sul-africano Tutu",
+      "answer": "DT",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

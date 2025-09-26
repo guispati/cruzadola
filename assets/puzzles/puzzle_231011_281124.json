@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "O clima predominante no Brasil",
+      "answer": "TROPICAL",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "(Quím.) Califórnio",
+      "answer": "CF",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Grade de madeira dos telhados",
+      "answer": "RIPADO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "A forma da bola de rúgbi",
+      "answer": "OVAL",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Empregar com frequência",
+      "answer": "USAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Falta de pontualidade",
+      "answer": "ATRASO",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Marcos Caruso, ator paulistano",
+      "answer": "MC",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Pop.) Ter bom desempenho, destacar-se",
+      "answer": "ARREPIAR",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Ministro de Deus",
+      "answer": "PADRE",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "O preparo e o cultivo da terra",
+      "answer": "LAVRA",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Milhas por Hora",
+      "answer": "MPH",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Pedaço de pano velho",
+      "answer": "TRAPO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Num ponto superior",
+      "answer": "ACIMA",
+      "row": 6,
+      "col": 6
+    },
+    "30": {
+      "clue": "Retorno",
+      "answer": "REGRESSO",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Ella Fitzgerald (1917-1996), do jazz",
+      "answer": "EF",
+      "row": 7,
+      "col": 9
+    },
+    "33": {
+      "clue": "Aquele que trabalha em fábrica de telhas",
+      "answer": "OLEIRO",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "A lã que cobre a pele da ovelha",
+      "answer": "VELO",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "O músico carioca Lins, de \"Começar de Novo\"",
+      "answer": "IVAN",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Não levar consigo",
+      "answer": "DEIXAR",
+      "row": 9,
+      "col": 5
+    },
+    "39": {
+      "clue": "Sigla de uma entidade voltada para a recuperação de alcoólicos",
+      "answer": "AA",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Mulher que se vende ao inimigo",
+      "answer": "TRAIDORA",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um Donald",
+      "answer": "TRUMP",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Traço com que se marcam os pontos em determinados jogos",
+      "answer": "RISCA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Interjeição de espanto",
+      "answer": "OPA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Permanecer, ficar",
+      "answer": "PARAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Abreviatura de idem",
+      "answer": "ID",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Fazer descer em gotas lentamente",
+      "answer": "COAR",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Aquele que demonstra ser pouco inteligente",
+      "answer": "LORPA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Combinar, harmonizar",
+      "answer": "CASAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O reino vegetal",
+      "answer": "FLORA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Uma das grandes escolas de samba paulista",
+      "answer": "VAIVAI",
+      "row": 1,
+      "col": 8
+    },
+    "15": {
+      "clue": "Peças que cobrem as casas",
+      "answer": "TELHAS",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "Moer de novo",
+      "answer": "REMOER",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Medicamento com revestimento açucarado",
+      "answer": "DRAGEA",
+      "row": 4,
+      "col": 2
+    },
+    "23": {
+      "clue": "Um filme de sucesso, com Brad Pitt (2004)",
+      "answer": "TROIA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Camada fina e rasteira de pequenas plantas",
+      "answer": "RELVA",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "(Ingl.) Comando para impressão, em informática",
+      "answer": "PRINT",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Sigla para a doença responsável pela atual pandemia",
+      "answer": "COVID",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Adoçar em demasia",
+      "answer": "MELAR",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "À exceção de",
+      "answer": "AFORA",
+      "row": 6,
+      "col": 10
+    },
+    "31": {
+      "clue": "Substância que pode ser cáustica",
+      "answer": "SODA",
+      "row": 7,
+      "col": 5
+    },
+    "35": {
+      "clue": "Prefixo: para fora",
+      "answer": "EXO",
+      "row": 8,
+      "col": 8
+    },
+    "38": {
+      "clue": "Interjeição de chamamento",
+      "answer": "EI",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "Músico carioca, um dos criadores do \"Barão Vermelho\"",
+      "answer": "FREJAT",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Fatia de carne, pode ser servida grelhada, frita etc.",
+      "answer": "BIFE",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Que não é torto",
+      "answer": "RETO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Dar o seu palpite",
+      "answer": "OPINAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Em latim: eu",
+      "answer": "EGO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Um tipo de letra manuscrita",
+      "answer": "CURSIVA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "As letras separadas pelo T",
+      "answer": "SU",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "(MG e RJ) Cachaça, pinga",
+      "answer": "GORO",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Cláudia Ohana, atriz",
+      "answer": "CO",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "A capital afegã",
+      "answer": "CABUL",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Um passarinho de lindas cores",
+      "answer": "SAIRA",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Exemplar",
+      "answer": "AMOSTRA",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Conseguir o que se deseja",
+      "answer": "OBTER",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Livro de mapas geográficos",
+      "answer": "ATLAS",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "A sigla de Unidade Astronômica",
+      "answer": "UA",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Por efeito de",
+      "answer": "ANTE",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Sigla de um estado que faz divisa com TO e MG",
+      "answer": "GO",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Permanência",
+      "answer": "ESTADIA",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "De um",
+      "answer": "DUM",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "Álcool etílico",
+      "answer": "ETANOL",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "(Gír.) Pessoa viciada em craque",
+      "answer": "NOIA",
+      "row": 9,
+      "col": 7
+    },
+    "37": {
+      "clue": "Parte da roupa que circunda o pescoço",
+      "answer": "GOLA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Respirar com dificuldade, por cansaço",
+      "answer": "OFEGAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Pop.) Ônibus luxuoso, dotado de ar condicionado",
+      "answer": "FRESCÃO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Material escolar que serve para medir",
+      "answer": "REGUA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sufixo diminutivo masculino",
+      "answer": "ETO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O multiartista Soares",
+      "answer": "JO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Fr.) Viagem ou passeio",
+      "answer": "TOUR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Biscoito wafer de chocolate muito consumido",
+      "answer": "BIS",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Do começo",
+      "answer": "INICIAL",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Serviço que se presta a alguém, sem custos",
+      "answer": "FAVOR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Um ciclo histórico",
+      "answer": "ERA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Glândula masculina, situada abaixo da bexiga",
+      "answer": "PROSTATA",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "O estado dos EUA com Denver",
+      "answer": "COLORADO",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Corte (de faca, canivete etc.)",
+      "answer": "GUME",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Plantação de um tubérculo feculoso e alimentício",
+      "answer": "BATATAL",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "(Pop.) Travessura, traquinagem",
+      "answer": "ARTE",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Aparecer",
+      "answer": "ASSOMAR",
+      "row": 4,
+      "col": 10
+    },
+    "25": {
+      "clue": "Uma obra de escultura, com finalidade comemorativa",
+      "answer": "BUSTO",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Ave-símbolo dos Estados Unidos",
+      "answer": "AGUIA",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "O segundo rio mais extenso da Terra",
+      "answer": "NILO",
+      "row": 7,
+      "col": 5
+    },
+    "32": {
+      "clue": "(Abrev.) Eletrencefalograma",
+      "answer": "EEG",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "A Maria Braga da TV",
+      "answer": "ANA",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "(Hot) Pão com salsicha e outros ingredientes",
+      "answer": "DOG",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "A região de Recife e Teresina",
+      "answer": "NE",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

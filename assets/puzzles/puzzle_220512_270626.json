@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Subir com a ajuda de mãos e pés",
+      "answer": "TREPAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Tony Tornado, músico",
+      "answer": "TT",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "(Pop.) Urina",
+      "answer": "XIXI",
+      "row": 1,
+      "col": 0
+    },
+    "9": {
+      "clue": "Interjeição de admiração, de espanto",
+      "answer": "EH",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Local onde se servem bebidas",
+      "answer": "BAR",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "Uma variedade de café",
+      "answer": "MARAGOJIPE",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Local onde funciona indústria de tecido",
+      "answer": "TECELAGEM",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Macho adulto de baleia",
+      "answer": "CAXAREU",
+      "row": 4,
+      "col": 1
+    },
+    "17": {
+      "clue": "Terapia Ocupacional",
+      "answer": "TO",
+      "row": 4,
+      "col": 9
+    },
+    "18": {
+      "clue": "Um combustível para veículos",
+      "answer": "GAS",
+      "row": 5,
+      "col": 0
+    },
+    "19": {
+      "clue": "Não banha nem Goiás nem o Acre",
+      "answer": "MAR",
+      "row": 5,
+      "col": 8
+    },
+    "20": {
+      "clue": "Sigla do estado de Torres",
+      "answer": "RS",
+      "row": 6,
+      "col": 0
+    },
+    "21": {
+      "clue": "Tirar os pelos supérfluos",
+      "answer": "DEPILAR",
+      "row": 6,
+      "col": 3
+    },
+    "24": {
+      "clue": "Mecanismo acionado pelo vento",
+      "answer": "AEROMOTOR",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Panela para frigir",
+      "answer": "FRIGIDEIRA",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Unidade de medida do tempo",
+      "answer": "ANO",
+      "row": 9,
+      "col": 0
+    },
+    "29": {
+      "clue": "A substância que constitui a atmosfera da Terra",
+      "answer": "AR",
+      "row": 9,
+      "col": 4
+    },
+    "30": {
+      "clue": "Uma variação do tom violeta",
+      "answer": "ROXA",
+      "row": 9,
+      "col": 7
+    },
+    "32": {
+      "clue": "Rubem Alves, escritor de \"A Maçã e Outros Sabores\"",
+      "answer": "RA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Provas para avaliar os conhecimentos de um aluno",
+      "answer": "EXAMES",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Os lados do... tórax",
+      "answer": "TX",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Glândula que mantém o equilíbrio hídrico do corpo",
+      "answer": "RIM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Uma das ciências",
+      "answer": "EXATAS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Recipiente de vidro altamente resistente ao calor",
+      "answer": "PIREX",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A função do maestro",
+      "answer": "REGER",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Forrar com certo material usado para revestir e adornar pisos",
+      "answer": "TAPETAR",
+      "row": 0,
+      "col": 9
+    },
+    "7": {
+      "clue": "Agitação involuntária do corpo",
+      "answer": "TREMOR",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Contracheque",
+      "answer": "HOLERITE",
+      "row": 1,
+      "col": 6
+    },
+    "11": {
+      "clue": "(Mac) Um dos sanduíches mais vendidos do mundo",
+      "answer": "BIG",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Sociedade com caráter científico, literário ou artístico",
+      "answer": "ACADEMIA",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Peixe dos rios Amazonas e Paraná, com até 2 m de comprimento",
+      "answer": "JAU",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Quartel",
+      "answer": "CASERNA",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "Escrever",
+      "answer": "GRAFAR",
+      "row": 5,
+      "col": 0
+    },
+    "19": {
+      "clue": "A cor da castanha",
+      "answer": "MARROM",
+      "row": 5,
+      "col": 8
+    },
+    "21": {
+      "clue": "Cachorro, nos EUA",
+      "answer": "DOG",
+      "row": 6,
+      "col": 3
+    },
+    "22": {
+      "clue": "Em decomposição",
+      "answer": "PODRE",
+      "row": 6,
+      "col": 5
+    },
+    "23": {
+      "clue": "(Pop.) Cerveja ou chope claro",
+      "answer": "LOIRA",
+      "row": 6,
+      "col": 7
+    },
+    "25": {
+      "clue": "(Fig.) Grande quantidade",
+      "answer": "RIO",
+      "row": 7,
+      "col": 2
+    },
+    "27": {
+      "clue": "(Interj.) Boa sorte, felicidades",
+      "answer": "AXE",
+      "row": 8,
+      "col": 9
+    },
+    "31": {
+      "clue": "Arsênio, elemento químico",
+      "answer": "AS",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

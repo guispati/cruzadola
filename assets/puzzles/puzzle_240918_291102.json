@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ato heróico",
+      "answer": "BRAVURA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Rede de comunicação dos EUA",
+      "answer": "CBS",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "A língua da Roma antiga",
+      "answer": "LATIM",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Molho de soja usado em culinária",
+      "answer": "SHOYU",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Companheira",
+      "answer": "AMIGA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Peixe também chamado serra",
+      "answer": "SARDA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Lugar onde se engordam animais",
+      "answer": "CEVA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Total, conjunto",
+      "answer": "SOMA",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Marca coreana de carros",
+      "answer": "KIA",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Assuntos a serem discutidos em um seminário",
+      "answer": "TEMARIO",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Vasos que levam o sangue ao coração",
+      "answer": "VEIAS",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "Um atleta como Endrick ou Bruno Caboclo",
+      "answer": "JOGADOR",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "O sujeito de votais ou exigis",
+      "answer": "VOS",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "Essência para balas e xaropes",
+      "answer": "ANIS",
+      "row": 7,
+      "col": 2
+    },
+    "26": {
+      "clue": "Mulher formosa",
+      "answer": "BELA",
+      "row": 7,
+      "col": 7
+    },
+    "27": {
+      "clue": "Epidemia",
+      "answer": "SURTO",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Abalar a firmeza de um terreno, fazendo covas ou túneis",
+      "answer": "MINAR",
+      "row": 8,
+      "col": 6
+    },
+    "30": {
+      "clue": "Números como 2, 16 e 398",
+      "answer": "PARES",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Auxílio",
+      "answer": "AJUDA",
+      "row": 9,
+      "col": 6
+    },
+    "32": {
+      "clue": "Abreviatura de Estados Unidos da América",
+      "answer": "EUA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Que causa o fechamento de uma abertura",
+      "answer": "OCLUSOR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Sabbath) O conjunto inglês de rock do vocalista Ozzy Osbourne",
+      "answer": "BLACK",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Diz-se do pássaro que saltita de galho em galho",
+      "answer": "RAMEIRO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Dívida) Débitos com a fazenda pública",
+      "answer": "ATIVA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Peça de sustentação usada em construções",
+      "answer": "VIGA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A atriz Thurman, de \"Marido por Acaso\"",
+      "answer": "UMA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Surgir",
+      "answer": "ASSOMAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Enrubescer",
+      "answer": "CORAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Marca chinesa de automóveis",
+      "answer": "BYD",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Molhado pela transpiração",
+      "answer": "SUADO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Um movimento político palestino",
+      "answer": "HAMAS",
+      "row": 1,
+      "col": 7
+    },
+    "16": {
+      "clue": "Os da face se inflamam na sinusite",
+      "answer": "SEIOS",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Que desperta aborrecimento",
+      "answer": "TEDIOSO",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Vítima de chacina, caça ou mortandade",
+      "answer": "IMOLADO",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "A metade dianteira da embarcação",
+      "answer": "VANTE",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "Variedade semicristalina de quartzo opaco",
+      "answer": "JASPE",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "Unha forte, aguçada e recurvada",
+      "answer": "GARRA",
+      "row": 6,
+      "col": 2
+    },
+    "23": {
+      "clue": "Um planeta vizinho da Terra",
+      "answer": "VENUS",
+      "row": 6,
+      "col": 8
+    },
+    "24": {
+      "clue": "Voltar (o doente) a um bom estado de saúde",
+      "answer": "SARAR",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Um biscoito enrolado",
+      "answer": "BIJU",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Demais!",
+      "answer": "UAU",
+      "row": 8,
+      "col": 1
+    },
+    "29": {
+      "clue": "De modo irregular",
+      "answer": "MAL",
+      "row": 8,
+      "col": 6
+    }
+  }
+}

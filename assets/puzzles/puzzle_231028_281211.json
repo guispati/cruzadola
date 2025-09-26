@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um anão da história de Branca de Neve",
+      "answer": "ATCHIM",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Parte central amarelada do ovo",
+      "answer": "GEMA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Controle sob a qual se acha uma coisa",
+      "answer": "MÃOS",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Publicar uma obra impressa",
+      "answer": "EDITAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Que não tem doença",
+      "answer": "BOM",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "A cantora e compositora Tulipa",
+      "answer": "RUIZ",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Diretoria Administrativa",
+      "answer": "DA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Gorda",
+      "answer": "OBESA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Transferência Eletrônica Disponível",
+      "answer": "TED",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "(Ingl.) Sete",
+      "answer": "SEVEN",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "O poeta Quintana (1906-1994), de \"Sapato Florido\"",
+      "answer": "MARIO",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "(Pop.) Agir como pessoa aproveitadora",
+      "answer": "PICARETAR",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Dizem que os gatos possuem sete",
+      "answer": "VIDAS",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Apreensão por um suposto perigo",
+      "answer": "TEMOR",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Insumo Farmacêutico Ativo",
+      "answer": "IFA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Cidade paraense",
+      "answer": "CURUA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Meia... vida",
+      "answer": "VI",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Segura o lustre",
+      "answer": "TETO",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "506, em romanos",
+      "answer": "DVI",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Oposto de clara",
+      "answer": "ESCURA",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Viciado em craque",
+      "answer": "NOIA",
+      "row": 9,
+      "col": 7
+    },
+    "37": {
+      "clue": "Cervo do norte",
+      "answer": "RENA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Glorificar, reverenciar",
+      "answer": "HONRAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Tanto um como o outro",
+      "answer": "AMBOS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Em tal grau",
+      "answer": "TÃO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sensibilizada, impressionada",
+      "answer": "COMOVIDA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O símbolo químico do hássio",
+      "answer": "HS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A minha família",
+      "answer": "MEUS",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Bastonete próprio para escrever em lousas",
+      "answer": "GIZ",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Elizabeth Taylor (1932-2011), atriz de \"Cleópatra\"",
+      "answer": "ET",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Tronco forte que sustenta as vigas dos sobrados e tetos",
+      "answer": "MADEIRO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Ferramenta para abrir sulcos na terra",
+      "answer": "ARADO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "O segmento de reta que divide o círculo em partes iguais",
+      "answer": "DIAMETRO",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Voltar a nova vida",
+      "answer": "RENASCER",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "O traje típico da advocacia",
+      "answer": "BECA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Arma, maquina em prejuízo de alguém",
+      "answer": "TRAMADOR",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "(Anat.) A extremidade dos ossos longos",
+      "answer": "EPIFISE",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Sem Deus",
+      "answer": "ATEU",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "Alimentar-se",
+      "answer": "VIVER",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Despontar no horizonte",
+      "answer": "RAIAR",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Estado norte-americano cuja capital é Salt Lake City",
+      "answer": "UTAH",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "Feita por ti (fem.)",
+      "answer": "TUA",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "(Rel.) A crucis foi o doloroso caminho de Jesus",
+      "answer": "VIA",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "Chuck Norris, ator de \"Comando Delta\"",
+      "answer": "CN",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Natuza Nery, jornalista",
+      "answer": "NN",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

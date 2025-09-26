@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Aparato magnífico e luxuoso",
+      "answer": "POMPA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Pincel grande e grosso",
+      "answer": "BROXA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Uma orquídea",
+      "answer": "CATLEIA",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Lima Barreto (1881-1922), escritor de \"Triste Fim de Policapo Quaresma\"",
+      "answer": "LB",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Fundo de rio, lago etc.",
+      "answer": "LEITO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "O som que imita a voz da ovelha",
+      "answer": "ME",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Embolorado",
+      "answer": "MOFENTO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "O piloto de F1 Verstappen",
+      "answer": "MAX",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "(Med.) Feto expelido prematuramente",
+      "answer": "ABORTO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Brinquedo que sobe e desce com a ajuda de um fio",
+      "answer": "IOIO",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Qualquer instrumento de guerra",
+      "answer": "ARMAMENTO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Líquido sem cheiro e sem sabor",
+      "answer": "AGUA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Antigo vaso usado para armazenar azeite, vinho, água etc.",
+      "answer": "ANFORA",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Com conforto físico",
+      "answer": "BEM",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Deduzir por meio de raciocínio",
+      "answer": "INFERIR",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Sigla do estado de Barcelos e Manaus",
+      "answer": "AM",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Dar choque ou pancada com",
+      "answer": "BATER",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "Alexander Fleming (1881-1955), cientista",
+      "answer": "AF",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "A língua falada em Seul",
+      "answer": "COREANO",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "Muito boa",
+      "answer": "OTIMA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Postergar o pagamento de uma dívida, empréstimo etc.",
+      "answer": "ROLAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Lado interno da mão, entre o pulso e os dedos",
+      "answer": "PALMA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Márcio Canuto, jornalista alagoano",
+      "answer": "MC",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Néscio, tolo",
+      "answer": "PALERMA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Concentrada",
+      "answer": "ATENTA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Carrero World) Famoso parque temático",
+      "answer": "BETO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Um curso de água como o São Francisco",
+      "answer": "RIO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Oceano Ártico",
+      "answer": "OA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Arquivo que vem com um e-mail",
+      "answer": "ANEXO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Pessoa que, na antiguidade, fazia adivinhação através do som de pedras preciosas ao serem atiradas umas contra as outras",
+      "answer": "LITOMANTE",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Coisa sem importância",
+      "answer": "BOBAGEM",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Metade mais um",
+      "answer": "MAIORIA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Congresso que envolve debate de um tema",
+      "answer": "FORUM",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Propulsor mecânico",
+      "answer": "MOTOR",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "(Rel.) Lugar em que as almas pecadoras se encontram após a morte, submetidas a penas eternas",
+      "answer": "INFERNO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Privar da graça ou beleza",
+      "answer": "ENFEAR",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Ato de cobrir para manter o calor",
+      "answer": "ABAFO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Respirar com dificuldade",
+      "answer": "ARFAR",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "(Amaz.) Sereia dos rios e lagos",
+      "answer": "IARA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Adequado",
+      "answer": "BOM",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "(Rom.) 101",
+      "answer": "CI",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "O meio da... bola",
+      "answer": "OL",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

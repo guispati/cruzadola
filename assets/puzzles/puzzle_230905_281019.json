@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "O mês com o dia da sogra (28)",
+      "answer": "ABRIL",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Fig.) Força, energia",
+      "answer": "BRAÇO",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Cristiana Oliveira, atriz carioca",
+      "answer": "CO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Excessivo",
+      "answer": "DEMAIS",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "(Angeles) Grande cidade dos EUA",
+      "answer": "LOS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Ir embora",
+      "answer": "SAIR",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "(Gram.) A segunda pessoa",
+      "answer": "TU",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Arte oriental de arranjar flores",
+      "answer": "IKEBANA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Astro que nos dá luz e calor",
+      "answer": "SOL",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Polegar ou mindinho",
+      "answer": "DEDO",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Unidade comercial para açúcar",
+      "answer": "SACO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Prendedores de punhos de camisas, usados no lugar dos botões",
+      "answer": "ABOTOADURAS",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Esticado",
+      "answer": "TESO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "A Coutinho jornalista e apresentadora",
+      "answer": "MAJU",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Assembleia Geral Ordinária",
+      "answer": "AGO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Defeito de gaguejar",
+      "answer": "CACOETE",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "A décima sétima consoante",
+      "answer": "VE",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Pop.) Amigo muito íntimo, camarada",
+      "answer": "MANO",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "(Leñas) Famosa estação de esqui da Argentina",
+      "answer": "LAS",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Tartaruga terrestre",
+      "answer": "JABOTI",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "O cantor Borges, de \"Feira Moderna\"",
+      "answer": "LO",
+      "row": 9,
+      "col": 9
+    },
+    "35": {
+      "clue": "Espaço de tempo",
+      "answer": "LAPSO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Um artigo de pesca",
+      "answer": "ANZOL",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Que pode ser acostumado, afeito",
+      "answer": "ACLIMATAVEL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Livro, em NY",
+      "answer": "BOOK",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Abreviatura de idem",
+      "answer": "ID",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Ferido, física ou moralmente",
+      "answer": "LESADO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Compartimento de cavalariça, onde se recolhe o animal",
+      "answer": "BAIA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Um meio para demonstrar a própria alegria interior",
+      "answer": "RIR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "São três em cambalacho",
+      "answer": "AS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Proteção para os olhos em dias claros",
+      "answer": "OCULOSDESOL",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Locução que significa de igual para igual",
+      "answer": "MANOAMANO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Fino e agradável ao tato",
+      "answer": "SEDOSO",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "(Fig.) Habitação pequena e pobre",
+      "answer": "TOCA",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Apelido de Roberto",
+      "answer": "BETO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "(Moda) Calça larga, com o gancho bem baixo",
+      "answer": "SARUEL",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Emporcalhado",
+      "answer": "SUJO",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Cor entre o marrom e o amarelo",
+      "answer": "BEGE",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Indígena de tribo norte-americana",
+      "answer": "DACOTA",
+      "row": 5,
+      "col": 6
+    },
+    "27": {
+      "clue": "A primeira promoção do soldado raso",
+      "answer": "CABO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Corpo vegetativo das algas e fungos",
+      "answer": "TALO",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Conjunção de indecisão",
+      "answer": "MAS",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "José Padilha, cineasta carioca de \"Tropa de Elite\"",
+      "answer": "JP",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Ismael Néri (1900-1934), artista paraense",
+      "answer": "IN",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

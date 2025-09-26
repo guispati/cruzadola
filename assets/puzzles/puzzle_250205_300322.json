@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um penteado comum nos anos 1950/1960",
+      "answer": "PEGARAPAZ",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Ave verde, de cauda longa",
+      "answer": "TIRIVA",
+      "row": 1,
+      "col": 1
+    },
+    "10": {
+      "clue": "Ondas Curtas",
+      "answer": "OC",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "O órgão retirado na nefrectomia",
+      "answer": "RIM",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Um monte histórico, no sul da Bahia",
+      "answer": "PASCOAL",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Isadora Cruz, atriz paraibana",
+      "answer": "IC",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Desperdício de dinheiro",
+      "answer": "GASTANÇA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Ceder gratuitamente",
+      "answer": "DOAR",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "As ilhas da Oceania com Pago Pago e Apia",
+      "answer": "SAMOAS",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "(Raposo) Importante rodovia paulista",
+      "answer": "TAVARES",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Relação das lutas de um pugilista",
+      "answer": "CARTEL",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Timão",
+      "answer": "LEME",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Diminuído na altura",
+      "answer": "ABAIXADO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Ataulfo Alves, músico",
+      "answer": "AA",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Dança popular com que se festeja a Epifania",
+      "answer": "REISADO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Caminhar para cá",
+      "answer": "VIR",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Lodo sem ós",
+      "answer": "LD",
+      "row": 9,
+      "col": 1
+    },
+    "33": {
+      "clue": "(Pop.) Grande porção de coisas",
+      "answer": "MONTÃO",
+      "row": 9,
+      "col": 4
+    },
+    "35": {
+      "clue": "Empresa que explora serviço de telefonia",
+      "answer": "OPERADORA",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Relativo ao aspecto moral",
+      "answer": "ETICO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Bebida alcoólica destilada e perfumada",
+      "answer": "GIM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Aviso de Recebimento",
+      "answer": "AR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Parte do telhado",
+      "answer": "RIPA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Que arrasa",
+      "answer": "AVASSALADOR",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "(Pop.) Passar por dificuldades",
+      "answer": "PASTAR",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Doença dos animais, transmissível ao homem",
+      "answer": "ZOONOSE",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "Animal capturado",
+      "answer": "CAÇA",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "(Pop.) Negar a outrem uma parte do que tenha e possa dar sem prejuízo",
+      "answer": "RIDICAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Comerciante de miudezas, trabalha em praças e calçadas",
+      "answer": "CAMELO",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Fazer ficar ou ficar frouxo",
+      "answer": "LASSEAR",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Sem pagar nada",
+      "answer": "GRATIS",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Chamado a si",
+      "answer": "ATRAIDO",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Vergonha",
+      "answer": "VEXAME",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "O Ferreira treinador de futebol do Palmeiras",
+      "answer": "ABEL",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Idoso",
+      "answer": "MAIOR",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "(Benta) A vovó de Narizinho e Pedrinho",
+      "answer": "DONA",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Que não tem ou não teve nenhuma utilidade",
+      "answer": "VÃO",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "As consoantes de ataúde",
+      "answer": "TD",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Corrosão",
+      "answer": "DESGASTO",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Símbolo de becquerel, unidade de radioatividade",
+      "answer": "BQ",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Esgotar completamente",
+      "answer": "EXAURIR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Tecido para vestidos de casamento",
+      "answer": "VEU",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "Cabeleira de leão",
+      "answer": "JUBA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Exaustão física ou mental",
+      "answer": "FADIGA",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Fruto silvestre comestível, vermelho-escuro",
+      "answer": "AMORA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Nação banhada pelo mar Vermelho, com capital Sanaa",
+      "answer": "IEMEN",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "De uma cidade paulista da região de Limeira",
+      "answer": "ARARENSE",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "(Quím.) Frâncio",
+      "answer": "FR",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Palmeira que fornece fibra vegetal homônima",
+      "answer": "RAFIA",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Pequenas partículas de terra seca",
+      "answer": "PO",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Tratar o aço para dar-lhe maior dureza",
+      "answer": "CEMENTAR",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Ruminante dos Andes, apreciado por sua lã",
+      "answer": "LHAMA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "O guitarrista baiano Pepeu",
+      "answer": "GOMES",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "(Mús.) Certos instrumentos de sopro",
+      "answer": "METAIS",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Sem rugas",
+      "answer": "LISO",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Ciclo histórico",
+      "answer": "ERA",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Aquele que chama para comparecer em juízo",
+      "answer": "CITADOR",
+      "row": 9,
+      "col": 4
+    },
+    "35": {
+      "clue": "Sociedade Anônima",
+      "answer": "SA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Triste, sem alegria",
+      "answer": "SOMBROSO",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(-vu) Sensação de já ter vivido um fato",
+      "answer": "DEJA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Desenterrar um cadáver",
+      "answer": "EXUMAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O sentido do paladar",
+      "answer": "SABOR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Cidade paulista próxima a São José dos Campos",
+      "answer": "GUARAREMA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Agnaldo Rayol, cantor",
+      "answer": "AR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Serviço de Inspeção Federal",
+      "answer": "SIF",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "(Ingl.) Prática regular de exercícios desportivos",
+      "answer": "TRAINING",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Da cor da areia",
+      "answer": "BEGE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Durante o tempo que",
+      "answer": "QUANDO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Um ramo de planta empregado em trabalhos artesanais",
+      "answer": "VIME",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Fazer sair do lodo",
+      "answer": "DESATOLAR",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Língua falada na antiga Síria e Mesopotâmia",
+      "answer": "ARAMAICO",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Precede o gê",
+      "answer": "EFE",
+      "row": 4,
+      "col": 5
+    },
+    "20": {
+      "clue": "Obras cinematográficas",
+      "answer": "FILMES",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Indivíduos encarcerados",
+      "answer": "PRESOS",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Busca",
+      "answer": "CATA",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Substância vegetal nutritiva",
+      "answer": "AMIDO",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Uma planta trepadeira",
+      "answer": "HERA",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Solução para hidratação",
+      "answer": "SORO",
+      "row": 7,
+      "col": 10
+    },
+    "30": {
+      "clue": "Uma resposta positiva",
+      "answer": "SIM",
+      "row": 8,
+      "col": 5
+    },
+    "34": {
+      "clue": "Tobias Barreto (1839-1889), escritor",
+      "answer": "TB",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

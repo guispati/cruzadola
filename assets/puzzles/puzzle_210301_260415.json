@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Calçar, assentar com certo elemento decorativo da pavimentação doméstica",
+      "answer": "LADRILHAR",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Um fruto de propriedade laxante",
+      "answer": "AMEIXA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "A parte mais elevada",
+      "answer": "TOPO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Elemento químico como o enxofre",
+      "answer": "AMETAL",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "O condicionado refresca o ambiente",
+      "answer": "AR",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Fenômeno que, após atingir um ponto alto, se dissipa",
+      "answer": "ONDA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Muito grande, enorme",
+      "answer": "IMENSO",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "(Mús.) O G dos músicos",
+      "answer": "SOL",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Julgamento positivo ou negativo",
+      "answer": "CRITICA",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Interjeição que indica felicitação",
+      "answer": "VIVA",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Prejuízo moral ou material",
+      "answer": "DANO",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Uma cartilagem do joelho",
+      "answer": "MENISCO",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Semelhante (à mesma forma ou figura)",
+      "answer": "TAL",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Desprovido de movimento, que não dá sinal de vida",
+      "answer": "INERTE",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Peça de cera que se acende nas igrejas",
+      "answer": "VELA",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "O que transforma rica em ricota",
+      "answer": "OT",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "O Flash herói das histórias em quadrinhos",
+      "answer": "GORDON",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Doce de creme e bolachas",
+      "answer": "PAVE",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "O Azevedo, músico carioca de \"Brasileirinho\"",
+      "answer": "VALDIR",
+      "row": 9,
+      "col": 5
+    },
+    "38": {
+      "clue": "Mentirosa, hipócrita",
+      "answer": "IMPOSTORA",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O quadrado e o retângulo possuem quatro",
+      "answer": "LADOS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Sigla do estado de Barcelos e Manaus",
+      "answer": "AM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Ingl.) Em jornalismo, prazo máximo para entrega de anúncio ou matéria",
+      "answer": "DEADLINE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Assonância dos versos",
+      "answer": "RIMA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Exclamação de desprezo",
+      "answer": "IXE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Ladrar",
+      "answer": "LATIR",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "(Pé-de-) Frieira",
+      "answer": "ATLETA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Meio... roto",
+      "answer": "RO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "O símbolo da autoridade do rei",
+      "answer": "COROA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "O monte considerado o primeiro sinal de terra avistado por Cabral",
+      "answer": "PASCOAL",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Uma substância vegetal nutritiva",
+      "answer": "AMIDO",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "90",
+      "answer": "NOVENTA",
+      "row": 3,
+      "col": 1
+    },
+    "19": {
+      "clue": "Uma das mais conhecidas marcas de videogames",
+      "answer": "NINTENDO",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Puro",
+      "answer": "CASTO",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "Que nunca teve relação sexual",
+      "answer": "VIRGEM",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Que sofre de vista curta",
+      "answer": "MIOPE",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Veado",
+      "answer": "CERVO",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Mulher que rouba",
+      "answer": "LADRA",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Unidade de medida elétrica de símbolo V",
+      "answer": "VOLT",
+      "row": 7,
+      "col": 7
+    },
+    "33": {
+      "clue": "Documento de Arrecadação do Simples",
+      "answer": "DAS",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "A metade de XII, em romanos",
+      "answer": "VI",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "Desinência verbal",
+      "answer": "IR",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

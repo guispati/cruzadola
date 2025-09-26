@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Planta das cactáceas, usada em ornamentação e cercas vivas",
+      "answer": "PALMABRAVA",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Diz-se do dente que precisa de obturação",
+      "answer": "CARIADO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "A UF de Cruzeiro do Sul e Xapuri",
+      "answer": "AC",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Rocha de aspecto folheado",
+      "answer": "XISTO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Igreja central",
+      "answer": "SE",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Uma abreviatura do nome do mês 11",
+      "answer": "NOV",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Ingl.) Parte do carro de corrida destinada a melhorar a aerodinâmica",
+      "answer": "SPOILER",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "(Anat.) Um osso da bacia",
+      "answer": "ILIACO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "A figura feminina das cartas de baralho",
+      "answer": "DAMA",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Um apelido de um dos times de maior torcida do futebol brasileiro",
+      "answer": "MENGO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "(-gordura) Uma erva forrageira",
+      "answer": "CAPIM",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "(NE) Interjeição designativa de alegria",
+      "answer": "EITA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "O piloto italiano Giuseppe (1906-1996), o primeiro a vencer o mundial de F1",
+      "answer": "FARINA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Plantar em outro lugar",
+      "answer": "TRESPOR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "O tempero que acompanha o vinagre, o azeite e a pimenta-do-reino no galheteiro",
+      "answer": "SAL",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "As iniciais do \"trapalhão\" Aragão",
+      "answer": "RA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Palmeira de palmito, frutos e sementes comestíveis",
+      "answer": "TUCUM",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Lewis Hamilton, piloto inglês de F1",
+      "answer": "LH",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Doença muito contagiosa, própria das crianças",
+      "answer": "SARAMPO",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "(Náut.) Instrumento que determina a posição",
+      "answer": "ASTROLABIO",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Parte da geometria, trata das figuras planas",
+      "answer": "PLANIMETRIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Louise Cardoso, atriz carioca",
+      "answer": "LC",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "O Verstappen piloto holandês da F1",
+      "answer": "MAX",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Diz-se de animal que não se deixa domesticar",
+      "answer": "ARISCO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "A peça do xadrez que anda nas diagonais",
+      "answer": "BISPO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Uma presa do gato",
+      "answer": "RATO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Amalucar, enlouquecer",
+      "answer": "ADOIDAR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Pai da mãe",
+      "answer": "VO",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Famoso cantor paraibano",
+      "answer": "ZERAMALHO",
+      "row": 1,
+      "col": 10
+    },
+    "12": {
+      "clue": "Peça usada para prender uma guia aos cães",
+      "answer": "COLEIRA",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "(Fig.) Produtivo, fértil",
+      "answer": "SEMINAL",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Cem dividido por cinco",
+      "answer": "VINTE",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Objeto com que se escreve",
+      "answer": "LAPIS",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Enraivecer",
+      "answer": "AGASTAR",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Folha de pinheiro",
+      "answer": "CARUMA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "A distância entre o foco principal e o centro ótico de uma lente",
+      "answer": "FOCAL",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Não infectado ou poluído",
+      "answer": "PURO",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Um estilo musical",
+      "answer": "MPB",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Seguem o R",
+      "answer": "ST",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Pois não!",
+      "answer": "OI",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

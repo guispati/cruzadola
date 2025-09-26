@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "Respiração forte e geralmente ruidosa",
+      "answer": "FUNGADA",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "(Pal. fr.) Antepasto, entrada",
+      "answer": "COUVERT",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "O califórnio",
+      "answer": "CF",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Uma rede de pesca",
+      "answer": "TRESMALHO",
+      "row": 2,
+      "col": 2
+    },
+    "14": {
+      "clue": "(Passar) Um sucesso da MPB",
+      "answer": "VAI",
+      "row": 3,
+      "col": 1
+    },
+    "15": {
+      "clue": "Mata de pinheiros",
+      "answer": "PINHAL",
+      "row": 3,
+      "col": 5
+    },
+    "16": {
+      "clue": "Um jeito de demonstrar alegria",
+      "answer": "RIR",
+      "row": 4,
+      "col": 0
+    },
+    "17": {
+      "clue": "Aquele que segue ou seguirá no tempo",
+      "answer": "POSTERO",
+      "row": 4,
+      "col": 4
+    },
+    "18": {
+      "clue": "Ocimar Versolato, estilista",
+      "answer": "OV",
+      "row": 5,
+      "col": 0
+    },
+    "19": {
+      "clue": "Casaco comprido e fechado",
+      "answer": "MANTO",
+      "row": 5,
+      "col": 3
+    },
+    "20": {
+      "clue": "Uma marca de monitores e TVs",
+      "answer": "LG",
+      "row": 5,
+      "col": 9
+    },
+    "21": {
+      "clue": "Partidário de discriminações sociais",
+      "answer": "RACISTA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "A voz do gato",
+      "answer": "MIO",
+      "row": 6,
+      "col": 8
+    },
+    "24": {
+      "clue": "Atento",
+      "answer": "ALERTA",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Pássaro de corpo vermelho e asas pretas",
+      "answer": "TIE",
+      "row": 7,
+      "col": 7
+    },
+    "26": {
+      "clue": "Apertar muito, de encontro a uma superfície",
+      "answer": "IMPRENSAR",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Sigla de um estado que faz divisa com o Piauí",
+      "answer": "MA",
+      "row": 9,
+      "col": 0
+    },
+    "29": {
+      "clue": "Condição de criador de obra literária",
+      "answer": "AUTORIA",
+      "row": 9,
+      "col": 3
+    },
+    "31": {
+      "clue": "Estrondo",
+      "answer": "REBOMBO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Unidade de Conservação",
+      "answer": "UC",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Observar, chamar a atenção",
+      "answer": "NOTAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Garoto",
+      "answer": "GURI",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Objeto de estudo da ornitologia",
+      "answer": "AVE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Que surge, emerge",
+      "answer": "DESPONTANTE",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Aquele que é perito em brasões",
+      "answer": "ARMISTA",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Especialista em discos voadores",
+      "answer": "UFOLOGO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Tão numeroso",
+      "answer": "TANTO",
+      "row": 1,
+      "col": 7
+    },
+    "11": {
+      "clue": "Palavra do alfabeto fonético que significa a letra C",
+      "answer": "CHARLIE",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "A ela",
+      "answer": "LHE",
+      "row": 2,
+      "col": 8
+    },
+    "14": {
+      "clue": "Alguém, alguma pessoa",
+      "answer": "VIVALMA",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Estado com capital Boa Vista",
+      "answer": "RORAIMA",
+      "row": 4,
+      "col": 0
+    },
+    "17": {
+      "clue": "O cientista Louis (1822-1895), da vacina antirrábica",
+      "answer": "PASTEUR",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Resina usada em perfumaria e farmácia",
+      "answer": "MIRRA",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Os números que indicam um endereço",
+      "answer": "CEP",
+      "row": 6,
+      "col": 2
+    },
+    "23": {
+      "clue": "Pequeno",
+      "answer": "MIRIM",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "Um baralho",
+      "answer": "TARO",
+      "row": 7,
+      "col": 7
+    },
+    "27": {
+      "clue": "Durante o governo de",
+      "answer": "SOB",
+      "row": 8,
+      "col": 6
+    },
+    "30": {
+      "clue": "A primeira vogal e a primeira consoante",
+      "answer": "AB",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ação bélica",
+      "answer": "COMBATE",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Um carro da Honda brasileira",
+      "answer": "FIT",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Arte de navegar em embarcação à vela",
+      "answer": "IATISMO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Publicar",
+      "answer": "LANÇAR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "A letra que se repete em chimarrão",
+      "answer": "ERRE",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Descanso",
+      "answer": "OCIO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Cobiça insaciável",
+      "answer": "AVIDEZ",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "O órgão retirado na nefrectomia",
+      "answer": "RIM",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Juntar coisas afastadas",
+      "answer": "UNIR",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "A letra que, em algarismos romanos, equivale a 5",
+      "answer": "VE",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Que ou quem prefere sair à noite",
+      "answer": "NOCTIVAGO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Arthur Zanetti, ginasta",
+      "answer": "AZ",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Costa) O país de San José",
+      "answer": "RICA",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Precede Leñas na estação de esqui da Argentina",
+      "answer": "LAS",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "A melhor amiga da Mônica, das HQs",
+      "answer": "MAGALI",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Príncipe indiano fundador de uma importante religião",
+      "answer": "BUDA",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Conveniências",
+      "answer": "PROS",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "(e rolar) Agir segundo o comando dos desejos, sem levar em consideração qualquer limite",
+      "answer": "DEITAR",
+      "row": 8,
+      "col": 5
+    },
+    "34": {
+      "clue": "(Anat.) Cada uma das três membranas que envolvem o encéfalo e a medula espinhal",
+      "answer": "MENINGE",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Caviar",
+      "answer": "OVA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Uma variedade de abóbora",
+      "answer": "MOGANGA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um antônimo de frio",
+      "answer": "CALOR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Matem.) O primeiro M do MMC",
+      "answer": "MINIMO",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Víscera situada atrás do estômago e acima do rim esquerdo",
+      "answer": "BAÇO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Registro de uma assembleia",
+      "answer": "ATA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Execução de um déspota",
+      "answer": "TIRANICIDIO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Sigla do estado de Cachoeiro de Itapemirim",
+      "answer": "ES",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O Henry (1863-1947), pioneiro da indústria automobilística",
+      "answer": "FORD",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "13",
+      "answer": "TREZE",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "O ator Tarcísio, recentemente falecido",
+      "answer": "MEIRA",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Tornar um tanto gris",
+      "answer": "ACINZAR",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Bando de aves em voo",
+      "answer": "REVOADA",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Interjeição de felicitação, de alegria",
+      "answer": "VIVA",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Diz-se de dia em que não há feriado",
+      "answer": "UTIL",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "O acento de à",
+      "answer": "CRASE",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Parte proteica da farinha dos cereais",
+      "answer": "GLUTEN",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Espaçoso",
+      "answer": "AMPLO",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Uma mancha na pele",
+      "answer": "SARDA",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "A arábica serve para colar",
+      "answer": "GOMA",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Antiga charrete puxada por dois cavalos",
+      "answer": "BIGA",
+      "row": 7,
+      "col": 7
+    },
+    "33": {
+      "clue": "Abrev.: engenharia",
+      "answer": "ENG",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Nanômetro",
+      "answer": "NM",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

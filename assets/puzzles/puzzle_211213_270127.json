@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Nação com capital Banjul",
+      "answer": "GAMBIA",
+      "row": 0,
+      "col": 1
+    },
+    "6": {
+      "clue": "Programa de Demissão Voluntária",
+      "answer": "PDV",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Unidade de medida de comprimento de símbolo m",
+      "answer": "METRO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "(Gír.) Qualquer soma de dinheiro",
+      "answer": "GRANA",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "A décima consoante",
+      "answer": "EME",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Encher-se de lágrimas",
+      "answer": "MAREJAR",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Em + ele",
+      "answer": "NELE",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Um apelido do Benedito",
+      "answer": "BENE",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Rachada",
+      "answer": "TRINCADA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Cordial",
+      "answer": "EFUSIVO",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Crepitar, produzir ruídos secos e seguidos",
+      "answer": "ESTRALAR",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Boa sorte",
+      "answer": "DITA",
+      "row": 7,
+      "col": 2
+    },
+    "27": {
+      "clue": "Uma saia muito curta",
+      "answer": "MINI",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Tubulação para condução de águas",
+      "answer": "ADUTORA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Nenhuma das Alternativas",
+      "answer": "NDA",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "São quatro na impressão de policromias",
+      "answer": "CORES",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Guia",
+      "answer": "LIDER",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Sigla inglesa do país do Grand Canyon e do Times Square",
+      "answer": "USA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Grande marca de materiais esportivos",
+      "answer": "ADIDAS",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Queixar-se",
+      "answer": "GEMER",
+      "row": 0,
+      "col": 1
+    },
+    "2": {
+      "clue": "Estúdio",
+      "answer": "ATELIE",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "As consoantes de Maria",
+      "answer": "MR",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "O oposto de ruim",
+      "answer": "BOM",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Atacar",
+      "answer": "AGREDIR",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Benzedeiro ou curandeiro",
+      "answer": "PAJE",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "O teste feito para reconhecimento de paternidade",
+      "answer": "DNA",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Haste da armação de guarda-chuvas",
+      "answer": "VARA",
+      "row": 0,
+      "col": 10
+    },
+    "9": {
+      "clue": "Consciência individual",
+      "answer": "MENTE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Registro Nacional de Veículos Automotores",
+      "answer": "RENAVAM",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Ser suficiente",
+      "answer": "ABASTAR",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Decoração ou adorno",
+      "answer": "ENFEITE",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Penosa, trabalhosa",
+      "answer": "CUSTOSA",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "A primeira capital pernambucana",
+      "answer": "OLINDA",
+      "row": 5,
+      "col": 8
+    },
+    "22": {
+      "clue": "Fazer a seleção de",
+      "answer": "TRIAR",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "A cordilheira com o Titicaca e Machu Picchu",
+      "answer": "ANDES",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "(Pop.) Pessoa muito cafona ou brega",
+      "answer": "JACU",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Trio Parada) O grupo musical sertanejo de \"As Andorinhas\"",
+      "answer": "DURA",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Daqueles",
+      "answer": "DOS",
+      "row": 8,
+      "col": 1
+    },
+    "30": {
+      "clue": "Naquele lugar",
+      "answer": "ALI",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Abreviatura de idem",
+      "answer": "ID",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

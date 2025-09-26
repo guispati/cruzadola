@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um sinal musical",
+      "answer": "CLAVE",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Que não é nova",
+      "answer": "USADA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Que sofre de certo distúrbio psiquiátrico",
+      "answer": "AUTISTA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Pronome de tratamento concedido a bispos católicos",
+      "answer": "DOM",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Instrumento musical",
+      "answer": "MARACA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Alimento do gado nos períodos em que falta forragem fresca",
+      "answer": "FENO",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "(Pop.) Para",
+      "answer": "PRA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Tornar desagradável",
+      "answer": "AMARGAR",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Remuneratório",
+      "answer": "SALARIAL",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Igreja principal de uma diocese",
+      "answer": "SE",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Abençoado",
+      "answer": "BENTO",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Danilo Caymmi, músico",
+      "answer": "DC",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Nascida em Paris",
+      "answer": "FRANCESA",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Vender por lances",
+      "answer": "LEILOAR",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "A de cabeça também é chamada cefaleia",
+      "answer": "DOR",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Voz triste e aguda dos cães",
+      "answer": "UIVO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "De Deus",
+      "answer": "DIVINO",
+      "row": 8,
+      "col": 5
+    },
+    "34": {
+      "clue": "Pedra, em tupi-guarani",
+      "answer": "ITA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Feita em pedaços",
+      "answer": "FATIADA",
+      "row": 9,
+      "col": 4
+    },
+    "36": {
+      "clue": "O contrário de presa",
+      "answer": "SOLTA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Enganar-se com",
+      "answer": "ERRAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O conjunto de estruturas das universidades",
+      "answer": "CAMPUS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O clarão do satélite natural da Terra",
+      "answer": "LUAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Em lugar posterior",
+      "answer": "ATRAS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(de regra) Locução que significa habitualmente, geralmente",
+      "answer": "VIA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Diz-se do triângulo que tem todos os ângulos e lados desiguais",
+      "answer": "ESCALENO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Unidade Astronômica, distância média entre a Terra e o Sol",
+      "answer": "UA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Lugar próprio para conservar os vinhos",
+      "answer": "ADEGA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Um pato das HQs",
+      "answer": "DONALD",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Pode acontecer à primeira vista",
+      "answer": "AMOR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Golpe com certo calçado grosseiro",
+      "answer": "TAMANCADA",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Produtos de salsicharia em geral",
+      "answer": "FRIOS",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Inflamação de certo vaso sanguíneo",
+      "answer": "ARTERITE",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Tremor (de terra)",
+      "answer": "ABALO",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "O estufa é o aumento da temperatura da atmosfera",
+      "answer": "EFEITO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Dar um fechamento solene",
+      "answer": "COROAR",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Adversário",
+      "answer": "RIVAL",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Marcar um compromisso para outra ocasião",
+      "answer": "ADIAR",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "O Fernando Veríssimo escritor gaúcho",
+      "answer": "LUIS",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Gír.) Qualquer prazer provocado por droga",
+      "answer": "ONDA",
+      "row": 7,
+      "col": 9
+    },
+    "33": {
+      "clue": "Chegar de lugar afastado",
+      "answer": "VIR",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "(Mús.) A nota F",
+      "answer": "FA",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

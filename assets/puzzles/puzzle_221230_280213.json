@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Campo cultivado",
+      "answer": "SEARA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O apelido pelo qual ficou conhecido o ex-presidente João Goulart (1918-1976)",
+      "answer": "JANGO",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Relativo ao órgão de respiração dos vertebrados",
+      "answer": "PULMONAR",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Pedra semipreciosa cuja cor pode ser azul, verde, amarela, branca ou rosa",
+      "answer": "BERILO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(-peças) Um tipo de roupa de banho feminina",
+      "answer": "DUAS",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Citar diversas coisas uma após outra",
+      "answer": "ENUMERAR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Uma exclamação de surpresa",
+      "answer": "UE",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Uma bebida proveniente da cana-de-açúcar",
+      "answer": "RUM",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Data comemorada por todos os cristãos",
+      "answer": "NATAL",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Abreviatura da Bolívia",
+      "answer": "BOL",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "O mítico arquiteto do labirinto de Creta",
+      "answer": "DEDALO",
+      "row": 5,
+      "col": 5
+    },
+    "25": {
+      "clue": "Ivan Lins, músico de \"Madalena\"",
+      "answer": "IL",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Rico, endinheirado",
+      "answer": "ABONADO",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "Ex-jogador da seleção brasileira de vôlei",
+      "answer": "NALBERT",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Abrev.) Um exame de imagem",
+      "answer": "RMN",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Soltar (o falcão) a sua voz",
+      "answer": "GRUIR",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Ave que se alimenta de peixes que captura mergulhando",
+      "answer": "ATOBA",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "A jornalista e apresentadora de TV Annenberg",
+      "answer": "SANDRA",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "Oduvaldo Vianna (1892-1972), cineasta e dramaturgo paulistano",
+      "answer": "OV",
+      "row": 9,
+      "col": 9
+    },
+    "38": {
+      "clue": "Importunar, encher a paciência",
+      "answer": "AMOLAR",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Uma multinacional do ramo esportivo",
+      "answer": "NIKE",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ser instruído em, conhecer",
+      "answer": "SABER",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Posição vertical",
+      "answer": "APRUMO",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Incorreto, precário",
+      "answer": "RUIM",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Tipo de chave de fenda sextavada",
+      "answer": "ALLEN",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "O cômico carioca Soares",
+      "answer": "JO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Um dos sobrenomes de José Bonifácio (1763-1838), \"Patriarca da Independência\"",
+      "answer": "ANDRADA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Barco antigo",
+      "answer": "NAU",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Unidade de intensidade de um terremoto",
+      "answer": "GRAU",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Habitante",
+      "answer": "MORADOR",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Ficar com nuvens",
+      "answer": "ENUBLAR",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Loja de livros usados",
+      "answer": "SEBO",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Olhar com atenção",
+      "answer": "ATENTAR",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "Latido de cães",
+      "answer": "LADRO",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Do contorno da boca",
+      "answer": "LABIAL",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Famosa ilha da Indonésia",
+      "answer": "LOMBOK",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "(Med.) Adenite, bubão",
+      "answer": "INGUA",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "A capital do país europeu dos relógios chocolates",
+      "answer": "BERNA",
+      "row": 6,
+      "col": 4
+    },
+    "29": {
+      "clue": "Português",
+      "answer": "LUSO",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "Corpo da igreja",
+      "answer": "NAVE",
+      "row": 7,
+      "col": 10
+    },
+    "34": {
+      "clue": "Transporte Aéreo Nacional",
+      "answer": "TAN",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "Discussão de Relacionamento",
+      "answer": "DR",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

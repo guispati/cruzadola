@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cicatriz que deixa uma chaga",
+      "answer": "ESTIGMA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Uma grande TV brasileira",
+      "answer": "SBT",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Que está fora",
+      "answer": "SAIDO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Campo de cereais",
+      "answer": "SEARA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Pico",
+      "answer": "CUME",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Mastigar (chiclete)",
+      "answer": "MASCAR",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Planta muito usada em paisagismo",
+      "answer": "AVENCA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Remunerado, recompensado",
+      "answer": "PAGO",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "(Mús.) A nota usada para harmonização de sons",
+      "answer": "LA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Região italiana cuja capital é Florença",
+      "answer": "TOSCANA",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Uma artista como Tarsila do Amaral",
+      "answer": "PINTORA",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Reunir em uma associação de estados",
+      "answer": "FEDERAR",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Cristiano Ronaldo, craque do futebol",
+      "answer": "CR",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "O cargo de Francisco ou de João Paulo II",
+      "answer": "PAPA",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Quím.) U",
+      "answer": "URANIO",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "Secura",
+      "answer": "ARIDEZ",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "A minha família",
+      "answer": "MEUS",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "Emblema de tribo",
+      "answer": "TOTEM",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Sossego",
+      "answer": "CALMA",
+      "row": 9,
+      "col": 6
+    },
+    "33": {
+      "clue": "Famosa música de Gilberto Gil",
+      "answer": "ELA",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Empresa Brasileira de Aeronáutica",
+      "answer": "EMBRAER",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um dado das cartas geográficas",
+      "answer": "ESCALA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Outro nome da formiga lavradeira",
+      "answer": "SAUVA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Equipe de futebol, vôlei, basquete etc.",
+      "answer": "TIME",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Red.) O documento RG",
+      "answer": "IDENTIDADE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Grande Otelo (1915-1993), ator de \"Macunaíma\"",
+      "answer": "GO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "A alça da xícara",
+      "answer": "ASA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Que não tem caráter",
+      "answer": "SACANA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Cidade do norte de Portugal, a mais antiga do país",
+      "answer": "BRAGA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Arte divinatória através de cartas",
+      "answer": "TARO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Dispersar",
+      "answer": "ESPARRAMAR",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "(com Leite) Famosa banda cearense  de forró",
+      "answer": "MASTRUZ",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Peça afunilada usada para sinalização",
+      "answer": "CONE",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Passar o café",
+      "answer": "COAR",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Pequena pedra de ouro",
+      "answer": "PEPITA",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Escrever de forma solta, sem normas rígidas",
+      "answer": "PROSAR",
+      "row": 5,
+      "col": 10
+    },
+    "23": {
+      "clue": "Um sinalizador para os navegantes",
+      "answer": "FAROL",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Inveja amorosa",
+      "answer": "CIUME",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Massa fria comida como aperitivo",
+      "answer": "PATE",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Em + ela",
+      "answer": "NELA",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Nome da letra que pode valer 1.000",
+      "answer": "EME",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Cacilda Becker, atriz",
+      "answer": "CB",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

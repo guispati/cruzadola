@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Destinado aos principiantes",
+      "answer": "FACIL",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O vício pelos cigarros",
+      "answer": "FUMAR",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Amontoamento, aglomeração",
+      "answer": "ACUMULO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Uma das consoantes que representam o som nasal bilabial",
+      "answer": "EME",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "Intestino animal, usado em culinária",
+      "answer": "TRIPA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Passagem suave de uma a outra cor",
+      "answer": "MATIZ",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Cinco + três",
+      "answer": "OITO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Flechada",
+      "answer": "SETADA",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Concluído, acabado",
+      "answer": "TERMINADO",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "840+160",
+      "answer": "MIL",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "No meio de",
+      "answer": "ENTRE",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "Dar a cor do elemento químico Cu",
+      "answer": "ACOBREAR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Um apelido para Luciano",
+      "answer": "LU",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Interjeição para espantar aves",
+      "answer": "XO",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Representar com exatidão",
+      "answer": "RETRATAR",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Veio de água corrente",
+      "answer": "BICA",
+      "row": 8,
+      "col": 2
+    },
+    "29": {
+      "clue": "Estima especial",
+      "answer": "XODO",
+      "row": 8,
+      "col": 7
+    },
+    "30": {
+      "clue": "O profeta de Alá",
+      "answer": "MAOME",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Hálito contaminado de outro odor",
+      "answer": "BAFO",
+      "row": 9,
+      "col": 6
+    },
+    "33": {
+      "clue": "Grita uma quem não vai na onda, não quer deixar-se enganar",
+      "answer": "OVA",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "A Billings é uma das maiores e mais importantes de São Paulo",
+      "answer": "REPRESA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Algo cuja existência pode ser constatada de modo indiscutível",
+      "answer": "FATO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Que não demonstra capacidade de análise ou discernimento",
+      "answer": "ACRITICO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Outro nome do beija-flor, usado pelo povo da roça",
+      "answer": "CUITELO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Mandar com autoridade",
+      "answer": "IMPOR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A meta alcançada pelos astronautas em 1969",
+      "answer": "LUA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Estimular",
+      "answer": "FOMENTAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Uma das duas partes iguais de uma coisa",
+      "answer": "METADE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Substância vegetal nutritiva",
+      "answer": "AMIDO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Oração, prece",
+      "answer": "REZA",
+      "row": 0,
+      "col": 10
+    },
+    "14": {
+      "clue": "Firmar, prender bem",
+      "answer": "ATARRAXAR",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Campainha",
+      "answer": "SINETA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Fazer jus a",
+      "answer": "MERECER",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "(Matem.) O M do MDC",
+      "answer": "MAXIMO",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Lucro obtido por empréstimo de dinheiro",
+      "answer": "JURO",
+      "row": 5,
+      "col": 10
+    },
+    "23": {
+      "clue": "Tecido empregado principalmente na confecção de calças",
+      "answer": "BRIM",
+      "row": 6,
+      "col": 3
+    },
+    "24": {
+      "clue": "As partes externas de um objeto, consideradas em relação à direção para onde se voltam",
+      "answer": "LADOS",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Bala feita com açúcar mascavo",
+      "answer": "TOFE",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "O oposto de má, perversa",
+      "answer": "BOA",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "Avenida",
+      "answer": "AV",
+      "row": 9,
+      "col": 1
+    },
+    "32": {
+      "clue": "Baden Powell (1937-2000), compositor e violonista fluminense",
+      "answer": "BP",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

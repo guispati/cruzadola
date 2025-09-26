@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um nome de Camões, poeta português (1524-1580)",
+      "answer": "LUIS",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Roupa feminina de linhas retas",
+      "answer": "TUNICA",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Mulher nascida em Glasgow ou Edimburgo",
+      "answer": "ESCOCESA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "(Quím.) A prata",
+      "answer": "AG",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "(Pop.) Ok!",
+      "answer": "TA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Ave de carne apreciada, principalmente nas festas de fim de ano",
+      "answer": "PERU",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Tecido fino, usado em vestidos de noivas",
+      "answer": "VEU",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Disco usado para obstruir o fluxo de água ao fechar-se a torneira",
+      "answer": "CARRAPETA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Parte pendente de certas peças de uma veste",
+      "answer": "ABA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Companheiro",
+      "answer": "COLEGA",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Temperar com NaCl",
+      "answer": "SALGAR",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "O músico de rockabilly Vincent (1935-1971)",
+      "answer": "GENE",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "O de France é uma corrida de bicicletas",
+      "answer": "TOUR",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Um cosmético em forma de bastão",
+      "answer": "BATOM",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Grupo que julga",
+      "answer": "JURI",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Tempo entre o nascimento e a morte",
+      "answer": "VIDA",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "A UF de Cruzeiro do Sul e Xapuri",
+      "answer": "AC",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Outro nome da serpente sucuri",
+      "answer": "ANACONDA",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Constituído de tecidos moles",
+      "answer": "CARNOSO",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Semelhante",
+      "answer": "TAL",
+      "row": 9,
+      "col": 8
+    },
+    "36": {
+      "clue": "Próprio da cidade",
+      "answer": "URBANO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Rijo",
+      "answer": "TESO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "São 26 no nosso alfabeto",
+      "answer": "LETRAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Sigla inglesa do país de NY e LA",
+      "answer": "USA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Instituto de Criminologia",
+      "answer": "IC",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um alimento que se toma com a colher",
+      "answer": "SOPA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Um gênero de filmes",
+      "answer": "TERROR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Frequente",
+      "answer": "USUAL",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Narcóticos Anônimos",
+      "answer": "NA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O cantor e compositor Veloso, de \"Zii e Zie\"",
+      "answer": "CAETANO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O hábitat do animal undícola",
+      "answer": "AGUA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Proteger com muro ou aramado",
+      "answer": "CERCAR",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Que se desenvolve com exuberância",
+      "answer": "VEGETANTE",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Temperatura elevada",
+      "answer": "CALOR",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Grudado",
+      "answer": "PEGADO",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Fazer música com tambor, bumbo etc.",
+      "answer": "BATUCAR",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "O único país de colonização britânica na América do Sul",
+      "answer": "GUIANA",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "(Pop.) Estado de euforia ocasionado por uso de drogas",
+      "answer": "EMBALO",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "(Pop.) Tarefa ocasional que dá um ganho extra",
+      "answer": "BICO",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "(Pop.) Que ou pessoa que é cafona, brega",
+      "answer": "JACU",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Objeto onde se plantam flores e ervas",
+      "answer": "VASO",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "(-stop) Sem interrupção",
+      "answer": "NON",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Documento de Arrecadação do Simples",
+      "answer": "DAS",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "Rodrigo Bocardi, jornalista",
+      "answer": "RB",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O país com Machu Pichu",
+      "answer": "PERU",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "(Ingl.) Um processo de impressão",
+      "answer": "OFFSET",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Ulysses Guimarães (1916-1992), político",
+      "answer": "UG",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "(Fig.) Grupo de pessoas muito fechado",
+      "answer": "PANELA",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Guarnecer as roupas com orlas",
+      "answer": "REMATAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Abrev. ingl.) Uma senha para celulares",
+      "answer": "PIN",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Planta com propriedade expectorante",
+      "answer": "GUACO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Prova que inocenta",
+      "answer": "ALIBI",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Um apêndice dos animais",
+      "answer": "RABO",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Membrana entre a córnea e o cristalino",
+      "answer": "IRIS",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "O conjunto de rock do Sucesso",
+      "answer": "PARALAMAS",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Rochedo",
+      "answer": "ROCA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Famosa marca de cosméticos",
+      "answer": "AVON",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Um grande bairro da cidade de SP",
+      "answer": "ITAIM",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Ingl.) Anjo",
+      "answer": "ANGEL",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Um tipo de empresa",
+      "answer": "MEI",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Um imperador romano",
+      "answer": "ADRIANO",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "A Brigitte atriz de \"Babette Vai à Guerra\"",
+      "answer": "BARDOT",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Xis sem i",
+      "answer": "XS",
+      "row": 9,
+      "col": 9
+    },
+    "37": {
+      "clue": "(Gír.) Pessoa tola, fácil de ser enganada",
+      "answer": "TROUXA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Os pais dos tios",
+      "answer": "AVOS",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Medicamento para purificar os intestinos",
+      "answer": "PURGA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um mar que é parte do Mediterrâneo",
+      "answer": "EGEU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Alagado produzido pelas águas da chuva",
+      "answer": "UPACARAI",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Sufixo feminino de ão",
+      "answer": "ONA",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "Animal bravio",
+      "answer": "FERA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "As iniciais da modelo e apresentadora de TV Lima",
+      "answer": "FL",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Pop.) Inflamação do bordo externo das pálpebras",
+      "answer": "SAPIRANGA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Capital de país do norte da África, antiga colônia francesa",
+      "answer": "TUNIS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "A ave mergulhão",
+      "answer": "ATOBA",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Importante cidade venezuelana, centro da indústria petrolífera do país",
+      "answer": "MARACAIBO",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Ave da África, de bico muito longo e recurvo, vive próxima a rios e lagos",
+      "answer": "IBIS",
+      "row": 2,
+      "col": 9
+    },
+    "18": {
+      "clue": "Um minério da qual se extrai ferro",
+      "answer": "LIMONITA",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Saudação entre amigos",
+      "answer": "OLA",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Pequeno recipiente para acondicionar cosméticos, alimentos etc.",
+      "answer": "POTE",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "(Pop.) Unha-de-fome",
+      "answer": "AVARO",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "A Jules, taça conquistada pelo futebol brasileiro em 1970",
+      "answer": "RIMET",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Ingl.) Tipo de batom que hidrata e protege os lábios",
+      "answer": "GLOSS",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "O paisagista Burle (1909-1994), considerado um dos melhores do mundo",
+      "answer": "MARX",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Uma ferramenta de carpintaria",
+      "answer": "ENXO",
+      "row": 7,
+      "col": 9
+    },
+    "33": {
+      "clue": "Débito Direto Autorizado",
+      "answer": "DDA",
+      "row": 8,
+      "col": 5
+    },
+    "35": {
+      "clue": "(Quím.) Ouro",
+      "answer": "AU",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

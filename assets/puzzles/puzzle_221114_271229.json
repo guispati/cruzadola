@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma fruta",
+      "answer": "PERA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Mulher nascida em Creta ou Mikonos",
+      "answer": "GREGA",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "A região do corpo onde se aplica o desodorante",
+      "answer": "AXILA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "O mês com o dia da sogra (28)",
+      "answer": "ABRIL",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Nanico, tampinha, anão de jardim",
+      "answer": "CATATAU",
+      "row": 2,
+      "col": 2
+    },
+    "16": {
+      "clue": "Estrutura de cobertura de superfície curva de um edifício ou de um ambiente",
+      "answer": "ABOBADA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "(Red.) Uma formação acadêmica",
+      "answer": "POS",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Não mais solteiro",
+      "answer": "CASADO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Conjunto de pessoas que vivem num determinado território",
+      "answer": "POVO",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Henri Matisse, pintor",
+      "answer": "HM",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Estômago moedor das aves, que tritura os alimentos",
+      "answer": "MOELA",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Antônio Fagundes, ator carioca",
+      "answer": "AF",
+      "row": 5,
+      "col": 9
+    },
+    "26": {
+      "clue": "(Mão de) Serviço",
+      "answer": "OBRA",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Que apresenta determinado preço, valor",
+      "answer": "COTADO",
+      "row": 6,
+      "col": 5
+    },
+    "30": {
+      "clue": "Conjunção subordinativa",
+      "answer": "QUE",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Aquele que é habitual em embriagar-se",
+      "answer": "BEBEDOR",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Bezerro de dois a quatro anos de idade",
+      "answer": "GARROTE",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "Pesquisa minuciosa",
+      "answer": "EXAME",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Pequeno macaco, de cauda felpuda e comprida",
+      "answer": "SAGUI",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "A água ferve a 100",
+      "answer": "GRAUS",
+      "row": 10,
+      "col": 1
+    },
+    "39": {
+      "clue": "Anfíbio de pele rugosa",
+      "answer": "SAPO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Dispositivo reforçado destinado a amortecer as batidas de carros",
+      "answer": "PARACHOQUE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Prefixo: fora de",
+      "answer": "EX",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Aqueles que possuem bens além dos necessários",
+      "answer": "RICOS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um dos estados sulistas durante a guerra de Secessão norte-americana",
+      "answer": "ALABAMA",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "Frase errada, inoportuna",
+      "answer": "RATA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Exclamação que demonstra alegria",
+      "answer": "EBA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Quím.) Família",
+      "answer": "GRUPO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Gemido, lamento triste e doloroso",
+      "answer": "AI",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Amarrado, imobilizado",
+      "answer": "ATADO",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "(Quím.) Solução usada como desinfetante e detergente",
+      "answer": "LISOFORMIO",
+      "row": 1,
+      "col": 10
+    },
+    "15": {
+      "clue": "Pegar uma doença",
+      "answer": "ADOECER",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Planta cultivada par usos como alimentação, fabricação de móveis, construção etc.",
+      "answer": "BAMBU",
+      "row": 3,
+      "col": 1
+    },
+    "19": {
+      "clue": "Na forma da bola de rúgbi",
+      "answer": "OVADO",
+      "row": 3,
+      "col": 9
+    },
+    "21": {
+      "clue": "(Os Três) Antiga série cômica",
+      "answer": "PATETAS",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "(Villa-) Um dos grandes nomes da música brasileira",
+      "answer": "LOBOS",
+      "row": 5,
+      "col": 6
+    },
+    "27": {
+      "clue": "Banhar (planta) como se fosse uma chuva",
+      "answer": "REGAR",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "Refrigerador para vinhos",
+      "answer": "ADEGA",
+      "row": 6,
+      "col": 8
+    },
+    "31": {
+      "clue": "Substância usada para calafetar embarcações",
+      "answer": "BREU",
+      "row": 7,
+      "col": 4
+    },
+    "33": {
+      "clue": "Mulher que aleita recém-nascido não próprio",
+      "answer": "AMA",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Um padrão de medida de roupas",
+      "answer": "XG",
+      "row": 9,
+      "col": 1
+    },
+    "37": {
+      "clue": "Utilidade Pública",
+      "answer": "UP",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

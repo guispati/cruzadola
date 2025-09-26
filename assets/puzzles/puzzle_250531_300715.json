@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "A região de Cuba e Martinica",
+      "answer": "CARIBE",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O cartunista gaúcho Iturrusgarai",
+      "answer": "ADÃO",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Locado",
+      "answer": "ALUGADO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Massa de papel usada em artesanato",
+      "answer": "MACHE",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Cidade dos Emirados Árabes Unidos",
+      "answer": "DUBAI",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Uma das lâminas que a manicure apara e pinta",
+      "answer": "UNHA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Parcialmente escondido",
+      "answer": "VELADO",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Sem vestes (fem.)",
+      "answer": "NUA",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Elemento de composição: estômago",
+      "answer": "GASTRO",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Sarah Vaughan (1924-1990), cantora de jazz",
+      "answer": "SV",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Fruto arredondado",
+      "answer": "MELÃO",
+      "row": 5,
+      "col": 3
+    },
+    "21": {
+      "clue": "Rita Cadillac, atriz e dançarina",
+      "answer": "RC",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Sujo",
+      "answer": "IMUNDO",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "O que é prejudicial",
+      "answer": "MAL",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Grau acadêmico",
+      "answer": "LAUREA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Um estilo de canção portuguesa",
+      "answer": "FADO",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Bramir, rugir",
+      "answer": "URRAR",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Prender",
+      "answer": "LAÇAR",
+      "row": 8,
+      "col": 6
+    },
+    "30": {
+      "clue": "Aceito legalmente como filho",
+      "answer": "ADOTADO",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "Dedicação ardente",
+      "answer": "ZELO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Plantar certa erva rasteira",
+      "answer": "GRAMAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Habituais, usuais",
+      "answer": "COMUNS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Pop.) Corrida ilegal de carros em via pública",
+      "answer": "RACHA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Uma formação como Creta, na Grécia",
+      "answer": "ILHA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "(Pop.) Choradeira, berreiro",
+      "answer": "BUE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Separam o F",
+      "answer": "EG",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Um ser humano maduro",
+      "answer": "ADULTO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Enovelar fios de meada",
+      "answer": "DOBAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O estado de Columbus, nos EUA",
+      "answer": "OHIO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Apoio, aprovação, reconhecimento",
+      "answer": "ADESÃO",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Cobrir de nuvens",
+      "answer": "ANUVIAR",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Muito querida, venerada",
+      "answer": "ADORADA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Tradicional marca de pastilhas e xaropes",
+      "answer": "VALDA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Classe, espécie",
+      "answer": "GENERO",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Cercado com parede para vedação ou proteção",
+      "answer": "MURADO",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Purificar a água com Cl",
+      "answer": "CLORAR",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "Quadro de avisos",
+      "answer": "MURAL",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Membro de uma sociedade cujos grupos se dividem em \"lojas\"",
+      "answer": "MAÇOM",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "O músico Melodia (1951-2017)",
+      "answer": "LUIZ",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Uma personagem como Sininho, de \"Peter Pan\"",
+      "answer": "FADA",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "A família na sua intimidade",
+      "answer": "LAR",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Torben Grael, iatista fluminense",
+      "answer": "TG",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

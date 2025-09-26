@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Substância que age na digestão dos alimentos",
+      "answer": "BILIS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Acionar o dispositivo que faz um veículo diminuir a velocidade",
+      "answer": "FREAR",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "(Astron.) Objeto de pouca luminosidade, mais pesado que um planeta",
+      "answer": "ANÃMARROM",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Isadora Cruz, atriz paraibana",
+      "answer": "IC",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Demandar em juízo",
+      "answer": "PLEITEAR",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Vestida, pronta",
+      "answer": "ARRUMADA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "A letra que vale 5 em algarismos romanos",
+      "answer": "VE",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "O continente com a Suíça e Polônia",
+      "answer": "EUROPA",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "O objeto usado para escrever em quadros-negros",
+      "answer": "GIZ",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "Forte aversão a alguém",
+      "answer": "ODIO",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Flor da água",
+      "answer": "TONA",
+      "row": 5,
+      "col": 7
+    },
+    "22": {
+      "clue": "Ruído como o produzido por abelhas",
+      "answer": "ZUM",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Castidade, inocência",
+      "answer": "PUREZA",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "Orígenes Lessa (1903-1986), escritor",
+      "answer": "OL",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Estudioso da ciência e da técnica da fruticultura",
+      "answer": "POMOLOGO",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "Designado",
+      "answer": "NOMINADO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Quím.) Rubídio",
+      "answer": "RB",
+      "row": 8,
+      "col": 9
+    },
+    "31": {
+      "clue": "Mentir",
+      "answer": "PATRANHAR",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "A região do corpo recoberta pelo músculo deltoide",
+      "answer": "OMBRO",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Colheita",
+      "answer": "SAFRA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Divisória de laboratório, escritório etc.",
+      "answer": "BAIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Que não tem fé",
+      "answer": "INCREDULO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Fibra mais quente do que o algodão",
+      "answer": "LÃ",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Misturado com elementos estranhos, heterogêneos",
+      "answer": "IMPURO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Bíbl.) Cada um dos cânticos atribuídos a David",
+      "answer": "SALMO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "A pintora mexicana Kahlo (1910-1954)",
+      "answer": "FRIDA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O percurso de um navio no mar ou de um avião em voo",
+      "answer": "ROTA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "M",
+      "answer": "EME",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Coisa incomum",
+      "answer": "RAREZA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Elevar, erguer novamente",
+      "answer": "REAPRUMAR",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Azedar",
+      "answer": "AVINAGRAR",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Impróprio, inconveniente, inadequado",
+      "answer": "RUIM",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Prazer, fruição",
+      "answer": "GOZO",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "Gás que serve para esterilizar água",
+      "answer": "OZONIO",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Pop.) Cinema",
+      "answer": "TELONA",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "Lugar em que se situa um estabelecimento comercial",
+      "answer": "PONTO",
+      "row": 6,
+      "col": 4
+    },
+    "24": {
+      "clue": "A maioria dos carros possuem quatro",
+      "answer": "RODAS",
+      "row": 6,
+      "col": 6
+    },
+    "26": {
+      "clue": "Soltar a voz (ave)",
+      "answer": "PIAR",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "Trabalho de construção",
+      "answer": "OBRA",
+      "row": 7,
+      "col": 10
+    },
+    "29": {
+      "clue": "Estilo musical",
+      "answer": "MPB",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "Henry Ford (1863-1947), dos carros",
+      "answer": "HF",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

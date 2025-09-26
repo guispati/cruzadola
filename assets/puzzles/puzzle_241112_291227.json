@@ -1,0 +1,228 @@
+{
+  "across": {
+    "1": {
+      "clue": "Molusco com concha em forma de globo, o que o distingue da lesma",
+      "answer": "CARACOL",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Deitar por terra (uma construção)",
+      "answer": "DEMOLIR",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "T",
+      "answer": "TE",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Cidade baiana próxima a Porto Seguro, com lindas praias",
+      "answer": "CARAVELAS",
+      "row": 2,
+      "col": 2
+    },
+    "14": {
+      "clue": "Embarcação a remos e velas, usada na Antiguidade pelos gregos",
+      "answer": "GALE",
+      "row": 3,
+      "col": 1
+    },
+    "15": {
+      "clue": "Rua estreita",
+      "answer": "RUELA",
+      "row": 3,
+      "col": 6
+    },
+    "16": {
+      "clue": "O Cruz sambista",
+      "answer": "ARLINDO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Considerar, examinar",
+      "answer": "VER",
+      "row": 4,
+      "col": 8
+    },
+    "19": {
+      "clue": "A unidade comercial para o café em grãos",
+      "answer": "SACA",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "(Gír.) Otário, bobão",
+      "answer": "MANE",
+      "row": 5,
+      "col": 7
+    },
+    "21": {
+      "clue": "Insumo para vacinas",
+      "answer": "IFA",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "(Pop.) Mulher de elevada estatura e ou de grande corpo",
+      "answer": "GIGANTA",
+      "row": 6,
+      "col": 4
+    },
+    "24": {
+      "clue": "Pelejar",
+      "answer": "LIDAR",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Maior que o normal",
+      "answer": "ALTO",
+      "row": 7,
+      "col": 6
+    },
+    "27": {
+      "clue": "Ataque repentino",
+      "answer": "ACOMETIDA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Dela",
+      "answer": "DA",
+      "row": 9,
+      "col": 0
+    },
+    "30": {
+      "clue": "Registrado por escrito",
+      "answer": "ANOTADO",
+      "row": 9,
+      "col": 3
+    },
+    "32": {
+      "clue": "Que teve asperezas retiradas",
+      "answer": "APARADA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "(Sigla) Ativo Disponível",
+      "answer": "AD",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Cheio de complexos",
+      "answer": "RECALCADO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um nome de mulher",
+      "answer": "AMALIA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Conselho Regional de Enfermagem",
+      "answer": "COREN",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Interjeição usada em saudações e chamadas",
+      "answer": "OLA",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Uma obra como a Bíblia",
+      "answer": "LIVRO",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Uma cirurgia do obstetra",
+      "answer": "CESAREA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Condenado",
+      "answer": "REU",
+      "row": 1,
+      "col": 7
+    },
+    "11": {
+      "clue": "Uma marca de chocolates",
+      "answer": "TALENTO",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Ato de erguer-se da cama",
+      "answer": "LEVANTADA",
+      "row": 2,
+      "col": 8
+    },
+    "14": {
+      "clue": "Oficina onde são impressos livros e revistas",
+      "answer": "GRAFICA",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Refugiado político",
+      "answer": "ASILADO",
+      "row": 4,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Agnus) Um cântico da missa",
+      "answer": "DEI",
+      "row": 4,
+      "col": 5
+    },
+    "20": {
+      "clue": "Suspeitar",
+      "answer": "MALDAR",
+      "row": 5,
+      "col": 7
+    },
+    "22": {
+      "clue": "A cor vermelho-castanha do rubi-da-Califórnia",
+      "answer": "GRENA",
+      "row": 6,
+      "col": 4
+    },
+    "23": {
+      "clue": "Um instrumento de sopro",
+      "answer": "GAITA",
+      "row": 6,
+      "col": 6
+    },
+    "25": {
+      "clue": "Empregada que cuida das crianças",
+      "answer": "AMA",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "A model é uma manequim da alta moda",
+      "answer": "TOP",
+      "row": 8,
+      "col": 5
+    },
+    "31": {
+      "clue": "Orlando Drummond, humorista recentemente falecido",
+      "answer": "OD",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

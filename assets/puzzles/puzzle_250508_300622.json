@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "A artista carioca Varejão",
+      "answer": "ADRIANA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Caixa de madeira, com tampa",
+      "answer": "BAU",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Cortada pelos dentes",
+      "answer": "ROIDA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Cantiga sertaneja",
+      "answer": "TOADA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "A reação a uma boa piada",
+      "answer": "RISO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Indivíduo de povo do qual descendem os atuais judeus",
+      "answer": "HEBREU",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Tecla do extremo superior esquerdo do teclado",
+      "answer": "ESC",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "(Celtics) Um time de basquete dos EUA",
+      "answer": "BOSTON",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "(Fig.) Enfático, sublinhado, marcado",
+      "answer": "ACENTUADO",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Ordem Verbal",
+      "answer": "OV",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Estância de criação de cavalos selecionados",
+      "answer": "HARAS",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Othon Bastos, ator baiano",
+      "answer": "OB",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Que faz fronteira",
+      "answer": "LIMITADOR",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Frondoso, ramoso",
+      "answer": "COPADO",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Redução de apartamento",
+      "answer": "APE",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Entulho usado para nivelar um terreno",
+      "answer": "ATERRO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Famosa marca italiana de automóveis",
+      "answer": "FIAT",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "A modalidade em que Marcelo Negrão e Pampa fizeram sucesso",
+      "answer": "VOLEI",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Peça usada para prender o cabelo",
+      "answer": "TIARA",
+      "row": 9,
+      "col": 6
+    },
+    "34": {
+      "clue": "A cristã começa com o nascimento de Cristo",
+      "answer": "ERA",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Aparecer à superfície da água",
+      "answer": "AFLORAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Cor avermelhada do crepúsculo",
+      "answer": "ARREBOL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "2",
+      "answer": "DOIS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Traço",
+      "answer": "RISCA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Que já não existe",
+      "answer": "IDO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "André Abujamra, músico",
+      "answer": "AA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Testemunho escrito",
+      "answer": "ATESTADO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Uma batata",
+      "answer": "BAROA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Suplemento",
+      "answer": "ADENDO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Interjeição que indica admiração ou surpresa",
+      "answer": "UAU",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "(Geom.) Ângulo maior que o reto",
+      "answer": "OBTUSO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Digno de consideração, de estima",
+      "answer": "HONRADO",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Ajuntamento de mulheres muito voltadas para práticas religiosas",
+      "answer": "BEATARIA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Uma nação isolada no Mediterrâneo",
+      "answer": "CHIPRE",
+      "row": 4,
+      "col": 3
+    },
+    "19": {
+      "clue": "Alegar em sentido contrário",
+      "answer": "OBJETAR",
+      "row": 4,
+      "col": 10
+    },
+    "21": {
+      "clue": "O escritor Hugo (1802-1885), de \"Os Miseráveis\"",
+      "answer": "VICTOR",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "O estômago triturador das aves",
+      "answer": "MOELA",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Surgir",
+      "answer": "RAIAR",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "O estado da Região Norte com a Ilha de Marajó",
+      "answer": "PARA",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Um animal como a coruja ou o pica-pau",
+      "answer": "AVE",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "(Maravilha) Famoso atacante do futebol",
+      "answer": "FIO",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Thiago Lacerda, ator carioca",
+      "answer": "TL",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

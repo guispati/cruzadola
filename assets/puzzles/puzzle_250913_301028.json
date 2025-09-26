@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Raio potente, de aplicações variadas",
+      "answer": "LASER",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Parte do aeroporto onde os aviões pousam, decolam e taxiam",
+      "answer": "PISTA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "A letra que vale 1.000, em algarimos romanos",
+      "answer": "EME",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Que denota afeição ou carinho",
+      "answer": "AMIGO",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Repetir sumariamente",
+      "answer": "RECAPITULAR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Sutil iniquidade do ânimo",
+      "answer": "MALICIA",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Zona Tropical",
+      "answer": "ZT",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Prejuízo, perda",
+      "answer": "DANO",
+      "row": 4,
+      "col": 2
+    },
+    "18": {
+      "clue": "A trama usada pela aranha para apanhar insetos",
+      "answer": "TEIA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Arte e técnica do vestuário",
+      "answer": "MODA",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Assento de cavaleiro",
+      "answer": "SELA",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "O antônimo de mole",
+      "answer": "DURO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "(of Thrones) Famoso seriado e jogo eletrônico",
+      "answer": "GAME",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "A 13ª hora",
+      "answer": "UMA",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Fut.) Time argentino",
+      "answer": "RACING",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "O símbolo do lítio, elemento químico usado em ligas metálicas, em baterias etc.",
+      "answer": "LI",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "(métrica) Uma ferramenta usada em costura e alfaiataria",
+      "answer": "FITA",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "Em companhia de",
+      "answer": "COM",
+      "row": 8,
+      "col": 8
+    },
+    "31": {
+      "clue": "(Fig.) Intriga, mexerico, fofoca",
+      "answer": "CARAMINHOLA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Emitir vapores, perfumes",
+      "answer": "EXALAR",
+      "row": 10,
+      "col": 2
+    },
+    "35": {
+      "clue": "Sérgio Reis, músico sertanejo",
+      "answer": "SR",
+      "row": 10,
+      "col": 9
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Interpretar (um texto)",
+      "answer": "LER",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A última palavra das orações",
+      "answer": "AMEM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A máquina que completa o serviço da lavadora",
+      "answer": "SECADORA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Roubo feito com violência",
+      "answer": "RAPINA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Chilique, fricote",
+      "answer": "PITI",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Cidade e rio de Mato Grosso",
+      "answer": "IGUATEMI",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "A nota musical G",
+      "answer": "SOL",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A artéria principal do corpo humano",
+      "answer": "AORTA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Macaquinho",
+      "answer": "MICO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Dotado para o voo",
+      "answer": "ALADO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Sensação de queimação no esôfago",
+      "answer": "AZIA",
+      "row": 2,
+      "col": 9
+    },
+    "19": {
+      "clue": "Relação dos participantes de uma novela",
+      "answer": "ELENCO",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "Cadáver embalsamado pelos antigos egípcios",
+      "answer": "MUMIA",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Pessoa que não tem caráter",
+      "answer": "SACANA",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "(Irmã) Santa baiana",
+      "answer": "DULCE",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Local para hospedagem e comércio de certos felinos",
+      "answer": "GATIL",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "A combinação de pedestre com campestre",
+      "answer": "RIMA",
+      "row": 7,
+      "col": 4
+    },
+    "26": {
+      "clue": "Tentos",
+      "answer": "GOLS",
+      "row": 7,
+      "col": 9
+    },
+    "28": {
+      "clue": "Aparelho de comunicação atualmente em desuso",
+      "answer": "FAX",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Uma extensão de água como o Vermelho ou o Mediterrâneo",
+      "answer": "MAR",
+      "row": 8,
+      "col": 10
+    },
+    "32": {
+      "clue": "A letra D para os músicos",
+      "answer": "RE",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Helena Rizzo, chef gaúcha",
+      "answer": "HR",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

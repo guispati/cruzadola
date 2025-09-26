@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Tradicional receita italiana de massa",
+      "answer": "CARBONARA",
+      "row": 0,
+      "col": 1
+    },
+    "9": {
+      "clue": "(Golpe do) Casamento por dinheiro",
+      "answer": "BAU",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "Nexo (geralmente de ordem lógica)",
+      "answer": "ELO",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "O mês do dia da mentira",
+      "answer": "ABRIL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Travessa estreita",
+      "answer": "VIELA",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Fanfarrão",
+      "answer": "BRAVATEADOR",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Classe, tipo, categoria",
+      "answer": "RAÇA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "O gástrico é produzido pelas glândulas do estômago",
+      "answer": "SUCO",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Empregada doméstica que cuida das crianças",
+      "answer": "AMA",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Um biscoito de chocolate do tipo wafer muito consumido",
+      "answer": "BIS",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Um detalhe do endereço",
+      "answer": "RUA",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Trabalho manual que foge da produção em série",
+      "answer": "ARTESANAL",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Discussão de Relacionamento",
+      "answer": "DR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "O verão",
+      "answer": "ESTIO",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "Duas letras vizinhas à direita do teclado",
+      "answer": "OP",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "O período entre a demissão e a nomeação do sucessor",
+      "answer": "INTERIM",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "Neste instante",
+      "answer": "AGORA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "A amêndoa do Nutella",
+      "answer": "AVELÃ",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "Móvel para ver TV",
+      "answer": "SOFA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "(Gír.) Embriagado",
+      "answer": "ALTO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Apertar amorosamente",
+      "answer": "ABRAÇAR",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Sentimento de irritação, rancor",
+      "answer": "RAIVA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Impresso com instruções para o uso de um remédio",
+      "answer": "BULA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Uma característica dos picos mais altos",
+      "answer": "NEVE",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Por outro lado",
+      "answer": "ALIAS",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Ferimento causado por atrito",
+      "answer": "ROEDURA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(-cega) Brincadeira infantil",
+      "answer": "CABRA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "(Terra da) Um apelido para SP",
+      "answer": "GAROA",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "Berrar",
+      "answer": "BRAMAR",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Pequena cavidade",
+      "answer": "LOCULO",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "O oposto de feliz",
+      "answer": "TRISTE",
+      "row": 3,
+      "col": 5
+    },
+    "21": {
+      "clue": "Animal de carga ou de tiro",
+      "answer": "BESTA",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "Pássaro da mesma família do sanhaço",
+      "answer": "SAIRA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Que é menos dura do que o normal",
+      "answer": "TENRA",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Mulher prometida em casamento",
+      "answer": "NOIVA",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "A hora cheia que segue uma",
+      "answer": "DUAS",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Brinquedo impulsionado por um cordel",
+      "answer": "PIÃO",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Imposto sobre Operações Financeiras",
+      "answer": "IOF",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "Doce produzido pelas abelhas",
+      "answer": "MEL",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "A UF onde está localizado o DF",
+      "answer": "GO",
+      "row": 9,
+      "col": 1
+    },
+    "36": {
+      "clue": "Leon Tolstói (1828-1910), romancista e filósofo russo",
+      "answer": "LT",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

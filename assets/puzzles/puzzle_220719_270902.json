@@ -1,0 +1,228 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ferida aberta, supurada",
+      "answer": "CHAGA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Combinar amigo com abrigo",
+      "answer": "RIMAR",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Convicção fundada num fato evidente ou num cálculo bem-feito",
+      "answer": "CERTEZA",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "(Fig.) Provocar, excitar",
+      "answer": "ATEAR",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "Perseguir animais selvagens para matá-los",
+      "answer": "CAÇAR",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "Ave palmípede, semelhante a uma pata pequena",
+      "answer": "MARRECA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "A atriz Thurman, de \"Kill Bill\"",
+      "answer": "UMA",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "As três primeiras letras",
+      "answer": "ABC",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Uma plantação destinada a padarias e fábricas de cerveja",
+      "answer": "CEVADAL",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Máquina que reduz a espessura das peças de metal",
+      "answer": "LAMINADOR",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "O regulador automático do trânsito",
+      "answer": "SEMAFORO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Elton John, músico",
+      "answer": "EJ",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Título de alguns estabelecimentos de ensino secundário",
+      "answer": "ATENEU",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Cabana de esquimós",
+      "answer": "IGLU",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Forte moeda internacional",
+      "answer": "IENE",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Correias presas aos freios do animal de montaria",
+      "answer": "REDEAS",
+      "row": 8,
+      "col": 5
+    },
+    "31": {
+      "clue": "Plantação de fumo",
+      "answer": "TABACAL",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Neste instante",
+      "answer": "AGORA",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Depressão úmida em uma encosta",
+      "answer": "GROTA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Brilho",
+      "answer": "CHAMA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Aproximação",
+      "answer": "ACERCAMENTO",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Baixar excessivamente a temperatura",
+      "answer": "GEAR",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Rocha à flor da água",
+      "answer": "ARRECIFE",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Revolver a terra duas ou mais vezes",
+      "answer": "RECAVAR",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Cantora carioca",
+      "answer": "IZA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Fig.) Enfadonho, importuno",
+      "answer": "MAÇUDO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Carro off-road produzido até a década de 1970",
+      "answer": "RURAL",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Pequeno bloco de chocolate",
+      "answer": "TABLETE",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "Uma das raças humanas",
+      "answer": "AMARELA",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "A raiz que nos faz lembrar de coelhos",
+      "answer": "CENOURA",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Fazer perder o bom senso",
+      "answer": "ADOIDAR",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Prender um animal com uma corda ou laço",
+      "answer": "MANEAR",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "O antônimo de entrada",
+      "answer": "SAIDA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Perfeitamente adequada, na medida certa",
+      "answer": "JUSTA",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Cubo de água solidificada para resfriar sucos, refrigerantes e outras bebidas",
+      "answer": "GELO",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Abreviatura de eletrocardiograma",
+      "answer": "ECG",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Sigla do estado de Porto Seguro e Senhor do Bonfim",
+      "answer": "BA",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

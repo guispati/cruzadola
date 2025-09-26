@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Como o solo da praia",
+      "answer": "ARENOSO",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "(Mac) Um dos sanduíches mais vendidos do mundo",
+      "answer": "BIG",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Fúria",
+      "answer": "SANHA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Dito ou alusão engraçada",
+      "answer": "PIADA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Doença infecciosa aguda",
+      "answer": "TIFO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Psíquico",
+      "answer": "MENTAL",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Exclamação típica dos mineiros",
+      "answer": "UAI",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Enjoado a bordo",
+      "answer": "MAREADO",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Transitar, passar",
+      "answer": "TRAFEGAR",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Rocio",
+      "answer": "RELENTO",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Conjunto de circunstâncias que acompanham um acontecimento",
+      "answer": "CONTEXTO",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "Um tipo de pão",
+      "answer": "BAGUETE",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Abrev.) O contrário de masculino",
+      "answer": "FEM",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "A nação de Bergamo e Florença",
+      "answer": "ITALIA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "O escritor Saramago (1922-2010), Nobel de 1998",
+      "answer": "JOSE",
+      "row": 8,
+      "col": 7
+    },
+    "30": {
+      "clue": "(Pop.) Criar",
+      "answer": "BOLAR",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Missiva",
+      "answer": "CARTA",
+      "row": 9,
+      "col": 6
+    },
+    "32": {
+      "clue": "(Fig.) Coisa que atrai",
+      "answer": "IMÃ",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Causar dano ou prejuízo a",
+      "answer": "OFENDER",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Caracterizado pela esperteza",
+      "answer": "ASTUTO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Vir aparecendo",
+      "answer": "RAIAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Empurrar com força, fincar",
+      "answer": "ENFIAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Redução popular de senhor",
+      "answer": "NHO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Oswaldo Aranha (1894-1960), político gaúcho da Revolução de 1930",
+      "answer": "OA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Que produz efeito",
+      "answer": "OPERANTE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Uma roupa folgada",
+      "answer": "BATA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A soma dos anos de um indivíduo",
+      "answer": "IDADE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Uma ave do jogo do bicho",
+      "answer": "GALO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "(Fig.) Carente de energia física ou moral",
+      "answer": "INERTE",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Violeta-púrpura",
+      "answer": "MAGENTA",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Planta de frutos arredondados, saborosos",
+      "answer": "MELOEIRO",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Substância contida na batata",
+      "answer": "FECULA",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Cidade inglesa famosa por sua universidade",
+      "answer": "OXFORD",
+      "row": 5,
+      "col": 8
+    },
+    "21": {
+      "clue": "Conferir o cargo de",
+      "answer": "NOMEAR",
+      "row": 5,
+      "col": 10
+    },
+    "22": {
+      "clue": "Cosmético que se aplica nos lábios",
+      "answer": "BATOM",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Prova, exame",
+      "answer": "TESTE",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "O barulho da buzina de um carro",
+      "answer": "BIBI",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Homem belo, elegante",
+      "answer": "GALÃ",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "O período entre Dez e Fev",
+      "answer": "JAN",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "A 2ª consoante",
+      "answer": "CE",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Bonita, graciosa",
+      "answer": "BELA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O marido da falecida esposa",
+      "answer": "VIUVO",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Cidade paulista, próxima à capital",
+      "answer": "OSASCO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Período entre o nascimento e a morte",
+      "answer": "VIDA",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Nota do Tradutor",
+      "answer": "NT",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Deixar escapar um som",
+      "answer": "SOLTAR",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "200",
+      "answer": "DUZENTOS",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "G",
+      "answer": "GE",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Estender ao comprido",
+      "answer": "DEITAR",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "De novo",
+      "answer": "BIS",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Uma planta dos brejos",
+      "answer": "TABOA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Fruto quase negro, muito usado em geleias",
+      "answer": "AMORA",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "(Net) Sufixo para entidades ligadas à educação",
+      "answer": "EDU",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Um dos carros-chefes da culinária paraense",
+      "answer": "TACACA",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "O símbolo químico do molibdênio",
+      "answer": "MO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Piedosa para com o próximo",
+      "answer": "CARIDOSA",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Tradicional marca brasileira de cerveja escura",
+      "answer": "CARACU",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "Consoantes de Seul",
+      "answer": "SL",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "São trocados na Páscoa como presente",
+      "answer": "OVOS",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "A Brigitte atriz francesa de \"Babette Vai à Guerra\"",
+      "answer": "BARDOT",
+      "row": 9,
+      "col": 5
+    },
+    "36": {
+      "clue": "A habilitação para pilotar aviões",
+      "answer": "BREVE",
+      "row": 10,
+      "col": 1
+    },
+    "37": {
+      "clue": "A cidade sede do Instituto Nobel",
+      "answer": "OSLO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(James) O agente 007, dos filmes de aventura",
+      "answer": "BOND",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Cuidadosamente examinado",
+      "answer": "ESTUDADO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A nota musical entre o sol e o si",
+      "answer": "LA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Limpeza, higiene",
+      "answer": "ASSEIO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Ato de girar em torno de seu eixo",
+      "answer": "VOLTA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Frutos que podem virar vinagre",
+      "answer": "UVAS",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Chegar de lugar afastado",
+      "answer": "VIR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Oxigênio Dissolvido",
+      "answer": "OD",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Entrar em comunicação com",
+      "answer": "CONTATAR",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Ligada (luz)",
+      "answer": "ACESA",
+      "row": 1,
+      "col": 10
+    },
+    "15": {
+      "clue": "Diz-se da caixa que contém coração e pulmões",
+      "answer": "TORACICA",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Gado originário da Índia, de corpo robusto",
+      "answer": "ZEBU",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Erva de caule ereto e grandes flores amarelas",
+      "answer": "GIRASSOL",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "Pateta, palerma",
+      "answer": "BOCO",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Cada um dos períodos de um jogo de futebol",
+      "answer": "TEMPO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Sazonado (fruto)",
+      "answer": "MADURO",
+      "row": 5,
+      "col": 7
+    },
+    "26": {
+      "clue": "A língua do Alcorão, a \"bíblia\" do islamismo",
+      "answer": "ARABE",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "A atriz Regina",
+      "answer": "CASE",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "Oposto de baixo",
+      "answer": "ALTO",
+      "row": 7,
+      "col": 10
+    },
+    "30": {
+      "clue": "Rosa ou verde",
+      "answer": "COR",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "(Inform.) Visual Basic",
+      "answer": "VB",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "Dedé Santana, humorista",
+      "answer": "DS",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

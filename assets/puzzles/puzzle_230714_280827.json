@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Bolinho à base de massa de feijão cozido, típico da culinária baiana",
+      "answer": "ACARAJE",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Big Brother Brasil",
+      "answer": "BBB",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Tecido leve de seda",
+      "answer": "TAFETA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Parte aquosa que fica do leite coalhado",
+      "answer": "SORO",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "O U do RU",
+      "answer": "UNIDO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "De nenhuma gravidade",
+      "answer": "BANAL",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "(-gostoso) Indivíduo de aparência desagradável",
+      "answer": "MANE",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Princípio",
+      "answer": "COMEÇO",
+      "row": 3,
+      "col": 5
+    },
+    "16": {
+      "clue": "Fechada com certa substância resinosa",
+      "answer": "LACRADA",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "Olívia Torres, atriz paulista",
+      "answer": "OT",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "Doidice, maluquice",
+      "answer": "LOUCURA",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Interjeição de admiração, espanto",
+      "answer": "EH",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Uma ginástica olímpica",
+      "answer": "RITMICA",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Malfeito",
+      "answer": "MATADO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Automóvel de aluguel para transporte de passageiros",
+      "answer": "TAXI",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Furioso",
+      "answer": "IRADO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Grande saguão",
+      "answer": "PATIO",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Erva de raiz branca ou roxa, usada na alimentação",
+      "answer": "NABO",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Pato dos desenhos animados e gibis",
+      "answer": "DONALD",
+      "row": 9,
+      "col": 5
+    },
+    "34": {
+      "clue": "Sigla inglesa da grande adversária da ex-URSS",
+      "answer": "USA",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "A serra com o Pico da Bandeira",
+      "answer": "CAPARAO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Grande peixe de mar",
+      "answer": "ATUM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Em artes gráficas, o claro entre duas colunas de um texto",
+      "answer": "CANAL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Por fim",
+      "answer": "AFINAL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Enfeitado novamente",
+      "answer": "REDECORADO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Cada capítulo de uma peça teatral",
+      "answer": "ATO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Sem demora",
+      "answer": "JA",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Cobertura para proteger do Sol",
+      "answer": "BONE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Cada um dos membros anteriores dos vertebrados",
+      "answer": "BRAÇO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Qualquer objeto de forma arredondada",
+      "answer": "BOLOTA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Fig.) Boa, caridosa",
+      "answer": "SAMARITANA",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Suor malcheiroso",
+      "answer": "BODUM",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Planta espinhosa típica dos desertos",
+      "answer": "CACTO",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Som sem harmonia",
+      "answer": "RUIDO",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Não completamente vestido",
+      "answer": "SEMINU",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Concordar, respeitar",
+      "answer": "ACATAR",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Local de criação de cavalos selecionados",
+      "answer": "HARAS",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Sovaco",
+      "answer": "AXILA",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Conjunto de ocas",
+      "answer": "TABA",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Tintura usada em medicina como antisséptico",
+      "answer": "IODO",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Um estilo musical",
+      "answer": "POP",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Dante Alighieri (1265-1321), poeta italiano",
+      "answer": "DA",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

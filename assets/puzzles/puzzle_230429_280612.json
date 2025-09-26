@@ -1,0 +1,294 @@
+{
+  "across": {
+    "1": {
+      "clue": "Tarefa escolar",
+      "answer": "DEVER",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Evidente, lógico (fem.)",
+      "answer": "OBVIA",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Parte acessória de uma estrutura principal",
+      "answer": "ANEXO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "(Baianos) O grupo musical de \"Preta, Pretinha\"",
+      "answer": "NOVOS",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "O som produzido pelo aparelho fonador",
+      "answer": "VOZ",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "A Gaga cantora pop",
+      "answer": "LADY",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Flávia Saraiva, ginasta",
+      "answer": "FS",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Instituto de Letras",
+      "answer": "IL",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "A voz humana",
+      "answer": "FALA",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Acrescentado a um total",
+      "answer": "SOMADO",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Os órgãos excretores que secretam a urina dos vertebrados",
+      "answer": "RINS",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "Outro nome do eirá, pequeno felino das Américas",
+      "answer": "GATOPRETO",
+      "row": 5,
+      "col": 1
+    },
+    "26": {
+      "clue": "Homem maduro, mas não idoso",
+      "answer": "MOÇO",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Competição de barcos",
+      "answer": "REGATA",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "Unidade comercial para açúcar, farinha etc.",
+      "answer": "SACO",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Caminhar daqui pra lá",
+      "answer": "IR",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Disc Jockey",
+      "answer": "DJ",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "A atriz Fischer",
+      "answer": "VERA",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Pessoa com Deficiência",
+      "answer": "PCD",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "O cantor fluminense de \"Casas\"",
+      "answer": "RUBEL",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Y, em química",
+      "answer": "ITRIO",
+      "row": 9,
+      "col": 6
+    },
+    "39": {
+      "clue": "Inflamação do gânglio linfático da virilha",
+      "answer": "INGUA",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Tocar (o tambor)",
+      "answer": "RUFAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Copa) Um dos mais importantes torneios do tênis mundial",
+      "answer": "DAVIS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Conhecedor de vinhos",
+      "answer": "ENOLOGO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Cada um dos casos em que um fato se dá",
+      "answer": "VEZ",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Não mais em atividade",
+      "answer": "EX",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Encrespado (mar)",
+      "answer": "ROLADO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Ímpeto, torrente",
+      "answer": "ONDA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Garoto, em inglês",
+      "answer": "BOY",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Viúva sem vogais",
+      "answer": "VV",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Imposto sobre Operações Financeiras",
+      "answer": "IOF",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "(Machado de) O romancista de \"Quincas Borba\"",
+      "answer": "ASSIS",
+      "row": 0,
+      "col": 10
+    },
+    "15": {
+      "clue": "(Gír.) Ficar maluco",
+      "answer": "ALOPRAR",
+      "row": 2,
+      "col": 5
+    },
+    "18": {
+      "clue": "Algo cuja existência pode ser constatada de modo indiscutível",
+      "answer": "FATO",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "A cassete era usada para gravar músicas",
+      "answer": "FITA",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Fruto de polpa branca e saborosa",
+      "answer": "MAÇÃ",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Pequeno curso d'água",
+      "answer": "REGO",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Informação sobre fatos recentes",
+      "answer": "NOTICIA",
+      "row": 4,
+      "col": 9
+    },
+    "25": {
+      "clue": "Cometer um erro novamente",
+      "answer": "RECAIR",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "Cidade espanhola",
+      "answer": "MADRI",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Calor forte e prolongado",
+      "answer": "ARDOR",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Assento no cavalo",
+      "answer": "SELA",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "O período entre Mai e Jul",
+      "answer": "JUN",
+      "row": 8,
+      "col": 1
+    },
+    "33": {
+      "clue": "Tecido transparente, leve, usado em vestidos de casamento",
+      "answer": "VEU",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Polícia das estradas",
+      "answer": "PRF",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "Bruno Gagliasso, ator carioca",
+      "answer": "BG",
+      "row": 9,
+      "col": 2
+    },
+    "38": {
+      "clue": "A segunda pessoa pronominal",
+      "answer": "TU",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

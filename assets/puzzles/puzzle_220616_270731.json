@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Mutreta, fraude",
+      "answer": "CAMBALACHO",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Parreira cortada, mas que traz um pedaço da cepa",
+      "answer": "VIDONHO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Nelson Sargento, cantor e compositor carioca",
+      "answer": "NS",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(del Este) Cidade uruguaia, destino turístico",
+      "answer": "PUNTA",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Abreviatura de boreste",
+      "answer": "BE",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Sentir",
+      "answer": "TER",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Segurar com força",
+      "answer": "AGARRAR",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Do cavalo",
+      "answer": "EQUINO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "O Jeca personagem de Monteiro Lobato",
+      "answer": "TATU",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "De porco (fem.)",
+      "answer": "SUINA",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Peças de vestuário usadas nos pés",
+      "answer": "MEIAS",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Aparelho eletrônico para entretenimento e informação",
+      "answer": "TEVE",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Mentira",
+      "answer": "LOROTA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Aumentar a abertura de",
+      "answer": "ALARGAR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Substância usada como tempero e na conservação da carne e do peixe",
+      "answer": "SAL",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Diários Associados",
+      "answer": "DA",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Feijoeiro de frutos comestíveis, tenros e com sementes pequenas",
+      "answer": "VAGEM",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Precede Corbusier (1887-1965) no nome do arquiteto suíço",
+      "answer": "LE",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Relativo à estação do ano",
+      "answer": "SAZONAL",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Desforra, vingança",
+      "answer": "REPRESALIA",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Que protesta, nega ou contradiz",
+      "answer": "CONTESTADOR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Monica Vitti (1931-2022), atriz italiana de \"A Noite\"",
+      "answer": "MV",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Sinal eletrônico emitido para chamar a atenção",
+      "answer": "BIP",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Alfândega",
+      "answer": "ADUANA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "O oposto de curto",
+      "answer": "LONGO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Grande animal brasileiro, seu focinho termina numa pequena tromba",
+      "answer": "ANTA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(Pal. ingl.) Embarcação fretada para passeio ou viagem",
+      "answer": "CHARTER",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O símbolo do hólmio, em química",
+      "answer": "HO",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Cidade dividida entre Israel e Jordânia",
+      "answer": "JERUSALEM",
+      "row": 1,
+      "col": 10
+    },
+    "12": {
+      "clue": "Consequência",
+      "answer": "SEQUELA",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Plantação de um tubérculo feculoso e alimentício",
+      "answer": "BATATAL",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "De cabelo avermelhado (fem.)",
+      "answer": "RUIVA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Interjeição de contrariedade, irritação, impaciência",
+      "answer": "RAIOS",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "(Anat.) Dar conexão nervosa a um tecido",
+      "answer": "INERVAR",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Mulher de pele mais escura que a branca",
+      "answer": "MORENA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Os andinos ficam ao Sul do Chile e é um destino turístico muito visitado",
+      "answer": "LAGOS",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Tecido de algodão usado em curativos, compressas etc.",
+      "answer": "GAZE",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "O que se opõe ao bem, à ordem, à virtude, à honra",
+      "answer": "MAL",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Sigla do estado de Bauru e Itu",
+      "answer": "SP",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "O que muda de pato para palito",
+      "answer": "LI",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

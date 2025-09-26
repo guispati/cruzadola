@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Abestalhada, otária",
+      "answer": "BOBA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Joaquim, para os íntimos",
+      "answer": "JUCA",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Qualquer região, terra ou território",
+      "answer": "PAIS",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Centro espacial e aeronáutico dos EUA",
+      "answer": "NASA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Camarões",
+      "answer": "CAM",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Um antônimo para secura",
+      "answer": "UMIDADE",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "Aquela que se embriaga por hábito",
+      "answer": "BEBADA",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Índio, elemento químico",
+      "answer": "IN",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "Desenvolto",
+      "answer": "AGIL",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Dirigir palavras amargas",
+      "answer": "CASCAR",
+      "row": 4,
+      "col": 5
+    },
+    "24": {
+      "clue": "Divulgado, declarado",
+      "answer": "MANIFESTADO",
+      "row": 5,
+      "col": 0
+    },
+    "26": {
+      "clue": "Espuma usada como isolante térmico",
+      "answer": "ISOPOR",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "O Reno e o Danúbio ficam na Europa",
+      "answer": "RIOS",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Unidade de velocidade marítima",
+      "answer": "NO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Que aplica tração",
+      "answer": "TRATOR",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "Atchim!",
+      "answer": "ESPIRRO",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Na França é oeuf",
+      "answer": "OVO",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "(Bíbl.) A embarcação construída por Noé",
+      "answer": "ARCA",
+      "row": 9,
+      "col": 1
+    },
+    "36": {
+      "clue": "A ponta de um membro do qual se amputou uma parte",
+      "answer": "COTO",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "Ao ar livre",
+      "answer": "FORA",
+      "row": 10,
+      "col": 2
+    },
+    "39": {
+      "clue": "Conto, narrativa",
+      "answer": "CASO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "(Gír.) Farra, folia",
+      "answer": "OPA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Menino, criança, em italiano",
+      "answer": "BAMBINO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Interjeição de dor",
+      "answer": "AI",
+      "row": 0,
+      "col": 3
+    },
+    "6": {
+      "clue": "O \"U\" de ONU",
+      "answer": "UNIDAS",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Arquivo em que uma empresa registra informações de clientes",
+      "answer": "CADASTRO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "A delta usada no voo livre",
+      "answer": "ASA",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Prefixo de inferioridade",
+      "answer": "SUB",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Transferido para outra ocasião",
+      "answer": "ADIADO",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Passagem para escoar fumaça",
+      "answer": "CHAMINE",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Permanecer longo tempo em meio líquido",
+      "answer": "MACERAR",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Obstáculo, embaraço",
+      "answer": "ENROSCO",
+      "row": 2,
+      "col": 10
+    },
+    "18": {
+      "clue": "Da forma da trajetória descrita por um astro em torno de outro",
+      "answer": "ELIPTICO",
+      "row": 3,
+      "col": 3
+    },
+    "21": {
+      "clue": "Soda (bebida)",
+      "answer": "GASOSA",
+      "row": 4,
+      "col": 1
+    },
+    "23": {
+      "clue": "Nascido na capital do Egito",
+      "answer": "CAIROTA",
+      "row": 4,
+      "col": 8
+    },
+    "25": {
+      "clue": "Cobrir de estofo",
+      "answer": "FORRAR",
+      "row": 5,
+      "col": 4
+    },
+    "30": {
+      "clue": "Som de uma batida à porta",
+      "answer": "TOC",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Polícia Rodoviária Federal",
+      "answer": "PRF",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "Segue nós",
+      "answer": "VOS",
+      "row": 8,
+      "col": 9
+    },
+    "37": {
+      "clue": "Otaviano Costa, ator e apresentador de TV",
+      "answer": "OC",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

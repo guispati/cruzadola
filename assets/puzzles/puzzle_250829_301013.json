@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "De três cabeças",
+      "answer": "TRICEFALO",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Voz do lobo",
+      "answer": "UIVO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Em economia, qualquer item exigido para a produção",
+      "answer": "INSUMO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Sigla do estado de Paranaguá",
+      "answer": "PR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Um grande time do futebol europeu",
+      "answer": "MILAN",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "O sujeito de respiro ou suspiro",
+      "answer": "EU",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Inferior em condição ou posição",
+      "answer": "MENOS",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Patas",
+      "answer": "PES",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "(Fig.) Solução, recurso, expediente",
+      "answer": "SAIDA",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Quím.) Tl",
+      "answer": "TALIO",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Publicar ou declarar solenemente",
+      "answer": "PROCLAMAR",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Ato de tornar seco demais",
+      "answer": "TORRA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Um Estado da Arábia",
+      "answer": "CATAR",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Abreviatura de companhia",
+      "answer": "CIA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Vento típico das regiões marinhas, suave, fresco, agradável",
+      "answer": "BRISA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Símbolo de hectare (10.000 m²)",
+      "answer": "HA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Índios que dominaram a América Central e parte do México",
+      "answer": "MAIAS",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Frequência Intermediária",
+      "answer": "FI",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Aparelhado",
+      "answer": "ARMADO",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Tel) A segunda maior cidade de Israel",
+      "answer": "AVIV",
+      "row": 9,
+      "col": 7
+    },
+    "37": {
+      "clue": "Proibido, censurado",
+      "answer": "PROSCRITO",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Uma grande nação de índios brasileiros",
+      "answer": "TUPIS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O contrário de chorar",
+      "answer": "RIR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "4, em algarismos romanos",
+      "answer": "IV",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Devorador",
+      "answer": "COMEDOR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Um tecido transparente",
+      "answer": "FILO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Desenho de animação (1997) baseado na vida de uma princesa russa",
+      "answer": "ANASTACIA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Lei de Segurança Nacional",
+      "answer": "LSN",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "De outro modo",
+      "answer": "OU",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "(Alegre) Cidade do sul de Minas Gerais",
+      "answer": "POUSO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "O que tem metade dos bens (fem.)",
+      "answer": "MEEIRA",
+      "row": 1,
+      "col": 9
+    },
+    "15": {
+      "clue": "Não terminado",
+      "answer": "INACABADO",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "(Bíbl.) Um dos presentes dos Reis Magos",
+      "answer": "MIRRA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "(La) Cidade argentina, capital da província de Buenos Aires",
+      "answer": "PLATA",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Sustentar",
+      "answer": "APOIAR",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Tornar misturado",
+      "answer": "AMASSAR",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "Até a vista!",
+      "answer": "TCHAU",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Uma cor de cabelos",
+      "answer": "RUIVO",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Formam uma bacia hidrográfica",
+      "answer": "RIOS",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "Não banha nem Roraima nem Tocantins",
+      "answer": "MAR",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "(Sigla ingl.) Viagem preparada especificamente pela agência de viagens para atender ao desejo de um cliente ou grupo",
+      "answer": "FIT",
+      "row": 8,
+      "col": 9
+    },
+    "34": {
+      "clue": "Marília Pêra (1943-2015), atriz",
+      "answer": "MP",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "A metade de XII, em algarismos romanos",
+      "answer": "VI",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

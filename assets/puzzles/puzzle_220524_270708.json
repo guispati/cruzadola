@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma peça do piano",
+      "answer": "PEDAL",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Encontrar coisa perdida ou escondida",
+      "answer": "ACHAR",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Publicação que sai a cada 12 meses",
+      "answer": "ANUARIO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Nico Fidenco, cantor italiano",
+      "answer": "NF",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "O de casa não faz milagres",
+      "answer": "SANTO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Você, nas conversas on-line",
+      "answer": "VC",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Grão que alimenta pássaros engaiolados",
+      "answer": "ALPISTE",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Perverso, ruim",
+      "answer": "MAU",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "(Mús.) Executado por apenas uma pessoa",
+      "answer": "SOLO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Macaquinho",
+      "answer": "MICO",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Um estilo de cabelo",
+      "answer": "RASTAFARI",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Extremidade córnea da boca das aves",
+      "answer": "BICO",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "O Marcos repórter esportivo",
+      "answer": "TINO",
+      "row": 6,
+      "col": 7
+    },
+    "24": {
+      "clue": "Unidade de Pronto Atendimento",
+      "answer": "UPA",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Dizer ou falar mal",
+      "answer": "DIFAMAR",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Sem perda de tempo",
+      "answer": "JA",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Ministrar remédio para acalmar",
+      "answer": "SEDAR",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "Reynaldo Gianecchini, ator",
+      "answer": "RG",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Ventre",
+      "answer": "ABDOMEN",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "Morte (de pessoa)",
+      "answer": "OBITO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Sinal sonoro",
+      "answer": "AUDIO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Tristezas, amarguras",
+      "answer": "PENAS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Diretório Acadêmico",
+      "answer": "DA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Inquieto devido à espera",
+      "answer": "ANSIOSO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Satélites",
+      "answer": "LUAS",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Engenho, esmero na criação de algo",
+      "answer": "ARTE",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "O período de excitabilidade sexual da fêmea dos animais",
+      "answer": "CIO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Quím.) O símbolo do hólmio",
+      "answer": "HO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Movimento para trás",
+      "answer": "RECUO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Medicamento contra o azedume do estômago",
+      "answer": "ANTIACIDO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "O apelido da capital catarinense",
+      "answer": "FLORIPA",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Imunizar de vírus",
+      "answer": "VACINAR",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Folha de metal usada na sinalização de trânsito",
+      "answer": "PLACA",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "De tamanho reduzido",
+      "answer": "MIRIM",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Bosque espesso",
+      "answer": "MATAREU",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Botijão",
+      "answer": "BUJÃO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Rim, pâncreas ou útero",
+      "answer": "ORGÃO",
+      "row": 6,
+      "col": 10
+    },
+    "25": {
+      "clue": "Polegar ou mindinho",
+      "answer": "DEDO",
+      "row": 7,
+      "col": 4
+    },
+    "26": {
+      "clue": "Prestígio",
+      "answer": "FAMA",
+      "row": 7,
+      "col": 6
+    },
+    "28": {
+      "clue": "Sistema Brasileiro de Televisão",
+      "answer": "SBT",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Interjeição que expressa vivo pesar ou grande dor",
+      "answer": "AI",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "O que transforma Sara em Sandra",
+      "answer": "ND",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

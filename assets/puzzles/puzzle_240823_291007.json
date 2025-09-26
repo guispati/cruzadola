@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Som de sapateado e palmas",
+      "answer": "BATICUM",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "As consoantes de Teresa",
+      "answer": "TRS",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Um ângulo menor que 90 graus",
+      "answer": "AGUDO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Ave também chamada gralha-azul",
+      "answer": "ACAEM",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Casa",
+      "answer": "LAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Outro nome da lagartixa",
+      "answer": "CATONGA",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Serve para a higiene bucal",
+      "answer": "FIODENTAL",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Que revela interesse",
+      "answer": "ATENTO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "(of Duty) Famosa série de videogames",
+      "answer": "CALL",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Arma de arremesso com ponta aguda de ferro",
+      "answer": "DARDO",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Indivíduo que tem dinheiro a rodo",
+      "answer": "RICO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Ingl.) Bolsa de ar que se infla no momento da colisão",
+      "answer": "AIRBAG",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Tornado claro e compreensível relativamente aos detalhes",
+      "answer": "ELUCIDADO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Questionar em juízo",
+      "answer": "LITIGAR",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "A atriz Gardner, de \"O Barco das Ilusões\"",
+      "answer": "AVA",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Instituição que abriga pesssoas de idade avançada",
+      "answer": "ASILO",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Red.) Um time do futebol gaúcho",
+      "answer": "INTER",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "X",
+      "answer": "XIS",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Partido monárquico",
+      "answer": "REALEZA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Transporte que faz a travessia em canais",
+      "answer": "BALSA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A bomba de hidrogênio",
+      "answer": "AGA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O esporte das corridas de cavalos",
+      "answer": "TURFE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Abreviatura de idem",
+      "answer": "ID",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Pré-adolescente muito vaidosa",
+      "answer": "COCOTA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Red.) Lance do jogo de xadrez",
+      "answer": "MATE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Tão grande ou numerosa",
+      "answer": "TANTA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Vantagem concedida a alguém e do qual somente ele goza",
+      "answer": "REGALIA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Pequeno, em inglês",
+      "answer": "SMALL",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "A capital do estado de New Hampshire, nos EUA",
+      "answer": "CONCORD",
+      "row": 1,
+      "col": 7
+    },
+    "15": {
+      "clue": "Muito querida",
+      "answer": "ADORADA",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Rude, hostil",
+      "answer": "INDOCIL",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "A capital da Geórgia",
+      "answer": "TBILISI",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Preço pago em um hotel",
+      "answer": "DIARIA",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Estado de repouso",
+      "answer": "RELAX",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Tez",
+      "answer": "CUTIS",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Casa noturna de diversões",
+      "answer": "BOATE",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "(Lobo-) Canídeo da América do Sul, de pelagem avermelhada",
+      "answer": "GUARA",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "O ator Rickli",
+      "answer": "IGOR",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Certa ocasião",
+      "answer": "VEZ",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "Nara Leão (1942-1989), cantora",
+      "answer": "NL",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Rebelde",
+      "answer": "INDOCIL",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "O estilo musical de Elvis Presley",
+      "answer": "ROCK",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "A elasticidade adquirida por um veículo graças à sua suspensão",
+      "answer": "MOLEJO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "1006, em algarismos romanos",
+      "answer": "MVI",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Ave galiforme encontrada em matas ribeirinhas, de coloração negra e branca",
+      "answer": "CUJUBIM",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Sufixo aumentativo",
+      "answer": "ÃO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Uma marca de cola",
+      "answer": "TENAZ",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "(Chi Minh) A principal cidade do Vietnã",
+      "answer": "HO",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "O maior jogador de futebol de todos os tempos",
+      "answer": "PELE",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Disputa com o Flu um tradicional clássico do futebol",
+      "answer": "FLA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Campo cultivado",
+      "answer": "SEARA",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Pop.) Comida",
+      "answer": "GRUDE",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Privada de vestuários",
+      "answer": "NUA",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Ramo subterrâneo de planta",
+      "answer": "RAIZ",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Júlio Verne (1828-1905), escritor francês de \"A Volta ao Mundo em 80 Dias\"",
+      "answer": "JV",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "(La) Cidade argentina capital de Buenos Aires",
+      "answer": "PLATA",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "O nome da letra K",
+      "answer": "CA",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Célebre poema atribuído a Homero",
+      "answer": "AILIADA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Título honorífico japonês correspondente a senhor ou senhora",
+      "answer": "SAN",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Rebanho de gado bovino",
+      "answer": "BOIADA",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "(Cura-) Panaceia",
+      "answer": "TUDO",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "O numeral que indica uma série",
+      "answer": "ORDINAL",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Filhos do mesmo pai e da mesma mãe",
+      "answer": "IRMÃOS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Acabado de sair da fábrica",
+      "answer": "NOVO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "601, em algarismos romanos",
+      "answer": "DCI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Interjeição inglesa: de acordo!",
+      "answer": "OK",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Livre",
+      "answer": "IMUNE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Lj",
+      "answer": "LOJA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Internet",
+      "answer": "WEB",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Da mesma maneira que",
+      "answer": "COMO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Um tipo de iluminação",
+      "answer": "LUZFRIA",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Guerra santa muçulmana",
+      "answer": "JIHAD",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Casinha",
+      "answer": "CELA",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Tratamento de doenças",
+      "answer": "TERAPIA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "(de sebo) Mastro escorregadio, com uma prenda para quem chega ao seu topo",
+      "answer": "PAU",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "A claridade emitida pelo holofote",
+      "answer": "LUZ",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Remessa",
+      "answer": "ENVIO",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "A borralheira é a personagem de história infantil",
+      "answer": "GATA",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Álcool combustível",
+      "answer": "ETANOL",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Um equipamento que emana micro-ondas",
+      "answer": "RADAR",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Carne seca",
+      "answer": "JABA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Partido, facção, grupo",
+      "answer": "LADO",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Um dos elementos de um conjunto",
+      "answer": "CADA",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "59, em algarismos romanos",
+      "answer": "LIX",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "Sol, na Inglaterra",
+      "answer": "SUN",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "Uma forma do pronome tu",
+      "answer": "TI",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

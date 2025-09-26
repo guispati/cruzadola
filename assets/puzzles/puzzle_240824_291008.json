@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Famosa marca de curativos",
+      "answer": "BANDAID",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Clínica para tratamento de distúrbios da alimentação, saúde e beleza",
+      "answer": "SPA",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Um líquido potável",
+      "answer": "AGUA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Brigar, disputar",
+      "answer": "PELEAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Uma capital africana",
+      "answer": "TUNIS",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Pop.) Padrinho",
+      "answer": "DINDO",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Advérbio: aqui está!",
+      "answer": "EIS",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Livrar de suspeitas",
+      "answer": "ILIBAR",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "(Quím.) O símbolo do rádio",
+      "answer": "RA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Falta de rigidez",
+      "answer": "FLACIDEZ",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Demonstrado",
+      "answer": "PROVADO",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Aglomerado",
+      "answer": "AGREGADO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Paulo Gustavo (1978-2021), ator",
+      "answer": "PG",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Lugar afastado e sossegado",
+      "answer": "RETIRO",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Abreviatura de companhia",
+      "answer": "CIA",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "As edificações construídas num conjunto habitacional",
+      "answer": "CASAS",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Um utilitário off-road dos anos 1970",
+      "answer": "RURAL",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Um antônimo de pequeno",
+      "answer": "ENORME",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Uma capital asiática",
+      "answer": "SEUL",
+      "row": 9,
+      "col": 7
+    },
+    "34": {
+      "clue": "Fim de semana",
+      "answer": "FDS",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Importante província do Canadá",
+      "answer": "ONTARIO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O instrumento musical de Ringo Starr",
+      "answer": "BATERIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A ave-símbolo da escola de samba Portela",
+      "answer": "AGUIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Em uns",
+      "answer": "NUNS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Contração de preposição e advérbio de lugar",
+      "answer": "DAI",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Inquérito Policial",
+      "answer": "IP",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Consagrador",
+      "answer": "DEDICADOR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Um ramo do Parlamento",
+      "answer": "SENADO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O religioso que dirige a missa",
+      "answer": "PADRE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Círculo de metal ou madeira",
+      "answer": "ARO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Desejo",
+      "answer": "LIBIDO",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Um raciocínio lógico dedutivo",
+      "answer": "SILOGISMO",
+      "row": 2,
+      "col": 4
+    },
+    "18": {
+      "clue": "Eliminar sujeiras e impurezas",
+      "answer": "LAVAR",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Alugar para carreto",
+      "answer": "FRETAR",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Ex-jogador e técnico de futebol alagoano",
+      "answer": "ZAGALLO",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Bandidos encarcerados",
+      "answer": "PRESOS",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "(Canyon) Grande desfiladeiro dos EUA",
+      "answer": "GRAND",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "A UF PI",
+      "answer": "PIAUI",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Professar uma fé religiosa",
+      "answer": "CRER",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Caixa Econômica Federal",
+      "answer": "CEF",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Sigla inglesa dos EUA",
+      "answer": "USA",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "O que transforma anta em antena",
+      "answer": "EN",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

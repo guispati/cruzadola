@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Cortesia, gentileza",
+      "answer": "FINEZA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Linhagem ou tronco de família",
+      "answer": "CEPA",
+      "row": 0,
+      "col": 7
+    },
+    "11": {
+      "clue": "Que tem aversão ao vinho",
+      "answer": "ENOFOBO",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Precede vós",
+      "answer": "NOS",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "A Alfa marca italiana de carros",
+      "answer": "ROMEO",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "A \"cidade-luz\"",
+      "answer": "PARIS",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "(Ingl.) Gelo",
+      "answer": "ICE",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Espumosa",
+      "answer": "CREMOSA",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Rutênio",
+      "answer": "RU",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Infantil",
+      "answer": "PUERIL",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Aquele que esconde alguma coisa",
+      "answer": "OCULTADOR",
+      "row": 5,
+      "col": 1
+    },
+    "26": {
+      "clue": "Composição musical para oito instrumentos",
+      "answer": "OCTETO",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Edson Celulari, ator paulista",
+      "answer": "EC",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Desprovido de luz",
+      "answer": "OBSCURO",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Novecentos e noventa e nove + um",
+      "answer": "MIL",
+      "row": 7,
+      "col": 8
+    },
+    "32": {
+      "clue": "Favorecer",
+      "answer": "DOTAR",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Pimenta-do-) Uma especiaria da culinária",
+      "answer": "REINO",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "A cidade baiana com a ilha de Comandatuba",
+      "answer": "UNA",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Ver, enxergar",
+      "answer": "AVISTAR",
+      "row": 9,
+      "col": 4
+    },
+    "38": {
+      "clue": "Peça que fixa o guidão na caixa de direção e quadro de uma bicicleta",
+      "answer": "MESA",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Leitão",
+      "answer": "BACORO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Lesar a integridade física de",
+      "answer": "FERIR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Que não prejudica",
+      "answer": "INOCUO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O de Pelé é Edson",
+      "answer": "NOME",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O nome da 6ª letra do alfabeto",
+      "answer": "EFE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Criação de animais úteis ao homem",
+      "answer": "ZOOCULTURA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Aracy Balabanian, atriz sul-mato-grossense",
+      "answer": "AB",
+      "row": 0,
+      "col": 5
+    },
+    "8": {
+      "clue": "(Pop.) Complicação, trapalhada",
+      "answer": "ENROLO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Visto que",
+      "answer": "POIS",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Bastante",
+      "answer": "ASSAZ",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Diz-se da sala própria para intervenção cirúrgica",
+      "answer": "OPERATORIA",
+      "row": 1,
+      "col": 6
+    },
+    "16": {
+      "clue": "Substância vegetal nutritiva contida nas batatas",
+      "answer": "AMIDO",
+      "row": 2,
+      "col": 7
+    },
+    "19": {
+      "clue": "Guardar, conservar alguma coisa",
+      "answer": "RETER",
+      "row": 3,
+      "col": 5
+    },
+    "21": {
+      "clue": "Uma personagem de desenho animado de origem oriental",
+      "answer": "PUCCA",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Dorso",
+      "answer": "COSTAS",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Ter poder",
+      "answer": "REINAR",
+      "row": 5,
+      "col": 9
+    },
+    "25": {
+      "clue": "Transpiração malcheirosa",
+      "answer": "BODUM",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Substância química usada para purificar a água",
+      "answer": "CLORO",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Peça usada para cobrir a cabeça",
+      "answer": "BONE",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "Episódio ou personagem lendário",
+      "answer": "MITO",
+      "row": 7,
+      "col": 8
+    },
+    "34": {
+      "clue": "A tecla do extremo superior esquerdo do teclado",
+      "answer": "ESC",
+      "row": 8,
+      "col": 7
+    },
+    "37": {
+      "clue": "As iniciais do médico Vital (1865-1950)",
+      "answer": "VB",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

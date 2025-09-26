@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Diz-se das frutas secas, cobertas com açúcar cristalizado",
+      "answer": "GLACE",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Ingl.) Um batom que hidrata e protege os lábios",
+      "answer": "GLOSS",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Ressoar fortemente",
+      "answer": "RIBOMBAR",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "A conjunção que sugere opção",
+      "answer": "OU",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Que não possui qualidades necessárias ao desempenho",
+      "answer": "INCAPAZ",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Música Popular Brasileira",
+      "answer": "MPB",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Michael Keaton, ator americano",
+      "answer": "MK",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Realizar uma transmissão, concessão de poderes",
+      "answer": "DELEGAR",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Monte de areia típico de praias como Jericoacoara e Natal",
+      "answer": "DUNA",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Os satélites de Júpiter",
+      "answer": "LUAS",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Leque, ventarola",
+      "answer": "ABANO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Pop.) Vingança",
+      "answer": "FORRA",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "A combinação de ladrão com patrão",
+      "answer": "RIMA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Loja de livros usados",
+      "answer": "SEBO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Ilha do litoral paulista, sede de um parque estadual",
+      "answer": "CARDOSO",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Vittorio Gassman (1922-2000), ator e diretor italiano",
+      "answer": "VG",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "(Ingl.) Ônibus",
+      "answer": "BUS",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Concluir, acabar",
+      "answer": "ULTIMAR",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Bárbara Domingos, atleta da ginástica rítmica",
+      "answer": "BD",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Mulher infiel",
+      "answer": "TRAIDORA",
+      "row": 9,
+      "col": 3
+    },
+    "34": {
+      "clue": "Capital iraquiana",
+      "answer": "BAGDA",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Adoçar em demasia",
+      "answer": "MELAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Bloquear (o motor) por superaquecimento",
+      "answer": "GRIMPAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Inform.) Vínculo, ligação",
+      "answer": "LINK",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Região industrial paulista com as cidades de Santo André, São Bernardo do Campo e São Caetano do Sul",
+      "answer": "ABC",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Reunir, pôr junto",
+      "answer": "COADUNAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Ato de deformar a madeira por ação do calor ou da umidade",
+      "answer": "EMPENO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Tecido de algodão usado em curativos, compressas etc.",
+      "answer": "GAZE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Laurêncio",
+      "answer": "LR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Numa prova, dizer em voz baixa para ajudar alguém",
+      "answer": "SOPRAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Prefixo: inferioridade, substituição",
+      "answer": "SUB",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Projétil",
+      "answer": "BALA",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "O ator Mendonça",
+      "answer": "MAURO",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Corpo de forma aproximadamente esférica",
+      "answer": "GLOBOIDE",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Um jogo de tabuleiro entre dois concorrentes",
+      "answer": "DAMAS",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "(Fig.) Extorquir dinheiro, impondo preços altos",
+      "answer": "SANGRAR",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "De bico grande e grosso (fem.)",
+      "answer": "BICUDA",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Banquete",
+      "answer": "FESTIM",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "A parte inferior do calçado",
+      "answer": "SOLA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Ato de repreender",
+      "answer": "DURA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Cargo de juiz",
+      "answer": "VARA",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Big Brother Brasil",
+      "answer": "BBB",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Abreviatura de molécula-grama",
+      "answer": "MOL",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Tesouro Direto",
+      "answer": "TD",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

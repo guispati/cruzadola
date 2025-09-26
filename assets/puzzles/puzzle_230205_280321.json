@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "A peça de cera que se acende nas igrejas",
+      "answer": "VELA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "A parte branca do ovo",
+      "answer": "CLARA",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Que tem vaidade exagerada (fem.)",
+      "answer": "ORGULHOSA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Dráuzio Varella, médico e escritor",
+      "answer": "DV",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "A cantora popular norte-americana Ross",
+      "answer": "DIANA",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Dado sem dês",
+      "answer": "AO",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Um que cria as partes exteriores de uma publicação",
+      "answer": "CAPISTA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Exclamação de incerteza ou incredulidade",
+      "answer": "HUM",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Autômato mecânico e eletrônico",
+      "answer": "ROBO",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Porção de objetos leiloados de uma só vez",
+      "answer": "LOTE",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Imediatamente",
+      "answer": "LOGO",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Zona delimitada",
+      "answer": "SETOR",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Ato de deslizar (sobre o solo) de maneira desgovernada",
+      "answer": "DERRAPAGEM",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Trabalho de construção ou reparação de um edifício",
+      "answer": "OBRA",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Dispositivo usado para auxiliar, corrigir ou proteger a visão",
+      "answer": "OCULOS",
+      "row": 7,
+      "col": 5
+    },
+    "27": {
+      "clue": "Uma planta tropical ornamental",
+      "answer": "BROMELIA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "A metade de XII, em romanos",
+      "answer": "VI",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Vantagem especial concedida a alguém",
+      "answer": "REGALIA",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Muito tranquilo e confiante",
+      "answer": "ZEN",
+      "row": 9,
+      "col": 8
+    },
+    "32": {
+      "clue": "Sigla de uma grande potência mundial",
+      "answer": "EUA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Plaqueta que serve de base à porca",
+      "answer": "ARRUELA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Bebida típica de alguns países da Europa Oriental",
+      "answer": "VODCA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Forragem fresca",
+      "answer": "ERVA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Uma marca de monitores e TVs",
+      "answer": "LG",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Mapa da sensibilidade do ouvido aos sons",
+      "answer": "AUDIOGRAMA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Inseto também conhecido como piolho-das-virilhas",
+      "answer": "CHATO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Na) Sem recursos",
+      "answer": "LONA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "A delta do voo livre",
+      "answer": "ASA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O símbolo químico do rádio",
+      "answer": "RA",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "A cidade europeia com o Mosteiro dos Jerônimos e a Torre de Belém",
+      "answer": "LISBOA",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Consumir",
+      "answer": "COMER",
+      "row": 1,
+      "col": 10
+    },
+    "14": {
+      "clue": "Um meio de transporte",
+      "answer": "AUTOMOVEL",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Adiamento",
+      "answer": "PRORROGA",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Alojamento para turistas ou forasteiros",
+      "answer": "HOTEL",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Medida igual a 6.600 metros",
+      "answer": "LEGUA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Cão de guarda, de postura agressiva e perigosa",
+      "answer": "LEBREU",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Matar a vontade de",
+      "answer": "SACIAR",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Toque especial do sino empregado em certos atos litúrgicos",
+      "answer": "DOBRE",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Dar educação, refinamento",
+      "answer": "POLIR",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Destino, geralmente mau, cheio de amarguras",
+      "answer": "SINA",
+      "row": 7,
+      "col": 10
+    },
+    "28": {
+      "clue": "Pronome que indica a mulher da qual se fala",
+      "answer": "ELA",
+      "row": 8,
+      "col": 4
+    },
+    "31": {
+      "clue": "Zona Eleitoral",
+      "answer": "ZE",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

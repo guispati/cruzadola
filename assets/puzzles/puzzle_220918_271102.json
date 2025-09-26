@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Conecta o PC à net",
+      "answer": "MODEM",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Cosmético para os cílios",
+      "answer": "RIMEL",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Ampola, frasco cilíndrico muito pequeno",
+      "answer": "FLACONETE",
+      "row": 1,
+      "col": 2
+    },
+    "12": {
+      "clue": "Cloro, elemento químico",
+      "answer": "CL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O tipo mais comum de algarismo",
+      "answer": "ARABICO",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "O álcool do drinque daiquiri",
+      "answer": "RUM",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Livre permuta de uma coisa por outra",
+      "answer": "TROCA",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "(Anat.) Órgão que só as mulheres possuem",
+      "answer": "OVARIO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "O até logo dos caipiras",
+      "answer": "INTE",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Pulsar",
+      "answer": "BATER",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Depósito de cereais",
+      "answer": "PAIOL",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "A beleza das borboletas",
+      "answer": "ASAS",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Um material que substitui o zíper",
+      "answer": "VELCRO",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "O contrário de maior",
+      "answer": "MENOR",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Mesmo",
+      "answer": "ATE",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Que tem desenhos gravados no corpo",
+      "answer": "TATUADO",
+      "row": 8,
+      "col": 1
+    },
+    "32": {
+      "clue": "Pois não!",
+      "answer": "OI",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "Material para arrematar embalagens",
+      "answer": "FITACREPE",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Colheita",
+      "answer": "SEARA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "O \"roubo\" de uma pessoa",
+      "answer": "RAPTO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Unidade de medida de pressão",
+      "answer": "MICROBAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Sigla do Distrito Federal",
+      "answer": "DF",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Essa mulher",
+      "answer": "ELA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Vítima de um ideal",
+      "answer": "MARTIR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Autômato mecânico e eletrônico",
+      "answer": "ROBO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Que está no começo, no princípio",
+      "answer": "INICIAL",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "A oficina que conserta carros",
+      "answer": "MECANICA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Sufixo diminutivo",
+      "answer": "ETO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Mans) Autódromo francês",
+      "answer": "LE",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Por alto preço",
+      "answer": "CARO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "As peças do vestuário que cobrem a mão",
+      "answer": "LUVAS",
+      "row": 2,
+      "col": 1
+    },
+    "16": {
+      "clue": "(Esp.) Jogo ou série de jogos em que o perdedor sai da competição",
+      "answer": "MATAMATA",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Planta rasteira de frutos saborosos",
+      "answer": "MELOEIRO",
+      "row": 3,
+      "col": 10
+    },
+    "20": {
+      "clue": "Em informática, reiniciar o computador",
+      "answer": "RESETAR",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Que não é reto",
+      "answer": "TORTO",
+      "row": 4,
+      "col": 9
+    },
+    "24": {
+      "clue": "Ser derrotado no jogo",
+      "answer": "PERDER",
+      "row": 5,
+      "col": 6
+    },
+    "26": {
+      "clue": "Mover-se como um pombo",
+      "answer": "VOAR",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "A parte posterior do pescoço",
+      "answer": "NUCA",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "Lindo pássaro de corpo vermelho e asas pretas",
+      "answer": "TIE",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "Interjeição de espanto",
+      "answer": "OPA",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Flávia Saraiva, ginasta",
+      "answer": "FS",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Extended Play, tipo de gravação de álbuns de música",
+      "answer": "EP",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

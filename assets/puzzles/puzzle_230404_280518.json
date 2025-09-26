@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Alfigir",
+      "answer": "ANGUSTIAR",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Derrota, fracasso",
+      "answer": "PIOR",
+      "row": 1,
+      "col": 2
+    },
+    "9": {
+      "clue": "O sujeito de tentais ou respondeis",
+      "answer": "VOS",
+      "row": 1,
+      "col": 7
+    },
+    "11": {
+      "clue": "O lacrimogêneo é usado na dispersão de multidões",
+      "answer": "GAS",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Dizer ou falar mal",
+      "answer": "DIFAMAR",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Egberto Gismonti, músico",
+      "answer": "EG",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Um mamão muito consumido",
+      "answer": "PAPAIA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Espécie de laranja de sabor agridoce",
+      "answer": "LIMA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Planta usada em paisagismo, de folhas pequenas",
+      "answer": "AVENCA",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Artigos",
+      "answer": "ITENS",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Quadris",
+      "answer": "ANCAS",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "(Rel.) Uma parte do rosário",
+      "answer": "CONTAS",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "14-8",
+      "answer": "SEIS",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Arma de guerra dos nossos indígenas",
+      "answer": "TACAPE",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Sufixo da Rússia, na net",
+      "answer": "RU",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Nascida no signo que vai de 23/7 a 22/8",
+      "answer": "LEONINA",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Bem ou graça recebida de divindade",
+      "answer": "DOM",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Abreviatura de senhora",
+      "answer": "SRA",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "Tecido usado em camisolas e véus",
+      "answer": "TULE",
+      "row": 9,
+      "col": 5
+    },
+    "37": {
+      "clue": "(Quím.) Basificar",
+      "answer": "ALCALIZAR",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "De grande beleza e perfeição",
+      "answer": "ANGELICAL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Sigla de Global Positioning System, sistema de localização",
+      "answer": "GPS",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Palavra que expressa dor",
+      "answer": "UI",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Substância que pode ser cáustica",
+      "answer": "SODA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Intestino animal",
+      "answer": "TRIPA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Torcedor de um time de futebol de SC",
+      "answer": "AVAIENSE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Aventura amorosa",
+      "answer": "ROMANCE",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "O parceiro de Guarabyra, da MPB",
+      "answer": "SA",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "(Gír.) Movimento da rua",
+      "answer": "AGITO",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Vagem, feijão",
+      "answer": "FAVA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Retomar",
+      "answer": "REASSUMIR",
+      "row": 2,
+      "col": 10
+    },
+    "17": {
+      "clue": "Um dos mais importantes ecossistemas do Brasil",
+      "answer": "PANTANAL",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Conselheira sábia e de confiança",
+      "answer": "MENTORA",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "A capital de um país norte-africano",
+      "answer": "CAIRO",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "O Pererê, de uma perna só",
+      "answer": "SACI",
+      "row": 5,
+      "col": 4
+    },
+    "26": {
+      "clue": "Boa, pura",
+      "answer": "SANTA",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "Pântano, brejo",
+      "answer": "PAUL",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "(Quím.) Einstêinio",
+      "answer": "ES",
+      "row": 8,
+      "col": 1
+    },
+    "33": {
+      "clue": "O número das camisas de Maradona e Pelé",
+      "answer": "DEZ",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "A Negra cantora",
+      "answer": "LI",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

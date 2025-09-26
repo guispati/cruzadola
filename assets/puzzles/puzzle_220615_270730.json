@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Parte amarelada do ovo",
+      "answer": "GEMA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Prestar auxílio a",
+      "answer": "AJUDAR",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Som de uma língua",
+      "answer": "FONEMA",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "A quarta consoante",
+      "answer": "EFE",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Dureza",
+      "answer": "RIGIDEZ",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "Nevoeiro denso",
+      "answer": "CALIGEM",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Sigla do estado de Arapongas e Apucarana",
+      "answer": "PR",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "A região italiana de Padova e Verona",
+      "answer": "VENETO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "O estilo de dança do Bolshoi",
+      "answer": "BALE",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Um dacota, caiapó ou mapuche",
+      "answer": "INDIO",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Título de dívida pública",
+      "answer": "BONUS",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Desviar-se, afastar-se",
+      "answer": "SAIR",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "O mesmo que palmilha",
+      "answer": "SOLETA",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "Adriana Calcanhotto, cantora gaúcha",
+      "answer": "AC",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Afiado",
+      "answer": "AMOLADO",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "Contração de preposição e artigo indefinido",
+      "answer": "DUM",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Na forma da bola de rúgbi",
+      "answer": "OVADO",
+      "row": 8,
+      "col": 4
+    },
+    "30": {
+      "clue": "A primeira capital pernambucana",
+      "answer": "OLINDA",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Adv.) No máximo",
+      "answer": "ATE",
+      "row": 9,
+      "col": 7
+    },
+    "34": {
+      "clue": "A mais antiga universidade do mundo (Reino Unido)",
+      "answer": "OXFORD",
+      "row": 10,
+      "col": 1
+    },
+    "35": {
+      "clue": "Gênero musical originário da Bahia",
+      "answer": "AXE",
+      "row": 10,
+      "col": 8
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "As letras que separam o D do G",
+      "answer": "EF",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O pintor italiano Giorgio (1890-1964), das naturezas-mortas",
+      "answer": "MORANDI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Planta usada para extração de tintura azul",
+      "answer": "ANILEIRA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Aliado",
+      "answer": "AMIGO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Pedra semipreciosa",
+      "answer": "JADE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "10",
+      "answer": "DEZ",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Ary Fontoura, ator",
+      "answer": "AF",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Barragem",
+      "answer": "REPRESA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "O país de Luxor e Alexandria",
+      "answer": "EGITO",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Uma manifestação musical folclórica do nordeste",
+      "answer": "EMBOLADA",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Salas de refeições",
+      "answer": "CENACULO",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "O cachorro de Mickey, da Disney",
+      "answer": "PLUTO",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Um cheque com fundos certos",
+      "answer": "VISADO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Narrativa breve de um fato engraçado",
+      "answer": "ANEDOTA",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "O objeto arremessado no jogo de handebol",
+      "answer": "BOLA",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Dar pancadas, surra ou tunda",
+      "answer": "SOVAR",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Em música, o mesmo que escala",
+      "answer": "MODO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Mistura de coisas, ideias etc.",
+      "answer": "MIX",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "Nota Fiscal",
+      "answer": "NF",
+      "row": 9,
+      "col": 3
+    },
+    "33": {
+      "clue": "Abreviatura de exemplo",
+      "answer": "EX",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

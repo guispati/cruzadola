@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O chef paulistano Atala",
+      "answer": "ALEX",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O cantor cearense de \"Manera Frufru, Manera\"",
+      "answer": "FAGNER",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Pomar de limoeiros",
+      "answer": "LIMOAL",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Pequeno fruto do sertão, avermelhado",
+      "answer": "UMBU",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Uma parte da... mexerica",
+      "answer": "EXE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Med.) Estado de inconsciência, reversível ou não, devido a acidente, trauma etc.",
+      "answer": "COMA",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Carta de baralho que geralmente tem mais valor que as outras",
+      "answer": "AS",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Outro nome do arbusto caliandra, de lindas flores",
+      "answer": "MANDARARE",
+      "row": 3,
+      "col": 0
+    },
+    "20": {
+      "clue": "Fuga desordenada",
+      "answer": "DEBANDADA",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "O político norte-americano Barack",
+      "answer": "OBAMA",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Maravilha) Um dos grandes nomes do futebol brasileiro",
+      "answer": "DADA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Inclinar-se (o navio) submergindo de um lado",
+      "answer": "ADERNAR",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Advérbio de lugar",
+      "answer": "CA",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "(Fig.) O que há de melhor",
+      "answer": "FLOR",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Ventilar o ambiente",
+      "answer": "AREJAR",
+      "row": 7,
+      "col": 5
+    },
+    "32": {
+      "clue": "Instituto de Educação",
+      "answer": "IE",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "A família de peixes do bacalhau e do hadoque",
+      "answer": "GADIDA",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "Tão-só",
+      "answer": "MERAMENTE",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "Arremessar",
+      "answer": "ATIRAR",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "A quantidade de atletas de uma equipe de vôlei durante o jogo",
+      "answer": "SEIS",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Nascido em Hannover ou Munique",
+      "answer": "ALEMÃO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Papel revestido com areia, usado para polir",
+      "answer": "LIXA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Que foi corrigido, retificado",
+      "answer": "EMENDADO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Interjeição para espantar aves",
+      "answer": "XO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O reino vegetal",
+      "answer": "FLORA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Goleiro",
+      "answer": "GUARDAREDES",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "As iniciais do cantor Matogrosso",
+      "answer": "NM",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Uma exclamação de surpresa",
+      "answer": "EBA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Mulher nascida na URSS",
+      "answer": "RUSSA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Finalizar",
+      "answer": "ACABAR",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "O principal dialeto chinês, língua oficial",
+      "answer": "MANDARIM",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "Fazer cair",
+      "answer": "DEMERGER",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Educação a Distância",
+      "answer": "EAD",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "A maior cidade de Bangladesh",
+      "answer": "DACA",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Dança coreográfica",
+      "answer": "BALE",
+      "row": 5,
+      "col": 1
+    },
+    "26": {
+      "clue": "Mover braços e pernas para se deslocar na água",
+      "answer": "NADAR",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "O signo que vai de 21.03 a 20.04",
+      "answer": "ARIES",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "Imóvel, firme (fem.)",
+      "answer": "FIXA",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "A companheira de Tarzan",
+      "answer": "JANE",
+      "row": 7,
+      "col": 8
+    },
+    "34": {
+      "clue": "Altar religioso dos tempos antigos",
+      "answer": "ARA",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "A 3ª nota da escala natural de dó",
+      "answer": "MI",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Titânio",
+      "answer": "TI",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

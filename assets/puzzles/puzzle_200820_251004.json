@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Uma revista como a \"Turma da Mônica\"",
+      "answer": "GIBI",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O óleo para transporte pesado",
+      "answer": "DIESEL",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Homem que se veste com muito apuro",
+      "answer": "DANDI",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "(Pop.) Urina",
+      "answer": "XIXI",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Atenção",
+      "answer": "TENTO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Parcela de um todo",
+      "answer": "COTA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Apurar a raça",
+      "answer": "RACEAR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "A cantora e compositora paulista Lee, de \"Lança Perfume\"",
+      "answer": "RITA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Atitude exibicionista e ostentosa",
+      "answer": "ALARDE",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "(Ingl.) Fase de grande expansão da produção econômica",
+      "answer": "BOOM",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "O Mário Sérgio jornalista e apresentador de TV",
+      "answer": "CONTI",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Sentido pelo qual um objeto é percebido por contato físico",
+      "answer": "TATO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Quem está presa",
+      "answer": "DETIDA",
+      "row": 6,
+      "col": 5
+    },
+    "29": {
+      "clue": "O que não é certo",
+      "answer": "ERRO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Platô da Sibéria oriental, parte mais antiga do escudo siberiano",
+      "answer": "ANABAR",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "Daquele homem",
+      "answer": "DELE",
+      "row": 8,
+      "col": 1
+    },
+    "32": {
+      "clue": "Que se tem desde o nascimento",
+      "answer": "INATO",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Um sólido com vértice",
+      "answer": "CONE",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Automóvel que era fabricado pela GM",
+      "answer": "ASTRA",
+      "row": 9,
+      "col": 5
+    },
+    "35": {
+      "clue": "O patrimônio do Estado",
+      "answer": "ERARIO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "O senhor dos ventos, segundo a mitologia",
+      "answer": "EOLO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Muito satisfatório",
+      "answer": "IDEAL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Ponto de vendas de publicações periódicas",
+      "answer": "BANCA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Uma peça do motor turbo",
+      "answer": "INTERCOOLER",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O didímio, entre os químicos",
+      "answer": "DI",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Desmedido, exagerado",
+      "answer": "EXORBITANTE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Lugar ocupado por um corpo qualquer",
+      "answer": "SITIO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Preciso",
+      "answer": "EXATO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O que transforma soda em sólida",
+      "answer": "LI",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Concedido",
+      "answer": "DOADO",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Separa notas no braço do violão",
+      "answer": "TRASTE",
+      "row": 2,
+      "col": 0
+    },
+    "16": {
+      "clue": "O R do IR",
+      "answer": "RENDA",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Escora",
+      "answer": "AMPARO",
+      "row": 3,
+      "col": 10
+    },
+    "22": {
+      "clue": "O esporte de Roger Federer",
+      "answer": "TENIS",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Calor forte e prolongado",
+      "answer": "ARDOR",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Fita para medição de grandes áreas de terreno",
+      "answer": "TRENA",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "(Bot.) Árvore de madeira branco-amarelenta",
+      "answer": "IBARO",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Relativo a determinada época",
+      "answer": "DATAL",
+      "row": 6,
+      "col": 9
+    },
+    "33": {
+      "clue": "Sigla do Ceará",
+      "answer": "CE",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Uma contração comum",
+      "answer": "AO",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

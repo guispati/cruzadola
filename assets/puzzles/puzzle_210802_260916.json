@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Busca",
+      "answer": "CATA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Um instrumento de sopro",
+      "answer": "TROMPA",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Entulho com que se enche um terreno",
+      "answer": "ATERRO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Tecer",
+      "answer": "FIAR",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Que só tem um olho",
+      "answer": "LUSCO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Um creme usado para tratar e amaciar o cabelo",
+      "answer": "RINSE",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Marcado cronologicamente",
+      "answer": "DATADO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Vest.) Abertura em que entram os botões",
+      "answer": "CASA",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Nos estádios, movimento em onda feito pela torcida",
+      "answer": "OLA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Caderno preso por um tipo de mola fina",
+      "answer": "ESPIRAL",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Designação carinhosa do irmão do pai ou da mãe",
+      "answer": "TITIO",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "(Pop.) Rogos ou queixas impertinentes",
+      "answer": "CHORORO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Tradicional estação inglesa de rádio e tevê",
+      "answer": "BBC",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Caminho, trajetória do avião e do navio",
+      "answer": "ROTA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Um combustível",
+      "answer": "ALCOOL",
+      "row": 7,
+      "col": 5
+    },
+    "31": {
+      "clue": "Que age",
+      "answer": "ATIVO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Uma área cultivada",
+      "answer": "HORTA",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "(Gír.) Tiro de arma de fogo",
+      "answer": "TECO",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Disco) O mesmo que óvni",
+      "answer": "VOADOR",
+      "row": 9,
+      "col": 5
+    },
+    "35": {
+      "clue": "Fábrica de tijolos",
+      "answer": "OLARIA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Vermelho combinado com azul",
+      "answer": "ROXO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O de cana é garapa",
+      "answer": "CALDO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Presente",
+      "answer": "ATUAL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Fronte",
+      "answer": "TESTA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Baú",
+      "answer": "ARCA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Sigla do Tocantins",
+      "answer": "TO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Função",
+      "answer": "OFICIO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Preparar para uma explosão",
+      "answer": "MINAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Fruta seca ao sol ou em estufa",
+      "answer": "PASSA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Lugar com areia em abundância",
+      "answer": "AREAL",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Uma das principais atrações da festa do peão boiadeiro",
+      "answer": "RODEIO",
+      "row": 1,
+      "col": 4
+    },
+    "16": {
+      "clue": "Molusco comestível, de fácil deterioração",
+      "answer": "OSTRA",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Outro nome do inseto muquirana, parasita que se alimenta de sangue",
+      "answer": "PIOLHO",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Sabor amargo e adstringente",
+      "answer": "TRAVOR",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Cidade cearense, na chapada do Araripe",
+      "answer": "CRATO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Um alojamento para turistas",
+      "answer": "HOTEL",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Loja em que se vende lentes, binóculos etc.",
+      "answer": "OTICA",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Que tem a cor do vinho tinto",
+      "answer": "BORDO",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Complexo de proteínas usado em estética facial",
+      "answer": "BOTOX",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "(Interj.) Certamente!",
+      "answer": "CLARO",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Fazer passar o café através de um filtro",
+      "answer": "COAR",
+      "row": 7,
+      "col": 7
+    },
+    "34": {
+      "clue": "Símbolo do volt-ampère",
+      "answer": "VA",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

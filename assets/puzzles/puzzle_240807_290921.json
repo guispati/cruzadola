@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Peixe também chamado sapo-do-mar",
+      "answer": "BAIACU",
+      "row": 0,
+      "col": 1
+    },
+    "6": {
+      "clue": "As três primeiras letras do alfabeto",
+      "answer": "ABC",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "(Pop.) Esquecimento momentâneo",
+      "answer": "PANE",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "(Gír.) Matar",
+      "answer": "APAGAR",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Abrev.: observação",
+      "answer": "OBS",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Ponte que atravessa um vale",
+      "answer": "VIADUTO",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Paus, copas, espadas e ouros",
+      "answer": "NAIPES",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Um Marcos da TV",
+      "answer": "MION",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Faltar à fé jurada",
+      "answer": "TRAIR",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "(Mús.) Sem grande vibração de som",
+      "answer": "PIANO",
+      "row": 4,
+      "col": 6
+    },
+    "19": {
+      "clue": "Conseguir o que se deseja",
+      "answer": "OBTER",
+      "row": 5,
+      "col": 3
+    },
+    "20": {
+      "clue": "Leque, ventarola",
+      "answer": "ABANO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Espreme azeitonas",
+      "answer": "LAGAR",
+      "row": 6,
+      "col": 6
+    },
+    "26": {
+      "clue": "Tecido usado em véus",
+      "answer": "TULE",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "A UF PR",
+      "answer": "PARANA",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "Aquele que dirige, governa",
+      "answer": "REGEDOR",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Pessoa querida",
+      "answer": "BEM",
+      "row": 8,
+      "col": 8
+    },
+    "31": {
+      "clue": "A ordem de animais anfíbios às quais pertencem a rã e o sapo",
+      "answer": "ANUROS",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Fig.) Homem preguiçoso e que vive no luxo",
+      "answer": "PAXA",
+      "row": 9,
+      "col": 7
+    },
+    "33": {
+      "clue": "Vibração que se propaga a 340 m/s",
+      "answer": "SOM",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Firme",
+      "answer": "SEGURO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Sentir grande admiração",
+      "answer": "BABAR",
+      "row": 0,
+      "col": 1
+    },
+    "2": {
+      "clue": "Inquietação, aflição",
+      "answer": "ANSIA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Instituto de Educação",
+      "answer": "IE",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Num porto, lugar no qual o navio atraca",
+      "answer": "CAIS",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "Interj.: surpresa",
+      "answer": "UPA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Uma grande ave de rapina",
+      "answer": "AGUIA",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Famosa marca de chocolate",
+      "answer": "BATON",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Previsão de etapas de execução de um trabalho, com a indicação dos prazos de cada fase",
+      "answer": "CRONOGRAMA",
+      "row": 0,
+      "col": 10
+    },
+    "9": {
+      "clue": "No bordado, o mesmo que pesponto",
+      "answer": "PONTOATRAS",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Adorar",
+      "answer": "ADMIRAR",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Uma palavra como ir",
+      "answer": "VERBO",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Marca de produtos eletrônicos",
+      "answer": "PIONEER",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Fazer ficar sem a casca",
+      "answer": "PELAR",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "A tenista Maria Esther (1939-2018)",
+      "answer": "BUENO",
+      "row": 6,
+      "col": 1
+    },
+    "22": {
+      "clue": "Um tanto",
+      "answer": "ALGUM",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Elogiar publicamente e sem reservas",
+      "answer": "GABAR",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "(Anat.) Parte acessória de um órgão",
+      "answer": "ANEXO",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Postura de quem vai ser fotografado",
+      "answer": "POSE",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "(Inform.) Um sistema do PC",
+      "answer": "DOS",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "O plutônio, em química",
+      "answer": "PU",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

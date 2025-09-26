@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Contrário à lei",
+      "answer": "ILEGAL",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Demonstração de alegria externada pelo rosto",
+      "answer": "RISO",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Inclui eu e outros",
+      "answer": "NOS",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Que possui defeitos, vícios",
+      "answer": "PECADOR",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Estragar, tornar imprestável",
+      "answer": "SUCATEAR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "As iniciais da escritora Lya (1938-2021), de \"A Sentinela\"",
+      "answer": "LL",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "O planeta cujos satélites giram de cima para baixo, ao contrário dos outros planetas",
+      "answer": "URANO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Mulher muito voltada para a religião",
+      "answer": "BEATA",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Macaca",
+      "answer": "MONA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Cidade catarinense do norte do estado",
+      "answer": "MAFRA",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Subir com cordas e cravos",
+      "answer": "ESCALAR",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Uma matéria-prima para borracha",
+      "answer": "LATEX",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Argumento",
+      "answer": "TEMA",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Apontar (a arma)",
+      "answer": "MIRAR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Acertar os raios luminosos de",
+      "answer": "FOCAR",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "As iniciais da cantora e apresentadora de TV e rádio Barroso (1925-2015)",
+      "answer": "IB",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Furioso",
+      "answer": "COLERICO",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Assobiar como as cobras",
+      "answer": "SIBILAR",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Federação Internacional de Automobilismo",
+      "answer": "FIA",
+      "row": 9,
+      "col": 8
+    },
+    "35": {
+      "clue": "Unidade comercial para o café em grãos",
+      "answer": "SACA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Dividir proporcionalmente",
+      "answer": "RATEAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Econ.) Item exigido para a produção (energia, matérias-primas, equipamentos etc.)",
+      "answer": "INSUMO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "De cabelos claros",
+      "answer": "LOURO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Copiar por meio de leitora ótica",
+      "answer": "ESCANEAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Hábil",
+      "answer": "APTO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "A cantora e compositora paulistana Rita, de \"Doce Vampiro\"",
+      "answer": "LEE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Aparelho que serve para tornar uma substância menos espessa",
+      "answer": "RAREFATOR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Psic.) Uma das três divisões da personalidade humana",
+      "answer": "ID",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Desembaraçada",
+      "answer": "SOLTA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Barra",
+      "answer": "ORLA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Completo",
+      "answer": "CABAL",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Desenho de animação (1997) baseado na vida de uma princesa russa",
+      "answer": "ANASTACIA",
+      "row": 2,
+      "col": 3
+    },
+    "18": {
+      "clue": "Rocha à flor da água",
+      "answer": "ARRECIFE",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "O Verstappen piloto de F1",
+      "answer": "MAX",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Preparado para cortar linhas de pipas",
+      "answer": "CEROL",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Chuviscar",
+      "answer": "GAROAR",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "O país de Bengasi",
+      "answer": "LIBIA",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Fofa",
+      "answer": "MACIA",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Uma participante de concurso de beleza",
+      "answer": "MISS",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Animal bravio e carnívoro",
+      "answer": "FERA",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Domicílio familiar",
+      "answer": "LAR",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Banco Central",
+      "answer": "BC",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

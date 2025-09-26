@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Tubo usado em canalizações",
+      "answer": "MANILHA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "A TV de Sílvio Santos",
+      "answer": "SBT",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Uma novela da Rede Globo",
+      "answer": "FUZUE",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Forma de manifestação que mostra oposição a algo",
+      "answer": "VAIA",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Interjeição que indica felicitação",
+      "answer": "VIVA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Dançar",
+      "answer": "BAILAR",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Estilo musical baiano, de ritmo agitado",
+      "answer": "AXE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Tradição popular",
+      "answer": "LENDA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Reunir",
+      "answer": "CONVOCAR",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "O diabo",
+      "answer": "SATANAS",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Colega",
+      "answer": "CAMARADA",
+      "row": 6,
+      "col": 3
+    },
+    "25": {
+      "clue": "O rei que transformava em ouro tudo o que tocava",
+      "answer": "MIDAS",
+      "row": 7,
+      "col": 2
+    },
+    "26": {
+      "clue": "Imposto sobre Operações Financeiras",
+      "answer": "IOF",
+      "row": 7,
+      "col": 8
+    },
+    "27": {
+      "clue": "Um meio para aborver substâncias medicamentosas",
+      "answer": "INALAR",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Pop.) Quantidade de algo",
+      "answer": "BOLO",
+      "row": 8,
+      "col": 7
+    },
+    "30": {
+      "clue": "Náusea",
+      "answer": "NOJO",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Depressão úmida em uma encosta",
+      "answer": "GROTA",
+      "row": 9,
+      "col": 5
+    },
+    "33": {
+      "clue": "Grande antílope africano, de cornos semelhantes aos do boi",
+      "answer": "GNU",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Dramaturgo francês (1622-1673), famoso por suas comédias",
+      "answer": "MOLIERE",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Aquilo que se acrescenta a alguma coisa",
+      "answer": "AFIXO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "As formações brancas ou acinzentadas do céu",
+      "answer": "NUVENS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A cantora do sucesso \"Pesadão\"",
+      "answer": "IZA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Um apelido para Luciano",
+      "answer": "LU",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Famosa cantora e apresentadora paulista (1929-2012)",
+      "answer": "HEBECAMARGO",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Local onde são dadas aulas",
+      "answer": "SALA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A atriz Seidl, das novelas",
+      "answer": "BIA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Arte divinatória que usa um baralho",
+      "answer": "TARO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(Gír.) Ficar gamado, gamar",
+      "answer": "VIDRAR",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "(-preta) Refresco feito de sorvete com coca",
+      "answer": "VACA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Fruto também conhecido como abacaxi",
+      "answer": "ANANAS",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "Completa, cheia",
+      "answer": "LOTADA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "(Gír.) Bobeada, mancada",
+      "answer": "VACILO",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "O típico indumento dos escoceses",
+      "answer": "SAIOTE",
+      "row": 5,
+      "col": 8
+    },
+    "21": {
+      "clue": "Sopro quente",
+      "answer": "BAFO",
+      "row": 5,
+      "col": 10
+    },
+    "23": {
+      "clue": "A unidade monetária do Canadá",
+      "answer": "DOLAR",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "(Kong) O grande gorila personagem do cinema",
+      "answer": "KING",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "A Coutinho jornalista e apresentadora",
+      "answer": "MAJU",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "(-stop) Sem paradas",
+      "answer": "NON",
+      "row": 8,
+      "col": 1
+    },
+    "29": {
+      "clue": "Um animal abatido nos frigoríficos",
+      "answer": "BOI",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Rita Lobo, chef",
+      "answer": "RL",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

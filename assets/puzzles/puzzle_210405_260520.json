@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "A fêmea de cão",
+      "answer": "CADELA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "(Pop.) Jornalista novato",
+      "answer": "FOCA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Recusar abandonando",
+      "answer": "RENEGAR",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Hebe Camargo (1929-2012), atriz, cantora e apresentadora",
+      "answer": "HC",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Decisivo",
+      "answer": "CRUCIAL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O oposto de chorar",
+      "answer": "RIR",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Área de terra fértil num deserto",
+      "answer": "OASIS",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Símbolo",
+      "answer": "ICONE",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Voz do gato",
+      "answer": "MIAU",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Diz-se de lâmpada ligada",
+      "answer": "ACESA",
+      "row": 4,
+      "col": 5
+    },
+    "20": {
+      "clue": "Ferramenta para acumular ou desfazer montes de terra, areia, entulho etc.",
+      "answer": "PA",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Acelerador do motor de avião",
+      "answer": "MANETE",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Mingau",
+      "answer": "PAPA",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Órgãos que regulam o sal no organismo",
+      "answer": "RINS",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "Situação difícil ou delicada",
+      "answer": "APURO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Uma objeção",
+      "answer": "POREM",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "O astro que é o centro do nosso sistema planetário",
+      "answer": "SOL",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "(-Francorchamps) Circuito belga de corridas",
+      "answer": "SPA",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "Abreviatura (em português) da Alemanha",
+      "answer": "ALE",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Que não é público",
+      "answer": "PARTICULAR",
+      "row": 9,
+      "col": 1
+    },
+    "37": {
+      "clue": "Cadeia de montanhas da Europa central",
+      "answer": "CARPATOS",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Sem ninguém mais",
+      "answer": "SO",
+      "row": 10,
+      "col": 9
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Pandorga, pipa",
+      "answer": "ARRAIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Mulher adorável",
+      "answer": "DEUSA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Provocar temor de que o ser amado se incline para outro(a)",
+      "answer": "ENCIUMAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Preceitos emanados da autoridade soberana",
+      "answer": "LEIS",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "H",
+      "answer": "AGA",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Frâncio, elemento químico",
+      "answer": "FR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "País que faz fronteira com Rússia e Índia",
+      "answer": "CHINA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Estado da Amazônia com capital Rio Branco",
+      "answer": "ACRE",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "A garota que sonhou ter estado no País das Maravilhas",
+      "answer": "ALICE",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Aquisições mediante pagamento",
+      "answer": "COMPRAS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Canteiro de flores espinhosas",
+      "answer": "ROSEIRAL",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Bastão usado por antigos reis",
+      "answer": "CETRO",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "A modelo gaúcha Hickmann",
+      "answer": "ANA",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Desafio assumido",
+      "answer": "APOSTA",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Capricho",
+      "answer": "ESMERO",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "(Fig.) Aumentar rapidamente",
+      "answer": "PULAR",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Em + elas",
+      "answer": "NELAS",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "A parte onde se coloca o leme dos barcos",
+      "answer": "POPA",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "O violonista espanhol de Lucía (1947-2014)",
+      "answer": "PACO",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "(Stop) Parada nos boxes, nas corridas",
+      "answer": "PIT",
+      "row": 8,
+      "col": 5
+    },
+    "35": {
+      "clue": "As consoantes da... Europa",
+      "answer": "RP",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "United States",
+      "answer": "US",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

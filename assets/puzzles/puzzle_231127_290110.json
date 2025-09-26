@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Abrevia-se cg",
+      "answer": "CENTIGRAMA",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "(Ingl.) Lutador que serve de treinamento para o boxeador",
+      "answer": "SPARRING",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Marcos Palmeira, ator carioca",
+      "answer": "MP",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Ingl.) No boxe, um dos tempos de uma competição",
+      "answer": "ROUND",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Gustavo, para os íntimos",
+      "answer": "GU",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Árvore da qual se extrai o verniz-do-japão",
+      "answer": "AILANTO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Forma sincopada de maior",
+      "answer": "MOR",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Conjunto de cores",
+      "answer": "CROMIA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Abertura da roupa na região abaixo do ombro",
+      "answer": "CAVA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "(Jur.) Garantia de um contrato",
+      "answer": "ARRAS",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Um barril para vinho, cerveja etc.",
+      "answer": "TONEL",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Diário Oficial do Estado",
+      "answer": "DOE",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Pessoa ou coisa que amedronta",
+      "answer": "TERROR",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "Um sucesso de Zizi Possi",
+      "answer": "ASAMORENA",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "(Gír.) Confusão, desordem",
+      "answer": "MELE",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Causar aborrecimento",
+      "answer": "AMOLAR",
+      "row": 8,
+      "col": 5
+    },
+    "31": {
+      "clue": "Isabel Fillardis, atriz carioca",
+      "answer": "IF",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Prende papéis",
+      "answer": "CLIPE",
+      "row": 9,
+      "col": 3
+    },
+    "34": {
+      "clue": "A mãe dos girinos",
+      "answer": "RÃ",
+      "row": 9,
+      "col": 9
+    },
+    "35": {
+      "clue": "Uma cidade do Mato Grosso do Sul",
+      "answer": "AGUACLARA",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Atchim!",
+      "answer": "ESPIRRO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Nilo Peçanha (1867-1924), presidente do Brasil",
+      "answer": "NP",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Planta medicinal, da mesma família da erva-cidreira",
+      "answer": "TARAMA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Escritor que faz uso frequente do sarcasmo",
+      "answer": "IRONISTA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Caverna natural ou artificial",
+      "answer": "GRUTA",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Pref.: nariz",
+      "answer": "RINO",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "(Ingl.) A conjunção e",
+      "answer": "AND",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Sigla do estado de Barbacena e Tiradentes",
+      "answer": "MG",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "Pintura feita sobre uma parede",
+      "answer": "MURAL",
+      "row": 1,
+      "col": 10
+    },
+    "12": {
+      "clue": "Amêndoa rica em óleo e de sabor agradável",
+      "answer": "MACADAMIA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Dirigir, administrar",
+      "answer": "GOVERNAR",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Uma multinacional francesa de produtos cosméticos",
+      "answer": "LOREAL",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "O Nóbrega (1913-1976), criador do programa \"Praça da Alegria\"",
+      "answer": "MANOEL",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Desgastar progressivamente",
+      "answer": "CORROER",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Instrumento musical de sopro",
+      "answer": "TROMPA",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Correio eletrônico",
+      "answer": "EMAIL",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Estiagem",
+      "answer": "SECA",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "Erva cultivada como alimento, também chamada taioba",
+      "answer": "ARÃO",
+      "row": 7,
+      "col": 10
+    },
+    "29": {
+      "clue": "As letras cercadas pelo D e pelo H",
+      "answer": "EFG",
+      "row": 8,
+      "col": 1
+    },
+    "33": {
+      "clue": "Lilia Cabral, atriz paulista",
+      "answer": "LC",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

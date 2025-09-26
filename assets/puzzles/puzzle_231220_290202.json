@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "O músculo do muque",
+      "answer": "BICEPS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O Manuel Fangio (1911-1995), piloto argentino cinco vezes campeão de F1",
+      "answer": "JUAN",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Interjeição usada nos cultos afro-brasileiros",
+      "answer": "SARAVA",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "(Quím.) O berílio",
+      "answer": "BE",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "As iniciais do sambista Rosa",
+      "answer": "NR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Extremidade superior",
+      "answer": "TOPE",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Trem de Alta Velocidade",
+      "answer": "TAV",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "A model é a manequim que trabalha no mundo da alta moda",
+      "answer": "TOP",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Fim",
+      "answer": "TERMINO",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Remarcar um compromisso",
+      "answer": "ADIAR",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "(Terra da) Um apelido para a cidade de São Paulo",
+      "answer": "GAROA",
+      "row": 4,
+      "col": 6
+    },
+    "23": {
+      "clue": "Do país de Bratislava",
+      "answer": "ESLOVACO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "A língua falada pelos antigos romanos",
+      "answer": "LATIM",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Louis) Cidade dos EUA, no Missouri",
+      "answer": "SAINT",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "Partida",
+      "answer": "IDA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Ladrão de carteiras",
+      "answer": "BATEDOR",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Sentimento de pena",
+      "answer": "DO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Destino, geralmente mau",
+      "answer": "SINA",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Exclamação de surpresa",
+      "answer": "EBA",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Classe, espécie",
+      "answer": "GENERO",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Símbolo de elétron-volt",
+      "answer": "EV",
+      "row": 9,
+      "col": 9
+    },
+    "37": {
+      "clue": "Cerimonial",
+      "answer": "RITUAL",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "O do Silício, na Califórnia (EUA), é uma região de destaque em tecnologia",
+      "answer": "VALE",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Que foi abençoada",
+      "answer": "BENTA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "As iniciais do presidente do Brasil Salles (1841-1913)",
+      "answer": "CS",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Comer, em inglês",
+      "answer": "EAT",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Proteína essencial para a coagulação sanguínea",
+      "answer": "PROTROMBINA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Planta para quiosque",
+      "answer": "SAPE",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Jerry Adriani (1947-2017), cantor da Jovem Guarda",
+      "answer": "JA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Leque",
+      "answer": "ABANO",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Neblina",
+      "answer": "NEVOA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Açoitar, fustigar",
+      "answer": "VERGASTAR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Percorrido em volta ou em giro",
+      "answer": "RODEADO",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Glândula humana rica de iodo",
+      "answer": "TIROIDE",
+      "row": 2,
+      "col": 8
+    },
+    "17": {
+      "clue": "Espaço, num salão, onde se dança",
+      "answer": "PISTA",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Importante cidade litorânea fluminense",
+      "answer": "MACAE",
+      "row": 3,
+      "col": 7
+    },
+    "21": {
+      "clue": "O Babá das histórias de \"Mil e Uma Noites\"",
+      "answer": "ALI",
+      "row": 4,
+      "col": 3
+    },
+    "24": {
+      "clue": "(Pop.) Cabeça, mentor",
+      "answer": "LIDER",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Importante prêmio sueco para elementos de cultura",
+      "answer": "NOBEL",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "(Esp.) Viga longa sobre o qual a ginasta realiza exercícios de equilíbrio estáticos e dinâmicos",
+      "answer": "TRAVE",
+      "row": 6,
+      "col": 10
+    },
+    "30": {
+      "clue": "Matéria que circula ao redor de um corpo celeste",
+      "answer": "ANEL",
+      "row": 7,
+      "col": 5
+    },
+    "32": {
+      "clue": "Dele",
+      "answer": "SEU",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Gran Turismo",
+      "answer": "GT",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "Oduvaldo Vianna, dramaturgo",
+      "answer": "OV",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

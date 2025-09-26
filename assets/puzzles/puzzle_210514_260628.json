@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Silenciar",
+      "answer": "CALAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Tecido leve, fino, crespo ou rugoso",
+      "answer": "CREPE",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Um prato com ovos",
+      "answer": "OMELETE",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Doentio",
+      "answer": "MAU",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Pode ser espacial",
+      "answer": "NAVE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Um esporte com bola oval",
+      "answer": "RUGBI",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Lugar onde se desenvolvem as operações de combate",
+      "answer": "FRENTE",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "A flor considerada a rainha dos jardins",
+      "answer": "ROSA",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Caminhar daqui para lá",
+      "answer": "IR",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Queimar superficialmente",
+      "answer": "TOSTAR",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Mecanismo que faz o carro andar",
+      "answer": "MOTOR",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Trouxa",
+      "answer": "ATADO",
+      "row": 5,
+      "col": 6
+    },
+    "27": {
+      "clue": "Parafuso que prende a lâmina da faca ao cabo",
+      "answer": "TE",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Frase, sentença",
+      "answer": "DITO",
+      "row": 6,
+      "col": 4
+    },
+    "30": {
+      "clue": "Sufixo: agente",
+      "answer": "OR",
+      "row": 6,
+      "col": 9
+    },
+    "31": {
+      "clue": "Sono artificial",
+      "answer": "NARCOSE",
+      "row": 7,
+      "col": 0
+    },
+    "33": {
+      "clue": "O músico King Cole (1919-1965), de \"Mona Lisa\"",
+      "answer": "NAT",
+      "row": 7,
+      "col": 8
+    },
+    "34": {
+      "clue": "Bramido de algumas feras",
+      "answer": "URRO",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "O dia seguinte à sexta-feira",
+      "answer": "SABADO",
+      "row": 8,
+      "col": 5
+    },
+    "37": {
+      "clue": "Seduzido com aparências que enganam",
+      "answer": "ENGODADO",
+      "row": 9,
+      "col": 2
+    },
+    "39": {
+      "clue": "Molho de soja usado em diversos pratos orientais",
+      "answer": "SHOYU",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Já",
+      "answer": "AGORA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Que limita, circunscreve",
+      "answer": "CONFIM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Deformar com vincos e dobras, principalmente em tecidos",
+      "answer": "AMARROTAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Diz-se de sono que se interrompe facilmente",
+      "answer": "LEVE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Bafo, sopro",
+      "answer": "ALENTO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Uma marcha do carro",
+      "answer": "RE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Uma cantora da nossa MPB",
+      "answer": "CEU",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Vai quem se retira",
+      "answer": "EMBORA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Uma região como a Islândia ou a Austrália",
+      "answer": "PAIS",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Em alemão é ich e em espanhol é yo",
+      "answer": "EU",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Dois mais um",
+      "answer": "TRES",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Agradecido",
+      "answer": "GRATO",
+      "row": 2,
+      "col": 7
+    },
+    "17": {
+      "clue": "Outro nome do sabiá",
+      "answer": "TORDO",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "(Med.) Feto prematuramente expelido",
+      "answer": "ABORTO",
+      "row": 3,
+      "col": 10
+    },
+    "22": {
+      "clue": "(Fig.) Sondada com cautela",
+      "answer": "TATEADA",
+      "row": 4,
+      "col": 6
+    },
+    "24": {
+      "clue": "O T do elevador",
+      "answer": "TERREO",
+      "row": 5,
+      "col": 2
+    },
+    "26": {
+      "clue": "Aquele que cede voluntariamente o próprio sangue",
+      "answer": "DOADOR",
+      "row": 5,
+      "col": 9
+    },
+    "29": {
+      "clue": "Um pronome demonstrativo",
+      "answer": "ISSO",
+      "row": 6,
+      "col": 5
+    },
+    "31": {
+      "clue": "(Pop.) Em uns",
+      "answer": "NUNS",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "O Carlos Heitor (1926-2018), do livro \"A Casa do Poeta Trágico\"",
+      "answer": "CONY",
+      "row": 7,
+      "col": 3
+    },
+    "33": {
+      "clue": "Atividade que pode ser praticada de peito",
+      "answer": "NADO",
+      "row": 7,
+      "col": 8
+    },
+    "36": {
+      "clue": "Bolsa, sacola, em inglês",
+      "answer": "BAG",
+      "row": 8,
+      "col": 7
+    },
+    "38": {
+      "clue": "Um apelido para Gustavo",
+      "answer": "GU",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

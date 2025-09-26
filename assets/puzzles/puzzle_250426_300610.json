@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Formação mineral encontrada em cavernas",
+      "answer": "ESTALACTITE",
+      "row": 0,
+      "col": 0
+    },
+    "11": {
+      "clue": "João-ninguém",
+      "answer": "LEGUELHE",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Sigla do estado de Tramandaí e Torres",
+      "answer": "RS",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Vladimir Maiakovski (1893-1930), poeta russo",
+      "answer": "VM",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Gigante mitológico",
+      "answer": "TITÃ",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Senão",
+      "answer": "MAS",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Sem rabo",
+      "answer": "COTO",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Um contrário de pesado",
+      "answer": "LEVE",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Crosta que adere aos dentes sujos",
+      "answer": "SARRO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "O cineasta tcheco Forman, de \"O Povo Contra Larry Flynt\"",
+      "answer": "MILOS",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "O novelista de \"O Bem-Amado\" e \"Roque Santeiro\" (1922-1999)",
+      "answer": "DIASGOMES",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "De igual identidade",
+      "answer": "MESMO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Uma bebida como o limoncello",
+      "answer": "LICOR",
+      "row": 6,
+      "col": 6
+    },
+    "25": {
+      "clue": "A aqui presente",
+      "answer": "ESTA",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "A veste que é emblema da advocacia",
+      "answer": "BECA",
+      "row": 7,
+      "col": 5
+    },
+    "27": {
+      "clue": "O marido da irmã do pai",
+      "answer": "TIO",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Fragmento",
+      "answer": "CACO",
+      "row": 8,
+      "col": 4
+    },
+    "29": {
+      "clue": "(-Paraná) Cidade de Rondônia",
+      "answer": "JI",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "O que transforma cheiro em chaveiro",
+      "answer": "AV",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Indivíduo ridículo ou palerma",
+      "answer": "BOBALHÃO",
+      "row": 9,
+      "col": 3
+    },
+    "33": {
+      "clue": "O ator baiano de \"Madame Satã\"",
+      "answer": "LAZARORAMOS",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O Presley roqueiro",
+      "answer": "ELVIS",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(-pulo) No futebol, chute que se dá antes de a bola tocar o chão",
+      "answer": "SEM",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Torben Grael, iatista fluminense",
+      "answer": "TG",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Miniatura de pista de corrida para carros",
+      "answer": "AUTORAMA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "De aspecto lácteo",
+      "answer": "LEITOSO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Contrário de baixo",
+      "answer": "ALTO",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Carne da coxa do boi",
+      "answer": "CHÃ",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "T",
+      "answer": "TE",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Adstringente",
+      "answer": "TRAVOSO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "São quatro em possessão",
+      "answer": "ESSES",
+      "row": 0,
+      "col": 10
+    },
+    "15": {
+      "clue": "(Pop.) Coisa sem importância, sem valor",
+      "answer": "MELECA",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "O redentor do Corcovado, no Rio de Janeiro",
+      "answer": "CRISTO",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "(Zool.) Diz-se de animal que vive na lama",
+      "answer": "LIMICOLA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Uma fita que gruda",
+      "answer": "ADESIVA",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Agir como garoto",
+      "answer": "MOLECAR",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Um material como o ferro ou o chumbo",
+      "answer": "METAL",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Hastes da roda da bike",
+      "answer": "RAIOS",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "O compositor Lamartine (1904-1963)",
+      "answer": "BABO",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "A do sangue é vermelha",
+      "answer": "COR",
+      "row": 8,
+      "col": 4
+    },
+    "29": {
+      "clue": "Cantor de pop sofrência",
+      "answer": "JÃO",
+      "row": 8,
+      "col": 9
+    },
+    "31": {
+      "clue": "A UF das praias de Trancoso e Arraial D'Ajuda",
+      "answer": "BA",
+      "row": 9,
+      "col": 3
+    },
+    "32": {
+      "clue": "Hospital Militar",
+      "answer": "HM",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

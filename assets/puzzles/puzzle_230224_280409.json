@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "O Marcel escritor francês",
+      "answer": "PROUST",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Ei!",
+      "answer": "PSIU",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Caminho para carros, motos e bikes",
+      "answer": "RUA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "(Serra das) Trecho da Serra da Mantiqueira próximo à Baixada Fluminense",
+      "answer": "ARARAS",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Ulysses Guimarães (1916-1992), político das \"Diretas Já\"",
+      "answer": "UG",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "O oposto de singular",
+      "answer": "PLURAL",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Desenho de uma região",
+      "answer": "MAPA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Dança folclórica de origem indígena, comum em MG e SP",
+      "answer": "CAIAPO",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Ferida na pele, comum em doentes acamados por longo tempo",
+      "answer": "ESCARA",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Rodrigo Hilbert, modelo e apresentador",
+      "answer": "RH",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Muito pobre (fem.)",
+      "answer": "MISERA",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "Abreviatura (em português) de Honduras",
+      "answer": "HON",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Tirar as asperezas da unha",
+      "answer": "LIXAR",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "A minha família",
+      "answer": "MEUS",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Atrai metais",
+      "answer": "IMÃ",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Baixar o nariz (o avião)",
+      "answer": "EMBICAR",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "O músico e arranjador Eumir",
+      "answer": "DEODATO",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "A marca dos carros Picanto e Soul",
+      "answer": "KIA",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Sigla de um estado do SE",
+      "answer": "ES",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Social",
+      "answer": "CIVIL",
+      "row": 9,
+      "col": 3
+    },
+    "37": {
+      "clue": "Chiquinha Gonzaga (1847-1935), compositora e instrumentista",
+      "answer": "CG",
+      "row": 9,
+      "col": 9
+    },
+    "38": {
+      "clue": "(Bittencourt) Importante rodovia brasileira",
+      "answer": "REGIS",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "As vogais do nosso alfabeto",
+      "answer": "AEIOU",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ferramenta que determina a direção vertical",
+      "answer": "PRUMO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um sulco que tira a lisura da pele",
+      "answer": "RUGA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Osvaldo Aranha, político gaúcho",
+      "answer": "OA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Um tempero para alimentos",
+      "answer": "SAL",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Fazer citação errada",
+      "answer": "TRUCAR",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "(Grande) Cidade da Baixada Santista",
+      "answer": "PRAIA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Espaço que pode ser de estar",
+      "answer": "SALA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "As iniciais da cantora Sangalo, de \"Na Base do Beijo\"",
+      "answer": "IS",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Serpente do norte do país, não venenosa, vive trepada em árvores",
+      "answer": "ARARAMBOIA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Fruta seca",
+      "answer": "PASSA",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "O ator norte-americano Travolta, de \"Grease - Nos Tempos da Brilhantina\"",
+      "answer": "JOHN",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Peixe grande",
+      "answer": "PEIXÃO",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Vulgar, trivial",
+      "answer": "PROSAICO",
+      "row": 3,
+      "col": 9
+    },
+    "20": {
+      "clue": "Grãos como o trigo, o arroz",
+      "answer": "CEREAIS",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Simulação de doença ou de sintoma",
+      "answer": "MIMESE",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "O apresentador de TV Luciano",
+      "answer": "HUCK",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "O time que está na ponta da tabela",
+      "answer": "LIDER",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Estado Islâmico",
+      "answer": "EI",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Um canal de televisão especializado em música",
+      "answer": "MTV",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "Carne ensopada com legumes e molho abundante",
+      "answer": "RAGU",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "Em farmácia, Denominação Comum Internacional",
+      "answer": "DCI",
+      "row": 8,
+      "col": 3
+    },
+    "36": {
+      "clue": "O que transforma chino em chileno",
+      "answer": "LE",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

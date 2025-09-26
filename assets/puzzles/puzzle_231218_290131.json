@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Canyon) Formação rochosa do Arizona, nos EUA",
+      "answer": "GRAND",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Guisado de quiabo e ervas, servido com lombo de porco salgado e angu",
+      "answer": "JEMBE",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Planta cujas sementes fornecem óleos e tinturas",
+      "answer": "PAPOULA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Àqueles",
+      "answer": "AOS",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Grupo de amigos, de pessoas",
+      "answer": "TURMA",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "O guitarrista inglês de rock Clapton",
+      "answer": "ERIC",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Estirpe, linhagem ou tronco de família",
+      "answer": "CEPA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Apalpar com os dedos",
+      "answer": "TATEAR",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "O Tietê corta São Paulo",
+      "answer": "RIO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "A atriz Kathy, Oscar pelo filme \"Louca Obsessão\"",
+      "answer": "BATES",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "A última e a penúltima vogais",
+      "answer": "UO",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Comparecer assiduamente",
+      "answer": "VIVER",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Abreviatura de porque nas conversas da web",
+      "answer": "PQ",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Um estabelecimento de ensino",
+      "answer": "LICEU",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Grande mala de tampa convexa",
+      "answer": "BAU",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "Bicho",
+      "answer": "ANIMAL",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Placa que constitui os pavimentos e tetos de algumas edificações",
+      "answer": "LAJE",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "Daquele homem",
+      "answer": "DELE",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Ingl.) Casa",
+      "answer": "HOUSE",
+      "row": 8,
+      "col": 5
+    },
+    "31": {
+      "clue": "Cabana",
+      "answer": "OCA",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Chefe de um grupo organizado de trabalhadores",
+      "answer": "CAPATAZ",
+      "row": 9,
+      "col": 4
+    },
+    "34": {
+      "clue": "(Culin.) Partículas da casca de frutos usadas para enfeitar ou temperar pratos",
+      "answer": "RASPA",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Partícula física",
+      "answer": "QUARK",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Glória Pires, atriz carioca",
+      "answer": "GP",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Divisão equitativa",
+      "answer": "RATEIO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Manifestação de desagrado",
+      "answer": "APUPO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A mulher do filho",
+      "answer": "NORA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "De + um",
+      "answer": "DUM",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Agora",
+      "answer": "JA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Movimentações das águas oceânicas",
+      "answer": "MARES",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A mais simples é feita com uma câmara de pneu cheia de ar",
+      "answer": "BOIA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Aquele que se apodera de bens alheios por meios ardilosos e fraudulentos",
+      "answer": "ESCROQUE",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Carro maltratado, de mau aspecto",
+      "answer": "LATAVELHA",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "O fluido que faz perder a sensibilidade",
+      "answer": "ETER",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Navio de guerra de grande porte",
+      "answer": "CRUZADOR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Ímpio, que não crê em Deus",
+      "answer": "ATEU",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Veio de água corrente",
+      "answer": "BICA",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Ramo de planta usado em trabalhos artesanais",
+      "answer": "VIME",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Tomar conta de criança e, ironicamente, de adulto",
+      "answer": "PAJEAR",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Tom claro da cor roxa",
+      "answer": "LILAS",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Interj.: chega!",
+      "answer": "BASTA",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Nadica",
+      "answer": "NECA",
+      "row": 7,
+      "col": 1
+    },
+    "27": {
+      "clue": "Festa na praia, com música ao vivo, dança, bebidas etc.",
+      "answer": "LUAU",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Separam o N do R",
+      "answer": "OPQ",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "As iniciais do humorista Anysio (1931-2012)",
+      "answer": "CA",
+      "row": 9,
+      "col": 4
+    },
+    "33": {
+      "clue": "Zé Kéti, sambista",
+      "answer": "ZK",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

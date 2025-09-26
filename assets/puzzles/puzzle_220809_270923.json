@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Signo que vai de 21.3 a 20.4",
+      "answer": "ARIES",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "A cor da bola 8 da sinuca",
+      "answer": "PRETA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Seita budista contemplativa japonesa",
+      "answer": "ZEN",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Tomar domínio de fato sobre uma coisa",
+      "answer": "APOSSAR",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "De um astro como o Sol",
+      "answer": "ESTELAR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Pop.) Para",
+      "answer": "PRA",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Um combustível derivado do petróleo",
+      "answer": "DIESEL",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Ingl.) Fase de grande expansão econômica",
+      "answer": "BOOM",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Observatório Nacional",
+      "answer": "ON",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Patamar junto à porta",
+      "answer": "LIMIAR",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "Dar ares, fingir",
+      "answer": "APARENTAR",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Como um ovo",
+      "answer": "OVOIDE",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Edson Celulari, ator paulista",
+      "answer": "EC",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Substância utilizada para reduzir o atrito",
+      "answer": "OLEO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "A poderosa voz do leão",
+      "answer": "RUGIDO",
+      "row": 7,
+      "col": 5
+    },
+    "32": {
+      "clue": "O Artur é um lendário líder britânico",
+      "answer": "REI",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Assassino",
+      "answer": "MATADOR",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "Qualquer lugar agradável e prazeroso",
+      "answer": "PARAISO",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Ave que vive em regiões campestres e cerrados, com até 170 cm de altura",
+      "answer": "EMA",
+      "row": 9,
+      "col": 8
+    },
+    "37": {
+      "clue": "Com asas, como a ave",
+      "answer": "ALADO",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Pôr a embarcação na rota desejada",
+      "answer": "RUMAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Áspero como o vinagre",
+      "answer": "AZEDO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Substância usada para fabricar plásticos, colas etc.",
+      "answer": "RESINA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Tchau, na roça",
+      "answer": "INTE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Uma peça do galheteiro",
+      "answer": "SALEIRO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Vestir",
+      "answer": "POR",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "A sigla do estado que só faz divisa com SC",
+      "answer": "RS",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Instrumento usado para estimular a cavalgadura",
+      "answer": "ESPORA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Jogo de interpretações através de cartas ilustradas",
+      "answer": "TARO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Material que pode ser farpado, usado em cercas",
+      "answer": "ARAME",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Um grande time do futebol brasileiro",
+      "answer": "PALMEIRAS",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Nascido em uma região da Europa centro-oriental",
+      "answer": "ESLAVO",
+      "row": 2,
+      "col": 3
+    },
+    "17": {
+      "clue": "Pancada de chuva",
+      "answer": "BATEGA",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Que incita",
+      "answer": "INDUTOR",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Terra seca reduzida a fino pó",
+      "answer": "POEIRA",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Campânula destinada a resguardar do pó objetos delicados",
+      "answer": "REDOMA",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Que se mostra excessivamente ingênuo, tolo, crédulo",
+      "answer": "LORPA",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Tingir",
+      "answer": "CORAR",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "O oposto de traiçoeiro",
+      "answer": "LEAL",
+      "row": 7,
+      "col": 1
+    },
+    "31": {
+      "clue": "Como acima",
+      "answer": "IDEM",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "A voz do gato",
+      "answer": "MIO",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "Alexandre Dumas (1802-1870), escritor francês de \"Os Três Mosqueteiros\"",
+      "answer": "AD",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

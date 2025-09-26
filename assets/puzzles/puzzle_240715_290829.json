@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Grande porto da região de Fortaleza",
+      "answer": "PECEM",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Sinal sonoro de aparelhos eletrônicos",
+      "answer": "BIPE",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Letreiro secundário, impresso em jornais",
+      "answer": "SUBTITULO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Cidade catarinense do vale do Itajaí",
+      "answer": "SALETE",
+      "row": 2,
+      "col": 2
+    },
+    "13": {
+      "clue": "As iniciais da cantora estadunidense Spears",
+      "answer": "BS",
+      "row": 2,
+      "col": 9
+    },
+    "14": {
+      "clue": "Também, na net",
+      "answer": "TB",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Limitar o consumo",
+      "answer": "RACIONAR",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Planta também chamada falsa-noz-moscada",
+      "answer": "ALPINIA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Pedra, em tupi",
+      "answer": "ITA",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "A última refeição em cada dia",
+      "answer": "CEIA",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Topo de serra",
+      "answer": "CUME",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "Insumo Farmacêutico Ativo",
+      "answer": "IFA",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Aquele que engana",
+      "answer": "DESLEAL",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Peixe de mar, da família da enxova",
+      "answer": "SARDINHA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "(Quím.) O símbolo do níquel, metal resistente aos ácidos",
+      "answer": "NI",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Marca Registrada",
+      "answer": "MR",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Bem-querer",
+      "answer": "ESTIMA",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Sustento de um organismo à custa de sua própria substância",
+      "answer": "AUTOFAGIA",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Esticado",
+      "answer": "TESO",
+      "row": 10,
+      "col": 1
+    },
+    "35": {
+      "clue": "Gordura industrializada nociva à saúde",
+      "answer": "TRANS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Repetição de palavras ou frases vazias de sentido para quem as repete",
+      "answer": "PSITACISMO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O sujeito de leio ou escrevo",
+      "answer": "EU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Rede de comunicação dos EUA",
+      "answer": "CBS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Diz-se de faixa de idade",
+      "answer": "ETARIA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Um grande time do futebol europeu",
+      "answer": "MILAN",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Fruto alaranjado de uma palmeira",
+      "answer": "BUTIA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "A parte extrema do intestino delgado",
+      "answer": "ILEO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O maior rio da Itália",
+      "answer": "PO",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Mexerico",
+      "answer": "TECIMENTO",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Judeus",
+      "answer": "ISRAELITAS",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "O parceiro de Robin nos seriados e HQs",
+      "answer": "BATMAN",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Enganar, no jogo de baralho",
+      "answer": "BLEFAR",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "Ilha do oceano Pacífico; sua capital é Alofi",
+      "answer": "NIUE",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "(Gír.) Ingerir bebida alcoólica",
+      "answer": "PIAR",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Protestar em voz alta",
+      "answer": "CLAMAR",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "Desta coisa",
+      "answer": "DISTO",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "Uma tecla do PC",
+      "answer": "SHIFT",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "O criador do universo",
+      "answer": "DEUS",
+      "row": 7,
+      "col": 3
+    },
+    "31": {
+      "clue": "H",
+      "answer": "AGA",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Adriana Esteves, atriz carioca",
+      "answer": "AE",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "O símbolo químico do índio",
+      "answer": "IN",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

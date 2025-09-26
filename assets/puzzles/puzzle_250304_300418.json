@@ -1,0 +1,234 @@
+{
+  "across": {
+    "2": {
+      "clue": "Tornar pior, mais difícil",
+      "answer": "AGRAVAR",
+      "row": 0,
+      "col": 2
+    },
+    "9": {
+      "clue": "Muito rápido",
+      "answer": "ULTRAVELOZ",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Onda captada pela audição",
+      "answer": "SOM",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Boteco de favela",
+      "answer": "BIROSCA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Torben Grael, iatista fluminense",
+      "answer": "TG",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Formão para fazer contornos em pedras",
+      "answer": "BADAME",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Série de cartas do mesmo naipe",
+      "answer": "RIFADA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Antigo carro romano puxado por cavalos",
+      "answer": "BIGA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "(Pop.) Alerta, com os sentidos aguçados",
+      "answer": "ACESO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "O desejo do doente",
+      "answer": "SARAR",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Depósito de matéria orgânica no fundo de um rio",
+      "answer": "LODO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Mulher que pratica meretrício",
+      "answer": "MADAME",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Engasgo",
+      "answer": "ENTALO",
+      "row": 7,
+      "col": 2
+    },
+    "27": {
+      "clue": "Base Naval",
+      "answer": "BN",
+      "row": 7,
+      "col": 9
+    },
+    "28": {
+      "clue": "Descido, abaixado",
+      "answer": "ARRIADO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "A abreviatura de um tipo de transferência bancária",
+      "answer": "DOC",
+      "row": 8,
+      "col": 8
+    },
+    "31": {
+      "clue": "A banda britânica do sucesso \"Virtual Insanity\"",
+      "answer": "JAMIROQUAI",
+      "row": 9,
+      "col": 1
+    },
+    "33": {
+      "clue": "A namorada do Chico Bento, nas HQs",
+      "answer": "ROSINHA",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O país de Melbourne e Perth",
+      "answer": "AUSTRALIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Anat.) Articulação temporomandibular",
+      "answer": "ATM",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Guimarães Rosa (1908-1967), escritor de \"Grande Sertão: Veredas\"",
+      "answer": "GR",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Dotado de cauda",
+      "answer": "RABADO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Ambiciosa",
+      "answer": "AVIDA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "A atriz paulista Holtz",
+      "answer": "VERA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Preguiçoso",
+      "answer": "ALOMBADO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Planta cultivada como ornamental pelas suas flores",
+      "answer": "ROSEIRA",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Conforme às regras",
+      "answer": "LOGICO",
+      "row": 1,
+      "col": 1
+    },
+    "11": {
+      "clue": "Zeca Camargo, jornalista",
+      "answer": "ZC",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Aspecto exterior",
+      "answer": "APARENCIA",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "O primeiro nome usado para designar um ser vivo",
+      "answer": "BASONIMO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Reunir em certa associação de estados",
+      "answer": "FEDERAR",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Remanso nos rios onde se pode pescar",
+      "answer": "GAMBOA",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "(Ingl.) O bar do faroeste",
+      "answer": "SALOON",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Uma grande capital europeia",
+      "answer": "MADRI",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "A atriz carioca Araújo",
+      "answer": "TAIS",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Sigla do estado de Petrópolis e Teresópolis",
+      "answer": "RJ",
+      "row": 8,
+      "col": 1
+    },
+    "30": {
+      "clue": "Documento Único de Arrecadação",
+      "answer": "DUA",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Quarto de Hóspedes",
+      "answer": "QH",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

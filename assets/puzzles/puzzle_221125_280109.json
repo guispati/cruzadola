@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Tortilhas de milho crocante com formato triangular",
+      "answer": "NACHOS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Quilômetro",
+      "answer": "KM",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "(Mús.) Cada um dos sons que se sucedem numa escala",
+      "answer": "GRAU",
+      "row": 1,
+      "col": 0
+    },
+    "9": {
+      "clue": "Árvore de excelente madeira para construção",
+      "answer": "IMBUIA",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Diz-se de fruta com muito suco",
+      "answer": "SUMOSA",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Elemento de composição: todos, totalidade",
+      "answer": "PAN",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Internet",
+      "answer": "WEB",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Mulata",
+      "answer": "PARDA",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "O No dos químicos",
+      "answer": "NOBELIO",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "O nome da quinta consoante do nosso alfabeto",
+      "answer": "GE",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Iluminar intensamente",
+      "answer": "RAIAR",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Começar a executar ou a fazer serviço",
+      "answer": "PEGAR",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Estão no meio do... joelho e da orelha",
+      "answer": "EL",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Praia",
+      "answer": "LITORAL",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Vapores gástricos ou intestinais",
+      "answer": "GASES",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "O masculino de rainha",
+      "answer": "REI",
+      "row": 7,
+      "col": 8
+    },
+    "29": {
+      "clue": "Separam K e O",
+      "answer": "LMN",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Uma máquina agrícola",
+      "answer": "TRATOR",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "(Pop.) Copiar uma ideia",
+      "answer": "CHUPAR",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Ramo subterrâneo de planta",
+      "answer": "RAIZ",
+      "row": 9,
+      "col": 7
+    },
+    "36": {
+      "clue": "Émile Zola (1840-1902), romancista francês",
+      "answer": "EZ",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Lançar",
+      "answer": "ATIRAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Nomenclatura Geral",
+      "answer": "NG",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Depósito de meios bélicos",
+      "answer": "ARSENAL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Vaqueiro norte-americano",
+      "answer": "CAUBOI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Exclamação que expressa incerteza, incredulidade ou indiferença",
+      "answer": "HUM",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Planta que fornece fibra de ótima qualidade",
+      "answer": "SISAL",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "A marca dos carros Picanto e Soul",
+      "answer": "KIA",
+      "row": 0,
+      "col": 9
+    },
+    "7": {
+      "clue": "Dar o necessário para viver",
+      "answer": "MANTER",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Borboleta noturna ou crepuscular",
+      "answer": "MARIPOSA",
+      "row": 1,
+      "col": 6
+    },
+    "11": {
+      "clue": "Unidade de Pronto Atendimento",
+      "answer": "UPA",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Autor de melodramas",
+      "answer": "OPERISTA",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "Provocar dor",
+      "answer": "DOER",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Doce de pequeno tamanho e consistência variável",
+      "answer": "BALA",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Túnel ou passagem aberta pelas formigas",
+      "answer": "GALERIA",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Destaque",
+      "answer": "REALCE",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Chover miudinho",
+      "answer": "GAROAR",
+      "row": 5,
+      "col": 8
+    },
+    "26": {
+      "clue": "Porção de minúsculos grãos de areia",
+      "answer": "TERRA",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Grande antílope, com chifres parecidos com os dos bois",
+      "answer": "GNU",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Megahertz",
+      "answer": "MHZ",
+      "row": 8,
+      "col": 1
+    },
+    "32": {
+      "clue": "Campeão pela terceira vez em um torneio",
+      "answer": "TRI",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "As consoantes de zero",
+      "answer": "ZR",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Aquele que põe em leilão",
+      "answer": "LICITANTE",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Introduzir novidades",
+      "answer": "INOVAR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "No lugar em que",
+      "answer": "ONDE",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Cão de pelagem curta e focinho achatado",
+      "answer": "BOXER",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O oposto de depois",
+      "answer": "ANTES",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Objeto usado pelo árbitro de vôlei",
+      "answer": "APITO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Cada uma das linhas de um poema",
+      "answer": "VERSO",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "O de Bia é Beatriz",
+      "answer": "NOME",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Capital do Pará",
+      "answer": "BELEM",
+      "row": 4,
+      "col": 5
+    },
+    "19": {
+      "clue": "Sufixo: autor, agente",
+      "answer": "OR",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "De + os",
+      "answer": "DOS",
+      "row": 5,
+      "col": 4
+    },
+    "21": {
+      "clue": "(Fís.) Ondas Longas",
+      "answer": "OL",
+      "row": 5,
+      "col": 9
+    },
+    "23": {
+      "clue": "Planta que cresce em brejos e margens de rios",
+      "answer": "TABOA",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Outro nome do gol, no futebol",
+      "answer": "META",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Passagem subterrânea de uma estrada",
+      "answer": "TUNEL",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Próspero",
+      "answer": "FELIZ",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "Botocudo ou txucarramãe",
+      "answer": "INDIO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Período durante o qual o trabalhador está empregado",
+      "answer": "ATIVA",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Sofrer",
+      "answer": "DOER",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Cuidar da saúde",
+      "answer": "TRATAR",
+      "row": 9,
+      "col": 5
+    },
+    "34": {
+      "clue": "Um estilo musical surgido os anos 1950",
+      "answer": "SAMBOLERO",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "País na costa do Mediterrâneo, com capital Beirute",
+      "answer": "LIBANO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Inconveniente",
+      "answer": "INOPORTUNO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Almofada que serve de assento ou encosto",
+      "answer": "COXIM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A cantora Sangalo",
+      "answer": "IVETE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Um baralho esotérico",
+      "answer": "TARO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Constitui a atmosfera da Terra",
+      "answer": "AR",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Barril para guardar líquido (vinho, cerveja etc.), com capacidade para 840 litros",
+      "answer": "TONEL",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "No meio de",
+      "answer": "ENTRE",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Categoria de certos esportistas, como a dos halterofilistas",
+      "answer": "PESO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Desestimular",
+      "answer": "DESMOTIVAR",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Emas, corruíras e pavões",
+      "answer": "AVES",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "(Vista) A capital roraimense",
+      "answer": "BOA",
+      "row": 4,
+      "col": 5
+    },
+    "20": {
+      "clue": "Intenção de cometer um crime",
+      "answer": "DOLO",
+      "row": 5,
+      "col": 4
+    },
+    "22": {
+      "clue": "Figura bíblica que foi ressuscitada por Jesus no quarto dia de sepultamento",
+      "answer": "LAZARO",
+      "row": 5,
+      "col": 10
+    },
+    "24": {
+      "clue": "Uma cordilheira",
+      "answer": "ANDES",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Margem",
+      "answer": "BEIRA",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Um material como o ferro, o estanho ou o chumbo",
+      "answer": "METAL",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "A alta sociedade",
+      "answer": "ELITE",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Considerado",
+      "answer": "TIDO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Um Rodrigo apresentador de TV",
+      "answer": "FARO",
+      "row": 7,
+      "col": 6
+    },
+    "33": {
+      "clue": "O símbolo do térbio, elemento químico",
+      "answer": "TB",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

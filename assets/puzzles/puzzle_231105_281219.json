@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O músico de \"Purple Rain\"",
+      "answer": "PRINCE",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "No cristianismo, o ser supremo",
+      "answer": "DEUS",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Barulho alto da respiração no sono",
+      "answer": "RONCO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Uma cidade mato-grossense",
+      "answer": "SINOP",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "O que transforma caça em couraça",
+      "answer": "OUR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Outro nome do peixe-boi",
+      "answer": "MANATI",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Na mesma obra",
+      "answer": "IBIDEM",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Bee) Banda britânica de música pop, de sucesso nos anos 1980",
+      "answer": "GEES",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Boletim Oficial",
+      "answer": "BO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Cidade fluminense próxima a Niterói",
+      "answer": "ITABORAI",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "O Veloso músico baiano de \"Você é Linda\"",
+      "answer": "CAETANO",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "(Fam.) Arte de criança",
+      "answer": "DIABRURA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Laura Cardoso, atriz",
+      "answer": "LC",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Em vista de",
+      "answer": "ANTE",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Cantar como os pombos",
+      "answer": "RULHAR",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "Painel de vidro, decorativo",
+      "answer": "VITRAL",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "Abrev.: Etiópia",
+      "answer": "ETI",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Um vidro que resiste a altas temperaturas",
+      "answer": "PIREX",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "São 168 em uma semana",
+      "answer": "HORAS",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "(-festas) Expressão de saudação usada na época do Natal ou do Ano-Novo",
+      "answer": "BOAS",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "O vão de uma abertura geralmente estreita",
+      "answer": "FORAME",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Não permitida",
+      "answer": "PROIBIDA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Furto",
+      "answer": "ROUBO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Rel.) Inscrição que Pilatos pôs na Santa Cruz como injúria a Jesus",
+      "answer": "INRI",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Nicolas Cage, ator de \"Motoqueiro Fantasma\"",
+      "answer": "NC",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Executar",
+      "answer": "COMETER",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "A direção do movimento do bispo, no xadrez",
+      "answer": "DIAGONAL",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Elemento de composição: intestino",
+      "answer": "ENTERO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "As vogais lidas de trás para frente",
+      "answer": "UOIEA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Sigla do estado de Jaú",
+      "answer": "SP",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Sistema Nervoso",
+      "answer": "SN",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Cidade amazonense da região do Alto Solimões",
+      "answer": "AMATURA",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Doença caracterizada pelo aumento de glucose no sangue e na urina",
+      "answer": "DIABETES",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "(Ret.) O mesmo que antítese",
+      "answer": "SINCRISE",
+      "row": 3,
+      "col": 10
+    },
+    "21": {
+      "clue": "Som, alto, produzido por vibrações confusas",
+      "answer": "BARULHO",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Certa dança rural",
+      "answer": "CATIRA",
+      "row": 5,
+      "col": 2
+    },
+    "24": {
+      "clue": "Que não dá passagem",
+      "answer": "INVIO",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Uma grande empresa aérea",
+      "answer": "LATAM",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Planta trepadeira, sempre verde, usada para revestimento de muros",
+      "answer": "HERA",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Exame médico de imagem",
+      "answer": "RX",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Sigla do estado de Cajazeiras",
+      "answer": "PB",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "O que transforma três em torres",
+      "answer": "OR",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

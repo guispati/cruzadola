@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Unidade de medida da energia elétrica",
+      "answer": "VOLT",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Gír.) Cabular aulas",
+      "answer": "MATAR",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Diálogo, contato",
+      "answer": "INTERAÇÃO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Abreviatura de dúzia",
+      "answer": "DZ",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Do contrário",
+      "answer": "SENÃO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "A parte da cama oposta à cabeceira",
+      "answer": "PE",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Que retomou ânimo",
+      "answer": "REPOSTO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Igual",
+      "answer": "TAL",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "A dor pela morte de uma pessoa querida",
+      "answer": "LUTO",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Batalhão de Operações Policiais Especiais",
+      "answer": "BOPE",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "O oposto de mole",
+      "answer": "DURO",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Deixar de funcionar",
+      "answer": "PARAR",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Tornar manso um animal selvagem",
+      "answer": "DOMESTICAR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Uma pedra preciosa vermelha",
+      "answer": "RUBI",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Pop.) Cachaça",
+      "answer": "ELIXIR",
+      "row": 7,
+      "col": 5
+    },
+    "27": {
+      "clue": "Mamífero muito caçado por sua pele",
+      "answer": "ARIRANHA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Fís.) O símbolo de Curie",
+      "answer": "CI",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Fúnebre (fem.)",
+      "answer": "MACABRA",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Marca chinesa de carros",
+      "answer": "JAC",
+      "row": 9,
+      "col": 8
+    },
+    "32": {
+      "clue": "Círculo metálico a que se adapta o pneu dos veículos",
+      "answer": "ARO",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Planta muito cultivada como ornamental pela beleza de suas flores",
+      "answer": "ROSEIRA",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A parte transparente das janelas",
+      "answer": "VIDRO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Dezesseis menos cinco",
+      "answer": "ONZE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Leon Tolstói (1828-1910), romancista e filósofo russo",
+      "answer": "LT",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Aquela que guarda o cofre de alguma instituição",
+      "answer": "TESOUREIRA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Tudo o que cobre ou encobre",
+      "answer": "MANTO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Trama (num enredo)",
+      "answer": "AÇÃO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Em tal grau",
+      "answer": "TÃO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Gram.) Uma contração comum",
+      "answer": "AO",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Despojos mortais",
+      "answer": "RESTOS",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Passar os olhos no que se tinha antes estudado",
+      "answer": "RELER",
+      "row": 1,
+      "col": 10
+    },
+    "14": {
+      "clue": "Comer aos poucos e amiúde",
+      "answer": "PAPARICAR",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Relativo ao chumbo",
+      "answer": "PLUMBICO",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "A parte entre o pescoço e o diafragma",
+      "answer": "TORAX",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Recipiente para lavagem de roupas",
+      "answer": "BACIA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Deixar algo fritar até que tome cor acobreada",
+      "answer": "DOURAR",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Baterias",
+      "answer": "PILHAS",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Um estilo de filmes que faz chorar",
+      "answer": "DRAMA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Macio, por ser novo, fresco",
+      "answer": "TENRO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "(Costa) País americano",
+      "answer": "RICA",
+      "row": 7,
+      "col": 10
+    },
+    "28": {
+      "clue": "Precede Mai",
+      "answer": "ABR",
+      "row": 8,
+      "col": 4
+    },
+    "31": {
+      "clue": "(-Paraná) Grande cidade de Rondônia",
+      "answer": "JI",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

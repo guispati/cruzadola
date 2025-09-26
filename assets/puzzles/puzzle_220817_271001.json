@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Arma de fogo de cano longo",
+      "answer": "RIFLE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Resíduo de comida do fundo da panela",
+      "answer": "RASPA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Certos",
+      "answer": "UNS",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Segundo signo do zodíaco, que vai de 21 de abril a 20 de maio",
+      "answer": "TOURO",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Sigla do estado de Laguna e Xanxerê",
+      "answer": "SC",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "O poeta Olavo (1865-1918), do soneto \"Ora (direis) Ouvir Estrelas\"",
+      "answer": "BILAC",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "A UF dentro de GO",
+      "answer": "DF",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Relativo a cavalos (fem.)",
+      "answer": "HIPICA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Droga muio comum até o século passado",
+      "answer": "OPIO",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Unidade comercial para o café",
+      "answer": "SACA",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Dobrar, curvar",
+      "answer": "VIRAR",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Personagem lendário",
+      "answer": "MITO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Pessoa que viaja por favor",
+      "answer": "CARONA",
+      "row": 5,
+      "col": 5
+    },
+    "23": {
+      "clue": "Um animal como o petrel ou o albatroz",
+      "answer": "AVE",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Planta de haste longa, com raízes bulbosas e de folhas alongadas, de flores de cores variadas",
+      "answer": "TULIPA",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "(Abrev.) Uma derrota no boxe",
+      "answer": "KO",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Esponjoso",
+      "answer": "POROSO",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "O tipo de transporte destinado a alunos, geralmente crianças",
+      "answer": "ESCOLAR",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "As consoantes de lâmina",
+      "answer": "LMN",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Aeronave que pode pousar na água e dela decolar",
+      "answer": "HIDRAVIÃO",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Recluso em cadeia",
+      "answer": "PRESO",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "O significado de rs nas conversas na internet",
+      "answer": "RISOS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Ingl.) Pico de movimento",
+      "answer": "RUSH",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Nome dado aos dentes usados para cortar os alimentos",
+      "answer": "INCISIVOS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Flávia Saraiva, ginasta",
+      "answer": "FS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A filosofia da moral",
+      "answer": "ETICA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Logradouro público destinado principalmente ao trânsito de veículos",
+      "answer": "RUA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "A refração do Sol nas gotas de chuva",
+      "answer": "ARCOIRIS",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Sem acompanhantes",
+      "answer": "SO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Antigo vaso para armazenar líquidos",
+      "answer": "ANFORA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Movimento em onda, feito por torcidas",
+      "answer": "OLA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "A peça usada para encher de ar bolas de futebol, vôlei etc.",
+      "answer": "BICO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "A cantora popular norte-americana Ross",
+      "answer": "DIANA",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Pasta fria comida como aperitivo",
+      "answer": "PATE",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Um produto das abelhas",
+      "answer": "PROPOLIS",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Analisar algo a fim de atribuir-lhe preço ou qualidade",
+      "answer": "VALORAR",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "(Ingl.) Maquiagem",
+      "answer": "MAKEUP",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Preparar, tornando melhor para o uso",
+      "answer": "CURAR",
+      "row": 5,
+      "col": 5
+    },
+    "24": {
+      "clue": "Teto de pano ou de lona",
+      "answer": "TOLDO",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Visto que",
+      "answer": "POIS",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "São 10 na década",
+      "answer": "ANOS",
+      "row": 7,
+      "col": 10
+    },
+    "29": {
+      "clue": "(Guevara) Revolucionário argentino na revolução cubana",
+      "answer": "CHE",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "Camada de tinta",
+      "answer": "MÃO",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "A metade de XII, em algarismos romanos",
+      "answer": "VI",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

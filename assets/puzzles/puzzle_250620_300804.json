@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Personagem das \"Mil e uma Noites\"",
+      "answer": "ALADIM",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Um alimento como o quindim",
+      "answer": "DOCE",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Grande quantidade, abundância",
+      "answer": "SOMA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Pôr para ser discutido",
+      "answer": "PAUTAR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Prefixo: inferioridade, substituição",
+      "answer": "SUB",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O companheiro do tigre Haroldo, das HQ's",
+      "answer": "CALVIN",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Que tem a forma do principal ingrediente da omelete (fem.)",
+      "answer": "OVADA",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Estar situado",
+      "answer": "FICAR",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Locado",
+      "answer": "ARRENDADO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Corbusier) Famoso arquiteto francês (1887-1965)",
+      "answer": "LE",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "O líquido que circula na planta",
+      "answer": "SEIVA",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Pianíssimo",
+      "answer": "PP",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Ato de comprimir, pressionar",
+      "answer": "CALCADURA",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Sem claridade",
+      "answer": "OPACO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "São três na bandeira italiana",
+      "answer": "CORES",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "Um clássico de Chico Buarque",
+      "answer": "ABANDA",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "Correlativo de outros",
+      "answer": "UNS",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Parte proteica da farinha dos cereais",
+      "answer": "GLUTEN",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Abreviatura de limitada",
+      "answer": "LTDA",
+      "row": 9,
+      "col": 7
+    },
+    "34": {
+      "clue": "Passa por ele a água que sai da torneira e entra pelo cano",
+      "answer": "RALO",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Processar",
+      "answer": "AUTUAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Pavimento de madeira",
+      "answer": "ASSOALHO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O mais importante museu de Paris",
+      "answer": "LOUVRE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Substância fóssil, transparente, usada em bijuteria e joalheria",
+      "answer": "AMBAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Diários Associados",
+      "answer": "DA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Ministério da Pesca e Aquicultura",
+      "answer": "MPA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Que não convence, de que se suspeita",
+      "answer": "DUVIDADO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Relativo a visão",
+      "answer": "OTICO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(-de-açúcar) A planta que fornece álcool e rapadura",
+      "answer": "CANA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A desinência verbal de vencer e correr",
+      "answer": "ER",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Planta hortense utilizada como condimento",
+      "answer": "ALFAVACA",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Massa italiana, enrolada em cilindro e recheada",
+      "answer": "CANELONE",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Falta de respeito",
+      "answer": "DESACATO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "(Fig.) Reler, rever matéria estudada",
+      "answer": "REPASSAR",
+      "row": 3,
+      "col": 10
+    },
+    "20": {
+      "clue": "Abrev.: Dicionário",
+      "answer": "DIC",
+      "row": 4,
+      "col": 5
+    },
+    "23": {
+      "clue": "Objeto ofertado como prêmio em jogos ou competições",
+      "answer": "PRENDA",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "A capital do Afeganistão",
+      "answer": "CABUL",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Uma serpente de veneno poderoso",
+      "answer": "URUTU",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Anteparo para resguardar os olhos da claridade",
+      "answer": "PALA",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "Teste que examina os genes",
+      "answer": "DNA",
+      "row": 8,
+      "col": 5
+    },
+    "32": {
+      "clue": "Grande Rio",
+      "answer": "GR",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Leon Trótski (1879-1940), revolucionário russo",
+      "answer": "LT",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

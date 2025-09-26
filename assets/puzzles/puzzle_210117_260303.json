@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Locação de transporte para uma mercadoria",
+      "answer": "FRETE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O Nereu (1888-1956) ex-presidente da República",
+      "answer": "RAMOS",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Desmaio, colapso",
+      "answer": "SINCOPE",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Caracterizado por muito ruído",
+      "answer": "RUMOROSO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Leila Pinheiro, cantora",
+      "answer": "LP",
+      "row": 2,
+      "col": 9
+    },
+    "14": {
+      "clue": "Um período de 24 horas",
+      "answer": "DIA",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Fazer perder a paciência",
+      "answer": "ENERVAR",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "A cor oficial do exército brasileiro",
+      "answer": "VERDE",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Delicadeza de quem sabe tratar com outras pessoas sem magoá-las",
+      "answer": "TATO",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "O objeto de estudo da cenologia",
+      "answer": "VACUO",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Fazer as) Reconciliar-se com alguém",
+      "answer": "PAZES",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "A mesma coisa de antes",
+      "answer": "IDEM",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Ficar vermelho por vergonha",
+      "answer": "CORAR",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "O compositor Caymmi, de \"Das Rosas\"",
+      "answer": "DORIVAL",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Desse lugar",
+      "answer": "DAI",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Tomar certo caminho",
+      "answer": "IR",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Cada uma das duas fossas nasais",
+      "answer": "NARICULA",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Privar, por corte ou outro processo, dos órgãos da reprodução",
+      "answer": "CASTRAR",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "(Terra da) Um apelido para SP",
+      "answer": "GAROA",
+      "row": 10,
+      "col": 1
+    },
+    "33": {
+      "clue": "Objeto em forma de garrafa de gargalo comprido, usado pelos malabaristas em seus jogos de destreza",
+      "answer": "MAÇA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "A fábrica do Ecosport",
+      "answer": "FORD",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Perder a cor ou o vigor",
+      "answer": "ESMAECER",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "O Patinhas é um milionário avarento das HQs de Walt Disney",
+      "answer": "TIO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Trama",
+      "answer": "ENREDO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "(Fr.) Vinho de cor vermelho-clara",
+      "answer": "ROSE",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Ancorar num porto",
+      "answer": "APORTAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Voz que imita o balido da ovelha",
+      "answer": "ME",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Conjunto de instrumentos como sax, flauta e tuba",
+      "answer": "SOPROS",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "O Sul é a área geográfica que compreende a Argentina, Brasil, Chile, Paraguai e Uruguai",
+      "answer": "CONE",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Diz-se de animal que solta a voz como o lobo, o cão etc.",
+      "answer": "UIVADOR",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "Que não vem por linha principal",
+      "answer": "LATERAL",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Ato de fazer correr um líquido",
+      "answer": "VAZADURA",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "(Fig.) Refletir ou pensar muito em",
+      "answer": "RUMINAR",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Um tipo de broca usada em furadeira",
+      "answer": "VIDIA",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Dar educação, refinamento",
+      "answer": "POLIR",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Mapa",
+      "answer": "CARTA",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Privada, latrina",
+      "answer": "VASO",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "A Garcia da obra de Machado de Assis",
+      "answer": "IAIA",
+      "row": 7,
+      "col": 10
+    },
+    "30": {
+      "clue": "Camarões",
+      "answer": "CAM",
+      "row": 8,
+      "col": 7
+    },
+    "31": {
+      "clue": "K",
+      "answer": "CA",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

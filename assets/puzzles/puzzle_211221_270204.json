@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "Filó de seda",
+      "answer": "TULE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Um tipo de coluna da antiga Grécia",
+      "answer": "DORICA",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "Móvel para pendurar roupas",
+      "answer": "CABIDE",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Mulher que presta serviços braçais",
+      "answer": "PEOA",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "O símbolo químico do hólmio",
+      "answer": "HO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Paisagem, panorama",
+      "answer": "VISTA",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Vale-refeição",
+      "answer": "VR",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "(Fig.) Paixão, ardor",
+      "answer": "CALOR",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Azul esverdeado",
+      "answer": "CIÃ",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Uma canoa",
+      "answer": "UBA",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Perto de, próximo",
+      "answer": "ABICADO",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "Dispor em ordem alfabética",
+      "answer": "ABECEDAR",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Ferramenta indispensável para a troca de pneus",
+      "answer": "CHAVEDERODA",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "A atriz Sophia, de \"Arabesque\"",
+      "answer": "LOREN",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "54, em algarismos romanos",
+      "answer": "LIV",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Nota Fiscal",
+      "answer": "NF",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Uma planta como o mandacaru ou o xiquexique",
+      "answer": "CACTO",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Cercam o H",
+      "answer": "GI",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "Animal semelhante ao crocodilo",
+      "answer": "JACARE",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Árvore da floresta pluvial, de madeira parda de boa qualidade",
+      "answer": "PUNÃ",
+      "row": 9,
+      "col": 7
+    },
+    "39": {
+      "clue": "Um profissional como Russell Crowe",
+      "answer": "ATOR",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Ato de repercutir, ecoar",
+      "answer": "RESSOO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Até a vista!",
+      "answer": "TCHAU",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Quadro sem consoantes",
+      "answer": "UAO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Abrev.) Libra",
+      "answer": "LB",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Falha em vidro, louça ou vaso",
+      "answer": "EIVA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Transgredir as ordens",
+      "answer": "DESOBEDECER",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Recibo de Pagamento a Autônomo",
+      "answer": "RPA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Isto é",
+      "answer": "IE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Sigla para a doença responsável pela atual pandemia",
+      "answer": "COVID",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Bíbl.) O primeiro sumo-sacerdote do povo de Israel",
+      "answer": "AARÃO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Despedaçar",
+      "answer": "DILACERAR",
+      "row": 1,
+      "col": 4
+    },
+    "15": {
+      "clue": "Famosa marca de chicletes",
+      "answer": "TRIDENT",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Pleno",
+      "answer": "CABAL",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "A atriz Castro",
+      "answer": "CAROL",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Uma interjeição típica do gaúcho",
+      "answer": "BAH",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "(Ingl.) Automóvel",
+      "answer": "CAR",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "Lembrar",
+      "answer": "EVOCAR",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Sopa de arroz com caldo de galinha, cenoura e salsinha",
+      "answer": "CANJA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Merecedor",
+      "answer": "DIGNO",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "O principal produto da Embraer",
+      "answer": "AVIÃO",
+      "row": 6,
+      "col": 10
+    },
+    "31": {
+      "clue": "Fundo de Amparo ao Trabalhador",
+      "answer": "FAT",
+      "row": 8,
+      "col": 1
+    },
+    "33": {
+      "clue": "Interjeição usada na correção de um engano",
+      "answer": "OPS",
+      "row": 8,
+      "col": 7
+    },
+    "36": {
+      "clue": "A abreviatura da região com GO e MT",
+      "answer": "CO",
+      "row": 9,
+      "col": 2
+    },
+    "38": {
+      "clue": "As letras que precedem o valor dos dólares americanos",
+      "answer": "US",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

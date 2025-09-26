@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Periquito típico do Nordeste",
+      "answer": "JANDAIA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Milhas por Hora",
+      "answer": "MPH",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "O meio de transporte usado pela Azul, Gol ou Latam",
+      "answer": "AVIÃO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Ato de agitar as asas para levantar voo",
+      "answer": "VOEJO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Manifestação individual de uma doença",
+      "answer": "CASO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Peças de roupa",
+      "answer": "VESTES",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Aproximadamente",
+      "answer": "UNS",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "O oposto de alvoroço, de agitação",
+      "answer": "CALMA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Agasalho de grosso e pesado, que se veste sobre outras roupas",
+      "answer": "CASACÃO",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Frequência Intermediária",
+      "answer": "FI",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "Agudeza de espírito",
+      "answer": "FINURA",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Roupa feminina",
+      "answer": "SAIA",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "Liam Neeson, ator irlandês de \"A Lista de Schindler\"",
+      "answer": "LN",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "O Nigel piloto britânico de F1, campeão em 1992",
+      "answer": "MANSELL",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Cento e dez menos trinta",
+      "answer": "OITENTA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Tento, no handebol",
+      "answer": "GOL",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Que indica pressa",
+      "answer": "URGENTE",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "Que não tem piedade",
+      "answer": "IMPIO",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Square) Famosa região de Manhattan, em NY",
+      "answer": "TIMES",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Meio diâmetro",
+      "answer": "RAIO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Do país das cidades de Cracóvia e Varsóvia",
+      "answer": "POLACO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Aves da família das galinhas, arborícolas",
+      "answer": "JACU",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O novelista Walter (1935-2001)",
+      "answer": "AVANCINI",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Marca japonesa de automóveis",
+      "answer": "NISSAN",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Grande rio português",
+      "answer": "DÃO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Trato sem consoantes",
+      "answer": "AO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Fruto nuciforme usadas em culinária",
+      "answer": "AVELÃ",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Fim, limite",
+      "answer": "META",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Processo Judicial Eletrônico",
+      "answer": "PJE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Rel.) O pão da missa",
+      "answer": "HOSTIA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Passagem de fluidos por membrana porosa",
+      "answer": "OSMOSE",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Que anda sem meta determinada",
+      "answer": "VACANTE",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "(Pop.) Qualquer automóvel",
+      "answer": "CARANGO",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Habitante de um antigo país da Mesopotâmia",
+      "answer": "SUMERIO",
+      "row": 4,
+      "col": 3
+    },
+    "19": {
+      "clue": "(Biol.) Ramo",
+      "answer": "FILO",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "Tornar viçoso, cheio de frescor",
+      "answer": "FLORIR",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Equipamento usado para prender uma pessoa pelos pulsos",
+      "answer": "ALGEMA",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "(Domingo) A capital da República Dominicana",
+      "answer": "SANTO",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "A primeira emissora brasileira de TV",
+      "answer": "TUPI",
+      "row": 7,
+      "col": 2
+    },
+    "29": {
+      "clue": "Sem asperezas",
+      "answer": "LISO",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "O sinal gráfico ~",
+      "answer": "TIL",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Perversa",
+      "answer": "MA",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "Emenda Constitucional",
+      "answer": "EC",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

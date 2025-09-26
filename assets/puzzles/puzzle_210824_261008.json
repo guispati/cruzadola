@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Obeso",
+      "answer": "GORDO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Apêndice",
+      "answer": "AFIXO",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "(Rel.) A última palavra das orações",
+      "answer": "AMEM",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Tomar conta",
+      "answer": "CUIDAR",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Onomatopeia de uma batida à porta",
+      "answer": "TOC",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Maleta de plástico, papel etc., para guardar documentos e papéis",
+      "answer": "PASTA",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Autor de melodramas",
+      "answer": "OPERISTA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "(Quím.) Ouro",
+      "answer": "AU",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Palavras de elogio",
+      "answer": "LOUVOR",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "O Babá das Mil e Uma Noites",
+      "answer": "ALI",
+      "row": 4,
+      "col": 8
+    },
+    "19": {
+      "clue": "Admiração, assombro, espanto",
+      "answer": "PASMO",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "O Rodrigues, presidente da República entre 1902-1906",
+      "answer": "ALVES",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Cada capítulo de uma peça de teatro",
+      "answer": "ATO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Utensílio de mesa",
+      "answer": "TALHER",
+      "row": 6,
+      "col": 4
+    },
+    "25": {
+      "clue": "Faz dupla com Guarabyra, do sucesso \"Dona\"",
+      "answer": "SA",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Sábio, erudito",
+      "answer": "SAPIENTE",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "O S de SC",
+      "answer": "SANTA",
+      "row": 8,
+      "col": 2
+    },
+    "29": {
+      "clue": "Correlativo de qual",
+      "answer": "TAL",
+      "row": 8,
+      "col": 8
+    },
+    "30": {
+      "clue": "Aprovado",
+      "answer": "ACEITO",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "(De) Expressão usada como agradecimento",
+      "answer": "NADA",
+      "row": 9,
+      "col": 7
+    },
+    "33": {
+      "clue": "(Pop.) No jogo do bicho, o 22.º grupo",
+      "answer": "TIGRE",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Os elementos que formam a barba",
+      "answer": "PELOS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O eterno inimigo do cachorro",
+      "answer": "GATO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Osso da parte posterior do ombro",
+      "answer": "OMOPLATA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Em que há sentimento de apreensão diante do que se julga perigoso",
+      "answer": "RECEOSO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Daniela Mercury, cantora",
+      "answer": "DM",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O país de Canberra e Adelaide",
+      "answer": "AUSTRALIA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Tira comprida e estreita de qualquer tecido",
+      "answer": "FITA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "A primeira metade da viagem",
+      "answer": "IDA",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O fim da... taxa",
+      "answer": "XA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Planta rica em fécula, usada em culinária como medicinal",
+      "answer": "ORQUIS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "História, narrativa",
+      "answer": "CASO",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Em arquitetura, diz-se de janela que gira em torno de um eixo vertical",
+      "answer": "PIVOTANTE",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "O álcool do drinque daiquiri",
+      "answer": "RUM",
+      "row": 3,
+      "col": 3
+    },
+    "16": {
+      "clue": "Prevenido de um perigo",
+      "answer": "ALERTADO",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Peça de pano, couro ou plástico, com que se resguarda a roupa",
+      "answer": "AVENTAL",
+      "row": 4,
+      "col": 8
+    },
+    "19": {
+      "clue": "Um carro da VW",
+      "answer": "PASSAT",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "A ele",
+      "answer": "LHE",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "Que tem capacidade para fazer",
+      "answer": "APTO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Manter relacionamento de companheirismo ou amoroso com outra pessoa",
+      "answer": "SAIR",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "3ª pessoa do plural (fem.)",
+      "answer": "ELAS",
+      "row": 7,
+      "col": 10
+    },
+    "28": {
+      "clue": "O dia entre Dom e Ter",
+      "answer": "SEG",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "101, em romanos",
+      "answer": "CI",
+      "row": 9,
+      "col": 1
+    },
+    "32": {
+      "clue": "(Abrev.) Ponto entre o Norte e o Leste",
+      "answer": "NE",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

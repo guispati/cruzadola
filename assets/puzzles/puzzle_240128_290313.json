@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Área de Livre Comércio das Américas",
+      "answer": "ALCA",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "Uma doença da pele",
+      "answer": "ECZEMA",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "(-estar) Situação embaraçosa",
+      "answer": "MAL",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Um chute que vale quatro pontos no rúgbi",
+      "answer": "DROP",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Ivan Lins, músico de \"Novo Tempo\"",
+      "answer": "IL",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Universidade Estadual de Campinas",
+      "answer": "UNICAMP",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Abrev.: Lituânia",
+      "answer": "LIT",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Bem recebido",
+      "answer": "ACEITO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Coturno",
+      "answer": "BUTE",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Contíguo, próximo",
+      "answer": "RENTE",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "O músico e ator Almir",
+      "answer": "SATER",
+      "row": 4,
+      "col": 6
+    },
+    "19": {
+      "clue": "Passarinho também chamado dançador",
+      "answer": "TANGARA",
+      "row": 5,
+      "col": 2
+    },
+    "20": {
+      "clue": "Argila",
+      "answer": "GREDA",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "As perdidas fazem vítimas inocentes",
+      "answer": "BALAS",
+      "row": 6,
+      "col": 6
+    },
+    "25": {
+      "clue": "Pouco compacto",
+      "answer": "RALO",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Descendente dos antigos romanos",
+      "answer": "LATINO",
+      "row": 7,
+      "col": 5
+    },
+    "27": {
+      "clue": "Espécie de caranguejo semelhante ao guaiamu",
+      "answer": "UÇA",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Estrada de rodagem",
+      "answer": "RODOVIA",
+      "row": 8,
+      "col": 4
+    },
+    "29": {
+      "clue": "O braço de uma hélice",
+      "answer": "PA",
+      "row": 9,
+      "col": 0
+    },
+    "30": {
+      "clue": "Alimento de ruminantes",
+      "answer": "FENO",
+      "row": 9,
+      "col": 3
+    },
+    "31": {
+      "clue": "O cantor inglês Stewart",
+      "answer": "ROD",
+      "row": 9,
+      "col": 8
+    },
+    "32": {
+      "clue": "Resto de cadáver",
+      "answer": "OSSADA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Castigo por crime cometido",
+      "answer": "PENA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Provocar mau-humor",
+      "answer": "AMUAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Jogada, nos desportos",
+      "answer": "LANCE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Freguesia",
+      "answer": "CLIENTELA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Lugar deserto",
+      "answer": "ERMO",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "(Ingl.) Guarda, policial",
+      "answer": "COP",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Zeca Pagodinho, sambista",
+      "answer": "ZP",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Med.) Inflamação de músculos",
+      "answer": "MIITE",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Outra pessoa, em relação a certo indivíduo",
+      "answer": "ALTER",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "O apresentador de TV José Luiz",
+      "answer": "DATENA",
+      "row": 1,
+      "col": 4
+    },
+    "13": {
+      "clue": "Que recebeu intimação judicial",
+      "answer": "CITADO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Um combate violento disputado em ringue",
+      "answer": "LUTALIVRE",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "(Gír.) Coisa muito bonita ou boa",
+      "answer": "BARATO",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Precede o domingo",
+      "answer": "SABADO",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "Equipe",
+      "answer": "GRUPO",
+      "row": 6,
+      "col": 0
+    },
+    "21": {
+      "clue": "Os grupos étnicos",
+      "answer": "RAÇAS",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "(Quím.) Átomo com excesso de carga negativa",
+      "answer": "ANION",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "Estrondo confuso",
+      "answer": "SOADA",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Tecido para cobertura de tendas",
+      "answer": "LONA",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "(Hot Chili Peppers) Uma banda de rock",
+      "answer": "RED",
+      "row": 8,
+      "col": 4
+    },
+    "30": {
+      "clue": "(Mús.) F",
+      "answer": "FA",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Abundantemente",
+      "answer": "MUITO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Carta geográfica",
+      "answer": "MAPA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Perante",
+      "answer": "ANTE",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Diz-se de mata que margeia um curso d'água",
+      "answer": "CILIAR",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "O Pitanga ator baiano",
+      "answer": "ANTONIO",
+      "row": 2,
+      "col": 2
+    },
+    "14": {
+      "clue": "Orgia, farra",
+      "answer": "ESBORNIA",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "As consoantes de vaga",
+      "answer": "VG",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "O escritor paulistano Matias (1705-1763)",
+      "answer": "AIRES",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "A atriz campineira Cláudia",
+      "answer": "RAIA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Uma forma de abreviar o nome do quarto mês",
+      "answer": "ABR",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Um canal de TV especializado em música",
+      "answer": "MTV",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "(Angeles) Importante cidade americana",
+      "answer": "LOS",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "(Fernão) Liga SP e BH",
+      "answer": "DIAS",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Concorrente",
+      "answer": "RIVAL",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "United Airlines",
+      "answer": "UA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Sintetizar, resumir",
+      "answer": "EPILOGAR",
+      "row": 7,
+      "col": 3
+    },
+    "32": {
+      "clue": "Registrado por escrito",
+      "answer": "ANOTADO",
+      "row": 8,
+      "col": 2
+    },
+    "33": {
+      "clue": "A orelha",
+      "answer": "OUVIDO",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Desordem e confusão",
+      "answer": "CAOS",
+      "row": 9,
+      "col": 7
+    },
+    "37": {
+      "clue": "O compartimento de prisioneiros nos presídios",
+      "answer": "CELA",
+      "row": 10,
+      "col": 1
+    },
+    "38": {
+      "clue": "Medida igual a 0,76 metros",
+      "answer": "PASSO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Pelado) Um bolo de tabuleiro, de mandioca",
+      "answer": "MANE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Abreviatura inglesa de Nações Unidas",
+      "answer": "UN",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Uma cidade mineira",
+      "answer": "ITABIRA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "A voz masculina mais aguda",
+      "answer": "TENOR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O oposto de máxi",
+      "answer": "MINI",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Reunir por interesse comum",
+      "answer": "ALIAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Som de ave",
+      "answer": "PIO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Arnaldo Antunes, músico e poeta",
+      "answer": "AA",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Apertado, comprimido",
+      "answer": "CONSTRITO",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Sulcos na pele",
+      "answer": "RUGAS",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "Coisa",
+      "answer": "TREM",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Pássaro comum, de lindo canto",
+      "answer": "SABIA",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Um instrumento musical sertanejo",
+      "answer": "VIOLA",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "O segundo menor estado brasileiro, banhado pelo Atlântico",
+      "answer": "ALAGOAS",
+      "row": 4,
+      "col": 8
+    },
+    "20": {
+      "clue": "Substância que, misturada com a terra, aumenta sua produtividade",
+      "answer": "ADUBO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Pequeno núcleo habitado",
+      "answer": "VILA",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Muito velho, decrépito",
+      "answer": "SENIL",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Bebida típica de países da Europa Oriental",
+      "answer": "VODCA",
+      "row": 6,
+      "col": 7
+    },
+    "30": {
+      "clue": "Corte dos ramos inúteis de uma planta",
+      "answer": "PODA",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "Uma expressão de alegria",
+      "answer": "RISO",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "Um bicho como o tuiuiú ou a rolinha",
+      "answer": "AVE",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "Unidade de Conservação",
+      "answer": "UC",
+      "row": 9,
+      "col": 1
+    },
+    "36": {
+      "clue": "Ordem de Serviço",
+      "answer": "OS",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "Sensação de nojo",
+      "answer": "ASCO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Pedra de ouro",
+      "answer": "PEPITA",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "(Pop.) Locução que significa aquilo que toma vulto progressiva e rapidamente",
+      "answer": "BOLADENEVE",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Desencrespar o cabelo",
+      "answer": "ALISAR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Período de tempo",
+      "answer": "DATA",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Acrescentar tiamina, calciferol, ácido fólico etc.",
+      "answer": "VITAMINAR",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Juntar macho e fêmea para procriar",
+      "answer": "ACASALAR",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Nota do Tradutor",
+      "answer": "NT",
+      "row": 4,
+      "col": 9
+    },
+    "20": {
+      "clue": "Possuir para uso",
+      "answer": "TER",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Pássaro de corpo vermelho e asas pretas",
+      "answer": "TIE",
+      "row": 5,
+      "col": 8
+    },
+    "22": {
+      "clue": "O símbolo químico do argônio, gás nobre",
+      "answer": "AR",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Fazer vistoria técnica",
+      "answer": "PERICIAR",
+      "row": 6,
+      "col": 3
+    },
+    "26": {
+      "clue": "Aquele que elimina radicalmente",
+      "answer": "DEBELADOR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Segundo a Bíblia, um filho de Adão e Eva",
+      "answer": "ABEL",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "O que é objeto de uma dívida ou de uma obrigação",
+      "answer": "DEVIDO",
+      "row": 8,
+      "col": 5
+    },
+    "31": {
+      "clue": "Que pode ser executado",
+      "answer": "REALIZAVEL",
+      "row": 9,
+      "col": 1
+    },
+    "33": {
+      "clue": "Pedaço de terra endurecido",
+      "answer": "TORRÃO",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Categoria (em tom depreciativo)",
+      "answer": "LAIA",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Creme de um fruto esverdeado, de polpa amanteigada",
+      "answer": "ABACATADA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A nota entre fá e lá",
+      "answer": "SOL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Fig.) Separar por tipos, níveis",
+      "answer": "CLIVAR",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Área de terra fértil em um deserto",
+      "answer": "OASIS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Plantação de frutos cônicos e doces",
+      "answer": "PERAL",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Ernesto Nazareth (1863-1934), músico de \"Odeon\"",
+      "answer": "EN",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Ter necessidade de",
+      "answer": "PEDIR",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O Turgueniev escritor russo",
+      "answer": "IVAN",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Um distúrbio muscular com tremores, paralisia e dores",
+      "answer": "TETANIA",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Que se pode definir exatamente no tempo",
+      "answer": "DATAVEL",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Vaso sanguíneo de pequeno diâmetro",
+      "answer": "ARTERIOLA",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Qualidade do som que é surdo, sem ressonâncias",
+      "answer": "MATIDEZ",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Sede da inteligência, do poder, da decisão",
+      "answer": "CEREBRO",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Ave semelhante a um periquito",
+      "answer": "TIRIVA",
+      "row": 5,
+      "col": 8
+    },
+    "23": {
+      "clue": "Fazer ficar sem a casca",
+      "answer": "PELAR",
+      "row": 6,
+      "col": 3
+    },
+    "24": {
+      "clue": "Aparelho para se ouvir música, noticiário etc.",
+      "answer": "RADIO",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Divisão da terra em buracos para recebimento de sementes",
+      "answer": "COVAL",
+      "row": 6,
+      "col": 7
+    },
+    "27": {
+      "clue": "(Ingl.) Cerveja",
+      "answer": "BEER",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "(Agnus) Um cântico da missa",
+      "answer": "DEI",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Um tecido quente",
+      "answer": "LÃ",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

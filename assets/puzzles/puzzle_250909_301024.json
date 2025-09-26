@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Um anfíbio sem cauda",
+      "answer": "SAPO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "O nome do mais famoso sino londrino",
+      "answer": "BIGBEN",
+      "row": 0,
+      "col": 5
+    },
+    "10": {
+      "clue": "(Geom.) Segmento de reta comum a duas faces adjacentes de um poliedro",
+      "answer": "ARESTA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "O de arraia é um golpe de capoeira",
+      "answer": "RABO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "História mentirosa",
+      "answer": "FARSA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Tirar a umidade",
+      "answer": "SECAR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Palavra ou frase obtida das letras iniciais de uma série de versos ou palavras",
+      "answer": "ACROSTICO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "O músico americano Charles, do rhythm and blues",
+      "answer": "RAY",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Espetáculo diurno",
+      "answer": "MATINE",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Traço que encanta, charme",
+      "answer": "IT",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "A atriz Fernanda Cândido",
+      "answer": "MARIA",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Milton Gonçalves (1933-2022), ator",
+      "answer": "MG",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "País da África que foi governado durante anos pelo ditador Idi Amin Dada",
+      "answer": "UGANDA",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Ministério da Pesca e Aquicultura",
+      "answer": "MPA",
+      "row": 6,
+      "col": 8
+    },
+    "28": {
+      "clue": "Os povos asiáticos",
+      "answer": "ORIENTAIS",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "Loja em que se vende óculos, lentes etc.",
+      "answer": "OTICA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Tipo de música eletrônica dançante, de melodia monótona",
+      "answer": "TECNO",
+      "row": 8,
+      "col": 6
+    },
+    "33": {
+      "clue": "Vagem, feijão",
+      "answer": "FAVA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Porções de cabelos que se destacam do conjunto",
+      "answer": "MECHAS",
+      "row": 9,
+      "col": 5
+    },
+    "35": {
+      "clue": "(Anat.) Órgão que só as mulheres possuem",
+      "answer": "OVARIO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Elemento químico de número atômico 79 e símbolo Au, usado em joalheria, próteses dentárias etc.",
+      "answer": "OURO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Expedição para caça de grandes animais",
+      "answer": "SAFARI",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Cidade baiana da região de Brumado",
+      "answer": "ARACATU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O Como (1912-2001) músico americano",
+      "answer": "PERRY",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Uma peça como o fêmur",
+      "answer": "OSSO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Sigla do estado de Ilhéus e Porto Seguro",
+      "answer": "BA",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O Estado da península balcânica cuja capital é Atenas",
+      "answer": "GRECIA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Um ingrediente para sanduíches",
+      "answer": "BACON",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Exprime surpresa",
+      "answer": "EBA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A esposa do filho",
+      "answer": "NORA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Ilha australiana, com capital Hobart",
+      "answer": "TASMANIA",
+      "row": 1,
+      "col": 4
+    },
+    "14": {
+      "clue": "Dono de pequena propriedade rural",
+      "answer": "SITIANTE",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "O período que precede a noite",
+      "answer": "TARDE",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Erguer-se (a cavalgadura) sobre as patas traseiras",
+      "answer": "EMPINAR",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "No futebol, fazer gol",
+      "answer": "MARCAR",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Um dos estados em que a água pode ser encontrada na natureza",
+      "answer": "GASOSO",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Espécie de formão de carpinteiro",
+      "answer": "GOIVA",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "(Picchu) Cidade peruana",
+      "answer": "MACHU",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Macio",
+      "answer": "FOFO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "(Gír.) Tiro de arma de fogo",
+      "answer": "TECO",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Trem de Alta Velocidade",
+      "answer": "TAV",
+      "row": 8,
+      "col": 1
+    },
+    "34": {
+      "clue": "As letras separadas pelo N",
+      "answer": "MO",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

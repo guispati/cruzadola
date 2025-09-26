@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Gregório de) Poeta baiano (1623-1696), importante nome da literatura",
+      "answer": "MATOS",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Um estado da Região Norte do Brasil",
+      "answer": "AMAPA",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Exorbitância, exagero",
+      "answer": "ABUSO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "(de Aquino) Famoso santo da Igreja Católica",
+      "answer": "TOMAS",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "A UF de Caracaraí e Boa Vista",
+      "answer": "RR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Adquirir luminosidade",
+      "answer": "CLAREAR",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Arma que fica enterrada e camuflada, e explode ao ser tocada",
+      "answer": "MINA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "(Gír.) Ficar gamado",
+      "answer": "VIDRAR",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Trazer como consequência",
+      "answer": "ACARRETAR",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Pronome oblíquo da 1ª pessoa do plural",
+      "answer": "NOS",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "A jornalista e apresentadora de TV Paula Padrão",
+      "answer": "ANA",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Uma tecla dos computadores",
+      "answer": "ALT",
+      "row": 5,
+      "col": 8
+    },
+    "26": {
+      "clue": "(Fig.) Que reprime os desejos de alguém",
+      "answer": "CASTRADOR",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "Promessa",
+      "answer": "OFERTA",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Apontamento",
+      "answer": "NOTA",
+      "row": 7,
+      "col": 7
+    },
+    "32": {
+      "clue": "Que teve mau êxito",
+      "answer": "INFELIZ",
+      "row": 8,
+      "col": 1
+    },
+    "34": {
+      "clue": "Alienígena",
+      "answer": "ET",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "Festa celebrada no dia 25 de dezembro",
+      "answer": "NATAL",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Um jogo de letras e adivinhação",
+      "answer": "FORCA",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "O órgão onde o feto se desenvolve",
+      "answer": "UTERO",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Mesa sagrada em uma igreja",
+      "answer": "ALTAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Pop.) Rapaz robusto, corpulento",
+      "answer": "MARMANJO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Fruto parecido com o damasco",
+      "answer": "ABRICO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "A 2ª pessoa do singular",
+      "answer": "TU",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O Wilde (1854-1900), escritor irlandês de \"O Retrato de Dorian Gray\"",
+      "answer": "OSCAR",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O astro que é o centro do nosso sistema planetário",
+      "answer": "SOL",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Desentender-se com alguém",
+      "answer": "ATRITAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Peça de metal, geralmente circular, usada como dinheiro",
+      "answer": "MOEDA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Preso por cordas",
+      "answer": "AMARRADO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Preposição que expressa o sentido de direção",
+      "answer": "PARA",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "São três em cambalacho",
+      "answer": "AS",
+      "row": 0,
+      "col": 10
+    },
+    "15": {
+      "clue": "Proteção usada por cozinheiros",
+      "answer": "AVENTAL",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Ponto inicial de um curso de água",
+      "answer": "NASCENTE",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Apresentar tal e qual",
+      "answer": "RETRATAR",
+      "row": 3,
+      "col": 10
+    },
+    "21": {
+      "clue": "Instrumento agrícola dentado",
+      "answer": "RASTELO",
+      "row": 4,
+      "col": 4
+    },
+    "25": {
+      "clue": "(Pop.) Loteria esportiva",
+      "answer": "LOTECA",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Balançar ritmadamente e com frequência nos movimentos",
+      "answer": "ARFAR",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "O gancho que fisga o peixe",
+      "answer": "ANZOL",
+      "row": 6,
+      "col": 7
+    },
+    "30": {
+      "clue": "Uma marca de carros",
+      "answer": "FIAT",
+      "row": 7,
+      "col": 1
+    },
+    "33": {
+      "clue": "Insumo Farmacêutico Ativo",
+      "answer": "IFA",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Sem vestes",
+      "answer": "NU",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Responsável Técnico",
+      "answer": "RT",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

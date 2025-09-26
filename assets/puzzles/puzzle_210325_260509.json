@@ -1,0 +1,240 @@
+{
+  "across": {
+    "2": {
+      "clue": "(Fig.) Desumano, cruel",
+      "answer": "BESTIAL",
+      "row": 0,
+      "col": 4
+    },
+    "8": {
+      "clue": "Cacilda Becker, atriz",
+      "answer": "CB",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Fabricante da peça sobre a qual senta o cavaleiro",
+      "answer": "SELEIRO",
+      "row": 1,
+      "col": 3
+    },
+    "11": {
+      "clue": "O ser humano masculino",
+      "answer": "HOMEM",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Dispor do domínio de",
+      "answer": "TER",
+      "row": 2,
+      "col": 6
+    },
+    "14": {
+      "clue": "(Paraíba) Cidade mineira da divisa com o RJ",
+      "answer": "ALEM",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Pele",
+      "answer": "CUTIS",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Um tecido lustroso e macio",
+      "answer": "CETIM",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Cosmético para os lábios",
+      "answer": "BATOM",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Cada capítulo de uma peça teatral",
+      "answer": "ATO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Saliência ou projeção de telhado",
+      "answer": "ABA",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Cada uma das partes laterais de um edifício",
+      "answer": "ALA",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Juntar versos harmoniosamente",
+      "answer": "RIMAR",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Banhar",
+      "answer": "LAVAR",
+      "row": 6,
+      "col": 6
+    },
+    "28": {
+      "clue": "A cantora baiana Bethânia",
+      "answer": "MARIA",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Fator que transmite os caracteres hereditários",
+      "answer": "GENE",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "O centro do... Aconcágua",
+      "answer": "NCA",
+      "row": 8,
+      "col": 2
+    },
+    "31": {
+      "clue": "Inseto comum em cães e gatos",
+      "answer": "PULGA",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Um instrumento musical mecânico",
+      "answer": "PIANOLA",
+      "row": 9,
+      "col": 1
+    },
+    "34": {
+      "clue": "O músico Motta",
+      "answer": "ED",
+      "row": 9,
+      "col": 9
+    },
+    "35": {
+      "clue": "Espécie de enigma",
+      "answer": "CHARADA",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Gír.) Extorquir",
+      "answer": "ACHACAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Com clareza",
+      "answer": "BEM",
+      "row": 0,
+      "col": 4
+    },
+    "3": {
+      "clue": "(?) Niño, do clima",
+      "answer": "EL",
+      "row": 0,
+      "col": 5
+    },
+    "4": {
+      "clue": "Cidade portuguesa próxima a Lisboa",
+      "answer": "SETUBAL",
+      "row": 0,
+      "col": 6
+    },
+    "5": {
+      "clue": "Famosa personagem de Jorge Amado",
+      "answer": "TIETA",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "Que fica bravo com facilidade",
+      "answer": "IRRITAVEL",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Trato sem consoantes",
+      "answer": "AO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Caderneta escolar com as notas do estudante",
+      "answer": "BOLETIM",
+      "row": 1,
+      "col": 1
+    },
+    "10": {
+      "clue": "Prefixo: metade",
+      "answer": "SEMI",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Desejo irresistível de tomar bebidas alcoólicas",
+      "answer": "METOMANIA",
+      "row": 2,
+      "col": 2
+    },
+    "16": {
+      "clue": "A Couto atriz",
+      "answer": "SOLANGE",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "A primeira capital de Minas Gerais",
+      "answer": "MARIANA",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Enjoado a bordo",
+      "answer": "MAREADO",
+      "row": 4,
+      "col": 10
+    },
+    "25": {
+      "clue": "Aguentar algo pesado",
+      "answer": "ARCAR",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Líquido que mata a sede",
+      "answer": "AGUA",
+      "row": 6,
+      "col": 7
+    },
+    "31": {
+      "clue": "(Pop.) Dica",
+      "answer": "PLA",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "(Quím.) Potencial hidrogeniônico",
+      "answer": "PH",
+      "row": 9,
+      "col": 1
+    },
+    "33": {
+      "clue": "Ordem do Dia",
+      "answer": "OD",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

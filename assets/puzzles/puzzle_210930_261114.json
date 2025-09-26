@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ritmo do jazz",
+      "answer": "BEAT",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "Cidade de Goiás, a mais ao leste do estado",
+      "answer": "MAMBAI",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Desprezo",
+      "answer": "DESAMOR",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Gesto de carinho",
+      "answer": "BEIJO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Vento de força moderada",
+      "answer": "BRISA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Cerveja preta, amarga",
+      "answer": "STOUT",
+      "row": 3,
+      "col": 1
+    },
+    "17": {
+      "clue": "Limpar, raspando",
+      "answer": "RAER",
+      "row": 3,
+      "col": 7
+    },
+    "18": {
+      "clue": "Árvore característica da caatinga nordestina",
+      "answer": "ICO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Indolente, preguiçoso",
+      "answer": "MOLENGA",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Nara Leão (1942-1989), cantora",
+      "answer": "NL",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Determinar a extensão, o peso, a capacidade de",
+      "answer": "MEDIR",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "(Bíbl.) A cidade de origem de Abraão e de sua família",
+      "answer": "UR",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Um intervalo musical",
+      "answer": "SEMITOM",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Instituto Nacional de Estatística",
+      "answer": "INE",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Um dos maiores açudes do Ceará",
+      "answer": "OROS",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "(Ingl.) Som",
+      "answer": "SOUND",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "Navegante",
+      "answer": "NAUTA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "(Fig.) Homem muito perspicaz",
+      "answer": "ARGOS",
+      "row": 8,
+      "col": 6
+    },
+    "34": {
+      "clue": "Aversão",
+      "answer": "REPULSA",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Que não dá frutos",
+      "answer": "ACARPO",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Planta picante, usada como condimento",
+      "answer": "AIPO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Sigla) Um famoso programa de reality show",
+      "answer": "BBB",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Compartimento reservado",
+      "answer": "ADITO",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Rio da Espanha e de Portugal",
+      "answer": "TEJO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Reprovável, desonesta",
+      "answer": "MA",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "Associação Mundial de Boxe",
+      "answer": "AMB",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Perder a vida",
+      "answer": "MORRER",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "O cineasta norte-americano De Palma, de \"Os Intocáveis\"",
+      "answer": "BRIAN",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Rio limítrofe dos estados de São Paulo e Paraná",
+      "answer": "ITARARE",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "O poeta francês Alexandre (1788-1845)",
+      "answer": "SOUMET",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "O branco do olho",
+      "answer": "ESCLERA",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "1/60 do minuto",
+      "answer": "SEGUNDO",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "A coletividade em seu conjunto",
+      "answer": "TODOS",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Dificuldade ou brevidade anormal do sono",
+      "answer": "INSONIA",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Pomar de sicilianos e galegos",
+      "answer": "LIMOAL",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Profissão, ofício",
+      "answer": "MISTER",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "O saxofonista e clarinetista paulista Paulo (1932-2010)",
+      "answer": "MOURA",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Pequena cidade do estado de Minas Gerais, próxima a Lavras",
+      "answer": "INGAI",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Nome de duas constelações (Maior e Menor)",
+      "answer": "URSA",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "(Ingl.) Aplicativo",
+      "answer": "APP",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "O João celebrado em 24 de junho",
+      "answer": "SÃO",
+      "row": 8,
+      "col": 10
+    },
+    "35": {
+      "clue": "Unidade Orçamentária",
+      "answer": "UO",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Citar",
+      "answer": "MENCIONAR",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Amar muito",
+      "answer": "ADORAR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "O B dos químicos",
+      "answer": "BORO",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "Quem supervisiona, governa",
+      "answer": "TUTOR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O jogador americano de basquete LeBron, um ídolo da modalidade",
+      "answer": "JAMES",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Inocente, puríssima",
+      "answer": "IMACULADA",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Cama portátil para transporte de doentes",
+      "answer": "MACA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "(Geom.) Sem ângulos",
+      "answer": "AGONO",
+      "row": 4,
+      "col": 5
+    },
+    "20": {
+      "clue": "Uma ruidosa manifestação coletiva de protesto",
+      "answer": "APITAÇO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Rede de comunicação dos EUA",
+      "answer": "CBS",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Que foi alvo de deslealdade",
+      "answer": "TRAIDO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "(Seu) Um personagem da Escolinha do Professor Raimundo",
+      "answer": "PERU",
+      "row": 6,
+      "col": 7
+    },
+    "26": {
+      "clue": "Som que imita o latido de cães",
+      "answer": "AU",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Molhado pela transpiração",
+      "answer": "SUADO",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "A UF de Manaus",
+      "answer": "AM",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Diz-se de animal que tem no corpo tecido que envolve e protege alguns órgãos",
+      "answer": "MEMBRANUDO",
+      "row": 8,
+      "col": 1
+    },
+    "33": {
+      "clue": "Nevoeiro fino",
+      "answer": "GAROA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Em menor grau, intensidade, superioridade ou quantidade",
+      "answer": "MENOS",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Doutora",
+      "answer": "DRA",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Padrão monetário brasileiro (pl.)",
+      "answer": "REAIS",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Esp.) Série de jogos decisivos numa competição",
+      "answer": "MATAMATA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O letrista e compositor Lobo",
+      "answer": "EDU",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Anúncio, informação",
+      "answer": "NOTICIA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Divisão harmoniosa das cores",
+      "answer": "CROMATISMO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Figura da mitologia, protetora das águas",
+      "answer": "IARA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "O que transforma teia em teoria",
+      "answer": "OR",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Tremor de terra",
+      "answer": "ABALO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Caso amoroso",
+      "answer": "ROMANCE",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Uma mistura de branco e vermelho",
+      "answer": "ROSA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Muito repetido ou mais intenso",
+      "answer": "REDOBRADO",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Peça de madeira usada para atrelar bois a carroça ou arado",
+      "answer": "JUGO",
+      "row": 2,
+      "col": 6
+    },
+    "16": {
+      "clue": "(Gír.) Tirar um sarro",
+      "answer": "CAÇOAR",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Pôr em linha vertical",
+      "answer": "APRUMAR",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Estrumar (a terra)",
+      "answer": "ADUBAR",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Diz-se de fruta com muito suco",
+      "answer": "SUMOSA",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Pequeno cavalo, com pelo longo",
+      "answer": "PONEI",
+      "row": 6,
+      "col": 7
+    },
+    "28": {
+      "clue": "Faz par com o cavalheiro",
+      "answer": "DAMA",
+      "row": 7,
+      "col": 6
+    },
+    "31": {
+      "clue": "Ciclo histórico",
+      "answer": "ERA",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "Certos",
+      "answer": "UNS",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "O símbolo químico do gadolínio",
+      "answer": "GD",
+      "row": 9,
+      "col": 0
+    }
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Meio usado para alcançar uma finalidade qualquer",
+      "answer": "TATICA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O do Silício, abrange várias cidades do estado da Califórnia",
+      "answer": "VALE",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Neste lugar",
+      "answer": "AQUI",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Homem muito devoto",
+      "answer": "BEATO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Caminho para carros, motos e bikes",
+      "answer": "RUA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Escamas que eventualmente surgem no couro cabeludo",
+      "answer": "CASPA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Em física: abreviatura de oersted",
+      "answer": "OE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Livro a respeito da vida dos santos",
+      "answer": "SANTORAL",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Vender por lances",
+      "answer": "LEILOAR",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "As iniciais do médico austríaco Freud (1856-1939)",
+      "answer": "SF",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "O marido da filha",
+      "answer": "GENRO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Inchaço resultante de contusão",
+      "answer": "BOSSA",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "Um mártir cristão, junto com Protásio",
+      "answer": "GERVASIO",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Lamartine Babo, músico",
+      "answer": "LB",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Relativo às primeiras semanas de vida",
+      "answer": "NEONATAL",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Letreiro com as falas de um filme",
+      "answer": "LEGENDA",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "O sujeito de finge ou acredita",
+      "answer": "ELE",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Período de tempo entre 1º de abril e 31 de março",
+      "answer": "ANO",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "(Cura-) Outro nome para a cachaça",
+      "answer": "TUDO",
+      "row": 9,
+      "col": 4
+    },
+    "36": {
+      "clue": "Oi, em Washington",
+      "answer": "HI",
+      "row": 9,
+      "col": 9
+    },
+    "37": {
+      "clue": "Açoite usado para bater em animais",
+      "answer": "RELHO",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "(Jur.) Peças produzidas num processo",
+      "answer": "AUTOS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Jogo de interpretações que usa um baralho de 78 cartas",
+      "answer": "TARO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Pronome masculino",
+      "answer": "AQUELE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Feita por ti (fem.)",
+      "answer": "TUA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Segundo, em algarismos romanos",
+      "answer": "II",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Leque",
+      "answer": "ABANO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Que tem aspecto ou consistência tênue, transparente",
+      "answer": "VAPOROSA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Unir",
+      "answer": "ATAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "O músico mineiro Borges",
+      "answer": "LO",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Agitada, extravagante no modo de ser",
+      "answer": "ESTABANADA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Quente",
+      "answer": "CALORENTO",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "A marca italiana de carros Romeo",
+      "answer": "ALFA",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Aparelho que gera sinais acústicos",
+      "answer": "SIRENE",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Pavimento de madeira",
+      "answer": "ASSOALHO",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Abrev.: engenharia",
+      "answer": "ENG",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "O Ferreira poeta maranhense",
+      "answer": "GULLAR",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Ingl.) Local na internet",
+      "answer": "SITE",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "Culto religioso semelhante à macumba",
+      "answer": "VODU",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "Benedito, para os íntimos",
+      "answer": "BENE",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "O L do CLT",
+      "answer": "LEIS",
+      "row": 7,
+      "col": 10
+    },
+    "31": {
+      "clue": "Bola na rede",
+      "answer": "GOL",
+      "row": 8,
+      "col": 2
+    },
+    "35": {
+      "clue": "Conjunção que une ideias alternadas",
+      "answer": "OU",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

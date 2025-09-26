@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ocupações",
+      "answer": "AFAZERES",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "A UF de Óbidos e Santarém",
+      "answer": "PA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Base de um monte",
+      "answer": "SOPE",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "Um parente como cunhado ou sogro",
+      "answer": "AFIM",
+      "row": 1,
+      "col": 7
+    },
+    "12": {
+      "clue": "Pronome que indica algo que se acha mais perto de quem fala",
+      "answer": "ISTO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Peça que cobre o centro externo das rodas dos automóveis",
+      "answer": "CALOTA",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "A casa paterna",
+      "answer": "LAR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Oferecer resistência",
+      "answer": "RELUTAR",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Do sistema que permite deslocamentos",
+      "answer": "LOCOMOTOR",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Precede Leñas, na estação argentina de esqui",
+      "answer": "LAS",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "Uma marca chinesa de carros",
+      "answer": "JAC",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Os dedões das mãos e dos pés",
+      "answer": "POLEGARES",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Pensar em",
+      "answer": "COGITAR",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Claridade da lanterna",
+      "answer": "LUZ",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Desencrespar o cabelo",
+      "answer": "ALISAR",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Filó, bobinete",
+      "answer": "TULE",
+      "row": 8,
+      "col": 7
+    },
+    "30": {
+      "clue": "Uma grande indústria de automóveis",
+      "answer": "FIAT",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Um oposto de traidor",
+      "answer": "FIEL",
+      "row": 9,
+      "col": 5
+    },
+    "33": {
+      "clue": "O símbolo químico do érbio",
+      "answer": "ER",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Meio doido",
+      "answer": "ALOPRADO",
+      "row": 10,
+      "col": 3
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Preparado para branquear roupa lavada",
+      "answer": "ANIL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A arte do horóscopo",
+      "answer": "ASTROLOGIA",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "(Red.) Local onde são expostos animais de diferentes espécies",
+      "answer": "ZOO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Epitácio Pessoa, político",
+      "answer": "EP",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Ainda agora",
+      "answer": "RECEM",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Bom para a saúde",
+      "answer": "SALUTAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Pop.) Fumar",
+      "answer": "PITAR",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Gostar muito de",
+      "answer": "AMAR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Célula fotoelétrica",
+      "answer": "FOTOCELULA",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Tempero usado em pitadas",
+      "answer": "SAL",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Dar hospitalidade, pousada",
+      "answer": "ALOJAR",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Mancha vermelha no corpo",
+      "answer": "ROSETA",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Pedicuro",
+      "answer": "CALISTA",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Dar lustro a",
+      "answer": "POLIR",
+      "row": 6,
+      "col": 1
+    },
+    "23": {
+      "clue": "O talher com dentes",
+      "answer": "GARFO",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "O S de RS",
+      "answer": "SUL",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "(Red.) A primeira refeição do dia",
+      "answer": "CAFE",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Dedicação",
+      "answer": "ZELO",
+      "row": 7,
+      "col": 10
+    },
+    "29": {
+      "clue": "Portar, possuir",
+      "answer": "TER",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Inquérito Policial",
+      "answer": "IP",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

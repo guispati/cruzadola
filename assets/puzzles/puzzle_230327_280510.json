@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Grande planície do sul da América do Sul",
+      "answer": "PAMPA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Chegada a um lugar",
+      "answer": "VINDA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "O nosso petit-pois",
+      "answer": "ERVILHA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Que me pertence",
+      "answer": "MEU",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Pasta usada para aplicação no cabelo",
+      "answer": "GEL",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "(Mús.) Espécie de sanfona",
+      "answer": "FOLE",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Nara Leão (1942-1989), cantora",
+      "answer": "NL",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "(Dir.) Orientações Jurisprudenciais",
+      "answer": "OJ",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Grande escassez de coisas necessárias à vida",
+      "answer": "CARESTIA",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "A cantora de tecnobrega Gaby",
+      "answer": "AMARANTOS",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Muda, rebento",
+      "answer": "BROTO",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Passagem subterrânea de estrada ou rodovia",
+      "answer": "TUNEL",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Terra alagadiça onde cresce pasto",
+      "answer": "LAMEIRA",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Logaritmo neperiano",
+      "answer": "LN",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Ofender fisicamente",
+      "answer": "LESAR",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Miles Davis, músico de jazz",
+      "answer": "MD",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Indivíduos que participam do capital e têm direito aos lucros das empresas",
+      "answer": "SOCIOS",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Ter grande afeição por alguém ou por alguma coisa",
+      "answer": "AMAR",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "Animais como o joão-de-barro e o bem-te-vi",
+      "answer": "AVES",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Árvore de boa madeira, também chamada visgueiro",
+      "answer": "ANDIRA",
+      "row": 9,
+      "col": 5
+    },
+    "38": {
+      "clue": "A flor da farinha de trigo",
+      "answer": "SEMEA",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Satisfazer o apetite",
+      "answer": "COMER",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Caverna no fundo de mar ou rio",
+      "answer": "PEGO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ventilar o ambiente",
+      "answer": "AREJAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Mario Vargas Llosa, escritor peruano",
+      "answer": "MVL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "O valor 3,1416, em matemática",
+      "answer": "PI",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Marca italiana de automóveis",
+      "answer": "ALFAROMEO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Audácia",
+      "answer": "VALENTIA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Em física, o símbolo de nanômetro",
+      "answer": "NM",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A atriz Fraga",
+      "answer": "DENISE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Lição",
+      "answer": "AULA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "(grande) Meia-noite",
+      "answer": "HORA",
+      "row": 1,
+      "col": 5
+    },
+    "15": {
+      "clue": "Que se irrita facilmente",
+      "answer": "ESTURRADO",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "Processo químico reativo",
+      "answer": "CATALISE",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Superfície",
+      "answer": "TONA",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "(Fisioq.) Abreviatura de molécula-grama",
+      "answer": "MOL",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Cidade maranhense",
+      "answer": "BALSAS",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Dar latidos (o cão)",
+      "answer": "LADRAR",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Aquela lá",
+      "answer": "ESSA",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Seis mais três",
+      "answer": "NOVE",
+      "row": 7,
+      "col": 1
+    },
+    "30": {
+      "clue": "(Fig.) Ocasião",
+      "answer": "MARE",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Mil dividido por dez",
+      "answer": "CEM",
+      "row": 8,
+      "col": 2
+    },
+    "34": {
+      "clue": "(De) Me",
+      "answer": "MIM",
+      "row": 8,
+      "col": 8
+    },
+    "37": {
+      "clue": "Nelson Cavaquinho, sambista",
+      "answer": "NC",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

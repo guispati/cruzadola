@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ressoante",
+      "answer": "ECOANTE",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Fim de semana",
+      "answer": "FDS",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Coça, espancamento",
+      "answer": "SURRA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Desaprovar com assobios e gritos",
+      "answer": "VAIAR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "A parte mais longa da vassoura",
+      "answer": "CABO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Um lugar onde se reza",
+      "answer": "CAPELA",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Lugar de doentes graves",
+      "answer": "UTI",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Um calo na pele",
+      "answer": "PAPULA",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Profissional que faz desenhos no corpo",
+      "answer": "TATUADOR",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Partir",
+      "answer": "IR",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "(Pôr nas) Exaltar, elevar",
+      "answer": "ALTURAS",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Rubem Fonseca (1925-2020), escritor de \"Agosto\"",
+      "answer": "RF",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Aperto de mão por cumprimento",
+      "answer": "TOCAROLA",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "Abrigar numa instituição de caridade",
+      "answer": "ASILAR",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Abrev.: o mês 11",
+      "answer": "NOV",
+      "row": 7,
+      "col": 8
+    },
+    "30": {
+      "clue": "Vociferar",
+      "answer": "BRAMIR",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Um extremo do Brasil",
+      "answer": "CHUI",
+      "row": 8,
+      "col": 7
+    },
+    "32": {
+      "clue": "Um ingrediente para sanduíches",
+      "answer": "BACON",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Inseto nocivo às roupas",
+      "answer": "TRAÇA",
+      "row": 9,
+      "col": 6
+    },
+    "34": {
+      "clue": "(Peixe-) Outro nome do manati",
+      "answer": "BOI",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Um trabalho de dentista",
+      "answer": "OBTURAR",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ouvir",
+      "answer": "ESCUTAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um macaco amazônico",
+      "answer": "CUATA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Percurso de Vênus",
+      "answer": "ORBITA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Círculo metálico onde se prende o pneu",
+      "answer": "ARO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O sódio",
+      "answer": "NA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Passar de água p/ gás",
+      "answer": "EVAPORAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Que não contraria a confiança depositada",
+      "answer": "FIEL",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Lama) Líder religioso tibetano",
+      "answer": "DALAI",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "A abreviatura que segue Exma.",
+      "answer": "SRA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Aprimorar",
+      "answer": "APURAR",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Deixar de ter valor",
+      "answer": "CADUCAR",
+      "row": 2,
+      "col": 5
+    },
+    "16": {
+      "clue": "Personagem de desenhos animados da turma do Pernalonga",
+      "answer": "PATOLINO",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Aquele que ocupa o lugar do fim numa fila",
+      "answer": "ULTIMO",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Reconduzir, guiar de novo",
+      "answer": "REAVIAR",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Ter pesadelos",
+      "answer": "SONHAR",
+      "row": 5,
+      "col": 8
+    },
+    "24": {
+      "clue": "Título dos reis do antigo Egito",
+      "answer": "FARAO",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Qualquer produto cerâmico",
+      "answer": "LOUÇA",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Personagem folclórico de uma perna só",
+      "answer": "SACI",
+      "row": 7,
+      "col": 2
+    },
+    "30": {
+      "clue": "(Sigla) Um popular reality show",
+      "answer": "BBB",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Diz-se de alimento não cozido",
+      "answer": "CRU",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Tina Turner, cantora e atriz",
+      "answer": "TT",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

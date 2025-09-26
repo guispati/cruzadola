@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "A montanha mais alta dos Alpes",
+      "answer": "MONTBLANC",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "Untar",
+      "answer": "OLEAR",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Do Sol",
+      "answer": "SOLAR",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Movimento voluntário",
+      "answer": "AUTOCINESE",
+      "row": 2,
+      "col": 1
+    },
+    "15": {
+      "clue": "Menos dura do que o normal",
+      "answer": "TENRA",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Voo de Turismo Doméstico",
+      "answer": "VTD",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Limite de vencimento",
+      "answer": "PRAZO",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "A substância com a qual as abelhas constroem os favos de mel",
+      "answer": "CERA",
+      "row": 4,
+      "col": 7
+    },
+    "19": {
+      "clue": "Cavidade oca encontrada nas rochas, revestida de cristais",
+      "answer": "GEODE",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Endurecimento da pele",
+      "answer": "CALO",
+      "row": 5,
+      "col": 6
+    },
+    "21": {
+      "clue": "Objeto usado para recolher votos",
+      "answer": "URNA",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "(Pop.) Pessoa chata",
+      "answer": "MALA",
+      "row": 6,
+      "col": 5
+    },
+    "23": {
+      "clue": "Começo de... início",
+      "answer": "INI",
+      "row": 7,
+      "col": 0
+    },
+    "24": {
+      "clue": "Uso ilegal de drogas para estimular o desempenho de atletas",
+      "answer": "DOPING",
+      "row": 7,
+      "col": 4
+    },
+    "26": {
+      "clue": "(Geol.) Rocha de textura granular",
+      "answer": "DIORITO",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "(Hot) Pão, salsicha, mostarda e ketchup",
+      "answer": "DOG",
+      "row": 8,
+      "col": 8
+    },
+    "30": {
+      "clue": "As iniciais do romancista Orígenes",
+      "answer": "OL",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Famoso filme de Alan Parker, recentemente falecido",
+      "answer": "EVITA",
+      "row": 9,
+      "col": 3
+    },
+    "33": {
+      "clue": "Microempresa",
+      "answer": "ME",
+      "row": 9,
+      "col": 9
+    },
+    "34": {
+      "clue": "Que une dois extremos opostos",
+      "answer": "DIAMETRAL",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Pedra de amolar facas",
+      "answer": "MO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Saudação usada ao se encontrar alguém",
+      "answer": "OLA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Partícula do núcleo atômico desprovida de carga elétrica",
+      "answer": "NEUTRONIO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Fig.) Sondada com cautela",
+      "answer": "TATEADA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O metal da medalha do terceiro colocado",
+      "answer": "BRONZE",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "O continente de Laos e Mongólia",
+      "answer": "ASIA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "(-stop) Sem interrupção",
+      "answer": "NON",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Cidade industrial dos EUA, em Ohio, à margem do lago Erie",
+      "answer": "CLEVELAND",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Argila",
+      "answer": "GREDA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Cometa, estrela ou planeta",
+      "answer": "ASTRO",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Um jogo de cartas",
+      "answer": "CRO",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Coxa de porco",
+      "answer": "PERNIL",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "A terceira maior cidade da Colômbia",
+      "answer": "CALI",
+      "row": 4,
+      "col": 7
+    },
+    "19": {
+      "clue": "Direção de bicicleta",
+      "answer": "GUIDOM",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Casacão longo",
+      "answer": "CAPOTE",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Recusa coletiva de obediência",
+      "answer": "MOTIM",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "Ótima cantora",
+      "answer": "DIVA",
+      "row": 7,
+      "col": 4
+    },
+    "25": {
+      "clue": "Outro nome da jujuba",
+      "answer": "GOMA",
+      "row": 7,
+      "col": 9
+    },
+    "27": {
+      "clue": "Peça do xadrez",
+      "answer": "REI",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "Pasta usada em produtos cosméticos",
+      "answer": "GEL",
+      "row": 8,
+      "col": 10
+    },
+    "32": {
+      "clue": "(Abrev.) Antigo Testamento",
+      "answer": "AT",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

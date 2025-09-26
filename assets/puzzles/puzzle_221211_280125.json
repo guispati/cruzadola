@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Da árvore",
+      "answer": "ARBOREO",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Tecido muito fino, leve e transparente",
+      "answer": "VEU",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Um buraco no dente",
+      "answer": "CARIE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Um enchimento para travesseiros",
+      "answer": "PAINA",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Servir de juiz em quadra ou campo esportivo",
+      "answer": "APITAR",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "A Coutinho jornalista e apresentadora",
+      "answer": "MAJU",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "(Mús.) Uma alteração das notas",
+      "answer": "BEMOL",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Um órgão do abdome",
+      "answer": "BAÇO",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "Sigla do estado de Maceió e Palestina",
+      "answer": "AL",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Os moradores de uma cidade",
+      "answer": "CIDADÃOS",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "O que sobra do que foi parcialmente consumido",
+      "answer": "RESIDUO",
+      "row": 5,
+      "col": 2
+    },
+    "22": {
+      "clue": "Enfatizar, destacar",
+      "answer": "ACENTUAR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Sufixo da França, na net",
+      "answer": "FR",
+      "row": 6,
+      "col": 9
+    },
+    "25": {
+      "clue": "Pequena ferida da mucosa bucal",
+      "answer": "AFTA",
+      "row": 7,
+      "col": 1
+    },
+    "26": {
+      "clue": "Conduzir de um lugar para outro",
+      "answer": "LEVAR",
+      "row": 7,
+      "col": 6
+    },
+    "28": {
+      "clue": "O continente do Japão",
+      "answer": "ASIA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Sorvete congelado dentro de saquinho plástico",
+      "answer": "SACOLE",
+      "row": 8,
+      "col": 5
+    },
+    "30": {
+      "clue": "Tranquilo, calmo",
+      "answer": "MANSO",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "A desembocadura de um rio, em formato de leque",
+      "answer": "DELTA",
+      "row": 9,
+      "col": 6
+    },
+    "33": {
+      "clue": "Círculo de metal",
+      "answer": "ARO",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Eterno",
+      "answer": "IMORTAL",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Finalizada",
+      "answer": "ACABADA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Descida de um paredão, com cordas",
+      "answer": "RAPEL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Tecido usado na confecção de calças",
+      "answer": "BRIM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "800 (fem.)",
+      "answer": "OITOCENTAS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "O oposto de idealista",
+      "answer": "REALISTA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Duas letras vizinhas à direita do teclado",
+      "answer": "OP",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Empresa de transporte por veículos, para passageiros ou carga",
+      "answer": "VIAÇÃO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Tontura e náusea sentidas por quem viaja de navio",
+      "answer": "ENJOO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Muito bom!",
+      "answer": "UAU",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "(Fig.) Tornar experiente",
+      "answer": "AMADURECER",
+      "row": 1,
+      "col": 7
+    },
+    "16": {
+      "clue": "(Pop.) Muito comentado",
+      "answer": "BADALADO",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Dispositivo Intrauterino",
+      "answer": "DIU",
+      "row": 4,
+      "col": 5
+    },
+    "20": {
+      "clue": "Que pertence ao domínio do sonho, da fantasia, da imaginação",
+      "answer": "SURREAL",
+      "row": 4,
+      "col": 10
+    },
+    "21": {
+      "clue": "Ato de separar de uma substância os elementos que lhe são estranhos",
+      "answer": "REFINO",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Depositar dinheiro de aposta",
+      "answer": "CASAR",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Culpa leve",
+      "answer": "FALTA",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "(Elet.) V",
+      "answer": "VOLT",
+      "row": 7,
+      "col": 8
+    },
+    "28": {
+      "clue": "Senhora, patroa",
+      "answer": "AMA",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Pois não!",
+      "answer": "OI",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

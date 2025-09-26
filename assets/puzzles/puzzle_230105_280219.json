@@ -1,0 +1,258 @@
+{
+  "across": {
+    "2": {
+      "clue": "De listras brancas e escuras alternadas",
+      "answer": "ZEBRADO",
+      "row": 0,
+      "col": 2
+    },
+    "9": {
+      "clue": "As iniciais da cantora Sangalo",
+      "answer": "IS",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Palavra inglesa que designa modo ou capacidade de sentir uma situação",
+      "answer": "FEELING",
+      "row": 1,
+      "col": 3
+    },
+    "13": {
+      "clue": "Ensino",
+      "answer": "DOCENCIA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Quím.) Laurêncio",
+      "answer": "LR",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Forma feminina de um pronome pessoal",
+      "answer": "ELA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "Sistema Único de Saúde",
+      "answer": "SUS",
+      "row": 3,
+      "col": 4
+    },
+    "19": {
+      "clue": "Evita neném",
+      "answer": "DIU",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "(Inform.) Vínculo",
+      "answer": "LINK",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Antiga moeda brasileira de prata",
+      "answer": "PATACA",
+      "row": 4,
+      "col": 5
+    },
+    "24": {
+      "clue": "Condimentado",
+      "answer": "TEMPERADO",
+      "row": 5,
+      "col": 1
+    },
+    "26": {
+      "clue": "Não acertar",
+      "answer": "FALHAR",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Mona) Pintura de Leonardo Da Vinci",
+      "answer": "LISA",
+      "row": 6,
+      "col": 7
+    },
+    "29": {
+      "clue": "Período de importância histórica",
+      "answer": "ERA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Um número como 128 ou 6",
+      "answer": "PAR",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "Um sobrenome do Pero escrivão da esquadra de Pedro Álvares Cabral",
+      "answer": "VAZ",
+      "row": 7,
+      "col": 8
+    },
+    "33": {
+      "clue": "A metade de XII, em romanos",
+      "answer": "VI",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Lugar escavado",
+      "answer": "CAVIDADE",
+      "row": 8,
+      "col": 3
+    },
+    "36": {
+      "clue": "Estilo decorativo que teve o seu apogeu nos anos de 1930",
+      "answer": "ARTDECO",
+      "row": 9,
+      "col": 1
+    },
+    "38": {
+      "clue": "Orlando Dias, cantor",
+      "answer": "OD",
+      "row": 9,
+      "col": 9
+    },
+    "39": {
+      "clue": "Conversa",
+      "answer": "DIALOGO",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O ditador cubano Castro, líder político",
+      "answer": "FIDEL",
+      "row": 0,
+      "col": 0
+    },
+    "3": {
+      "clue": "A quarta consoante",
+      "answer": "EFE",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Itens de um patrimônio",
+      "answer": "BENS",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Que se pode ter de volta",
+      "answer": "RECUPERAVEL",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Desenrugar",
+      "answer": "ALISAR",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "1/7 da semana",
+      "answer": "DIA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "O que muda de Vera para Verona",
+      "answer": "ON",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Parasita alongado e fino do intestino de vertebrados",
+      "answer": "SOLITARIA",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Que contém certo açúcar essencial para o metabolismo",
+      "answer": "GLICOSADO",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "A especiaria usada no arroz-doce",
+      "answer": "CANELA",
+      "row": 2,
+      "col": 2
+    },
+    "16": {
+      "clue": "Em espanhol é calle e em inglês street",
+      "answer": "RUA",
+      "row": 2,
+      "col": 10
+    },
+    "19": {
+      "clue": "Mimo, brinde",
+      "answer": "DADIVA",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Quilômetros por hora",
+      "answer": "KMH",
+      "row": 4,
+      "col": 3
+    },
+    "23": {
+      "clue": "Igual ou semelhante (à mesma forma ou figura)",
+      "answer": "TAL",
+      "row": 4,
+      "col": 7
+    },
+    "25": {
+      "clue": "Grande acúmulo de matéria adiposa na face e no pescoço",
+      "answer": "PAPADA",
+      "row": 5,
+      "col": 4
+    },
+    "26": {
+      "clue": "A abreviatura do nome do segundo mês do ano",
+      "answer": "FEV",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "Como o suco do limão",
+      "answer": "AZEDO",
+      "row": 6,
+      "col": 10
+    },
+    "31": {
+      "clue": "Apetitoso, cheio de sabores",
+      "answer": "RICO",
+      "row": 7,
+      "col": 6
+    },
+    "34": {
+      "clue": "Um setor do hospital",
+      "answer": "CTI",
+      "row": 8,
+      "col": 3
+    },
+    "35": {
+      "clue": "(Hot) Um sanduíche muito popular",
+      "answer": "DOG",
+      "row": 8,
+      "col": 7
+    },
+    "37": {
+      "clue": "Roberto Dinamite, ídolo do Vasco",
+      "answer": "RD",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

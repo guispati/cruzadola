@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ação de socorrer, de auxiliar",
+      "answer": "AJUDA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O mais importante vaso do corpo humano",
+      "answer": "AORTA",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Aquele que manda, envia",
+      "answer": "REMETENTE",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Elizabeth Taylor (1932-2011), atriz de \"Cleópatra\"",
+      "answer": "ET",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Mús.) Intervalo que compreende seis graus",
+      "answer": "SEXTA",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Quociente de Inteligência",
+      "answer": "QI",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Barco dos povos primitivos",
+      "answer": "CANOA",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "A região com SC, PR e RS",
+      "answer": "SUL",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "Asfixiar por imersão",
+      "answer": "AFOGAR",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "O G do GPS",
+      "answer": "GUIA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Retirar as tripas",
+      "answer": "EVISCERAR",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "O não fazer nada",
+      "answer": "OCIO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Enganar sob falsas aparências",
+      "answer": "ILUDIR",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "(Abrev. ingl.) Doutor em Filosofia",
+      "answer": "PHD",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Fig.) De mau humor",
+      "answer": "AZEDO",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Ok!",
+      "answer": "TA",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "O escritor Rubem (1913-1990), de \"Ai de Ti Copacabana\"",
+      "answer": "BRAGA",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "Abreviatura de ultravioleta",
+      "answer": "UV",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Uma catedral gótica francesa",
+      "answer": "NOTREDAME",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "Arma de fogo de cano longo",
+      "answer": "RIFLE",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Fazer mover à volta",
+      "answer": "RODAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O solo das dunas de um deserto",
+      "answer": "AREIA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(ski) Moto aquática",
+      "answer": "JET",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O primeiro de uma série",
+      "answer": "UM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Desvalorização da moeda",
+      "answer": "DESAGIO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A capital europeia com o Partenon",
+      "answer": "ATENAS",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Gorda) Pequena cidade gaúcha próxima a Caxias do Sul",
+      "answer": "ANTA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Uma interjeição de admiração",
+      "answer": "OTA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "A nota musical D",
+      "answer": "RE",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Ponto do corpo muito sensível às cócegas",
+      "answer": "AXILA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Esconjurar",
+      "answer": "EXORCIZAR",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Certa palmeira medicinal",
+      "answer": "QUIRI",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "A doença da pandemia",
+      "answer": "COVID",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "(Fig.) Comprado com muitos sacrifícios",
+      "answer": "SUADO",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "(Pop.) Bagunça",
+      "answer": "FECHA",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "Colado",
+      "answer": "GRUDADO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Escolher entre dois ou mais",
+      "answer": "ELEGER",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Preferir",
+      "answer": "OPTAR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "(Plate) Time argentino de futebol",
+      "answer": "RIVER",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "(Fam.) Travessura",
+      "answer": "ARTE",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Bolívia",
+      "answer": "BOL",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "A primeira hora cheia",
+      "answer": "UMA",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "Nota Fiscal",
+      "answer": "NF",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "Alain Delon, ator francês",
+      "answer": "AD",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

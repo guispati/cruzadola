@@ -1,0 +1,246 @@
+{
+  "across": {
+    "2": {
+      "clue": "Uma instituição como o MASP ou o MAM",
+      "answer": "MUSEU",
+      "row": 0,
+      "col": 4
+    },
+    "8": {
+      "clue": "Pede Deferimento",
+      "answer": "PD",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "A Charmosa de um desenho animado",
+      "answer": "PENELOPE",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Substância fosforada abundante na gema do ovo",
+      "answer": "LECITINA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Sigla do estado de Palmeira das Missões",
+      "answer": "RS",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "Separado dos outros",
+      "answer": "ISOLADO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Um boleto federal",
+      "answer": "DAS",
+      "row": 3,
+      "col": 8
+    },
+    "17": {
+      "clue": "(Pop.) Gamado, vidrado",
+      "answer": "TARADO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "A última refeição em cada dia",
+      "answer": "CEIA",
+      "row": 4,
+      "col": 7
+    },
+    "19": {
+      "clue": "Pequena embarcação a remo",
+      "answer": "BOTE",
+      "row": 5,
+      "col": 1
+    },
+    "20": {
+      "clue": "(Bala de) Jujuba",
+      "answer": "GOMA",
+      "row": 5,
+      "col": 6
+    },
+    "21": {
+      "clue": "Peça usada para cobrir a cabeça",
+      "answer": "BONE",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "A que ponto",
+      "answer": "COMO",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "Que certifica por escrito",
+      "answer": "ATESTATORIO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "(Mús.) O G dos músicos",
+      "answer": "SOL",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Cada item de uma produção em série",
+      "answer": "UNIDADE",
+      "row": 8,
+      "col": 4
+    },
+    "29": {
+      "clue": "Neste lugar",
+      "answer": "CA",
+      "row": 9,
+      "col": 0
+    },
+    "30": {
+      "clue": "Do ouvido ou da vista",
+      "answer": "OTICO",
+      "row": 9,
+      "col": 3
+    },
+    "31": {
+      "clue": "A sigla do estado que faz divisa com o AC e com RR",
+      "answer": "AM",
+      "row": 9,
+      "col": 9
+    },
+    "32": {
+      "clue": "Opinião infalível, que revela grande autoridade",
+      "answer": "ORACULO",
+      "row": 10,
+      "col": 0
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Banana) Um sorvete feito com essa fruta fatiada",
+      "answer": "SPLIT",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "50%",
+      "answer": "METADE",
+      "row": 0,
+      "col": 4
+    },
+    "3": {
+      "clue": "Que forma um todo junto com outro ou outros",
+      "answer": "UNIDO",
+      "row": 0,
+      "col": 5
+    },
+    "4": {
+      "clue": "Num triângulo retângulo, razão entre o cateto oposto e a hipotenusa",
+      "answer": "SENO",
+      "row": 0,
+      "col": 6
+    },
+    "5": {
+      "clue": "Pronome pessoal feminino singular",
+      "answer": "ELA",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "A última e a penúltima vogais",
+      "answer": "UO",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "De + essa",
+      "answer": "DESSA",
+      "row": 0,
+      "col": 10
+    },
+    "9": {
+      "clue": "Abrir os fechos de uma camisa",
+      "answer": "DESABOTOAR",
+      "row": 1,
+      "col": 1
+    },
+    "10": {
+      "clue": "Um método de fisioterapia e condicionamento físico",
+      "answer": "PILATES",
+      "row": 1,
+      "col": 3
+    },
+    "11": {
+      "clue": "A de Copacabana fica no Rio de Janeiro",
+      "answer": "PRAIA",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "O oficial cel",
+      "answer": "CORONEL",
+      "row": 2,
+      "col": 2
+    },
+    "16": {
+      "clue": "Atraso, espera",
+      "answer": "DEMORA",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Divisão da casa",
+      "answer": "COMODO",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Eestilo artístico que predominou na Europa ao final da Idade Média",
+      "answer": "GOTICO",
+      "row": 5,
+      "col": 6
+    },
+    "21": {
+      "clue": "De Bilbao, região europeia",
+      "answer": "BASCO",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "Lugar de criação de galgos, terriers e pointers",
+      "answer": "CANIL",
+      "row": 6,
+      "col": 5
+    },
+    "23": {
+      "clue": "Uma obra em versos",
+      "answer": "POEMA",
+      "row": 6,
+      "col": 10
+    },
+    "25": {
+      "clue": "Feijão com farinha",
+      "answer": "TUTU",
+      "row": 7,
+      "col": 4
+    },
+    "26": {
+      "clue": "Uma das duas partes de uma viagem",
+      "answer": "IDA",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "(Rád.) Ondas Curtas",
+      "answer": "OC",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

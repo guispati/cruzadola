@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Tubo cilíndrico e oco",
+      "answer": "CANUDO",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "A marca italiana de automóveis Romeo",
+      "answer": "ALFA",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Doença das glândulas linfáticas",
+      "answer": "ADENOPATIA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "O assento da moto",
+      "answer": "SELIM",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Que não é límpida ou transparente",
+      "answer": "TURVA",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "(Pop.) Qualquer perturbação súbita da saúde",
+      "answer": "TRECO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "As hastes que reforçam a roda da bicicleta",
+      "answer": "RAIOS",
+      "row": 3,
+      "col": 6
+    },
+    "17": {
+      "clue": "A consequência de uma boa piada",
+      "answer": "RISO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "O principal rio da África",
+      "answer": "NILO",
+      "row": 4,
+      "col": 5
+    },
+    "19": {
+      "clue": "Elemento fundamental à respiração",
+      "answer": "AR",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Viagem em avião",
+      "answer": "VOO",
+      "row": 5,
+      "col": 4
+    },
+    "21": {
+      "clue": "O símbolo químico do cobre",
+      "answer": "CU",
+      "row": 5,
+      "col": 9
+    },
+    "22": {
+      "clue": "Ramo subterrâneo de uma planta",
+      "answer": "RAIZ",
+      "row": 6,
+      "col": 2
+    },
+    "24": {
+      "clue": "Depressão entre montanhas",
+      "answer": "VALE",
+      "row": 6,
+      "col": 7
+    },
+    "26": {
+      "clue": "Falecimento",
+      "answer": "OBITO",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Fazer perder a vista",
+      "answer": "CEGAR",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "Produto para reposição",
+      "answer": "REFIL",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Momento breve como a respiração",
+      "answer": "ATIMO",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Eletrodoméstico para limpar louças e talheres",
+      "answer": "LAVAPRATOS",
+      "row": 9,
+      "col": 1
+    },
+    "33": {
+      "clue": "Ao ar livre",
+      "answer": "FORA",
+      "row": 10,
+      "col": 0
+    },
+    "34": {
+      "clue": "Veado brasileiro, o menor de nossa fauna",
+      "answer": "BORORO",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Fig.) Que reprime os desejos de alguém",
+      "answer": "CASTRADOR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Tornar-se seguidor de um movimento",
+      "answer": "ADERIR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Em + eles",
+      "answer": "NELES",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Que só tem um exemplar",
+      "answer": "UNICO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Igreja principal",
+      "answer": "DOMO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Oceano Pacífico",
+      "answer": "OP",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "De hoje",
+      "answer": "ATUAL",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Planta também conhecida como lis",
+      "answer": "LIRIO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Conjunto de celas construídas pelas abelhas",
+      "answer": "FAVO",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Espaço que dá acesso ao interior de um edifício",
+      "answer": "ATRIO",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Nojento",
+      "answer": "ASQUEROSO",
+      "row": 2,
+      "col": 10
+    },
+    "18": {
+      "clue": "(-moscada) Condimento",
+      "answer": "NOZ",
+      "row": 4,
+      "col": 5
+    },
+    "20": {
+      "clue": "Outro nome da flor amor-perfeito",
+      "answer": "VIOLA",
+      "row": 5,
+      "col": 4
+    },
+    "21": {
+      "clue": "Queixa proferida em altas vozes",
+      "answer": "CLAMOR",
+      "row": 5,
+      "col": 9
+    },
+    "22": {
+      "clue": "Sortear com bilhetes numerados",
+      "answer": "RIFAR",
+      "row": 6,
+      "col": 2
+    },
+    "23": {
+      "clue": "Em movimento contínuo, dinâmico (fem.)",
+      "answer": "ATIVA",
+      "row": 6,
+      "col": 3
+    },
+    "24": {
+      "clue": "Impedir que se cumpra ou se faça",
+      "answer": "VETAR",
+      "row": 6,
+      "col": 7
+    },
+    "25": {
+      "clue": "(Gír.) Movimento da rua, de uma multidão",
+      "answer": "AGITO",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Um antônimo de feio",
+      "answer": "BELO",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Querido",
+      "answer": "CARO",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "(Fotog.) A abreviatura para fotos em tons de cinza",
+      "answer": "PB",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

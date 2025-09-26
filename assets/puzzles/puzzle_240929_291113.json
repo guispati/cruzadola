@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Outro nome do peixe dundu",
+      "answer": "MANDI",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "O fruto da fava",
+      "answer": "VAGEM",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Bônus",
+      "answer": "ABONO",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Uso excessivo de poderes",
+      "answer": "ABUSO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "As letras que separam o Q e o U",
+      "answer": "RST",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Cão de pelo curto e manchas pretas ou castanhas",
+      "answer": "DALMATA",
+      "row": 2,
+      "col": 4
+    },
+    "16": {
+      "clue": "Interjeição de surpresa",
+      "answer": "UI",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Pedaço de tecido",
+      "answer": "PANO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Vestuário, roupa",
+      "answer": "INDUTO",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Cada uma das lâminas afiadas da guilhotina",
+      "answer": "FACA",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Diz-se do fenômeno que apresentam certos líquidos cuja viscosidade diminui quando são agitados",
+      "answer": "TIXOTROPO",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Cego de um olho",
+      "answer": "DOCA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Contrário à ciência da moral",
+      "answer": "AETICO",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "O oposto de amor",
+      "answer": "ODIO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Hemisfério Sul",
+      "answer": "HS",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "(Fís.) e",
+      "answer": "ELETRON",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "O Jong-un, ditador norte-coreano",
+      "answer": "KIM",
+      "row": 8,
+      "col": 8
+    },
+    "33": {
+      "clue": "Vela triangular de proa de veleiros",
+      "answer": "GENOA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Sovaco",
+      "answer": "AXILA",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "Tentar coisa difícil",
+      "answer": "OUSAR",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Posição do que contorna alguma coisa",
+      "answer": "REDOR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Mosquito de terrenos pantanosos",
+      "answer": "MARUI",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Bebida alcoólica licorosa, amarga",
+      "answer": "ABSINTO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um não inglês",
+      "answer": "NOT",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Defesa Nacional",
+      "answer": "DN",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "(Quím.) O mais comum é o de potássio",
+      "answer": "IODATO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Fosso, trincheira",
+      "answer": "VALO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Associação Brasileira de Municípios",
+      "answer": "ABM",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Outro nome do molusco búzio",
+      "answer": "GUATAPI",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Estônia",
+      "answer": "EST",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Um filme de animação dos estúdios Disney",
+      "answer": "MOANA",
+      "row": 0,
+      "col": 10
+    },
+    "15": {
+      "clue": "Registrado por escrito",
+      "answer": "ANOTADO",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "Uma bala elástica",
+      "answer": "PUXA",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "O Charles (1812-1870) escritor inglês",
+      "answer": "DICKENS",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Elemento de composição: luz",
+      "answer": "FOTO",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Sono de breve duração",
+      "answer": "COCHILO",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Dominar",
+      "answer": "REINAR",
+      "row": 5,
+      "col": 6
+    },
+    "24": {
+      "clue": "O pintor espanhol Velázquez (1599-1660)",
+      "answer": "DIEGO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "O ator Prado",
+      "answer": "OSMAR",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Fazer discurso",
+      "answer": "ORAR",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "(Pop.) Vadiagem",
+      "answer": "LEU",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "Corda estendida de um navio a outro, para reboque",
+      "answer": "TOA",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "O músico Vinil, do sucesso \"Tic Tic Nervoso\"",
+      "answer": "KID",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "(Quím.) Xenônio, gás nobre",
+      "answer": "XE",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

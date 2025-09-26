@@ -1,0 +1,228 @@
+{
+  "across": {
+    "1": {
+      "clue": "O poeta português Garrett (1799-1854)",
+      "answer": "ALMEIDA",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Um curso de água como o Tietê",
+      "answer": "RIO",
+      "row": 1,
+      "col": 0
+    },
+    "9": {
+      "clue": "A cantora Miranda",
+      "answer": "SULA",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Abreviatura de libra",
+      "answer": "LB",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Método de adivinhação por meio do baralho",
+      "answer": "CARTOMANCIA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Passagem estreita e elevada, ao longo de túneis, pontes ou ruas",
+      "answer": "ANDITO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Funcionário que cuida da limpeza das ruas",
+      "answer": "GARI",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Elemento de composição: ar",
+      "answer": "AERO",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "Repouso absoluto",
+      "answer": "RELAX",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "Título que recebiam as filhas de reis e de fidalgos antes de se casarem",
+      "answer": "DONZELA",
+      "row": 5,
+      "col": 2
+    },
+    "21": {
+      "clue": "O objeto usado para corrigir algum defeito da vista",
+      "answer": "OCULO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Bofetada",
+      "answer": "BIFA",
+      "row": 6,
+      "col": 6
+    },
+    "25": {
+      "clue": "Forma feminina de estátua grega, é uma moça coberta com manto",
+      "answer": "CORE",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Um pato amigo do Mickey",
+      "answer": "DONALD",
+      "row": 7,
+      "col": 5
+    },
+    "28": {
+      "clue": "Que irrita",
+      "answer": "EXASPERANTE",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "(Bíbl.) O patriarca da resignação",
+      "answer": "JO",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Lição ministrada pelo professor",
+      "answer": "AULA",
+      "row": 9,
+      "col": 3
+    },
+    "32": {
+      "clue": "A session dos músicos improvisadores do jazz",
+      "answer": "JAM",
+      "row": 9,
+      "col": 8
+    },
+    "33": {
+      "clue": "Cão de três cabeças, da mitologia grega",
+      "answer": "CERBERO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Espécie de mala de madeira",
+      "answer": "ARCA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Cipó",
+      "answer": "LIANA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Vestígio de dentada",
+      "answer": "MORDEDURA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Cada um dos nuclídeos que possuem números atômicos diferentes, mas número idêntico de nêutrons",
+      "answer": "ISOTONO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Árvore de madeira avermelhada e de propriedades medicinais",
+      "answer": "DUMO",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "O Deus único do Islã",
+      "answer": "ALA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O antônimo de acima",
+      "answer": "ABAIXO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "A Jolie atriz de \"Lara Croft\"",
+      "answer": "ANGELINA",
+      "row": 1,
+      "col": 7
+    },
+    "11": {
+      "clue": "Instrumento musical da antiguidade, de cordas",
+      "answer": "LIRA",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "Cabo para deslizar",
+      "answer": "TIROLESA",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Homem ordinário, reles, desprezível",
+      "answer": "CALAFANJE",
+      "row": 2,
+      "col": 8
+    },
+    "18": {
+      "clue": "Fortificar",
+      "answer": "REBORAR",
+      "row": 4,
+      "col": 6
+    },
+    "19": {
+      "clue": "Sinal evidente de sono",
+      "answer": "BOCEJO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Manco",
+      "answer": "COXO",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Mesa onde se celebra a missa",
+      "answer": "ALTAR",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "Daquele homem",
+      "answer": "DELE",
+      "row": 7,
+      "col": 5
+    },
+    "27": {
+      "clue": "Satanás",
+      "answer": "DEMO",
+      "row": 7,
+      "col": 10
+    },
+    "29": {
+      "clue": "Importante universidade brasileira",
+      "answer": "PUC",
+      "row": 8,
+      "col": 4
+    }
+  }
+}

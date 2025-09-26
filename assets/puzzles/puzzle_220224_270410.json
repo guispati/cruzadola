@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Calçado para hóquei no gelo",
+      "answer": "PATIM",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Nação com capital N'Djamena",
+      "answer": "CHADE",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Colega, companheira",
+      "answer": "AMIGA",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "O polegar do pé",
+      "answer": "HALUX",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "O oposto de não",
+      "answer": "SIM",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Cobrir com relva",
+      "answer": "GRAMAR",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Nascido em Estocolmo",
+      "answer": "SUECO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Força vital",
+      "answer": "VIGOR",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "Abrev.: idem",
+      "answer": "ID",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Uma extensão da gola do paletó",
+      "answer": "LAPELA",
+      "row": 4,
+      "col": 3
+    },
+    "22": {
+      "clue": "Interj: de acordo!",
+      "answer": "SEJA",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Conjunto de três músicos",
+      "answer": "TRIO",
+      "row": 5,
+      "col": 7
+    },
+    "26": {
+      "clue": "Ousadia",
+      "answer": "ARROJO",
+      "row": 6,
+      "col": 2
+    },
+    "29": {
+      "clue": "A UF de Mossoró",
+      "answer": "RN",
+      "row": 6,
+      "col": 9
+    },
+    "30": {
+      "clue": "(Casimiro de) Poeta romântico fluminense (1839-1860)",
+      "answer": "ABREU",
+      "row": 7,
+      "col": 0
+    },
+    "32": {
+      "clue": "Em posição intermediária",
+      "answer": "ENTRE",
+      "row": 7,
+      "col": 6
+    },
+    "34": {
+      "clue": "Acréscimo",
+      "answer": "ADIÇÃO",
+      "row": 8,
+      "col": 1
+    },
+    "35": {
+      "clue": "Abreviatura de eletrencefalograma",
+      "answer": "EEG",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "A parte branca do ovo",
+      "answer": "CLARA",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Proibir",
+      "answer": "VETAR",
+      "row": 9,
+      "col": 6
+    },
+    "39": {
+      "clue": "O jornalista Tralli",
+      "answer": "CESAR",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Invocação de ajuda",
+      "answer": "APELO",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Um dançarino da escola-de-samba",
+      "answer": "PASSISTA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Frequentemente",
+      "answer": "AMIUDE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Equipe de futebol, vôlei etc.",
+      "answer": "TIME",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Instituto de Geografia",
+      "answer": "IG",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Dó, lástima",
+      "answer": "MAGOA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Interruptor elétrico",
+      "answer": "CHAVE",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "O Lewis da F1",
+      "answer": "HAMILTON",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Transbordar",
+      "answer": "ALAGAR",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Árduo",
+      "answer": "DURO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Exemplo",
+      "answer": "EX",
+      "row": 0,
+      "col": 10
+    },
+    "16": {
+      "clue": "Área desmatada",
+      "answer": "CLAREIRA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Banha Barcelos e Manaus",
+      "answer": "RIONEGRO",
+      "row": 3,
+      "col": 10
+    },
+    "21": {
+      "clue": "Devoto",
+      "answer": "PIO",
+      "row": 4,
+      "col": 5
+    },
+    "23": {
+      "clue": "Unidade de medida de comprimento de símbolo yd (pl.)",
+      "answer": "JARDAS",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Que não existe",
+      "answer": "IRREAL",
+      "row": 5,
+      "col": 9
+    },
+    "27": {
+      "clue": "Tornar grisalho",
+      "answer": "RUÇAR",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "No Antigo Testamento, denominação de Deus",
+      "answer": "JEOVA",
+      "row": 6,
+      "col": 6
+    },
+    "31": {
+      "clue": "Dança coreográfica",
+      "answer": "BALE",
+      "row": 7,
+      "col": 1
+    },
+    "33": {
+      "clue": "Um apelido para Teresa",
+      "answer": "TETE",
+      "row": 7,
+      "col": 8
+    },
+    "36": {
+      "clue": "(Mec.) Abreviatura de cilindradas",
+      "answer": "CC",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "Elvis Presley (1935-1977), músico e ator",
+      "answer": "EP",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

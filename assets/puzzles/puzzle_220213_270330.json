@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Grande planície da América do Sul",
+      "answer": "PAMPA",
+      "row": 0,
+      "col": 1
+    },
+    "5": {
+      "clue": "Pedacinho de vidro quebrado",
+      "answer": "CACO",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Uma formação de fungos",
+      "answer": "BOLOR",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "(model) Uma manequim da alta moda",
+      "answer": "TOP",
+      "row": 1,
+      "col": 8
+    },
+    "11": {
+      "clue": "A da Tijuca é uma grande escola de samba carioca",
+      "answer": "UNIDOS",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Aparência, jeitão",
+      "answer": "CARA",
+      "row": 2,
+      "col": 7
+    },
+    "14": {
+      "clue": "Abreviatura de ponto entre o Norte e o Leste",
+      "answer": "NE",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "Prevenido",
+      "answer": "AVISADO",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Jogo (ferramentas, material escolar etc.)",
+      "answer": "KIT",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Realizar",
+      "answer": "EFETUAR",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Renunciar à soberania",
+      "answer": "ABDICAR",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "Rabo de papagaio feito de papel",
+      "answer": "RABIOLA",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Gênero musical baiano, de ritmo enérgico",
+      "answer": "AXE",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "O grito áspero e sonoro característico do elefante",
+      "answer": "BARRIDO",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "Abreviatura de eletrodinâmico",
+      "answer": "ED",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "(Pop.) Chatice",
+      "answer": "SACO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Axila",
+      "answer": "SOVACO",
+      "row": 8,
+      "col": 5
+    },
+    "33": {
+      "clue": "Nos estádios, manifestação em movimento de onda",
+      "answer": "OLA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Implorar a alguém",
+      "answer": "ROGAR",
+      "row": 9,
+      "col": 6
+    },
+    "35": {
+      "clue": "Pode ser de cenoura com cobertura de chocolate",
+      "answer": "BOLO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Depositar um valor em jogo ou aposta",
+      "answer": "CASAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Pequeno cavalo de pelo longo",
+      "answer": "PONEI",
+      "row": 0,
+      "col": 1
+    },
+    "2": {
+      "clue": "Lá",
+      "answer": "ALI",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "O gosto do momento (no vestuário, música etc.)",
+      "answer": "MODA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Um dirigente de instituições de assistência",
+      "answer": "PROVEDOR",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Tira de gaze para curativos",
+      "answer": "ATADURA",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Grinalda fúnebre",
+      "answer": "COROA",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Interjeição que designa espanto",
+      "answer": "OPA",
+      "row": 0,
+      "col": 10
+    },
+    "9": {
+      "clue": "Abrigo muito protegido",
+      "answer": "BUNKER",
+      "row": 1,
+      "col": 0
+    },
+    "12": {
+      "clue": "Uma doença infecciosa grave",
+      "answer": "SIFILIS",
+      "row": 2,
+      "col": 5
+    },
+    "13": {
+      "clue": "Escolha do café",
+      "answer": "CATA",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Máquina usada para enxugar roupas",
+      "answer": "SECADORA",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "A plantação do fumicultor",
+      "answer": "TABACAL",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Um mamífero como o camundongo e a capivara",
+      "answer": "ROEDOR",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Escrivaninha com gavetas",
+      "answer": "BIRO",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Tremor (de terra)",
+      "answer": "ABALO",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "Dar mate ao rei no xadrez",
+      "answer": "XECAR",
+      "row": 6,
+      "col": 9
+    },
+    "28": {
+      "clue": "Podem ser fritos ou poché",
+      "answer": "OVOS",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Debaixo de",
+      "answer": "SOB",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "O complemento de \"dois ó\" para formar a molécula da água",
+      "answer": "AGA",
+      "row": 8,
+      "col": 8
+    }
+  }
+}

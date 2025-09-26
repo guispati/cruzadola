@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "A abertura da trompa por onde se sopra para produzir o som",
+      "answer": "BOCAL",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Peça como um molar ou um incisivo",
+      "answer": "DENTE",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Diz-se de aprovação sem votos contrários",
+      "answer": "UNANIME",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Igreja Católica",
+      "answer": "IC",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Abstenção em massa do trabalho",
+      "answer": "GREVE",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "As iniciais do músico de jazz Davis (1926-1991)",
+      "answer": "MD",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "(Pop.) Cafona, brega",
+      "answer": "JACU",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Estar pendurado",
+      "answer": "PENDER",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Abrev.: o mês 4",
+      "answer": "ABR",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Ato de dar as cartas num jogo",
+      "answer": "CARTEIO",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Amontoado",
+      "answer": "REBALSADO",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "O cantor mineiro Agnaldo",
+      "answer": "TIMOTEO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "F",
+      "answer": "EFE",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "A capital do país com a ilha de Mykonos",
+      "answer": "ATENAS",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Pequeno periquito",
+      "answer": "TUIM",
+      "row": 7,
+      "col": 7
+    },
+    "28": {
+      "clue": "(Mús.) A",
+      "answer": "LA",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Período",
+      "answer": "FRASE",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "Olá",
+      "answer": "OI",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "De pelos longos, duros e espessos",
+      "answer": "HIRSUTO",
+      "row": 9,
+      "col": 2
+    },
+    "34": {
+      "clue": "Excelente, magnífico",
+      "answer": "OTIMO",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "A Faria atriz de TV",
+      "answer": "BETTY",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(-flor) Outro nome da ave colibri",
+      "answer": "BEIJA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Cobre, elemento químico",
+      "answer": "CU",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "(Pop.) Confusão, rolo",
+      "answer": "ANGU",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "O lugar de paz e de afetos familiares",
+      "answer": "LAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Diferente",
+      "answer": "DIVERSO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Apontamento para lembrança",
+      "answer": "EMENTA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "A posição geográfica oposta ao SO",
+      "answer": "NE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Um condimento",
+      "answer": "ENDRO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "As mulheres nascidas em Katmandu",
+      "answer": "NEPALESAS",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Outro nome da arma catapulta",
+      "answer": "CABRITA",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Uma parte da calçada",
+      "answer": "MEIOFIO",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Licor espesso",
+      "answer": "CREME",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "(Pra) Muito",
+      "answer": "DEDEU",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Secreção de mucosa inflamada",
+      "answer": "CATARRO",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "(Nosso Senhor do) Famosa igreja baiana",
+      "answer": "BONFIM",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Corte",
+      "answer": "TALHO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "A Brontë (1818-1848) escritora britânica de \"O Morro dos Ventos Uivantes\"",
+      "answer": "EMILY",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "A cantora Espíndola",
+      "answer": "TETE",
+      "row": 7,
+      "col": 7
+    },
+    "30": {
+      "clue": "Prefixo de inferioridade",
+      "answer": "SUB",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Oi, em Seattle",
+      "answer": "HI",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "(Rád.) Ondas Tropicais",
+      "answer": "OT",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

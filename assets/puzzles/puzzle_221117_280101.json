@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "O quadrado possui quatro",
+      "answer": "LADOS",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Tradicional marca de produtos frigoríficos",
+      "answer": "SADIA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Passado",
+      "answer": "IDO",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "(Pop.) Comprometido (noivo ou casado)",
+      "answer": "PRESO",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Serviço Brasileiro de Apoio às Micro e Pequenas Empresas",
+      "answer": "SEBRAE",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "No basquete, bloqueio no arremesso de bola do adversário",
+      "answer": "TOCO",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Uma riqueza da África do Sul",
+      "answer": "OURO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Perder (a planta) o seu viço",
+      "answer": "MIRRAR",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Diz-se do terreno em que foi espalhado o grão para germinar",
+      "answer": "SEMEADO",
+      "row": 4,
+      "col": 1
+    },
+    "21": {
+      "clue": "Jorge Amado (1912-2001), escritor baiano",
+      "answer": "JA",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "Figura",
+      "answer": "ESTAMPA",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Chuva violenta e súbita",
+      "answer": "PANCADA",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Marlene Dietrich, atriz alemã",
+      "answer": "MD",
+      "row": 6,
+      "col": 9
+    },
+    "27": {
+      "clue": "Um trabalhador da limpeza urbana",
+      "answer": "GARI",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Morder",
+      "answer": "DENTAR",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "(Fig.) Pronto para enfrentar uma luta",
+      "answer": "ARMADO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Grupo musical somente de canto",
+      "answer": "CORO",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Uma filha da avó",
+      "answer": "TIA",
+      "row": 9,
+      "col": 0
+    },
+    "34": {
+      "clue": "Insídia armada com malícia",
+      "answer": "ARDIL",
+      "row": 9,
+      "col": 4
+    },
+    "36": {
+      "clue": "A cidade italiana de um famoso são Francisco",
+      "answer": "ASSIS",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "O fundador do Islamismo",
+      "answer": "MAOME",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Que não tem asperezas",
+      "answer": "LISO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Palavra, gesto, sinal de despedida",
+      "answer": "ADEUS",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Toque especial do sino empregado em certos atos litúrgicos",
+      "answer": "DOBRE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(-Francorchamps) Circuito belga de corridas",
+      "answer": "SPA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Uma vez que",
+      "answer": "SE",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Suposta arte de fazer adivinhações através dos astros",
+      "answer": "ASTROMANCIA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Porta, em inglês",
+      "answer": "DOOR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Já",
+      "answer": "AGORA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Aquele que põe fim a",
+      "answer": "REMATADOR",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "A Dácia atual, país europeu",
+      "answer": "ROMENIA",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "Cidade paulista, próxima à capital",
+      "answer": "CAJAMAR",
+      "row": 2,
+      "col": 9
+    },
+    "18": {
+      "clue": "Período marcado por um grau de evolução",
+      "answer": "IDADE",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "Uma tecla do PC",
+      "answer": "ESC",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "A capital com o Arco do Triunfo",
+      "answer": "PARIS",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "Insígnias de brasão",
+      "answer": "ARMAS",
+      "row": 6,
+      "col": 2
+    },
+    "26": {
+      "clue": "Tipo de aeronave não pilotada controlada à distância",
+      "answer": "DRONE",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "Felina",
+      "answer": "GATA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Abestalhado, otário",
+      "answer": "TOLO",
+      "row": 7,
+      "col": 8
+    },
+    "31": {
+      "clue": "Documento de Arrecadação do Simples",
+      "answer": "DAS",
+      "row": 8,
+      "col": 4
+    },
+    "35": {
+      "clue": "Demi Moore, atriz estadunidense",
+      "answer": "DM",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

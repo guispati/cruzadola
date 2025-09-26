@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Muito grande, enorme (fem.)",
+      "answer": "IMENSA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Milton Nascimento, músico de \"Travessia\"",
+      "answer": "MN",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Misturada com água",
+      "answer": "DILUIDA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Um estilo de luta muito violenta",
+      "answer": "MMA",
+      "row": 1,
+      "col": 8
+    },
+    "12": {
+      "clue": "Interjeição que expressa admiração, espanto",
+      "answer": "XI",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "Caverna natural ou artificial",
+      "answer": "GRUTA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "O ato de compor sequências sonoras harmônicas",
+      "answer": "MELODISMO",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Sigla da mais importante federação de futebol",
+      "answer": "FIFA",
+      "row": 4,
+      "col": 1
+    },
+    "19": {
+      "clue": "(Red.) Um time de futebol do RS",
+      "answer": "INTER",
+      "row": 4,
+      "col": 6
+    },
+    "20": {
+      "clue": "Sólido geométrico com vértice",
+      "answer": "CONE",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "(Pop.) Aguardente de cana, cachaça",
+      "answer": "GORO",
+      "row": 5,
+      "col": 7
+    },
+    "22": {
+      "clue": "(Ingl.) Correio eletrônico",
+      "answer": "EMAIL",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Erudito, instruído",
+      "answer": "LIDO",
+      "row": 6,
+      "col": 6
+    },
+    "25": {
+      "clue": "Que tem dentes",
+      "answer": "DENTIGERO",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "(de Aquino) Um santo católico",
+      "answer": "TOMAS",
+      "row": 8,
+      "col": 2
+    },
+    "28": {
+      "clue": "New Jersey",
+      "answer": "NJ",
+      "row": 8,
+      "col": 8
+    },
+    "30": {
+      "clue": "O cineasta Spike, de \"Malcom X\"",
+      "answer": "LEE",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Encaixar, ajustar",
+      "answer": "ADAPTAR",
+      "row": 9,
+      "col": 4
+    },
+    "35": {
+      "clue": "A primeira e a última letra",
+      "answer": "AZ",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Disposições dadas por superior",
+      "answer": "ORDENS",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Abreviatura de idem",
+      "answer": "ID",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Mistura de produtos, ideias etc.",
+      "answer": "MIX",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Que exclui da competição",
+      "answer": "ELIMINANTE",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Sem ornatos",
+      "answer": "NU",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A do Rio Grande do Norte é RN",
+      "answer": "SIGLA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Terreno em frente ou em volta da igreja",
+      "answer": "ADRO",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Abreviatura de milímetro",
+      "answer": "MM",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "A fase que precede o noivado",
+      "answer": "NAMORO",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Marca alemã de carros",
+      "answer": "AUDI",
+      "row": 1,
+      "col": 6
+    },
+    "11": {
+      "clue": "Gigantesco elefante pré-histórico",
+      "answer": "MASTODONTE",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "Pintar",
+      "answer": "TINGIR",
+      "row": 2,
+      "col": 7
+    },
+    "16": {
+      "clue": "Resultado",
+      "answer": "EFEITO",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Peixe marinho de até 3 m de comprimento",
+      "answer": "MERO",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Subnutrição",
+      "answer": "FOME",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Papel-moeda",
+      "answer": "CEDULA",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "A capital de um país banhado pelo Pacífico e cortado pelos Andes",
+      "answer": "LIMA",
+      "row": 6,
+      "col": 4
+    },
+    "24": {
+      "clue": "Ferir",
+      "answer": "LESAR",
+      "row": 6,
+      "col": 6
+    },
+    "26": {
+      "clue": "Conjunto de bois",
+      "answer": "GADO",
+      "row": 7,
+      "col": 5
+    },
+    "29": {
+      "clue": "Segue Dez e precede Fev",
+      "answer": "JAN",
+      "row": 8,
+      "col": 9
+    },
+    "31": {
+      "clue": "Émile Zola (1840-1902), escritor francês",
+      "answer": "EZ",
+      "row": 9,
+      "col": 1
+    },
+    "33": {
+      "clue": "O símbolo químico do paládio",
+      "answer": "PD",
+      "row": 9,
+      "col": 7
+    },
+    "34": {
+      "clue": "Sigla do estado de Canoas e Ijuí",
+      "answer": "RS",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Charme",
+      "answer": "IT",
+      "row": 0,
+      "col": 0
+    },
+    "3": {
+      "clue": "Lugar onde se criam os felinos mais comuns",
+      "answer": "GATIL",
+      "row": 0,
+      "col": 5
+    },
+    "8": {
+      "clue": "Uma abreviatura do nome do mês 11",
+      "answer": "NOV",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Cantiga popular",
+      "answer": "MODINHA",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Embarcação a vela feita com três cascos esguios, paralelos",
+      "answer": "TRIMARÃ",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Trazer consigo",
+      "answer": "TER",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Colocar fio na raquete de tênis",
+      "answer": "ENCORDOAR",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Apuração de valor das apostas",
+      "answer": "RATEIO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Bar, botequim",
+      "answer": "CAFE",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Flor da água",
+      "answer": "TONA",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "O beliche possui duas",
+      "answer": "CAMAS",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "A empresa que fabrica o Ecosport",
+      "answer": "FORD",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "A capital do Afeganistão",
+      "answer": "CABUL",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "(Quím.) Irídio",
+      "answer": "IR",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Ruborizar",
+      "answer": "ANACARAR",
+      "row": 7,
+      "col": 3
+    },
+    "28": {
+      "clue": "(Matem.) O símbolo de secante",
+      "answer": "SEC",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "Grupo de versos de uma poesia",
+      "answer": "ESTROFE",
+      "row": 8,
+      "col": 4
+    },
+    "31": {
+      "clue": "Mecha de vela",
+      "answer": "PAVIO",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Segunda-feira",
+      "answer": "SEG",
+      "row": 9,
+      "col": 8
+    },
+    "34": {
+      "clue": "Ponta aguçada",
+      "answer": "ACULEO",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Naquele lugar",
+      "answer": "LA",
+      "row": 10,
+      "col": 9
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Red.) Um time de futebol do RS",
+      "answer": "INTER",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O cineasta italiano Giuseppe, de \"Cinema Paradiso\"",
+      "answer": "TORNATORE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "O parceiro do Magro na dupla cômica",
+      "answer": "GORDO",
+      "row": 0,
+      "col": 5
+    },
+    "4": {
+      "clue": "(Bíbli.) Personagem que foi o primeiro homem",
+      "answer": "ADÃO",
+      "row": 0,
+      "col": 6
+    },
+    "5": {
+      "clue": "Uma forma do pronome tu",
+      "answer": "TI",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "Dentro do recinto de uma cidade",
+      "answer": "INTRAMUROS",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "A ele ou a ela",
+      "answer": "LHE",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "O Hugo (1802-1885), autor de \"Os Miseráveis\"",
+      "answer": "VICTOR",
+      "row": 1,
+      "col": 2
+    },
+    "10": {
+      "clue": "A atriz Fernanda Cândido",
+      "answer": "MARIA",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "O signo que vai de 21.03 a 20.04",
+      "answer": "ARIES",
+      "row": 1,
+      "col": 10
+    },
+    "13": {
+      "clue": "Máquina de moer ou triturar",
+      "answer": "MOENDA",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Fazer chegar ou chegar ao fim",
+      "answer": "ACABAR",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Bolinho frito, de grão-de-bico moído, típico da cozinha do Oriente Médio",
+      "answer": "FALAFEL",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "Uma planta espinhosa",
+      "answer": "CACTO",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Arpão de pesca",
+      "answer": "FISGA",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Marca japonesa de produtos eletrônicos",
+      "answer": "CASIO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "(em) Diz-se de clara de ovo que se bateu até virar espuma",
+      "answer": "NEVE",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "(Pop.) Chuva",
+      "answer": "REGA",
+      "row": 7,
+      "col": 10
+    },
+    "29": {
+      "clue": "(Inform.) Abreviatura inglesa de Unidade Central de Processamento",
+      "answer": "CPU",
+      "row": 8,
+      "col": 2
+    },
+    "32": {
+      "clue": "Alameda",
+      "answer": "AL",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

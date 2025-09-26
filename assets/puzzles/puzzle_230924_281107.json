@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Famosa obra de Michelangelo",
+      "answer": "DAVID",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Matem.) Usar o +",
+      "answer": "SOMAR",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "No meio",
+      "answer": "ENTRE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Despacho",
+      "answer": "EBO",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Sérgio Groisman, jornalista e apresentador",
+      "answer": "SG",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Dotado para o voo",
+      "answer": "ALADO",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "O símbolo químico do rutherfórdio",
+      "answer": "RF",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Grande povo indígena sul-americano",
+      "answer": "TUPI",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "O óleo para transporte pesado",
+      "answer": "DIESEL",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "Um estado dos EUA",
+      "answer": "ALABAMA",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "(Esp.) Saque indefensável",
+      "answer": "ACE",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Tratado com carinho",
+      "answer": "ACARIDADO",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Abrev.: Brasil",
+      "answer": "BRA",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Arbusto da mesma família do cafeeiro",
+      "answer": "ARARINA",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "Haxixe",
+      "answer": "RIAMBA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Culto semelhante à macumba",
+      "answer": "VODU",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Eu, em italiano",
+      "answer": "IO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "De ouro",
+      "answer": "AUREO",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Ivan Lendl, ex-tenista checo",
+      "answer": "IL",
+      "row": 8,
+      "col": 9
+    },
+    "35": {
+      "clue": "Normas que regem o trabalho",
+      "answer": "CLT",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Mulher de raça negra",
+      "answer": "PRETA",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "Peça íntima feminina",
+      "answer": "SUTIÃ",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Exceto, afora",
+      "answer": "MENOS",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "De + esta",
+      "answer": "DESTA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Um instrumento da geometria",
+      "answer": "ANGULARIO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Abrev.: videoteipe",
+      "answer": "VT",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Espécie de palmeira",
+      "answer": "IRAIBA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "São João (?)-Rei, cidade de Minas Gerais",
+      "answer": "DEL",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Situada",
+      "answer": "SEDIADA",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Instrumento musical",
+      "answer": "OBOE",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Transforma marta em marmota",
+      "answer": "MO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Carabina de cano longo",
+      "answer": "RIFLE",
+      "row": 0,
+      "col": 10
+    },
+    "14": {
+      "clue": "Observar com prazer",
+      "answer": "ADMIRAR",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Escondido",
+      "answer": "RECONDITO",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "Indígena do MT",
+      "answer": "PACAA",
+      "row": 3,
+      "col": 2
+    },
+    "19": {
+      "clue": "Que tem boa saúde",
+      "answer": "SADIO",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Outro nome do pau-brasil",
+      "answer": "ARABUTÃ",
+      "row": 4,
+      "col": 4
+    },
+    "24": {
+      "clue": "A genealógica é o gráfico dos antepassados de uma pessoa",
+      "answer": "ARVORE",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "Amor-próprio",
+      "answer": "BRIOS",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Lições dadas em escolas, faculdades etc.",
+      "answer": "AULAS",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "República africana cuja capital é Bamaco",
+      "answer": "MALI",
+      "row": 7,
+      "col": 3
+    },
+    "33": {
+      "clue": "Escola Paulista de Medicina",
+      "answer": "EPM",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Christiane Torloni, atriz paulistana",
+      "answer": "CT",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "Executivo Nacional",
+      "answer": "EN",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

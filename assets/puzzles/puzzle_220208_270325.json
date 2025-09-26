@@ -1,0 +1,264 @@
+{
+  "across": {
+    "1": {
+      "clue": "Tempo quente",
+      "answer": "CALOR",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Quantia, dinheiro",
+      "answer": "VERBA",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Saliência de telhado",
+      "answer": "ABA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "O ponto mais afastado da órbita",
+      "answer": "APOGEU",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Sonho angustiante",
+      "answer": "PESADELO",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Fernando Pessoa (1888-1935), poeta português",
+      "answer": "FP",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Terminação dos álcoois",
+      "answer": "OL",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "A atriz e apresentadora Regina",
+      "answer": "CASE",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Casa",
+      "answer": "LAR",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Cada parágrafo que divide um texto sagrado",
+      "answer": "VERSICULO",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "Animais como o condor e o corrupião",
+      "answer": "AVES",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Os óvulos fecundados de um peixe",
+      "answer": "OVAS",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "Um grande sucesso da música sertaneja",
+      "answer": "GALOPEIRA",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Pronome pessoal feminino singular",
+      "answer": "ELA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Em que lugar?",
+      "answer": "ONDE",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Separa o ó e o quê",
+      "answer": "PE",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "(Mús.) A 3ª nota",
+      "answer": "MI",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Uma tarefa do açougueiro",
+      "answer": "DESOSSAR",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Raça de gatos de pelo curto e olhos azuis",
+      "answer": "SIAMES",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "A cristã começa com o nascimento de Cristo",
+      "answer": "ERA",
+      "row": 9,
+      "col": 8
+    },
+    "36": {
+      "clue": "Ansiosa, preocupada",
+      "answer": "TENSA",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "Instalar (uma tenda, barraca etc.)",
+      "answer": "ARMAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ato de tombar, virando sobre si mesmo (barco, carro etc.)",
+      "answer": "CAPOTAGEM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O técnico de futebol Braga",
+      "answer": "ABEL",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Precede Vegas no nome da cidade dos EUA",
+      "answer": "LAS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Equipamento usado para localização e determinação de distância de um objeto afastado",
+      "answer": "RADAR",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "O esporte de Serginho e Ana Moser",
+      "answer": "VOLEI",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "(Psican.) O eu",
+      "answer": "EGO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "A marcha que leva os carros para trás",
+      "answer": "RE",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "A fêmea de um grande bovídeo",
+      "answer": "BUFALA",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Da capital da PB",
+      "answer": "PESSOENSE",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Que arde produzindo chama",
+      "answer": "ACESO",
+      "row": 2,
+      "col": 3
+    },
+    "15": {
+      "clue": "(Fig.) Ir de vento em popa",
+      "answer": "PROSPERAR",
+      "row": 2,
+      "col": 10
+    },
+    "18": {
+      "clue": "Um material de trabalho do goleiro",
+      "answer": "LUVA",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "O objeto que se apoia num castiçal",
+      "answer": "VELA",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "São quatro na impressão de policromias",
+      "answer": "CORES",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Maleta",
+      "answer": "VALISE",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Obra em versos",
+      "answer": "POEMA",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Velhinha",
+      "answer": "IDOSA",
+      "row": 6,
+      "col": 6
+    },
+    "29": {
+      "clue": "Preposição que indica direção",
+      "answer": "PARA",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Documento de Arrecadação do Simples",
+      "answer": "DAS",
+      "row": 8,
+      "col": 3
+    },
+    "32": {
+      "clue": "Prep.: falta",
+      "answer": "SEM",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "(Ingl.) Na moda",
+      "answer": "IN",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

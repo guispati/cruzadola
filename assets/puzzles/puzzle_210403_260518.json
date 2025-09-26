@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Qualquer orifício por onde escorre um líquido",
+      "answer": "BICA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Prestígio, sucesso",
+      "answer": "FAMA",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Período marcado por um grau de evolução",
+      "answer": "IDADE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Revolver o subsolo",
+      "answer": "CAVAR",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "(Pop.) Fracasso, malogro",
+      "answer": "BELELEU",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "N",
+      "answer": "ENE",
+      "row": 2,
+      "col": 8
+    },
+    "15": {
+      "clue": "Um quinto de X",
+      "answer": "II",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Banco de areia em alto-mar",
+      "answer": "RESTINGA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "Mesmo",
+      "answer": "ATE",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "(Pop.) Aparência, fisionomia",
+      "answer": "PINTA",
+      "row": 4,
+      "col": 5
+    },
+    "21": {
+      "clue": "Declive de montanha",
+      "answer": "ENCOSTA",
+      "row": 5,
+      "col": 2
+    },
+    "23": {
+      "clue": "(Pop.) Fumar",
+      "answer": "PITAR",
+      "row": 6,
+      "col": 1
+    },
+    "24": {
+      "clue": "A sigla da doença Esclerose Lateral Amiotrófica",
+      "answer": "ELA",
+      "row": 6,
+      "col": 7
+    },
+    "26": {
+      "clue": "Tornar mais forte e sólido um vínculo",
+      "answer": "CIMENTAR",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Carlos Chagas, cientista",
+      "answer": "CC",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Acontecimento com caráter formal",
+      "answer": "ATO",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "(Gír.) O aparelho de televisão",
+      "answer": "TELINHA",
+      "row": 8,
+      "col": 4
+    },
+    "33": {
+      "clue": "O universo",
+      "answer": "COSMO",
+      "row": 9,
+      "col": 0
+    },
+    "35": {
+      "clue": "Completas, inteiras",
+      "answer": "TODAS",
+      "row": 9,
+      "col": 6
+    },
+    "36": {
+      "clue": "São 100 no século",
+      "answer": "ANOS",
+      "row": 10,
+      "col": 0
+    },
+    "37": {
+      "clue": "O contrário de frequente",
+      "answer": "RARO",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Som de buzina",
+      "answer": "BIBI",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Assunto principal de uma obra",
+      "answer": "IDEIA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Substância muito consumida na indústria de construção e química",
+      "answer": "CAL",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Que gruda, cola",
+      "answer": "ADERENTE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "A quarta nota musical",
+      "answer": "FA",
+      "row": 0,
+      "col": 7
+    },
+    "6": {
+      "clue": "Vestimenta usada sobre a roupa para protegê-la",
+      "answer": "AVENTAL",
+      "row": 0,
+      "col": 8
+    },
+    "7": {
+      "clue": "Fruto amarelo, comestível, de grande caroço único",
+      "answer": "MANGA",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Pode ser calculada em m², ha, cm² etc.",
+      "answer": "AREA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "L",
+      "answer": "ELE",
+      "row": 1,
+      "col": 4
+    },
+    "11": {
+      "clue": "Pele",
+      "answer": "CUTIS",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Atividade como o atletismo ou o handebol",
+      "answer": "ESPORTE",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "A parte interna de um país, em oposição à costa",
+      "answer": "INTERIOR",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "(Pop.) Cabeça-dura",
+      "answer": "TEIMOSO",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Qualquer lugar",
+      "answer": "CANTO",
+      "row": 5,
+      "col": 4
+    },
+    "23": {
+      "clue": "Grande serpente, com até 8,5 m de comprimento",
+      "answer": "PITON",
+      "row": 6,
+      "col": 1
+    },
+    "25": {
+      "clue": "Encontrar coisa perdida",
+      "answer": "ACHAR",
+      "row": 6,
+      "col": 9
+    },
+    "26": {
+      "clue": "(Pop.) Coisa malfeita",
+      "answer": "CACA",
+      "row": 7,
+      "col": 0
+    },
+    "27": {
+      "clue": "Tecla muito utilizada pelos usuários de computadores",
+      "answer": "ALT",
+      "row": 7,
+      "col": 6
+    },
+    "29": {
+      "clue": "Relação amorosa, especialmente a clandestina",
+      "answer": "CASO",
+      "row": 7,
+      "col": 10
+    },
+    "32": {
+      "clue": "Opção em prova",
+      "answer": "NDA",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Sigla do estado de Ponta Porã",
+      "answer": "MS",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

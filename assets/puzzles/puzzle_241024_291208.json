@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Situação, condição",
+      "answer": "ESTADO",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Um mito do nosso folclore",
+      "answer": "SACI",
+      "row": 0,
+      "col": 7
+    },
+    "11": {
+      "clue": "Um alcaloide usado como analgésico e narcótico",
+      "answer": "MORFINA",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "(Lock) Tecla do PC",
+      "answer": "NUM",
+      "row": 1,
+      "col": 8
+    },
+    "14": {
+      "clue": "As bodas que comemoram 25 anos de casamento",
+      "answer": "PRATA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "A capital do Irã",
+      "answer": "TEERÃ",
+      "row": 2,
+      "col": 6
+    },
+    "17": {
+      "clue": "Vertente de telhado",
+      "answer": "AGUA",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "A atriz Campos",
+      "answer": "BELLA",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "Nuança",
+      "answer": "TOM",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Árbitro de uma partida de futebol",
+      "answer": "JUIZ",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "União Europeia",
+      "answer": "UE",
+      "row": 4,
+      "col": 9
+    },
+    "23": {
+      "clue": "Estimular, fazer crescer",
+      "answer": "ACIRRAR",
+      "row": 5,
+      "col": 2
+    },
+    "26": {
+      "clue": "Roberto Carlos, cantor de \"Detalhes\"",
+      "answer": "RC",
+      "row": 6,
+      "col": 0
+    },
+    "28": {
+      "clue": "A parte do corpo que dói na isquialgia",
+      "answer": "ANCA",
+      "row": 6,
+      "col": 3
+    },
+    "29": {
+      "clue": "Observação",
+      "answer": "OBS",
+      "row": 6,
+      "col": 8
+    },
+    "31": {
+      "clue": "Briga de namorados",
+      "answer": "RUSGA",
+      "row": 7,
+      "col": 1
+    },
+    "33": {
+      "clue": "Horrorosa",
+      "answer": "FEIA",
+      "row": 7,
+      "col": 7
+    },
+    "34": {
+      "clue": "(Mús.) Um sinal para alteração do tom de uma nota",
+      "answer": "BEMOL",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "Cidade da Espanha",
+      "answer": "MADRI",
+      "row": 8,
+      "col": 6
+    },
+    "36": {
+      "clue": "Oi!",
+      "answer": "OPA",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Casa publicadora de livros e revistas",
+      "answer": "EDITORA",
+      "row": 9,
+      "col": 4
+    },
+    "39": {
+      "clue": "Unidade monetária e moeda do Uruguai",
+      "answer": "PESO",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Purificar a água com Cl",
+      "answer": "CLORAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Nem vencer nem perder",
+      "answer": "EMPATAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Gramínea usada como forragem",
+      "answer": "SORGO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Forte abalo moral",
+      "answer": "TRAUMA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Sapinho",
+      "answer": "AFTA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Período de tempo de 24 horas",
+      "answer": "DIA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Ingl.) O oposto de off",
+      "answer": "ON",
+      "row": 0,
+      "col": 5
+    },
+    "8": {
+      "clue": "Objeto de adorno usado nos dedos",
+      "answer": "ANEL",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Papa cremosa de milho verde ralado e cozido com leite e açúcar",
+      "answer": "CURAU",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "(Fig.) Coisa atraente",
+      "answer": "IMÃ",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Árvore de frutos saborosos",
+      "answer": "ATEIRA",
+      "row": 1,
+      "col": 6
+    },
+    "16": {
+      "clue": "A Soares de \"Do Cóccix Até o Pescoço\"",
+      "answer": "ELZA",
+      "row": 2,
+      "col": 7
+    },
+    "18": {
+      "clue": "A tradicional veste da mulher afegã",
+      "answer": "BURCA",
+      "row": 3,
+      "col": 5
+    },
+    "20": {
+      "clue": "(Ingl.) Anúncio musicado em rádio ou televisão",
+      "answer": "JINGLE",
+      "row": 4,
+      "col": 4
+    },
+    "22": {
+      "clue": "Treinar",
+      "answer": "ENSAIAR",
+      "row": 4,
+      "col": 10
+    },
+    "24": {
+      "clue": "Hipótese",
+      "answer": "CASO",
+      "row": 5,
+      "col": 3
+    },
+    "25": {
+      "clue": "Um mamífero como o ouriço e o preá",
+      "answer": "ROEDOR",
+      "row": 5,
+      "col": 8
+    },
+    "27": {
+      "clue": "Certo tipo de panqueca",
+      "answer": "CREPE",
+      "row": 6,
+      "col": 1
+    },
+    "30": {
+      "clue": "Teima",
+      "answer": "BIRRA",
+      "row": 6,
+      "col": 9
+    },
+    "32": {
+      "clue": "Correlativo de outras",
+      "answer": "UMAS",
+      "row": 7,
+      "col": 2
+    },
+    "33": {
+      "clue": "Conjunto de roupas",
+      "answer": "FATO",
+      "row": 7,
+      "col": 7
+    },
+    "34": {
+      "clue": "Um estilo de jazz",
+      "answer": "BOP",
+      "row": 8,
+      "col": 0
+    },
+    "35": {
+      "clue": "Os quilos de uma tonelada",
+      "answer": "MIL",
+      "row": 8,
+      "col": 6
+    },
+    "38": {
+      "clue": "600, em algarismos romanos",
+      "answer": "DC",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

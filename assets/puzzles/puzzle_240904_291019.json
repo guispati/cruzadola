@@ -1,0 +1,234 @@
+{
+  "across": {
+    "1": {
+      "clue": "(Fig.) Fortalecido",
+      "answer": "CIMENTADO",
+      "row": 0,
+      "col": 0
+    },
+    "8": {
+      "clue": "Árvore de madeira pesada e dura",
+      "answer": "ITU",
+      "row": 1,
+      "col": 2
+    },
+    "9": {
+      "clue": "Grande peixe marinho, de ótima carne",
+      "answer": "MERO",
+      "row": 1,
+      "col": 6
+    },
+    "11": {
+      "clue": "A consequência de uma boa piada",
+      "answer": "RISO",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Nome antigo do violino",
+      "answer": "RABECA",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Banda inglesa de rock progressivo dos anos 70",
+      "answer": "YES",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Que é comum à maioria",
+      "answer": "GERAL",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "Grazi Massafera, atriz",
+      "answer": "GM",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Restos",
+      "answer": "MIGALHAS",
+      "row": 4,
+      "col": 3
+    },
+    "20": {
+      "clue": "Tornado válido",
+      "answer": "REFERENDADO",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Que dá vida, coragem, movimento",
+      "answer": "ANIMANTE",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Nota da Redação",
+      "answer": "NR",
+      "row": 6,
+      "col": 9
+    },
+    "24": {
+      "clue": "Em + este",
+      "answer": "NESTE",
+      "row": 7,
+      "col": 2
+    },
+    "25": {
+      "clue": "Uma abreviatura do mês 2",
+      "answer": "FEV",
+      "row": 7,
+      "col": 8
+    },
+    "26": {
+      "clue": "No espiritismo, condição do médium, ao manifestar-se nele o espírito",
+      "answer": "TRANSE",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "(Gír.) Faniquito nervoso",
+      "answer": "PITI",
+      "row": 8,
+      "col": 7
+    },
+    "29": {
+      "clue": "Frase, sentença",
+      "answer": "DITO",
+      "row": 9,
+      "col": 1
+    },
+    "30": {
+      "clue": "Termina com o crepúsculo ou à meia-noite",
+      "answer": "DIA",
+      "row": 9,
+      "col": 6
+    },
+    "31": {
+      "clue": "Que depende um do outro",
+      "answer": "SOLIDARIO",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ator de \"Ladrão de Casaca\" e \"Intriga Internacional\" (1904-1986)",
+      "answer": "CARYGRANT",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Título que se dá à rainha da beleza",
+      "answer": "MISS",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Sufixo diminutivo masculino",
+      "answer": "ETO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Pelado, despido",
+      "answer": "NU",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Cidade do Piauí, no Médio Parnaíba",
+      "answer": "AMARANTE",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "À toa",
+      "answer": "DEBALDE",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Parte fendida do martelo, usada para arrancar pregos",
+      "answer": "ORELHA",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Ordem de Compra",
+      "answer": "OC",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Nação que tem Sanaa como capital",
+      "answer": "IEMEN",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "Chefe de orquestra",
+      "answer": "REGENTE",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Concentrado",
+      "answer": "ABSORVIDO",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Flor que fornece um óleo usado em culinária",
+      "answer": "GIRASSOL",
+      "row": 3,
+      "col": 4
+    },
+    "18": {
+      "clue": "Marca que serve para lembrar qualquer coisa",
+      "answer": "MEMENTO",
+      "row": 4,
+      "col": 3
+    },
+    "19": {
+      "clue": "O Marcelo humorista",
+      "answer": "ADNET",
+      "row": 4,
+      "col": 9
+    },
+    "21": {
+      "clue": "As últimas partidas de um campeonato",
+      "answer": "FINAIS",
+      "row": 5,
+      "col": 2
+    },
+    "25": {
+      "clue": "Vender a crédito",
+      "answer": "FIAR",
+      "row": 7,
+      "col": 8
+    },
+    "27": {
+      "clue": "Roberto Drummond, escritor de \"Hilda Furacão\"",
+      "answer": "RD",
+      "row": 8,
+      "col": 1
+    },
+    "28": {
+      "clue": "A bacia onde se lava o rosto pela manhã",
+      "answer": "PIA",
+      "row": 8,
+      "col": 7
+    },
+    "30": {
+      "clue": "Abreviatura de digníssimo",
+      "answer": "DD",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Dada, entregue",
+      "answer": "CEDIDA",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Metade de um inteiro",
+      "answer": "MEIO",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Conjunção que une palavras que exprimem ideias alternadas",
+      "answer": "OU",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Trabalhar a terra para que produza",
+      "answer": "CULTIVAR",
+      "row": 1,
+      "col": 3
+    },
+    "13": {
+      "clue": "Relatar, narrar",
+      "answer": "RACONTAR",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "O símbolo químico do tecnécio",
+      "answer": "TC",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Singular, individual (fem.)",
+      "answer": "UNA",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "Designação carinhosa dada à mãe dos primos",
+      "answer": "TITIA",
+      "row": 3,
+      "col": 6
+    },
+    "19": {
+      "clue": "São três em horror",
+      "answer": "ERRES",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Correlativo de outras",
+      "answer": "UMAS",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Letra que vale 10, em romanos",
+      "answer": "XIS",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Uma luta",
+      "answer": "MMA",
+      "row": 5,
+      "col": 8
+    },
+    "25": {
+      "clue": "Um prato como a canja ou a minesta",
+      "answer": "SOPA",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Mortadela, pastrami e salaminho",
+      "answer": "FRIOS",
+      "row": 6,
+      "col": 6
+    },
+    "30": {
+      "clue": "Romântica região alpina austríaca",
+      "answer": "TIROL",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "Aqui está!",
+      "answer": "EIS",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "1/5 de 20, em números romanos",
+      "answer": "IV",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "(Fig.) Direcionado, encaminhado",
+      "answer": "EMBICADO",
+      "row": 8,
+      "col": 3
+    },
+    "36": {
+      "clue": "Conserto, reparação",
+      "answer": "RESTAURO",
+      "row": 9,
+      "col": 0
+    },
+    "38": {
+      "clue": "(Quím.) Sódio",
+      "answer": "NA",
+      "row": 9,
+      "col": 9
+    },
+    "39": {
+      "clue": "A primeira letra do alfabeto grego",
+      "answer": "ALFA",
+      "row": 10,
+      "col": 0
+    },
+    "40": {
+      "clue": "Ruminar",
+      "answer": "MASCAR",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Casca",
+      "answer": "CORTEX",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Sigla) Estados Unidos da América",
+      "answer": "EUA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Em informática, desenho que representa um programa",
+      "answer": "ICONE",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Colinas de areia características dos grandes desertos",
+      "answer": "DUNAS",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Uma tecla do computador",
+      "answer": "ALT",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "De tamanho reduzido",
+      "answer": "MIRIM",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Érico Veríssimo (1905-1975), escritor",
+      "answer": "EV",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Arte de navegar à vela",
+      "answer": "IATISMO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Um cetáceo branco e negro",
+      "answer": "ORCA",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "(Jeca) Um personagem de Monteiro Lobato",
+      "answer": "TATU",
+      "row": 1,
+      "col": 6
+    },
+    "14": {
+      "clue": "Seta no vídeo do PC",
+      "answer": "CURSOR",
+      "row": 2,
+      "col": 2
+    },
+    "18": {
+      "clue": "O rio que banha Oxford e Londres, na Inglaterra",
+      "answer": "TAMISA",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Aquilo que é ridículo",
+      "answer": "RISIVEL",
+      "row": 4,
+      "col": 1
+    },
+    "24": {
+      "clue": "Limpar a sujeira das vias nasais",
+      "answer": "ASSOAR",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "Aquele que escreve versos",
+      "answer": "POETA",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "(Fig.) Expressão, vigor, força, colorido, vida",
+      "answer": "ALMA",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "Mercado periódico",
+      "answer": "FEIRA",
+      "row": 6,
+      "col": 6
+    },
+    "29": {
+      "clue": "Têm grandes fortunas",
+      "answer": "RICOS",
+      "row": 6,
+      "col": 7
+    },
+    "30": {
+      "clue": "Agente de polícia",
+      "answer": "TIRA",
+      "row": 7,
+      "col": 0
+    },
+    "34": {
+      "clue": "O som de um tiro",
+      "answer": "BUM",
+      "row": 8,
+      "col": 5
+    },
+    "35": {
+      "clue": "Teste para reconhecimento de paternidade",
+      "answer": "DNA",
+      "row": 8,
+      "col": 9
+    },
+    "37": {
+      "clue": "Sigmund Freud (1856-1939), médico austríaco",
+      "answer": "SF",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

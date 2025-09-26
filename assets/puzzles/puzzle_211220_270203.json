@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Dança em que se produz sons com as solas dos calçados",
+      "answer": "SAPATEADO",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "A forma de uma porta",
+      "answer": "RETANGULO",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "A Fonda, atriz norte-americana de \"Barbarella\"",
+      "answer": "JANE",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Soltar (o burro) a sua voz",
+      "answer": "ORNEAR",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Sabor acre",
+      "answer": "AMARO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Tijolo cozido ao sol",
+      "answer": "ADOBE",
+      "row": 3,
+      "col": 6
+    },
+    "18": {
+      "clue": "Em + as",
+      "answer": "NAS",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Árvore também conhecida como figueira",
+      "answer": "FICUS",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Precede o nome do advogado",
+      "answer": "DR",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "Um tecido lustroso e macio",
+      "answer": "CETIM",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "Taxa Referencial",
+      "answer": "TR",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Régua de madeira para medir a altura de pipas e tonéis",
+      "answer": "PAREA",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "Prefixo de anterioridade",
+      "answer": "PRE",
+      "row": 6,
+      "col": 8
+    },
+    "26": {
+      "clue": "Sem nuvens",
+      "answer": "INUBE",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Ordinário, vulgar",
+      "answer": "RELES",
+      "row": 7,
+      "col": 6
+    },
+    "30": {
+      "clue": "Relativo à cadeia de montanhas com o Aconcágua",
+      "answer": "ANDINO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Entidade fantástica com que se mete medo às crianças",
+      "answer": "CUCA",
+      "row": 8,
+      "col": 7
+    },
+    "33": {
+      "clue": "Associação que cuida dos interesses dos trabalhadores",
+      "answer": "SINDICATO",
+      "row": 9,
+      "col": 1
+    },
+    "35": {
+      "clue": "(Fig.) Complexo, rebuscado ou de difícil compreensão",
+      "answer": "MEANDROSO",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Cercar com fios de metal",
+      "answer": "ARAMAR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Tristezas, amarguras",
+      "answer": "PENAS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Fazer parar",
+      "answer": "ATER",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Taís Araújo, atriz",
+      "answer": "TA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Prefixo: vinho",
+      "answer": "ENO",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Conceder condecorações a",
+      "answer": "AGRACIAR",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Bala que se estilhaça ao atingir o alvo",
+      "answer": "DUNDUM",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Os santos da igreja",
+      "answer": "OLEOS",
+      "row": 0,
+      "col": 8
+    },
+    "11": {
+      "clue": "A sigla da entidade que representa os advogados brasileiros",
+      "answer": "OAB",
+      "row": 1,
+      "col": 9
+    },
+    "12": {
+      "clue": "Periquito típico do Nordeste",
+      "answer": "JANDAIA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Açude",
+      "answer": "REPRESA",
+      "row": 2,
+      "col": 10
+    },
+    "16": {
+      "clue": "Dádiva",
+      "answer": "OFERENDA",
+      "row": 3,
+      "col": 4
+    },
+    "20": {
+      "clue": "Sufixo designativo de doença inflamatória",
+      "answer": "ITE",
+      "row": 4,
+      "col": 5
+    },
+    "22": {
+      "clue": "Um recinto como o dos cobradores de pedágio",
+      "answer": "CABINE",
+      "row": 5,
+      "col": 3
+    },
+    "23": {
+      "clue": "(Gír.) Coisas de pouco valor",
+      "answer": "TRECOS",
+      "row": 5,
+      "col": 9
+    },
+    "24": {
+      "clue": "Uma sobremesa",
+      "answer": "PUDIM",
+      "row": 6,
+      "col": 2
+    },
+    "25": {
+      "clue": "O cachorro de Mickey, da Disney",
+      "answer": "PLUTO",
+      "row": 6,
+      "col": 8
+    },
+    "27": {
+      "clue": "Ananás sem ás",
+      "answer": "NNS",
+      "row": 7,
+      "col": 1
+    },
+    "29": {
+      "clue": "(MG) Avisar gritando",
+      "answer": "ECAR",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "O meio da... boina",
+      "answer": "OIN",
+      "row": 8,
+      "col": 5
+    },
+    "34": {
+      "clue": "Claude Debussy (1862-1918), músico francês",
+      "answer": "CD",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Mosquito miúdo e incômodo da Amazônia",
+      "answer": "PIUM",
+      "row": 0,
+      "col": 0
+    },
+    "4": {
+      "clue": "Loja de livros usados",
+      "answer": "SEBO",
+      "row": 0,
+      "col": 5
+    },
+    "9": {
+      "clue": "Érico Veríssimo (1905-1975), autor de \"O Tempo e o Vento\"",
+      "answer": "EV",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Tornar pouco resistente",
+      "answer": "AMOLECER",
+      "row": 1,
+      "col": 3
+    },
+    "13": {
+      "clue": "Pequeno coche",
+      "answer": "CARROCIM",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Uma variação do pronome tu",
+      "answer": "TI",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Jacarés, vacas e tubarões",
+      "answer": "ANIMAIS",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "As letras entre o L e o P",
+      "answer": "MNO",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Banha Paris, na França",
+      "answer": "SENA",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "O oposto de menos",
+      "answer": "MAIS",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Instrumento em forma de violão, típico da Rússia",
+      "answer": "BALALAICA",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Estilo",
+      "answer": "MODO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "(Gír.) Transportador de drogas, de um país para outro",
+      "answer": "MULA",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Uma interjeição de admiração",
+      "answer": "OTA",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "(Pop.) Andar de bicicleta",
+      "answer": "PEDALAR",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Uma forma do neto chamar a mãe do pai",
+      "answer": "VO",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Que produz lã",
+      "answer": "LANIGERO",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Equipamento portátil que serve para apagar pequenos incêndios",
+      "answer": "EXTINTOR",
+      "row": 9,
+      "col": 0
+    },
+    "32": {
+      "clue": "Unidade de Conservação",
+      "answer": "UC",
+      "row": 9,
+      "col": 9
+    },
+    "33": {
+      "clue": "Instrumento semelhante à clarineta",
+      "answer": "OBOE",
+      "row": 10,
+      "col": 2
+    },
+    "34": {
+      "clue": "Uma cidade paraibana",
+      "answer": "EMAS",
+      "row": 10,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Transgredir a ordem moral",
+      "answer": "PECAR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "O escritor russo Turgueniev (1818-1883), de \"Pais e Filhos\"",
+      "answer": "IVAN",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um fruto bom para doces",
+      "answer": "MARMELO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Segundo os costumes da vida em comum",
+      "answer": "SOCIALMENTE",
+      "row": 0,
+      "col": 5
+    },
+    "5": {
+      "clue": "A Regina cantora",
+      "answer": "ELIS",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Com cortesia, lhaneza",
+      "answer": "BEM",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Sigla) Ondas Curtas",
+      "answer": "OC",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Carnes conservadas ou defumadas",
+      "answer": "FRIOS",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Filme de animação dos estúdios Disney",
+      "answer": "MOANA",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "Raça",
+      "answer": "ETNIA",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Gargalhada",
+      "answer": "RISADA",
+      "row": 2,
+      "col": 2
+    },
+    "17": {
+      "clue": "O músico Jards, de \"Banquete dos Mendigos\"",
+      "answer": "MACALE",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Acontecimento inexplicável pelas leis naturais",
+      "answer": "MILAGRE",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Medicamento usado no tratamento de rugas de expressão",
+      "answer": "BOTOX",
+      "row": 5,
+      "col": 1
+    },
+    "21": {
+      "clue": "Parte sonora de um filme",
+      "answer": "AUDIO",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Gaveteiro, beliche ou rack",
+      "answer": "MOVEL",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Famosa marca de calçados",
+      "answer": "CROCS",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "O cru é o tecido de algodão não tingido",
+      "answer": "PANO",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Pequeno molusco de água doce",
+      "answer": "ARUA",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Abrev.: Líbano",
+      "answer": "LIB",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "A UF de Gurupi e do Jalapão",
+      "answer": "TO",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

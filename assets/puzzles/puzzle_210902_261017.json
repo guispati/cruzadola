@@ -1,0 +1,276 @@
+{
+  "across": {
+    "1": {
+      "clue": "Dar passos para diante, sem objetivo definido",
+      "answer": "ANDAR",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "(Rel.) Nosso Senhor",
+      "answer": "JESUS",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "As saliências de uma engrenagem",
+      "answer": "DENTES",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Combinação de preposição com pronome pessoal (fem.)",
+      "answer": "NELA",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "Conjunto dos óvulos fecundados de um peixe",
+      "answer": "OVA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Porcentagem de determinada substância numa mistura",
+      "answer": "TEOR",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "Tecnologia da Informação",
+      "answer": "TI",
+      "row": 2,
+      "col": 9
+    },
+    "18": {
+      "clue": "Uma marcha do carro",
+      "answer": "RE",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Engolir",
+      "answer": "DEGLUTIR",
+      "row": 3,
+      "col": 3
+    },
+    "21": {
+      "clue": "Sobra de madeira cortada",
+      "answer": "SERRAGEM",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Os presentes trocados no domingo de Páscoa",
+      "answer": "OVOS",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Os laterais em certos esportes, como no basquete e futebol",
+      "answer": "ALAS",
+      "row": 5,
+      "col": 7
+    },
+    "26": {
+      "clue": "Que veio à tona da água",
+      "answer": "EMERGIDO",
+      "row": 6,
+      "col": 1
+    },
+    "29": {
+      "clue": "O oposto de escurecido",
+      "answer": "CLAREADO",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Separam O de R",
+      "answer": "PQ",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "(Quím.) Hólmio",
+      "answer": "HO",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Antônimo de nada",
+      "answer": "TUDO",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Cidade do estado de São Paulo",
+      "answer": "JAU",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "A aqui presente",
+      "answer": "ESTA",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Pequena abertura",
+      "answer": "OLHETE",
+      "row": 9,
+      "col": 5
+    },
+    "38": {
+      "clue": "Tábuas que se revestem interiormente um teto",
+      "answer": "FORRO",
+      "row": 10,
+      "col": 0
+    },
+    "39": {
+      "clue": "Dar preferência",
+      "answer": "OPTAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ornato, decoração",
+      "answer": "ADORNO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Uma característica do inverno em boa parte do hemisfério norte",
+      "answer": "NEVE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sigla inglesa do ácido desoxirribonucleico",
+      "answer": "DNA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "André Trigueiro, jornalista carioca",
+      "answer": "AT",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Guardar, conservar alguma coisa",
+      "answer": "RETER",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Com pés-de-galinha",
+      "answer": "ENRUGADO",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Conjunção que indica causa",
+      "answer": "SE",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Novidade",
+      "answer": "ULTIMA",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Afastar-se da rota",
+      "answer": "SAIR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Separado, apartado",
+      "answer": "SEGREGADO",
+      "row": 1,
+      "col": 5
+    },
+    "16": {
+      "clue": "Palavra usada para cumprimentar",
+      "answer": "OLA",
+      "row": 2,
+      "col": 6
+    },
+    "19": {
+      "clue": "Fugir do serviço militar",
+      "answer": "DESERTAR",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "O sertanejo Michel",
+      "answer": "TELO",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "Uma operação fundamental na aritmética",
+      "answer": "SOMA",
+      "row": 4,
+      "col": 2
+    },
+    "23": {
+      "clue": "O músico Caetano, de \"Cê\"",
+      "answer": "VELOSO",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Pelo menos",
+      "answer": "SEQUER",
+      "row": 5,
+      "col": 10
+    },
+    "27": {
+      "clue": "Aquele contra quem é movida ação em juízo",
+      "answer": "REU",
+      "row": 6,
+      "col": 4
+    },
+    "28": {
+      "clue": "Pessoa que é objeto de veneração",
+      "answer": "IDOLO",
+      "row": 6,
+      "col": 6
+    },
+    "29": {
+      "clue": "(Pal. fr.) Cozinheiro",
+      "answer": "CHEF",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Pé do cavalo",
+      "answer": "PATA",
+      "row": 7,
+      "col": 9
+    },
+    "33": {
+      "clue": "Um pedaço do... projetor",
+      "answer": "JET",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "Tony Ramos, ator",
+      "answer": "TR",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "Uma multinacional da informática",
+      "answer": "HP",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

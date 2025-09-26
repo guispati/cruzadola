@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Exemplar",
+      "answer": "ESPECIMEN",
+      "row": 0,
+      "col": 0
+    },
+    "10": {
+      "clue": "O ator Tarcísio",
+      "answer": "MEIRA",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Isento",
+      "answer": "IMUNE",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Período quente",
+      "answer": "SOLAMA",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "O érbio, entre os químicos",
+      "answer": "ER",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Charme",
+      "answer": "IT",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "O instrumento sonoro da torre da igreja",
+      "answer": "SINO",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Onomatopeia de som de tambor",
+      "answer": "BUM",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Voz do cão",
+      "answer": "LATIDO",
+      "row": 4,
+      "col": 0
+    },
+    "22": {
+      "clue": "Altura máxima que uma aeronave pode voar",
+      "answer": "TETO",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Decretar a separação judicial dos cônjuges",
+      "answer": "DIVORCIAR",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "Estúdio de editoração eletrônica",
+      "answer": "BIRO",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "O dia 2/11 é consagrado a eles",
+      "answer": "MORTOS",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Um automóvel fabricado pela Fiat",
+      "answer": "UNO",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Perder o valor",
+      "answer": "CAIR",
+      "row": 7,
+      "col": 4
+    },
+    "30": {
+      "clue": "O sódio, para os químicos",
+      "answer": "NA",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Recursos Humanos",
+      "answer": "RH",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Espécie de uva vinífera",
+      "answer": "MALBEC",
+      "row": 8,
+      "col": 3
+    },
+    "34": {
+      "clue": "Ave que acompanha as bruxas",
+      "answer": "CORVO",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Natural",
+      "answer": "INATO",
+      "row": 9,
+      "col": 6
+    },
+    "38": {
+      "clue": "Alteração das cores",
+      "answer": "DISCROMIA",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Ingl.) Correio eletrônico",
+      "answer": "EMAIL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Sigla do estado de Propriá e Itabaiana",
+      "answer": "SE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Programa de Integração Social",
+      "answer": "PIS",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Que corrói",
+      "answer": "EROSIVO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Quente",
+      "answer": "CALIDO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Presente simples, delicado e que demonstra carinho",
+      "answer": "MIMO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Ave, espécie de avestruz, porém, menor",
+      "answer": "EMA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Sem ornatos",
+      "answer": "NU",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Um elemento da comparação",
+      "answer": "TERMO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Uma partícula do núcleo atômico",
+      "answer": "NEUTRON",
+      "row": 1,
+      "col": 9
+    },
+    "14": {
+      "clue": "Fora da regra comum",
+      "answer": "ANORMAL",
+      "row": 2,
+      "col": 5
+    },
+    "17": {
+      "clue": "(Pop.) Redução e diminutivo carinhoso ou irônico de coitado",
+      "answer": "TADINHO",
+      "row": 3,
+      "col": 1
+    },
+    "19": {
+      "clue": "Um andamento rítmico do jazz",
+      "answer": "BEAT",
+      "row": 3,
+      "col": 8
+    },
+    "21": {
+      "clue": "O disparo de uma arma de fogo",
+      "answer": "TIRO",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "O mar de Capri, na Itália",
+      "answer": "TIRRENO",
+      "row": 4,
+      "col": 7
+    },
+    "24": {
+      "clue": "Impedir de fazer alguma coisa",
+      "answer": "COIBIR",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "A tradicional veste da mulher afegã",
+      "answer": "BURCA",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "País da Polinésia com capital Ápia",
+      "answer": "SAMOA",
+      "row": 6,
+      "col": 10
+    },
+    "29": {
+      "clue": "(Fig.) Muita confusão",
+      "answer": "CAOS",
+      "row": 7,
+      "col": 4
+    },
+    "32": {
+      "clue": "1006, em algarismos romanos",
+      "answer": "MVI",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Clube Atlético Mineiro",
+      "answer": "CAM",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "Robert Duvall, ator de \"Rede de Intrigas\"",
+      "answer": "RD",
+      "row": 9,
+      "col": 2
+    },
+    "37": {
+      "clue": "Uma variação do pronome tu",
+      "answer": "TI",
+      "row": 9,
+      "col": 9
+    }
+  }
+}

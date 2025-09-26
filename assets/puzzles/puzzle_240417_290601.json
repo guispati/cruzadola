@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Líquidos ingeridos em festas",
+      "answer": "BEBES",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Inchar",
+      "answer": "TUFAR",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "Contrato para garantir o reembolso por danos ocorridos em acidentes",
+      "answer": "SEGURO",
+      "row": 1,
+      "col": 1
+    },
+    "12": {
+      "clue": "Processo Judicial Eletrônico",
+      "answer": "PJE",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "Errantes, vagamundos",
+      "answer": "NOMADES",
+      "row": 2,
+      "col": 2
+    },
+    "15": {
+      "clue": "O intervalo mínimo da escala musical",
+      "answer": "SEMITOM",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Um advérbio de lugar",
+      "answer": "CA",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Diz-se daquele que se abstém de falar",
+      "answer": "CALADO",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Livro, em NY",
+      "answer": "BOOK",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Pessoa que recebe lições",
+      "answer": "ALUNO",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Série de trechos musicais sinfônicos interligados",
+      "answer": "SUITE",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Um carro para transporte de passageiros",
+      "answer": "TAXI",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Muito ampla",
+      "answer": "VASTA",
+      "row": 6,
+      "col": 5
+    },
+    "24": {
+      "clue": "Em Mãos (abreviatura muito usada em correspondências)",
+      "answer": "EM",
+      "row": 7,
+      "col": 0
+    },
+    "25": {
+      "clue": "Adiante",
+      "answer": "AVANTE",
+      "row": 7,
+      "col": 3
+    },
+    "27": {
+      "clue": "Epiderme",
+      "answer": "TEZ",
+      "row": 8,
+      "col": 0
+    },
+    "29": {
+      "clue": "Disposições dadas por superior",
+      "answer": "ORDENS",
+      "row": 8,
+      "col": 4
+    },
+    "31": {
+      "clue": "Soltar (o lobo, o cão) a sua voz",
+      "answer": "UIVAR",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Transferência Eletrônica Disponível",
+      "answer": "TED",
+      "row": 9,
+      "col": 8
+    },
+    "35": {
+      "clue": "Abertura à força, com o emprego de violência",
+      "answer": "ROMBO",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Cidade sergipana da região de Boquim",
+      "answer": "ARAUA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "Espírito Santo",
+      "answer": "ES",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sigla da união de Luxemburgo, Holanda e Bélgica",
+      "answer": "BENELUX",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Em psiquiatria, autoestima patológica",
+      "answer": "EGOMANIA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Desaparecido",
+      "answer": "SUMIDO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Qualquer (pessoa ou coisa indeterminada)",
+      "answer": "TODO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Fator de Proteção Solar",
+      "answer": "FPS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Angelina Jolie, atriz de \"A Troca\"",
+      "answer": "AJ",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Ingl.) Nova versão, no cinema e na TV",
+      "answer": "REMAKE",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Roedor que transmite a leptospirose",
+      "answer": "RATO",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Logro",
+      "answer": "EMBUSTE",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "Uma carne servida como aperitivo",
+      "answer": "SALAME",
+      "row": 3,
+      "col": 1
+    },
+    "16": {
+      "clue": "Parcela, porção",
+      "answer": "COTA",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "Sonda que se introduz em cavidades naturais do corpo",
+      "answer": "CATETER",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "80",
+      "answer": "OITENTA",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "A jornalista e apresentadora de TV Annenberg",
+      "answer": "SANDRA",
+      "row": 5,
+      "col": 6
+    },
+    "23": {
+      "clue": "Peça de madeira, bambu, metal, delgada, roliça e longa",
+      "answer": "VARA",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "(Inf.) O pai da mãe",
+      "answer": "VOVO",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "Ruído como o produzido por abelhas",
+      "answer": "ZUM",
+      "row": 8,
+      "col": 2
+    },
+    "30": {
+      "clue": "Feito por ele ou ela",
+      "answer": "SEU",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Instituto Butantan",
+      "answer": "IB",
+      "row": 9,
+      "col": 3
+    },
+    "34": {
+      "clue": "Dante Alighieri (1265-1321), autor de \"A Divina Comédia\"",
+      "answer": "DA",
+      "row": 9,
+      "col": 10
+    }
+  }
+}

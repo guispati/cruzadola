@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Olhar com interesse",
+      "answer": "OBSERVAR",
+      "row": 0,
+      "col": 0
+    },
+    "9": {
+      "clue": "Antonio Vivaldi (1678-1741), músico clássico",
+      "answer": "AV",
+      "row": 0,
+      "col": 9
+    },
+    "11": {
+      "clue": "Ato de tornar menos denso",
+      "answer": "RAREAMENTO",
+      "row": 1,
+      "col": 1
+    },
+    "13": {
+      "clue": "Chapa de gravar qualquer coisa",
+      "answer": "MATRIZ",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "O lado oposto à coroa",
+      "answer": "CARA",
+      "row": 2,
+      "col": 7
+    },
+    "15": {
+      "clue": "(de Graças) Um feriado nacional nos EUA e Canadá",
+      "answer": "AÇÃO",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Chamar a si",
+      "answer": "AVOCAR",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "Cobalto, em química",
+      "answer": "CO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Um fio têxtil muito fino, forte e macio",
+      "answer": "SEDA",
+      "row": 4,
+      "col": 3
+    },
+    "21": {
+      "clue": "A primeira carta de cada naipe do baralho",
+      "answer": "AS",
+      "row": 4,
+      "col": 8
+    },
+    "22": {
+      "clue": "Imprecar",
+      "answer": "ROGAR",
+      "row": 5,
+      "col": 4
+    },
+    "24": {
+      "clue": "Nara Leão (1942-1989), cantora capixaba",
+      "answer": "NL",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Livrar de tristeza, de preocupações",
+      "answer": "SERENAR",
+      "row": 6,
+      "col": 3
+    },
+    "28": {
+      "clue": "Macho adulto da espécie humana",
+      "answer": "HOMEM",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Boas maneiras",
+      "answer": "MODOS",
+      "row": 7,
+      "col": 6
+    },
+    "32": {
+      "clue": "Estúdio",
+      "answer": "ATELIE",
+      "row": 8,
+      "col": 0
+    },
+    "34": {
+      "clue": "Buraco onde animais se abrigam",
+      "answer": "TOCA",
+      "row": 8,
+      "col": 7
+    },
+    "35": {
+      "clue": "Exonerada",
+      "answer": "DEMITIDA",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Oi, em Londres",
+      "answer": "HI",
+      "row": 9,
+      "col": 9
+    },
+    "38": {
+      "clue": "Colocar a peça destinada à vela, num barco",
+      "answer": "EMASTREAR",
+      "row": 10,
+      "col": 2
+    }
+  },
+  "down": {
+    "2": {
+      "clue": "(Fig.) Trabalho, empenho",
+      "answer": "BRAÇO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Diabo, coisa-ruim",
+      "answer": "SATÃ",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Desacertos, enganos",
+      "answer": "ERROS",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Peça importante do jogo de xadrez",
+      "answer": "REI",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "Que faz sair o líquido de um recipiente",
+      "answer": "VAZADOR",
+      "row": 0,
+      "col": 5
+    },
+    "7": {
+      "clue": "Sigla do estado que faz divisa com o AC e RR",
+      "answer": "AM",
+      "row": 0,
+      "col": 6
+    },
+    "8": {
+      "clue": "Recruta",
+      "answer": "RECO",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "Depois",
+      "answer": "ATRAS",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "(Fig.) Atirar-se com ímpeto sobre",
+      "answer": "VOAR",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Acarminado",
+      "answer": "NACARADO",
+      "row": 1,
+      "col": 8
+    },
+    "13": {
+      "clue": "",
+      "answer": "MACONHADO",
+      "row": 2,
+      "col": 0
+    },
+    "17": {
+      "clue": "O fruto da fava",
+      "answer": "VAGEM",
+      "row": 3,
+      "col": 6
+    },
+    "20": {
+      "clue": "Religioso que vive em isolamento",
+      "answer": "EREMITA",
+      "row": 4,
+      "col": 4
+    },
+    "23": {
+      "clue": "Registrar",
+      "answer": "ANOTAR",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "Grupo de bens colocados à venda em leilão",
+      "answer": "LOTE",
+      "row": 6,
+      "col": 1
+    },
+    "26": {
+      "clue": "O assento da motocicleta",
+      "answer": "SELIM",
+      "row": 6,
+      "col": 3
+    },
+    "27": {
+      "clue": "(Fig.) Coisa muito dura",
+      "answer": "ROCHA",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Post que viraliza",
+      "answer": "MEME",
+      "row": 7,
+      "col": 2
+    },
+    "31": {
+      "clue": "(Pop.) Participar de um desfile com uma escola de samba",
+      "answer": "SAIR",
+      "row": 7,
+      "col": 10
+    },
+    "33": {
+      "clue": "Advérbio que significa aqui está!",
+      "answer": "EIS",
+      "row": 8,
+      "col": 5
+    },
+    "36": {
+      "clue": "Dalton Trevisan, escritor paranaense",
+      "answer": "DT",
+      "row": 9,
+      "col": 6
+    }
+  }
+}

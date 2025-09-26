@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Jardim de laranjeiras, macieiras, parreiras etc.",
+      "answer": "POMAR",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Um esporte de inverno",
+      "answer": "ESQUI",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Tornar jubiloso, contente",
+      "answer": "ALEGRAR",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "Voltar de dentro para fora",
+      "answer": "DESVIRAR",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "A conjunção que sugere opção",
+      "answer": "OU",
+      "row": 2,
+      "col": 9
+    },
+    "14": {
+      "clue": "Um pronome demonstrativo",
+      "answer": "ISSO",
+      "row": 3,
+      "col": 0
+    },
+    "15": {
+      "clue": "A ilha onde fica Jacarta, a capital da Indonésia",
+      "answer": "JAVA",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Sigla inglesa para Mestrado em Administração e Negócios",
+      "answer": "MBA",
+      "row": 4,
+      "col": 0
+    },
+    "18": {
+      "clue": "Das plantas",
+      "answer": "VEGETAL",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "Humilhar",
+      "answer": "ACHINELAR",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "Movimento inicial impetuoso para partir",
+      "answer": "ARRANCO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Prefixo: aquém, cá",
+      "answer": "CIS",
+      "row": 6,
+      "col": 8
+    },
+    "25": {
+      "clue": "Um religioso como Caneca",
+      "answer": "FREI",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Coisa feita, ocorrida ou em processo de realização",
+      "answer": "FATO",
+      "row": 7,
+      "col": 7
+    },
+    "27": {
+      "clue": "Vovó sem vês",
+      "answer": "OO",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Frequentável",
+      "answer": "CURSAVEL",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "A Bergen atriz norte-americana de \"Gandhi\"",
+      "answer": "CANDICE",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "A banda inglesa de rock de \"Some Might Say\"",
+      "answer": "OASIS",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Roupa colante, usada por ginastas e bailarinos",
+      "answer": "MALHA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Doce gelatinoso",
+      "answer": "PUDIM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Morticínio cruel",
+      "answer": "MASSACRE",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Ponto onde se quer acertar",
+      "answer": "ALVO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "O K do baralho",
+      "answer": "REI",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "A atual é neozóica",
+      "answer": "ERA",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Tecido grosseiro de lã",
+      "answer": "SARJEL",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "(Code) Um código de barras bidimensional",
+      "answer": "QR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Que é sempre o mesmo",
+      "answer": "IGUAL",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "O visto permanente dos EUA para imigrantes",
+      "answer": "GREENCARD",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Parada súbita do cavalo montado",
+      "answer": "ESBARRO",
+      "row": 2,
+      "col": 1
+    },
+    "13": {
+      "clue": "(Med.) Inflamação das glândulas do aparelho reprodutor feminino",
+      "answer": "OVARITE",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Que oferece chance de ser assaltado",
+      "answer": "ATACAVEL",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Vinho, em francês",
+      "answer": "VIN",
+      "row": 4,
+      "col": 4
+    },
+    "19": {
+      "clue": "Elemento de composição: terra, superfície terrestre",
+      "answer": "GEO",
+      "row": 4,
+      "col": 6
+    },
+    "21": {
+      "clue": "Poema japonês de três versos",
+      "answer": "HAICAI",
+      "row": 5,
+      "col": 3
+    },
+    "22": {
+      "clue": "Que está sem voz (ou quase)",
+      "answer": "AFONO",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Desembaraçada",
+      "answer": "SOLTA",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "O talher usado para picar alimentos",
+      "answer": "FACA",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Correlativo de outros",
+      "answer": "UNS",
+      "row": 8,
+      "col": 4
+    },
+    "30": {
+      "clue": "A última palavra de um solteiro",
+      "answer": "SIM",
+      "row": 8,
+      "col": 6
+    },
+    "31": {
+      "clue": "Césio",
+      "answer": "CS",
+      "row": 9,
+      "col": 2
+    }
+  }
+}

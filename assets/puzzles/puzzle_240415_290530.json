@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Equipe pernambucana de futebol",
+      "answer": "SPORT",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Os aros de borracha das rodas dos carros",
+      "answer": "PNEUS",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Cinta larga",
+      "answer": "CORREÃO",
+      "row": 1,
+      "col": 2
+    },
+    "11": {
+      "clue": "A UF de Ponta Porã e Aquidauana",
+      "answer": "MS",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Intimamente ligado",
+      "answer": "COESO",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "Jennifer López, atriz e cantora estadunidense",
+      "answer": "JL",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "O Héctor cineasta de \"Meu Amigo Hindu\"",
+      "answer": "BABENCO",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "Ônibus, nos EUA",
+      "answer": "BUS",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "O continente com o Kilimanjaro e o cabo da Boa Esperança",
+      "answer": "AFRICA",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "(Pop.) Papel com que se enrola cigarro de maconha",
+      "answer": "SEDA",
+      "row": 4,
+      "col": 7
+    },
+    "20": {
+      "clue": "Uma máquina para voar",
+      "answer": "AEROPLANO",
+      "row": 5,
+      "col": 1
+    },
+    "22": {
+      "clue": "(Papo de) Doce feito com gemas de ovos",
+      "answer": "ANJO",
+      "row": 6,
+      "col": 0
+    },
+    "23": {
+      "clue": "Movido pela força do vento",
+      "answer": "EOLICO",
+      "row": 6,
+      "col": 5
+    },
+    "25": {
+      "clue": "Sentido em via pública permitido ao fluxo de veículos",
+      "answer": "MÃO",
+      "row": 7,
+      "col": 0
+    },
+    "26": {
+      "clue": "Deslizar (o carro) devido à aceleração excessiva",
+      "answer": "PATINAR",
+      "row": 7,
+      "col": 4
+    },
+    "27": {
+      "clue": "Boletim de Ocorrência",
+      "answer": "BO",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "O Joe presidente dos EUA",
+      "answer": "BIDEN",
+      "row": 8,
+      "col": 3
+    },
+    "29": {
+      "clue": "Salvador Dalí (1904-1989), pintor surrealista espanhol",
+      "answer": "SD",
+      "row": 8,
+      "col": 9
+    },
+    "30": {
+      "clue": "(Pop.) Acovardar-se",
+      "answer": "PIPOCAR",
+      "row": 9,
+      "col": 2
+    },
+    "32": {
+      "clue": "Briga de namorados",
+      "answer": "RUSGA",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Deste modo",
+      "answer": "ASSIM",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Gênero musical típico do Brasil",
+      "answer": "SAMBA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Otaviano Costa, ator e apresentador",
+      "answer": "OC",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Pequeno lavrador",
+      "answer": "ROCEIRO",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "A parte grossa da árvore, que sustenta a copa",
+      "answer": "TRONCO",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Unidade monetária do Uruguai",
+      "answer": "PESO",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "O contrário de sim",
+      "answer": "NÃO",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "As vogais de dentro",
+      "answer": "EO",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Planta que é um dos temperos do cheiro-verde",
+      "answer": "SALSA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Repavimentado",
+      "answer": "RECAPEADO",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "(Pop.) Bofetada, tapa",
+      "answer": "SAFANÃO",
+      "row": 2,
+      "col": 1
+    },
+    "14": {
+      "clue": "Lutadores que atuam num tatame",
+      "answer": "JUDOCAS",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Terreno úmido, lamacento e inculto",
+      "answer": "BREJO",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "País africano com capital Porto Novo",
+      "answer": "BENIN",
+      "row": 3,
+      "col": 8
+    },
+    "19": {
+      "clue": "Cidade do norte de MG, grande produtora de aguardentes",
+      "answer": "SALINAS",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "(Pop.) Loteria esportiva",
+      "answer": "LOTECA",
+      "row": 5,
+      "col": 6
+    },
+    "22": {
+      "clue": "Resina fóssil amarela",
+      "answer": "AMBAR",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "Observância das normas",
+      "answer": "ORDEM",
+      "row": 6,
+      "col": 10
+    },
+    "26": {
+      "clue": "Papagaio de papel",
+      "answer": "PIPA",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "(Apple) O apelido de Nova York",
+      "answer": "BIG",
+      "row": 8,
+      "col": 3
+    },
+    "30": {
+      "clue": "Paul Simon, cantor de \"The Sound of Silence\"",
+      "answer": "PS",
+      "row": 9,
+      "col": 2
+    },
+    "31": {
+      "clue": "As letras que separam o Q e o T",
+      "answer": "RS",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

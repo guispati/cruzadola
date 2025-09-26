@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "Pequena tranca",
+      "answer": "FECHO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Guerra santa muçulmana",
+      "answer": "JIHAD",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Tinta usada por povos originários",
+      "answer": "URUCUM",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "O estilo musical de Nina Simone e Chet Baker",
+      "answer": "JAZZ",
+      "row": 1,
+      "col": 7
+    },
+    "14": {
+      "clue": "A model que desfila",
+      "answer": "TOP",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "Vedação provisória, com tábuas",
+      "answer": "TAPUME",
+      "row": 2,
+      "col": 4
+    },
+    "17": {
+      "clue": "Tragédia de Sófocles, um dos clássicos da literatura",
+      "answer": "EDIPOREI",
+      "row": 3,
+      "col": 0
+    },
+    "19": {
+      "clue": "Dani Calabresa, atriz e humorista",
+      "answer": "DC",
+      "row": 3,
+      "col": 9
+    },
+    "21": {
+      "clue": "Magnetizar",
+      "answer": "IMANAR",
+      "row": 4,
+      "col": 1
+    },
+    "22": {
+      "clue": "Suprema divindade chinesa",
+      "answer": "TAO",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "(Quím.) O bromo",
+      "answer": "BR",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "Peneirar",
+      "answer": "SESSAR",
+      "row": 5,
+      "col": 3
+    },
+    "26": {
+      "clue": "Grande ilha de PE",
+      "answer": "ITAMARACA",
+      "row": 6,
+      "col": 2
+    },
+    "28": {
+      "clue": "O Joaquim (1881-1924) famoso militar cearense",
+      "answer": "TAVORA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Um sucesso de Djavan",
+      "answer": "AÇAI",
+      "row": 7,
+      "col": 7
+    },
+    "31": {
+      "clue": "Animais vertebrados alados, de corpos cobertos por penas",
+      "answer": "AVES",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Nascida na cidade com o Coliseu",
+      "answer": "ROMANA",
+      "row": 8,
+      "col": 5
+    },
+    "34": {
+      "clue": "Papéis-moeda",
+      "answer": "NOTAS",
+      "row": 9,
+      "col": 0
+    },
+    "36": {
+      "clue": "Área próxima de uma coisa",
+      "answer": "LADO",
+      "row": 9,
+      "col": 6
+    },
+    "37": {
+      "clue": "(Ingl.) O número 1",
+      "answer": "ONE",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Semelhante, por consistência e aspecto, às rochas compactas",
+      "answer": "PEDROSO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O diabo",
+      "answer": "FUTE",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Provocar erosão",
+      "answer": "ERODIR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Um inseto que se alimenta de madeira",
+      "answer": "CUPIM",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Hospital Central",
+      "answer": "HC",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Brotar (na terceira das estações do ano)",
+      "answer": "OUTONEAR",
+      "row": 0,
+      "col": 4
+    },
+    "7": {
+      "clue": "Cidade e rio do estado do Rio Grande do Sul",
+      "answer": "IJUI",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "(Ingl.) Presunto",
+      "answer": "HAM",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Ácida",
+      "answer": "AZEDA",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Abreviatura de dúzia",
+      "answer": "DZ",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Causar abatimento moral",
+      "answer": "MARASMAR",
+      "row": 1,
+      "col": 5
+    },
+    "16": {
+      "clue": "Relativo ao antigo Irã",
+      "answer": "PERSA",
+      "row": 2,
+      "col": 6
+    },
+    "18": {
+      "clue": "Caracterizado por uma consistência mole e elástica (fem.)",
+      "answer": "PASTOSA",
+      "row": 3,
+      "col": 3
+    },
+    "20": {
+      "clue": "Animal usado em experiências de laboratório",
+      "answer": "COBAIA",
+      "row": 3,
+      "col": 10
+    },
+    "22": {
+      "clue": "Esboço de trabalho a se realizar",
+      "answer": "TRAÇADO",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Gás de cozinha",
+      "answer": "BUTANO",
+      "row": 5,
+      "col": 0
+    },
+    "25": {
+      "clue": "Cercar com fios de metal",
+      "answer": "ARAMAR",
+      "row": 5,
+      "col": 7
+    },
+    "26": {
+      "clue": "A cantora Sangalo",
+      "answer": "IVETE",
+      "row": 6,
+      "col": 2
+    },
+    "27": {
+      "clue": "Cilindros usados como condutores de água",
+      "answer": "CANOS",
+      "row": 6,
+      "col": 9
+    },
+    "29": {
+      "clue": "Famosa marca de cosméticos",
+      "answer": "AVON",
+      "row": 7,
+      "col": 1
+    },
+    "33": {
+      "clue": "Velho, nos EUA",
+      "answer": "OLD",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Sigla do estado de Aparecida e Marília",
+      "answer": "SP",
+      "row": 9,
+      "col": 4
+    }
+  }
+}

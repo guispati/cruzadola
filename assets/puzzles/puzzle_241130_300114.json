@@ -1,0 +1,246 @@
+{
+  "across": {
+    "1": {
+      "clue": "Encarcerado",
+      "answer": "PRESO",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Transpiração malcheirosa",
+      "answer": "BODUM",
+      "row": 0,
+      "col": 6
+    },
+    "10": {
+      "clue": "(Monde) Famoso jornal francês",
+      "answer": "LE",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Informações que tornam possível a localização de um imóvel",
+      "answer": "ENDEREÇO",
+      "row": 1,
+      "col": 3
+    },
+    "12": {
+      "clue": "Peixe comum em aquários ornamentais",
+      "answer": "ACARA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Relativo à lã",
+      "answer": "LANAR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Dito inoportuno",
+      "answer": "GAFE",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Do \"Continente Negro\"",
+      "answer": "AFRO",
+      "row": 3,
+      "col": 5
+    },
+    "17": {
+      "clue": "Do AC",
+      "answer": "ACRIANO",
+      "row": 4,
+      "col": 0
+    },
+    "19": {
+      "clue": "Mercado Comum Europeu",
+      "answer": "MCE",
+      "row": 4,
+      "col": 8
+    },
+    "21": {
+      "clue": "Arte da fabricação do vidro ou do cristal",
+      "answer": "HIALURGIA",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "O escritor e novelista Comparato",
+      "answer": "DOC",
+      "row": 6,
+      "col": 0
+    },
+    "24": {
+      "clue": "O navio que afundou em sua primeira viagem (1912)",
+      "answer": "TITANIC",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "(Côte d') Região francesa banhada pelo Mediterrâneo",
+      "answer": "AZUR",
+      "row": 7,
+      "col": 2
+    },
+    "28": {
+      "clue": "Nó corredio",
+      "answer": "LAÇO",
+      "row": 7,
+      "col": 7
+    },
+    "29": {
+      "clue": "Inferior em número",
+      "answer": "MENOR",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Arbusto da mesma família do cafeeiro",
+      "answer": "MERUA",
+      "row": 8,
+      "col": 6
+    },
+    "32": {
+      "clue": "Aparvalhar, atoleimar",
+      "answer": "ABANANAR",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Marco Luque, humorista",
+      "answer": "ML",
+      "row": 9,
+      "col": 9
+    },
+    "34": {
+      "clue": "Flores muito usadas em buquês",
+      "answer": "ROSAS",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Índio do MT",
+      "answer": "PACAA",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Espaço de terreno",
+      "answer": "PLAGA",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Postura elegante",
+      "answer": "RECACHO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Sinal acústico de alarme",
+      "answer": "SEREIA",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "Sufixo feminino de ão",
+      "answer": "ONA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "O médico psiquiatra Roxo (1877-1969)",
+      "answer": "BELFORT",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Pronunciar discurso",
+      "answer": "ORAR",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Dar nome ou apelido a",
+      "answer": "DENOMINAR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Caranguejo semelhante ao guaiamu",
+      "answer": "UÇA",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "(Código) Uma forma de comunicação",
+      "answer": "MORSE",
+      "row": 0,
+      "col": 10
+    },
+    "13": {
+      "clue": "Nascidas na Namíbia ou no Egito",
+      "answer": "AFRICANAS",
+      "row": 2,
+      "col": 2
+    },
+    "16": {
+      "clue": "Estar de acordo",
+      "answer": "ANUIR",
+      "row": 3,
+      "col": 5
+    },
+    "18": {
+      "clue": "(Pôr nas) Exaltar, elevar",
+      "answer": "ALTURAS",
+      "row": 4,
+      "col": 4
+    },
+    "20": {
+      "clue": "O suco fermentado da mandioca",
+      "answer": "CAIÇUMA",
+      "row": 4,
+      "col": 9
+    },
+    "22": {
+      "clue": "(Pop.) Conjunto de amigos",
+      "answer": "GALERA",
+      "row": 5,
+      "col": 7
+    },
+    "23": {
+      "clue": "Amansar um animal",
+      "answer": "DOMAR",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Bicho marsupial",
+      "answer": "COALA",
+      "row": 6,
+      "col": 10
+    },
+    "27": {
+      "clue": "(Pop.) Perturbação da ordem",
+      "answer": "ZONA",
+      "row": 7,
+      "col": 3
+    },
+    "30": {
+      "clue": "Despacho",
+      "answer": "EBO",
+      "row": 8,
+      "col": 1
+    },
+    "31": {
+      "clue": "Museu de Arte Popular",
+      "answer": "MAP",
+      "row": 8,
+      "col": 6
+    }
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "Damasco é a capital deste país",
+      "answer": "SIRIA",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "(Fig.) Ruir, decair completamente",
+      "answer": "FALIR",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "O nome da sexta letra do nosso alfabeto",
+      "answer": "EFE",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Haste da armação de guarda-chuvas",
+      "answer": "VARA",
+      "row": 1,
+      "col": 4
+    },
+    "12": {
+      "clue": "O sujeito de gasto ou poupo",
+      "answer": "EU",
+      "row": 1,
+      "col": 9
+    },
+    "13": {
+      "clue": "A arte de conduzir uma embarcação",
+      "answer": "NAUTICA",
+      "row": 2,
+      "col": 0
+    },
+    "15": {
+      "clue": "(Pop.) Mergulho em águas, para atividade física",
+      "answer": "NADADA",
+      "row": 3,
+      "col": 2
+    },
+    "17": {
+      "clue": "(Quím.) Cromo",
+      "answer": "CR",
+      "row": 3,
+      "col": 9
+    },
+    "18": {
+      "clue": "Que tudo cria ou produziu",
+      "answer": "ONIPARENTE",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Duro, indelicado",
+      "answer": "RUDE",
+      "row": 5,
+      "col": 0
+    },
+    "22": {
+      "clue": "A fábrica do Doblò e do Marea",
+      "answer": "FIAT",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "Debandada",
+      "answer": "CORRECORRE",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Hectare",
+      "answer": "HA",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Tarsila do Amaral em relação à \"Abaporu\"",
+      "answer": "AUTORA",
+      "row": 7,
+      "col": 3
+    },
+    "29": {
+      "clue": "Área coberta de plantas selvagens e daninhas",
+      "answer": "MATAGAL",
+      "row": 8,
+      "col": 4
+    },
+    "31": {
+      "clue": "A UF de Saquarema",
+      "answer": "RJ",
+      "row": 9,
+      "col": 0
+    },
+    "33": {
+      "clue": "Tronco de árvore serrado em cima e embaixo",
+      "answer": "TORA",
+      "row": 9,
+      "col": 3
+    },
+    "34": {
+      "clue": "Exclamação para demonstrar alegria",
+      "answer": "EBA",
+      "row": 9,
+      "col": 8
+    },
+    "35": {
+      "clue": "Ter o seu curso normal",
+      "answer": "ANDAR",
+      "row": 10,
+      "col": 0
+    },
+    "36": {
+      "clue": "Pôr a embarcação na rota desejada",
+      "answer": "RUMAR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "O mais velho (contrapõe-se a júnior)",
+      "answer": "SENIOR",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Insumo para vacinas",
+      "answer": "IFA",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Disposto de forma conjunta",
+      "answer": "REUNIDO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Ambiciosa",
+      "answer": "AVIDA",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Um que vive em convento",
+      "answer": "FRADE",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Arnaldo Antunes, poeta e músico, ex-\"Titãs\"",
+      "answer": "AA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Imposto sobre Exportação",
+      "answer": "IE",
+      "row": 0,
+      "col": 9
+    },
+    "8": {
+      "clue": "Desmoronar-se, desabar",
+      "answer": "RUIR",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Trazer como consequência",
+      "answer": "ACARRETAR",
+      "row": 1,
+      "col": 5
+    },
+    "14": {
+      "clue": "Morada humilde",
+      "answer": "TAPERA",
+      "row": 2,
+      "col": 3
+    },
+    "16": {
+      "clue": "Antigo vaso de cerâmica, usado para armazenar azeite, vinho, água etc.",
+      "answer": "ANFORA",
+      "row": 3,
+      "col": 7
+    },
+    "17": {
+      "clue": "Comer a refeição da noite",
+      "answer": "CEAR",
+      "row": 3,
+      "col": 9
+    },
+    "19": {
+      "clue": "Atrás do pescoço",
+      "answer": "NUCA",
+      "row": 4,
+      "col": 1
+    },
+    "20": {
+      "clue": "Número de exemplares de uma edição",
+      "answer": "TIRAGEM",
+      "row": 4,
+      "col": 8
+    },
+    "23": {
+      "clue": "Digitar",
+      "answer": "TECLAR",
+      "row": 5,
+      "col": 10
+    },
+    "25": {
+      "clue": "Boato vago",
+      "answer": "RUMOR",
+      "row": 6,
+      "col": 4
+    },
+    "26": {
+      "clue": "Determinar um preço",
+      "answer": "COTAR",
+      "row": 6,
+      "col": 6
+    },
+    "27": {
+      "clue": "Período para determinada atividade",
+      "answer": "HORA",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "O rebordo do chapéu",
+      "answer": "ABA",
+      "row": 8,
+      "col": 9
+    },
+    "32": {
+      "clue": "Jack Nicholson, ator de \"Um Estranho no Ninho\"",
+      "answer": "JN",
+      "row": 9,
+      "col": 1
+    },
+    "33": {
+      "clue": "O tântalo, em química",
+      "answer": "TA",
+      "row": 9,
+      "col": 3
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "Eliminação, supressão",
+      "answer": "CORTE",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Jogo entre duas equipes que disputam competição",
+      "answer": "FINAL",
+      "row": 0,
+      "col": 6
+    },
+    "11": {
+      "clue": "Aquela que propaga um produto num meio de comunicação",
+      "answer": "ANUNCIADORA",
+      "row": 1,
+      "col": 0
+    },
+    "13": {
+      "clue": "Opção em prova de múltipla escolha",
+      "answer": "NDA",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Um material de trabalho do goleiro",
+      "answer": "LUVA",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "Uma alternativa",
+      "answer": "OU",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Isto é",
+      "answer": "IE",
+      "row": 3,
+      "col": 0
+    },
+    "17": {
+      "clue": "(Fig.) Tirania, opressão",
+      "answer": "JUGO",
+      "row": 3,
+      "col": 3
+    },
+    "19": {
+      "clue": "Sujo de lodo",
+      "answer": "LAMOSO",
+      "row": 4,
+      "col": 0
+    },
+    "21": {
+      "clue": "Tolo, idiota",
+      "answer": "BOBO",
+      "row": 4,
+      "col": 7
+    },
+    "23": {
+      "clue": "Tirar a limpeza de",
+      "answer": "DESASSEAR",
+      "row": 5,
+      "col": 1
+    },
+    "25": {
+      "clue": "(Gír.) Desânimo, depressão",
+      "answer": "BODE",
+      "row": 6,
+      "col": 0
+    },
+    "26": {
+      "clue": "Ganhar dinheiro",
+      "answer": "LUCRAR",
+      "row": 6,
+      "col": 5
+    },
+    "28": {
+      "clue": "Prestígio",
+      "answer": "FAMA",
+      "row": 7,
+      "col": 4
+    },
+    "29": {
+      "clue": "Pedra de amolar",
+      "answer": "MO",
+      "row": 7,
+      "col": 9
+    },
+    "30": {
+      "clue": "Norma Bengell, atriz",
+      "answer": "NB",
+      "row": 8,
+      "col": 0
+    },
+    "32": {
+      "clue": "Interjeição que indica aplauso, felicitação",
+      "answer": "VIVA",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "(Mac) Um famoso sanduíche",
+      "answer": "BIG",
+      "row": 8,
+      "col": 8
+    },
+    "34": {
+      "clue": "Nome dado à região terrestre localizada entre os trópicos, de clima quente, úmido e chuvoso",
+      "answer": "ZONATORRIDA",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "Qualquer coisa mais que o usual",
+      "answer": "EXTRA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Colocar à vista ou à mostra",
+      "answer": "EXPOR",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Abrigo para cães",
+      "answer": "CANIL",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ondulado",
+      "answer": "ONDEADO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Em inglês é street",
+      "answer": "RUA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Torquato Neto, poeta (1944-1972)",
+      "answer": "TN",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Construção que torna navegável um curso de água em desnível",
+      "answer": "ECLUSA",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "O depósito de mel das abelhas",
+      "answer": "FAVO",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Metade da viagem",
+      "answer": "IDA",
+      "row": 0,
+      "col": 7
+    },
+    "8": {
+      "clue": "Laço difícil de se desfazer",
+      "answer": "NO",
+      "row": 0,
+      "col": 8
+    },
+    "9": {
+      "clue": "Círculo metálico que envolve uma roda de veículo",
+      "answer": "ARO",
+      "row": 0,
+      "col": 9
+    },
+    "10": {
+      "clue": "Parecer de perito",
+      "answer": "LAUDO",
+      "row": 0,
+      "col": 10
+    },
+    "12": {
+      "clue": "Nascido no antigo país europeu da atual região da Sérvia e Croácia, dentre outras",
+      "answer": "IUGOSLAVO",
+      "row": 1,
+      "col": 5
+    },
+    "17": {
+      "clue": "O escritor Saramago (1922-2010), Nobel de 1998",
+      "answer": "JOSE",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "(Pop.) Caçoar, gozar",
+      "answer": "ZOAR",
+      "row": 3,
+      "col": 8
+    },
+    "20": {
+      "clue": "Tensão diante um perigo, uma ameaça",
+      "answer": "MEDO",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "A veste que é emblema da advocacia",
+      "answer": "BECA",
+      "row": 4,
+      "col": 7
+    },
+    "22": {
+      "clue": "Grito muito forte",
+      "answer": "BRAMIDO",
+      "row": 4,
+      "col": 9
+    },
+    "24": {
+      "clue": "Cidade industrial paulista, próxima a Campinas",
+      "answer": "SUMARE",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Algazarra, desordem",
+      "answer": "BANZE",
+      "row": 6,
+      "col": 0
+    },
+    "27": {
+      "clue": "Implorar a alguém",
+      "answer": "ROGAR",
+      "row": 6,
+      "col": 10
+    },
+    "28": {
+      "clue": "Tira de tecido, comprida e estreita",
+      "answer": "FITA",
+      "row": 7,
+      "col": 4
+    },
+    "31": {
+      "clue": "(Ingl.) O compartimento do chuveiro",
+      "answer": "BOX",
+      "row": 8,
+      "col": 1
+    },
+    "32": {
+      "clue": "(Fut.) Árbitro de vídeo",
+      "answer": "VAR",
+      "row": 8,
+      "col": 3
+    },
+    "33": {
+      "clue": "Sinal acústico ou eletrônico",
+      "answer": "BIP",
+      "row": 8,
+      "col": 8
+    },
+    "35": {
+      "clue": "Nota do Tradutor",
+      "answer": "NT",
+      "row": 9,
+      "col": 2
+    },
+    "36": {
+      "clue": "Abreviatura de um exame médicos de imagem",
+      "answer": "RX",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

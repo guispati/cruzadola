@@ -1,0 +1,252 @@
+{
+  "across": {
+    "1": {
+      "clue": "O Raul (1963-1895) escritor de \"O Ateneu\"",
+      "answer": "POMPEIA",
+      "row": 0,
+      "col": 0
+    },
+    "7": {
+      "clue": "Sistema Brasileiro de Televisão",
+      "answer": "SBT",
+      "row": 0,
+      "col": 8
+    },
+    "10": {
+      "clue": "Que se alimenta de peixes",
+      "answer": "PISCIVORO",
+      "row": 1,
+      "col": 2
+    },
+    "12": {
+      "clue": "Glândulas mamárias",
+      "answer": "TETAS",
+      "row": 2,
+      "col": 0
+    },
+    "14": {
+      "clue": "Fazer ficar sem a casca",
+      "answer": "PELAR",
+      "row": 2,
+      "col": 6
+    },
+    "15": {
+      "clue": "Um famoso filme de animação (2009)",
+      "answer": "UP",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Reaparecimento de uma doença aparentemente já curada",
+      "answer": "RECIDIVA",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "A tendência de quem ouviu uma piada",
+      "answer": "RIR",
+      "row": 4,
+      "col": 0
+    },
+    "20": {
+      "clue": "Acrescentada a um total",
+      "answer": "SOMADA",
+      "row": 4,
+      "col": 4
+    },
+    "21": {
+      "clue": "Mercadoria",
+      "answer": "ITEM",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "Não curva",
+      "answer": "RETA",
+      "row": 5,
+      "col": 7
+    },
+    "25": {
+      "clue": "Famoso personagem das \"Mil e uma Noites\"",
+      "answer": "ALADIM",
+      "row": 6,
+      "col": 1
+    },
+    "28": {
+      "clue": "Uma seita budista",
+      "answer": "ZEN",
+      "row": 6,
+      "col": 8
+    },
+    "29": {
+      "clue": "Torturar, atormentar, afligir",
+      "answer": "FLAGELAR",
+      "row": 7,
+      "col": 0
+    },
+    "31": {
+      "clue": "O A das cartas",
+      "answer": "AS",
+      "row": 7,
+      "col": 9
+    },
+    "32": {
+      "clue": "Galhos",
+      "answer": "RAMOS",
+      "row": 8,
+      "col": 0
+    },
+    "33": {
+      "clue": "Grande estrutura para antenas",
+      "answer": "TORRE",
+      "row": 8,
+      "col": 6
+    },
+    "35": {
+      "clue": "Diz-se do cabelo colado, úmido",
+      "answer": "EMPASTADO",
+      "row": 9,
+      "col": 0
+    },
+    "37": {
+      "clue": "(Sea-) Marca de jet ski",
+      "answer": "DOO",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "Impulso irresistível",
+      "answer": "ARROUBO",
+      "row": 10,
+      "col": 4
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Híbrido de pato com marreca",
+      "answer": "PATURI",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Ministério Público do Trabalho",
+      "answer": "MPT",
+      "row": 0,
+      "col": 2
+    },
+    "3": {
+      "clue": "Soltar a voz (ave)",
+      "answer": "PIAR",
+      "row": 0,
+      "col": 3
+    },
+    "4": {
+      "clue": "São dois na Abissínia",
+      "answer": "ESSES",
+      "row": 0,
+      "col": 4
+    },
+    "5": {
+      "clue": "Instituto de Criminologia",
+      "answer": "IC",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Mandioca-doce",
+      "answer": "AIPIM",
+      "row": 0,
+      "col": 6
+    },
+    "7": {
+      "clue": "Consistência de instalação ou de estrutura",
+      "answer": "SOLIDEZ",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Dizer com insolência ou arrogância",
+      "answer": "BRAVATEAR",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Tronco de árvore serrado",
+      "answer": "TORA",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Impedir",
+      "answer": "VEDAR",
+      "row": 1,
+      "col": 7
+    },
+    "13": {
+      "clue": "(Anat.) Região dorsal do diencéfalo",
+      "answer": "EPITALAMO",
+      "row": 2,
+      "col": 1
+    },
+    "17": {
+      "clue": "Toca",
+      "answer": "COVIL",
+      "row": 3,
+      "col": 5
+    },
+    "19": {
+      "clue": "(Pop.) O clarão do raio",
+      "answer": "RELAMPO",
+      "row": 4,
+      "col": 2
+    },
+    "22": {
+      "clue": "Tristeza",
+      "answer": "MAGOA",
+      "row": 5,
+      "col": 3
+    },
+    "24": {
+      "clue": "Ambição",
+      "answer": "ANSEIO",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "De + essa",
+      "answer": "DESSA",
+      "row": 6,
+      "col": 4
+    },
+    "27": {
+      "clue": "No futebol, amortecer o impacto da bola",
+      "answer": "MATAR",
+      "row": 6,
+      "col": 6
+    },
+    "29": {
+      "clue": "O Bruno youtuber e apresentador de TV",
+      "answer": "FRED",
+      "row": 7,
+      "col": 0
+    },
+    "30": {
+      "clue": "Peça usada para puxar água",
+      "answer": "RODO",
+      "row": 7,
+      "col": 7
+    },
+    "34": {
+      "clue": "República Oriental do Uruguai",
+      "answer": "ROU",
+      "row": 8,
+      "col": 8
+    },
+    "36": {
+      "clue": "Tribunal Regional",
+      "answer": "TR",
+      "row": 9,
+      "col": 5
+    }
+  }
+}

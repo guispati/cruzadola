@@ -1,0 +1,282 @@
+{
+  "across": {
+    "1": {
+      "clue": "O inglês John Boyd (1840-1921), inventor do primeiro pneu",
+      "answer": "DUNLOP",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Mulher de família nobre",
+      "answer": "DAMA",
+      "row": 0,
+      "col": 7
+    },
+    "9": {
+      "clue": "A formação natural que é fundamental no surfe",
+      "answer": "ONDA",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "O oposto de antes",
+      "answer": "APOS",
+      "row": 1,
+      "col": 5
+    },
+    "12": {
+      "clue": "Índio jovem",
+      "answer": "PIA",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "João, na Espanha",
+      "answer": "JUAN",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "V",
+      "answer": "VE",
+      "row": 2,
+      "col": 9
+    },
+    "15": {
+      "clue": "O espaço livre em direção ao céu",
+      "answer": "AR",
+      "row": 3,
+      "col": 0
+    },
+    "16": {
+      "clue": "Provido de pelos da orla das pálpebras",
+      "answer": "CILIADO",
+      "row": 3,
+      "col": 3
+    },
+    "18": {
+      "clue": "(Inf.) Xixi",
+      "answer": "PIPI",
+      "row": 4,
+      "col": 2
+    },
+    "19": {
+      "clue": "Uma guloseima que serve de troco",
+      "answer": "BALA",
+      "row": 4,
+      "col": 7
+    },
+    "21": {
+      "clue": "Que fica vermelho",
+      "answer": "ERUBESCENTE",
+      "row": 5,
+      "col": 0
+    },
+    "24": {
+      "clue": "O das Lamentações é um local sagrado do judaísmo",
+      "answer": "MURO",
+      "row": 6,
+      "col": 0
+    },
+    "25": {
+      "clue": "Pecíolo",
+      "answer": "TALO",
+      "row": 6,
+      "col": 5
+    },
+    "26": {
+      "clue": "Graduada",
+      "answer": "FORMADA",
+      "row": 7,
+      "col": 1
+    },
+    "28": {
+      "clue": "Sem companhia",
+      "answer": "SO",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "(Esp., abrev.:) Walkover, vitória de um concorrente cujo oponente desistiu da disputa",
+      "answer": "WO",
+      "row": 8,
+      "col": 0
+    },
+    "30": {
+      "clue": "O nome dos atores Hackman, Kelly e Wilder",
+      "answer": "GENE",
+      "row": 8,
+      "col": 3
+    },
+    "31": {
+      "clue": "(Red.) O mês 2",
+      "answer": "FEV",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "O do gato é um recurso que permite escapar de uma situação difícil",
+      "answer": "PULO",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Chilique, fricote",
+      "answer": "PITI",
+      "row": 9,
+      "col": 7
+    },
+    "34": {
+      "clue": "O esporte de Rocky Marciano, Joe Louis e Muhammad Ali",
+      "answer": "BOXE",
+      "row": 10,
+      "col": 0
+    },
+    "35": {
+      "clue": "Fina e agradável ao tato",
+      "answer": "SEDOSA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Ato de fazer ingerir substância excitante a (atleta)",
+      "answer": "DOPAGEM",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "Conciliar",
+      "answer": "UNIR",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Nenhuma das Alternativas",
+      "answer": "NDA",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "(Mús.) O A dos músicos",
+      "answer": "LA",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Os habitantes da maior cidade do Brasil",
+      "answer": "PAULISTANOS",
+      "row": 0,
+      "col": 5
+    },
+    "6": {
+      "clue": "Uma personagem da \"Escolinha do Professor Raimundo\"",
+      "answer": "DONABELA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "A carta A",
+      "answer": "AS",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Um animal como o tié ou o saí",
+      "answer": "AVE",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "A primeira pessoa da Santíssima Trindade",
+      "answer": "PAI",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Carro para caminhos muito acidentados",
+      "answer": "JIPE",
+      "row": 2,
+      "col": 4
+    },
+    "14": {
+      "clue": "Unidade de medida elétrica",
+      "answer": "VOLT",
+      "row": 2,
+      "col": 9
+    },
+    "16": {
+      "clue": "Meio homem, meio máquina",
+      "answer": "CIBORGUE",
+      "row": 3,
+      "col": 3
+    },
+    "17": {
+      "clue": "Prejuízo moral ou material",
+      "answer": "DANO",
+      "row": 3,
+      "col": 8
+    },
+    "18": {
+      "clue": "Não infectado ou poluído",
+      "answer": "PURO",
+      "row": 4,
+      "col": 2
+    },
+    "20": {
+      "clue": "Rota regular de aviões comerciais",
+      "answer": "AEROVIA",
+      "row": 4,
+      "col": 10
+    },
+    "22": {
+      "clue": "Espécie de lima com serrilha ou picado grosso",
+      "answer": "RUFO",
+      "row": 5,
+      "col": 1
+    },
+    "23": {
+      "clue": "(Pop.) Quede?",
+      "answer": "CADE",
+      "row": 5,
+      "col": 6
+    },
+    "27": {
+      "clue": "O Gibson ator australiano",
+      "answer": "MEL",
+      "row": 7,
+      "col": 4
+    },
+    "28": {
+      "clue": "(Esp.) Subdivisões de um jogo de tênis",
+      "answer": "SETS",
+      "row": 7,
+      "col": 9
+    },
+    "29": {
+      "clue": "Internet",
+      "answer": "WEB",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "O de prumo determina a verticalidade de uma parede",
+      "answer": "FIO",
+      "row": 8,
+      "col": 8
+    },
+    "32": {
+      "clue": "Uma frequência do radioamador",
+      "answer": "PX",
+      "row": 9,
+      "col": 2
+    },
+    "33": {
+      "clue": "Paloma Duarte, atriz",
+      "answer": "PD",
+      "row": 9,
+      "col": 7
+    }
+  }
+}

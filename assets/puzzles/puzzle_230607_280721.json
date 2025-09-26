@@ -1,0 +1,270 @@
+{
+  "across": {
+    "1": {
+      "clue": "Ministro do culto",
+      "answer": "PADRE",
+      "row": 0,
+      "col": 0
+    },
+    "5": {
+      "clue": "Veículo de transmissão, como o mosquito da dengue",
+      "answer": "VETOR",
+      "row": 0,
+      "col": 6
+    },
+    "9": {
+      "clue": "Em que",
+      "answer": "ONDE",
+      "row": 1,
+      "col": 0
+    },
+    "10": {
+      "clue": "Terra molhada e pastosa",
+      "answer": "LAMA",
+      "row": 1,
+      "col": 5
+    },
+    "11": {
+      "clue": "Steve Jobs (1955-2011), criador da Apple",
+      "answer": "SJ",
+      "row": 2,
+      "col": 0
+    },
+    "12": {
+      "clue": "Quase nada",
+      "answer": "TRIZ",
+      "row": 2,
+      "col": 3
+    },
+    "14": {
+      "clue": "O som que imita uma batida à porta",
+      "answer": "TOC",
+      "row": 2,
+      "col": 8
+    },
+    "16": {
+      "clue": "Parceiros de negócios",
+      "answer": "SOCIOS",
+      "row": 3,
+      "col": 0
+    },
+    "18": {
+      "clue": "A nação com a Baía dos Porcos",
+      "answer": "CUBA",
+      "row": 3,
+      "col": 7
+    },
+    "19": {
+      "clue": "Esfregar com água e um detergente que faz bolhas",
+      "answer": "ENSABOAR",
+      "row": 4,
+      "col": 2
+    },
+    "21": {
+      "clue": "(Banana) Uma sobremesa de sorvete e fruta",
+      "answer": "SPLIT",
+      "row": 5,
+      "col": 0
+    },
+    "23": {
+      "clue": "As elevações que os surfistas descem",
+      "answer": "ONDAS",
+      "row": 5,
+      "col": 6
+    },
+    "25": {
+      "clue": "Máquina que se movimenta sozinha",
+      "answer": "AUTOMATO",
+      "row": 6,
+      "col": 1
+    },
+    "27": {
+      "clue": "Qualquer fatia fina de carne",
+      "answer": "FILE",
+      "row": 7,
+      "col": 0
+    },
+    "28": {
+      "clue": "Operação realizada com tratores",
+      "answer": "ATERRO",
+      "row": 7,
+      "col": 5
+    },
+    "30": {
+      "clue": "A carta marcada com um senhor coroado",
+      "answer": "REI",
+      "row": 8,
+      "col": 0
+    },
+    "31": {
+      "clue": "Cobertura que reveste a roda da moto",
+      "answer": "PNEU",
+      "row": 8,
+      "col": 4
+    },
+    "32": {
+      "clue": "Ulysses Guimarães (1916-1992), político",
+      "answer": "UG",
+      "row": 8,
+      "col": 9
+    },
+    "33": {
+      "clue": "(Elétrico) Carro de carnaval",
+      "answer": "TRIO",
+      "row": 9,
+      "col": 2
+    },
+    "35": {
+      "clue": "O Maravilha artilheiro do futebol brasileiro",
+      "answer": "DADA",
+      "row": 9,
+      "col": 7
+    },
+    "37": {
+      "clue": "Microrganismo que é parasita intestinal",
+      "answer": "AMEBA",
+      "row": 10,
+      "col": 0
+    },
+    "38": {
+      "clue": "O pó de fecundação de certas plantas",
+      "answer": "POLEN",
+      "row": 10,
+      "col": 6
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Meios de vida",
+      "answer": "POSSES",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "(Fig.) Criança quieta, tranquila",
+      "answer": "ANJO",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "Dolores Duran (1930-1959), cantora carioca",
+      "answer": "DD",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Inflamação de uma membrana do olho",
+      "answer": "RETINITE",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Um sobrenome do escritor Camões",
+      "answer": "VAZ",
+      "row": 0,
+      "col": 6
+    },
+    "6": {
+      "clue": "Em mãos",
+      "answer": "EM",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Aquele que pinta profissionalmente desenhos no corpo de alguém",
+      "answer": "TATUADOR",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "(Vila) Antigo nome de Ouro Preto, cidade histórica mineira",
+      "answer": "RICA",
+      "row": 0,
+      "col": 10
+    },
+    "10": {
+      "clue": "Diz-se de superfície sem saliências",
+      "answer": "LISA",
+      "row": 1,
+      "col": 5
+    },
+    "13": {
+      "clue": "Face",
+      "answer": "ROSTO",
+      "row": 2,
+      "col": 4
+    },
+    "15": {
+      "clue": "O resultado de um trabalho literário",
+      "answer": "OBRA",
+      "row": 2,
+      "col": 9
+    },
+    "17": {
+      "clue": "(Med.) Inflamação do tecido celular logo abaixo da pele",
+      "answer": "CELULITE",
+      "row": 3,
+      "col": 2
+    },
+    "18": {
+      "clue": "Aquilo que está encerrado em algum recipiente",
+      "answer": "CONTEUDO",
+      "row": 3,
+      "col": 7
+    },
+    "20": {
+      "clue": "Casa noturna de diversões",
+      "answer": "BOATE",
+      "row": 4,
+      "col": 6
+    },
+    "22": {
+      "clue": "Uma forma da criança chamar seu genitor",
+      "answer": "PAIE",
+      "row": 5,
+      "col": 1
+    },
+    "24": {
+      "clue": "Frase adotada como lema",
+      "answer": "SLOGAN",
+      "row": 5,
+      "col": 10
+    },
+    "26": {
+      "clue": "(Pop.) Amigo muito íntimo, camarada",
+      "answer": "MANO",
+      "row": 6,
+      "col": 5
+    },
+    "27": {
+      "clue": "O contrário de quente (fem.)",
+      "answer": "FRIA",
+      "row": 7,
+      "col": 0
+    },
+    "29": {
+      "clue": "Duro e indelicado no caráter e nos modos",
+      "answer": "RUDE",
+      "row": 7,
+      "col": 9
+    },
+    "31": {
+      "clue": "Local próprio para se lavar as mãos",
+      "answer": "PIA",
+      "row": 8,
+      "col": 4
+    },
+    "34": {
+      "clue": "Renato Borghetti, músico gaúcho",
+      "answer": "RB",
+      "row": 9,
+      "col": 3
+    },
+    "36": {
+      "clue": "(Quím.) O alumínio, material das latinhas de cerveja",
+      "answer": "AL",
+      "row": 9,
+      "col": 8
+    }
+  }
+}

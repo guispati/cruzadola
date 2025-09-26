@@ -1,0 +1,258 @@
+{
+  "across": {
+    "1": {
+      "clue": "O que tem duas esposas",
+      "answer": "BIGAMO",
+      "row": 0,
+      "col": 0
+    },
+    "6": {
+      "clue": "Violeta, crisântemo ou onze-horas",
+      "answer": "FLOR",
+      "row": 0,
+      "col": 7
+    },
+    "10": {
+      "clue": "Sem brilho",
+      "answer": "OPACO",
+      "row": 1,
+      "col": 0
+    },
+    "11": {
+      "clue": "Grande fabricante de carros elétricos",
+      "answer": "TESLA",
+      "row": 1,
+      "col": 6
+    },
+    "12": {
+      "clue": "Peça que dirige barcos",
+      "answer": "LEME",
+      "row": 2,
+      "col": 0
+    },
+    "13": {
+      "clue": "Canteiro com gerânios e rosas",
+      "answer": "JARDIM",
+      "row": 2,
+      "col": 5
+    },
+    "14": {
+      "clue": "Uma variação do beliche",
+      "answer": "BICAMA",
+      "row": 3,
+      "col": 2
+    },
+    "16": {
+      "clue": "Símbolo do volt-ampère",
+      "answer": "VA",
+      "row": 3,
+      "col": 9
+    },
+    "17": {
+      "clue": "(Pop.) Selinho",
+      "answer": "BITOCA",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "Transferência Eletrônica Disponível",
+      "answer": "TED",
+      "row": 4,
+      "col": 8
+    },
+    "19": {
+      "clue": "(Pop.) Cada um daqueles (quando são poucos) que comparecem a um espetáculo",
+      "answer": "GATOPINGADO",
+      "row": 5,
+      "col": 0
+    },
+    "21": {
+      "clue": "Pequeno círculo de metal",
+      "answer": "ARO",
+      "row": 6,
+      "col": 0
+    },
+    "22": {
+      "clue": "Que tem queixo curto",
+      "answer": "INHATO",
+      "row": 6,
+      "col": 4
+    },
+    "23": {
+      "clue": "O radônio, para os químicos",
+      "answer": "RN",
+      "row": 7,
+      "col": 0
+    },
+    "24": {
+      "clue": "Trabalho de tapeçaria feito com botões costurados no estofado",
+      "answer": "BOTONE",
+      "row": 7,
+      "col": 3
+    },
+    "26": {
+      "clue": "(Tavares) Rodovia paulista, liga a capital ao interior do estado",
+      "answer": "RAPOSO",
+      "row": 8,
+      "col": 0
+    },
+    "28": {
+      "clue": "Um pet",
+      "answer": "GATO",
+      "row": 8,
+      "col": 7
+    },
+    "30": {
+      "clue": "Morte de uma pessoa",
+      "answer": "OBITO",
+      "row": 9,
+      "col": 0
+    },
+    "31": {
+      "clue": "Ministrar tranquilizantes",
+      "answer": "SEDAR",
+      "row": 9,
+      "col": 6
+    },
+    "32": {
+      "clue": "Dezoito menos onze",
+      "answer": "SETE",
+      "row": 10,
+      "col": 0
+    },
+    "33": {
+      "clue": "Ação de pôr ovos (especialmente os peixes)",
+      "answer": "DESOVA",
+      "row": 10,
+      "col": 5
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "(Pop.) Aglomeração confusa de pessoas",
+      "answer": "BOLO",
+      "row": 0,
+      "col": 0
+    },
+    "2": {
+      "clue": "A árvore cujo tronco inspirou uma obra de José de Alencar",
+      "answer": "IPE",
+      "row": 0,
+      "col": 1
+    },
+    "3": {
+      "clue": "(Pop.) Perna fina,de homem ou mulher",
+      "answer": "GAMBITO",
+      "row": 0,
+      "col": 2
+    },
+    "4": {
+      "clue": "Bem recebido",
+      "answer": "ACEITO",
+      "row": 0,
+      "col": 3
+    },
+    "5": {
+      "clue": "Molibdênio",
+      "answer": "MO",
+      "row": 0,
+      "col": 4
+    },
+    "6": {
+      "clue": "(Pop.) Indivíduo exímio no que faz",
+      "answer": "FERA",
+      "row": 0,
+      "col": 7
+    },
+    "7": {
+      "clue": "Uma droga alucinógena",
+      "answer": "LSD",
+      "row": 0,
+      "col": 8
+    },
+    "8": {
+      "clue": "Plantação de azeitonas",
+      "answer": "OLIVEDO",
+      "row": 0,
+      "col": 9
+    },
+    "9": {
+      "clue": "Frondoso",
+      "answer": "RAMADO",
+      "row": 0,
+      "col": 10
+    },
+    "11": {
+      "clue": "Dimensão física",
+      "answer": "TAMANHO",
+      "row": 1,
+      "col": 6
+    },
+    "13": {
+      "clue": "Planta cultivada pelas suas flores",
+      "answer": "JACINTO",
+      "row": 2,
+      "col": 5
+    },
+    "15": {
+      "clue": "Farto, numeroso",
+      "answer": "COPIOSO",
+      "row": 3,
+      "col": 4
+    },
+    "17": {
+      "clue": "(Tio) Personagem do \"Sítio do Picapau Amarelo\"",
+      "answer": "BARNABE",
+      "row": 4,
+      "col": 1
+    },
+    "18": {
+      "clue": "(Fig.) Sondado com cautela",
+      "answer": "TATEADO",
+      "row": 4,
+      "col": 8
+    },
+    "19": {
+      "clue": "(Roland) Grande torneio de tênis francês",
+      "answer": "GARROS",
+      "row": 5,
+      "col": 0
+    },
+    "20": {
+      "clue": "Rio indiano",
+      "answer": "GANGES",
+      "row": 5,
+      "col": 7
+    },
+    "24": {
+      "clue": "Barquinho de rio, de recreio ou auxiliar",
+      "answer": "BOTE",
+      "row": 7,
+      "col": 3
+    },
+    "25": {
+      "clue": "Atraso",
+      "answer": "MORA",
+      "row": 7,
+      "col": 10
+    },
+    "27": {
+      "clue": "(Bull) Um cão",
+      "answer": "PIT",
+      "row": 8,
+      "col": 2
+    },
+    "29": {
+      "clue": "Trem de Alta Velocidade",
+      "answer": "TAV",
+      "row": 8,
+      "col": 9
+    },
+    "31": {
+      "clue": "Sigla do Sergipe",
+      "answer": "SE",
+      "row": 9,
+      "col": 6
+    }
+  }
+}
